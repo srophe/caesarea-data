@@ -1,2 +1,3 @@
 # caesarea-data
-Data repository for Caesarea-Maritima.org
+Repository for Caesarea-Maritima.org TEI data. 
+
