@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="en" level="a">Flavius Josephus. <title>Antiquities of the Jews</title>, 15.331-15.341</title>
+        <title level="m" xml:lang="en">Caesarea Maritima: Literary and Documentary Testimonia</title>
+        <sponsor>Vanderbilt University</sponsor>
+        <principal>Joseph Rife</principal>
+        <editor role="general" ref="http://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph Rife</editor>
+        <editor role="general" ref="http://caesarea-maritima.org/documentation/editors.xml#packerman-lieberman">Phillip
+        Ackerman-Lieberman</editor>
+        <editor role="technical" ref="http://caesarea-maritima.org/documentation/editors.xml#dmichelson">David A.
+        Michelson</editor>
+        <editor role="technical" ref="http://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</editor>
+        <editor role="creator" ref="http://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph Rife</editor>
+        <editor role="creator" ref="http://caesarea-maritima.org/documentation/editors.xml#bgardner">Bianca Gardner</editor>
+        <respStmt>
+          <resp>TEI encoding by</resp>
+          <name ref="http://caesarea-maritima.org/documentation/editors.xml#wpotter">William L.
+          Potter</name>
+        </respStmt>
+        <respStmt>
+          <resp>Electronic text added by</resp>
+          <name ref="http://caesarea-maritima.org/documentation/editors.xml#bgardner">Bianca
+          Gardner</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonia identified by</resp>
+          <name ref="http://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph Rife</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="1.0"/>
+      </editionStmt>
+      <publicationStmt>
+        <authority>Ceasarea City and Port Exploration Project</authority>
+        <idno type="URI">https://caesarea-maritima.org/testimonia/4/tei</idno>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/">
+            <p>Distributed under a Creative Commons Attribution 4.0 Unported License.</p>
+          </licence>
+        </availability>
+        <date>2020-02-27-06:00</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Born digital.</p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Authors of testimonia are identified with URIs from The Virtual International Authority File, see<ref target="http://viaf.org/">http://viaf.org/</ref>. When multiple VIAF URIs exist, preference has been given to VIAF record linked to the Library of Congress authority file.</p>
+        <p>Geographic locations are identified with URIs from Pleiades: A Gazetteer of Past Places, see<ref target="https://pleiades.stoa.org/docs">https://pleiades.stoa.org/docs</ref>.</p>
+        <p>When possible., textual works have been cited using URNs according to the Distributed Text Services (DTS) system, see<ref target="https://distributed-text-services.github.io/specifications/">https://distributed-text-services.github.io/specifications/</ref>). Additional identifiers have been adopted from the systems used by the Perseus Digital Library (<ref target="http://www.perseus.tufts.edu/hopper/">http://www.perseus.tufts.edu/</ref>), Syriaca.org (<ref target="http://syriaca.org">http://syriaca.org</ref>), and other relevant authority systems such as WorldCat Identities or OCLC numbers (<ref target="https://www.worldcat.org/">https://www.worldcat.org/</ref>).</p>
+        <p>Bibliographic items are identified by a caesarea-maritima.org URI, which is linked, when possible to OCLC numbers and other identifiers.</p>
+        <p>Dates have been encoded following the ISO 8601 standard,<ref target="https://www.iso.org/iso-8601-date-and-time-format.html">https://www.iso.org/iso-8601-date-and-time-format.html</ref>, and the best practices established by for the Srophé App, see<ref target="http://srophe.app">http://srophe.app</ref>.</p>
+        <p>Languages have been encoded using ISO 639-1, 639-2, and 639-3 codes, following best practices of the TEI guidelines.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy xml:id="NEAEH-CM">
+          <bibl>
+            <title>The New Encyclopedia of Archaeological Excavations in the Holy Land</title>,<note>adapted for use in the Caesarea-Maritima.org database by the editors.</note>
+            <ptr target="https://caesarea-maritima.org/bibl/HG492LV3"/>
+          </bibl>
+          <category xml:id="lowerPaleolithic">
+            <catDesc>Lower Paleolithic, 999999-119999 BCE</catDesc>
+          </category>
+          <category xml:id="upperAcheulean">
+            <catDesc>Upper Acheulean, 498050-148050 BP</catDesc>
+          </category>
+          <category xml:id="acheulean">
+            <catDesc>Acheulean, 298050-148050 BP</catDesc>
+          </category>
+          <category xml:id="mousterian">
+            <catDesc>Mousterian, 138050-38050 BP</catDesc>
+          </category>
+          <category xml:id="middlePaleolithic">
+            <catDesc>Middle Paleolithic, 119999-44999 BCE</catDesc>
+          </category>
+          <category xml:id="upperPaleolithic">
+            <catDesc>Upper Paleolithic, 44999-17999 BCE</catDesc>
+          </category>
+          <category xml:id="kebaran">
+            <catDesc>Kebaran , 18050-13050 BP</catDesc>
+          </category>
+          <category xml:id="epipaleolithic">
+            <catDesc>Epipaleolithic, 17999-8299 BCE</catDesc>
+          </category>
+          <category xml:id="geometricKebaran">
+            <catDesc>Geometric Kebaran, 12499-10899 BCE</catDesc>
+          </category>
+          <category xml:id="natufianCulture">
+            <catDesc>Natufian Culture, 10799-8499 BCE</catDesc>
+          </category>
+          <category xml:id="pre-potteryNeolithic">
+            <catDesc>Pre-Pottery Neolithic, 8299-5499 BCE</catDesc>
+          </category>
+          <category xml:id="potteryNeolithic">
+            <catDesc>Pottery Neolithic, 5499-4499 BCE</catDesc>
+          </category>
+          <category xml:id="chalcolithic">
+            <catDesc>Chalcolithic, 4499-3299 BCE</catDesc>
+          </category>
+          <category xml:id="earlyBronzeAge">
+            <catDesc>Early Bronze Age , 3299-2199 BCE</catDesc>
+          </category>
+          <category xml:id="bronzeAge">
+            <catDesc>Bronze Age, 3299-1199 BCE</catDesc>
+          </category>
+          <category xml:id="earlyBronzeAgeIa-b">
+            <catDesc>Early Bronze Age IA-B, 3299-2999 BCE</catDesc>
+          </category>
+          <category xml:id="earlyBronzeAgeIi">
+            <catDesc>Early Bronze Age II, 2999-2699 BCE</catDesc>
+          </category>
+          <category xml:id="earlyBronzeAgeIii">
+            <catDesc>Early Bronze Age III, 2699-2199 BCE</catDesc>
+          </category>
+          <category xml:id="middleBronzeAge">
+            <catDesc>Middle Bronze Age, 2199-1549 BCE</catDesc>
+          </category>
+          <category xml:id="middleBronzeAgeI">
+            <catDesc>Middle Bronze Age I, 2199-1999 BCE</catDesc>
+          </category>
+          <category xml:id="middleBronzeAgeIia">
+            <catDesc>Middle Bronze Age IIA, 1999-1749 BCE</catDesc>
+          </category>
+          <category xml:id="middleBronzeAgeIib">
+            <catDesc>Middle Bronze Age IIB, 1749-1549 BCE</catDesc>
+          </category>
+          <category xml:id="lateBronzeAge">
+            <catDesc>Late Bronze Age, 1599-1200 BCE</catDesc>
+          </category>
+          <category xml:id="lateBronzeAgeI">
+            <catDesc>Late Bronze Age I, 1549-1399 BCE</catDesc>
+          </category>
+          <category xml:id="lateBronzeAgeIia">
+            <catDesc>Late Bronze Age IIA, 1399-1299 BCE</catDesc>
+          </category>
+          <category xml:id="lateBronzeAgeIib">
+            <catDesc>Late Bronze Age IIB, 1299-1199 BCE</catDesc>
+          </category>
+          <category xml:id="ironAge">
+            <catDesc>Iron Age, 1199-585 BCE</catDesc>
+          </category>
+          <category xml:id="ironAgeIa">
+            <catDesc>Iron Age IA, 1199-1149 BCE</catDesc>
+          </category>
+          <category xml:id="ironAgeIb">
+            <catDesc>Iron Age IB, 1149-999 BCE</catDesc>
+          </category>
+          <category xml:id="ironAgeIia">
+            <catDesc>Iron Age IIA, 999-899 BCE</catDesc>
+          </category>
+          <category xml:id="ironAgeIib">
+            <catDesc>Iron Age IIB, 899-699 BCE</catDesc>
+          </category>
+          <category xml:id="ironIic">
+            <catDesc>Iron IIC, 799-731 BCE</catDesc>
+          </category>
+          <category xml:id="ironAgeIic">
+            <catDesc>Iron Age IIC, 699-585 BCE</catDesc>
+          </category>
+          <category xml:id="babylonianAndPersian">
+            <catDesc>Babylonian and Persian Periods, 585-331 BCE</catDesc>
+          </category>
+          <category xml:id="earlyHellenistic">
+            <catDesc>Early Hellenistic Period, 331-166 BCE</catDesc>
+          </category>
+          <category xml:id="hellenistic">
+            <catDesc>Hellenistic Period, 331-36 BCE</catDesc>
+          </category>
+          <category xml:id="earlyNabatean">
+            <catDesc>Early Nabatean Period, 331-36 BCE</catDesc>
+          </category>
+          <category xml:id="nabateanKingdom">
+            <catDesc>Nabatean Kingdom, 167 BCE-106 CE</catDesc>
+          </category>
+          <category xml:id="lateHellenistic">
+            <catDesc>Late Hellenistic Period, 166-36 BCE</catDesc>
+          </category>
+          <category xml:id="earlyRoman">
+            <catDesc>Early Roman Period, 36 BCE-132 CE</catDesc>
+          </category>
+          <category xml:id="herodian">
+            <catDesc>Herodian Period, 36 BCE-70 CE</catDesc>
+          </category>
+          <category xml:id="middleNabatean">
+            <catDesc>Middle Nabatean Period, 24 BCE-50 CE</catDesc>
+          </category>
+          <category xml:id="lateRoman">
+            <catDesc>Late Roman Period, 132-324 CE</catDesc>
+          </category>
+          <category xml:id="byzantine">
+            <catDesc>Byzantine Period, 324-638 CE</catDesc>
+          </category>
+          <category xml:id="earlyIslamic">
+            <catDesc>Early Islamic Period, 638-1099 CE</catDesc>
+          </category>
+          <category xml:id="crusader">
+            <catDesc>Crusader Period, 1099-1291 CE</catDesc>
+          </category>
+          <category xml:id="lateIslamic">
+            <catDesc>Late Islamic Period, 1291-1516 CE</catDesc>
+          </category>
+          <category xml:id="ottoman">
+            <catDesc>Ottoman Period, 1516-1917 CE</catDesc>
+          </category>
+          <category xml:id="britishMilitaryAdministration">
+            <catDesc>British Military Administration Period, 1970-1920 CE</catDesc>
+          </category>
+          <category xml:id="britishMandate">
+            <catDesc>British Mandate Period, 1920-1948 CE</catDesc>
+          </category>
+          <category xml:id="modernState">
+            <catDesc>Modern State, 1948- CE</catDesc>
+          </category>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <abstract>
+        <p/>
+      </abstract>
+      <creation>This entry is taken from <title type="uniform">Antiquities of the Jews</title> written by <persName ref="http://viaf.org/viaf/22143666" role="author">Flavius Josephus</persName> in <origDate notBefore="0093" notAfter="0094">
+          <date>93 – 94 CE</date>
+        </origDate>. This work was likely written in
+               <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</creation>
+      <langUsage>
+        <language ident="grc">Ancient Greek</language>
+      </langUsage>
+      <textClass>
+        <classCode scheme="https://distributed-text-services.github.io/specifications/">
+          <idno xml:base="http://data.perseus.org/citations/" type="URN">urn:cts:greekLit:tlg0526.tlg001:15.331-15.341</idno>
+        </classCode>
+        <catRef scheme="#NEAEH-CM" target="#earlyRoman"/>
+      </textClass>
+    </profileDesc>
+    <revisionDesc status="draft">
+      <change who="http://caesarea-maritima.org/documentation/editors.xml#wpotter" when="2020-02-27-06:00">CREATED: testimonium</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="identifier">
+        <idno type="URI">https://caesarea-maritima.org/testimonia/4</idno>
+      </ab>
+      <desc type="abstract" xml:id="abstract4-1">The following place names are attested in <persName role="author" ref="http://viaf.org/viaf/22143666">Flavius Josephus</persName>'s <title ref="urn:cts:greekLit:tlg0526.tlg001:15.331-15.341">Antiquities of the Jews, 15.331-15.341</title>: <placeName>Στράτωνος ἐκαλεῖτο πύργος</placeName>
+        <placeName>Καισάρεια</placeName>
+        <placeName>Strato's Tower</placeName>
+        <placeName>Cesarea</placeName>
+      </desc>
+      <desc type="edition" xml:lang="Greek" xml:id="quote4-1">
+        <quote source="#bib4-1">Κατιδὼν δὲ καὶ πρὸς τῇ θαλάττῃ χωρίον ἐπιτηδειότατον δέξασθαι πόλιν, ὃ πάλαι <placeName>Στράτωνος ἐκαλεῖτο πύργος</placeName>, τῇ τε διαγραφῇ μεγαλοπρεπῶς ἐπεβάλλετο καὶ τοῖς οἰκοδομήμασιν ἀνιστὰς ἅπασαν οὐ παρέργως, ἀλλ᾽ ἐκ λευκῆς πέτρας, καὶ διακοσμῶν καὶ βασιλείοις πολυτελεστάτοις καὶ διαίταις πολιτικαῖς, τὸ δὲ μέγιστον καὶ πλείστην ἐργασίαν παρασχόν, ἀκλύστῳ λιμένι, μέγεθος μὲν κατὰ τὸν Πειραιᾶ, καταγωγὰς δ᾽ ἔνδον ἔχοντι καὶ δευτέρους ὑφόρμους, τῇ δὲ δομήσει περίβλεπτον, ὅτι μηδ᾽ ἐκ τοῦ τόπου τὴν ἐπιτηδειότητα τῆς μεγαλουργίας εἶχεν, ἀλλ᾽ ἐπεισάκτοις καὶ πολλαῖς ἐξετελειώθη ταῖς δαπάναις.κεῖται μὲν γὰρ ἡ πόλις ἐν τῇ Φοινίκῃ κατὰ τὸν εἰς Αἴγυπτον παράπλουν Ἰόππης μεταξὺ καὶ Δώρων, πολισμάτια ταῦτ᾽ ἐστὶν παράλια δύσορμα διὰ τὰς κατὰ λίβα προσβολάς, αἳ ἀεὶ τὰς ἐκ τοῦ πόντου θῖνας ἐπὶ τὴν ᾐόνα σύρουσαι καταγωγὴν οὐ διδόασιν, ἀλλ᾽ ἔστιν ἀναγκαῖον ἀποσαλεύειν τὰ πολλὰ τοὺς ἐμπόρους ἐπ᾽ ἀγκύρας. τοῦτο τὸ δυσδιάθετον τῆς χώρας διορθούμενος καὶ περιγράψας τὸν κύκλον τοῦ λιμένος ἐφ᾽ ὅσον ἦν αὔταρκες πρὸς τῇ χέρσῳ μεγάλοις στόλοις ἐνορμεῖσθαι λίθους ὑπερμεγέθεις καθίει εἰς τὸ βάθος εἰς ὀργυιὰς εἴκοσι. πεντήκοντα ποδῶν ἦσαν οἱ πλείους τὸ μῆκος καὶ πλάτος οὐκ ἔλαττον δεκαοκτώ, βάθος δὲ ἐννέα, τούτων δὲ οἱ μὲν μείζους οἱ δὲ ἐλάττους. ἡ δὲ ἐνδόμησις ὅσον ἦν † ἐβάλλετο κατὰ τῆς θαλάσσης διακοσίους πόδας. τούτων τὸ μὲν ἥμισυ προβέβλητο κυματωγαῖς, ὡς ἀπομάχεσθαι περικλώμενον ἐκεῖ τὸν κλύδωνα: προκυμία γοῦν ἐκαλεῖτο: τὸ δὲ λοιπὸν περιεῖχεν λίθινον τεῖχος πύργοις διειλημμένον,ὧν ὁ μέγιστος Δρούσιον ὀνομάζεται, πάνυ καλόν τι χρῆμα, τὴν προσηγορίαν εἰληφὼς ἀπὸ Δρούσου τοῦ Καίσαρος προγόνου τελευτήσαντος νέου. ψαλίδες δὲ ἐμπεποίηνται συνεχεῖς καταγωγαὶ τοῖς ναυτίλοις, τὸ δὲ πρὸ αὐτῶν ἀπόβασις πλατεῖα κύκλῳ περιεστεφάνωκεν τὸν πάντα λιμένα, περίπατος τοῖς ἐθέλουσιν ἥδιστος. ὁ δ᾽ εἴσπλους καὶ τὸ στόμα πεποίηται πρὸς βορέαν ἀνέμων αἰθριώτατον.βάσις δὲ τοῦ περιβόλου παντὸς ἐν ἀριστερᾷ μὲν εἰσπλεόντων πύργος νενασμένος ἐπὶ πολὺ στερρῶς ἀντέχειν, κατὰ δεξιὰν δὲ δύο λίθοι μεγάλοι καὶ τοῦ κατὰ θάτερα πύργου μείζους, ὀρθοὶ καὶ συνεζευγμένοι.περίκεινται δὲ ἐν κύκλῳ τὸν λιμένα λειοτάτου λίθου κατασκευὴ συνεχεῖς οἰκήσεις κἀν τῷ μέσῳ κολωνός τις, ἐφ᾽ οὗ νεὼς Καίσαρος ἄποπτος τοῖς εἰσπλέουσιν ἄγαλμά τε τὸ μὲν Ῥώμης, τὸ δὲ Καίσαρος: ἥ τε πόλις αὐτὴ <placeName>Καισάρεια</placeName> καλεῖται καλλίστης καὶ τῆς ὕλης καὶ τῆς κατασκευῆς τετυχηκυῖα.τὰ δ᾽ ὑπ᾽ αὐτὴν ὑπόνομοί τε καὶ λαῦραι πραγματείαν οὐκ ἐλάττω τῶν ὑπερῳκοδομημένων ἔχουσαι. τούτων αἱ μὲν κατὰ σύμμετρα διαστήματα φέρουσιν εἰς τὸν λιμένα καὶ τὴν θάλατταν, μία δ᾽ ἐγκαρσία πάσας ὑπέζωκεν, ὡς τούς τε ὄμβρους εὐμαρῶς καὶ τὰ λύματα τῶν οἰκητόρων συνεκδίδοσθαι τήν τε θάλατταν, ὅταν ἔξωθεν ἐπείγηται, διαρρεῖν καὶ τὴν σύμπασαν ὑποκλύζειν πόλιν.κατεσκεύαζεν δ᾽ ἐν αὐτῇ καὶ θέατρον καὶ πρὸς τῷ νοτίῳ τοῦ λιμένος ὄπισθεν ἀμφιθέατρον πολὺν ὄχλον ἀνθρώπων δέχεσθαι δυνάμενον καὶ κείμενον ἐπιτηδείως ἀποπτεύειν εἰς τὴν θάλασσαν. ἡ μὲν δὴ πόλις οὕτως ἐξετελέσθη δωδεκαετεῖ χρόνῳ καὶ ταῖς ἐργασίαις οὐκ ἐγκαμόντος καὶ ταῖς δαπάναις ἐπαρκέσαντος τοῦ βασιλέως.</quote>
+      </desc>
+      <desc type="translation" xml:lang="English" xml:id="quote4-2">
+        <quote source="#bib4-2">Now upon his observation of a place near the sea, which was very proper for containing a city, and was before called <placeName>Strato's Tower</placeName>, he set about getting a plan for a magnificent city there, and erected many edifices with great diligence all over it, and this of white stone. He also adorned it with most sumptuous palaces and large edifices for containing the people; and what was the greatest and most laborious work of all, he adorned it with a haven, that was always free from the waves of the sea. Its largeness was not less than the Pyrmum [at Athens], and had towards the city a double station for the ships. It was of excellent workmanship; and this was the more remarkable for its being built in a place that of itself was not suitable to such noble structures, but was to be brought to perfection by materials from other places, and at very great expenses. This city is situate in Phoenicia, in the passage by sea to Egypt, between Joppa and Dora, which are lesser maritime cities, and not fit for havens, on account of the impetuous south winds that beat upon them, which rolling the sands that come from the sea against the shores, do not admit of ships lying in their station; but the merchants are generally there forced to ride at their anchors in the sea itself. So Herod endeavored to rectify this inconvenience, and laid out such a compass towards the land as might be sufficient for a haven, wherein the great ships might lie in safety; and this he effected by letting down vast stones of above fifty feet in length, not less than eighteen in breadth, and nine in depth, into twenty fathom deep; and as some were lesser, so were others bigger than those dimensions. This mole which he built by the sea-side was two hundred feet wide, the half of which was opposed to the current of the waves, so as to keep off those waves which were to break upon them, and so was called Procymatia, or the first breaker of the waves; but the other half had upon it a wall, with several towers, the largest of which was named Drusus, and was a work of very great excellence, and had its name from Drusus, the son-in-law of Caesar, who died young. There were also a great number of arches where the mariners dwelt. There was also before them a quay, [or landing place,] which ran round the entire haven, and was a most agreeable walk to such as had a mind to that exercise; but the entrance or mouth of the port was made on the north quarter, on which side was the stillest of the winds of all in this place: and the basis of the whole circuit on the left hand, as you enter the port, supported a round turret, which was made very strong, in order to resist the greatest waves; while on the right hand, as you enter, stood two vast stones, and those each of them larger than the turret, which were over against them; these stood upright, and were joined together. Now there were edifices all along the circular haven, made of the politest stone, with a certain elevation, whereon was erected a temple, that was seen a great way off by those that were sailing for that haven, and had in it two statues, the one of Rome, the other of Caesar. The city itself was called <placeName>Cesarea</placeName>, which was also itself built of fine materials, and was of a fine structure; nay, the very subterranean vaults and cellars had no less of architecture bestowed on them than had the buildings above ground. Some of these vaults carried things at even distances to the haven and to the sea; but one of them ran obliquely, and bound all the rest together, that both the rain and the filth of the citizens were together carried off with ease, and the sea itself, upon the flux of the tide from without, came into the city, and washed it all clean. Herod also built therein a theater of stone; and on the south quarter, behind the port, an amphitheater also, capable of holding a vast number of men, and conveniently situated for a prospect to the sea. So this city was thus finished in twelve years; 1 during which time the king did not fail to go on both with the work, and to pay the charges that were necessary.</quote>
+      </desc>
+      <listBibl>
+        <bibl xml:id="bib4-1">
+          <ptr target="https://caesarea-maritima.org/bibl/DJ9R4TA9"/>
+          <citedRange>15.331-15.341</citedRange>
+        </bibl>
+        <bibl xml:id="bib4-2">
+          <ptr target="https://caesarea-maritima.org/bibl/KULZ5FJB"/>
+          <citedRange>15.331-15.341</citedRange>
+        </bibl>
+        <bibl>
+          <ptr target="https://caesarea-maritima.org/bibl/IYCZFI7G"/>
+          <citedRange>15.331-15.341</citedRange>
+        </bibl>
+        <bibl>
+          <ptr target="https://caesarea-maritima.org/bibl/8WGC55QX"/>
+          <citedRange>15.331-15.341</citedRange>
+        </bibl>
+      </listBibl>
+    </body>
+  </text>
+</TEI>
