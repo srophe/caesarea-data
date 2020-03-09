@@ -1,0 +1,283 @@
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="en" level="a">Flavius Josephus. <title>Antiquities of the Jews</title> 20.113-20.124</title>
+        <title level="m" xml:lang="en">Caesarea Maritima: Literary and Documentary Testimonia</title>
+        <sponsor>Vanderbilt University</sponsor>
+        <principal>Joseph Rife</principal>
+        <editor role="general" ref="http://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph Rife</editor>
+        <editor role="general" ref="http://caesarea-maritima.org/documentation/editors.xml#packerman-lieberman">Phillip
+        Ackerman-Lieberman</editor>
+        <editor role="technical" ref="http://caesarea-maritima.org/documentation/editors.xml#dmichelson">David A.
+        Michelson</editor>
+        <editor role="technical" ref="http://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</editor>
+        <editor role="creator" ref="http://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph Rife</editor>
+        <editor role="creator" ref="http://caesarea-maritima.org/documentation/editors.xml#bgardner">Bianca Gardner</editor>
+        <respStmt>
+          <resp>TEI encoding by</resp>
+          <name ref="http://caesarea-maritima.org/documentation/editors.xml#wpotter">William L.
+          Potter</name>
+        </respStmt>
+        <respStmt>
+          <resp>Electronic text added by</resp>
+          <name ref="http://caesarea-maritima.org/documentation/editors.xml#bgardner">Bianca
+          Gardner</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonia identified by</resp>
+          <name ref="http://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph Rife</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="1.0"/>
+      </editionStmt>
+      <publicationStmt>
+        <authority>Ceasarea City and Port Exploration Project</authority>
+        <idno type="URI">https://caesarea-maritima.org/testimonia/14/tei</idno>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/">
+            <p>Distributed under a Creative Commons Attribution 4.0 Unported License.</p>
+          </licence>
+        </availability>
+        <date>2020-03-09-05:00</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Born digital.</p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Authors of testimonia are identified with URIs from The Virtual International Authority File, see<ref target="http://viaf.org/">http://viaf.org/</ref>. When multiple VIAF URIs exist, preference has been given to VIAF record linked to the Library of Congress authority file.</p>
+        <p>Geographic locations are identified with URIs from Pleiades: A Gazetteer of Past Places, see<ref target="https://pleiades.stoa.org/docs">https://pleiades.stoa.org/docs</ref>.</p>
+        <p>When possible., textual works have been cited using URNs according to the Distributed Text Services (DTS) system, see<ref target="https://distributed-text-services.github.io/specifications/">https://distributed-text-services.github.io/specifications/</ref>). Additional identifiers have been adopted from the systems used by the Perseus Digital Library (<ref target="http://www.perseus.tufts.edu/hopper/">http://www.perseus.tufts.edu/</ref>), Syriaca.org (<ref target="http://syriaca.org">http://syriaca.org</ref>), and other relevant authority systems such as WorldCat Identities or OCLC numbers (<ref target="https://www.worldcat.org/">https://www.worldcat.org/</ref>).</p>
+        <p>Bibliographic items are identified by a caesarea-maritima.org URI, which is linked, when possible to OCLC numbers and other identifiers.</p>
+        <p>Dates have been encoded following the ISO 8601 standard,<ref target="https://www.iso.org/iso-8601-date-and-time-format.html">https://www.iso.org/iso-8601-date-and-time-format.html</ref>, and the best practices established by for the Srophé App, see<ref target="http://srophe.app">http://srophe.app</ref>.</p>
+        <p>Languages have been encoded using ISO 639-1, 639-2, and 639-3 codes, following best practices of the TEI guidelines.</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy xml:id="CM-NEAEH">
+          <desc>
+            <title>Caesarea-Maritima.org Chronology</title>: This chronology is adapted from the chronology used in<bibl>
+              <title>The New Encyclopedia of Archaeological Excavations in the Holy Land</title>
+              <ptr target="https://caesarea-maritima.org/bibl/HG492LV3"/>
+            </bibl>.  This taxonomy is used in the<gi>catRef</gi>encoding to classify the testimonia according to the time period(s) of the events described, rather than the date of composition of the testimonium. For example, Josephus may describe events occuring well before the period of his writing.</desc>
+          <category xml:id="lowerPaleolithic">
+            <catDesc>Lower Paleolithic, 999999-119999 BCE</catDesc>
+          </category>
+          <category xml:id="upperAcheulean">
+            <catDesc>Upper Acheulean, 498050-148050 BP</catDesc>
+          </category>
+          <category xml:id="acheulean">
+            <catDesc>Acheulean, 298050-148050 BP</catDesc>
+          </category>
+          <category xml:id="mousterian">
+            <catDesc>Mousterian, 138050-38050 BP</catDesc>
+          </category>
+          <category xml:id="middlePaleolithic">
+            <catDesc>Middle Paleolithic, 119999-44999 BCE</catDesc>
+          </category>
+          <category xml:id="upperPaleolithic">
+            <catDesc>Upper Paleolithic, 44999-17999 BCE</catDesc>
+          </category>
+          <category xml:id="kebaran">
+            <catDesc>Kebaran , 18050-13050 BP</catDesc>
+          </category>
+          <category xml:id="epipaleolithic">
+            <catDesc>Epipaleolithic, 17999-8299 BCE</catDesc>
+          </category>
+          <category xml:id="geometricKebaran">
+            <catDesc>Geometric Kebaran, 12499-10899 BCE</catDesc>
+          </category>
+          <category xml:id="natufianCulture">
+            <catDesc>Natufian Culture, 10799-8499 BCE</catDesc>
+          </category>
+          <category xml:id="pre-potteryNeolithic">
+            <catDesc>Pre-Pottery Neolithic, 8299-5499 BCE</catDesc>
+          </category>
+          <category xml:id="potteryNeolithic">
+            <catDesc>Pottery Neolithic, 5499-4499 BCE</catDesc>
+          </category>
+          <category xml:id="chalcolithic">
+            <catDesc>Chalcolithic, 4499-3299 BCE</catDesc>
+          </category>
+          <category xml:id="earlyBronzeAge">
+            <catDesc>Early Bronze Age , 3299-2199 BCE</catDesc>
+          </category>
+          <category xml:id="bronzeAge">
+            <catDesc>Bronze Age, 3299-1199 BCE</catDesc>
+          </category>
+          <category xml:id="earlyBronzeAgeIa-b">
+            <catDesc>Early Bronze Age IA-B, 3299-2999 BCE</catDesc>
+          </category>
+          <category xml:id="earlyBronzeAgeIi">
+            <catDesc>Early Bronze Age II, 2999-2699 BCE</catDesc>
+          </category>
+          <category xml:id="earlyBronzeAgeIii">
+            <catDesc>Early Bronze Age III, 2699-2199 BCE</catDesc>
+          </category>
+          <category xml:id="middleBronzeAge">
+            <catDesc>Middle Bronze Age, 2199-1549 BCE</catDesc>
+          </category>
+          <category xml:id="middleBronzeAgeI">
+            <catDesc>Middle Bronze Age I, 2199-1999 BCE</catDesc>
+          </category>
+          <category xml:id="middleBronzeAgeIia">
+            <catDesc>Middle Bronze Age IIA, 1999-1749 BCE</catDesc>
+          </category>
+          <category xml:id="middleBronzeAgeIib">
+            <catDesc>Middle Bronze Age IIB, 1749-1549 BCE</catDesc>
+          </category>
+          <category xml:id="lateBronzeAge">
+            <catDesc>Late Bronze Age, 1599-1200 BCE</catDesc>
+          </category>
+          <category xml:id="lateBronzeAgeI">
+            <catDesc>Late Bronze Age I, 1549-1399 BCE</catDesc>
+          </category>
+          <category xml:id="lateBronzeAgeIia">
+            <catDesc>Late Bronze Age IIA, 1399-1299 BCE</catDesc>
+          </category>
+          <category xml:id="lateBronzeAgeIib">
+            <catDesc>Late Bronze Age IIB, 1299-1199 BCE</catDesc>
+          </category>
+          <category xml:id="ironAge">
+            <catDesc>Iron Age, 1199-585 BCE</catDesc>
+          </category>
+          <category xml:id="ironAgeIa">
+            <catDesc>Iron Age IA, 1199-1149 BCE</catDesc>
+          </category>
+          <category xml:id="ironAgeIb">
+            <catDesc>Iron Age IB, 1149-999 BCE</catDesc>
+          </category>
+          <category xml:id="ironAgeIia">
+            <catDesc>Iron Age IIA, 999-899 BCE</catDesc>
+          </category>
+          <category xml:id="ironAgeIib">
+            <catDesc>Iron Age IIB, 899-699 BCE</catDesc>
+          </category>
+          <category xml:id="ironIic">
+            <catDesc>Iron IIC, 799-731 BCE</catDesc>
+          </category>
+          <category xml:id="ironAgeIic">
+            <catDesc>Iron Age IIC, 699-585 BCE</catDesc>
+          </category>
+          <category xml:id="babylonianAndPersian">
+            <catDesc>Babylonian and Persian Periods, 585-331 BCE</catDesc>
+          </category>
+          <category xml:id="earlyHellenistic">
+            <catDesc>Early Hellenistic Period, 331-166 BCE</catDesc>
+          </category>
+          <category xml:id="hellenistic">
+            <catDesc>Hellenistic Period, 331-36 BCE</catDesc>
+          </category>
+          <category xml:id="earlyNabatean">
+            <catDesc>Early Nabatean Period, 331-36 BCE</catDesc>
+          </category>
+          <category xml:id="nabateanKingdom">
+            <catDesc>Nabatean Kingdom, 167 BCE-106 CE</catDesc>
+          </category>
+          <category xml:id="lateHellenistic">
+            <catDesc>Late Hellenistic Period, 166-36 BCE</catDesc>
+          </category>
+          <category xml:id="earlyRoman">
+            <catDesc>Early Roman Period, 36 BCE-132 CE</catDesc>
+          </category>
+          <category xml:id="herodian">
+            <catDesc>Herodian Period, 36 BCE-70 CE</catDesc>
+          </category>
+          <category xml:id="middleNabatean">
+            <catDesc>Middle Nabatean Period, 24 BCE-50 CE</catDesc>
+          </category>
+          <category xml:id="lateRoman">
+            <catDesc>Late Roman Period, 132-324 CE</catDesc>
+          </category>
+          <category xml:id="byzantine">
+            <catDesc>Byzantine Period, 324-638 CE</catDesc>
+          </category>
+          <category xml:id="earlyIslamic">
+            <catDesc>Early Islamic Period, 638-1099 CE</catDesc>
+          </category>
+          <category xml:id="crusader">
+            <catDesc>Crusader Period, 1099-1291 CE</catDesc>
+          </category>
+          <category xml:id="lateIslamic">
+            <catDesc>Late Islamic Period, 1291-1516 CE</catDesc>
+          </category>
+          <category xml:id="ottoman">
+            <catDesc>Ottoman Period, 1516-1917 CE</catDesc>
+          </category>
+          <category xml:id="britishTerritorialAdministration">
+            <catDesc>British Territorial Administration Period, 1970-1920 CE</catDesc>
+          </category>
+          <category xml:id="britishMandate">
+            <catDesc>British Mandate Period, 1920-1948 CE</catDesc>
+          </category>
+          <category xml:id="modernState">
+            <catDesc>Modern State, 1948- CE</catDesc>
+          </category>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <abstract>
+        <p/>
+      </abstract>
+      <creation>This entry is taken from <title ref="urn:cts:greekLit:tlg0526.tlg001" type="uniform">Antiquities of the Jews</title>
+        <ref target="#bib14-1">20.113-20.124</ref> written by <persName ref="http://viaf.org/viaf/22143666" role="author">Flavius Josephus</persName> in <origDate notBefore="0093" notAfter="0094">
+          <date>93 - 94 CE</date>
+        </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</creation>
+      <langUsage>
+        <language ident="grc">Ancient Greek</language>
+      </langUsage>
+      <textClass>
+        <classCode scheme="https://distributed-text-services.github.io/specifications/">
+          <idno xml:base="http://data.perseus.org/citations/" type="URN">urn:cts:greekLit:tlg0526.tlg001:20.113-20.124</idno>
+        </classCode>
+        <catRef scheme="#CM-NEAEH" target="#"/>
+      </textClass>
+    </profileDesc>
+    <revisionDesc status="draft">
+      <change who="http://caesarea-maritima.org/documentation/editors.xml#wpotter" when="2020-03-09-05:00">CREATED: testimonium</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="identifier">
+        <idno type="URI">https://caesarea-maritima.org/testimonia/14</idno>
+      </ab>
+      <desc type="abstract" xml:id="abstract14-1">
+        <quote>
+          <placeName xml:lang="grc">Καισάρειαν</placeName>
+        </quote>,  and <quote>
+          <placeName xml:lang="en">Cesarea</placeName>
+        </quote> are place names attested in <persName ref="http://viaf.org/viaf/22143666" role="author">Flavius Josephus</persName>'s <title ref="urn:cts:greekLit:tlg0526.tlg001" type="uniform">Antiquities of the Jews</title> 20.113-20.124. This testimonium was written circa <origDate notBefore="0093" notAfter="0094">
+          <date>93 - 94 CE</date>
+        </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+      <ab type="edition" xml:lang="grc" xml:id="quote14-1">
+        <quote source="#bib14-1">Οὔπω δ᾽ αὐτῶν τὸ πρῶτον πένθος ἐπέπαυτο καὶ κακὸν ἄλλο προσέπιπτεν: τῶν γὰρ ἀφεστώτων ἐπὶ νεωτερισμῷ τινες κατὰ τὴν δημοσίαν ὁδὸν ὡς ἑκατὸν σταδίων ἄπωθεν τῆς πόλεως Στέφανον Καίσαρος δοῦλον ὁδοιποροῦντα λῃστεύσαντες ἅπασαν αὐτοῦ τὴν κτῆσιν διαρπάζουσιν. ἀκούσας δὲ τὸ πραχθὲν ὁ Κουμανὸς εὐθὺς πέμπει στρατιώτας, κελεύσας αὐτοῖς τὰς πλησίον κώμας διαρπάσαι, τοὺς δ᾽ ἐπιφανεστάτους αὐτῶν δήσαντας ἐπ᾽ αὐτὸν ἄγειν. τῆς δὲ πορθήσεως γενομένης τῶν στρατιωτῶν τις τοὺς Μωυσέως νόμους ἔν τινι κώμῃ λαβὼν κειμένους προκομίσας εἰς τὴν πάντων ὄψιν διέσχισεν ἐπιβλασφημῶν καὶ πολλὰ κατακερτομῶν. Ἰουδαῖοι δὲ ταῦτα ἀκούσαντες καὶ πολλοὶ συνδραμόντες καταβαίνουσιν εἰς <placeName xml:lang="grc">Καισάρειαν</placeName>, ἐκεῖ γὰρ ἐτύγχανεν ὁ Κουμανὸς ὤν, ἱκετεύοντες μὴ αὐτοὺς ἀλλὰ τὸν θεὸν οὗπερ οἱ νόμοι καθυβρίσθησαν ἐκδικῆσαι: ζῆν γὰρ οὐχ ὑπομένειν τῶν πατρίων αὐτοῖς οὕτως περιυβρισμένων. καὶ Κουμανὸς δείσας, μὴ πάλιν νεωτερίσειεν τὸ πλῆθος, συμβουλευσάντων καὶ τῶν φίλων τὸν ἐνυβρίσαντα τοῖς νόμοις στρατιώτην πελεκίσας ἔπαυσεν τὴν στάσιν ἐκ δευτέρου μέλλουσαν ἐξάπτεσθαι. Γίνεται δὲ καὶ Σαμαρείταις πρὸς Ἰουδαίους ἔχθρα δι᾽ αἰτίαν τοιαύτην: ἔθος ἦν τοῖς Γαλιλαίοις ἐν ταῖς ἑορταῖς εἰς τὴν ἱερὰν πόλιν παραγινομένοις ὁδεύειν διὰ τῆς Σαμαρέων χώρας. καὶ τότε καθ᾽ ὁδὸν αὐτοῖς κώμης Γιναῆς λεγομένης τῆς ἐν μεθορίῳ κειμένης Σαμαρείας τε καὶ τοῦ μεγάλου πεδίου τινὲς συνάψαντες μάχην πολλοὺς αὐτῶν ἀναιροῦσιν. πυθόμενοι δὲ τὰ πραχθέντα τῶν Γαλιλαίων οἱ πρῶτοι πρὸς Κουμανὸν ἀφίκοντο καὶ παρεκάλουν αὐτὸν μετιέναι τῶν ἀνῃρημένων τὸν φόνον. ὁ δὲ χρήμασι πεισθεὶς ὑπὸ τῶν Σαμαρέων ὠλιγώρησεν. ἀγανακτήσαντες δὲ ἐπὶ τούτῳ Γαλιλαῖοι τὸ πλῆθος τῶν Ἰουδαίων ἔπειθον ἐφ᾽ ὅπλα χωρῆσαι καὶ τῆς ἐλευθερίας ἀντέχεσθαι: δουλείαν γὰρ καὶ καθ᾽ αὑτὴν μὲν πικρὰν ἔλεγον εἶναι, τὴν ἐφ᾽ ὕβρει δὲ παντάπασιν ἀφόρητον. τῶν δ᾽ ἐν τέλει καταπραΰνειν αὐτοὺς πειρωμένων καὶ πείσειν τὸν Κουμανὸν ἐπαγγελλομένων δίκας εἰσπράξασθαι παρὰ τῶν ἀνῃρηκότων, ἐκείνοις μὲν οὐ προσέσχον, ἀναλαβόντες δὲ τὰ ὅπλα καὶ βοηθεῖν Ἐλεάζαρον τὸν τοῦ Δειναίου παρακαλέσαντες, λῃστὴς δ᾽ οὗτος ἦν ἔτη πολλὰ τὴν διατριβὴν ἐν ὄρει πεποιημένος, κώμας τινὰς τῶν Σαμαρέων ἐμπρήσαντες διαρπάζουσι. Κουμανὸς δὲ τῆς πράξεως εἰς αὐτὸν ἀφικομένης ἀναλαβὼν τὴν τῶν Σεβαστηνῶν ἴλην καὶ πεζῶν τέσσαρα τάγματα τούς τε Σαμαρεῖς καθοπλίσας ἐξῆλθεν ἐπὶ τοὺς Ἰουδαίους, καὶ συμβαλὼν πολλοὺς μὲν αὐτῶν ἀπέκτεινεν πλείους δὲ ζῶντας ἔλαβεν. οἱ δὲ πρῶτοι κατὰ τιμὴν καὶ γένος τῶν Ἱεροσολυμιτῶν, ὡς εἶδον εἰς οἷον κακῶν μέγεθος ἥκουσιν, μετενδυσάμενοι σάκκους καὶ σποδοῦ τὰς κεφαλὰς ἀναπλήσαντες παντοῖοι τοὺς ἀφεστῶτας παρακαλοῦντες ἦσαν καὶ πείθοντες πρὸ ὀφθαλμῶν θεμένους κατασκαφησομένην μὲν αὐτῶν τὴν πατρίδα, τὸ δὲ ἱερὸν πυρποληθησόμενον, αὐτῶν δὲ καὶ γυναικῶν σὺν τέκνοις ἀνδραποδισμοὺς ἐσομένους, μεταθέσθαι τὸν λογισμὸν καὶ τὰ ὅπλα ῥίψαντας ἠρεμεῖν εἰς τὸ λοιπὸν ἀποχωρήσαντας εἰς τὰ αὑτῶν. ταῦτα δὲ εἰπόντες ἔπεισαν. καὶ οἱ μὲν διελύθησαν, οἱ λῃσταὶ δὲ ἐπὶ τοὺς ἐχυροὺς τόπους πάλιν ἀπῆλθον. ἐξ ἐκείνου τε ἡ σύμπασα Ἰουδαία λῃστηρίων ἐπληρώθη.</quote>
+      </ab>
+      <ab type="translation" xml:lang="en" xml:id="quote14-2">
+        <quote source="#bib14-2">Now before this their first mourning was over, another mischief befell them also; for some of those that raised the foregoing tumult, when they were traveling along the public road, about a hundred furlongs from the city, robbed Stephanus, a servant of Caesar, as he was journeying, and plundered him of all that he had with him; which things when Cureanus heard of, he sent soldiers immediately, and ordered them to plunder the neighboring villages, and to bring the most eminent persons among them in bonds to him. Now as this devastation was making, one of the soldiers seized the laws of Moses that lay in one of those villages, and brought them out before the eyes of all present, and tore them to pieces; and this was done with reproachful language, and much scurrility; which things when the Jews heard of, they ran together, and that in great numbers, and came down to <placeName xml:lang="en">Cesarea</placeName>, where Cumanus then was, and besought him that he would avenge, not themselves, but God himself, whose laws had been affronted; for that they could not bear to live any longer, if the laws of their forefathers must be affronted after this manner. Accordingly Cumanus, out of fear lest the multitude should go into a sedition, and by the advice of his friends also, took care that the soldier who had offered the affront to the laws should be beheaded, and thereby put a stop to the sedition which was ready to be kindled a second time. NOW there arose a quarrel between the Samaritans and the Jews on the occasion following: It was the custom of the Galileans, when they came to the holy city at the festivals, to take their journeys through the country of the Samaritans; 1 and at this time there lay, in the road they took, a village that was called Ginea, which was situated in the limits of Samaria and the great plain, where certain persons thereto belonging fought with the Galileans, and killed a great many of them. But when the principal of the Galileans were informed of what had been done, they came to Cumanus, and desired him to avenge the murder of those that were killed; but he was induced by the Samaritans, with money, to do nothing in the matter; upon which the Galileans were much displeased, and persuaded the multitude of the Jews to betake themselves to arms, and to regain their liberty, saying that slavery was in itself a bitter thing, but that when it was joined with direct injuries, it was perfectly intolerable, And when their principal men endeavored to pacify them, and promised to endeavor to persuade Cureanus to avenge those that were killed, they would not hearken to them, but took their weapons, and entreated the assistance of Eleazar, the son of Dineus, a robber, who had many years made his abode in the mountains, with which assistance they plundered many villages of the Samaritans. When Cumanus heard of this action of theirs, he took the band of Sebaste, with four regiments of footmen, and armed the Samaritans, and marched out against the Jews, and caught them, and slew many of them, and took a great number of them alive; whereupon those that were the most eminent persons at Jerusalem, and that both in regard to the respect that was paid them, and the families they were of, as soon as they saw to what a height things were gone, put on sackcloth, and heaped ashes upon their heads, and by all possible means besought the seditious, and persuaded them that they would set before their eyes the utter subversion of their country, the conflagration of their temple, and the slavery of themselves, their wives, and children, 2 which would be the consequences of what they were doing; and would alter their minds, would cast away their weapons, and for the future be quiet, and return to their own homes. These persuasions of theirs prevailed upon them. So the people dispersed themselves, and the robbers went away again to their places of strength; and after this time all Judea was overrun with robberies.</quote>
+      </ab>
+      <listBibl>
+        <bibl xml:id="bib14-1">
+          <ptr target="https://caesarea-maritima.org/bibl/DJ9R4TA9"/>
+          <citedRange>20.113-20.124</citedRange>
+        </bibl>
+        <bibl xml:id="bib14-2">
+          <ptr target="https://caesarea-maritima.org/bibl/KULZ5FJB"/>
+          <citedRange>20.113-20.124</citedRange>
+        </bibl>
+        <bibl>
+          <ptr target="https://caesarea-maritima.org/bibl/IYCZFI7G"/>
+          <citedRange>20.113-20.124</citedRange>
+        </bibl>
+        <bibl>
+          <ptr target="https://caesarea-maritima.org/bibl/8WGC55QX"/>
+          <citedRange>20.113-20.124</citedRange>
+        </bibl>
+      </listBibl>
+    </body>
+  </text>
+</TEI>
