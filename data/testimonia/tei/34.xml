@@ -255,9 +255,11 @@
           <date>70 - 90 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote34-1">
+        <anchor xml:id="testimonia-34.grc.1" corresp="testimonia-34.en.1"/>
         <quote source="#bib34-1">ὁ γὰρ δὴ Τίτος ἐπειδὴ τὰ μὲν συνήγαγετῆς δυνάμεως πρὸς αὑτόν, τοῖς δὲ ἐπὶἹεροσολύμων συναντᾶν ἐπέστειλεν, ἐξήλαυνετῆς <placeName xml:lang="grc">Καισαρείας</placeName>.</quote>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote34-2">
+        <anchor xml:id="testimonia-34.en.1" corresp="testimonia-34.grc.1"/>
         <quote source="#bib34-2">For Titus, when he had gotten together part of his forces about him, and had ordered the rest to meet him at Jerusalem, marched out of <placeName xml:lang="en">Cesarea</placeName>.</quote>
       </ab>
       <listBibl>

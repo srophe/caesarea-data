@@ -250,9 +250,11 @@
           <date>93 - 94 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote8-1">
+        <anchor xml:id="testimonia-8.grc.1" corresp="testimonia-8.en.1"/>
         <quote source="#bib8-1">ταῦτα εἰποῦσα τό τε φάρμακον καὶ τὴν πυξίδα εἰς τὸ μέσον παρῆγεν. καὶ ἀδελφὸς δὲ Ἀντιφίλου ἕτερος καὶ μήτηρ αὐτοῦ ἀνάγκαις τε καὶ βασάνων σφοδρότητι ταὐτὰ ἔλεγον καὶ ἐγνώριζον τὴν πυξίδα. κατηγορεῖτο δὲ καὶ τοῦ ἀρχιερέως ἡ θυγάτηρ, γυνὴ δὲ τοῦ βασιλέως, ὡς πάντων ἵστωρ τούτων γενομένη κρύπτειν προθυμηθεῖσα αὐτά. καὶ διὰ τάδε Ἡρώδης ἐκείνην τε ἐξέβαλεν καὶ τὸν υἱὸν αὐτῆς ἐξήλειψε τῶν διαθηκῶν εἰς ὃ βασιλεύσοι μενουσῶν, καὶ τὸν πενθερὸν τὴν ἀρχιερωσύνην ἀφείλετο Σίμωνα τὸν τοῦ Βοηθοῦ, καθίσταται δὲ Ματθίαν τὸν Θεοφίλου Ἱεροσολυμίτην γένος.</quote>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote8-2">
+        <anchor xml:id="testimonia-8.en.1" corresp="testimonia-8.grc.1"/>
         <quote source="#bib8-2">Upon her saying thus, she brought out the potion, and the box in which it was, before them all. Nay, there was another brother of Antiphilus, and his mother also, who, by the extremity of pain and torture, confessed the same things, and owned the box [to be that which had been brought out of Egypt]. The high priest's daughter also, who was the king's wife, was accused to have been conscious of all this, and had resolved to conceal it; for which reason Herod divorced her, and blotted her son out of his testament, wherein he had been mentioned as one that was to reign after him; and he took the high priesthood away from his father-in-law, Simeon the son of Boethus, and appointed Matthias the son of Theophilus, who was born at Jerusalem, to be high priest in his room.</quote>
       </ab>
       <listBibl>
