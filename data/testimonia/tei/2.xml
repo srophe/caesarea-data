@@ -259,10 +259,10 @@
         </quote> are place names attested in <persName ref="http://viaf.org/viaf/22143666" role="author">Flavius Josephus</persName>'s <title ref="urn:cts:greekLit:tlg0526.tlg001" type="uniform">Antiquities of the Jews</title> 14.76. This testimonium was written circa <origDate notBefore="0093" notAfter="0094">
           <date>93 – 94 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
-      <ab type="edition" xml:lang="Greek" xml:id="quote2-1">
+      <ab type="edition" xml:lang="grc" xml:id="quote2-1">
         <quote source="#bib2-1">καὶ ταύτας μὲν ἐν τῇ μεσογείῳ χωρὶς τῶν κατεσκαμμένων, Γάζαν δὲ πρὸς τῇ θαλάττῃ καὶ Ἰόππην καὶ Δῶρα καὶ <placeName>Στράτωνος πύργον</placeName>, ἣ κτίσαντος αὐτὴν Ἡρώδου μεγαλοπρεπῶς καὶ λιμέσιν τε καὶ ναοῖς κοσμήσαντος, <placeName>Καισάρεια</placeName> μετωνομάσθη, πάσας ὁ Πομπήιος ἀφῆκεν ἐλευθέρας καὶ προσένειμεν τῇ ἐπαρχίᾳ.</quote>
       </ab>
-      <ab type="translation" xml:lang="English" xml:id="quote2-2">
+      <ab type="translation" xml:lang="en" xml:id="quote2-2">
         <quote source="#bib2-2">These were in the inland parts. Besides those that had been demolished, and also of the maritime cities, Gaza, and Joppa, and Dora, and <placeName>Strato's Tower</placeName>; which last Herod rebuilt after a glorious manner, and adorned with havens and temples, and changed its name to <placeName>Caesarea</placeName>. All these Pompey left in a state of freedom, and joined them to the province of Syria.</quote>
       </ab>
       <listBibl>

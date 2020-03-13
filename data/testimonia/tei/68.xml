@@ -252,7 +252,7 @@
         </quote> are place names attested in <persName ref="http://viaf.org/viaf/305863610" role="author">Luke</persName>'s <title ref="urn:cts:greekLit:tlg0031.tlg005" type="uniform">Acts</title> 10.24. This testimonium was written circa <origDate notBefore="0080" notAfter="0090">
           <date>80 – 90 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/991396">Palestine</origPlace>.</desc>
-      <ab type="edition" xml:lang="Greek" xml:id="quote68-1">
+      <ab type="edition" xml:lang="grc" xml:id="quote68-1">
         <quote source="#bib68-1">τῇ δὲ ἐπαύριον εἰσῆλθεν εἰς <placeName>τὴν Καισαρίαν</placeName>· ὁ δὲ Κορνήλιος ἦνπροσδοκῶν αὐτοὺςσυνκαλεσάμενος τοὺς συγγενεῖςαὐτοῦ καὶ τοὺς ἀναγκαίουςφίλους.</quote>
       </ab>
       <listBibl>
