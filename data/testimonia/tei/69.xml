@@ -3,7 +3,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="en" level="a">Luke. <title>Acts</title>  10.34</title>
+        <title xml:lang="en" level="a">Luke. <title level="m">Acts</title>  10.34</title>
         <title level="m" xml:lang="en">Caesarea Maritima: Literary and Documentary Testimonia</title>
         <sponsor>Vanderbilt University</sponsor>
         <principal>Joseph Rife</principal>
@@ -224,7 +224,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title ref="urn:cts:greekLit:tlg0031.tlg005" type="uniform">Acts</title>
+      <creation>This entry is taken from <title ref="urn:cts:greekLit:tlg0031.tlg005" type="uniform" level="m">Acts</title>
         <ref target="#bib69-1">10.34</ref> written by <persName ref="http://viaf.org/viaf/305863610" role="author">Luke</persName> in <origDate notBefore="0080" notAfter="0090">
           <date>80 – 90 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/991396">Palestine</origPlace>.</creation>
@@ -247,7 +247,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/69</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract69-1"> are place names attested in <persName ref="http://viaf.org/viaf/305863610" role="author">Luke</persName>'s <title ref="urn:cts:greekLit:tlg0031.tlg005" type="uniform">Acts</title> 10.34. This testimonium was written circa <origDate notBefore="0080" notAfter="0090">
+      <desc type="abstract" xml:id="abstract69-1"> are place names attested in <persName ref="http://viaf.org/viaf/305863610" role="author">Luke</persName>'s <title ref="urn:cts:greekLit:tlg0031.tlg005" type="uniform" level="m">Acts</title> 10.34. This testimonium was written circa <origDate notBefore="0080" notAfter="0090">
           <date>80 – 90 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/991396">Palestine</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote69-1">

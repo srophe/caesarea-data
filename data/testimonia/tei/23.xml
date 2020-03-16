@@ -3,7 +3,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="en" level="a">Flavius Josephus. <title>The Jewish War</title> 2.169-2.174</title>
+        <title xml:lang="en" level="a">Flavius Josephus. <title level="m">The Jewish War</title> 2.169-2.174</title>
         <title level="m" xml:lang="en">Caesarea Maritima: Literary and Documentary Testimonia</title>
         <sponsor>Vanderbilt University</sponsor>
         <principal>Joseph Rife</principal>
@@ -223,7 +223,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title ref="urn:cts:greekLit:tlg0526.tlg004" type="uniform">The Jewish War</title>
+      <creation>This entry is taken from <title ref="urn:cts:greekLit:tlg0526.tlg004" type="uniform" level="m">The Jewish War</title>
         <ref target="#bib23-1">2.169-2.174</ref> written by <persName ref="http://viaf.org/viaf/22143666" role="author">Flavius Josephus</persName> in <origDate notBefore="0070" notAfter="0090">
           <date>70 - 90 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</creation>
@@ -251,7 +251,7 @@
           <placeName xml:lang="grc">Καισάρειαν</placeName>
         </quote>,  and <quote>
           <placeName xml:lang="en">Cesarea</placeName>
-        </quote> are place names attested in <persName ref="http://viaf.org/viaf/22143666" role="author">Flavius Josephus</persName>'s <title ref="urn:cts:greekLit:tlg0526.tlg004" type="uniform">The Jewish War</title> 2.169-2.174. This testimonium was written circa <origDate notBefore="0070" notAfter="0090">
+        </quote> are place names attested in <persName ref="http://viaf.org/viaf/22143666" role="author">Flavius Josephus</persName>'s <title ref="urn:cts:greekLit:tlg0526.tlg004" type="uniform" level="m">The Jewish War</title> 2.169-2.174. This testimonium was written circa <origDate notBefore="0070" notAfter="0090">
           <date>70 - 90 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote23-1">
