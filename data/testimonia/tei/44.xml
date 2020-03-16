@@ -247,11 +247,7 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/44</idno>
       </ab>
       <desc type="abstract" xml:id="abstract44-1">
-        <quote>
-          <placeName xml:lang="la">Caesaream</placeName>
-        </quote>,  and <quote>
-          <placeName xml:lang="en">Cæsarea</placeName>
-        </quote> are place names attested in <persName ref="http://viaf.org/viaf/100226923" role="author">Cornelius Tacitus</persName>'s <title ref="urn:cts:latinLit:phi1351.phi004" type="uniform" level="m">The Histories</title> 2.82-2.83. This testimonium was written circa <origDate notBefore="0100" notAfter="0110">
+        <quote><placeName xml:lang="la">Caesaream</placeName></quote>,  and <quote><placeName xml:lang="en">Cæsarea</placeName></quote> are place names attested in <persName ref="http://viaf.org/viaf/100226923" role="author">Cornelius Tacitus</persName>'s <title ref="urn:cts:latinLit:phi1351.phi004" type="uniform" level="m">The Histories</title> 2.82-2.83. This testimonium was written circa <origDate notBefore="0100" notAfter="0110">
           <date>100 - 110 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote44-1">

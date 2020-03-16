@@ -247,9 +247,7 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/53</idno>
       </ab>
       <desc type="abstract" xml:id="abstract53-1">
-        <quote>
-          <placeName xml:lang="grc">Καισαρείᾳ</placeName>
-        </quote>,  are place names attested in <persName ref="http://viaf.org/viaf/100172302" role="author">Procopius</persName>'s <title ref="urn:cts:greekLit:tlg4029.tlg002" type="uniform" level="m">Secret History</title> 11.25. This testimonium was written circa <origDate notBefore="0550" notAfter="0558">
+        <quote><placeName xml:lang="grc">Καισαρείᾳ</placeName></quote>,  are place names attested in <persName ref="http://viaf.org/viaf/100172302" role="author">Procopius</persName>'s <title ref="urn:cts:greekLit:tlg4029.tlg002" type="uniform" level="m">Secret History</title> 11.25. This testimonium was written circa <origDate notBefore="0550" notAfter="0558">
           <date>550 - 558 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote53-1">

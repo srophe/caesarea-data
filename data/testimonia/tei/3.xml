@@ -248,15 +248,7 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/3</idno>
       </ab>
       <desc type="abstract" xml:id="abstract3-1">
-        <quote>
-          <placeName xml:lang="grc">Στράτωνος πύργον</placeName>
-        </quote>, <quote>
-          <placeName xml:lang="grc">Καισάρειαν</placeName>
-        </quote>, <quote>
-          <placeName xml:lang="en">Strato's Tower</placeName>
-        </quote>,  and <quote>
-          <placeName xml:lang="en">Cesarea</placeName>
-        </quote> are place names attested in <persName ref="http://viaf.org/viaf/22143666" role="author">Flavius Josephus</persName>'s <title ref="urn:cts:greekLit:tlg0526.tlg001" type="uniform" level="m">Antiquities of the Jews</title> 15.293. This testimonium was written circa <origDate notBefore="0093" notAfter="0094">
+        <quote><placeName xml:lang="grc">Στράτωνος πύργον</placeName></quote>, <quote><placeName xml:lang="grc">Καισάρειαν</placeName></quote>, <quote><placeName xml:lang="en">Strato's Tower</placeName></quote>,  and <quote><placeName xml:lang="en">Cesarea</placeName></quote> are place names attested in <persName ref="http://viaf.org/viaf/22143666" role="author">Flavius Josephus</persName>'s <title ref="urn:cts:greekLit:tlg0526.tlg001" type="uniform" level="m">Antiquities of the Jews</title> 15.293. This testimonium was written circa <origDate notBefore="0093" notAfter="0094">
           <date>93 – 94 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote3-1">
