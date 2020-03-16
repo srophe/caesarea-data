@@ -3,7 +3,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="en" level="a">Cornelius Tacitus. <title>The Histories</title> 2.82-2.83</title>
+        <title xml:lang="en" level="a">Cornelius Tacitus. <title level="m">The Histories</title> 2.82-2.83</title>
         <title level="m" xml:lang="en">Caesarea Maritima: Literary and Documentary Testimonia</title>
         <sponsor>Vanderbilt University</sponsor>
         <principal>Joseph Rife</principal>
@@ -223,7 +223,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title ref="urn:cts:latinLit:phi1351.phi004" type="uniform">The Histories</title>
+      <creation>This entry is taken from <title ref="urn:cts:latinLit:phi1351.phi004" type="uniform" level="m">The Histories</title>
         <ref target="#bib44-1">2.82-2.83</ref> written by <persName ref="http://viaf.org/viaf/100226923" role="author">Cornelius Tacitus</persName> in <origDate notBefore="0100" notAfter="0110">
           <date>100 - 110 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</creation>
@@ -251,7 +251,7 @@
           <placeName xml:lang="la">Caesaream</placeName>
         </quote>,  and <quote>
           <placeName xml:lang="en">Cæsarea</placeName>
-        </quote> are place names attested in <persName ref="http://viaf.org/viaf/100226923" role="author">Cornelius Tacitus</persName>'s <title ref="urn:cts:latinLit:phi1351.phi004" type="uniform">The Histories</title> 2.82-2.83. This testimonium was written circa <origDate notBefore="0100" notAfter="0110">
+        </quote> are place names attested in <persName ref="http://viaf.org/viaf/100226923" role="author">Cornelius Tacitus</persName>'s <title ref="urn:cts:latinLit:phi1351.phi004" type="uniform" level="m">The Histories</title> 2.82-2.83. This testimonium was written circa <origDate notBefore="0100" notAfter="0110">
           <date>100 - 110 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote44-1">

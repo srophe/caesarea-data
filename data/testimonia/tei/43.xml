@@ -3,7 +3,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="en" level="a">Pliny, the Elder. <title>Natural History</title> 5.13</title>
+        <title xml:lang="en" level="a">Pliny, the Elder. <title level="m">Natural History</title> 5.13</title>
         <title level="m" xml:lang="en">Caesarea Maritima: Literary and Documentary Testimonia</title>
         <sponsor>Vanderbilt University</sponsor>
         <principal>Joseph Rife</principal>
@@ -223,7 +223,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title ref="urn:cts:latinLit:phi0978.phi001" type="uniform">Natural History</title>
+      <creation>This entry is taken from <title ref="urn:cts:latinLit:phi0978.phi001" type="uniform" level="m">Natural History</title>
         <ref target="#bib43-1">5.13</ref> written by <persName ref="http://viaf.org/viaf/100219162" role="author">Pliny, the Elder</persName> in <origDate when="0077">
           <date>77 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</creation>
@@ -259,7 +259,7 @@
           <placeName xml:lang="en">Cæsarea</placeName>
         </quote>,  and <quote>
           <placeName xml:lang="en">Colony of Prima Flavia</placeName>
-        </quote> are place names attested in <persName ref="http://viaf.org/viaf/100219162" role="author">Pliny, the Elder</persName>'s <title ref="urn:cts:latinLit:phi0978.phi001" type="uniform">Natural History</title> 5.13. This testimonium was written circa <origDate when="0077">
+        </quote> are place names attested in <persName ref="http://viaf.org/viaf/100219162" role="author">Pliny, the Elder</persName>'s <title ref="urn:cts:latinLit:phi0978.phi001" type="uniform" level="m">Natural History</title> 5.13. This testimonium was written circa <origDate when="0077">
           <date>77 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote43-1">

@@ -3,7 +3,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="en" level="a">Flavius Josephus. <title>Antiquities of the Jews</title> 17.77-17.78</title>
+        <title xml:lang="en" level="a">Flavius Josephus. <title level="m">Antiquities of the Jews</title> 17.77-17.78</title>
         <title level="m" xml:lang="en">Caesarea Maritima: Literary and Documentary Testimonia</title>
         <sponsor>Vanderbilt University</sponsor>
         <principal>Joseph Rife</principal>
@@ -223,7 +223,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title ref="urn:cts:greekLit:tlg0526.tlg001" type="uniform">Antiquities of the Jews</title>
+      <creation>This entry is taken from <title ref="urn:cts:greekLit:tlg0526.tlg001" type="uniform" level="m">Antiquities of the Jews</title>
         <ref target="#bib8-1">17.77-17.78</ref> written by <persName ref="http://viaf.org/viaf/22143666" role="author">Flavius Josephus</persName> in <origDate notBefore="0093" notAfter="0094">
           <date>93 - 94 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</creation>
@@ -246,7 +246,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/8</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract8-1"> are place names attested in <persName ref="http://viaf.org/viaf/22143666" role="author">Flavius Josephus</persName>'s <title ref="urn:cts:greekLit:tlg0526.tlg001" type="uniform">Antiquities of the Jews</title> 17.77-17.78. This testimonium was written circa <origDate notBefore="0093" notAfter="0094">
+      <desc type="abstract" xml:id="abstract8-1"> are place names attested in <persName ref="http://viaf.org/viaf/22143666" role="author">Flavius Josephus</persName>'s <title ref="urn:cts:greekLit:tlg0526.tlg001" type="uniform" level="m">Antiquities of the Jews</title> 17.77-17.78. This testimonium was written circa <origDate notBefore="0093" notAfter="0094">
           <date>93 - 94 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote8-1">
