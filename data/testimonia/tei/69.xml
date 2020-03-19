@@ -225,7 +225,7 @@
         <p/>
       </abstract>
       <creation>This entry is taken from <title ref="urn:cts:greekLit:tlg0031.tlg005" type="uniform" level="m">Acts</title>
-        <ref target="#bib69-1">10.34</ref> written by <persName ref="http://viaf.org/viaf/305863610" role="author">Luke</persName> in <origDate notBefore="0080" notAfter="0090">
+        <ref target="#bib69-1">10.34</ref> written by <persName ref="http://viaf.org/viaf/305863610" role="author">Luke</persName> in <origDate period="#nabateanKingdom #earlyRoman" notBefore="0080" notAfter="0090">
           <date>80 – 90 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/991396">Palestine</origPlace>.</creation>
       <langUsage>

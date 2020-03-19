@@ -225,7 +225,7 @@
         <p/>
       </abstract>
       <creation>This entry is taken from <title ref="urn:cts:greekLit:tlg0031.tlg005" type="uniform" level="m">Acts</title>
-        <ref target="#bib67-1">10.1</ref> written by <persName ref="http://viaf.org/viaf/305863610" role="author">Luke</persName> in <origDate notBefore="0080" notAfter="0090">
+        <ref target="#bib67-1">10.1</ref> written by <persName ref="http://viaf.org/viaf/305863610" role="author">Luke</persName> in <origDate period="#nabateanKingdom #earlyRoman" notBefore="0080" notAfter="0090">
           <date>80 – 90 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/991396">Palestine</origPlace>.</creation>
       <langUsage>
@@ -249,8 +249,7 @@
       </ab>
       <desc type="abstract" xml:id="abstract67-1">
         <quote>
-        <placeName xml:lang="grc">Καισαρίᾳ</placeName>
-        </quote> are place names attested in <persName ref="http://viaf.org/viaf/305863610" role="author">Luke</persName>'s <title ref="urn:cts:greekLit:tlg0031.tlg005" type="uniform" level="m">Acts</title> 10.1. This testimonium was written circa <origDate notBefore="0080" notAfter="0090">
+        <placeName xml:lang="grc">Καισαρίᾳ</placeName></quote> are place names attested in <persName ref="http://viaf.org/viaf/305863610" role="author">Luke</persName>'s <title ref="urn:cts:greekLit:tlg0031.tlg005" type="uniform" level="m">Acts</title> 10.1. This testimonium was written circa <origDate notBefore="0080" notAfter="0090">
           <date>80 – 90 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/991396">Palestine</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote67-1">

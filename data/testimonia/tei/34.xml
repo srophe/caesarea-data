@@ -224,7 +224,7 @@
         <p/>
       </abstract>
       <creation>This entry is taken from <title ref="urn:cts:greekLit:tlg0526.tlg004" type="uniform" level="m">The Jewish War</title>
-        <ref target="#bib34-1">5.40.</ref> written by <persName ref="http://viaf.org/viaf/22143666" role="author">Flavius Josephus</persName> in <origDate notBefore="0070" notAfter="0090">
+        <ref target="#bib34-1">5.40.</ref> written by <persName ref="http://viaf.org/viaf/22143666" role="author">Flavius Josephus</persName> in <origDate period="#nabateanKingdom #earlyRoman" notBefore="0070" notAfter="0090">
           <date>70 - 90 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</creation>
       <langUsage>
@@ -247,11 +247,7 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/34</idno>
       </ab>
       <desc type="abstract" xml:id="abstract34-1">
-        <quote>
-          <placeName xml:lang="grc">Καισαρείας</placeName>
-        </quote>,  and <quote>
-          <placeName xml:lang="en">Cesarea</placeName>
-        </quote> are place names attested in <persName ref="http://viaf.org/viaf/22143666" role="author">Flavius Josephus</persName>'s <title ref="urn:cts:greekLit:tlg0526.tlg004" type="uniform" level="m">The Jewish War</title> 5.40.. This testimonium was written circa <origDate notBefore="0070" notAfter="0090">
+        <quote><placeName xml:lang="grc">Καισαρείας</placeName></quote>,  and <quote><placeName xml:lang="en">Cesarea</placeName></quote> are place names attested in <persName ref="http://viaf.org/viaf/22143666" role="author">Flavius Josephus</persName>'s <title ref="urn:cts:greekLit:tlg0526.tlg004" type="uniform" level="m">The Jewish War</title> 5.40.. This testimonium was written circa <origDate notBefore="0070" notAfter="0090">
           <date>70 - 90 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote34-1">

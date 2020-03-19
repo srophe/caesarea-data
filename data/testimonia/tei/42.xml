@@ -224,7 +224,7 @@
         <p/>
       </abstract>
       <creation>This entry is taken from <title ref="urn:cts:greekLit:tlg0526.tlg002" type="uniform" level="m">The Life of Flavius Josephus</title>
-        <ref target="#bib42-1">65-68</ref> written by <persName ref="http://viaf.org/viaf/22143666" role="author">Flavius Josephus</persName> in <origDate notBefore="0094" notAfter="0099">
+        <ref target="#bib42-1">65-68</ref> written by <persName ref="http://viaf.org/viaf/22143666" role="author">Flavius Josephus</persName> in <origDate period="#nabateanKingdom #earlyRoman" notBefore="0094" notAfter="0099">
           <date>94 - 99 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</creation>
       <langUsage>

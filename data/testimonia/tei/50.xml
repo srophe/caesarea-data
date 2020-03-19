@@ -225,7 +225,7 @@
         <p/>
       </abstract>
       <creation>This entry is taken from <title ref="urn:cts:latinLit:stoa0023.stoa001" type="uniform" level="m">History</title>
-        <ref target="#bib50-1">14.11</ref> written by <persName ref="http://viaf.org/viaf/89594750" role="author">Ammianus Marcellinus</persName> in <origDate notBefore="0380" notAfter="0391">
+        <ref target="#bib50-1">14.11</ref> written by <persName ref="http://viaf.org/viaf/89594750" role="author">Ammianus Marcellinus</persName> in <origDate period="#byzantine" notBefore="0380" notAfter="0391">
           <date>380 – 391 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</creation>
       <langUsage>

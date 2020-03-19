@@ -19,6 +19,11 @@
         </lucene>
         <!-- Range indexes -->
         <range>
+            <!-- caesarea indexes -->
+            <create qname="tei:origDate" type="xs:string"/>
+            <create qname="tei:origPlace" type="xs:string"/>
+            <create qname="tei:language" type="xs:string"/>
+            <!-- end caesarea indexes -->
             <create qname="@syriaca-computed-start" type="xs:date"/>
             <create qname="@syriaca-computed-end" type="xs:date"/>
             <create qname="@type" type="xs:string"/>

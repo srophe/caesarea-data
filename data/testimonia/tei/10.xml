@@ -224,7 +224,7 @@
         <p/>
       </abstract>
       <creation>This entry is taken from <title ref="urn:cts:greekLit:tlg0526.tlg001" type="uniform" level="m">Antiquities of the Jews</title>
-        <ref target="#bib10-1">18.55-18.59</ref> written by <persName ref="http://viaf.org/viaf/22143666" role="author">Flavius Josephus</persName> in <origDate notBefore="0093" notAfter="0094">
+        <ref target="#bib10-1">18.55-18.59</ref> written by <persName ref="http://viaf.org/viaf/22143666" role="author">Flavius Josephus</persName> in <origDate period="#nabateanKingdom #earlyRoman" notBefore="0093" notAfter="0094">
           <date>93 - 94 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</creation>
       <langUsage>
@@ -247,19 +247,7 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/10</idno>
       </ab>
       <desc type="abstract" xml:id="abstract10-1">
-        <quote>
-          <placeName xml:lang="grc">Καισαρείας</placeName>
-        </quote>, <quote>
-          <placeName xml:lang="grc">Καισάρειαν</placeName>
-        </quote>, <quote>
-          <placeName xml:lang="grc">Καισάρειαν</placeName>
-        </quote>,  and <quote>
-          <placeName xml:lang="en">Cesarea</placeName>
-        </quote>and <quote>
-          <placeName xml:lang="en">Cesarea</placeName>
-        </quote>and <quote>
-          <placeName xml:lang="en">Cesarea</placeName>
-        </quote> are place names attested in <persName ref="http://viaf.org/viaf/22143666" role="author">Flavius Josephus</persName>'s <title ref="urn:cts:greekLit:tlg0526.tlg001" type="uniform" level="m">Antiquities of the Jews</title> 18.55-18.59. This testimonium was written circa <origDate notBefore="0093" notAfter="0094">
+        <quote><placeName xml:lang="grc">Καισαρείας</placeName></quote>, <quote><placeName xml:lang="grc">Καισάρειαν</placeName></quote>, <quote><placeName xml:lang="grc">Καισάρειαν</placeName></quote>,  and <quote><placeName xml:lang="en">Cesarea</placeName></quote>and <quote><placeName xml:lang="en">Cesarea</placeName></quote>and <quote><placeName xml:lang="en">Cesarea</placeName></quote> are place names attested in <persName ref="http://viaf.org/viaf/22143666" role="author">Flavius Josephus</persName>'s <title ref="urn:cts:greekLit:tlg0526.tlg001" type="uniform" level="m">Antiquities of the Jews</title> 18.55-18.59. This testimonium was written circa <origDate notBefore="0093" notAfter="0094">
           <date>93 - 94 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote10-1">
