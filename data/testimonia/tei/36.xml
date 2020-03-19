@@ -251,9 +251,11 @@
           <date>70 - 90 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote36-1">
+        <anchor xml:id="testimonia-36.grc.1" corresp="testimonia-36.en.1"/>
         <quote source="#bib36-1">Τίτος δὲ ἀπὸ <placeName xml:lang="grc">τῆς ἐπὶ θαλάττῃ Καισαρείας</placeName> ἀναζεύξας εἰς τὴν Φιλίππουκαλουμένην Καισάρειαν ἧκε συχνόν</quote>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote36-2">
+        <anchor xml:id="testimonia-36.en.1" corresp="testimonia-36.grc.1"/>
         <quote source="#bib36-2">But as for Titus, he marched from that <placeName xml:lang="en">Cesarea which lay by the sea-side</placeName>, and came to that which is named Cesarea Philippi,</quote>
       </ab>
       <listBibl>

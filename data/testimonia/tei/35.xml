@@ -251,9 +251,11 @@
           <date>70 - 90 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote35-1">
+        <anchor xml:id="testimonia-35.grc.1" corresp="testimonia-35.en.1"/>
         <quote source="#bib35-1">καὶ καταβὰς ἅμα τῷ στρατῷ πρὸς τὴνἐπὶ <placeName xml:lang="grc">τῇ θαλάττῃ Καισάρειαν</placeName> εἰς ταύτην τό τεπλῆθος τῶν λαφύρων ἀπέθετο καὶ τοὺςαἰχμαλώτους προσέταξεν ἐν αὐτῇφυλάττεσθαι: τὸν γὰρ εἰς τὴν Ἰταλίαν πλοῦνὁ χειμὼν ἐκώλυε.</quote>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote35-2">
+        <anchor xml:id="testimonia-35.en.1" corresp="testimonia-35.grc.1"/>
         <quote source="#bib35-2">He then went down with his army to <placeName xml:lang="en">that Cesarea which lay by the sea-side</placeName>, and there laid up the rest of his spoils in great quantities, and gave order that the captives should he kept there; for the winter season hindered him then from sailing into Italy.</quote>
       </ab>
       <listBibl>

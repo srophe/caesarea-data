@@ -251,9 +251,11 @@
           <date>70 - 90 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote37-1">
+        <anchor xml:id="testimonia-37.grc.1" corresp="testimonia-37.en.1"/>
         <quote source="#bib37-1">Καίσαρι δὲ εἰς τὴν παράλιονἐπανελθόντι <placeName xml:lang="grc">Καισάρειαν</placeName> Σίμων προσήχθηδεδεμένος: κἀκεῖνον μὲν εἰς ὃν ἐπιτελεῖν ἐνῬώμῃ παρεσκευάζετο θρίαμβον προσέταξεφυλάττειν.</quote>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote37-2">
+        <anchor xml:id="testimonia-37.en.1" corresp="testimonia-37.grc.1"/>
         <quote source="#bib37-2">But for Simon, he was brought to Caesar in bonds, when he was come back to <placeName xml:lang="en">that Cesarea which was on the seaside</placeName>, who gave orders that he should be kept against that triumph which he was to celebrate at Rome upon this occasion.</quote>
       </ab>
       <listBibl>

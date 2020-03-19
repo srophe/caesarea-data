@@ -251,9 +251,11 @@
           <date>70 - 90 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote33-1">
+        <anchor xml:id="testimonia-33.grc.1" corresp="testimonia-33.en.1"/>
         <quote source="#bib33-1">Ὁ μὲν Τίτος ὃν προειρήκαμεν τρόπονδιοδεύσας τὴν ὑπὲρ Αἰγύπτου μέχρι Συρίαςἐρημίαν εἰς <placeName xml:lang="grc">Καισάρειαν</placeName> παρῆν ταύτῃδιεγνωκὼς προσυντάξασθαι τὰς δυνάμεις.</quote>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote33-2">
+        <anchor xml:id="testimonia-33.en.1" corresp="testimonia-33.grc.1"/>
         <quote source="#bib33-2">When therefore Titus had marched over that desert which lies between Egypt and Syria, in the manner forementioned, he came to <placeName xml:lang="en">Cesarea</placeName>, having resolved to set his forces in order at that place, before he began the war.</quote>
       </ab>
       <listBibl>

@@ -251,9 +251,11 @@
           <date>70 - 90 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote32-1">
+        <anchor xml:id="testimonia-32.grc.1" corresp="testimonia-32.en.1"/>
         <quote source="#bib32-1">τὸ πέμπτον ἐν Γάζῃ τίθεταιστρατόπεδον, μεθ᾽ ἣν εἰς Ἀσκάλωνακἀκεῖθεν εἰς Ἰάμνειαν, ἔπειτα εἰς Ἰόππην κἀξἸόππης εἰς <placeName xml:lang="grc">Καισάρειαν</placeName> ἀφικνεῖταιδιεγνωκὼς αὐτόθι τὰς ἄλλας δυνάμειςἀθροίζειν.</quote>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote32-2">
+        <anchor xml:id="testimonia-32.en.1" corresp="testimonia-32.grc.1"/>
         <quote source="#bib32-2">For his fifth station he pitched his camp at Gaza; after which he came to Ascalon, and thence to Jamnia, and after that to Joppa, and from Joppa to <placeName xml:lang="en">Cesarea</placeName>, having taken a resolution to gather all his other forces together at that place.</quote>
       </ab>
       <listBibl>
