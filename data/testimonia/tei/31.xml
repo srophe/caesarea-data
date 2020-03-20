@@ -3,7 +3,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="en" level="a">Flavius Josephus. <title level="m">The Jewish War</title> 3.410.</title>
+        <title xml:lang="en" level="a">Flavius Josephus. <title level="m">The Jewish War</title> 3.410</title>
         <title level="m" xml:lang="en">Caesarea Maritima: Literary and Documentary Testimonia</title>
         <sponsor>Vanderbilt University</sponsor>
         <principal>Joseph Rife</principal>
@@ -224,7 +224,7 @@
         <p/>
       </abstract>
       <creation>This entry is taken from <title ref="urn:cts:greekLit:tlg0526.tlg004" type="uniform" level="m">The Jewish War</title>
-        <ref target="#bib31-1">3.410.</ref> written by <persName ref="http://viaf.org/viaf/22143666" role="author">Flavius Josephus</persName> in <origDate period="#nabateanKingdom #earlyRoman" notBefore="0070" notAfter="0090">
+        <ref target="#bib31-1">3.410</ref> written by <persName ref="http://viaf.org/viaf/22143666" role="author">Flavius Josephus</persName> in <origDate period="#nabateanKingdom #earlyRoman" notBefore="0070" notAfter="0090">
           <date>70 - 90 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</creation>
       <langUsage>
@@ -232,7 +232,7 @@
       </langUsage>
       <textClass>
         <classCode scheme="https://distributed-text-services.github.io/specifications/">
-          <idno xml:base="http://data.perseus.org/citations/" type="URN">urn:cts:greekLit:tlg0526.tlg004:3.410.</idno>
+          <idno xml:base="http://data.perseus.org/citations/" type="URN">urn:cts:greekLit:tlg0526.tlg004:3.410</idno>
         </classCode>
         <catRef scheme="#CM-NEAEH" target="#"/>
       </textClass>
@@ -246,7 +246,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/31</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract31-1"> are place names attested in <persName ref="http://viaf.org/viaf/22143666" role="author">Flavius Josephus</persName>'s <title ref="urn:cts:greekLit:tlg0526.tlg004" type="uniform" level="m">The Jewish War</title> 3.410.. This testimonium was written circa <origDate notBefore="0070" notAfter="0090">
+      <desc type="abstract" xml:id="abstract31-1"> are place names attested in <persName ref="http://viaf.org/viaf/22143666" role="author">Flavius Josephus</persName>'s <title ref="urn:cts:greekLit:tlg0526.tlg004" type="uniform" level="m">The Jewish War</title> 3.410. This testimonium was written circa <origDate notBefore="0070" notAfter="0090">
           <date>70 - 90 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote31-1">
@@ -260,19 +260,19 @@
       <listBibl>
         <bibl xml:id="bib31-1">
           <ptr target="https://caesarea-maritima.org/bibl/8AEDAAIG"/>
-          <citedRange>3.410.</citedRange>
+          <citedRange>3.410</citedRange>
         </bibl>
         <bibl xml:id="bib31-2">
           <ptr target="https://caesarea-maritima.org/bibl/8G2QC2BU"/>
-          <citedRange>3.410.</citedRange>
+          <citedRange>3.410</citedRange>
         </bibl>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/QJCN6B5F"/>
-          <citedRange>3.410.</citedRange>
+          <citedRange>3.410</citedRange>
         </bibl>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/Z56XEGGL"/>
-          <citedRange>3.410.</citedRange>
+          <citedRange>3.410</citedRange>
         </bibl>
       </listBibl>
     </body>

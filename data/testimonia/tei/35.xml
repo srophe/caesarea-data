@@ -3,7 +3,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="en" level="a">Flavius Josephus. <title level="m">The Jewish War</title> 7.20.</title>
+        <title xml:lang="en" level="a">Flavius Josephus. <title level="m">The Jewish War</title> 7.20</title>
         <title level="m" xml:lang="en">Caesarea Maritima: Literary and Documentary Testimonia</title>
         <sponsor>Vanderbilt University</sponsor>
         <principal>Joseph Rife</principal>
@@ -224,7 +224,7 @@
         <p/>
       </abstract>
       <creation>This entry is taken from <title ref="urn:cts:greekLit:tlg0526.tlg004" type="uniform" level="m">The Jewish War</title>
-        <ref target="#bib35-1">7.20.</ref> written by <persName ref="http://viaf.org/viaf/22143666" role="author">Flavius Josephus</persName> in <origDate period="#nabateanKingdom #earlyRoman" notBefore="0070" notAfter="0090">
+        <ref target="#bib35-1">7.20</ref> written by <persName ref="http://viaf.org/viaf/22143666" role="author">Flavius Josephus</persName> in <origDate period="#nabateanKingdom #earlyRoman" notBefore="0070" notAfter="0090">
           <date>70 - 90 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</creation>
       <langUsage>
@@ -232,7 +232,7 @@
       </langUsage>
       <textClass>
         <classCode scheme="https://distributed-text-services.github.io/specifications/">
-          <idno xml:base="http://data.perseus.org/citations/" type="URN">urn:cts:greekLit:tlg0526.tlg004:7.20.</idno>
+          <idno xml:base="http://data.perseus.org/citations/" type="URN">urn:cts:greekLit:tlg0526.tlg004:7.20</idno>
         </classCode>
         <catRef scheme="#CM-NEAEH" target="#"/>
       </textClass>
@@ -247,7 +247,7 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/35</idno>
       </ab>
       <desc type="abstract" xml:id="abstract35-1">
-        <quote><placeName xml:lang="grc">τῇ θαλάττῃ Καισάρειαν</placeName></quote>,  and <quote><placeName xml:lang="en">that Cesarea which lay by the sea-side</placeName></quote> are place names attested in <persName ref="http://viaf.org/viaf/22143666" role="author">Flavius Josephus</persName>'s <title ref="urn:cts:greekLit:tlg0526.tlg004" type="uniform" level="m">The Jewish War</title> 7.20.. This testimonium was written circa <origDate notBefore="0070" notAfter="0090">
+        <quote><placeName xml:lang="grc">τῇ θαλάττῃ Καισάρειαν</placeName></quote>,  and <quote><placeName xml:lang="en">that Cesarea which lay by the sea-side</placeName></quote> are place names attested in <persName ref="http://viaf.org/viaf/22143666" role="author">Flavius Josephus</persName>'s <title ref="urn:cts:greekLit:tlg0526.tlg004" type="uniform" level="m">The Jewish War</title> 7.20. This testimonium was written circa <origDate notBefore="0070" notAfter="0090">
           <date>70 - 90 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote35-1">
@@ -261,19 +261,19 @@
       <listBibl>
         <bibl xml:id="bib35-1">
           <ptr target="https://caesarea-maritima.org/bibl/8AEDAAIG"/>
-          <citedRange>7.20.</citedRange>
+          <citedRange>7.20</citedRange>
         </bibl>
         <bibl xml:id="bib35-2">
           <ptr target="https://caesarea-maritima.org/bibl/8G2QC2BU"/>
-          <citedRange>7.20.</citedRange>
+          <citedRange>7.20</citedRange>
         </bibl>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/QJCN6B5F"/>
-          <citedRange>7.20.</citedRange>
+          <citedRange>7.20</citedRange>
         </bibl>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/Z56XEGGL"/>
-          <citedRange>7.20.</citedRange>
+          <citedRange>7.20</citedRange>
         </bibl>
       </listBibl>
     </body>
