@@ -252,15 +252,28 @@
           <date>80 – 90 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/991396">Palestine</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote68-1">
+        <anchor xml:id="testimonia-68.grc.1" corresp="testimonia-68.en.1"/>
         <quote source="#bib68-1">τῇ δὲ ἐπαύριον εἰσῆλθεν εἰς <placeName>τὴν Καισαρίαν</placeName>· ὁ δὲ Κορνήλιος ἦνπροσδοκῶν αὐτοὺςσυνκαλεσάμενος τοὺς συγγενεῖςαὐτοῦ καὶ τοὺς ἀναγκαίουςφίλους.</quote>
+      </ab>
+      <ab type="translation" xml:lang="en" xml:id="quote68-2">
+        <anchor xml:id="testimonia-68.en.1" corresp="testimonia-68.grc.1"/>
+        <quote source="#bib68-2">On the next day they entered into <placeName>Caesarea</placeName>. Cornelius was waiting for them, having called together his relatives and his near friends.</quote>
       </ab>
       <listBibl>
         <bibl xml:id="bib68-1">
           <ptr target="https://caesarea-maritima.org/bibl/A5CE8VEG"/>
           <citedRange>10.24</citedRange>
         </bibl>
+        <bibl xml:id="bib68-2">
+          <ptr target="https://caesarea-maritima.org/bibl/EDN6EQHI"/>
+          <citedRange>10.24</citedRange>
+        </bibl>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/5K5NF6K3"/>
+          <citedRange>10.24</citedRange>
+        </bibl>
+        <bibl>
+          <ptr target="https://caesarea-maritima.org/bibl/A8CENJCA"/>
           <citedRange>10.24</citedRange>
         </bibl>
       </listBibl>

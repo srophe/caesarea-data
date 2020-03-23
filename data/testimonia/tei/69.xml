@@ -251,15 +251,28 @@
           <date>80 – 90 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/991396">Palestine</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote69-1">
+        <anchor xml:id="testimonia-69.grc.1" corresp="testimonia-69.en.1"/>
         <quote source="#bib69-1">ἀνοίξας δὲ Πέτρος τὸ στόμαεἶπεν Ἐπʼ ἀληθείαςκαταλαμβάνομαι ὅτι: "οὐκ ἔστιν προσωπολήμπτης ὁθεός," </quote>
+      </ab>
+      <ab type="translation" xml:lang="en" xml:id="quote69-2">
+        <anchor xml:id="testimonia-69.en.1" corresp="testimonia-69.grc.1"/>
+        <quote source="#bib69-2">Peter opened his mouth and said, "Truly I perceive that God doesn't show favoritism;</quote>
       </ab>
       <listBibl>
         <bibl xml:id="bib69-1">
           <ptr target="https://caesarea-maritima.org/bibl/A5CE8VEG"/>
           <citedRange>10.34</citedRange>
         </bibl>
+          <bibl xml:id="bib69-2">
+            <ptr target="https://caesarea-maritima.org/bibl/EDN6EQHI"/>
+            <citedRange>10.34</citedRange>
+          </bibl>
+          <bibl>
+            <ptr target="https://caesarea-maritima.org/bibl/5K5NF6K3"/>
+            <citedRange>10.34</citedRange>
+          </bibl>
         <bibl>
-          <ptr target="https://caesarea-maritima.org/bibl/5K5NF6K3"/>
+          <ptr target="https://caesarea-maritima.org/bibl/A8CENJCA"/>
           <citedRange>10.34</citedRange>
         </bibl>
       </listBibl>

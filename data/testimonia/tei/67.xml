@@ -253,15 +253,28 @@
           <date>80 – 90 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/991396">Palestine</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote67-1">
+        <anchor xml:id="testimonia-67.grc.1" corresp="testimonia-67.en.1"/>
         <quote source="#bib67-1">Ἀνὴρ δέ τις ἐν <placeName>Καισαρίᾳ</placeName> ὀνόματιΚορνήλιος, ἑκατοντάρχης ἐκσπείρης τῆς καλουμένηςἸταλικῆς,</quote>
+      </ab>
+      <ab type="translation" xml:lang="en" xml:id="quote67-2">
+        <anchor xml:id="testimonia-67.en.1" corresp="testimonia-67.grc.1"/>
+        <quote source="#bib67-2">Now there was a certain man in <placeName>Caesarea</placeName>, Cornelius by name, a centurion of what was called the Italian Regiment, </quote>
       </ab>
       <listBibl>
         <bibl xml:id="bib67-1">
           <ptr target="https://caesarea-maritima.org/bibl/A5CE8VEG"/>
           <citedRange>10.1</citedRange>
         </bibl>
+        <bibl xml:id="bib67-2">
+          <ptr target="https://caesarea-maritima.org/bibl/EDN6EQHI"/>
+          <citedRange>10.1</citedRange>
+        </bibl>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/5K5NF6K3"/>
+          <citedRange>10.1</citedRange>
+        </bibl>
+        <bibl>
+          <ptr target="https://caesarea-maritima.org/bibl/A8CENJCA"/>
           <citedRange>10.1</citedRange>
         </bibl>
       </listBibl>

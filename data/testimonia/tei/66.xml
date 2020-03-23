@@ -253,15 +253,28 @@
           <date>80 – 90 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/991396">Palestine</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote66-1">
+        <anchor xml:id="testimonia-66.grc.1" corresp="testimonia-66.en.1"/>
         <quote source="#bib66-1">ἐπιγνόντες δὲ οἱ ἀδελφοὶκατήγαγον αὐτὸν εἰς <placeName>Καισαρίαν</placeName> καὶ ἐξαπέστειλαν αὐτὸν εἰςΤαρσόν.</quote>
+      </ab>
+      <ab type="translation" xml:lang="en" xml:id="quote66-2">
+        <anchor xml:id="testimonia-66.en.1" corresp="testimonia-66.grc.1"/>
+        <quote source="#bib66-2">When the brothers knew it, they brought him down to <placeName>Caesarea</placeName>, and sent him out to Tarsus. </quote>
       </ab>
       <listBibl>
         <bibl xml:id="bib66-1">
           <ptr target="https://caesarea-maritima.org/bibl/A5CE8VEG"/>
           <citedRange>9.30</citedRange>
         </bibl>
+        <bibl xml:id="bib66-2">
+          <ptr target="https://caesarea-maritima.org/bibl/EDN6EQHI"/>
+          <citedRange>9.30</citedRange>
+        </bibl>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/5K5NF6K3"/>
+          <citedRange>9.30</citedRange>
+        </bibl>
+        <bibl>
+          <ptr target="https://caesarea-maritima.org/bibl/A8CENJCA"/>
           <citedRange>9.30</citedRange>
         </bibl>
       </listBibl>
