@@ -1,4 +1,5 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -61,7 +62,19 @@
             <title>Caesarea-Maritima.org Chronology</title>: This chronology is adapted from the chronology used in<bibl>
               <title level="m">The New Encyclopedia of Archaeological Excavations in the Holy Land</title>
               <ptr target="https://caesarea-maritima.org/bibl/HG492LV3"/>
-            <editor><forename>Ephraim</forename><surname>Stern</surname></editor><editor><forename>Ayelet</forename><surname>Levinzon-Gilbo'a</surname></editor><editor><forename>J.</forename><surname>Aviram</surname></editor></bibl>.  This taxonomy is used in the<gi>catRef</gi>encoding to classify the testimonia according to the time period(s) of the events described, rather than the date of composition of the testimonium. For example, Josephus may describe events occuring well before the period of his writing.</desc>
+            <editor>
+                <forename>Ephraim</forename>
+                <surname>Stern</surname>
+              </editor>
+              <editor>
+                <forename>Ayelet</forename>
+                <surname>Levinzon-Gilbo'a</surname>
+              </editor>
+              <editor>
+                <forename>J.</forename>
+                <surname>Aviram</surname>
+              </editor>
+            </bibl>.  This taxonomy is used in the<gi>catRef</gi>encoding to classify the testimonia according to the time period(s) of the events described, rather than the date of composition of the testimonium. For example, Josephus may describe events occuring well before the period of his writing.</desc>
           <category xml:id="lowerPaleolithic">
             <catDesc>Lower Paleolithic, 999999-119999 BCE</catDesc>
           </category>
@@ -237,7 +250,9 @@
       </textClass>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-03-30-04:00">CHANGED: Update bibl elements with full citation information from Syriaca.org entry.</change><change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-03-30-04:00">CHANGED: Update bibl elements with full citation information from Syriaca.org entry.</change><change who="http://caesarea-maritima.org/documentation/editors.xml#wpotter" when="2020-03-09-05:00">CREATED: testimonium</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-03-30-04:00">CHANGED: Update bibl elements with full citation information from Syriaca.org entry.</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-03-30-04:00">CHANGED: Update bibl elements with full citation information from Syriaca.org entry.</change>
+      <change who="http://caesarea-maritima.org/documentation/editors.xml#wpotter" when="2020-03-09-05:00">CREATED: testimonium</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -246,7 +261,7 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/44</idno>
       </ab>
       <desc type="abstract" xml:id="abstract44-1">
-        <quote><placeName xml:lang="la">Caesaream</placeName></quote>,  and <quote><placeName xml:lang="en">Cæsarea</placeName></quote> are place names attested in <persName ref="http://viaf.org/viaf/100226923" role="author">Cornelius Tacitus</persName>'s <title ref="urn:cts:latinLit:phi1351.phi004" type="uniform" level="m">The Histories</title> 2.82-2.83. This testimonium was written circa <origDate notBefore="0100" notAfter="0110">
+        <quote><placeName xml:lang="la">Caesaream</placeName></quote>,  and <quote><placeName xml:lang="en">Cæsarea</placeName></quote> are place names attested in <persName ref="http://viaf.org/viaf/100226923" role="author">Cornelius Tacitus</persName>'s <title ref="urn:cts:latinLit:phi1351.phi004" type="uniform" level="m">The Histories</title> 2.82-2.83. This testimonium was written circa <origDate period="#earlyRoman" notBefore="0100" notAfter="0110">
           <date>100 - 110 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote44-1">
@@ -261,19 +276,45 @@
         <bibl xml:id="bib44-1">
           <ptr target="https://caesarea-maritima.org/bibl/5M7TNR6Y"/>
           <citedRange>2.82-2.83</citedRange>
-        <title level="m">Historiae: Machine Readable Text</title><author><name>Cornelius Tacitus</name></author><editor><forename>Charles Dennis</forename><surname>Fisher</surname></editor></bibl>
+        <title level="m">Historiae: Machine Readable Text</title>
+          <author>
+            <name>Cornelius Tacitus</name>
+          </author>
+          <editor>
+            <forename>Charles Dennis</forename>
+            <surname>Fisher</surname>
+          </editor>
+        </bibl>
         <bibl xml:id="bib44-2">
           <ptr target="https://caesarea-maritima.org/bibl/4ZX2V9RM"/>
           <citedRange>2.79</citedRange>
-        <title level="m">The History: Machine Readable Text</title><author><name>Cornelius Tacitus</name></author></bibl>
+        <title level="m">The History: Machine Readable Text</title>
+          <author>
+            <name>Cornelius Tacitus</name>
+          </author>
+        </bibl>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/6P4W5KQS"/>
           <citedRange>2.82-2.83</citedRange>
-        <title level="m">Historiae</title><author><forename>Cornelius</forename><surname>Tacitus</surname></author><author><forename>Charles Dennis</forename><surname>Fisher</surname></author></bibl>
+        <title level="m">Historiae</title>
+          <author>
+            <forename>Cornelius</forename>
+            <surname>Tacitus</surname>
+          </author>
+          <author>
+            <forename>Charles Dennis</forename>
+            <surname>Fisher</surname>
+          </author>
+        </bibl>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/USQ49VQV"/>
           <citedRange>2.79</citedRange>
-        <title level="m">History</title><author><forename>Cornelius</forename><surname>Tacitus</surname></author></bibl>
+        <title level="m">History</title>
+          <author>
+            <forename>Cornelius</forename>
+            <surname>Tacitus</surname>
+          </author>
+        </bibl>
       </listBibl>
     </body>
   </text>

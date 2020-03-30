@@ -1,4 +1,5 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -61,7 +62,19 @@
             <title>Caesarea-Maritima.org Chronology</title>: This chronology is adapted from the chronology used in<bibl>
               <title level="m">The New Encyclopedia of Archaeological Excavations in the Holy Land</title>
               <ptr target="https://caesarea-maritima.org/bibl/HG492LV3"/>
-            <editor><forename>Ephraim</forename><surname>Stern</surname></editor><editor><forename>Ayelet</forename><surname>Levinzon-Gilbo'a</surname></editor><editor><forename>J.</forename><surname>Aviram</surname></editor></bibl>.  This taxonomy is used in the<gi>catRef</gi>encoding to classify the testimonia according to the time period(s) of the events described, rather than the date of composition of the testimonium. For example, Josephus may describe events occuring well before the period of his writing.</desc>
+            <editor>
+                <forename>Ephraim</forename>
+                <surname>Stern</surname>
+              </editor>
+              <editor>
+                <forename>Ayelet</forename>
+                <surname>Levinzon-Gilbo'a</surname>
+              </editor>
+              <editor>
+                <forename>J.</forename>
+                <surname>Aviram</surname>
+              </editor>
+            </bibl>.  This taxonomy is used in the<gi>catRef</gi>encoding to classify the testimonia according to the time period(s) of the events described, rather than the date of composition of the testimonium. For example, Josephus may describe events occuring well before the period of his writing.</desc>
           <category xml:id="lowerPaleolithic">
             <catDesc>Lower Paleolithic, 999999-119999 BCE</catDesc>
           </category>
@@ -237,7 +250,8 @@
       </textClass>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-03-30-04:00">CHANGED: Update bibl elements with full citation information from Syriaca.org entry.</change><change who="http://caesarea-maritima.org/documentation/editors.xml#wpotter" when="2020-03-09-05:00">CREATED: testimonium</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-03-30-04:00">CHANGED: Update bibl elements with full citation information from Syriaca.org entry.</change>
+      <change who="http://caesarea-maritima.org/documentation/editors.xml#wpotter" when="2020-03-09-05:00">CREATED: testimonium</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -246,7 +260,7 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/29</idno>
       </ab>
       <desc type="abstract" xml:id="abstract29-1">
-        <quote><placeName xml:lang="grc">Καισαρεῖς</placeName></quote>, <quote><placeName xml:lang="grc">τὴν Καισάρειαν</placeName></quote>, <quote><placeName xml:lang="grc">τῆς Καισαρείας</placeName></quote>, <quote><placeName xml:lang="grc">Καισάρειαν</placeName></quote>,  and <quote><placeName xml:lang="en">Cesarea</placeName></quote>and <quote><placeName xml:lang="en">Cesarea</placeName></quote>and <quote><placeName xml:lang="en">Cesarea</placeName></quote>and <quote><placeName xml:lang="en">Cesarea</placeName></quote> are place names attested in <persName ref="http://viaf.org/viaf/22143666" role="author">Flavius Josephus</persName>'s <title ref="urn:cts:greekLit:tlg0526.tlg004" type="uniform" level="m">The Jewish War</title> 2.449-2.460. This testimonium was written circa <origDate notBefore="0070" notAfter="0090">
+        <quote><placeName xml:lang="grc">Καισαρεῖς</placeName></quote>, <quote><placeName xml:lang="grc">τὴν Καισάρειαν</placeName></quote>, <quote><placeName xml:lang="grc">τῆς Καισαρείας</placeName></quote>, <quote><placeName xml:lang="grc">Καισάρειαν</placeName></quote>,  and <quote><placeName xml:lang="en">Cesarea</placeName></quote> are place names attested in <persName ref="http://viaf.org/viaf/22143666" role="author">Flavius Josephus</persName>'s <title ref="urn:cts:greekLit:tlg0526.tlg004" type="uniform" level="m">The Jewish War</title> 2.449-2.460. This testimonium was written circa <origDate period="#nabateanKingdom #earlyRoman" notBefore="0070" notAfter="0090">
           <date>70 - 90 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote29-1">
@@ -261,19 +275,46 @@
         <bibl xml:id="bib29-1">
           <ptr target="https://caesarea-maritima.org/bibl/8AEDAAIG"/>
           <citedRange>2.449-2.460</citedRange>
-        <title level="m">De Bello Judaico Libri VII: Machine Readable Text</title><author><forename>Flavius</forename><surname>Josephus</surname></author><editor><forename>B.</forename><surname>Niese</surname></editor></bibl>
+        <title level="m">De Bello Judaico Libri VII: Machine Readable Text</title>
+          <author>
+            <forename>Flavius</forename>
+            <surname>Josephus</surname>
+          </author>
+          <editor>
+            <forename>B.</forename>
+            <surname>Niese</surname>
+          </editor>
+        </bibl>
         <bibl xml:id="bib29-2">
           <ptr target="https://caesarea-maritima.org/bibl/8G2QC2BU"/>
           <citedRange>2.449-2.460</citedRange>
-        <title level="m">The Wars of the Jews: Machine Readable Text</title><author><forename>Flavius</forename><surname>Josephus</surname></author></bibl>
+        <title level="m">The Wars of the Jews: Machine Readable Text</title>
+          <author>
+            <forename>Flavius</forename>
+            <surname>Josephus</surname>
+          </author>
+        </bibl>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/QJCN6B5F"/>
           <citedRange>2.449-2.460</citedRange>
-        <title level="a">De Bello Judaico Libri VII</title><author><name>Flavius Josephus</name></author><editor><forename>Benedictus</forename><surname>Niese</surname></editor></bibl>
+        <title level="a">De Bello Judaico Libri VII</title>
+          <author>
+            <name>Flavius Josephus</name>
+          </author>
+          <editor>
+            <forename>Benedictus</forename>
+            <surname>Niese</surname>
+          </editor>
+        </bibl>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/Z56XEGGL"/>
           <citedRange>2.449-2.460</citedRange>
-        <title level="a">The Wars of the Jews</title><author><forename>Flavius</forename><surname>Josephus</surname></author></bibl>
+        <title level="a">The Wars of the Jews</title>
+          <author>
+            <forename>Flavius</forename>
+            <surname>Josephus</surname>
+          </author>
+        </bibl>
       </listBibl>
     </body>
   </text>

@@ -1,4 +1,5 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -61,7 +62,19 @@
               <title>Caesarea-Maritima.org Chronology</title>: This chronology is adapted from the chronology used in <bibl>
               <title level="m">The New Encyclopedia of Archaeological Excavations in the Holy Land</title>
               <ptr target="https://caesarea-maritima.org/bibl/HG492LV3"/>
-            <editor><forename>Ephraim</forename><surname>Stern</surname></editor><editor><forename>Ayelet</forename><surname>Levinzon-Gilbo'a</surname></editor><editor><forename>J.</forename><surname>Aviram</surname></editor></bibl>.  This taxonomy is used in the <gi>catRef</gi> encoding to classify the testimonia according to the time period(s) of the events described, rather than the date of composition of the testimonium. For example, Josephus may describe events occuring well before the period of his writing.
+            <editor>
+                <forename>Ephraim</forename>
+                <surname>Stern</surname>
+              </editor>
+              <editor>
+                <forename>Ayelet</forename>
+                <surname>Levinzon-Gilbo'a</surname>
+              </editor>
+              <editor>
+                <forename>J.</forename>
+                <surname>Aviram</surname>
+              </editor>
+            </bibl>.  This taxonomy is used in the <gi>catRef</gi> encoding to classify the testimonia according to the time period(s) of the events described, rather than the date of composition of the testimonium. For example, Josephus may describe events occuring well before the period of his writing.
             </desc>
             <category xml:id="lowerPaleolithic">
               <catDesc>Lower Paleolithic, 999999-119999 BCE</catDesc>
@@ -238,7 +251,8 @@
       </textClass>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-03-30-04:00">CHANGED: Update bibl elements with full citation information from Syriaca.org entry.</change><change who="http://caesarea-maritima.org/documentation/editors.xml#wpotter" when="2020-03-02-06:00">CREATED: testimonium</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-03-30-04:00">CHANGED: Update bibl elements with full citation information from Syriaca.org entry.</change>
+      <change who="http://caesarea-maritima.org/documentation/editors.xml#wpotter" when="2020-03-02-06:00">CREATED: testimonium</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -246,7 +260,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/69</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract69-1"> are place names attested in <persName ref="http://viaf.org/viaf/305863610" role="author">Luke the Evangelist</persName>'s <title ref="urn:cts:greekLit:tlg0031.tlg005" type="uniform" level="m">Acts</title> 10.34. This testimonium was written circa <origDate notBefore="0080" notAfter="0090">
+      <desc type="abstract" xml:id="abstract69-1"> are place names attested in <persName ref="http://viaf.org/viaf/305863610" role="author">Luke the Evangelist</persName>'s <title ref="urn:cts:greekLit:tlg0031.tlg005" type="uniform" level="m">Acts</title> 10.34. This testimonium was written circa <origDate period="#nabateanKingdom #earlyRoman" notBefore="0080" notAfter="0090">
           <date>80 – 90 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote69-1">
@@ -261,19 +275,49 @@
         <bibl xml:id="bib69-1">
           <ptr target="https://caesarea-maritima.org/bibl/A5CE8VEG"/>
           <citedRange>10.34</citedRange>
-        <title level="m">New Testament - Acts: Machine Readable Text</title><editor><forename>Brooke Foss</forename><surname>Westcott</surname></editor><editor><forename>Fenton John Anthony</forename><surname>Hort</surname></editor></bibl>
+        <title level="m">New Testament - Acts: Machine Readable Text</title>
+          <editor>
+            <forename>Brooke Foss</forename>
+            <surname>Westcott</surname>
+          </editor>
+          <editor>
+            <forename>Fenton John Anthony</forename>
+            <surname>Hort</surname>
+          </editor>
+        </bibl>
           <bibl xml:id="bib69-2">
             <ptr target="https://caesarea-maritima.org/bibl/EDN6EQHI"/>
             <citedRange>10.34</citedRange>
-          <title level="m">World English Bible - Acts: Machine Readable Text</title><editor><name>Rainbow Missions, Inc.</name></editor></bibl>
+          <title level="m">World English Bible - Acts: Machine Readable Text</title>
+          <editor>
+            <name>Rainbow Missions, Inc.</name>
+          </editor>
+        </bibl>
           <bibl>
             <ptr target="https://caesarea-maritima.org/bibl/5K5NF6K3"/>
             <citedRange>10.34</citedRange>
-          <title level="m">The New Testament in the original Greek</title><editor><forename>Brooke Foss</forename><surname>Westcott</surname></editor><editor><forename>Fenton John Anthony</forename><surname>Hort</surname></editor><editor><forename>Philip</forename><surname>Schaff</surname></editor></bibl>
+          <title level="m">The New Testament in the original Greek</title>
+          <editor>
+            <forename>Brooke Foss</forename>
+            <surname>Westcott</surname>
+          </editor>
+          <editor>
+            <forename>Fenton John Anthony</forename>
+            <surname>Hort</surname>
+          </editor>
+          <editor>
+            <forename>Philip</forename>
+            <surname>Schaff</surname>
+          </editor>
+        </bibl>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/A8CENJCA"/>
           <citedRange>10.34</citedRange>
-        <title level="a">Acts of the Apostles</title><editor><name>Rainbow Missions, Inc.</name></editor></bibl>
+        <title level="a">Acts of the Apostles</title>
+          <editor>
+            <name>Rainbow Missions, Inc.</name>
+          </editor>
+        </bibl>
       </listBibl>
     </body>
   </text>

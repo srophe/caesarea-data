@@ -1,4 +1,5 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -61,7 +62,19 @@
             <title>Caesarea-Maritima.org Chronology</title>: This chronology is adapted from the chronology used in<bibl>
               <title level="m">The New Encyclopedia of Archaeological Excavations in the Holy Land</title>
               <ptr target="https://caesarea-maritima.org/bibl/HG492LV3"/>
-            <editor><forename>Ephraim</forename><surname>Stern</surname></editor><editor><forename>Ayelet</forename><surname>Levinzon-Gilbo'a</surname></editor><editor><forename>J.</forename><surname>Aviram</surname></editor></bibl>.  This taxonomy is used in the<gi>catRef</gi>encoding to classify the testimonia according to the time period(s) of the events described, rather than the date of composition of the testimonium. For example, Josephus may describe events occuring well before the period of his writing.</desc>
+            <editor>
+                <forename>Ephraim</forename>
+                <surname>Stern</surname>
+              </editor>
+              <editor>
+                <forename>Ayelet</forename>
+                <surname>Levinzon-Gilbo'a</surname>
+              </editor>
+              <editor>
+                <forename>J.</forename>
+                <surname>Aviram</surname>
+              </editor>
+            </bibl>.  This taxonomy is used in the<gi>catRef</gi>encoding to classify the testimonia according to the time period(s) of the events described, rather than the date of composition of the testimonium. For example, Josephus may describe events occuring well before the period of his writing.</desc>
           <category xml:id="lowerPaleolithic">
             <catDesc>Lower Paleolithic, 999999-119999 BCE</catDesc>
           </category>
@@ -237,7 +250,8 @@
       </textClass>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-03-30-04:00">CHANGED: Update bibl elements with full citation information from Syriaca.org entry.</change><change who="http://caesarea-maritima.org/documentation/editors.xml#wpotter" when="2020-03-09-05:00">CREATED: testimonium</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-03-30-04:00">CHANGED: Update bibl elements with full citation information from Syriaca.org entry.</change>
+      <change who="http://caesarea-maritima.org/documentation/editors.xml#wpotter" when="2020-03-09-05:00">CREATED: testimonium</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -245,7 +259,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/55</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract55-1"> are place names attested in <persName ref="http://viaf.org/viaf/100172302" role="author">Procopius</persName>'s <title ref="urn:cts:greekLit:tlg4029.tlg002" type="uniform" level="m">Secret History</title> 27.26-27.31. This testimonium was written circa <origDate notBefore="0550" notAfter="0558">
+      <desc type="abstract" xml:id="abstract55-1"> are place names attested in <persName ref="http://viaf.org/viaf/100172302" role="author">Procopius</persName>'s <title ref="urn:cts:greekLit:tlg4029.tlg002" type="uniform" level="m">Secret History</title> 27.26-27.31. This testimonium was written circa <origDate period="#byzantine" notBefore="0550" notAfter="0558">
           <date>550 - 558 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote55-1">
@@ -255,11 +269,27 @@
         <bibl xml:id="bib55-1">
           <ptr target="https://caesarea-maritima.org/bibl/SW5BHIPQ"/>
           <citedRange>27.26-27.31</citedRange>
-        <title level="m">Historia Arcana (Anecdota): Machine Readable Text</title><author><name>Procopius</name></author><editor><forename>Michael</forename><surname>Krascheninnikov</surname></editor></bibl>
+        <title level="m">Historia Arcana (Anecdota): Machine Readable Text</title>
+          <author>
+            <name>Procopius</name>
+          </author>
+          <editor>
+            <forename>Michael</forename>
+            <surname>Krascheninnikov</surname>
+          </editor>
+        </bibl>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/8K7THZJK"/>
           <citedRange>27.26-27.31</citedRange>
-        <title level="m">Procopii Caesariensis Anecdota qvae dicvntvr</title><author><name>Procopius</name></author><editor><forename>Mikhail Nikitich</forename><surname>Krasheninnikov</surname></editor></bibl>
+        <title level="m">Procopii Caesariensis Anecdota qvae dicvntvr</title>
+          <author>
+            <name>Procopius</name>
+          </author>
+          <editor>
+            <forename>Mikhail Nikitich</forename>
+            <surname>Krasheninnikov</surname>
+          </editor>
+        </bibl>
       </listBibl>
     </body>
   </text>
