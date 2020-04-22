@@ -268,13 +268,13 @@
         </quote> are place names attested in <persName ref="http://viaf.org/viaf/305863610" role="author">Luke the Evangelist</persName>'s <title ref="urn:cts:greekLit:tlg0031.tlg005" type="uniform" level="m">Acts</title> 10.24. This testimonium was written circa <origDate period="#nabateanKingdom #earlyRoman" notBefore="0080" notAfter="0090">
           <date>80 – 90 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
-      <ab type="edition" xml:lang="grc" xml:id="quote68-1">
+      <ab type="edition" xml:lang="grc" xml:id="quote68-1" source="#bib68-1">
         <anchor xml:id="testimonia-68.grc.1" corresp="testimonia-68.en.1"/>
-        <quote source="#bib68-1">τῇ δὲ ἐπαύριον εἰσῆλθεν εἰς <placeName>τὴν Καισαρίαν</placeName>· ὁ δὲ Κορνήλιος ἦνπροσδοκῶν αὐτοὺςσυνκαλεσάμενος τοὺς συγγενεῖςαὐτοῦ καὶ τοὺς ἀναγκαίουςφίλους.</quote>
+        τῇ δὲ ἐπαύριον εἰσῆλθεν εἰς <placeName>τὴν Καισαρίαν</placeName>· ὁ δὲ Κορνήλιος ἦνπροσδοκῶν αὐτοὺςσυνκαλεσάμενος τοὺς συγγενεῖςαὐτοῦ καὶ τοὺς ἀναγκαίουςφίλους.
       </ab>
-      <ab type="translation" xml:lang="en" xml:id="quote68-2">
+      <ab type="translation" xml:lang="en" xml:id="quote68-2" source="#bib68-2">
         <anchor xml:id="testimonia-68.en.1" corresp="testimonia-68.grc.1"/>
-        <quote source="#bib68-2">On the next day they entered into <placeName>Caesarea</placeName>. Cornelius was waiting for them, having called together his relatives and his near friends.</quote>
+        On the next day they entered into <placeName>Caesarea</placeName>. Cornelius was waiting for them, having called together his relatives and his near friends.
       </ab>
       <listBibl>
         <bibl xml:id="bib68-1">

@@ -263,13 +263,13 @@
       <desc type="abstract" xml:id="abstract69-1"> are place names attested in <persName ref="http://viaf.org/viaf/305863610" role="author">Luke the Evangelist</persName>'s <title ref="urn:cts:greekLit:tlg0031.tlg005" type="uniform" level="m">Acts</title> 10.34. This testimonium was written circa <origDate period="#nabateanKingdom #earlyRoman" notBefore="0080" notAfter="0090">
           <date>80 – 90 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
-      <ab type="edition" xml:lang="grc" xml:id="quote69-1">
+      <ab type="edition" xml:lang="grc" xml:id="quote69-1" source="#bib69-1">
         <anchor xml:id="testimonia-69.grc.1" corresp="testimonia-69.en.1"/>
-        <quote source="#bib69-1">ἀνοίξας δὲ Πέτρος τὸ στόμαεἶπεν Ἐπʼ ἀληθείαςκαταλαμβάνομαι ὅτι: "οὐκ ἔστιν προσωπολήμπτης ὁθεός," </quote>
+        ἀνοίξας δὲ Πέτρος τὸ στόμαεἶπεν Ἐπʼ ἀληθείαςκαταλαμβάνομαι ὅτι: "οὐκ ἔστιν προσωπολήμπτης ὁθεός," 
       </ab>
-      <ab type="translation" xml:lang="en" xml:id="quote69-2">
+      <ab type="translation" xml:lang="en" xml:id="quote69-2" source="#bib69-2">
         <anchor xml:id="testimonia-69.en.1" corresp="testimonia-69.grc.1"/>
-        <quote source="#bib69-2">Peter opened his mouth and said, "Truly I perceive that God doesn't show favoritism;</quote>
+        Peter opened his mouth and said, "Truly I perceive that God doesn't show favoritism;
       </ab>
       <listBibl>
         <bibl xml:id="bib69-1">

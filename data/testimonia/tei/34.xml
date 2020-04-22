@@ -263,13 +263,13 @@
         <quote><placeName xml:lang="grc">Καισαρείας</placeName></quote>,  and <quote><placeName xml:lang="en">Cesarea</placeName></quote> are place names attested in <persName ref="http://viaf.org/viaf/22143666" role="author">Flavius Josephus</persName>'s <title ref="urn:cts:greekLit:tlg0526.tlg004" type="uniform" level="m">The Jewish War</title> 5.40. This testimonium was written circa <origDate period="#nabateanKingdom #earlyRoman" notBefore="0070" notAfter="0090">
           <date>70 - 90 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
-      <ab type="edition" xml:lang="grc" xml:id="quote34-1">
+      <ab type="edition" xml:lang="grc" xml:id="quote34-1" source="#bib34-1">
         <anchor xml:id="testimonia-34.grc.1" corresp="testimonia-34.en.1"/>
-        <quote source="#bib34-1">ὁ γὰρ δὴ Τίτος ἐπειδὴ τὰ μὲν συνήγαγετῆς δυνάμεως πρὸς αὑτόν, τοῖς δὲ ἐπὶἹεροσολύμων συναντᾶν ἐπέστειλεν, ἐξήλαυνετῆς <placeName xml:lang="grc">Καισαρείας</placeName>.</quote>
+        ὁ γὰρ δὴ Τίτος ἐπειδὴ τὰ μὲν συνήγαγετῆς δυνάμεως πρὸς αὑτόν, τοῖς δὲ ἐπὶἹεροσολύμων συναντᾶν ἐπέστειλεν, ἐξήλαυνετῆς <placeName xml:lang="grc">Καισαρείας</placeName>.
       </ab>
-      <ab type="translation" xml:lang="en" xml:id="quote34-2">
+      <ab type="translation" xml:lang="en" xml:id="quote34-2" source="#bib34-2">
         <anchor xml:id="testimonia-34.en.1" corresp="testimonia-34.grc.1"/>
-        <quote source="#bib34-2">For Titus, when he had gotten together part of his forces about him, and had ordered the rest to meet him at Jerusalem, marched out of <placeName xml:lang="en">Cesarea</placeName>.</quote>
+        For Titus, when he had gotten together part of his forces about him, and had ordered the rest to meet him at Jerusalem, marched out of <placeName xml:lang="en">Cesarea</placeName>.
       </ab>
       <listBibl>
         <bibl xml:id="bib34-1">
