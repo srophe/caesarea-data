@@ -242,7 +242,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/70</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract70-1">Caesarea Maritima is indirectly attested in <persName ref="http://viaf.org/viaf/305863610" role="author">Luke the Evangelist</persName>'s <title ref="urn:cts:greekLit:tlg0031.tlg005" type="uniform" level="m">Acts</title> 10.44-10.48. This testimonium was written circa <origDate period="#nabateanKingdom #earlyRoman" notBefore="0080" notAfter="0090">
+      <desc type="abstract" xml:id="abstract70-1"> are place names attested in <persName ref="http://viaf.org/viaf/305863610" role="author">Luke the Evangelist</persName>'s <title ref="urn:cts:greekLit:tlg0031.tlg005" type="uniform" level="m">Acts</title> 10.44-10.48. This testimonium was written circa <origDate period="#nabateanKingdom #earlyRoman" notBefore="0080" notAfter="0090">
           <date>80 – 90 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote70-1" source="#bib70-1">Ἔτι λαλοῦντος τοῦ Πέτρου τὰῥήματα ταῦτα ἐπέπεσε τὸ πνεῦματὸ ἅγιον ἐπὶ πάντας τοὺςἀκούοντας τὸν λόγον. καὶ ἐξέστησαν οἱ ἐκ περιτομῆς πιστοὶ οἳ συνῆλθαν τῷ Πέτρῳ, ὅτι καὶ ἐπὶ τὰ ἔθνη ἡ δωρεὰ τοῦ πνεύματος τοῦ ἁγίου ἐκκέχυται· ἤκουον γὰρ αὐτῶν λαλούντων γλώσσαις καὶ μεγαλυνόντων τὸν θεόν. τότε ἀπεκρίθη Πέτρος Μήτι τὸ ὕδωρ δύναται κωλῦσαί τις τοῦ μὴ βαπτισθῆναι τούτους οἵτινες τὸ πνεῦμα τὸ ἅγιον ἔλαβον ὡς καὶ ἡμεῖς; προσέταξεν δὲ αὐτοὺς ἐν τῷ ὀνόματι Ἰησοῦ Χριστοῦ βαπτισθῆναι. τότε ἠρώτησαν αὐτὸν ἐπιμεῖναι ἡμέρας τινάς.</ab>

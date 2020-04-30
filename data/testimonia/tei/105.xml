@@ -221,7 +221,7 @@
         <p/>
       </abstract>
       <creation>This entry is taken from <title ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Ecclesiastical History </title>
-        <ref target="#bib105-1">6.26.1</ref> written by <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName> in <origDate period="#lateRoman" notBefore="0312" notAfter="0324">
+        <ref target="#bib105-1">6.26.1</ref> written by <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName> in <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">
           <date>312 - 324 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</creation>
       <langUsage>
@@ -243,7 +243,7 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/105</idno>
       </ab>
       <desc type="abstract" xml:id="abstract105-1">
-        <quote><placeName xml:lang="grc">τὴν Καισάρειαν</placeName></quote>, <quote><placeName xml:lang="grc">Καισαρείας</placeName></quote>,  and <quote><placeName xml:lang="en">Caesarea</placeName></quote> are place names attested in <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>'s <title ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Ecclesiastical History </title> 6.26.1. This testimonium was written circa <origDate period="#lateRoman" notBefore="0312" notAfter="0324">
+        <quote><placeName xml:lang="grc">τὴν Καισάρειαν</placeName></quote>, <quote><placeName xml:lang="grc">Καισαρείας</placeName></quote>,  and <quote><placeName xml:lang="en">Caesarea</placeName></quote> are place names attested in <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>'s <title ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Ecclesiastical History </title> 6.26.1. This testimonium was written circa <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">
           <date>312 - 324 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote105-1" source="#bib105-1">Ἔτος δ’ ἦν τοῦτο δέκατον τῆς δηλουμένης ἡγεμονίας, καθ’ ὃ τὴν ἀπ’ Ἀλεξανδρείας μετανάστασιν ἐπὶ <placeName xml:lang="grc">τὴν Καισάρειαν</placeName> ὁ Ὠριγένης ποιησάμενος, Ἡρακλᾷ τὸ τῆς κατηχήσεως τῶν αὐτόθι διδασκαλεῖον καταλείπει. οὐκ εἰς μακρὸν δὲ καὶ Δημήτριος ὁ τῆς Ἀλεξανδρέων ἐκκλησίας ἐπίσκοπος τελευτᾷ, ἐφ’ ὅλοις ἔτεσι τρισὶ καὶ τεσσαράκοντα τῇ λειτουργίᾳ διαρκέσας· διαδέχεται δ’ αὐτὸν ὁ Ἡρακλᾶς. διέπρεπε δὲ ἐν τούτῳ Φιρμιλλιανὸς, <placeName xml:lang="grc">Καισαρείας</placeName> τῆς Καππαδοκῶν ἐπίσκοπος,</ab>

@@ -237,7 +237,7 @@
         <p/>
       </abstract>
       <creation>This entry is taken from <title ref="urn:cts:greekLit:tlg0018.tlg031" type="uniform" level="m">Embassy to Gaius</title>
-        <ref target="#bib1-1">276-327</ref> written by <persName ref="http://viaf.org/viaf/310526579" role="author">Philo</persName> in <origDate period="#nabateanKingdom #earlyRoman #herodian" notBefore="0038" notAfter="0050">
+        <ref target="#bib1-1">276-327</ref> written by <persName ref="http://viaf.org/viaf/310526579" role="author">Philo</persName> in <origDate period="#nabateanKingdom #earlyRoman #herodian #middleNabatean" notBefore="0038" notAfter="0050">
           <date>38 – 50 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/727070">Alexandria</origPlace>.</creation>
       <langUsage>
@@ -264,7 +264,7 @@
       <desc type="abstract" xml:id="abstract1-1">
         <quote>
           <placeName>τὴν ἐπὶ θαλάττῃ Καισάρειαν</placeName>
-        </quote>,  are place names attested in <persName ref="http://viaf.org/viaf/310526579" role="author">Philo</persName>'s <title ref="urn:cts:greekLit:tlg0018.tlg031" type="uniform" level="m">Embassy to Gaius</title> 276-327. This testimonium was written circa <origDate period="#nabateanKingdom #earlyRoman #herodian" notBefore="0038" notAfter="0050">
+        </quote>,  are place names attested in <persName ref="http://viaf.org/viaf/310526579" role="author">Philo</persName>'s <title ref="urn:cts:greekLit:tlg0018.tlg031" type="uniform" level="m">Embassy to Gaius</title> 276-327. This testimonium was written circa <origDate period="#nabateanKingdom #earlyRoman #herodian #middleNabatean" notBefore="0038" notAfter="0050">
           <date>38 – 50 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/727070">Alexandria</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote1-1" source="#bib1-1">
