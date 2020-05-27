@@ -39,6 +39,11 @@
         </availability>
         <date>2020-04-29-05:00</date>
       </publicationStmt>
+      <seriesStmt>
+        <title>Caesarea-Maritima: A Digital Archive</title>
+        <editor role="general" ref="http://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
+        <editor role="general" ref="http://caesarea-maritima.org/documentation/editors.xml#plieberman">Phillip I. Lieberman</editor>
+      </seriesStmt>
       <sourceDesc>
         <p>Born digital.</p>
       </sourceDesc>
@@ -243,7 +248,13 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/95</idno>
       </ab>
       <desc type="abstract" xml:id="abstract95-1">
-        <quote><placeName xml:lang="grc">Καισαρείᾳ</placeName></quote>, <quote><placeName xml:lang="grc">Καισάρειαν</placeName></quote>,  and <quote><placeName xml:lang="en">Caesarea</placeName></quote> are place names attested in <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>'s <title ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Ecclesiastical History </title> 3.31.5. This testimonium was written circa <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">
+        <quote>
+          <placeName xml:lang="grc">Καισαρείᾳ</placeName>
+        </quote>, <quote>
+          <placeName xml:lang="grc">Καισάρειαν</placeName>
+        </quote>,  and <quote>
+          <placeName xml:lang="en">Caesarea</placeName>
+        </quote> are place names attested in <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>'s <title ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Ecclesiastical History </title> 3.31.5. This testimonium was written circa <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">
           <date>312 - 324 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote95-1" source="#bib95-1">ταῦτα μὲν οὗτος. ὁ δὲ Λουκᾶς ἐν ταῖς Πράξεσι τῶν ἀποστόλων τῶν Φιλίππου θυγατέρων ἐν <placeName xml:lang="grc">Καισαρείᾳ</placeName> τῆς Ἰουδαίας ἅμα τῷ πατρὶ τότε διατριβουσῶν, προφητικοῦ τε χαρίσματος ἠξιωμένων, μνημονεύει κατὰ λέξιν ὧδέ πως λέγων “ἤλθομεν εἰς <placeName xml:lang="grc">Καισάρειαν</placeName>, καὶ εἰσελθόντες εἰς τὸν οἶκον Φιλίππου “τοῦ εὐαγγελιστοῦ ὄντος ἐκ τῶν ἑπτὰ ἐμείναμεν παρ αὐτῷ. τούτῳ δὲ ἤσαν παρθένοι θυγατέρες προφητεύουσαι τέσσαρες.”</ab>

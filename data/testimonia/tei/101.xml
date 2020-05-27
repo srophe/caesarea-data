@@ -39,6 +39,11 @@
         </availability>
         <date>2020-04-29-05:00</date>
       </publicationStmt>
+      <seriesStmt>
+        <title>Caesarea-Maritima: A Digital Archive</title>
+        <editor role="general" ref="http://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
+        <editor role="general" ref="http://caesarea-maritima.org/documentation/editors.xml#plieberman">Phillip I. Lieberman</editor>
+      </seriesStmt>
       <sourceDesc>
         <p>Born digital.</p>
       </sourceDesc>
@@ -243,7 +248,11 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/101</idno>
       </ab>
       <desc type="abstract" xml:id="abstract101-1">
-        <quote><placeName xml:lang="grc">Καισαρείας</placeName></quote>,  and <quote><placeName xml:lang="en">Caesarea</placeName></quote> are place names attested in <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>'s <title ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Ecclesiastical History </title> 6.8.4. This testimonium was written circa <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">
+        <quote>
+          <placeName xml:lang="grc">Καισαρείας</placeName>
+        </quote>,  and <quote>
+          <placeName xml:lang="en">Caesarea</placeName>
+        </quote> are place names attested in <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>'s <title ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Ecclesiastical History </title> 6.8.4. This testimonium was written circa <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">
           <date>312 - 324 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote101-1" source="#bib101-1">ἀλλὰ τότε μὲν οὗτος τοιοῦτός τις ἦν. οὐ μακροῖς δὲ χρόνοις ὕστερον ὁ αὐτὸς ὁρῶν εὖ πράττοντα, μέγαν τε καὶ λαμπρὸν καὶ παρὰ πᾶσιν ὄντα βεβοημένον, ἀνθρώπινόν τι πεπονθὼς τοῖς ἀνὰ τὴν οἰκουμένην ἐπισκόποις καταγράφειν ὡς ἀτοπωτάτου τοῦ πραχθέντος αὐτῷ ἐπειρᾶτο, ὅτε γε τῶν κατὰ Παλαιστίνην οἱ μάλιστα δόκιμοι καὶ διαπρέποντες <placeName xml:lang="grc">Καισαρείας</placeName> τε καὶ Ἱεροσολύμων ἐπίσκοποι πρεσβείων τὸν Ὠριγένην καὶ τῆς ἀνωτάτω τιμῆς ἄξιον εἶναι δοκιμάσαντες χεῖρας εἰς πρεσβυτέριον αὐτῷ τεθείκασι.</ab>

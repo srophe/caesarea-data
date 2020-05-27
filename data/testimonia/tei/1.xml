@@ -42,6 +42,11 @@
         </availability>
         <date>2020-03-30-04:00</date>
       </publicationStmt>
+      <seriesStmt>
+        <title>Caesarea-Maritima: A Digital Archive</title>
+        <editor role="general" ref="http://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
+        <editor role="general" ref="http://caesarea-maritima.org/documentation/editors.xml#plieberman">Phillip I. Lieberman</editor>
+      </seriesStmt>
       <sourceDesc>
         <p>Born digital.</p>
       </sourceDesc>

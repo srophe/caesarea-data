@@ -39,6 +39,11 @@
         </availability>
         <date>2020-04-29-05:00</date>
       </publicationStmt>
+      <seriesStmt>
+        <title>Caesarea-Maritima: A Digital Archive</title>
+        <editor role="general" ref="http://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
+        <editor role="general" ref="http://caesarea-maritima.org/documentation/editors.xml#plieberman">Phillip I. Lieberman</editor>
+      </seriesStmt>
       <sourceDesc>
         <p>Born digital.</p>
       </sourceDesc>
@@ -243,7 +248,11 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/103</idno>
       </ab>
       <desc type="abstract" xml:id="abstract103-1">
-        <quote><placeName xml:lang="grc">Καισαρείᾳ</placeName></quote>,  and <quote><placeName xml:lang="en">Caesarea</placeName></quote> are place names attested in <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>'s <title ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Ecclesiastical History </title> 6.19.16. This testimonium was written circa <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">
+        <quote>
+          <placeName xml:lang="grc">Καισαρείᾳ</placeName>
+        </quote>,  and <quote>
+          <placeName xml:lang="en">Caesarea</placeName>
+        </quote> are place names attested in <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>'s <title ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Ecclesiastical History </title> 6.19.16. This testimonium was written circa <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">
           <date>312 - 324 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote103-1" source="#bib103-1">χρόνου δὲ μεταξὺ διαγενομένου, οὐ σμικροῦ κατὰ τὴν πόλιν ἀναρριπισθέντος πολέμου, ὑπεξελθὼν τῆς Ἀλεξανδρείας, καὶ μηδὲ τὰς κατ’ Αἴγυπτον διατριβὰς ἀσφαλεῖς ἑαυτῷ ἡγούμενος, ἐλθὼν ἐπὶ Παλαιστίνης, ἐν <placeName xml:lang="grc">Καισαρείᾳ</placeName> τὰς διατριβὰς ἐποιεῖτο, ἔνθα καὶ διαλέγεσθαι τάς τε θείας ἑρμηνεύειν γραφὰς ἐπὶ τοῦ κοινοῦ τῆς ἐκκλησίας οἱ τῇδε ἐπίσκοποι, καίτοι τῆς τοῦ πρεσβυτερίου χειροτονίας οὐδέπω τετυχηκότα αὐτὸν ἠξίουν.</ab>
