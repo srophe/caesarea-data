@@ -39,11 +39,6 @@
         </availability>
         <date>2020-04-29-05:00</date>
       </publicationStmt>
-      <seriesStmt>
-        <title>Caesarea-Maritima: A Digital Archive</title>
-        <editor role="general" ref="http://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
-        <editor role="general" ref="http://caesarea-maritima.org/documentation/editors.xml#plieberman">Phillip I. Lieberman</editor>
-      </seriesStmt>
       <sourceDesc>
         <p>Born digital.</p>
       </sourceDesc>
@@ -248,9 +243,7 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/104</idno>
       </ab>
       <desc type="abstract" xml:id="abstract104-1">
-        <quote>
-          <placeName xml:lang="en">Caesarea</placeName>
-        </quote>,  are place names attested in <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>'s <title ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Ecclesiastical History </title> 6.23. This testimonium was written circa <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">
+        <quote><placeName xml:lang="en">Caesarea</placeName></quote>,  are place names attested in <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>'s <title ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Ecclesiastical History </title> 6.23. This testimonium was written circa <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">
           <date>312 - 324 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote104-1" source="#bib104-1">Ἐξ ἐκείνου δὲ καὶ Ωριγένει τῶν εἰς τὰς θείας γραφὰς ὑπομνημάτων ἐγίνετο ἀρχὴ, Ἀμβροσίου εἰς τὰ μάλιστα παρορμῶντος αὐτὸν μυρίαις ὁσαισοῦν προτροπαῖς, οὐ ταῖς διὰ λόγων καὶ παρακλήσεσιν αὐτὸ μόνον, ἀλλὰ καὶ ἀφθονωτάταις τῶν ἐπιτηδείων χορηγίαις. ταχυγράφοι γὰρ αὐτῷ πλείους ἢ ἑπτὰ τὸν ἀριθμὸν παρῆσαν ὑπαγορεύοντι, γορεύοντι, χρόνοις τεταγμένοις ἀλλήλους ἀμείβοντες· βιβλιογράφοι τε οὐχ ἥττους, ἅμα καὶ κόραις ἐπὶ τὸ καλλιγραφεῖν ἠσκημέναις· ὣν ἀπάντων τὴν δέουσαν τῶν ἐπιτηδείων ἄφθονον περιουσίαν ὁ Ἀμβρόσιος παρεστήσατο, ναὶ μὴν καὶ ἐν τῇ περὶ τὰ θεῖα λόγια ἀσκήσει τε καὶ σπουδῇ προθυμίαν ἄφατον αὐτῷ συνεισέφερεν, ᾗ καὶ μάλιστα αὐτὸν προύτρεπεν ἐπὶ τὴν τῶν ὑπομνημάτων σύνταξιν. τούτων δὲ οὕτως ἐχόντων Οὐρβανὸν ἐπισκοπεύσαντα τῆς ἐκκλησίας ἔτεσιν ὀκτὼ διαδέχεται Ποντιανὸς, τῆς δ’ Ἀντιοχέων μετὰ Φιλητὸν Ζεβῖνος. καθ’ οὓς Ὠριγένης ἐπειγούσης χρείας ἐκκλησιαστικῶν ἕνεκα πραγμάτων ἐπὶ τὴν Ἑλλάδα στειλάμενος τὴν διὰ Παλαιστίνης πρεσβυτερίου χειροθεσίαν ἐν Καισαρείᾳ πρὸς τῶν τῇδε ἐπισκόπων ἀναλαμβάνει. τὰ μὲν οὖν ἐπὶ τούτῳ περὶ αὐτοῦ κεκινημένα, τά τε ἐπὶ τοῖς κινηθεῖσι δεδογμένα τοῖς τῶν ἐκκλησιῶν προεστῶσιν, ὅσα τε ἄλλα ἀκμάζων περὶ τὸν θεῖον εἰσενήνεκται λόγον, ἰδίας δεόμενα συντάξεως, μετρίως ἐν τῷ δευτέρῳ ἧς ὑπὲρ αὐτοῦ πεποιήμεθα ἀπολογίας ἀνεγράψαμεν.</ab>
