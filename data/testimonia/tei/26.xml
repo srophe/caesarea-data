@@ -7,26 +7,26 @@
         <title level="m" xml:lang="en">Textual Evidence for Caesarea-Maritima</title>
         <sponsor>Vanderbilt University</sponsor>
         <principal>Joseph L. Rife</principal>
-        <editor role="general" ref="http://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
-        <editor role="general" ref="http://caesarea-maritima.org/documentation/editors.xml#plieberman">Phillip I. Lieberman</editor>
-        <editor role="technical" ref="http://caesarea-maritima.org/documentation/editors.xml#dmichelson">David A.
+        <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
+        <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#plieberman">Phillip I. Lieberman</editor>
+        <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#dmichelson">David A.
         Michelson</editor>
-        <editor role="technical" ref="http://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</editor>
-        <editor role="creator" ref="http://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
-        <editor role="creator" ref="http://caesarea-maritima.org/documentation/editors.xml#bgardner">Bianca Gardner</editor>
+        <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</editor>
+        <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
+        <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#bgardner">Bianca Gardner</editor>
         <respStmt>
           <resp>TEI encoding by</resp>
-          <name ref="http://caesarea-maritima.org/documentation/editors.xml#wpotter">William L.
+          <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L.
           Potter</name>
         </respStmt>
         <respStmt>
           <resp>Electronic text added by</resp>
-          <name ref="http://caesarea-maritima.org/documentation/editors.xml#bgardner">Bianca
+          <name ref="https://caesarea-maritima.org/documentation/editors.xml#bgardner">Bianca
           Gardner</name>
         </respStmt>
         <respStmt>
           <resp>Testimonia identified by</resp>
-          <name ref="http://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
+          <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
       </titleStmt>
       <editionStmt>
@@ -44,8 +44,8 @@
       </publicationStmt>
       <seriesStmt>
         <title level="m" xml:lang="en">Caesarea-Maritima: A Digital Archive</title>
-        <editor role="general" ref="http://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
-        <editor role="general" ref="http://caesarea-maritima.org/documentation/editors.xml#plieberman">Phillip I. Lieberman</editor>
+        <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
+        <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#plieberman">Phillip I. Lieberman</editor>
       </seriesStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -255,7 +255,7 @@
     </profileDesc>
     <revisionDesc status="draft">
       <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-03-30-04:00">CHANGED: Update bibl elements with full citation information from Syriaca.org entry.</change>
-      <change who="http://caesarea-maritima.org/documentation/editors.xml#wpotter" when="2020-03-09-05:00">CREATED: testimonium</change>
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#wpotter" when="2020-03-09-05:00">CREATED: testimonium</change>
     </revisionDesc>
   </teiHeader>
   <text>
