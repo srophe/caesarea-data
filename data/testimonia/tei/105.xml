@@ -248,9 +248,9 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/105</idno>
       </ab>
       <desc type="abstract" xml:id="abstract105-1">
-        <quote><placeName xml:lang="grc">τὴν Καισάρειαν</placeName></quote>, <quote><placeName xml:lang="grc">Καισαρείας</placeName></quote>,  and <quote><placeName xml:lang="en">Caesarea</placeName></quote> are place names attested in <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>'s <title ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Ecclesiastical History </title> 6.26.1. This testimonium was written circa <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">
-          <date>312 - 324 CE</date>
-        </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
+    <quote><placeName xml:lang="grc">τὴν Καισάρειαν</placeName></quote>, <quote><placeName xml:lang="grc">Καισαρείας</placeName></quote>, and <quote><placeName xml:lang="en">Caesarea</placeName></quote> are place names attested in <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>'s <title ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Ecclesiastical History </title> 6.26.1. This testimonium was written circa <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">
+     <date>312 - 324 CE</date>
+    </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote105-1" source="#bib105-1">Ἔτος δ’ ἦν τοῦτο δέκατον τῆς δηλουμένης ἡγεμονίας, καθ’ ὃ τὴν ἀπ’ Ἀλεξανδρείας μετανάστασιν ἐπὶ <placeName xml:lang="grc">τὴν Καισάρειαν</placeName> ὁ Ὠριγένης ποιησάμενος, Ἡρακλᾷ τὸ τῆς κατηχήσεως τῶν αὐτόθι διδασκαλεῖον καταλείπει. οὐκ εἰς μακρὸν δὲ καὶ Δημήτριος ὁ τῆς Ἀλεξανδρέων ἐκκλησίας ἐπίσκοπος τελευτᾷ, ἐφ’ ὅλοις ἔτεσι τρισὶ καὶ τεσσαράκοντα τῇ λειτουργίᾳ διαρκέσας· διαδέχεται δ’ αὐτὸν ὁ Ἡρακλᾶς. διέπρεπε δὲ ἐν τούτῳ Φιρμιλλιανὸς, <placeName xml:lang="grc">Καισαρείας</placeName> τῆς Καππαδοκῶν ἐπίσκοπος,</ab>
       <ab type="translation" xml:lang="en" xml:id="quote105-2" source="#bib105-2">But this must suffice on these matters. Νow it was in the tenth year of the above-mentioned reign that Origen removed from Αlexandria to <placeName xml:lang="en">Caesarea</placeName>, leaving to Ηeraclas the Catechetical School for those in the city. Αnd not long afterwards Demetrius, the bishop οf the church οf the Alexandrians, died, having continued in the ministry for forty-three entire years. Ηe was succeeded by Heraclas. Νow at this time Firmilian, bishop of <placeName xml:lang="en">Caesarea</placeName> in Cappadocia, was distinguished.<note type="corrigenda">Inaccuracies found in the transcription of the electronic text compared to its printed source have been corrected.</note>
       </ab>
@@ -263,6 +263,8 @@
           <ptr target="https://caesarea-maritima.org/bibl/NA979CSQ"/>
           <citedRange>6.26</citedRange>
         </bibl>
+      </listBibl>
+      <listBibl>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/U6VYXXZG"/>
           <citedRange>6.26.1</citedRange>

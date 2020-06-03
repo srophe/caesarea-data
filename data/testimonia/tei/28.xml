@@ -265,8 +265,8 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/28</idno>
       </ab>
       <desc type="abstract" xml:id="abstract28-1"> are place names attested in <persName ref="http://viaf.org/viaf/22143666" role="author">Flavius Josephus</persName>'s <title ref="urn:cts:greekLit:tlg0526.tlg004" type="uniform" level="m">The Jewish War</title> 2.409-2.413. This testimonium was written circa <origDate period="#nabateanKingdom #earlyRoman #herodian" notBefore="0070" notAfter="0090">
-          <date>70 - 90 CE</date>
-        </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+     <date>70 - 90 CE</date>
+    </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote28-1" source="#bib28-1">
         <anchor xml:id="testimonia-28.grc.1" corresp="testimonia-28.en.1"/>
         ἅμα δὲ καὶ κατὰ τὸ ἱερὸν Ἐλεάζαρος υἱὸς Ἀνανία τοῦ ἀρχιερέως, νεανίας θρασύτατος, στρατηγῶν τότε τοὺς κατὰ τὴν λατρείαν λειτουργοῦντας ἀναπείθει μηδενὸς ἀλλοτρίου δῶρον ἢ θυσίαν προσδέχεσθαι. τοῦτο δ᾽ ἦν τοῦ πρὸς Ῥωμαίους πολέμου καταβολή: τὴν γὰρ ὑπὲρ τούτων θυσίαν Καίσαρος ἀπέρριψαν. καὶ πολλὰ τῶν τε ἀρχιερέων καὶ τῶν γνωρίμων παρακαλούντων μὴ παραλιπεῖν τὸ ὑπὲρ τῶν ἡγεμόνων ἔθος οὐκ ἐνέδοσαν, πολὺ μὲν καὶ τῷ σφετέρῳ πλήθει πεποιθότες, καὶ γὰρ τὸ ἀκμαιότατον τῶν νεωτεριζόντων συνήργει, μάλιστα δ᾽ ἀφορῶντες εἰς τὸν Ἐλεάζαρον στρατηγοῦντα. Συνελθόντες γοῦν οἱ δυνατοὶ τοῖς ἀρχιερεῦσιν εἰς ταὐτὸ καὶ τοῖς τῶν Φαρισαίων γνωρίμοις ὡς ἐπ᾽ ἀνηκέστοις ἤδη συμφοραῖς ἐβουλεύοντο περὶ τῶν ὅλων: καὶ δόξαν ἀποπειραθῆναι τῶν στασιαστῶν λόγοις πρὸ τῆς χαλκῆς πύλης ἀθροίζουσι τὸν δῆμον, ἥτις ἦν τοῦ ἔνδον ἱεροῦ τετραμμένη πρὸς ἀνατολὰς ἡλίου. καὶ πρῶτον αὐτῶν πολλὰ πρὸς τὴν τόλμαν τῆς ἀποστάσεως χαλεπήναντες καὶ τὸ τηλικοῦτον ἐπισείειν τῇ πατρίδι πόλεμον, ἔπειτα τὸ τῆς προφάσεως ἄλογον διήλεγχον, φάμενοι τοὺς μὲν προγόνους αὐτῶν κεκοσμηκέναι τὸν ναὸν ἐκ τῶν ἀλλοφύλων τὸ πλέον ἀεὶ προσδεχομένους τὰς ἀπὸ τῶν ἔξωθεν ἐθνῶν δωρεάς, αὶ οὐ μόνον οὐ διακεκωλυκέναι θυσίας τινῶν, τοῦτο μὲν γὰρ ἀσεβέστατον, ἀλλὰ καὶ τὰ βλεπόμενα καὶ τὰ παραμένοντα τοσοῦτον χρόνον ἀναθήματα περὶ τῷ ἱερῷ καθιδρυκέναι.
@@ -298,6 +298,8 @@
             <surname>Josephus</surname>
           </author>
         </bibl>
+      </listBibl>
+      <listBibl>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/QJCN6B5F"/>
           <citedRange>2.409-2.413</citedRange>

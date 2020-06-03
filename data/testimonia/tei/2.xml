@@ -265,17 +265,17 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/2</idno>
       </ab>
       <desc type="abstract" xml:id="abstract2-1">
-        <quote>
-          <placeName>Στράτωνος πύργον</placeName>
-        </quote>, <quote>
-          <placeName>Καισάρεια</placeName>
-        </quote>, <quote>
-          <placeName>Strato's Tower</placeName>
-        </quote>,  and <quote>
-          <placeName>Caesarea</placeName>
-        </quote> are place names attested in <persName ref="http://viaf.org/viaf/22143666" role="author">Flavius Josephus</persName>'s <title ref="urn:cts:greekLit:tlg0526.tlg001" type="uniform" level="m">Antiquities of the Jews</title> 14.76. This testimonium was written circa <origDate period="#nabateanKingdom #earlyRoman" notBefore="0093" notAfter="0094">
-          <date>93 – 94 CE</date>
-        </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+    <quote>
+     <placeName>Στράτωνος πύργον</placeName>
+    </quote>, <quote>
+     <placeName>Καισάρεια</placeName>
+    </quote>, <quote>
+     <placeName>Strato's Tower</placeName>
+    </quote>, and <quote>
+     <placeName>Caesarea</placeName>
+    </quote> are place names attested in <persName ref="http://viaf.org/viaf/22143666" role="author">Flavius Josephus</persName>'s <title ref="urn:cts:greekLit:tlg0526.tlg001" type="uniform" level="m">Antiquities of the Jews</title> 14.76. This testimonium was written circa <origDate period="#nabateanKingdom #earlyRoman" notBefore="0093" notAfter="0094">
+     <date>93 – 94 CE</date>
+    </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote2-1" source="#bib2-1">
         <anchor xml:id="testimonia-2.grc.1" corresp="testimonia-2.en.1"/>
         καὶ ταύτας μὲν ἐν τῇ μεσογείῳ χωρὶς τῶν κατεσκαμμένων, Γάζαν δὲ πρὸς τῇ θαλάττῃ καὶ Ἰόππην καὶ Δῶρα καὶ <placeName>Στράτωνος πύργον</placeName>, ἣ κτίσαντος αὐτὴν Ἡρώδου μεγαλοπρεπῶς καὶ λιμέσιν τε καὶ ναοῖς κοσμήσαντος, <placeName>Καισάρεια</placeName> μετωνομάσθη, πάσας ὁ Πομπήιος ἀφῆκεν ἐλευθέρας καὶ προσένειμεν τῇ ἐπαρχίᾳ.
@@ -307,6 +307,8 @@
             <surname>Josephus</surname>
           </author>
         </bibl>
+      </listBibl>
+      <listBibl>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/IYCZFI7G"/>
           <citedRange>14.76</citedRange>

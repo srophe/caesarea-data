@@ -265,9 +265,9 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/36</idno>
       </ab>
       <desc type="abstract" xml:id="abstract36-1">
-        <quote><placeName xml:lang="grc">τῆς ἐπὶ θαλάττῃ Καισαρείας</placeName></quote>,  and <quote><placeName xml:lang="en">Cesarea which lay by the sea-side</placeName></quote> are place names attested in <persName ref="http://viaf.org/viaf/22143666" role="author">Flavius Josephus</persName>'s <title ref="urn:cts:greekLit:tlg0526.tlg004" type="uniform" level="m">The Jewish War</title> 7.23. This testimonium was written circa <origDate period="#nabateanKingdom #earlyRoman #herodian" notBefore="0070" notAfter="0090">
-          <date>70 - 90 CE</date>
-        </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+    <quote><placeName xml:lang="grc">τῆς ἐπὶ θαλάττῃ Καισαρείας</placeName></quote>, and <quote><placeName xml:lang="en">Cesarea which lay by the sea-side</placeName></quote> are place names attested in <persName ref="http://viaf.org/viaf/22143666" role="author">Flavius Josephus</persName>'s <title ref="urn:cts:greekLit:tlg0526.tlg004" type="uniform" level="m">The Jewish War</title> 7.23. This testimonium was written circa <origDate period="#nabateanKingdom #earlyRoman #herodian" notBefore="0070" notAfter="0090">
+     <date>70 - 90 CE</date>
+    </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote36-1" source="#bib36-1">
         <anchor xml:id="testimonia-36.grc.1" corresp="testimonia-36.en.1"/>
         Τίτος δὲ ἀπὸ <placeName xml:lang="grc">τῆς ἐπὶ θαλάττῃ Καισαρείας</placeName> ἀναζεύξας εἰς τὴν Φιλίππουκαλουμένην Καισάρειαν ἧκε συχνόν
@@ -299,6 +299,8 @@
             <surname>Josephus</surname>
           </author>
         </bibl>
+      </listBibl>
+      <listBibl>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/QJCN6B5F"/>
           <citedRange>7.23</citedRange>

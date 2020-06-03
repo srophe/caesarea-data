@@ -248,9 +248,9 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/98</idno>
       </ab>
       <desc type="abstract" xml:id="abstract98-1">
-        <quote><placeName xml:lang="grc">Καισαρείᾳ</placeName></quote>,  and <quote><placeName xml:lang="en">the diocese of Caesarea</placeName></quote> are place names attested in <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>'s <title ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Ecclesiastical History </title> 5.23.3. This testimonium was written circa <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">
-          <date>312 - 324 CE</date>
-        </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
+    <quote><placeName xml:lang="grc">Καισαρείᾳ</placeName></quote>, and <quote><placeName xml:lang="en">the diocese of Caesarea</placeName></quote> are place names attested in <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>'s <title ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Ecclesiastical History </title> 5.23.3. This testimonium was written circa <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">
+     <date>312 - 324 CE</date>
+    </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote98-1" source="#bib98-1">φέρεται δ᾿ εἰσέτι νῦν τῶν κατὰ Παλαιστίνην τηνικάδε συγκεκροτημένων γραφὴ, ὧν προυτέτακτο Θεόφιλος τῆς ἐν <placeName xml:lang="grc">Καισαρείᾳ</placeName> παροικίας ἐπίσκοπος καὶ Νάρκισσος τῆς ἐν Ἱεροσολύμοις· καὶ τῶν ἐπὶ ῾Ρώμης δὲ ὁμοίως ἄλλη περὶ τοῦ αὐτοῦ ζητήματος, ἐπίσκοπον Βίκτορα δηλοῦσα· τῶν τε κατὰ Πόντον ἐπισκόπων, ὧν Πάλμας ὡς ἀρχαιότατος προυτέτακτο, καὶ τῶν κατὰ Γαλλίαν δὲ παροικιῶν, ἃς Εἰρήναιος ἐπεσκόπει·</ab>
       <ab type="translation" xml:lang="en" xml:id="quote98-2" source="#bib98-2">There is still extant a writing of those who were convened in Palestine, οver whom presided Theophilus, bishop of <placeName xml:lang="en">the diocese of Caesarea</placeName>, and Narcissus, bishop of Jerusalem; and there is similarly another from those in Rome on the same controversy, which gives Victor as bishop; and there is one of the bishops of Pontus over whom Palmas presided as the oldest; and of the dioceses of Gaul, of which Irenaeus was biShop<note type="corrigenda">Inaccuracies found in the transcription of the electronic text compared to its printed source have been corrected.</note>
       </ab>
@@ -263,6 +263,8 @@
           <ptr target="https://caesarea-maritima.org/bibl/NA979CSQ"/>
           <citedRange>5.23</citedRange>
         </bibl>
+      </listBibl>
+      <listBibl>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/U6VYXXZG"/>
           <citedRange>5.23.3</citedRange>

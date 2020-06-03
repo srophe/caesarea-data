@@ -248,9 +248,9 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/76</idno>
       </ab>
       <desc type="abstract" xml:id="abstract76-1">
-        <quote><placeName xml:lang="grc">Καισαρίας</placeName></quote>,  and <quote><placeName xml:lang="en">Caesarea</placeName></quote> are place names attested in <persName ref="http://viaf.org/viaf/305863610" role="author">Luke the Evangelist</persName>'s <title ref="urn:cts:greekLit:tlg0031.tlg005" type="uniform" level="m">Acts</title> 23.23. This testimonium was written circa <origDate period="#nabateanKingdom #earlyRoman" notBefore="0080" notAfter="0090">
-          <date>80 – 90 CE</date>
-        </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
+    <quote><placeName xml:lang="grc">Καισαρίας</placeName></quote>, and <quote><placeName xml:lang="en">Caesarea</placeName></quote> are place names attested in <persName ref="http://viaf.org/viaf/305863610" role="author">Luke the Evangelist</persName>'s <title ref="urn:cts:greekLit:tlg0031.tlg005" type="uniform" level="m">Acts</title> 23.23. This testimonium was written circa <origDate period="#nabateanKingdom #earlyRoman" notBefore="0080" notAfter="0090">
+     <date>80 – 90 CE</date>
+    </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote76-1" source="#bib76-1">Καὶ προσκαλεσάμενός τινας δύο τῶν ἑκατονταρχῶν εἶπεν Ἑτοιμάσατε στρατιώτας διακοσίους ὅπως πορευθῶσιν ἕως <placeName xml:lang="grc">Καισαρίας</placeName>, καὶ ἱππεῖς ἑβδομήκοντα καὶ δεξιολάβους διακοσίους, ἀπὸ τρίτης ὥρας τῆς νυκτός,</ab>
       <ab type="translation" xml:lang="en" xml:id="quote76-2" source="#bib76-2">"He called to himself two of the centurions, and said, "Prepare two hundred soldiers to go as far as <placeName xml:lang="en">Caesarea</placeName>, with seventy horsemen, and two hundred men armed with spears, at the third hour of the night."</ab>
       <listBibl>
@@ -262,6 +262,8 @@
           <ptr target="https://caesarea-maritima.org/bibl/EDN6EQHI"/>
           <citedRange>23.23</citedRange>
         </bibl>
+      </listBibl>
+      <listBibl>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/5K5NF6K3"/>
           <citedRange>23.23</citedRange>

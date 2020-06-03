@@ -248,8 +248,8 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/70</idno>
       </ab>
       <desc type="abstract" xml:id="abstract70-1"> are place names attested in <persName ref="http://viaf.org/viaf/305863610" role="author">Luke the Evangelist</persName>'s <title ref="urn:cts:greekLit:tlg0031.tlg005" type="uniform" level="m">Acts</title> 10.44-10.48. This testimonium was written circa <origDate period="#nabateanKingdom #earlyRoman" notBefore="0080" notAfter="0090">
-          <date>80 – 90 CE</date>
-        </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
+     <date>80 – 90 CE</date>
+    </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote70-1" source="#bib70-1">Ἔτι λαλοῦντος τοῦ Πέτρου τὰῥήματα ταῦτα ἐπέπεσε τὸ πνεῦματὸ ἅγιον ἐπὶ πάντας τοὺςἀκούοντας τὸν λόγον. καὶ ἐξέστησαν οἱ ἐκ περιτομῆς πιστοὶ οἳ συνῆλθαν τῷ Πέτρῳ, ὅτι καὶ ἐπὶ τὰ ἔθνη ἡ δωρεὰ τοῦ πνεύματος τοῦ ἁγίου ἐκκέχυται· ἤκουον γὰρ αὐτῶν λαλούντων γλώσσαις καὶ μεγαλυνόντων τὸν θεόν. τότε ἀπεκρίθη Πέτρος Μήτι τὸ ὕδωρ δύναται κωλῦσαί τις τοῦ μὴ βαπτισθῆναι τούτους οἵτινες τὸ πνεῦμα τὸ ἅγιον ἔλαβον ὡς καὶ ἡμεῖς; προσέταξεν δὲ αὐτοὺς ἐν τῷ ὀνόματι Ἰησοῦ Χριστοῦ βαπτισθῆναι. τότε ἠρώτησαν αὐτὸν ἐπιμεῖναι ἡμέρας τινάς.</ab>
       <ab type="translation" xml:lang="en" xml:id="quote70-2" source="#bib70-2">"While Peter was still speaking these words, the Holy Spirit fell on all those who heard the word. They of the circumcision who believed were amazed, as many as came with Peter, because the gift of the Holy Spirit was also poured out on the Gentiles. For they heard them speak with other languages and magnify God. Then Peter answered, "Can any man forbid the water, that these who have received the Holy Spirit as well as we should not be baptized?" He commanded them to be baptized in the name of Jesus Christ. Then they asked him to stay some days. "</ab>
       <listBibl>
@@ -261,6 +261,8 @@
           <ptr target="https://caesarea-maritima.org/bibl/EDN6EQHI"/>
           <citedRange>10.44-10.48</citedRange>
         </bibl>
+      </listBibl>
+      <listBibl>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/5K5NF6K3"/>
           <citedRange>10.44-10.48</citedRange>

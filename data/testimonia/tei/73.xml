@@ -248,9 +248,9 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/73</idno>
       </ab>
       <desc type="abstract" xml:id="abstract73-1">
-        <quote><placeName xml:lang="grc">Καισαρίαν</placeName></quote>,  are place names attested in <persName ref="http://viaf.org/viaf/305863610" role="author">Luke the Evangelist</persName>'s <title ref="urn:cts:greekLit:tlg0031.tlg005" type="uniform" level="m">Acts</title> 18.22. This testimonium was written circa <origDate period="#nabateanKingdom #earlyRoman" notBefore="0080" notAfter="0090">
-          <date>80 – 90 CE</date>
-        </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
+    <quote><placeName xml:lang="grc">Καισαρίαν</placeName></quote>, are place names attested in <persName ref="http://viaf.org/viaf/305863610" role="author">Luke the Evangelist</persName>'s <title ref="urn:cts:greekLit:tlg0031.tlg005" type="uniform" level="m">Acts</title> 18.22. This testimonium was written circa <origDate period="#nabateanKingdom #earlyRoman" notBefore="0080" notAfter="0090">
+     <date>80 – 90 CE</date>
+    </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote73-1" source="#bib73-1">καὶ κατελθὼν εἰς <placeName xml:lang="grc">Καισαρίαν</placeName>, ἀναβὰς καὶ ἀσπασάμενος τὴν ἐκκλησίαν, κατέβη εἰς Ἀντιόχειαν, καὶ ποιήσας χρόνον τινὰ ἐξῆλθεν,</ab>
       <ab type="translation" xml:lang="en" xml:id="quote73-2" source="#bib73-2">When he had landed at Caesarea, he went up and greeted the assembly, and went down to Antioch.</ab>
       <listBibl>
@@ -262,6 +262,8 @@
           <ptr target="https://caesarea-maritima.org/bibl/EDN6EQHI"/>
           <citedRange>18.22</citedRange>
         </bibl>
+      </listBibl>
+      <listBibl>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/5K5NF6K3"/>
           <citedRange>18.22</citedRange>

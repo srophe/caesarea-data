@@ -264,9 +264,9 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/11</idno>
       </ab>
       <desc type="abstract" xml:id="abstract11-1">
-        <quote><placeName xml:lang="grc">Καισάρειαν</placeName></quote>,  and <quote><placeName xml:lang="en">Cesarea</placeName></quote> are place names attested in <persName ref="http://viaf.org/viaf/22143666" role="author">Flavius Josephus</persName>'s <title ref="urn:cts:greekLit:tlg0526.tlg001" type="uniform" level="m">Antiquities of the Jews</title> 19.332-19.334. This testimonium was written circa <origDate period="#nabateanKingdom #earlyRoman" notBefore="0093" notAfter="0094">
-          <date>93 - 94 CE</date>
-        </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+    <quote><placeName xml:lang="grc">Καισάρειαν</placeName></quote>, and <quote><placeName xml:lang="en">Cesarea</placeName></quote> are place names attested in <persName ref="http://viaf.org/viaf/22143666" role="author">Flavius Josephus</persName>'s <title ref="urn:cts:greekLit:tlg0526.tlg001" type="uniform" level="m">Antiquities of the Jews</title> 19.332-19.334. This testimonium was written circa <origDate period="#nabateanKingdom #earlyRoman" notBefore="0093" notAfter="0094">
+     <date>93 - 94 CE</date>
+    </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote11-1" source="#bib11-1">
         <anchor xml:id="testimonia-11.grc.1" corresp="testimonia-11.en.1"/>
         Καὶ δή τις ἐν τοῖς Ἱεροσολύμοις ἀνὴρ ἐπιχώριος ἐξακριβάζειν δοκῶν τὰ νόμιμα, Σίμων ἦν ὄνομα τούτῳ, πλῆθος εἰς ἐκκλησίαν ἁλίσας τηνικάδε τοῦ βασιλέως εἰς <placeName xml:lang="grc">Καισάρειαν</placeName> ἐκδεδημηκότος ἐτόλμησεν αὐτοῦ κατειπεῖν, ὡς οὐχ ὅσιος εἴη, δικαίως δ᾽ ἂν εἴργοιτο τοῦ ναοῦ τῆς εἰσόδου προσηκούσης τοῖς ἐγγενέσιν. δηλοῦται μὲν δὴ διὰ γραμμάτων ὑπὸ τοῦ στρατηγοῦ τῆς πόλεως τῷ βασιλεῖ δημηγορήσας Σίμων ταῦτα, μεταπέμπεται δὲ αὐτὸν ὁ βασιλεὺς καί, καθέζετο γὰρ ἐν τῷ θεάτρῳ τότε, καθεσθῆναι παρ᾽ αὐτὸν ἐκέλευσεν. ἠρέμα τε καὶ πρᾴως ‘εἰπέ μοι, φησίν, τί τῶν ἐνθάδε γινομένων ἐστὶ παράνομον;’ ὁ δὲ εἰπεῖν ἔχων οὐδὲν τυχεῖν ἐδεῖτο συγγνώμης. ἀλλὰ ὁ βασιλεὺς αὐτῷ ἢ προσεδόκησέν τις διηλλάττετο τὴν πρᾳότητα κρίνων βασιλικωτέραν ὀργῆς καὶ πρέπειν εἰδὼς τοῖς μεγέθεσι θυμοῦ πλέον ἐπιείκειαν. τὸν Σίμωνα γοῦν καὶ δωρεᾶς τινος ἀξιώσας ἀπεπέμπετο.
@@ -298,6 +298,8 @@
             <surname>Josephus</surname>
           </author>
         </bibl>
+      </listBibl>
+      <listBibl>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/IYCZFI7G"/>
           <citedRange>19.332-19.334</citedRange>

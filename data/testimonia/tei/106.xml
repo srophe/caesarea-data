@@ -248,9 +248,9 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/106</idno>
       </ab>
       <desc type="abstract" xml:id="abstract106-1">
-        <quote><placeName xml:lang="grc">Καισάρειαν</placeName></quote>,  and <quote><placeName xml:lang="en">Caesarea</placeName></quote> are place names attested in <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>'s <title ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Ecclesiastical History </title> 6.27.1. This testimonium was written circa <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">
-          <date>312 - 324 CE</date>
-        </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
+    <quote><placeName xml:lang="grc">Καισάρειαν</placeName></quote>, and <quote><placeName xml:lang="en">Caesarea</placeName></quote> are place names attested in <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>'s <title ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Ecclesiastical History </title> 6.27.1. This testimonium was written circa <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">
+     <date>312 - 324 CE</date>
+    </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote106-1" source="#bib106-1">τοσαύτην εἰσάγων περὶ τὸν Ὠριγένην σπουδὴν ὡς τοτὲ μὲν αὐτὸν ἀμφὶ τὰ κατ’ αὐτὸν κλίματα εἰς τὴν τῶν ἐκκλησιῶν ὠφέλειαν ἐκκαλεῖσθαι, τοτὲ δὲ ὡς αὐτὸν ἐπὶ τὴν Ἰουδαίαν στέλλεσθαι, καί τινας αὐτῷ συνδιατρίβειν χρόνους, τῆς εἰς τὰ θεῖα βελτιώσεως ἕνεκα. οὐ μὴν ἀλλὰ καὶ ὁ τῆς Ιεροσολύμων προεστὼς Ἀλέξανδρος, Θεόκτιστός τε ὁ κατὰ <placeName xml:lang="grc">Καισάρειαν</placeName>, τὸν πάντα χρόνον ὡς ἔπος εἰπεῖν προσανέχοντες αὐτῷ οἷα διδασκάλῳ μόνῳ, τὰ τῆς τῶν θείων γραφῶν ἑρμηνείας καὶ τὰ λοιπὰ τοῦ ἐκκλησιαστικοῦ λόγου πράττειν συνεχώρουν.</ab>
       <ab type="translation" xml:lang="en" xml:id="quote106-2" source="#bib106-2">He displayed such esteem for Origen, that at one time he would summon him to his own parts for the benefit of the churches; at another, Journey himself to Judaea, and spend some time with him for his own betterment in divine things. Νay further, Alexander, who presided over the [church] of Jerusalem, and Theoctistus, [who presided] at <placeName xml:lang="en">Caesarea</placeName>, continued their attendance on him the whole time, as their only teacher, and used to concede to him the task of expounding the divine Scriptures, and the οther parts of the Church’s instruction.<note type="corrigenda">Inaccuracies found in the transcription of the electronic text compared to its printed source have been corrected.</note>
       </ab>
@@ -263,6 +263,8 @@
           <ptr target="https://caesarea-maritima.org/bibl/NA979CSQ"/>
           <citedRange>6.27</citedRange>
         </bibl>
+      </listBibl>
+      <listBibl>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/U6VYXXZG"/>
           <citedRange>6.27.1</citedRange>

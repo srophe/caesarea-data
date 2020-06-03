@@ -265,8 +265,8 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/69</idno>
       </ab>
       <desc type="abstract" xml:id="abstract69-1"> are place names attested in <persName ref="http://viaf.org/viaf/305863610" role="author">Luke the Evangelist</persName>'s <title ref="urn:cts:greekLit:tlg0031.tlg005" type="uniform" level="m">Acts</title> 10.34. This testimonium was written circa <origDate period="#nabateanKingdom #earlyRoman" notBefore="0080" notAfter="0090">
-          <date>80 – 90 CE</date>
-        </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
+     <date>80 – 90 CE</date>
+    </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote69-1" source="#bib69-1">
         <anchor xml:id="testimonia-69.grc.1" corresp="testimonia-69.en.1"/>
         ἀνοίξας δὲ Πέτρος τὸ στόμαεἶπεν Ἐπʼ ἀληθείαςκαταλαμβάνομαι ὅτι: "οὐκ ἔστιν προσωπολήμπτης ὁθεός," 
@@ -289,7 +289,7 @@
             <surname>Hort</surname>
           </editor>
         </bibl>
-          <bibl xml:id="bib69-2">
+        <bibl xml:id="bib69-2">
             <ptr target="https://caesarea-maritima.org/bibl/EDN6EQHI"/>
             <citedRange>10.34</citedRange>
           <title level="m">World English Bible - Acts: Machine Readable Text</title>
@@ -297,7 +297,9 @@
             <name>Rainbow Missions, Inc.</name>
           </editor>
         </bibl>
-          <bibl>
+      </listBibl>
+      <listBibl>
+        <bibl>
             <ptr target="https://caesarea-maritima.org/bibl/5K5NF6K3"/>
             <citedRange>10.34</citedRange>
           <title level="m">The New Testament in the original Greek</title>

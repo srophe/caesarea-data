@@ -248,9 +248,9 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/94</idno>
       </ab>
       <desc type="abstract" xml:id="abstract94-1">
-        <quote><placeName xml:lang="grc">πόλιν Καισάρειαν</placeName></quote>, <quote><placeName xml:lang="grc">Στράτωνος πύργος</placeName></quote>, <quote><placeName xml:lang="en">the city of Caesarea</placeName></quote>,  and <quote><placeName xml:lang="en">the tower οf strato</placeName></quote> are place names attested in <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>'s <title ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Ecclesiastical History </title> 2.10.3. This testimonium was written circa <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">
-          <date>312 - 324 CE</date>
-        </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
+    <quote><placeName xml:lang="grc">πόλιν Καισάρειαν</placeName></quote>, <quote><placeName xml:lang="grc">Στράτωνος πύργος</placeName></quote>, <quote><placeName xml:lang="en">the city of Caesarea</placeName></quote>, and <quote><placeName xml:lang="en">the tower οf strato</placeName></quote> are place names attested in <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>'s <title ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Ecclesiastical History </title> 2.10.3. This testimonium was written circa <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">
+     <date>312 - 324 CE</date>
+    </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote94-1" source="#bib94-1">“τρίτον ἔτος αὐτῷ βασιλεύοντι τῆς ὅλης Ἰουδαίας πεπλήρωτο, καὶ παρῆν εἰς <placeName xml:lang="grc">πόλιν Καισάρειαν</placeName>, ἣ τὸ πρότρερον <placeName xml:lang="grc">Στράτωνος πύργος</placeName> ἐκαλεῖτο. συνετέλει δ’ ἐνταυθα θεωρίας εἰς τὴν Καίσαρος τιμὴν, ὑπὲρ τῆς ἐκείνου σωτηρίας ἑορτήν τινα ταύτην ἐπιστάμενος. καὶ παρ’ αὐτὴν ἤθροιστο τῶν κατὰ τὴν ἐπάρχιον ἐν ‘ καὶ προβεβηκότων εἰς ἀξίαν πλῆθος.</ab>
       <ab type="translation" xml:lang="en" xml:id="quote94-2" source="#bib94-2">“Now the third year of his reign over all Judaea had been finished when he came to <placeName xml:lang="en">the city of Caesarea</placeName>, which was formerly called <placeName xml:lang="en">the tower οf strato</placeName>. There he was celebrating games in honour οf Caesar, because he knew that this was a kind of feast for his safety, and at it was assembled a multitude of those in office and of high rank in the province.<note type="corrigenda">Inaccuracies found in the transcription of the electronic text compared to its printed source have been corrected.</note>
       </ab>
@@ -263,6 +263,8 @@
           <ptr target="https://caesarea-maritima.org/bibl/NA979CSQ"/>
           <citedRange>2.1</citedRange>
         </bibl>
+      </listBibl>
+      <listBibl>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/U6VYXXZG"/>
           <citedRange>2.10.3</citedRange>

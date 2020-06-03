@@ -264,9 +264,9 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/23</idno>
       </ab>
       <desc type="abstract" xml:id="abstract23-1">
-        <quote><placeName xml:lang="grc">Καισάρειαν</placeName></quote>,  and <quote><placeName xml:lang="en">Cesarea</placeName></quote> are place names attested in <persName ref="http://viaf.org/viaf/22143666" role="author">Flavius Josephus</persName>'s <title ref="urn:cts:greekLit:tlg0526.tlg004" type="uniform" level="m">The Jewish War</title> 2.169-2.174. This testimonium was written circa <origDate period="#nabateanKingdom #earlyRoman #herodian" notBefore="0070" notAfter="0090">
-          <date>70 - 90 CE</date>
-        </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+    <quote><placeName xml:lang="grc">Καισάρειαν</placeName></quote>, and <quote><placeName xml:lang="en">Cesarea</placeName></quote> are place names attested in <persName ref="http://viaf.org/viaf/22143666" role="author">Flavius Josephus</persName>'s <title ref="urn:cts:greekLit:tlg0526.tlg004" type="uniform" level="m">The Jewish War</title> 2.169-2.174. This testimonium was written circa <origDate period="#nabateanKingdom #earlyRoman #herodian" notBefore="0070" notAfter="0090">
+     <date>70 - 90 CE</date>
+    </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote23-1" source="#bib23-1">
         <anchor xml:id="testimonia-23.grc.1" corresp="testimonia-23.en.1"/>
         Πεμφθεὶς δὲ εἰς Ἰουδαίαν ἐπίτροπος ὑπὸ Τιβερίου Πιλᾶτος νύκτωρ κεκαλυμμένας εἰς Ἱεροσόλυμα εἰσκομίζει τὰς Καίσαρος εἰκόνας, αἳ σημαῖαι καλοῦνται. τοῦτο μεθ᾽ ἡμέραν μεγίστην ταραχὴν ἤγειρεν Ἰουδαίοις: οἵ τε γὰρ ἐγγὺς πρὸς τὴν ὄψιν ἐξεπλάγησαν ὡς πεπατημένων αὐτοῖς τῶν νόμων, οὐδὲν γὰρ ἀξιοῦσιν ἐν τῇ πόλει δείκηλον τίθεσθαι, καὶ πρὸς τὴν ἀγανάκτησιν τῶν κατὰ τὴν πόλιν ἄθρους ὁ ἐκ τῆς χώρας λαὸς συνέρρευσεν. ὁρμήσαντες δὲ πρὸς Πιλᾶτον εἰς <placeName xml:lang="grc">Καισάρειαν</placeName> ἱκέτευον ἐξενεγκεῖν ἐξ Ἱεροσολύμων τὰς σημαίας καὶ τηρεῖν αὐτοῖς τὰ πάτρια. Πιλάτου δὲ ἀρνουμένου περὶ τὴν οἰκίαν πρηνεῖς καταπεσόντες ἐπὶ πέντε ἡμέρας καὶ νύκτας ἴσας ἀκίνητοι διεκαρτέρουν. Τῇ δ᾽ ἑξῆς ὁ Πιλᾶτος καθίσας ἐπὶ βήματος ἐν τῷ μεγάλῳ σταδίῳ καὶ προσκαλεσάμενος τὸ πλῆθος ὡς ἀποκρίνασθαι δῆθεν αὐτοῖς θέλων, δίδωσιν τοῖς στρατιώταις σημεῖον ἐκ συντάγματος κυκλώσασθαι τοὺς Ἰουδαίους ἐν τοῖς ὅπλοις. περιστάσης δὲ τριστιχεὶ τῆς φάλαγγος Ἰουδαῖοι μὲν ἀχανεῖς ἦσαν πρὸς τὸ ἀδόκητον τῆς ὄψεως, Πιλᾶτος δὲ κατακόψειν εἰπὼν αὐτούς, εἰ μὴ προσδέξαιντο τὰς Καίσαρος εἰκόνας, γυμνοῦν τὰ ξίφη τοῖς στρατιώταις ἔνευσεν. οἱ δὲ Ἰουδαῖοι καθάπερ ἐκ συνθήματος ἀθρόοι καταπεσόντες καὶ τοὺς αὐχένας παρακλίναντες ἑτοίμους ἀναιρεῖν σφᾶς ἐβόων μᾶλλον ἢ τὸν νόμον παραβῆναι. ὑπερθαυμάσας δὲ ὁ Πιλᾶτος τὸ τῆς δεισιδαιμονίας ἄκρατον ἐκκομίσαι μὲν αὐτίκα τὰς σημαίας Ἱεροσολύμων κελεύει.
@@ -298,6 +298,8 @@
             <surname>Josephus</surname>
           </author>
         </bibl>
+      </listBibl>
+      <listBibl>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/QJCN6B5F"/>
           <citedRange>2.169-2.174</citedRange>

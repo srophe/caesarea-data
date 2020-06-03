@@ -264,9 +264,9 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/21</idno>
       </ab>
       <desc type="abstract" xml:id="abstract21-1">
-        <quote><placeName xml:lang="grc">τὸν Σεβαστὸν</placeName></quote>, <quote><placeName xml:lang="grc">τῆς Καισαρείας</placeName></quote>, <quote><placeName xml:lang="en">Sebastus</placeName></quote>,  and <quote><placeName xml:lang="en">Cesarea</placeName></quote> are place names attested in <persName ref="http://viaf.org/viaf/22143666" role="author">Flavius Josephus</persName>'s <title ref="urn:cts:greekLit:tlg0526.tlg004" type="uniform" level="m">The Jewish War</title> 1.613-1.616. This testimonium was written circa <origDate period="#nabateanKingdom #earlyRoman #herodian" notBefore="0070" notAfter="0090">
-          <date>70 - 90 CE</date>
-        </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+    <quote><placeName xml:lang="grc">τὸν Σεβαστὸν</placeName></quote>, <quote><placeName xml:lang="grc">τῆς Καισαρείας</placeName></quote>, <quote><placeName xml:lang="en">Sebastus</placeName></quote>, and <quote><placeName xml:lang="en">Cesarea</placeName></quote> are place names attested in <persName ref="http://viaf.org/viaf/22143666" role="author">Flavius Josephus</persName>'s <title ref="urn:cts:greekLit:tlg0526.tlg004" type="uniform" level="m">The Jewish War</title> 1.613-1.616. This testimonium was written circa <origDate period="#nabateanKingdom #earlyRoman #herodian" notBefore="0070" notAfter="0090">
+     <date>70 - 90 CE</date>
+    </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote21-1" source="#bib21-1">
         <anchor xml:id="testimonia-21.grc.1" corresp="testimonia-21.en.1"/>
         πείθεται τούτοις, ἐνῆγεν γὰρ τὸ δαιμόνιον, καὶ διαπεράσας εἰς <placeName xml:lang="grc">τὸν Σεβαστὸν</placeName> λιμένα <placeName xml:lang="grc">τῆς Καισαρείας</placeName> κατάγεται. Παρυπήντησεν δ᾽ αὐτῷ παρὰ δόξαν ἐρημία πολλὴ πάντων ἐκτρεπομένων καὶ μηδενὸς προσιέναι τολμῶντος: ἐμισεῖτο μὲν γὰρ ἐπίσης, καὶ τότε φανῆναι τὸ μῖσος ἔσχεν παρρησίαν, πολλοὺς δὲ ὁ ἐκ τοῦ βασιλέως φόβος ἀπέστρεψεν, ἐπειδὴ πᾶσα πόλις ἤδη τῆς κατ᾽ Ἀντιπάτρου φήμης πεπλήρωτο καὶ μόνος ἠγνόει τὰ κατ᾽ αὐτὸν Ἀντίπατρος: οὔτε δὲ προεπέμφθη λαμπρότερόν τις ἐκείνου πλέοντος ἐπὶ Ῥώμης οὔτε ἀτιμότερον ὑπεδέχθη. ὁ δὲ ἤδη μὲν ἐνενόει τὰς οἴκοι συμφοράς, ἔτι δὲ ἐκ πανουργίας ὑπεκρύπτετο καὶ τῷ δέει τεθνηκὼς ἔνδοθεν σοβαρὸς εἶναι τὸ πρόσωπον ἐβιάζετο. φυγὴ δ᾽ οὐκέτι ἦν οὐδ᾽ ἐκ τῶν περιεχόντων ἀνάδυσις, καὶ σαφὲς μὲν οὐδὲ ἐκεῖ τι τῶν οἴκοθεν ἀπηγγέλλετο διὰ τὴν ἐκ τοῦ βασιλέως ἀπειλήν, ὑπελείπετο δὲ ἐλπὶς ἱλαρωτέρα, τάχα μὲν μηδὲν πεφωρᾶσθαι, τάχα δ᾽, εἴ τι καὶ πεφώραται, διασκευάσειν ἀναιδείᾳ καὶ δόλοις, ἅπερ ἦν αὐτῷ μόνα τὰ τῆς σωτηρίας ἐφόδια.
@@ -298,6 +298,8 @@
             <surname>Josephus</surname>
           </author>
         </bibl>
+      </listBibl>
+      <listBibl>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/QJCN6B5F"/>
           <citedRange>1.613-1.616</citedRange>
