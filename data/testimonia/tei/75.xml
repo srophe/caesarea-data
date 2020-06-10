@@ -251,8 +251,10 @@
     <quote><placeName xml:lang="grc">Καισαρίας</placeName></quote>, and <quote><placeName xml:lang="en">Caesarea</placeName></quote> are place names attested in <persName ref="http://viaf.org/viaf/305863610" role="author">Luke the Evangelist</persName>'s <title ref="urn:cts:greekLit:tlg0031.tlg005" type="uniform" level="m">Acts</title> 21.16. This testimonium was written circa <origDate period="#nabateanKingdom #earlyRoman" notBefore="0080" notAfter="0090">
      <date>80 – 90 CE</date>
     </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
-      <ab type="edition" xml:lang="grc" xml:id="quote75-1" source="#bib75-1">συνῆλθον δὲ καὶ τῶν μαθητῶν ἀπὸ <placeName xml:lang="grc">Καισαρίας</placeName> σὺν ἡμῖν, ἄγοντες παρʼ ᾧ ξενισθῶμεν Μνάσωνί τινι Κυπρίῳ, ἀρχαίῳ μαθητῇ.</ab>
-      <ab type="translation" xml:lang="en" xml:id="quote75-2" source="#bib75-2">Some of the disciples from <placeName xml:lang="en">Caesarea</placeName> also went with us, bringing one Mnason of Cyprus, an early disciple, with whom we would stay.</ab>
+      <ab type="edition" xml:lang="grc" xml:id="quote75-1" source="#bib75-1">
+        <anchor xml:id="testimonia-75.grc.1" corresp="testimonia-75.en.1"/>συνῆλθον δὲ καὶ τῶν μαθητῶν ἀπὸ <placeName xml:lang="grc">Καισαρίας</placeName> σὺν ἡμῖν, ἄγοντες παρʼ ᾧ ξενισθῶμεν Μνάσωνί τινι Κυπρίῳ, ἀρχαίῳ μαθητῇ.</ab>
+      <ab type="translation" xml:lang="en" xml:id="quote75-2" source="#bib75-2">
+        <anchor xml:id="testimonia-75.en.1" corresp="testimonia-75.grc.1"/>Some of the disciples from <placeName xml:lang="en">Caesarea</placeName> also went with us, bringing one Mnason of Cyprus, an early disciple, with whom we would stay.</ab>
       <listBibl>
         <bibl xml:id="bib75-1">
           <ptr target="https://caesarea-maritima.org/bibl/A5CE8VEG"/>

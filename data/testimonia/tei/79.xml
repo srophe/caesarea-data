@@ -251,8 +251,10 @@
         <quote><placeName xml:lang="la">Caesarienses</placeName></quote>,  and <quote><placeName xml:lang="en">Caesarea</placeName></quote> are place names attested in <persName ref="https://viaf.org/viaf/88881722/" role="author">Justinian I</persName>'s <title ref="" type="uniform" level="m">Digesta L</title> 15.8.7. This testimonium was written circa <origDate period="#byzantine" notBefore="0530" notAfter="0533">
           <date>530 - 533 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
-      <ab type="edition" xml:lang="la" xml:id="quote79-1" source="#bib79-1">Divus Vespasianus <placeName xml:lang="la">Caesarienses</placeName> colonos fecit non adiecto, ut et iuris Italici essent, sed tributum his remisit capitis: sed divus Titus etiam solum immune factum interpretatus est. Similes his capitulenses esse videntur.</ab>
-      <ab type="translation" xml:lang="en" xml:id="quote79-2" source="#bib79-2">The Divine Vespasian constituted the people of <placeName xml:lang="en">Caesarea</placeName> colonists, without conferring upon them the privileges of Italy, but released them from personal taxation. The Divine Titus, however, decided that their soil should also be exempt from taxation, for it was considered that they resembled the inhabitants of Aelia Capitolina.</ab>
+      <ab type="edition" xml:lang="la" xml:id="quote79-1" source="#bib79-1">
+        <anchor xml:id="testimonia-79.la.1" corresp="testimonia-79.en.1"/>Divus Vespasianus <placeName xml:lang="la">Caesarienses</placeName> colonos fecit non adiecto, ut et iuris Italici essent, sed tributum his remisit capitis: sed divus Titus etiam solum immune factum interpretatus est. Similes his capitulenses esse videntur.</ab>
+      <ab type="translation" xml:lang="en" xml:id="quote79-2" source="#bib79-2">
+        <anchor xml:id="testimonia-79.en.1" corresp="testimonia-79.la.1"/>The Divine Vespasian constituted the people of <placeName xml:lang="en">Caesarea</placeName> colonists, without conferring upon them the privileges of Italy, but released them from personal taxation. The Divine Titus, however, decided that their soil should also be exempt from taxation, for it was considered that they resembled the inhabitants of Aelia Capitolina.</ab>
       <listBibl>
         <bibl xml:id="bib79-1">
           <ptr target="https://caesarea-maritima.org/bibl/F8CTUC2I"/>
