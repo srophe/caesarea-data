@@ -241,9 +241,7 @@
         <p/>
       </abstract>
       <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:greekLit:tlg0031.tlg005" type="uniform" level="m">Acts</title>
-        <ref target="#bib67-1">10.1</ref> written by <persName ref="http://viaf.org/viaf/305863610" role="author">Luke the Evangelist</persName> in <origDate period="#nabateanKingdom #earlyRoman" notBefore="0080" notAfter="0090">
-          <date>80 – 90 CE</date>
-        </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</creation>
+        <ref target="#bib67-1">10.1</ref> written by <persName ref="http://viaf.org/viaf/305863610" role="author">Luke the Evangelist</persName> in <origDate period="#nabateanKingdom #earlyRoman" notBefore="0080" notAfter="0090">80 – 90 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</creation>
       <langUsage>
         <language ident="grc">Ancient Greek</language>
       </langUsage>
@@ -270,9 +268,7 @@
      <placeName>Καισαρίᾳ</placeName>
     </quote>, and <quote>
      <placeName>Caesarea</placeName>
-    </quote> are place names attested in <persName ref="http://viaf.org/viaf/305863610" role="author">Luke the Evangelist</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg0031.tlg005" type="uniform" level="m">Acts</title> 10.1. This testimonium was written circa <origDate period="#nabateanKingdom #earlyRoman" notBefore="0080" notAfter="0090">
-     <date>80 – 90 CE</date>
-    </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
+    </quote> are place names attested in <persName ref="http://viaf.org/viaf/305863610" role="author">Luke the Evangelist</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg0031.tlg005" type="uniform" level="m">Acts</title> 10.1. This testimonium was written circa <origDate period="#nabateanKingdom #earlyRoman" notBefore="0080" notAfter="0090">80 – 90 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote67-1" source="#bib67-1">
         <anchor xml:id="testimonia-67.grc.1" corresp="testimonia-67.en.1"/>
         Ἀνὴρ δέ τις ἐν <placeName>Καισαρίᾳ</placeName> ὀνόματιΚορνήλιος, ἑκατοντάρχης ἐκσπείρης τῆς καλουμένηςἸταλικῆς,

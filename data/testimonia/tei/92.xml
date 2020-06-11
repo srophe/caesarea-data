@@ -226,9 +226,7 @@
         <p/>
       </abstract>
       <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Ecclesiastical History </title>
-        <ref target="#bib92-1">2.3.3</ref> written by <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName> in <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">
-          <date>312 - 324 CE</date>
-        </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</creation>
+        <ref target="#bib92-1">2.3.3</ref> written by <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName> in <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</creation>
       <langUsage>
         <language ident="grc">Ancient Greek</language>
       </langUsage>
@@ -248,9 +246,7 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/92</idno>
       </ab>
       <desc type="abstract" xml:id="abstract92-1">
-    <quote><placeName xml:lang="grc">τὴν Παλαιστινῶν Καισάρειαν</placeName></quote>, and <quote><placeName xml:lang="en">Ρalestinian Caesarea</placeName></quote> are place names attested in <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Ecclesiastical History </title> 2.3.3. This testimonium was written circa <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">
-     <date>312 - 324 CE</date>
-    </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
+    <quote><placeName xml:lang="grc">τὴν Παλαιστινῶν Καισάρειαν</placeName></quote>, and <quote><placeName xml:lang="en">Ρalestinian Caesarea</placeName></quote> are place names attested in <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Ecclesiastical History </title> 2.3.3. This testimonium was written circa <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote92-1" source="#bib92-1">
         <anchor xml:id="testimonia-92.grc.1" corresp="testimonia-92.en.1"/>ἀλλὰ γὰρ τῆς χάριτος ἤδη τῆς θείας καὶ ἐπὶ τὰ λοιπὰ χεομένης ἔθνη, καὶ πρώτου μὲν κατὰ <placeName xml:lang="grc">τὴν Παλαιστινῶν Καισάρειαν</placeName> Κορνηλίου σὺν ὅλῳ τῷ οἴκῳ δι ἐπιφανείας θειοτέρας ὑπουργίας τε Πέτρου τὴν εἰς τὸν Χριστὸν πίστιν καταδεξαμένου, πλείστων τε καὶ ἄλλων ἐπ Ἀντιοχείας Ἑλλήνων, οἷς οἱ κατὰ τὸν Στεφάνου διωγμὸν διασπαρέντες ἐκήρυξαν, ἀνθούσης ἄρτι καὶ πληθυούσης τῆς κατὰ Ἀντιόχειαν ἐκκλησίας, ἐν ταὐτῷ τε ἐπιπαρόντων πλείστων ὅσων τῶν τε ἀπὸ Ἱεροσολύμων προφητῶν, καὶ σὺν αὐτοῖς Βαρνάβα καὶ Παύλου, ἑτέρου τε πλήθους ἐπὶ τούτοις ἀδελφῶν, ἡ Χριστιανῶν προσηγορία τότε πρῶτον αὐτόθι ὥσπερ ἀπ εὐθαλοῦς καὶ γονίμου πηγῆς ἀναδίδοται.</ab>
       <ab type="translation" xml:lang="en" xml:id="quote92-2" source="#bib92-2">

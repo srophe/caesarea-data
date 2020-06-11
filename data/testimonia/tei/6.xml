@@ -240,9 +240,7 @@
         <p/>
       </abstract>
       <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg001" type="uniform" level="m">Antiquities of the Jews</title>
-        <ref target="#bib6-1">16.136-16.141</ref> written by <persName ref="http://viaf.org/viaf/22143666" role="author">Flavius Josephus</persName> in <origDate period="#nabateanKingdom #earlyRoman" notBefore="0093" notAfter="0094">
-          <date>93 - 94 CE</date>
-        </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</creation>
+        <ref target="#bib6-1">16.136-16.141</ref> written by <persName ref="http://viaf.org/viaf/22143666" role="author">Flavius Josephus</persName> in <origDate period="#nabateanKingdom #earlyRoman" notBefore="0093" notAfter="0094">93 - 94 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</creation>
       <langUsage>
         <language ident="grc">Ancient Greek</language>
       </langUsage>
@@ -264,9 +262,7 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/6</idno>
       </ab>
       <desc type="abstract" xml:id="abstract6-1">
-    <quote><placeName xml:lang="grc">ἡ Καισάρεια Σεβαστή</placeName></quote>, and <quote><placeName xml:lang="en">Cesarea Sebaste</placeName></quote> are place names attested in <persName ref="http://viaf.org/viaf/22143666" role="author">Flavius Josephus</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg001" type="uniform" level="m">Antiquities of the Jews</title> 16.136-16.141. This testimonium was written circa <origDate period="#nabateanKingdom #earlyRoman" notBefore="0093" notAfter="0094">
-     <date>93 - 94 CE</date>
-    </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+    <quote><placeName xml:lang="grc">ἡ Καισάρεια Σεβαστή</placeName></quote>, and <quote><placeName xml:lang="en">Cesarea Sebaste</placeName></quote> are place names attested in <persName ref="http://viaf.org/viaf/22143666" role="author">Flavius Josephus</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg001" type="uniform" level="m">Antiquities of the Jews</title> 16.136-16.141. This testimonium was written circa <origDate period="#nabateanKingdom #earlyRoman" notBefore="0093" notAfter="0094">93 - 94 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote6-1" source="#bib6-1">
         <anchor xml:id="testimonia-6.grc.1" corresp="testimonia-6.en.1"/>
         Περὶ δὲ τὸν χρόνον τοῦτον συντέλειαν ἔλαβεν <placeName xml:lang="grc">ἡ Καισάρεια Σεβαστή</placeName>, ἣν ᾠκοδόμει δεκάτῳ μὲν ἔτει πρὸς τέλος ἐλθούσης αὐτῷ τῆς ὅλης κατασκευῆς, ἐκπεσούσης δὲ τῆς προθεσμίας εἰς ὄγδοον καὶ εἰκοστὸν ἔτος τῆς ἀρχῆς ἐπ᾽ ὀλυμπιάδος δευτέρας καὶ ἐνενηκοστῆς πρὸς ταῖς ἑκατόν. ἦν οὖν εὐθὺς ἐν καθιερώσει μείζονες ἑορταὶ καὶ παρασκευαὶ πολυτελέσταται: κατηγγέλκει μὲν γὰρ ἀγῶνα μουσικῆς καὶ γυμνικῶν ἀθλημάτων, παρεσκευάκει δὲ πολὺ πλῆθος μονομάχων καὶ θηρίων ἵππων τε δρόμον καὶ τὰ πολυτελέστερα τῶν ἔν τε τῇ Ῥώμῃ καὶ παρ᾽ ἄλλοις τισὶν ἐπιτηδευμάτων. ἀνετίθει δὲ καὶ τοῦτον τὸν ἀγῶνα Καίσαρι κατὰ πενταετηρίδα παρεσκευασμένος ἄγειν αὐτόν: ὁ δ᾽ αὐτῷ πᾶσαν τὴν εἰς τὰ τοιαῦτα παρασκευὴν ἀπὸ τῶν οἰκείων διεπέμπετο τὴν φιλοτιμίαν ἐπικοσμῶν.ἰδίᾳ δὲ καὶ ἡ γυνὴ Καίσαρος Ἰουλία πολλὰ τῶν ἐκεῖ πολυτελεστάτων ἀπέστειλεν, ὡς μηδὲν ὑστερεῖν τὰ πάντα συντιμώμενα ταλάντων πεντακοσίων. συνελθόντος δ᾽ εἰς τὴν πόλιν ὄχλου πλείονος κατὰ θεωρίαν καὶ πρεσβείας, ἃς ἔπεμπον οἱ δῆμοι δι᾽ ἃς ἐπεπόνθεισαν εὐεργεσίας, ἅπαντας ἐξεδέξατο καὶ καταγωγαῖς καὶ τραπέζαις καὶ διηνεκέσιν ἑορταῖς, τῆς πανηγύρεως ἐν μὲν ταῖς ἡμέραις ἐχούσης τὰς ἀπὸ τῶν θεαμάτων ψυχαγωγίας, ἐν δὲ ταῖς νυξὶ τὰς εὐφροσύνας καὶ τὴν εἰς τοῦτο πολυτέλειαν, ὡς ἐπίσημον γενέσθαι τὴν μεγαλοψυχίαν αὐτοῦ: εἰς πάντα γὰρ ἅπερ ἂν ἐπιτηδεύσειεν ἐφιλονείκει τὴν τῶν ἤδη γεγενημένων ἐπίδειξιν ὑπερβαλέσθαι, καί φασιν αὐτόν τε Καίσαρα καὶ Ἀγρίππαν πολλάκις εἰπεῖν, ὡς ἀποδέοι τὰ τῆς ἀρχῆς Ἡρώδῃ τῆς οὔσης ἐν αὐτῷ μεγαλοψυχίας: ἄξιον γὰρ εἶναι καὶ Συρίας ἁπάσης καὶ Αἰγύπτου τὴν βασιλείαν ἔχειν.

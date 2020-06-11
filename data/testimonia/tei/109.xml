@@ -226,9 +226,7 @@
         <p/>
       </abstract>
       <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Ecclesiastical History </title>
-        <ref target="#bib109-1">6.32.2</ref> written by <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName> in <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">
-          <date>312 - 324 CE</date>
-        </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</creation>
+        <ref target="#bib109-1">6.32.2</ref> written by <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName> in <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</creation>
       <langUsage>
         <language ident="grc">Ancient Greek</language>
       </langUsage>
@@ -248,9 +246,7 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/109</idno>
       </ab>
       <desc type="abstract" xml:id="abstract109-1">
-    <quote><placeName xml:lang="grc">τὴν Καισάρειαν</placeName></quote>, and <quote><placeName xml:lang="en">Caesarea</placeName></quote> are place names attested in <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Ecclesiastical History </title> 6.32.2. This testimonium was written circa <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">
-     <date>312 - 324 CE</date>
-    </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
+    <quote><placeName xml:lang="grc">τὴν Καισάρειαν</placeName></quote>, and <quote><placeName xml:lang="en">Caesarea</placeName></quote> are place names attested in <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Ecclesiastical History </title> 6.32.2. This testimonium was written circa <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote109-1" source="#bib109-1">
         <anchor xml:id="testimonia-109.grc.1" corresp="testimonia-109.en.1"/>γενόμενος δὲ τηνικάδε ἐν Ἀθήναις περαίνει μὲν τὰ εἰς τὸν Ἰεζεκιὴλ, τῶν δὲ εἰς τὸ ᾆσμα τῶν ᾀσμάτων ἄρχεται, καὶ πρόεισί γε αὐτόθι μέχρι πέμπτου συγγράμματος. ἐπανελθὼν δὲ ἐπὶ <placeName xml:lang="grc">τὴν Καισάρειαν</placeName> καὶ ταῦτα εἰς πέρας δέκα ὄντα τὸν ἀριθμὸν ἄγει.</ab>
       <ab type="translation" xml:lang="en" xml:id="quote109-2" source="#bib109-2">

@@ -241,9 +241,7 @@
         <p/>
       </abstract>
       <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg001" type="uniform" level="m">Antiquities of the Jews</title>
-        <ref target="#bib3-1">15.293</ref> written by <persName ref="http://viaf.org/viaf/22143666" role="author">Flavius Josephus</persName> in <origDate period="#nabateanKingdom #earlyRoman" notBefore="0093" notAfter="0094">
-          <date>93 – 94 CE</date>
-        </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</creation>
+        <ref target="#bib3-1">15.293</ref> written by <persName ref="http://viaf.org/viaf/22143666" role="author">Flavius Josephus</persName> in <origDate period="#nabateanKingdom #earlyRoman" notBefore="0093" notAfter="0094">93 – 94 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</creation>
       <langUsage>
         <language ident="grc">Ancient Greek</language>
       </langUsage>
@@ -273,9 +271,7 @@
      <placeName>Strato's Tower</placeName>
     </quote>, and <quote>
      <placeName>Cesarea</placeName>
-    </quote> are place names attested in <persName ref="http://viaf.org/viaf/22143666" role="author">Flavius Josephus</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg001" type="uniform" level="m">Antiquities of the Jews</title> 15.293. This testimonium was written circa <origDate period="#nabateanKingdom #earlyRoman" notBefore="0093" notAfter="0094">
-     <date>93 – 94 CE</date>
-    </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+    </quote> are place names attested in <persName ref="http://viaf.org/viaf/22143666" role="author">Flavius Josephus</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg001" type="uniform" level="m">Antiquities of the Jews</title> 15.293. This testimonium was written circa <origDate period="#nabateanKingdom #earlyRoman" notBefore="0093" notAfter="0094">93 – 94 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote3-1" source="#bib3-1">
         <anchor xml:id="testimonia-3.grc.1" corresp="testimonia-3.en.1"/>
         οἰόμενος δὲ κατὰ τῆς χώρας οὐδὲν ἔλαττον ἰσχυροποιεῖν τὸν τόπον, ἀπέχοντα μὲν Ἱεροσολύμων μιᾶς ὁδὸν ἡμέρας, εὔχρηστον δ᾽ ὄντα καὶ κοινὸν ἐπί τε τοῖς ἐν τῇ πόλει καὶ τῇ χώρᾳ γενησόμενον. τῷ δὲ ἔθνει παντὶ φρούριον ἐνῳκοδόμησεν τὸ πάλαι μὲν καλούμενον <placeName>Στράτωνος πύργον</placeName>, <placeName>Καισάρειαν</placeName> δ᾽ ὑπ᾽ αὐτοῦ προσαγορευθέν.

@@ -226,9 +226,7 @@
         <p/>
       </abstract>
       <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg003" type="uniform" level="m">Martyrs of Palestine</title>
-        <ref target="#bib192-1">8.8</ref> written by <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName> in <origDate period="#lateRoman" notBefore="0315" notAfter="0316">
-          <date>315 – 316 CE</date>
-        </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</creation>
+        <ref target="#bib192-1">8.8</ref> written by <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName> in <origDate period="#lateRoman" notBefore="0315" notAfter="0316">315 – 316 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</creation>
       <langUsage>
         <language ident="grc">Ancient Greek</language>
       </langUsage>
@@ -248,9 +246,7 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/192</idno>
       </ab>
       <desc type="abstract" xml:id="abstract192-1">
-        <quote><placeName xml:lang="grc">Καισαρέων</placeName></quote>,  and <quote><placeName xml:lang="en">Cæsarea,</placeName></quote> are place names attested in <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg003" type="uniform" level="m">Martyrs of Palestine</title> 8.8. This testimonium was written circa <origDate period="#lateRoman" notBefore="0315" notAfter="0316">
-          <date>315 – 316 CE</date>
-        </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
+        <quote><placeName xml:lang="grc">Καισαρέων</placeName></quote>,  and <quote><placeName xml:lang="en">Cæsarea,</placeName></quote> are place names attested in <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg003" type="uniform" level="m">Martyrs of Palestine</title> 8.8. This testimonium was written circa <origDate period="#lateRoman" notBefore="0315" notAfter="0316">315 – 316 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote192-1" source="#bib192-1">
         <anchor xml:id="testimonia-192.grc.1" corresp="testimonia-192.en.1"/>ἐφ’ ᾧ θηρὸς ἀγρίου δίκην ὁ δικαστὴς ὀξυνθεὶς τὸν θυμὸν, τοσαύτας μὲν αὐτῇ πρότερον αἰκίας κατὰ τῶν πλευρῶν ἐπιτίθησιν, ὅσας οὐδενὶ τῶν πώποτε, μονονουχὶ καὶ ὠμῶν τῶν σαρκῶν αὐτῆς ἐμφορηθῆναι γλιχόμενος.· ὡς δὲ κόρον αὐτῶ ἤδη τὰ τῆς μανίας ἐλάμβανεν, ἄμφω ζεύξας, αὐτήν τε ταύτην ἅμα τῇ πρὸς αὐτῆς ἀδελφῇ προσαγορευθείσῃ, τὸν διὰ πυρὸς αὐτῶν καταψηφίζεται θάνατον. τούτων ἡ μὲν προτέρα τῆς Γαζαίων χώρας ἐλέγετο, τὴν δ’ ἑτέραν ἰστέον ἀπὸ τῆς <placeName xml:lang="grc">Καισαρέων</placeName> ὡρμῆσθαι, τὴν πολλοῖς γνώριμον Οὐαλεντῖναν τοὔνομα.</ab>
       <ab type="translation" xml:lang="en" xml:id="quote192-2" source="#bib192-2">

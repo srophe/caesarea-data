@@ -226,9 +226,7 @@
         <p/>
       </abstract>
       <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg003" type="uniform" level="m">Martyrs of Palestine</title>
-        <ref target="#bib199-1">11.31</ref> written by <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName> in <origDate period="#lateRoman" notBefore="0315" notAfter="0316">
-          <date>315 – 316 CE</date>
-        </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</creation>
+        <ref target="#bib199-1">11.31</ref> written by <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName> in <origDate period="#lateRoman" notBefore="0315" notAfter="0316">315 – 316 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</creation>
       <langUsage>
         <language ident="grc">Ancient Greek</language>
       </langUsage>
@@ -248,9 +246,7 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/199</idno>
       </ab>
       <desc type="abstract" xml:id="abstract199-1">
-        <quote><placeName xml:lang="grc">Καισάρειαν</placeName></quote>,  and <quote><placeName xml:lang="en">Cæsarea</placeName></quote> are place names attested in <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg003" type="uniform" level="m">Martyrs of Palestine</title> 11.31. This testimonium was written circa <origDate period="#lateRoman" notBefore="0315" notAfter="0316">
-          <date>315 – 316 CE</date>
-        </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
+        <quote><placeName xml:lang="grc">Καισάρειαν</placeName></quote>,  and <quote><placeName xml:lang="en">Cæsarea</placeName></quote> are place names attested in <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg003" type="uniform" level="m">Martyrs of Palestine</title> 11.31. This testimonium was written circa <origDate period="#lateRoman" notBefore="0315" notAfter="0316">315 – 316 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote199-1" source="#bib199-1">
         <anchor xml:id="testimonia-199.grc.1" corresp="testimonia-199.en.1"/>μνημονεῦσαι δ’ ἔτι ἄξιον ἐνταῦθα τοῦ λόγου ὡς ἄρα οὐκ εἰς μακρὸν τῆς οὐρανίου προνοίας τοὺς δυσσεβεῖς ἄρχοντας αὐτοῖς τυράννοις μετελθούσης. ὁ γὰρ τὰ τοσαῦτα κατὰ τῶν τοῦ Χριστοῦ μαρτύρων παροινήσας, αὐτὸς δὴ ὁ Φιρμιλλιανὸς, μετὰ τῶν ἄλλων ἐσχάτην ὑπομείνας τιμωρίαν ξίφει τὴν ζωὴν καταστρέφει. καὶ τὰ μὲν κατὰ <placeName xml:lang="grc">Καισάρειαν</placeName> ἐφ’ ὅλοις τοῖς τοῦ διωγμοῦ χρόνοις ἐπιτελεσθέντα μαρτύρια τοιαῦτα.</ab>
       <ab type="translation" xml:lang="en" xml:id="quote199-2" source="#bib199-2">

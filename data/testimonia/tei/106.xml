@@ -226,9 +226,7 @@
         <p/>
       </abstract>
       <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Ecclesiastical History </title>
-        <ref target="#bib106-1">6.27.1</ref> written by <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName> in <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">
-          <date>312 - 324 CE</date>
-        </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</creation>
+        <ref target="#bib106-1">6.27.1</ref> written by <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName> in <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</creation>
       <langUsage>
         <language ident="grc">Ancient Greek</language>
       </langUsage>
@@ -248,9 +246,7 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/106</idno>
       </ab>
       <desc type="abstract" xml:id="abstract106-1">
-    <quote><placeName xml:lang="grc">Καισάρειαν</placeName></quote>, and <quote><placeName xml:lang="en">Caesarea</placeName></quote> are place names attested in <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Ecclesiastical History </title> 6.27.1. This testimonium was written circa <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">
-     <date>312 - 324 CE</date>
-    </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
+    <quote><placeName xml:lang="grc">Καισάρειαν</placeName></quote>, and <quote><placeName xml:lang="en">Caesarea</placeName></quote> are place names attested in <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Ecclesiastical History </title> 6.27.1. This testimonium was written circa <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote106-1" source="#bib106-1">
         <anchor xml:id="testimonia-106.grc.1" corresp="testimonia-106.en.1"/>τοσαύτην εἰσάγων περὶ τὸν Ὠριγένην σπουδὴν ὡς τοτὲ μὲν αὐτὸν ἀμφὶ τὰ κατ’ αὐτὸν κλίματα εἰς τὴν τῶν ἐκκλησιῶν ὠφέλειαν ἐκκαλεῖσθαι, τοτὲ δὲ ὡς αὐτὸν ἐπὶ τὴν Ἰουδαίαν στέλλεσθαι, καί τινας αὐτῷ συνδιατρίβειν χρόνους, τῆς εἰς τὰ θεῖα βελτιώσεως ἕνεκα. οὐ μὴν ἀλλὰ καὶ ὁ τῆς Ιεροσολύμων προεστὼς Ἀλέξανδρος, Θεόκτιστός τε ὁ κατὰ <placeName xml:lang="grc">Καισάρειαν</placeName>, τὸν πάντα χρόνον ὡς ἔπος εἰπεῖν προσανέχοντες αὐτῷ οἷα διδασκάλῳ μόνῳ, τὰ τῆς τῶν θείων γραφῶν ἑρμηνείας καὶ τὰ λοιπὰ τοῦ ἐκκλησιαστικοῦ λόγου πράττειν συνεχώρουν.</ab>
       <ab type="translation" xml:lang="en" xml:id="quote106-2" source="#bib106-2">

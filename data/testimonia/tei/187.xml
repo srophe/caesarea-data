@@ -226,9 +226,7 @@
         <p/>
       </abstract>
       <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg003" type="uniform" level="m">Martyrs of Palestine</title>
-        <ref target="#bib187-1">2.4</ref> written by <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName> in <origDate period="#lateRoman" notBefore="0315" notAfter="0316">
-          <date>315 – 316 CE</date>
-        </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</creation>
+        <ref target="#bib187-1">2.4</ref> written by <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName> in <origDate period="#lateRoman" notBefore="0315" notAfter="0316">315 – 316 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</creation>
       <langUsage>
         <language ident="grc">Ancient Greek</language>
       </langUsage>
@@ -247,9 +245,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/187</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract187-1">Caesarea Maritima is indirectly attested in <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg003" type="uniform" level="m">Martyrs of Palestine</title> 2.4. This testimonium was written circa <origDate period="#lateRoman" notBefore="0315" notAfter="0316">
-          <date>315 – 316 CE</date>
-        </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract187-1">Caesarea Maritima is indirectly attested in <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg003" type="uniform" level="m">Martyrs of Palestine</title> 2.4. This testimonium was written circa <origDate period="#lateRoman" notBefore="0315" notAfter="0316">315 – 316 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote187-1" source="#bib187-1">
         <anchor xml:id="testimonia-187.grc.1" corresp="testimonia-187.en.1"/>μεθ’ ἣν τιμωρίαν <placeName xml:lang="grc">εἰς δεσμὰ</placeName> βληθεὶς, πλεῖστόν τε αὐτόθι πονηθεὶς χρόνον, τέλος τῆς ἀρχικῆς εἰκοσαετηρίδος ἐπιστάσης, κατὰ νομιζομένην δωρεὰν τῶν ἐν τοῖς δεσμοῖς πανταχῆ πάντων ἐλευθερίας ἀνακηρυχθείσης, μόνος ὑπὸ πέντε κεντήματα ἄμφω τὼ πόδε διαταθεὶς, ἐν αὐτῷ κείμενος τῷ ξύλῳ βρόχῳ περιβληθεὶς, ὡς καὶ ἐπεπόθει, μαρτυρίῳ κατεκοσμήθη.</ab>
       <ab type="translation" xml:lang="en" xml:id="quote187-2" source="#bib187-2">

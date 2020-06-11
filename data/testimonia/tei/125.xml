@@ -226,9 +226,7 @@
         <p/>
       </abstract>
       <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg003" type="uniform" level="m">Martyrs of Palestine</title>
-        <ref target="#bib125-1">6.2</ref> written by <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName> in <origDate period="#lateRoman" notBefore="0315" notAfter="0316">
-          <date>315 – 316 CE</date>
-        </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</creation>
+        <ref target="#bib125-1">6.2</ref> written by <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName> in <origDate period="#lateRoman" notBefore="0315" notAfter="0316">315 – 316 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</creation>
       <langUsage>
         <language ident="grc">Ancient Greek</language>
       </langUsage>
@@ -247,9 +245,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/125</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract125-1">Caesarea Maritima is indirectly attested in <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg003" type="uniform" level="m">Martyrs of Palestine</title> 6.2. This testimonium was written circa <origDate period="#lateRoman" notBefore="0315" notAfter="0316">
-          <date>315 – 316 CE</date>
-        </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract125-1">Caesarea Maritima is indirectly attested in <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg003" type="uniform" level="m">Martyrs of Palestine</title> 6.2. This testimonium was written circa <origDate period="#lateRoman" notBefore="0315" notAfter="0316">315 – 316 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote125-1" source="#bib125-1">
         <anchor xml:id="testimonia-125.grc.1" corresp="testimonia-125.en.1"/>ἔθους τὸ πρὶν ὄντος ἐπὶ βασιλέων, εἰ καὶ ἄλλοτε, τὰς φιλοτίμους θέας πλείους τοῖς θεαταῖς ἐμπαρέχειν, θυμηδίας καινῶν καὶ ξένων τά τε συνήθη παραλλαττόντων τῶν θεαμάτων, ζῴων ἔσθ’ ὅπη τῶν ἐξ Ἰνδίας ἢ Αἰθιοπίας ἢ καὶ ἄλλοθεν εἰσκομιζομένων, ἢ καὶ ἀνδρῶν ἐντέχνοις τισὶ σωμασκίαις παραδόξους ψυχαγωγίας τοῖς ὁρῶσιν ἐνδεικνυμένων, πάντως που καὶ τότε, οἷα βασιλέως τὰς θέας παρέχοντος, πλέον τι καὶ παράδοξον χρῆν ὑπάρξαι ταῖς φιλοτιμίαις.</ab>
       <ab type="translation" xml:lang="en" xml:id="quote125-2" source="#bib125-2">
