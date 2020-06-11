@@ -267,10 +267,12 @@
       <ab type="edition" xml:lang="grc" xml:id="quote36-1" source="#bib36-1">
         <anchor xml:id="testimonia-36.grc.1" corresp="testimonia-36.en.1"/>
         Τίτος δὲ ἀπὸ <placeName xml:lang="grc">τῆς ἐπὶ θαλάττῃ Καισαρείας</placeName> ἀναζεύξας εἰς τὴν Φιλίππουκαλουμένην Καισάρειαν ἧκε συχνόν
+      <idno xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg0526.tlg004.perseus-grc1:7.23</idno>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote36-2" source="#bib36-2">
         <anchor xml:id="testimonia-36.en.1" corresp="testimonia-36.grc.1"/>
         But as for Titus, he marched from that <placeName xml:lang="en">Cesarea which lay by the sea-side</placeName>, and came to that which is named Cesarea Philippi,
+      <idno xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:7.23</idno>
       </ab>
       <listBibl>
         <bibl xml:id="bib36-1">

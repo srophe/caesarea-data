@@ -272,10 +272,12 @@
       <ab type="edition" xml:lang="grc" xml:id="quote67-1" source="#bib67-1">
         <anchor xml:id="testimonia-67.grc.1" corresp="testimonia-67.en.1"/>
         Ἀνὴρ δέ τις ἐν <placeName>Καισαρίᾳ</placeName> ὀνόματιΚορνήλιος, ἑκατοντάρχης ἐκσπείρης τῆς καλουμένηςἸταλικῆς,
+      <idno xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg0031.tlg005.perseus-grc2:10.1</idno>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote67-2" source="#bib67-2">
         <anchor xml:id="testimonia-67.en.1" corresp="testimonia-67.grc.1"/>
         Now there was a certain man in <placeName>Caesarea</placeName>, Cornelius by name, a centurion of what was called the Italian Regiment, 
+      <idno xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg0031.tlg005.perseus-eng2:10.1</idno>
       </ab>
       <listBibl>
         <bibl xml:id="bib67-1">

@@ -266,10 +266,12 @@
       <ab type="edition" xml:lang="grc" xml:id="quote32-1" source="#bib32-1">
         <anchor xml:id="testimonia-32.grc.1" corresp="testimonia-32.en.1"/>
         τὸ πέμπτον ἐν Γάζῃ τίθεταιστρατόπεδον, μεθ᾽ ἣν εἰς Ἀσκάλωνακἀκεῖθεν εἰς Ἰάμνειαν, ἔπειτα εἰς Ἰόππην κἀξἸόππης εἰς <placeName xml:lang="grc">Καισάρειαν</placeName> ἀφικνεῖταιδιεγνωκὼς αὐτόθι τὰς ἄλλας δυνάμειςἀθροίζειν.
+      <idno xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg0526.tlg004.perseus-grc1:4.663</idno>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote32-2" source="#bib32-2">
         <anchor xml:id="testimonia-32.en.1" corresp="testimonia-32.grc.1"/>
         For his fifth station he pitched his camp at Gaza; after which he came to Ascalon, and thence to Jamnia, and after that to Joppa, and from Joppa to <placeName xml:lang="en">Cesarea</placeName>, having taken a resolution to gather all his other forces together at that place.
+      <idno xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:4.663</idno>
       </ab>
       <listBibl>
         <bibl xml:id="bib32-1">
