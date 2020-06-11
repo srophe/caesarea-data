@@ -234,7 +234,7 @@
       </langUsage>
       <textClass>
         <classCode scheme="https://distributed-text-services.github.io/specifications/">
-          <idno xml:base="http://data.perseus.org/citations/" type="URN">urn:cts:greekLit:tlg4029.tlg002:29.17-29.18</idno>
+          <idno xml:base="http://data.perseus.org/citations/" type="CTS-URN">urn:cts:greekLit:tlg4029.tlg002:29.17-29.18</idno>
         </classCode>
       </textClass>
     </profileDesc>

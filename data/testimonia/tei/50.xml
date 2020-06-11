@@ -249,7 +249,7 @@
       </langUsage>
       <textClass>
         <classCode scheme="https://distributed-text-services.github.io/specifications/">
-          <idno xml:base="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=" type="URN">urn:cts:latinLit:stoa0023.stoa001:14.11</idno>
+          <idno xml:base="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=" type="CTS-URN">urn:cts:latinLit:stoa0023.stoa001:14.11</idno>
         </classCode>
         <catRef scheme="#CM-NEAEH" target="#byzantine"/>
       </textClass>

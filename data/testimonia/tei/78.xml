@@ -234,7 +234,7 @@
       </langUsage>
       <textClass>
         <classCode scheme="https://distributed-text-services.github.io/specifications/">
-          <idno xml:base="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=" type="URN">urn:cts:greekLit:tlg0031.tlg005:25.6-26.32</idno>
+          <idno xml:base="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=" type="CTS-URN">urn:cts:greekLit:tlg0031.tlg005:25.6-26.32</idno>
         </classCode>
       </textClass>
     </profileDesc>

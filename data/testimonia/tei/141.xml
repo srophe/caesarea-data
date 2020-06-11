@@ -234,7 +234,7 @@
       </langUsage>
       <textClass>
         <classCode scheme="https://distributed-text-services.github.io/specifications/">
-          <idno xml:base="" type="URN">urn:cts:greekLit:tlg3389.tlg001:100</idno>
+          <idno xml:base="" type="CTS-URN">urn:cts:greekLit:tlg3389.tlg001:100</idno>
         </classCode>
       </textClass>
     </profileDesc>

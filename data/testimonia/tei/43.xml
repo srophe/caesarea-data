@@ -248,7 +248,7 @@
       </langUsage>
       <textClass>
         <classCode scheme="https://distributed-text-services.github.io/specifications/">
-          <idno xml:base="" type="URN">urn:cts:latinLit:phi0978.phi001:5.13</idno>
+          <idno xml:base="" type="CTS-URN">urn:cts:latinLit:phi0978.phi001:5.13</idno>
         </classCode>
         <catRef scheme="#CM-NEAEH" target="#"/>
       </textClass>
