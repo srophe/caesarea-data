@@ -225,7 +225,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title ref="urn:cts:greekLit:tlg0526.tlg001" type="uniform" level="m">Antiquities of the Jews </title>
+      <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg001" type="uniform" level="m">Antiquities of the Jews </title>
         <ref target="#bib173-1">13.12.4</ref> written by <persName ref="http://viaf.org/viaf/22143666 " role="author">Flavius Josephus </persName> in <origDate period="#nabateanKingdom #earlyRoman" notBefore="0093" notAfter="0094">
           <date>93 - 94 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</creation>
@@ -247,7 +247,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/173</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract173-1">Caesarea Maritima is indirectly attested in <persName ref="http://viaf.org/viaf/22143666 " role="author">Flavius Josephus </persName>'s <title ref="urn:cts:greekLit:tlg0526.tlg001" type="uniform" level="m">Antiquities of the Jews </title> 13.12.4. This testimonium was written circa <origDate period="#nabateanKingdom #earlyRoman" notBefore="0093" notAfter="0094">
+      <desc type="abstract" xml:id="abstract173-1">Caesarea Maritima is indirectly attested in <persName ref="http://viaf.org/viaf/22143666 " role="author">Flavius Josephus </persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg001" type="uniform" level="m">Antiquities of the Jews </title> 13.12.4. This testimonium was written circa <origDate period="#nabateanKingdom #earlyRoman" notBefore="0093" notAfter="0094">
           <date>93 - 94 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote173-1" source="#bib173-1">

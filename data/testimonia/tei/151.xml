@@ -230,7 +230,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title ref="urn:cts:greekLit:tlg2057.tlg002" type="uniform" level="m">Ecclesiastical History </title>
+      <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:greekLit:tlg2057.tlg002" type="uniform" level="m">Ecclesiastical History </title>
         <ref target="#bib151-1">4.4</ref> written by <persName ref="https://viaf.org/viaf/55571017/" role="author">Scholasticus Socrates </persName> in <origDate period="#byzantine" when="0439">
           <date>439 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
@@ -252,7 +252,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/151</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract151-1">Caesarea Maritima is indirectly attested in <persName ref="https://viaf.org/viaf/55571017/" role="author">Scholasticus Socrates </persName>'s <title ref="urn:cts:greekLit:tlg2057.tlg002" type="uniform" level="m">Ecclesiastical History </title> 4.4. This testimonium was written circa <origDate period="#byzantine" when="0439">
+      <desc type="abstract" xml:id="abstract151-1">Caesarea Maritima is indirectly attested in <persName ref="https://viaf.org/viaf/55571017/" role="author">Scholasticus Socrates </persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg2057.tlg002" type="uniform" level="m">Ecclesiastical History </title> 4.4. This testimonium was written circa <origDate period="#byzantine" when="0439">
           <date>439 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote151-1" source="#bib151-1">

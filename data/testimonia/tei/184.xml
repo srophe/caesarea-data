@@ -225,7 +225,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title ref="urn:cts:greekLit:tlg2018.tlg003" type="uniform" level="m">Martyrs of Palestine</title>
+      <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg003" type="uniform" level="m">Martyrs of Palestine</title>
         <ref target="#bib184-1">6.7</ref> written by <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName> in <origDate period="#lateRoman" notBefore="0315" notAfter="0316">
           <date>315 – 316 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</creation>
@@ -247,7 +247,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/184</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract184-1">Caesarea Maritima is indirectly attested in <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>'s <title ref="urn:cts:greekLit:tlg2018.tlg003" type="uniform" level="m">Martyrs of Palestine</title> 6.7. This testimonium was written circa <origDate period="#lateRoman" notBefore="0315" notAfter="0316">
+      <desc type="abstract" xml:id="abstract184-1">Caesarea Maritima is indirectly attested in <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg003" type="uniform" level="m">Martyrs of Palestine</title> 6.7. This testimonium was written circa <origDate period="#lateRoman" notBefore="0315" notAfter="0316">
           <date>315 – 316 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote184-1" source="#bib184-1">

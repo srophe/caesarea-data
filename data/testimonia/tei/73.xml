@@ -225,7 +225,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title ref="urn:cts:greekLit:tlg0031.tlg005" type="uniform" level="m">Acts</title>
+      <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:greekLit:tlg0031.tlg005" type="uniform" level="m">Acts</title>
         <ref target="#bib73-1">18.22</ref> written by <persName ref="http://viaf.org/viaf/305863610" role="author">Luke the Evangelist</persName> in <origDate period="#nabateanKingdom #earlyRoman" notBefore="0080" notAfter="0090">
           <date>80 – 90 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</creation>
@@ -248,7 +248,7 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/73</idno>
       </ab>
       <desc type="abstract" xml:id="abstract73-1">
-    <quote><placeName xml:lang="grc">Καισαρίαν</placeName></quote>, are place names attested in <persName ref="http://viaf.org/viaf/305863610" role="author">Luke the Evangelist</persName>'s <title ref="urn:cts:greekLit:tlg0031.tlg005" type="uniform" level="m">Acts</title> 18.22. This testimonium was written circa <origDate period="#nabateanKingdom #earlyRoman" notBefore="0080" notAfter="0090">
+    <quote><placeName xml:lang="grc">Καισαρίαν</placeName></quote>, are place names attested in <persName ref="http://viaf.org/viaf/305863610" role="author">Luke the Evangelist</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg0031.tlg005" type="uniform" level="m">Acts</title> 18.22. This testimonium was written circa <origDate period="#nabateanKingdom #earlyRoman" notBefore="0080" notAfter="0090">
      <date>80 – 90 CE</date>
     </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote73-1" source="#bib73-1">

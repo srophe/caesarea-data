@@ -230,7 +230,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title ref="urn:cts:greekLit:tlg0526.tlg004" type="uniform" level="m">The Jewish War </title>
+      <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg004" type="uniform" level="m">The Jewish War </title>
         <ref target="#bib178-1">1.21.5</ref> written by <persName ref="http://viaf.org/viaf/22143666 " role="author">Flavius Josephus </persName> in <origDate period="#nabateanKingdom #earlyRoman #herodian" notBefore="0070" notAfter="0090">
           <date>70 - 90 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</creation>
@@ -252,7 +252,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/178</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract178-1">Caesarea Maritima is indirectly attested in <persName ref="http://viaf.org/viaf/22143666 " role="author">Flavius Josephus </persName>'s <title ref="urn:cts:greekLit:tlg0526.tlg004" type="uniform" level="m">The Jewish War </title> 1.21.5. This testimonium was written circa <origDate period="#nabateanKingdom #earlyRoman #herodian" notBefore="0070" notAfter="0090">
+      <desc type="abstract" xml:id="abstract178-1">Caesarea Maritima is indirectly attested in <persName ref="http://viaf.org/viaf/22143666 " role="author">Flavius Josephus </persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg004" type="uniform" level="m">The Jewish War </title> 1.21.5. This testimonium was written circa <origDate period="#nabateanKingdom #earlyRoman #herodian" notBefore="0070" notAfter="0090">
           <date>70 - 90 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote178-1" source="#bib178-1">

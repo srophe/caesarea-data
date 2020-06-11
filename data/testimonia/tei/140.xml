@@ -225,7 +225,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title ref="urn:cts:greekLit:tlg3389.tlg001" type="uniform" level="m">De viris illustribus</title>
+      <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:greekLit:tlg3389.tlg001" type="uniform" level="m">De viris illustribus</title>
         <ref target="#bib140-1">98</ref> written by <persName ref="http://viaf.org/viaf/95147024 " role="author">Jerome</persName> in <origDate period="#byzantine" when="0392">
           <date>392 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</creation>
@@ -248,7 +248,7 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/140</idno>
       </ab>
       <desc type="abstract" xml:id="abstract140-1">
-        <quote><placeName xml:lang="la">Caesariensis ecclesiae in Palestina</placeName></quote>,  and <quote><placeName xml:lang="en">church of Cæsarea in Palestine,</placeName></quote> are place names attested in <persName ref="http://viaf.org/viaf/95147024 " role="author">Jerome</persName>'s <title ref="urn:cts:greekLit:tlg3389.tlg001" type="uniform" level="m">De viris illustribus</title> 98. This testimonium was written circa <origDate period="#byzantine" when="0392">
+        <quote><placeName xml:lang="la">Caesariensis ecclesiae in Palestina</placeName></quote>,  and <quote><placeName xml:lang="en">church of Cæsarea in Palestine,</placeName></quote> are place names attested in <persName ref="http://viaf.org/viaf/95147024 " role="author">Jerome</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg3389.tlg001" type="uniform" level="m">De viris illustribus</title> 98. This testimonium was written circa <origDate period="#byzantine" when="0392">
           <date>392 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote140-1" source="#bib140-1">

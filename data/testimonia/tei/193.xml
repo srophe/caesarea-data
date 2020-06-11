@@ -225,7 +225,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title ref="urn:cts:greekLit:tlg2018.tlg003" type="uniform" level="m">Martyrs of Palestine</title>
+      <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg003" type="uniform" level="m">Martyrs of Palestine</title>
         <ref target="#bib193-1">9.6-9.7</ref> written by <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName> in <origDate period="#lateRoman" notBefore="0315" notAfter="0316">
           <date>315 – 316 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</creation>
@@ -248,7 +248,7 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/193</idno>
       </ab>
       <desc type="abstract" xml:id="abstract193-1">
-        <quote><placeName xml:lang="grc">πάσαν Καισαρέων πόλιν</placeName></quote>,  and <quote><placeName xml:lang="en">entire city of Cæsarea,</placeName></quote> are place names attested in <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>'s <title ref="urn:cts:greekLit:tlg2018.tlg003" type="uniform" level="m">Martyrs of Palestine</title> 9.6-9.7. This testimonium was written circa <origDate period="#lateRoman" notBefore="0315" notAfter="0316">
+        <quote><placeName xml:lang="grc">πάσαν Καισαρέων πόλιν</placeName></quote>,  and <quote><placeName xml:lang="en">entire city of Cæsarea,</placeName></quote> are place names attested in <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg003" type="uniform" level="m">Martyrs of Palestine</title> 9.6-9.7. This testimonium was written circa <origDate period="#lateRoman" notBefore="0315" notAfter="0316">
           <date>315 – 316 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote193-1" source="#bib193-1">

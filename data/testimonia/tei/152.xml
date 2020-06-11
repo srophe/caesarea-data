@@ -230,7 +230,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title ref="urn:cts:greekLit:tlg2048.tlg001" type="uniform" level="m">Ecclesiastical History </title>
+      <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:greekLit:tlg2048.tlg001" type="uniform" level="m">Ecclesiastical History </title>
         <ref target="#bib152-1">3.2</ref> written by <persName ref="http://viaf.org/viaf/305409681 " role="author">Sozomenus</persName> in <origDate period="#byzantine" when="0445">
           <date>445 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
@@ -253,7 +253,7 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/152</idno>
       </ab>
       <desc type="abstract" xml:id="abstract152-1">
-        <quote><placeName xml:lang="grc">ἐν Καισαρείᾳ τῆς Παλαιστίνης</placeName></quote>,  and <quote><placeName xml:lang="en">Cæsarea</placeName></quote> are place names attested in <persName ref="http://viaf.org/viaf/305409681 " role="author">Sozomenus</persName>'s <title ref="urn:cts:greekLit:tlg2048.tlg001" type="uniform" level="m">Ecclesiastical History </title> 3.2. This testimonium was written circa <origDate period="#byzantine" when="0445">
+        <quote><placeName xml:lang="grc">ἐν Καισαρείᾳ τῆς Παλαιστίνης</placeName></quote>,  and <quote><placeName xml:lang="en">Cæsarea</placeName></quote> are place names attested in <persName ref="http://viaf.org/viaf/305409681 " role="author">Sozomenus</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg2048.tlg001" type="uniform" level="m">Ecclesiastical History </title> 3.2. This testimonium was written circa <origDate period="#byzantine" when="0445">
           <date>445 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote152-1" source="#bib152-1">

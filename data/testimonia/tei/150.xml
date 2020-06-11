@@ -230,7 +230,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title ref="urn:cts:greekLit:tlg2057.tlg002" type="uniform" level="m">Ecclesiastical History </title>
+      <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:greekLit:tlg2057.tlg002" type="uniform" level="m">Ecclesiastical History </title>
         <ref target="#bib150-1">2.4</ref> written by <persName ref="https://viaf.org/viaf/55571017/" role="author">Scholasticus Socrates </persName> in <origDate period="#byzantine" when="0439">
           <date>439 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
@@ -253,7 +253,7 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/150</idno>
       </ab>
       <desc type="abstract" xml:id="abstract150-1">
-        <quote><placeName xml:lang="grc">τὴν ἐπισκοπὴν Καισαρείας</placeName></quote>, <quote><placeName xml:lang="grc">τῆς ἐν Παλαιστίνῃ Καισαρείας</placeName></quote>, <quote><placeName xml:lang="en">Bishopric of Cæsarea.</placeName></quote>,  and <quote><placeName xml:lang="en">of Cæsarea in Palestine,</placeName></quote> are place names attested in <persName ref="https://viaf.org/viaf/55571017/" role="author">Scholasticus Socrates </persName>'s <title ref="urn:cts:greekLit:tlg2057.tlg002" type="uniform" level="m">Ecclesiastical History </title> 2.4. This testimonium was written circa <origDate period="#byzantine" when="0439">
+        <quote><placeName xml:lang="grc">τὴν ἐπισκοπὴν Καισαρείας</placeName></quote>, <quote><placeName xml:lang="grc">τῆς ἐν Παλαιστίνῃ Καισαρείας</placeName></quote>, <quote><placeName xml:lang="en">Bishopric of Cæsarea.</placeName></quote>,  and <quote><placeName xml:lang="en">of Cæsarea in Palestine,</placeName></quote> are place names attested in <persName ref="https://viaf.org/viaf/55571017/" role="author">Scholasticus Socrates </persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg2057.tlg002" type="uniform" level="m">Ecclesiastical History </title> 2.4. This testimonium was written circa <origDate period="#byzantine" when="0439">
           <date>439 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote150-1" source="#bib150-1">

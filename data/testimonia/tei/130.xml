@@ -225,7 +225,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title ref="urn:cts:greekLit:tlg2018.tlg020" type="uniform" level="m">Life of Constantine </title>
+      <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg020" type="uniform" level="m">Life of Constantine </title>
         <ref target="#bib130-1">1.19</ref> written by <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName> in <origDate period="#byzantine" when="0339">
           <date>339 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</creation>
@@ -247,7 +247,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/130</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract130-1">Caesarea Maritima is indirectly attested in <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>'s <title ref="urn:cts:greekLit:tlg2018.tlg020" type="uniform" level="m">Life of Constantine </title> 1.19. This testimonium was written circa <origDate period="#byzantine" when="0339">
+      <desc type="abstract" xml:id="abstract130-1">Caesarea Maritima is indirectly attested in <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg020" type="uniform" level="m">Life of Constantine </title> 1.19. This testimonium was written circa <origDate period="#byzantine" when="0339">
           <date>339 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote130-1" source="#bib130-1">

@@ -240,7 +240,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title ref="urn:cts:latinLit:stoa0023.stoa001" type="uniform" level="m">History</title>
+      <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:latinLit:stoa0023.stoa001" type="uniform" level="m">History</title>
         <ref target="#bib50-1">14.11</ref> written by <persName ref="http://viaf.org/viaf/89594750" role="author">Ammianus Marcellinus</persName> in <origDate period="#byzantine" notBefore="0380" notAfter="0391">
           <date>380 – 391 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</creation>
@@ -264,7 +264,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/50</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract50-1"> are place names attested in <persName ref="http://viaf.org/viaf/89594750" role="author">Ammianus Marcellinus</persName>'s <title ref="urn:cts:latinLit:stoa0023.stoa001" type="uniform" level="m">History</title> 14.11. This testimonium was written circa <origDate period="#byzantine" notBefore="0380" notAfter="0391">
+      <desc type="abstract" xml:id="abstract50-1"> are place names attested in <persName ref="http://viaf.org/viaf/89594750" role="author">Ammianus Marcellinus</persName>'s <title xml:lang="en" ref="urn:cts:latinLit:stoa0023.stoa001" type="uniform" level="m">History</title> 14.11. This testimonium was written circa <origDate period="#byzantine" notBefore="0380" notAfter="0391">
      <date>380 – 391 CE</date>
     </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote50-1" source="#bib50-1">

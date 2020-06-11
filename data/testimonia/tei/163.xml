@@ -225,7 +225,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title ref="urn:cts:greekLit:tlg2733.tlg001" type="uniform" level="m">Ecclesiastical History </title>
+      <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:greekLit:tlg2733.tlg001" type="uniform" level="m">Ecclesiastical History </title>
         <ref target="#bib163-1">4.7</ref> written by <persName ref="https://viaf.org/viaf/8181546/" role="author">Evagrius Scholasticus </persName> in <origDate period="#byzantine" when="0593">
           <date>593 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/897709 ">Antioch</origPlace>.</creation>
@@ -248,7 +248,7 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/163</idno>
       </ab>
       <desc type="abstract" xml:id="abstract163-1">
-        <quote><placeName xml:lang="grc">τὴν Καίσαρος πόλιν,</placeName></quote>, <quote><placeName xml:lang="grc">Καίσαρος πόλιν.</placeName></quote>, <quote><placeName xml:lang="grc">τῆς Καίσαρος</placeName></quote>, <quote><placeName xml:lang="grc">Καίσαρος</placeName></quote>, <quote><placeName xml:lang="grc">τῶν πυλῶν τῆς Καίσαρος</placeName></quote>, <quote><placeName xml:lang="en">from Caesarea,</placeName></quote>, <quote><placeName xml:lang="en">Caesarea.</placeName></quote>, <quote><placeName xml:lang="en">Caesarea</placeName></quote>, <quote><placeName xml:lang="en">to Caesarea</placeName></quote>,  and <quote><placeName xml:lang="en">gates of Caesarea,</placeName></quote> are place names attested in <persName ref="https://viaf.org/viaf/8181546/" role="author">Evagrius Scholasticus </persName>'s <title ref="urn:cts:greekLit:tlg2733.tlg001" type="uniform" level="m">Ecclesiastical History </title> 4.7. This testimonium was written circa <origDate period="#byzantine" when="0593">
+        <quote><placeName xml:lang="grc">τὴν Καίσαρος πόλιν,</placeName></quote>, <quote><placeName xml:lang="grc">Καίσαρος πόλιν.</placeName></quote>, <quote><placeName xml:lang="grc">τῆς Καίσαρος</placeName></quote>, <quote><placeName xml:lang="grc">Καίσαρος</placeName></quote>, <quote><placeName xml:lang="grc">τῶν πυλῶν τῆς Καίσαρος</placeName></quote>, <quote><placeName xml:lang="en">from Caesarea,</placeName></quote>, <quote><placeName xml:lang="en">Caesarea.</placeName></quote>, <quote><placeName xml:lang="en">Caesarea</placeName></quote>, <quote><placeName xml:lang="en">to Caesarea</placeName></quote>,  and <quote><placeName xml:lang="en">gates of Caesarea,</placeName></quote> are place names attested in <persName ref="https://viaf.org/viaf/8181546/" role="author">Evagrius Scholasticus </persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg2733.tlg001" type="uniform" level="m">Ecclesiastical History </title> 4.7. This testimonium was written circa <origDate period="#byzantine" when="0593">
           <date>593 CE</date>
         </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/897709 ">Antioch</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote163-1" source="#bib163-1">
