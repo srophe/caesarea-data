@@ -248,10 +248,12 @@
       <desc type="abstract" xml:id="abstract143-1">
         <quote><placeName xml:lang="la">Caesareae Palestinae</placeName></quote>,  and <quote><placeName xml:lang="en">Cæsarea in Palestine</placeName></quote> are place names attested in <persName ref="http://viaf.org/viaf/95147024 " role="author">Jerome</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg3389.tlg001" type="uniform" level="m">De viris illustribus</title> 130. This testimonium was written circa <origDate period="#byzantine" when="0392">392 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote143-1" source="#bib143-1">
-        <anchor xml:id="testimonia-143.la.1" corresp="testimonia-143.en.1"/>Gelasius, <placeName xml:lang="la">Caesareae Palestinae</placeName> post Euzoium episcopus, accurati limatique sermonis fertur quaedam scribere, sed celare. <idno xml:base=""/>
+        <anchor xml:id="testimonia-143.la.1" corresp="testimonia-143.en.1"/>Gelasius, <placeName xml:lang="la">Caesareae Palestinae</placeName> post Euzoium episcopus, accurati limatique sermonis fertur quaedam scribere, sed celare. <idno type="CTS-URN"/>
+        <ref target="https://archive.org/details/hieronymusundge00berngoog/page/n117/mode/2up"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote143-2" source="#bib143-2">
-        <anchor xml:id="testimonia-143.en.1" corresp="testimonia-143.la.1"/>Gelasius, bishop of <placeName xml:lang="en">Cæsarea in Palestine</placeName> after Euzoius, is said to write more or less in carefully polished style, but not to publish his works.<idno xml:base=""/>
+        <anchor xml:id="testimonia-143.en.1" corresp="testimonia-143.la.1"/>Gelasius, bishop of <placeName xml:lang="en">Cæsarea in Palestine</placeName> after Euzoius, is said to write more or less in carefully polished style, but not to publish his works.<idno type="CTS-URN"/>
+        <ref target="https://ccel.org/ccel/schaff/npnf203/npnf203.v.iii.cxxxii.html"/>
       </ab>
       <listBibl>
         <bibl xml:id="bib143-1">

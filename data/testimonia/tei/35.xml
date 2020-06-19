@@ -266,12 +266,14 @@
       <ab type="edition" xml:lang="grc" xml:id="quote35-1" source="#bib35-1">
         <anchor xml:id="testimonia-35.grc.1" corresp="testimonia-35.en.1"/>
         καὶ καταβὰς ἅμα τῷ στρατῷ πρὸς τὴνἐπὶ <placeName xml:lang="grc">τῇ θαλάττῃ Καισάρειαν</placeName> εἰς ταύτην τό τεπλῆθος τῶν λαφύρων ἀπέθετο καὶ τοὺςαἰχμαλώτους προσέταξεν ἐν αὐτῇφυλάττεσθαι: τὸν γὰρ εἰς τὴν Ἰταλίαν πλοῦνὁ χειμὼν ἐκώλυε.
-      <idno xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg0526.tlg004.perseus-grc1:7.20</idno>
+      <idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg0526.tlg004.perseus-grc1:7.2</idno>
+        <ref target="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-grc1:7.2"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote35-2" source="#bib35-2">
         <anchor xml:id="testimonia-35.en.1" corresp="testimonia-35.grc.1"/>
         He then went down with his army to <placeName xml:lang="en">that Cesarea which lay by the sea-side</placeName>, and there laid up the rest of his spoils in great quantities, and gave order that the captives should he kept there; for the winter season hindered him then from sailing into Italy.
-      <idno xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:7.20</idno>
+      <idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:7.13</idno>
+        <ref target="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:7.13"/>
       </ab>
       <listBibl>
         <bibl xml:id="bib35-1">

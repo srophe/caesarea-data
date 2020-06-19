@@ -266,12 +266,14 @@
       <ab type="edition" xml:lang="grc" xml:id="quote34-1" source="#bib34-1">
         <anchor xml:id="testimonia-34.grc.1" corresp="testimonia-34.en.1"/>
         ὁ γὰρ δὴ Τίτος ἐπειδὴ τὰ μὲν συνήγαγετῆς δυνάμεως πρὸς αὑτόν, τοῖς δὲ ἐπὶἹεροσολύμων συναντᾶν ἐπέστειλεν, ἐξήλαυνετῆς <placeName xml:lang="grc">Καισαρείας</placeName>.
-      <idno xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg0526.tlg004.perseus-grc1:5.40</idno>
+      <idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg0526.tlg004.perseus-grc1:5.40</idno>
+        <ref target="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-grc1:5.40"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote34-2" source="#bib34-2">
         <anchor xml:id="testimonia-34.en.1" corresp="testimonia-34.grc.1"/>
         For Titus, when he had gotten together part of his forces about him, and had ordered the rest to meet him at Jerusalem, marched out of <placeName xml:lang="en">Cesarea</placeName>.
-      <idno xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:5.40</idno>
+      <idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:5.39</idno>
+        <ref target="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:5.39"/>
       </ab>
       <listBibl>
         <bibl xml:id="bib34-1">

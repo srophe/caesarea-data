@@ -267,12 +267,14 @@
       <ab type="edition" xml:lang="la" xml:id="quote43-1" source="#bib43-1">
         <anchor xml:id="testimonia-43.la.1" corresp="testimonia-43.en.1"/>
         lope Phoenicum, antiquior terrarum inundatione, ut ferunt, insidet collem, praeiacente saxo, in quo vinculorum Andromedae vestigia ostendit. colitur illic fabulosa Ceto. inde Apollonia, <placeName xml:lang="la">Stratonis Turris</placeName>, eadem <placeName xml:lang="la">Caesarea</placeName> ab Herode rege condita, nunc <placeName xml:lang="la">colonia Prima Flavia</placeName> a Vespasiano Imperatore deducta, finis Palaestines, CLXXXVIIII p. a confinio Arabiae. dein Phoenice; intus autem Samariae oppida Neapolis, quod antea Mamortha dicebatur, Sebaste in monte, et altiore Gamala.
-      <idno xml:base="">urn:cts:latinLit:phi0978.phi001.perseus-lat1:5.13</idno>
+      <idno type="CTS-URN" xml:base="">urn:cts:latinLit:phi0978.phi001.perseus-lat1:5.13</idno>
+        <ref target="urn:cts:latinLit:phi0978.phi001.perseus-lat1:5.13"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote43-2" source="#bib43-2">
         <anchor xml:id="testimonia-43.en.1" corresp="testimonia-43.la.1"/>
         Joppe, a city of the Phœnicians, which existed, it is said, before the deluge of the earth. It is situate on the slope of a hill, and in front of it lies a rock, upon which they point out the vestiges of the chains by which Andromeda was bound. Here the fabulous goddess Ceto is worshipped. Next to this place comes Apollonia, and then the <placeName xml:lang="en">Tower of Strato</placeName>, otherwise <placeName xml:lang="en">Cæsarea</placeName>, built by King Herod, but now the <placeName xml:lang="en">Colony of Prima Flavia</placeName>, established by the Emperor Vespasianus: this place is the frontier town of Palæstina, at a distance of 188 miles from the confines of Arabia; after which comes Phœnice. In the interior of Samaria are the towns of Neapolis, formerly called Mamortha, Sebaste, situate on a mountain, and, on a still more lofty one, Gamala.
-      <idno xml:base="">urn:cts:latinLit:phi0978.phi001.perseus-eng1:5.13</idno>
+      <idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:latinLit:phi0978.phi001.perseus-eng1:5.13</idno>
+        <ref target="http://data.perseus.org/citations/urn:cts:latinLit:phi0978.phi001.perseus-eng1:5.13"/>
       </ab>
       <listBibl>
         <bibl xml:id="bib43-1">

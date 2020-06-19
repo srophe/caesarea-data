@@ -267,12 +267,14 @@
       <ab type="edition" xml:lang="la" xml:id="quote44-1" source="#bib44-1">
         <anchor xml:id="testimonia-44.la.1" corresp="testimonia-44.en.1"/>
         haud dubia destinatione discessere Mucianus Antiochiam, Vespasianus <placeName xml:lang="la">Caesaream</placeName>: illa Syriae, hoc Iudaeae caput est. Initium ferendi ad Vespasianum imperii Alexandriae coeptum, festinante Tiberio Alexandro, qui kalendis Iuliis sacramento eius legiones adegit. isque primus principatus dies in posterum celebratus, quamvis Iudaicus exercitus quinto nonas Iulias apud ipsum iurasset, eo ardore ut ne Titus quidem filius expectaretur, Syria remeans et consiliorum inter Mucianum ac patrem nuntius. cuncta impetu militum acta non parata contione, non coniunctis legionibus.
-      <idno xml:base="">urn:cts:latinLit:phi1351.phi004.perseus-lat2:2.82-2.83</idno>
+      <idno type="CTS-URN" xml:base="">urn:cts:latinLit:phi1351.phi004.perseus-lat2:2.82-2.83</idno>
+        <ref target="urn:cts:latinLit:phi1351.phi004.perseus-lat2:2.82-2.83"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote44-2" source="#bib44-2">
         <anchor xml:id="testimonia-44.en.1" corresp="testimonia-44.la.1"/>
         With purposes no longer doubtful they parted, Mucianus for Antioch, Vespasian for <placeName xml:lang="en">Cæsarea</placeName>. These cities are the capitals of Syria and Judæa respectively. The initiative in transferring the Empire to Vespasian was taken at Alexandria under the prompt direction of Tiberius Alexander, who on the 1st of July made the legions swear allegiance to him. That day was ever after celebrated as the first of his reign, though the army of Judæa on July 3rd took the oath to Vespasian in person with such eager alacrity that they would not wait for the return of his son Titus, who was then on his way back from Syria, acting as the medium between Mucianus and his father for the communication of their plans. All this was done by the impulsive action of the soldiers without the preliminary of a formal harangue or any concentration of the legions.
-      <idno xml:base="">urn:cts:latinLit:phi1351.phi004.perseus-eng1:2.82-2.83</idno>
+      <idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:latinLit:phi1351.phi004.perseus-eng1:2.79</idno>
+        <ref target="http://data.perseus.org/citations/urn:cts:latinLit:phi1351.phi004.perseus-eng1:2.79"/>
       </ab>
       <listBibl>
         <bibl xml:id="bib44-1">
