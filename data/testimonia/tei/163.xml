@@ -303,7 +303,7 @@
           <title xml:lang="en" ref="urn:cts:greekLit:tlg2733.tlg001" type="uniform" level="m"
           >Ecclesiastical History </title> 4.7. This testimonium was written circa <origDate
           period="#byzantine" when="0593">593 CE</origDate>. This work was likely written in
-          <origPlace ref="https://pleiades.stoa.org/places/897709 ">Antioch</origPlace>.</desc>
+        <origPlace ref="https://pleiades.stoa.org/places/658381 ">Antioch</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote163-1" source="#bib163-1">
         <anchor xml:id="testimonia-163.grc.1" corresp="testimonia-163.en.1"/>Ἀλλ̓ ἐπεὶ τῶν εἰρημένων
         ἐμνήσθημεν παθημάτων, [*] φέρε καὶ ἕτερα ἄττα τῶν ἀξιολόγων τῷ παρόντι προσθῶμεν [*] πόνῳ,
