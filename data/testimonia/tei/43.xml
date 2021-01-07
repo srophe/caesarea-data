@@ -267,8 +267,8 @@
       <ab type="edition" xml:lang="la" xml:id="quote43-1" source="#bib43-1">
         <anchor xml:id="testimonia-43.la.1" corresp="testimonia-43.en.1"/>
         lope Phoenicum, antiquior terrarum inundatione, ut ferunt, insidet collem, praeiacente saxo, in quo vinculorum Andromedae vestigia ostendit. colitur illic fabulosa Ceto. inde Apollonia, <placeName xml:lang="la">Stratonis Turris</placeName>, eadem <placeName xml:lang="la">Caesarea</placeName> ab Herode rege condita, nunc <placeName xml:lang="la">colonia Prima Flavia</placeName> a Vespasiano Imperatore deducta, finis Palaestines, CLXXXVIIII p. a confinio Arabiae. dein Phoenice; intus autem Samariae oppida Neapolis, quod antea Mamortha dicebatur, Sebaste in monte, et altiore Gamala.
-      <idno type="CTS-URN" xml:base="">urn:cts:latinLit:phi0978.phi001.perseus-lat1:5.13</idno>
-        <ref target="urn:cts:latinLit:phi0978.phi001.perseus-lat1:5.13"/>
+        <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:latinLit:phi0978.phi001.perseus-lat1:5.13</idno>
+        <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:latinLit:phi0978.phi001.perseus-lat1:5.13"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote43-2" source="#bib43-2">
         <anchor xml:id="testimonia-43.en.1" corresp="testimonia-43.la.1"/>
