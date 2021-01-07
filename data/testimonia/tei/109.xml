@@ -252,7 +252,7 @@
         <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2018.tlg002.opp-grc2:6.32.2"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote109-2" source="#bib109-2">
-        <anchor xml:id="testimonia-109.en.1" corresp="testimonia-109.grc.1"/>Αnd having come at that time to Αthens, he finished the commentary on Ezekiel, and began that on the song of Songs, carrying it forward there up to the fifth book. And returning to <placeName xml:lang="en">Caesarea</placeName> he brought these also to an end, numbering ten.<note type="corrigenda">Inaccuracies found in the transcription of the electronic text compared to its printed source have been corrected.</note>
+        <anchor xml:id="testimonia-109.en.1" corresp="testimonia-109.grc.1"/>And having come at that time to Athens, he finished the commentary on Ezekiel, and began that on the song of Songs, carrying it forward there up to the fifth book. And returning to <placeName xml:lang="en">Caesarea</placeName> he brought these also to an end, numbering ten.<note type="corrigenda">Inaccuracies found in the transcription of the electronic text compared to its printed source have been corrected.</note>
       <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg002.opp-eng1:6.32</idno>
         <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2018.tlg002.opp-eng1:6.32"/>
       </ab>

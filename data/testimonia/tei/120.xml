@@ -257,7 +257,7 @@
         <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2018.tlg002.opp-grc2:8.13.6"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote120-2" source="#bib120-2">
-        <anchor xml:id="testimonia-120.en.1" corresp="testimonia-120.grc.1"/>Αnd among these we must mention the great glory of the community of <placeName xml:lang="en">Caesarea</placeName>, Pamphilus, a presbyter, the most marvellous man of οur day; the merit of whose brave and good deeds we shall record at the proper time.<idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg002.opp-eng1:8.13</idno>
+        <anchor xml:id="testimonia-120.en.1" corresp="testimonia-120.grc.1"/>And among these we must mention the great glory of the community of <placeName xml:lang="en">Caesarea</placeName>, Pamphilus, a presbyter, the most marvellous man of our day; the merit of whose brave and good deeds we shall record at the proper time.<idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg002.opp-eng1:8.13</idno>
         <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2018.tlg002.opp-eng1:8.13"/>
       </ab>
       <listBibl>
