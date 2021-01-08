@@ -290,7 +290,7 @@
       </langUsage>
       <textClass>
         <classCode scheme="https://distributed-text-services.github.io/specifications/">
-          <idno xml:base="" type="CTS-URN">urn:cts:latinLit:phi1351.phi004:2.82-2.83</idno>
+          <idno xml:base="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=" type="CTS-URN">urn:cts:latinLit:phi1351.phi004:2.82-2.83</idno>
         </classCode>
         <catRef scheme="#CM-NEAEH" target="#"/>
       </textClass>

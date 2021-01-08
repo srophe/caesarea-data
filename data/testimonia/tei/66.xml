@@ -271,8 +271,8 @@
       <ab type="edition" xml:lang="grc" xml:id="quote66-1" source="#bib66-1">
         <anchor xml:id="testimonia-66.grc.1" corresp="testimonia-66.en.1"/>
         ἐπιγνόντες δὲ οἱ ἀδελφοὶκατήγαγον αὐτὸν εἰς <placeName>Καισαρίαν</placeName> καὶ ἐξαπέστειλαν αὐτὸν εἰςΤαρσόν.
-      <idno type="CTS-URN" xml:base="">urn:cts:greekLit:tlg0031.tlg005.perseus-grc2:9.30</idno>
-        <ref target="urn:cts:greekLit:tlg0031.tlg005.perseus-grc2:9.30"/>
+        <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg0031.tlg005.perseus-grc2:9.30</idno>
+        <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg0031.tlg005.perseus-grc2:9.30"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote66-2" source="#bib66-2">
         <anchor xml:id="testimonia-66.en.1" corresp="testimonia-66.grc.1"/>

@@ -252,7 +252,7 @@
         <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2018.tlg002.opp-grc2:6.19.16"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote103-2" source="#bib103-2">
-        <anchor xml:id="testimonia-103.en.1" corresp="testimonia-103.grc.1"/>But after the lapse of some time no small warfare broke out again in the city, and leaving Alexandria secretly he went to Ρalestine and abode at <placeName xml:lang="en">Caesarea</placeName>. And although he had not yet received ordination to the presbyterate, the bishops there requested him to discourse and expound the divine Scriptures publicly the church.<note type="corrigenda">Inaccuracies found in the transcription of the electronic text compared to its printed source have been corrected.</note>
+        <anchor xml:id="testimonia-103.en.1" corresp="testimonia-103.grc.1"/>But after the lapse of some time no small warfare broke out again in the city, and leaving Alexandria secretly he went to Palestine and abode at <placeName xml:lang="en">Caesarea</placeName>. And although he had not yet received ordination to the presbyterate, the bishops there requested him to discourse and expound the divine Scriptures publicly the church.<note type="corrigenda">Inaccuracies found in the transcription of the electronic text compared to its printed source have been corrected.</note>
       <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg002.opp-eng1:6.19</idno>
         <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2018.tlg002.opp-eng1:6.19"/>
       </ab>
