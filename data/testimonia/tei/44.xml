@@ -3,30 +3,41 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="en" level="a">Cornelius Tacitus, <title level="m">The Histories</title> 2.82-2.83</title>
+        <title xml:lang="en" level="a">Cornelius Tacitus, <title level="m">The Histories</title>
+          2.82-2.83</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
         <sponsor>Vanderbilt University</sponsor>
         <principal>Joseph L. Rife</principal>
-        <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
-        <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#plieberman">Phillip I. Lieberman</editor>
-        <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#dmichelson">David A.
-        Michelson</editor>
-        <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</editor>
-        <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
-        <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#bgardner">Bianca Gardner</editor>
+        <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife"
+          >Joseph L. Rife</editor>
+        <editor role="general"
+          ref="https://caesarea-maritima.org/documentation/editors.xml#plieberman">Phillip I.
+          Lieberman</editor>
+        <editor role="technical"
+          ref="https://caesarea-maritima.org/documentation/editors.xml#dmichelson">David A.
+          Michelson</editor>
+        <editor role="technical"
+          ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L.
+          Potter</editor>
+        <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife"
+          >Joseph L. Rife</editor>
+        <editor role="creator"
+          ref="https://caesarea-maritima.org/documentation/editors.xml#bgardner">Bianca
+          Gardner</editor>
         <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L.
-          Potter</name>
+            Potter</name>
         </respStmt>
         <respStmt>
           <resp>Electronic text added by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#bgardner">Bianca
-          Gardner</name>
+            Gardner</name>
         </respStmt>
         <respStmt>
           <resp>Testimonia identified by</resp>
-          <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
+          <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L.
+            Rife</name>
         </respStmt>
       </titleStmt>
       <editionStmt>
@@ -44,8 +55,11 @@
       </publicationStmt>
       <seriesStmt>
         <title level="m" xml:lang="en">Caesarea-Maritima.org: A Digital Archive</title>
-        <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
-        <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#plieberman">Phillip I. Lieberman</editor>
+        <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife"
+          >Joseph L. Rife</editor>
+        <editor role="general"
+          ref="https://caesarea-maritima.org/documentation/editors.xml#plieberman">Phillip I.
+          Lieberman</editor>
       </seriesStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -53,20 +67,41 @@
     </fileDesc>
     <encodingDesc>
       <editorialDecl>
-        <p>Authors of testimonia are identified with URIs from The Virtual International Authority File, see<ref target="http://viaf.org/">http://viaf.org/</ref>. When multiple VIAF URIs exist, preference has been given to VIAF record linked to the Library of Congress authority file.</p>
-        <p>Geographic locations are identified with URIs from Pleiades: A Gazetteer of Past Places, see<ref target="https://pleiades.stoa.org/docs">https://pleiades.stoa.org/docs</ref>.</p>
-        <p>When possible., textual works have been cited using URNs according to the Distributed Text Services (DTS) system, see<ref target="https://distributed-text-services.github.io/specifications/">https://distributed-text-services.github.io/specifications/</ref>). Additional identifiers have been adopted from the systems used by the Perseus Digital Library (<ref target="http://www.perseus.tufts.edu/hopper/">http://www.perseus.tufts.edu/</ref>), Syriaca.org (<ref target="http://syriaca.org">http://syriaca.org</ref>), and other relevant authority systems such as WorldCat Identities or OCLC numbers (<ref target="https://www.worldcat.org/">https://www.worldcat.org/</ref>).</p>
-        <p>Bibliographic items are identified by a caesarea-maritima.org URI, which is linked, when possible to OCLC numbers and other identifiers.</p>
-        <p>Dates have been encoded following the ISO 8601 standard,<ref target="https://www.iso.org/iso-8601-date-and-time-format.html">https://www.iso.org/iso-8601-date-and-time-format.html</ref>, and the best practices established by for the Srophé App, see<ref target="http://srophe.app">http://srophe.app</ref>.</p>
-        <p>Languages have been encoded using ISO 639-1, 639-2, and 639-3 codes, following best practices of the TEI guidelines.</p>
+        <p>Authors of testimonia are identified with URIs from The Virtual International Authority
+          File, see<ref target="http://viaf.org/">http://viaf.org/</ref>. When multiple VIAF URIs
+          exist, preference has been given to VIAF record linked to the Library of Congress
+          authority file.</p>
+        <p>Geographic locations are identified with URIs from Pleiades: A Gazetteer of Past Places,
+            see<ref target="https://pleiades.stoa.org/docs"
+          >https://pleiades.stoa.org/docs</ref>.</p>
+        <p>When possible., textual works have been cited using URNs according to the Distributed
+          Text Services (DTS) system, see<ref
+            target="https://distributed-text-services.github.io/specifications/"
+            >https://distributed-text-services.github.io/specifications/</ref>). Additional
+          identifiers have been adopted from the systems used by the Perseus Digital Library (<ref
+            target="http://www.perseus.tufts.edu/hopper/">http://www.perseus.tufts.edu/</ref>),
+          Syriaca.org (<ref target="http://syriaca.org">http://syriaca.org</ref>), and other
+          relevant authority systems such as WorldCat Identities or OCLC numbers (<ref
+            target="https://www.worldcat.org/">https://www.worldcat.org/</ref>).</p>
+        <p>Bibliographic items are identified by a caesarea-maritima.org URI, which is linked, when
+          possible to OCLC numbers and other identifiers.</p>
+        <p>Dates have been encoded following the ISO 8601 standard,<ref
+            target="https://www.iso.org/iso-8601-date-and-time-format.html"
+            >https://www.iso.org/iso-8601-date-and-time-format.html</ref>, and the best practices
+          established by for the Srophé App, see<ref target="http://srophe.app"
+            >http://srophe.app</ref>.</p>
+        <p>Languages have been encoded using ISO 639-1, 639-2, and 639-3 codes, following best
+          practices of the TEI guidelines.</p>
       </editorialDecl>
       <classDecl>
         <taxonomy xml:id="CM-NEAEH">
           <desc>
-            <title>Caesarea-Maritima.org Chronology</title>: This chronology is adapted from the chronology used in<bibl>
-              <title level="m">The New Encyclopedia of Archaeological Excavations in the Holy Land</title>
+            <title>Caesarea-Maritima.org Chronology</title>: This chronology is adapted from the
+            chronology used in<bibl>
+              <title level="m">The New Encyclopedia of Archaeological Excavations in the Holy
+                Land</title>
               <ptr target="https://caesarea-maritima.org/bibl/HG492LV3"/>
-            <editor>
+              <editor>
                 <forename>Ephraim</forename>
                 <surname>Stern</surname>
               </editor>
@@ -78,7 +113,10 @@
                 <forename>J.</forename>
                 <surname>Aviram</surname>
               </editor>
-            </bibl>.  This taxonomy is used in the<gi>catRef</gi>encoding to classify the testimonia according to the time period(s) of the events described, rather than the date of composition of the testimonium. For example, Josephus may describe events occuring well before the period of his writing.</desc>
+            </bibl>. This taxonomy is used in the<gi>catRef</gi>encoding to classify the testimonia
+            according to the time period(s) of the events described, rather than the date of
+            composition of the testimonium. For example, Josephus may describe events occuring well
+            before the period of his writing.</desc>
           <category xml:id="lowerPaleolithic">
             <catDesc>Lower Paleolithic, 999999-119999 BCE</catDesc>
           </category>
@@ -239,8 +277,14 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:latinLit:phi1351.phi004" type="uniform" level="m">The Histories</title>
-        <ref target="#bib44-1">2.82-2.83</ref> written by <persName ref="http://viaf.org/viaf/100226923" role="author">Cornelius Tacitus</persName> in <origDate period="#nabateanKingdom #earlyRoman" notBefore="0100" notAfter="0110">100 - 110 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:latinLit:phi1351.phi004"
+        type="uniform" level="m">The Histories</title>
+        <ref target="#bib44-1">2.82-2.83</ref> written by <persName
+          ref="http://viaf.org/viaf/100226923" role="author"><name>Cornelius</name>
+          <name sort="1">Tacitus</name></persName> in <origDate period="#nabateanKingdom
+            #earlyRoman" notBefore="0100" notAfter="0110">100 - 110 CE</origDate>. This work was
+        likely written in <origPlace ref="https://pleiades.stoa.org/places/423025"
+          >Rome</origPlace>.</creation>
       <langUsage>
         <language ident="la">Latin</language>
       </langUsage>
@@ -252,9 +296,14 @@
       </textClass>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-03-30-04:00">CHANGED: Update bibl elements with full citation information from Syriaca.org entry.</change>
-      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-03-30-04:00">CHANGED: Update bibl elements with full citation information from Syriaca.org entry.</change>
-      <change who="https://caesarea-maritima.org/documentation/editors.xml#wpotter" when="2020-03-09-05:00">CREATED: testimonium</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-03-30-04:00"
+        >CHANGED: Update bibl elements with full citation information from Syriaca.org
+        entry.</change>
+      <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-03-30-04:00"
+        >CHANGED: Update bibl elements with full citation information from Syriaca.org
+        entry.</change>
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#wpotter"
+        when="2020-03-09-05:00">CREATED: testimonium</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -263,24 +312,49 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/44</idno>
       </ab>
       <desc type="abstract" xml:id="abstract44-1">
-    <quote><placeName xml:lang="la">Caesaream</placeName></quote>, and <quote><placeName xml:lang="en">Cæsarea</placeName></quote> are place names attested in <persName ref="http://viaf.org/viaf/100226923" role="author">Cornelius Tacitus</persName>'s <title xml:lang="en" ref="urn:cts:latinLit:phi1351.phi004" type="uniform" level="m">The Histories</title> 2.82-2.83. This testimonium was written circa <origDate period="#nabateanKingdom #earlyRoman" notBefore="0100" notAfter="0110">100 - 110 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+        <quote><placeName xml:lang="la">Caesaream</placeName></quote>, and <quote><placeName
+            xml:lang="en">Cæsarea</placeName></quote> are place names attested in <persName
+          ref="http://viaf.org/viaf/100226923" role="author">Cornelius Tacitus</persName>'s <title
+          xml:lang="en" ref="urn:cts:latinLit:phi1351.phi004" type="uniform" level="m">The
+          Histories</title> 2.82-2.83. This testimonium was written circa <origDate
+          period="#nabateanKingdom #earlyRoman" notBefore="0100" notAfter="0110">100 - 110
+          CE</origDate>. This work was likely written in <origPlace
+          ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote44-1" source="#bib44-1">
-        <anchor xml:id="testimonia-44.la.1" corresp="testimonia-44.en.1"/>
-        haud dubia destinatione discessere Mucianus Antiochiam, Vespasianus <placeName xml:lang="la">Caesaream</placeName>: illa Syriae, hoc Iudaeae caput est. Initium ferendi ad Vespasianum imperii Alexandriae coeptum, festinante Tiberio Alexandro, qui kalendis Iuliis sacramento eius legiones adegit. isque primus principatus dies in posterum celebratus, quamvis Iudaicus exercitus quinto nonas Iulias apud ipsum iurasset, eo ardore ut ne Titus quidem filius expectaretur, Syria remeans et consiliorum inter Mucianum ac patrem nuntius. cuncta impetu militum acta non parata contione, non coniunctis legionibus.
-        <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:latinLit:phi1351.phi004.perseus-lat2:2.82-2.83</idno>
-        <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:latinLit:phi1351.phi004.perseus-lat2:2.82-2.83"/>
+        <anchor xml:id="testimonia-44.la.1" corresp="testimonia-44.en.1"/> haud dubia destinatione
+        discessere Mucianus Antiochiam, Vespasianus <placeName xml:lang="la">Caesaream</placeName>:
+        illa Syriae, hoc Iudaeae caput est. Initium ferendi ad Vespasianum imperii Alexandriae
+        coeptum, festinante Tiberio Alexandro, qui kalendis Iuliis sacramento eius legiones adegit.
+        isque primus principatus dies in posterum celebratus, quamvis Iudaicus exercitus quinto
+        nonas Iulias apud ipsum iurasset, eo ardore ut ne Titus quidem filius expectaretur, Syria
+        remeans et consiliorum inter Mucianum ac patrem nuntius. cuncta impetu militum acta non
+        parata contione, non coniunctis legionibus. <idno type="CTS-URN" xml:base=""
+          >urn:cts:latinLit:phi1351.phi004.perseus-lat2:2.82-2.83</idno>
+        <ref target="urn:cts:latinLit:phi1351.phi004.perseus-lat2:2.82-2.83"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote44-2" source="#bib44-2">
-        <anchor xml:id="testimonia-44.en.1" corresp="testimonia-44.la.1"/>
-        With purposes no longer doubtful they parted, Mucianus for Antioch, Vespasian for <placeName xml:lang="en">Cæsarea</placeName>. These cities are the capitals of Syria and Judæa respectively. The initiative in transferring the Empire to Vespasian was taken at Alexandria under the prompt direction of Tiberius Alexander, who on the 1st of July made the legions swear allegiance to him. That day was ever after celebrated as the first of his reign, though the army of Judæa on July 3rd took the oath to Vespasian in person with such eager alacrity that they would not wait for the return of his son Titus, who was then on his way back from Syria, acting as the medium between Mucianus and his father for the communication of their plans. All this was done by the impulsive action of the soldiers without the preliminary of a formal harangue or any concentration of the legions.
-      <idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:latinLit:phi1351.phi004.perseus-eng1:2.79</idno>
-        <ref target="http://data.perseus.org/citations/urn:cts:latinLit:phi1351.phi004.perseus-eng1:2.79"/>
+        <anchor xml:id="testimonia-44.en.1" corresp="testimonia-44.la.1"/> With purposes no longer
+        doubtful they parted, Mucianus for Antioch, Vespasian for <placeName xml:lang="en"
+          >Cæsarea</placeName>. These cities are the capitals of Syria and Judæa respectively. The
+        initiative in transferring the Empire to Vespasian was taken at Alexandria under the prompt
+        direction of Tiberius Alexander, who on the 1st of July made the legions swear allegiance to
+        him. That day was ever after celebrated as the first of his reign, though the army of Judæa
+        on July 3rd took the oath to Vespasian in person with such eager alacrity that they would
+        not wait for the return of his son Titus, who was then on his way back from Syria, acting as
+        the medium between Mucianus and his father for the communication of their plans. All this
+        was done by the impulsive action of the soldiers without the preliminary of a formal
+        harangue or any concentration of the legions. <idno type="CTS-URN"
+          xml:base="http://data.perseus.org/citations/"
+          >urn:cts:latinLit:phi1351.phi004.perseus-eng1:2.79</idno>
+        <ref
+          target="http://data.perseus.org/citations/urn:cts:latinLit:phi1351.phi004.perseus-eng1:2.79"
+        />
       </ab>
       <listBibl>
         <bibl xml:id="bib44-1">
           <ptr target="https://caesarea-maritima.org/bibl/5M7TNR6Y"/>
           <citedRange>2.82-2.83</citedRange>
-        <title level="m">Historiae: Machine Readable Text</title>
+          <title level="m">Historiae: Machine Readable Text</title>
           <author>
             <name>Cornelius Tacitus</name>
           </author>
@@ -292,7 +366,7 @@
         <bibl xml:id="bib44-2">
           <ptr target="https://caesarea-maritima.org/bibl/4ZX2V9RM"/>
           <citedRange>2.79</citedRange>
-        <title level="m">The History: Machine Readable Text</title>
+          <title level="m">The History: Machine Readable Text</title>
           <author>
             <name>Cornelius Tacitus</name>
           </author>
@@ -302,7 +376,7 @@
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/6P4W5KQS"/>
           <citedRange>2.82-2.83</citedRange>
-        <title level="m">Historiae</title>
+          <title level="m">Historiae</title>
           <author>
             <forename>Cornelius</forename>
             <surname>Tacitus</surname>
@@ -315,7 +389,7 @@
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/USQ49VQV"/>
           <citedRange>2.79</citedRange>
-        <title level="m">History</title>
+          <title level="m">History</title>
           <author>
             <forename>Cornelius</forename>
             <surname>Tacitus</surname>
