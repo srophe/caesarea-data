@@ -264,7 +264,7 @@
       </abstract>
       <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:greekLit:tlg2733.tlg001"
           type="uniform" level="m">Ecclesiastical History </title>
-        <ref target="#bib163-1">4.7</ref> written by <persName ref="https://viaf.org/viaf/8181546/"
+        <ref target="#bib163-1">4.7</ref> written by <persName ref="https://viaf.org/viaf/8181546"
           role="author">Evagrius Scholasticus </persName> in <origDate period="#byzantine"
           when="0593">593 CE</origDate>. This work was likely written in <origPlace
             ref="https://pleiades.stoa.org/places/658381">Antioch</origPlace>.</creation>
@@ -299,7 +299,7 @@
           >Caesarea</placeName></quote>, <quote><placeName xml:lang="en">to
           Caesarea</placeName></quote>, and <quote><placeName xml:lang="en">gates of
             Caesarea,</placeName></quote> are place names attested in <persName
-          ref="https://viaf.org/viaf/8181546/" role="author">Evagrius Scholasticus </persName>'s
+          ref="https://viaf.org/viaf/8181546" role="author">Evagrius Scholasticus </persName>'s
           <title xml:lang="en" ref="urn:cts:greekLit:tlg2733.tlg001" type="uniform" level="m"
           >Ecclesiastical History </title> 4.7. This testimonium was written circa <origDate
           period="#byzantine" when="0593">593 CE</origDate>. This work was likely written in
