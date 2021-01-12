@@ -252,9 +252,22 @@
         <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2018.tlg002.opp-grc2:2.3"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote92-2" source="#bib92-2">
-        <anchor xml:id="testimonia-92.en.1" corresp="testimonia-92.grc.1"/>But indeed it was when the grace of God was already being poured out even on the other nations — when faith in Christ had been received, first by Cornelius with all his house in <placeName xml:lang="en">Palestinian Caesarea</placeName> through divine manifestation and the ministration of Peter, and also by many other Greeks in Antioch, to whom those preached who had been Scattered in the persecution about stephen, and the Church in Antioch was already flourishing and multiplying — it was at that moment and in that place, when So many of the prophets from Jerusalem were also present, and with them Barnabas and Paul, and a number of the other brethren besides them, that the name of Christian was nrst given, as from a fresh and life-giving fountain.<note type="corrigenda">Inaccuracies found in the transcription of the electronic text compared to its printed source have been corrected.</note>
-      <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg002.opp-eng1:2.3</idno>
-        <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2018.tlg002.opp-eng1:2.3"/>
+        <anchor xml:id="testimonia-92.en.1" corresp="testimonia-92.grc.1"/>But indeed it was when
+        the grace of God was already being poured out even on the other nations — when faith in
+        Christ had been received, first by Cornelius with all his house in <placeName xml:lang="en"
+          >Palestinian Caesarea</placeName> through divine manifestation and the ministration of
+        Peter, and also by many other Greeks in Antioch, to whom those preached who had been
+        scattered in the persecution over Stephen, and the Church in Antioch was already flourishing
+        and multiplying — it was at that moment and in that place, when so many of the prophets from
+        Jerusalem were also present, and with them Barnabas and Paul, and a number of the other
+        brethren besides them, that the title of "Christians" was first given, as from a fresh and
+        life-giving fountain.<note type="corrigenda">Inaccuracies found in the transcription of the
+          electronic text compared to its printed source have been corrected.</note>
+        <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/"
+          >urn:cts:greekLit:tlg2018.tlg002.opp-eng1:2.3</idno>
+        <ref
+          target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2018.tlg002.opp-eng1:2.3"
+        />
       </ab>
       <listBibl>
         <bibl xml:id="bib92-1">

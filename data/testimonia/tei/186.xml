@@ -252,7 +252,13 @@
         <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2018.tlg003.opp-grc1:2.1"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote186-2" source="#bib186-2">
-        <anchor xml:id="testimonia-186.en.1" corresp="testimonia-186.grc.1"/>What occurred to Romanus on the same day at Antioch, is also worthy of record. For he was a native of Palestine, a deacon and exorcist in the <placeName xml:lang="en">parish of Cæsarea;</placeName> and being present at the destruction of the churches, he beheld many men, with women and children, going up in crowds to the idols and sacrificing. But, through his great zeal for religion, he could not endure the sight, and rebuked them with a loud voice<idno type="CTS-URN"/>
+        <anchor xml:id="testimonia-186.en.1" corresp="testimonia-186.grc.1"/>What occurred to
+        Romanus on the same day at Antioch, is also worthy of record. For he was a native of
+        Palestine, a deacon and exorcist in the <placeName xml:lang="en">parish of
+          Caesarea;</placeName> and being present at the destruction of the churches, he beheld many
+        men with women and children going up in crowds to the idols and sacrificing. But, through
+        his great zeal for religion, he could not endure the sight, and rebuked them with a loud
+          voice.<idno type="CTS-URN"/>
         <ref target="https://ccel.org/ccel/schaff/npnf201/npnf201.iii.xiv.iii.html"/>
       </ab>
       <listBibl>

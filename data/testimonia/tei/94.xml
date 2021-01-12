@@ -252,9 +252,19 @@
         <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2018.tlg002.opp-grc2:2.10.3"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote94-2" source="#bib94-2">
-        <anchor xml:id="testimonia-94.en.1" corresp="testimonia-94.grc.1"/>“Now the third year of his reign over all Judaea had been finished when he came to <placeName xml:lang="en">the city of Caesarea</placeName>, which was formerly called <placeName xml:lang="en">the Tower of Strato</placeName>. There he was celebrating games in honour of Caesar, because he knew that this was a kind of feast for his safety, and at it was assembled a multitude of those in office and of high rank in the province.<note type="corrigenda">Inaccuracies found in the transcription of the electronic text compared to its printed source have been corrected.</note>
-      <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg002.opp-eng1:2.10</idno>
-        <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2018.tlg002.opp-eng1:2.10"/>
+        <anchor xml:id="testimonia-94.en.1" corresp="testimonia-94.grc.1"/>Now the third year of his
+        reign over all Judaea had been finished when he came to <placeName xml:lang="en">the city of
+          Caesarea</placeName>, which was formerly called <placeName xml:lang="en">the Tower of
+          Strato</placeName>. There he was celebrating games in honor of Caesar, because he knew
+        that this was a kind of feast for his safety, and at it was assembled a multitude of those
+        in office and of high rank in the province.<note type="corrigenda">Inaccuracies found in the
+          transcription of the electronic text compared to its printed source have been
+          corrected.</note>
+        <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/"
+          >urn:cts:greekLit:tlg2018.tlg002.opp-eng1:2.10</idno>
+        <ref
+          target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2018.tlg002.opp-eng1:2.10"
+        />
       </ab>
       <listBibl>
         <bibl xml:id="bib94-1">
