@@ -40,12 +40,9 @@
         <date>2020-04-29-05:00</date>
       </publicationStmt>
       <seriesStmt>
-        <title level="m" xml:lang="en">Caesarea-Maritima.org: A Digital Archive</title>
-        <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife"
-          >Joseph L. Rife</editor>
-        <editor role="general"
-          ref="https://caesarea-maritima.org/documentation/editors.xml#plieberman">Phillip I.
-          Lieberman</editor>
+        <title level="s" xml:lang="en">Caesarea-Maritima: A Digital Archive</title>
+        <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
+        <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#plieberman">Phillip I. Lieberman</editor>
       </seriesStmt>
       <sourceDesc>
         <p>Born digital.</p>
@@ -228,25 +225,19 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg002"
-          type="uniform" level="m">Ecclesiastical History </title>
-        <ref target="#bib97-1">5.22.1</ref> written by <persName ref="http://viaf.org/viaf/4929593"
-          role="author">Eusebius of Caesarea</persName> in <origDate period="#lateRoman #byzantine"
-          notBefore="0312" notAfter="0324">312 - 324 CE</origDate>. This work was likely written in
-          <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Ecclesiastical History </title>
+        <ref target="#bib97-1">5.22.1</ref> written by <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName> in <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</creation>
       <langUsage>
         <language ident="grc">Ancient Greek</language>
       </langUsage>
       <textClass>
         <classCode scheme="https://distributed-text-services.github.io/specifications/">
-          <idno xml:base="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn="
-            type="CTS-URN">urn:cts:greekLit:tlg2018.tlg002:5.22.1</idno>
+          <idno xml:base="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=" type="CTS-URN">urn:cts:greekLit:tlg2018.tlg002:5.22.1</idno>
         </classCode>
       </textClass>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="https://caesarea-maritima.org/documentation/editors.xml#wpotter"
-        when="2020-04-29-05:00">CREATED: testimonium</change>
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#wpotter" when="2020-04-29-05:00">CREATED: testimonium</change>
     </revisionDesc>
   </teiHeader>
   <text>
