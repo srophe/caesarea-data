@@ -252,7 +252,9 @@
         <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2018.tlg003.opp-grc1:11.6"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote196-2" source="#bib196-2">
-        <anchor xml:id="testimonia-196.en.1" corresp="testimonia-196.grc.1"/>They had accompanied the confessors in Cilicia to the mines there and were returning to their homes. At the entrance of the <placeName xml:lang="en">gates of Cæsarea,</placeName> the guards, who were men of barbarous character, questioned them as to who they were and whence they came. They kept back nothing of the truth, and were seized as malefactors taken in the very act. They were five in number.<idno type="CTS-URN"/>
+        <anchor xml:id="testimonia-196.en.1" corresp="testimonia-196.grc.1"/>They had accompanied the confessors in Cilicia to the mines there and were returning to their homes. At the entrance of the <placeName xml:lang="en">gates of Cæsarea,</placeName> the guards, who were men of barbarous character, questioned them as to who they were and from where they came. They kept back nothing of the truth, and were seized as malefactors taken in the very act. They were five in number.
+        <note type="translation">Translation corrected and adapted from its source.</note>
+        <idno type="CTS-URN"/>
         <ref target="https://ccel.org/ccel/schaff/npnf201/npnf201.iii.xiv.xii.html"/>
       </ab>
       <listBibl>

@@ -252,7 +252,9 @@
         <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2018.tlg003.opp-grc1:10.2"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote194-2" source="#bib194-2">
-        <anchor xml:id="testimonia-194.en.1" corresp="testimonia-194.grc.1"/>On the eleventh day of the month Audynæus,which is the third before the Ides of January, in the <placeName xml:lang="en">same city of Cæsarea,</placeName> Peter an ascetic, also called Apselamus,from the village of Anea,on the borders of Eleutheropolis, like purest gold, gave noble proof by fire of his faith in the Christ of God. Though the judge and those around him besought him many times to have compassion on himself, and to spare his own youth and bloom, he disregarded them, preferring hope in the God of the universe to all things, even to life itself. A certain Asclepius, supposed to a bishop of the sect of Marcion, possessed as he thought with zeal for religion, but “not according to knowledge,” ended his life on one and the same funeral pyre. These things took place in this manner.<idno type="CTS-URN"/>
+        <anchor xml:id="testimonia-194.en.1" corresp="testimonia-194.grc.1"/>On the eleventh day of the month Audynaeus, which is the third before the Ides of January, in the <placeName xml:lang="en">same city of Cæsarea,</placeName> Peter an ascetic, also called Apselamus, from the village of Anea on the borders of Eleutheropolis, like purest gold, gave noble proof by fire of his faith in the Christ of God. Though the judge and those around him besought him many times to have compassion on himself, and to spare his own youth and bloom, he disregarded them, preferring hope in the God of the universe to all things, even to life itself.
+        <note type="translation">Translation corrected and adapted from its source.</note>
+        <idno type="CTS-URN"/>
         <ref target="https://ccel.org/ccel/schaff/npnf201/npnf201.iii.xiv.xi.html"/>
       </ab>
       <listBibl>

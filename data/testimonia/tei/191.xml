@@ -253,8 +253,9 @@
         <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2018.tlg003.opp-grc1:8.3"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote191-2" source="#bib191-2">
-        <anchor xml:id="testimonia-191.en.1" corresp="testimonia-191.grc.1"/>Having been brought on this account not only before the overseers, but also before Maximinus himself, and having manifested the noblest persistence in confession by the endurance of hunger and stripes, they received like punishment with those whom we have mentioned, and with them other confessors in the <placeName xml:lang="en">city of Cæsarea.</placeName>
-      <idno type="CTS-URN"/>
+        <anchor xml:id="testimonia-191.en.1" corresp="testimonia-191.grc.1"/>Having been brought on this account not only before the overseers, but also before Maximinus himself, and having manifested the noblest persistence in confession by the endurance of hunger and whippings, they suffered punishments similar to those we have mentioned, and with them other confessors in the <placeName xml:lang="en">city of Caesarea.</placeName>
+        <note type="translation">Translation corrected and adapted from its source.</note>
+        <idno type="CTS-URN"/>
         <ref target="https://ccel.org/ccel/schaff/npnf201/npnf201.iii.xiv.ix.html"/>
       </ab>
       <listBibl>
