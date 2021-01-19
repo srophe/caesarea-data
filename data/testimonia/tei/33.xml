@@ -278,6 +278,7 @@
         <ref target="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:5.1"/>
       </ab>
       <listBibl>
+        <head>Works Cited</head>
         <bibl xml:id="bib33-1">
           <ptr target="https://caesarea-maritima.org/bibl/8AEDAAIG"/>
           <citedRange>5.1</citedRange>
@@ -302,6 +303,7 @@
         </bibl>
       </listBibl>
       <listBibl>
+        <head>Additional Bibliography</head>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/QJCN6B5F"/>
           <citedRange>5.1</citedRange>

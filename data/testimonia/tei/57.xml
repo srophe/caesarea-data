@@ -257,6 +257,7 @@
         <ref target="https://droitromain.univ-grenoble-alpes.fr/Anglica/D50_Scott.htm#XV"/>
       </ab>
       <listBibl>
+        <head>Works Cited</head>
         <bibl xml:id="bib57-1">
           <ptr target="https://caesarea-maritima.org/bibl/F8CTUC2I"/>
           <citedRange>15.1.6</citedRange>
@@ -267,6 +268,7 @@
         </bibl>
       </listBibl>
       <listBibl>
+        <head>Additional Bibliography</head>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/RIWSVZJS"/>
           <citedRange>15.1.6</citedRange>

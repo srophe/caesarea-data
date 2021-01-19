@@ -258,6 +258,7 @@
         <ref target="https://www-loebclassics-com.proxy.library.vanderbilt.edu/view/apollonius_tyana-letters/2006/pb_LCL458.17.xml?mainRsKey=Ti6YQQ&amp;result=1&amp;rskey=t5gvpn"/>
       </ab>
       <listBibl>
+        <head>Works Cited</head>
         <bibl xml:id="bib48-1">
           <ptr target="https://caesarea-maritima.org/bibl/CFBD6CCG"/>
           <citedRange>11</citedRange>
@@ -268,6 +269,7 @@
         </bibl>
       </listBibl>
       <listBibl>
+        <head>Additional Bibliography</head>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/USHKXM52"/>
           <citedRange>11</citedRange>

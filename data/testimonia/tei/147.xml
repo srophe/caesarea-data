@@ -257,6 +257,7 @@
         <ref target="http://www.tertullian.org/fathers/photius_03bibliotheca.htm"/>
       </ab>
       <listBibl>
+        <head>Works Cited</head>
         <bibl xml:id="bib147-1">
           <ptr target="https://caesarea-maritima.org/bibl/HYKLS48B"/>
           <citedRange>89</citedRange>
@@ -267,6 +268,7 @@
         </bibl>
       </listBibl>
       <listBibl>
+        <head>Additional Bibliography</head>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/ALUG2MQY"/>
           <citedRange>89</citedRange>

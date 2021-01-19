@@ -262,6 +262,7 @@
         <ref target="https://ccel.org/ccel/schaff/npnf202/npnf202.iii.viii.ii.html"/>
       </ab>
       <listBibl>
+        <head>Works Cited</head>
         <bibl xml:id="bib152-1">
           <ptr target="https://caesarea-maritima.org/bibl/YLGJXXQA"/>
           <citedRange>3.2</citedRange>
@@ -272,6 +273,7 @@
         </bibl>
       </listBibl>
       <listBibl>
+        <head>Additional Bibliography</head>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/LI9ESBD9"/>
           <citedRange>3.2</citedRange>

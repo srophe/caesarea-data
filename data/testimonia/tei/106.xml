@@ -258,6 +258,7 @@
         <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2018.tlg002.opp-eng1:6.27"/>
       </ab>
       <listBibl>
+        <head>Works Cited</head>
         <bibl xml:id="bib106-1">
           <ptr target="https://caesarea-maritima.org/bibl/TC772CD7"/>
           <citedRange>6.27.1</citedRange>
@@ -268,6 +269,7 @@
         </bibl>
       </listBibl>
       <listBibl>
+        <head>Additional Bibliography</head>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/U6VYXXZG"/>
           <citedRange>6.27.1</citedRange>

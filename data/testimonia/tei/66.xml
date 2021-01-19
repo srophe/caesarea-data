@@ -282,6 +282,7 @@
         <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg0031.tlg005.perseus-eng2:9.30"/>
       </ab>
       <listBibl>
+        <head>Works Cited</head>
         <bibl xml:id="bib66-1">
           <ptr target="https://caesarea-maritima.org/bibl/A5CE8VEG"/>
           <citedRange>9.30</citedRange>
@@ -305,6 +306,7 @@
         </bibl>
       </listBibl>
       <listBibl>
+        <head>Additional Bibliography</head>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/5K5NF6K3"/>
           <citedRange>9.30</citedRange>

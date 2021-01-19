@@ -352,6 +352,7 @@
         />
       </ab>
       <listBibl>
+        <head>Works Cited</head>
         <bibl xml:id="bib44-1">
           <ptr target="https://caesarea-maritima.org/bibl/5M7TNR6Y"/>
           <citedRange>2.82-2.83</citedRange>
@@ -374,6 +375,7 @@
         </bibl>
       </listBibl>
       <listBibl>
+        <head>Additional Bibliography</head>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/6P4W5KQS"/>
           <citedRange>2.82-2.83</citedRange>

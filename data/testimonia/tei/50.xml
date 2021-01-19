@@ -277,6 +277,7 @@
         <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:latinLit:stoa0023.stoa001.perseus-eng2:14"/>
       </ab>
       <listBibl>
+        <head>Works Cited</head>
         <bibl xml:id="bib50-1">
           <ptr target="https://caesarea-maritima.org/bibl/YGM4ERYJ"/>
           <citedRange>14.11</citedRange>
@@ -301,6 +302,7 @@
         </bibl>
       </listBibl>
       <listBibl>
+        <head>Additional Bibliography</head>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/MRZ98S22"/>
           <citedRange>14.11</citedRange>

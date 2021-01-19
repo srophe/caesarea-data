@@ -286,6 +286,7 @@
         <ref target="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg001.perseus-eng1:14.69"/>
       </ab>
       <listBibl>
+        <head>Works Cited</head>
         <bibl xml:id="bib2-1">
           <ptr target="https://caesarea-maritima.org/bibl/DJ9R4TA9"/>
           <citedRange>14.76</citedRange>
@@ -310,6 +311,7 @@
         </bibl>
       </listBibl>
       <listBibl>
+        <head>Additional Bibliography</head>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/IYCZFI7G"/>
           <citedRange>14.76</citedRange>

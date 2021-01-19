@@ -317,6 +317,7 @@
         <ref target="http://www.tertullian.org/fathers/evagrius_4_book4.htm"/>
       </ab>
       <listBibl>
+        <head>Works Cited</head>
         <bibl xml:id="bib163-1">
           <ptr target="https://caesarea-maritima.org/bibl/E9TN96M3"/>
           <citedRange>4.7</citedRange>
@@ -327,6 +328,7 @@
         </bibl>
       </listBibl>
       <listBibl>
+        <head>Additional Bibliography</head>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/MZDGW83Y"/>
           <citedRange>4.7</citedRange>

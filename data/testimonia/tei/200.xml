@@ -257,6 +257,7 @@
         <ref target="https://sourcebooks.fordham.edu/basis/procop-anec.asp#atwater"/>
       </ab>
       <listBibl>
+        <head>Works Cited</head>
         <bibl xml:id="bib200-1">
           <ptr target="https://caesarea-maritima.org/bibl/SW5BHIPQ"/>
           <citedRange>29.17-29.18</citedRange>
@@ -267,6 +268,7 @@
         </bibl>
       </listBibl>
       <listBibl>
+        <head>Additional Bibliography</head>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/8K7THZJK"/>
           <citedRange>29.17-29.18</citedRange>

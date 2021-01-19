@@ -278,6 +278,7 @@
         <ref target="http://data.perseus.org/citations/urn:cts:latinLit:phi0978.phi001.perseus-eng1:5.13"/>
       </ab>
       <listBibl>
+        <head>Works Cited</head>
         <bibl xml:id="bib43-1">
           <ptr target="https://caesarea-maritima.org/bibl/KUWIIZF4"/>
           <citedRange>5.13</citedRange>
@@ -300,6 +301,7 @@
         </bibl>
       </listBibl>
       <listBibl>
+        <head>Additional Bibliography</head>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/GUQ5PL3U"/>
           <citedRange>5.13</citedRange>
