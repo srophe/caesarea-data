@@ -251,7 +251,9 @@
         <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2018.tlg003.opp-grc1:2.4"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote187-2" source="#bib187-2">
-        <anchor xml:id="testimonia-187.en.1" corresp="testimonia-187.grc.1"/>After this punishment he was thrown into <placeName xml:lang="en">prison,</placeName> and suffered there for a very long time. At last the twentieth anniversary of the emperor being near, when, according to an established gracious custom, liberty was proclaimed everywhere to all who were in bonds, he alone had both his feet stretched over five holes in the stocks, and while he lay there was strangled, and was thus honored with martyrdom, as he desired. <idno type="CTS-URN"/>
+        <anchor xml:id="testimonia-187.en.1" corresp="testimonia-187.grc.1"/>After this punishment he was thrown into <placeName xml:lang="en">prison,</placeName> and suffered there for a very long time. At last the twentieth anniversary of the emperor being near, when, according to an established gracious custom, liberty was proclaimed everywhere to all who were in bonds, he alone had both his feet stretched over five holes in the stocks, and while he lay there was strangled, and was thus honored with martyrdom, as he desired.
+        <note type="translation">Translation corrected and adapted from its source.</note>
+        <idno type="CTS-URN"/>
         <ref target="https://ccel.org/ccel/schaff/npnf201/npnf201.iii.xiv.iii.html"/>
       </ab>
       <listBibl>
