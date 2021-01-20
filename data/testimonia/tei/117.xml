@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="en" level="a">Eusebius, <title level="m">Historia ecclesiastica</title> 7.32.21</title>
+        <title xml:lang="en" level="a">Eusebius of Caesarea, <title level="m">Historia ecclesiastica</title> 7.32.21</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
         <sponsor>Vanderbilt University</sponsor>
         <principal>Joseph L. Rife</principal>
@@ -232,7 +232,7 @@
         <p/>
       </abstract>
       <creation>This entry is taken from <title ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Historia ecclesiastica</title>
-        <ref target="#bib117-1">7.32.21</ref> written by <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius</persName> in <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</creation>
+        <ref target="#bib117-1">7.32.21</ref> written by <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName> in <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</creation>
       <langUsage>
         <language ident="grc">Ancient Greek</language>
       </langUsage>
@@ -252,7 +252,7 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/117</idno>
       </ab>
       <desc type="abstract" xml:id="abstract117-1">
-        <quote><placeName xml:lang="grc">Καισαρείας</placeName></quote>,  and <quote><placeName xml:lang="en">Caesarea</placeName></quote> are place names attested in <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius</persName>'s <title ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Historia ecclesiastica</title> 7.32.21. This testimonium was written circa <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
+        <quote><placeName xml:lang="grc">Καισαρείας</placeName></quote>,  and <quote><placeName xml:lang="en">Caesarea</placeName></quote> are place names attested in <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>'s <title ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Historia ecclesiastica</title> 7.32.21. This testimonium was written circa <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote117-1" source="#bib117-1">
         <anchor xml:id="testimonia-117.grc.1" corresp="testimonia-117.en.1"/>τούτῳ πρῶτος ὁ τῆς Παλαιστινῶν <placeName xml:lang="grc">Καισαρείας</placeName> ἐπίσκοπος Θεότεκνος χεῖρας εἰς ἐπισκοπὴν ἐπιτέθεικε, διάδοχον ἑαυτοῦ μετὰ τελευτὴν ποριεῖσθαι τῇ ἰδίᾳ παροικίᾳ προμνώμενος. καὶ δὴ ἐπὶ σμικρόν τινα χρόνον ἄμφω τῆς αὐτῆς προύστησαν ἐκκλησίας, ἀλλὰ γὰρ ἐπὶ τὴν Ἀντιόχειαν τῆς κατὰ Παῦλον συνόδου καλούσης, τὴν Λαοδικέων πόλιν παριὼν πρὸς τῶν ἀδελφῶν αὐτόθι κοιμηθέντος Εὐσεβίου κεκράτηται· <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg002.opp-grc2:7.32.21</idno>
         <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2018.tlg002.opp-grc2:7.32.21"/>
