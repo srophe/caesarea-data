@@ -272,6 +272,20 @@
             <catDesc>Modern State, 1948- CE</catDesc>
           </category>
         </taxonomy>
+        <taxonomy xml:id="CM-Testimonia-Type">
+            <desc>
+                <title>Caesarea-Maritima.org Testimonia Typology</title>: This typology defines three subsets of testimonia employed by the project and is used in the <gi>catRef</gi> below to further categorize a given testimonia record.
+            </desc>
+            <category xml:id="direct">
+                <catDesc>A "direct testimonium" contains a word or phrase that is a direct reference to, or name for, the conceptual place Caeseara Maritima or its environs in part or in whole. When a "direct testimonium" also contains indirect references, the classification by type is nevertheless marked only as "direct".</catDesc>
+            </category>
+            <category xml:id="indirect">
+                <catDesc>An "indirect testimonium" makes only an indirect reference to the conceptual place Caeseara Maritima or its environs in part or in whole. This indirect reference may take the form of a common noun or may be implied by context.</catDesc>
+            </category>
+            <category xml:id="toponymic-epithet">
+                <catDesc>A "toponymic testimonium" contains a toponymic epithet related to the conceptual place Caeseara Maritima or its environs. When a "direct testimonium" also contain a "toponymic testimonium", the testimonium is marked as belonging to both types. These two types do not always overlap and thus our data set also includes "toponymic testimonia" which are not "direct testimonia".</catDesc>
+            </category>
+        </taxonomy>
       </classDecl>
     </encodingDesc>
     <profileDesc>
