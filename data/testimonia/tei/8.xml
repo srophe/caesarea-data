@@ -263,6 +263,7 @@
         <classCode scheme="https://distributed-text-services.github.io/specifications">
           <idno xml:base="http://data.perseus.org/citations/" type="CTS-URN">urn:cts:greekLit:tlg0526.tlg001:17.77-17.78</idno>
         </classCode>
+        <catRef scheme="#CM-Testimonia-Type" target=""/>
         <catRef scheme="#CM-NEAEH" target="#"/>
       </textClass>
     </profileDesc>
