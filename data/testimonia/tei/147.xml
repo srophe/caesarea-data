@@ -233,7 +233,7 @@
       </langUsage>
       <textClass>
         <classCode scheme="https://distributed-text-services.github.io/specifications/">
-          <idno xml:base="" type="CTS-URN">:89</idno>
+          <idno xml:base="" type="CTS-URN"/>>
         </classCode>
       </textClass>
     </profileDesc>
