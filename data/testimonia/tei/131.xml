@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="en" level="a">Eusebius of Caesarea, <title level="m">Life of Constantine </title> 4.36-4.37</title>
+        <title xml:lang="en" level="a">Eusebius of Caesarea, <title level="m">Life of Constantine</title> 4.36-4.37</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
         <sponsor>Vanderbilt University</sponsor>
         <principal>Joseph L. Rife</principal>
@@ -226,7 +226,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg020" type="uniform" level="m">Life of Constantine </title>
+      <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg020" type="uniform" level="m">Life of Constantine</title>
         <ref target="#bib131-1">4.36-4.37</ref> written by <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName> in <origDate period="#byzantine" when="0339">339 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</creation>
       <langUsage>
         <language ident="grc">Ancient Greek</language>
@@ -246,7 +246,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/131</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract131-1">Caesarea Maritima is indirectly attested in <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg020" type="uniform" level="m">Life of Constantine </title> 4.36-4.37. This testimonium was written circa <origDate period="#byzantine" when="0339">339 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract131-1">Caesarea Maritima is indirectly attested in <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg020" type="uniform" level="m">Life of Constantine</title> 4.36-4.37. This testimonium was written circa <origDate period="#byzantine" when="0339">339 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote131-1" source="#bib131-1">
         <anchor xml:id="testimonia-131.grc.1" corresp="testimonia-131.en.1"/>Βασιλέως ἐπιστολὴ περὶ τῆς τῶν θείων γραφῶν ἐπισκευῆς. "Νικητὴς Κωνσταντῖονς Μέγιστος Σεβαστὸς Εὐσεβίῶ. Κατὰ τὴν ἐπώνυμον ἡμῖν πόλιν τῆς τοῦ σωτῆρος θεοῦ συναιρομένης προνοίας μέγιστον πλῆθος ἀνθρώπων τῇ ἁγιωτάτῃ ἐκκλησίᾳ ἀνατέθεικεν ἑαυτό, ὡς πάντων ἐκεῖσε πολλὴν λαμβανόντων αὔξησιν σφόδρα ἄφιον καταφίνεσθαι καὶ ἐκκλησίας ἐν αὐτῇ κατασκευασθῆναι πλείους. τοιγάρτοι δέδεξο προθυμότατα τὸ δόξαν τῇ ἡμετέρᾳ προαιρέσει. πρέπον γὰρ κατεφάνη τοῦτο δηλῶσαι τῇ σῇ συνέσει, ὅπως ἂν πεντήκοντα σωμάτια ἐν διφθέραις ἐγκατασκεύοις εὐανάγνωστά τε καὶ πρὸς τὴν χρῆσιν εὐμετακόμιστα ὑπὸ τεχνιτῶν καλλιγάφων καὶ ἀκριβῶς τὴν τέχνην ἐπισταμένων γραφῆναι κελεύσειας, τῶν θείων δηλαδὴ γραφῶν, ὧν μάλιστα τήν τ’ ἐπισκευὴν καὶ τὴν χρῆσιν τῷ τῆς ἐκκλησίας λόγῳ ἀναγκαίαν εἶναι γινώσκεις. ἀπεστάλη δὲ γράμματα παρὰ τῆς ἠμετέρας ἠμερότητος πρὸς τὸν τῆς διοικήσεως καθολικόν, ὅπως ἂν πάντα τὰ πρὸς τὴν ἐπισκευὴν αὐτῶν ἐπιτήδεια παρασχεῖν φροντίσειεν· ἵνα γὰρ ὡς τάχιστα τὰ γραφέντα σωμάτια κατασκευασθείη, τῆς σῆς ἐπιμελείας ἔργον τοῦτο γενήσεται. καὶ γὰρ δύο δημοσίων ὀχημάτων ἐξουσίαν εἰς διακομιδὴν ἐκ τῆς αὐθεντίας τοῦ γράμματος ἡμῶν τούτου λαβεῖν σε προσήδει. οὕτω γὰρ ἂν μάλιστα τὰ καλῶς γραφέντα καὶ μέχρι τῶν ἡμετέρων ὄψεων ῥᾷστα διακομισθήσεται, ἑνὸς δηλαδὴ τοῦτο πληροῦντος τῶν ἐκ τῆς σῆς ἐκκλησίας διακόνων, ὃς ἐπειδὰν ἀφίκηται πρὸς ἠμᾶς, τῆς ἠμετέρας πειραθήσεται φιλανθρωπίας. ὁ θεός σε διαφυλάξει, ἀδελφὲ ἀγαπητέ.“ Ταῦτα μὲν οὖν βασιλεὺς διεκελεύετο. αὐτίκα δ’ ἔργον ἐπηκολούθει τῷ λόγῳ, ἐν πολυτελῶς ἠσκημένοις τεύχεσιν τρισσὰ καὶ τετρασσὰ σιαπερμάντων ἡμῶν . . . <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg020.opp-grc1:4.36-4.37</idno>
         <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2018.tlg020.opp-grc1:4.36-4.37"/>

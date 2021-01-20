@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="en" level="a">Eusebius of Caesarea, <title level="m">Ecclesiastical History </title> 6.30.1</title>
+        <title xml:lang="en" level="a">Eusebius of Caesarea, <title level="m">Ecclesiastical History</title> 6.30.1</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
         <sponsor>Vanderbilt University</sponsor>
         <principal>Joseph L. Rife</principal>
@@ -226,7 +226,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Ecclesiastical History </title>
+      <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Ecclesiastical History</title>
         <ref target="#bib108-1">6.30.1</ref> written by <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName> in <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</creation>
       <langUsage>
         <language ident="grc">Ancient Greek</language>
@@ -247,7 +247,7 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/108</idno>
       </ab>
       <desc type="abstract" xml:id="abstract108-1">
-    <quote><placeName xml:lang="grc">τῆς Καισαρείας</placeName></quote>, and <quote><placeName xml:lang="en">Caesarea</placeName></quote> are place names attested in <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Ecclesiastical History </title> 6.30.1. This testimonium was written circa <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
+    <quote><placeName xml:lang="grc">τῆς Καισαρείας</placeName></quote>, and <quote><placeName xml:lang="en">Caesarea</placeName></quote> are place names attested in <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Ecclesiastical History</title> 6.30.1. This testimonium was written circa <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote108-1" source="#bib108-1">
         <anchor xml:id="testimonia-108.grc.1" corresp="testimonia-108.en.1"/>Τῷ δὲ Ὠριγένει ἐπὶ <placeName xml:lang="grc">τῆς Καισαρείας</placeName> τὰ συνήθη πράττοντι πολλοὶ προσῄεσαν οὐ μόνον τῶν ἐπιχωρίων, ἀλλὰ καὶ ἀπὸ τῆς ἀλλοδαπῆς μυρίοι φοιτηταὶ τὰς πατρίδας ἀπολιπόντες, ὧν ἐπισήμους μάλιστα ἔγνωμεν Θεόδωρον, ὃς ἦν αὐτὸς οὗτος ὁ καθ’ ἡμὰς ἐπισκόπων διαβόητος Γρηγόριος, τόν τε τούτου ἀδελφὸν Ἀθηνόδωρον, οὓς ἀμφὶ τὰ Ἑλλήνων καὶ Ῥωμαίων μαθήματα δεινῶς ἐπτοημένους, φιλοσοφίας αὐτοῖς ἐνθεὶς ἔρωτα, τῆς προτέρας σπουδῆς τὴν θείαν ἄσκησιν ἀντικαταλλάξασθαι προυτρέψατο. πέντε δὲ ὅλοις ἔτεσιν αὐτῷ συγγενόμενοι τοσαύτην ἀπηνέγκαντο περὶ τὰ θεῖα βελτίωσιν ὡς ἔτι νέους ἄμφω ἐπισκοπῆς τῶν κατὰ Πόντον ἐκκλησιῶν ἀξιωθῆναι.<idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg002.opp-eng1:6.30</idno>
         <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2018.tlg002.opp-eng1:6.30"/>

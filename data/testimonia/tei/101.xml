@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="en" level="a">Eusebius of Caesarea, <title level="m">Ecclesiastical History </title> 6.8.4</title>
+        <title xml:lang="en" level="a">Eusebius of Caesarea, <title level="m">Ecclesiastical History</title> 6.8.4</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
         <sponsor>Vanderbilt University</sponsor>
         <principal>Joseph L. Rife</principal>
@@ -226,7 +226,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Ecclesiastical History </title>
+      <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Ecclesiastical History</title>
         <ref target="#bib101-1">6.8.4</ref> written by <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName> in <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</creation>
       <langUsage>
         <language ident="grc">Ancient Greek</language>
@@ -247,7 +247,7 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/101</idno>
       </ab>
       <desc type="abstract" xml:id="abstract101-1">
-    <quote><placeName xml:lang="grc">Καισαρείας</placeName></quote>, and <quote><placeName xml:lang="en">Caesarea</placeName></quote> are place names attested in <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Ecclesiastical History </title> 6.8.4. This testimonium was written circa <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
+    <quote><placeName xml:lang="grc">Καισαρείας</placeName></quote>, and <quote><placeName xml:lang="en">Caesarea</placeName></quote> are place names attested in <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Ecclesiastical History</title> 6.8.4. This testimonium was written circa <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote101-1" source="#bib101-1">
         <anchor xml:id="testimonia-101.grc.1" corresp="testimonia-101.en.1"/>ἀλλὰ τότε μὲν οὗτος τοιοῦτός τις ἦν. οὐ μακροῖς δὲ χρόνοις ὕστερον ὁ αὐτὸς ὁρῶν εὖ πράττοντα, μέγαν τε καὶ λαμπρὸν καὶ παρὰ πᾶσιν ὄντα βεβοημένον, ἀνθρώπινόν τι πεπονθὼς τοῖς ἀνὰ τὴν οἰκουμένην ἐπισκόποις καταγράφειν ὡς ἀτοπωτάτου τοῦ πραχθέντος αὐτῷ ἐπειρᾶτο, ὅτε γε τῶν κατὰ Παλαιστίνην οἱ μάλιστα δόκιμοι καὶ διαπρέποντες <placeName xml:lang="grc">Καισαρείας</placeName> τε καὶ Ἱεροσολύμων ἐπίσκοποι πρεσβείων τὸν Ὠριγένην καὶ τῆς ἀνωτάτω τιμῆς ἄξιον εἶναι δοκιμάσαντες χεῖρας εἰς πρεσβυτέριον αὐτῷ τεθείκασι.<idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg002.opp-grc2:6.8.4</idno>
         <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2018.tlg002.opp-grc2:6.8.4"/>

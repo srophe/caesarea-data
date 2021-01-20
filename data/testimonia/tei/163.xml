@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title xml:lang="en" level="a">Evagrius Scholasticus , <title level="m">Ecclesiastical
-            History </title> 4.7</title>
+            History</title> 4.7</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
         <sponsor>Vanderbilt University</sponsor>
         <principal>Joseph L. Rife</principal>
@@ -264,7 +264,7 @@
         <p/>
       </abstract>
       <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:greekLit:tlg2733.tlg001"
-          type="uniform" level="m">Ecclesiastical History </title>
+          type="uniform" level="m">Ecclesiastical History</title>
         <ref target="#bib163-1">4.7</ref> written by <persName ref="https://viaf.org/viaf/8181546"
           role="author">Evagrius Scholasticus </persName> in <origDate period="#byzantine"
           when="0593">593 CE</origDate>. This work was likely written in <origPlace
@@ -302,7 +302,7 @@
             Caesarea,</placeName></quote> are place names attested in <persName
           ref="https://viaf.org/viaf/8181546" role="author">Evagrius Scholasticus </persName>'s
           <title xml:lang="en" ref="urn:cts:greekLit:tlg2733.tlg001" type="uniform" level="m"
-          >Ecclesiastical History </title> 4.7. This testimonium was written circa <origDate
+          >Ecclesiastical History</title> 4.7. This testimonium was written circa <origDate
           period="#byzantine" when="0593">593 CE</origDate>. This work was likely written in
         <origPlace ref="https://pleiades.stoa.org/places/658381 ">Antioch</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote163-1" source="#bib163-1">
