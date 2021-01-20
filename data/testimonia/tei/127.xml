@@ -248,6 +248,8 @@
         <classCode scheme="https://distributed-text-services.github.io/specifications">
           <idno xml:base="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=" type="CTS-URN">urn:cts:greekLit:tlg2018.tlg003:9.12-9.13</idno>
         </classCode>
+        <catRef scheme="#CM-Testimonia-Type" target=""/>
+        <catRef scheme="#CM-NEAEH" target=""/>
       </textClass>
     </profileDesc>
     <revisionDesc status="published">
