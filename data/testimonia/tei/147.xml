@@ -247,7 +247,7 @@
       </langUsage>
       <textClass>
         <classCode scheme="https://distributed-text-services.github.io/specifications">
-          <idno xml:base="" type="CTS-URN"/>>
+          <idno xml:base="" type="CTS-URN"/>
         </classCode>
       </textClass>
     </profileDesc>
