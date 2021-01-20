@@ -258,22 +258,22 @@
         <head>Works Cited</head>
         <bibl xml:id="bib127-1">
           <ptr target="https://caesarea-maritima.org/bibl/HHVGPUU8"/>
-          <citedRange>9.12-9.13</citedRange>
+          <citedRange unit="section">9.12-9.13</citedRange>
         </bibl>
         <bibl xml:id="bib127-2">
           <ptr target="https://caesarea-maritima.org/bibl/NANLZS57"/>
-          <citedRange>9.12-9.13</citedRange>
+          <citedRange unit="section">9.12-9.13</citedRange>
         </bibl>
       </listBibl>
       <listBibl>
         <head>Additional Bibliography</head>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/G35HFK6A"/>
-          <citedRange>9.12-9.13</citedRange>
+          <citedRange unit="section">9.12-9.13</citedRange>
         </bibl>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/BTVVYMAC"/>
-          <citedRange>9.12-9.13</citedRange>
+          <citedRange unit="section">9.12-9.13</citedRange>
         </bibl>
       </listBibl>
     </body>

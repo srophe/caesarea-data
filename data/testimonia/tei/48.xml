@@ -261,22 +261,22 @@
         <head>Works Cited</head>
         <bibl xml:id="bib48-1">
           <ptr target="https://caesarea-maritima.org/bibl/CFBD6CCG"/>
-          <citedRange>11</citedRange>
+          <citedRange unit="section">11</citedRange>
         </bibl>
         <bibl xml:id="bib48-2">
           <ptr target="https://caesarea-maritima.org/bibl/CFBD6CCG"/>
-          <citedRange>11</citedRange>
+          <citedRange unit="section">11</citedRange>
         </bibl>
       </listBibl>
       <listBibl>
         <head>Additional Bibliography</head>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/USHKXM52"/>
-          <citedRange>11</citedRange>
+          <citedRange unit="section">11</citedRange>
         </bibl>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/USHKXM52"/>
-          <citedRange>11</citedRange>
+          <citedRange unit="section">11</citedRange>
         </bibl>
       </listBibl>
     </body>

@@ -280,7 +280,7 @@
         <head>Works Cited</head>
         <bibl xml:id="bib50-1">
           <ptr target="https://caesarea-maritima.org/bibl/YGM4ERYJ"/>
-          <citedRange>14.11</citedRange>
+          <citedRange unit="section">14.11</citedRange>
         <title level="m">Res Gestae: Machine Readable Text</title>
           <author>
             <forename>Ammianus</forename>
@@ -293,7 +293,7 @@
         </bibl>
         <bibl xml:id="bib50-2">
           <ptr target="https://caesarea-maritima.org/bibl/KHA92HWS"/>
-          <citedRange>14.11</citedRange>
+          <citedRange unit="section">14.11</citedRange>
         <title level="m">Res Gestae [English Translation]: Machine Readable Text</title>
           <author>
             <forename>Ammianus</forename>
@@ -305,7 +305,7 @@
         <head>Additional Bibliography</head>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/MRZ98S22"/>
-          <citedRange>14.11</citedRange>
+          <citedRange unit="section">14.11</citedRange>
         <title level="m">Ammianus Marcellinus, with an English translation by John C. Rolfe.</title>
           <author>
             <name>Ammianus Marcellinus</name>
@@ -317,7 +317,7 @@
         </bibl>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/MRZ98S22"/>
-          <citedRange>14.11</citedRange>
+          <citedRange unit="section">14.11</citedRange>
         <title level="m">Ammianus Marcellinus, with an English translation by John C. Rolfe.</title>
           <author>
             <name>Ammianus Marcellinus</name>

@@ -280,7 +280,7 @@
         <head>Works Cited</head>
         <bibl xml:id="bib15-1">
           <ptr target="https://caesarea-maritima.org/bibl/DJ9R4TA9"/>
-          <citedRange>20.173</citedRange>
+          <citedRange unit="section">20.173</citedRange>
         <title level="m">Antiquitates Judaicae: Machine Readable Text</title>
           <author>
             <forename>Flavius</forename>
@@ -293,7 +293,7 @@
         </bibl>
         <bibl xml:id="bib15-2">
           <ptr target="https://caesarea-maritima.org/bibl/KULZ5FJB"/>
-          <citedRange>20.173</citedRange>
+          <citedRange unit="section">20.173</citedRange>
         <title level="m">Antiquities of the Jews: Machine Readable Text</title>
           <author>
             <forename>Flavius</forename>
@@ -305,7 +305,7 @@
         <head>Additional Bibliography</head>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/IYCZFI7G"/>
-          <citedRange>20.173</citedRange>
+          <citedRange unit="section">20.173</citedRange>
         <title level="a">Antiquitates Judaicae</title>
           <author>
             <name>Flavius Josephus</name>
@@ -317,7 +317,7 @@
         </bibl>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/8WGC55QX"/>
-          <citedRange>20.173</citedRange>
+          <citedRange unit="section">20.173</citedRange>
         <title level="a">Antiquities of the Jews</title>
           <author>
             <forename>Flavius</forename>

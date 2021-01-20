@@ -280,7 +280,7 @@
         <head>Works Cited</head>
         <bibl xml:id="bib42-1">
           <ptr target="https://caesarea-maritima.org/bibl/24CBL6KQ"/>
-          <citedRange>65-68</citedRange>
+          <citedRange unit="section">65-68</citedRange>
         <title level="m">Josephi vita: Machine Readable Text</title>
           <author>
             <forename>Flavius</forename>
@@ -293,7 +293,7 @@
         </bibl>
         <bibl xml:id="bib42-2">
           <ptr target="https://caesarea-maritima.org/bibl/V4WTJXRZ"/>
-          <citedRange>65-68</citedRange>
+          <citedRange unit="section">65-68</citedRange>
         <title level="m">The Life of Flavius Josephus: Machine Readable Text</title>
           <author>
             <forename>Flavius</forename>
@@ -305,7 +305,7 @@
         <head>Additional Bibliography</head>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/JM2N4MDX"/>
-          <citedRange>65-68</citedRange>
+          <citedRange unit="section">65-68</citedRange>
         <title level="a">Josephi vita</title>
           <author>
             <name>Flavius Josephus</name>
@@ -317,7 +317,7 @@
         </bibl>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/KPRYC3PT"/>
-          <citedRange>65-68</citedRange>
+          <citedRange unit="section">65-68</citedRange>
         <title level="a">The Life of Flavius Josephus</title>
           <author>
             <forename>Flavius</forename>

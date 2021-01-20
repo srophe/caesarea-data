@@ -260,22 +260,22 @@
         <head>Works Cited</head>
         <bibl xml:id="bib74-1">
           <ptr target="https://caesarea-maritima.org/bibl/A5CE8VEG"/>
-          <citedRange>21.8-21.9</citedRange>
+          <citedRange unit="section">21.8-21.9</citedRange>
         </bibl>
         <bibl xml:id="bib74-2">
           <ptr target="https://caesarea-maritima.org/bibl/EDN6EQHI"/>
-          <citedRange>21.8-21.9</citedRange>
+          <citedRange unit="section">21.8-21.9</citedRange>
         </bibl>
       </listBibl>
       <listBibl>
         <head>Additional Bibliography</head>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/5K5NF6K3"/>
-          <citedRange>21.8-21.9</citedRange>
+          <citedRange unit="section">21.8-21.9</citedRange>
         </bibl>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/A8CENJCA"/>
-          <citedRange>21.8-21.9</citedRange>
+          <citedRange unit="section">21.8-21.9</citedRange>
         </bibl>
       </listBibl>
     </body>

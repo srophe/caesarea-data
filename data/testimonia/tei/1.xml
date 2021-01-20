@@ -277,7 +277,7 @@
         <head>Works Cited</head>
         <bibl xml:id="bib1-1">
           <ptr target="https://caesarea-maritima.org/bibl/GP94R8G7"/>
-          <citedRange>276-327</citedRange>
+          <citedRange unit="section">276-327</citedRange>
         <title level="m">Legatio Ad Gaium: Machine Readable Text</title>
           <author>
             <name>Philo Judaeus</name>
@@ -296,7 +296,7 @@
         <head>Additional Bibliography</head>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/2T3QPLC4"/>
-          <citedRange>276-327</citedRange>
+          <citedRange unit="section">276-327</citedRange>
         <title level="m">Philonis Alexandrini Opera Quae Supersunt</title>
           <author>
             <name>Philo Judaeus</name>

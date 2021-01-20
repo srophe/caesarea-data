@@ -272,7 +272,7 @@
         <head>Works Cited</head>
         <bibl xml:id="bib54-1">
           <ptr target="https://caesarea-maritima.org/bibl/SW5BHIPQ"/>
-          <citedRange>11.29</citedRange>
+          <citedRange unit="section">11.29</citedRange>
         <title level="m">Historia Arcana (Anecdota): Machine Readable Text</title>
           <author>
             <name>Procopius</name>
@@ -287,7 +287,7 @@
         <head>Additional Bibliography</head>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/8K7THZJK"/>
-          <citedRange>11.29</citedRange>
+          <citedRange unit="section">11.29</citedRange>
         <title level="m">Procopii Caesariensis Anecdota qvae dicvntvr</title>
           <author>
             <name>Procopius</name>

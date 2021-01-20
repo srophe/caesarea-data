@@ -279,7 +279,7 @@
         <head>Works Cited</head>
         <bibl xml:id="bib31-1">
           <ptr target="https://caesarea-maritima.org/bibl/8AEDAAIG"/>
-          <citedRange>3.410</citedRange>
+          <citedRange unit="section">3.410</citedRange>
         <title level="m">De Bello Judaico Libri VII: Machine Readable Text</title>
           <author>
             <forename>Flavius</forename>
@@ -292,7 +292,7 @@
         </bibl>
         <bibl xml:id="bib31-2">
           <ptr target="https://caesarea-maritima.org/bibl/8G2QC2BU"/>
-          <citedRange>3.410</citedRange>
+          <citedRange unit="section">3.410</citedRange>
         <title level="m">The Wars of the Jews: Machine Readable Text</title>
           <author>
             <forename>Flavius</forename>
@@ -304,7 +304,7 @@
         <head>Additional Bibliography</head>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/QJCN6B5F"/>
-          <citedRange>3.410</citedRange>
+          <citedRange unit="section">3.410</citedRange>
         <title level="a">De Bello Judaico Libri VII</title>
           <author>
             <name>Flavius Josephus</name>
@@ -316,7 +316,7 @@
         </bibl>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/Z56XEGGL"/>
-          <citedRange>3.410</citedRange>
+          <citedRange unit="section">3.410</citedRange>
         <title level="a">The Wars of the Jews</title>
           <author>
             <forename>Flavius</forename>

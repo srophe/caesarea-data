@@ -281,7 +281,7 @@
         <head>Works Cited</head>
         <bibl xml:id="bib43-1">
           <ptr target="https://caesarea-maritima.org/bibl/KUWIIZF4"/>
-          <citedRange>5.13</citedRange>
+          <citedRange unit="section">5.13</citedRange>
         <title level="m">Naturalis Historia: Machine Readable Text</title>
           <author>
             <name>Pliny the Elder</name>
@@ -293,7 +293,7 @@
         </bibl>
         <bibl xml:id="bib43-2">
           <ptr target="https://caesarea-maritima.org/bibl/8LX6IWJ2"/>
-          <citedRange>5.13</citedRange>
+          <citedRange unit="section">5.13</citedRange>
         <title level="m">The Natural History: Machine Readable Text</title>
           <author>
             <name>Pliny the Elder</name>
@@ -304,7 +304,7 @@
         <head>Additional Bibliography</head>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/GUQ5PL3U"/>
-          <citedRange>5.13</citedRange>
+          <citedRange unit="section">5.13</citedRange>
         <title level="m">Naturalis historia</title>
           <author>
             <name>Pliny the Elder</name>
@@ -316,7 +316,7 @@
         </bibl>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/SMRTTY44"/>
-          <citedRange>5.13</citedRange>
+          <citedRange unit="section">5.13</citedRange>
         <title level="m">The Natural history of Pliny. Tr., with copious notes and illustrations, by the late John Bostock and H.T. Riley</title>
           <author>
             <name>Pliny the Elder</name>

@@ -355,7 +355,7 @@
         <head>Works Cited</head>
         <bibl xml:id="bib44-1">
           <ptr target="https://caesarea-maritima.org/bibl/5M7TNR6Y"/>
-          <citedRange>2.82-2.83</citedRange>
+          <citedRange unit="section">2.82-2.83</citedRange>
           <title level="m">Historiae: Machine Readable Text</title>
           <author>
             <name>Cornelius Tacitus</name>
@@ -367,7 +367,7 @@
         </bibl>
         <bibl xml:id="bib44-2">
           <ptr target="https://caesarea-maritima.org/bibl/4ZX2V9RM"/>
-          <citedRange>2.79</citedRange>
+          <citedRange unit="section">2.79</citedRange>
           <title level="m">The History: Machine Readable Text</title>
           <author>
             <name>Cornelius Tacitus</name>
@@ -378,7 +378,7 @@
         <head>Additional Bibliography</head>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/6P4W5KQS"/>
-          <citedRange>2.82-2.83</citedRange>
+          <citedRange unit="section">2.82-2.83</citedRange>
           <title level="m">Historiae</title>
           <author>
             <forename>Cornelius</forename>
@@ -391,7 +391,7 @@
         </bibl>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/USQ49VQV"/>
-          <citedRange>2.79</citedRange>
+          <citedRange unit="section">2.79</citedRange>
           <title level="m">History</title>
           <author>
             <forename>Cornelius</forename>

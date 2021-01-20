@@ -285,7 +285,7 @@
         <head>Works Cited</head>
         <bibl xml:id="bib66-1">
           <ptr target="https://caesarea-maritima.org/bibl/A5CE8VEG"/>
-          <citedRange>9.30</citedRange>
+          <citedRange unit="section">9.30</citedRange>
         <title level="m">New Testament - Acts: Machine Readable Text</title>
           <editor>
             <forename>Brooke Foss</forename>
@@ -298,7 +298,7 @@
         </bibl>
         <bibl xml:id="bib66-2">
           <ptr target="https://caesarea-maritima.org/bibl/EDN6EQHI"/>
-          <citedRange>9.30</citedRange>
+          <citedRange unit="section">9.30</citedRange>
         <title level="m">World English Bible - Acts: Machine Readable Text</title>
           <editor>
             <name>Rainbow Missions, Inc.</name>
@@ -309,7 +309,7 @@
         <head>Additional Bibliography</head>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/5K5NF6K3"/>
-          <citedRange>9.30</citedRange>
+          <citedRange unit="section">9.30</citedRange>
         <title level="m">The New Testament in the original Greek</title>
           <editor>
             <forename>Brooke Foss</forename>
@@ -326,7 +326,7 @@
         </bibl>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/A8CENJCA"/>
-          <citedRange>9.30</citedRange>
+          <citedRange unit="section">9.30</citedRange>
         <title level="a">Acts of the Apostles</title>
           <editor>
             <name>Rainbow Missions, Inc.</name>
