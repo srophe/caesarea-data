@@ -1,0 +1,364 @@
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
+            <sponsor>Vanderbilt University</sponsor>
+            <principal>Joseph L. Rife</principal>
+            <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
+            <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#plieberman">Phillip I. Lieberman</editor>
+            <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#dmichelson">David A. Michelson</editor>
+            <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</editor>
+            <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
+            <!-- Static metadata -->
+            <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</editor>
+            <!-- creator-specific templates-->
+            <respStmt>
+               <resp>TEI encoding by</resp>
+               <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
+            </respStmt><!-- Static metadata/changes with the post-processing script -->
+            <respStmt>
+               <resp>Electronic text added by</resp>
+               <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
+            </respStmt><!-- creator-specific templates-->
+            <respStmt>
+               <resp>Testimonia identified by</resp>
+               <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
+            </respStmt><!-- Static metadata -->
+         </titleStmt>
+         <editionStmt>
+            <edition n="1.0"/>
+         </editionStmt><!-- Static metadata -->
+         <publicationStmt>
+            <authority>Caesarea City and Port Exploration Project</authority><!-- Static metadata -->
+            <idno type="URI"/><!-- Just need numerical sequence -->
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by/4.0/">
+                  <p>Distributed under a Creative Commons Attribution 4.0 Unported License.</p>
+               </licence><!-- Static metadata -->
+            </availability>
+            <date/><!-- add via post-processing -->
+         </publicationStmt>
+         <seriesStmt>
+            <title level="s" xml:lang="en">Caesarea-Maritima: A Digital Archive</title>
+            <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
+            <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#plieberman">Phillip I. Lieberman</editor>
+         </seriesStmt><!-- Static metadata -->
+         <sourceDesc>
+            <p>Born digital.</p>
+         </sourceDesc><!-- Static metadata -->
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>Authors of testimonia are identified with URIs from The Virtual International Authority File, see <ref target="http://viaf.org/">http://viaf.org/</ref>. When multiple VIAF URIs exist, preference has been given to VIAF record linked to the Library of Congress authority file.</p>
+            <p>Geographic locations are identified with URIs from Pleiades: A Gazetteer of Past Places, see <ref target="https://pleiades.stoa.org/docs">https://pleiades.stoa.org/docs</ref>.</p>
+            <p>When possible, textual works have been cited using URNs according to the Distributed Text Services (DTS) system, see <ref target="https://distributed-text-services.github.io/specifications/">https://distributed-text-services.github.io/specifications/</ref>). Additional identifiers have been adopted from the systems used by the Perseus Digital Library (<ref target="http://www.perseus.tufts.edu/hopper/">http://www.perseus.tufts.edu/</ref>), Syriaca.org (<ref target="http://syriaca.org">http://syriaca.org</ref>), and other relevant authority systems such as WorldCat Identities or OCLC numbers (<ref target="https://www.worldcat.org/">https://www.worldcat.org/</ref>).</p>
+            <p>Bibliographic items are identified by a caesarea-maritima.org URI, which is linked, when possible to OCLC numbers and other identifiers.</p>
+            <p>Dates have been encoded following the ISO 8601 standard, <ref target="https://www.iso.org/iso-8601-date-and-time-format.html">https://www.iso.org/iso-8601-date-and-time-format.html</ref>, and the best practices established by for the Srophé App, see <ref target="http://srophe.app">http://srophe.app</ref>.</p>
+            <p>Languages have been encoded using ISO 639-1, 639-2, and 639-3 codes, following best practices of the TEI guidelines.</p>
+         </editorialDecl><!-- Static metadata -->
+         <classDecl>
+            <taxonomy xml:id="CM-NEAEH"><!-- Static metadata -->
+               <desc>
+                  <title>Caesarea-Maritima.org Chronology</title>: This chronology is adapted from the chronology used in <bibl>
+                     <title>The New Encyclopedia of Archaeological Excavations in the Holy Land</title>
+                     <ptr target="https://caesarea-maritima.org/bibl/HG492LV3"/>
+                  </bibl>.  This taxonomy is used in the <gi>catRef</gi> encoding to classify the testimonia according to the time period(s) of the events described, rather than the date of composition of the testimonium. For example, Josephus may describe events occuring well before the period of his writing.
+               </desc>
+               <category xml:id="lowerPaleolithic">
+                  <catDesc>Lower Paleolithic, 999999-119999 BCE</catDesc>
+               </category>
+               <category xml:id="upperAcheulean">
+                  <catDesc>Upper Acheulean, 498050-148050 BP</catDesc>
+               </category>
+               <category xml:id="acheulean">
+                  <catDesc>Acheulean, 298050-148050 BP</catDesc>
+               </category>
+               <category xml:id="mousterian">
+                  <catDesc>Mousterian, 138050-38050 BP</catDesc>
+               </category>
+               <category xml:id="middlePaleolithic">
+                  <catDesc>Middle Paleolithic, 119999-44999 BCE</catDesc>
+               </category>
+               <category xml:id="upperPaleolithic">
+                  <catDesc>Upper Paleolithic, 44999-17999 BCE</catDesc>
+               </category>
+               <category xml:id="kebaran">
+                  <catDesc>Kebaran , 18050-13050 BP</catDesc>
+               </category>
+               <category xml:id="epipaleolithic">
+                  <catDesc>Epipaleolithic, 17999-8299 BCE</catDesc>
+               </category>
+               <category xml:id="geometricKebaran">
+                  <catDesc>Geometric Kebaran, 12499-10899 BCE</catDesc>
+               </category>
+               <category xml:id="natufianCulture">
+                  <catDesc>Natufian Culture, 10799-8499 BCE</catDesc>
+               </category>
+               <category xml:id="pre-potteryNeolithic">
+                  <catDesc>Pre-Pottery Neolithic, 8299-5499 BCE</catDesc>
+               </category>
+               <category xml:id="potteryNeolithic">
+                  <catDesc>Pottery Neolithic, 5499-4499 BCE</catDesc>
+               </category>
+               <category xml:id="chalcolithic">
+                  <catDesc>Chalcolithic, 4499-3299 BCE</catDesc>
+               </category>
+               <category xml:id="earlyBronzeAge">
+                  <catDesc>Early Bronze Age, 3299-2199 BCE</catDesc>
+               </category>
+               <category xml:id="bronzeAge">
+                  <catDesc>Bronze Age, 3299-1199 BCE</catDesc>
+               </category>
+               <category xml:id="earlyBronzeAgeIa-b">
+                  <catDesc>Early Bronze Age IA-B, 3299-2999 BCE</catDesc>
+               </category>
+               <category xml:id="earlyBronzeAgeIi">
+                  <catDesc>Early Bronze Age II, 2999-2699 BCE</catDesc>
+               </category>
+               <category xml:id="earlyBronzeAgeIii">
+                  <catDesc>Early Bronze Age III, 2699-2199 BCE</catDesc>
+               </category>
+               <category xml:id="middleBronzeAge">
+                  <catDesc>Middle Bronze Age, 2199-1549 BCE</catDesc>
+               </category>
+               <category xml:id="middleBronzeAgeI">
+                  <catDesc>Middle Bronze Age I, 2199-1999 BCE</catDesc>
+               </category>
+               <category xml:id="middleBronzeAgeIia">
+                  <catDesc>Middle Bronze Age IIA, 1999-1749 BCE</catDesc>
+               </category>
+               <category xml:id="middleBronzeAgeIib">
+                  <catDesc>Middle Bronze Age IIB, 1749-1549 BCE</catDesc>
+               </category>
+               <category xml:id="lateBronzeAge">
+                  <catDesc>Late Bronze Age, 1599-1200 BCE</catDesc>
+               </category>
+               <category xml:id="lateBronzeAgeI">
+                  <catDesc>Late Bronze Age I, 1549-1399 BCE</catDesc>
+               </category>
+               <category xml:id="lateBronzeAgeIia">
+                  <catDesc>Late Bronze Age IIA, 1399-1299 BCE</catDesc>
+               </category>
+               <category xml:id="lateBronzeAgeIib">
+                  <catDesc>Late Bronze Age IIB, 1299-1199 BCE</catDesc>
+               </category>
+               <category xml:id="ironAge">
+                  <catDesc>Iron Age, 1199-585 BCE</catDesc>
+               </category>
+               <category xml:id="ironAgeIa">
+                  <catDesc>Iron Age IA, 1199-1149 BCE</catDesc>
+               </category>
+               <category xml:id="ironAgeIb">
+                  <catDesc>Iron Age IB, 1149-999 BCE</catDesc>
+               </category>
+               <category xml:id="ironAgeIia">
+                  <catDesc>Iron Age IIA, 999-899 BCE</catDesc>
+               </category>
+               <category xml:id="ironAgeIib">
+                  <catDesc>Iron Age IIB, 899-699 BCE</catDesc>
+               </category>
+               <category xml:id="ironIic">
+                  <catDesc>Iron IIC, 799-731 BCE</catDesc>
+               </category>
+               <category xml:id="ironAgeIic">
+                  <catDesc>Iron Age IIC, 699-585 BCE</catDesc>
+               </category>
+               <category xml:id="babylonianAndPersian">
+                  <catDesc>Babylonian and Persian Periods, 585-331 BCE</catDesc>
+               </category>
+               <category xml:id="earlyHellenistic">
+                  <catDesc>Early Hellenistic Period, 331-166 BCE</catDesc>
+               </category>
+               <category xml:id="hellenistic">
+                  <catDesc>Hellenistic Period, 331-36 BCE</catDesc>
+               </category>
+               <category xml:id="earlyNabatean">
+                  <catDesc>Early Nabatean Period, 331-36 BCE</catDesc>
+               </category>
+               <category xml:id="nabateanKingdom">
+                  <catDesc>Nabatean Kingdom, 167 BCE-106 CE</catDesc>
+               </category>
+               <category xml:id="lateHellenistic">
+                  <catDesc>Late Hellenistic Period, 166-36 BCE</catDesc>
+               </category>
+               <category xml:id="earlyRoman">
+                  <catDesc>Early Roman Period, 36 BCE-132 CE</catDesc>
+               </category>
+               <category xml:id="herodian">
+                  <catDesc>Herodian Period, 36 BCE-70 CE</catDesc>
+               </category>
+               <category xml:id="middleNabatean">
+                  <catDesc>Middle Nabatean Period, 24 BCE-50 CE</catDesc>
+               </category>
+               <category xml:id="lateRoman">
+                  <catDesc>Late Roman Period, 132-324 CE</catDesc>
+               </category>
+               <category xml:id="byzantine">
+                  <catDesc>Byzantine Period, 324-638 CE</catDesc>
+               </category>
+               <category xml:id="earlyIslamic">
+                  <catDesc>Early Islamic Period, 638-1099 CE</catDesc>
+               </category>
+               <category xml:id="crusader">
+                  <catDesc>Crusader Period, 1099-1291 CE</catDesc>
+               </category>
+               <category xml:id="lateIslamic">
+                  <catDesc>Late Islamic Period, 1291-1516 CE</catDesc>
+               </category>
+               <category xml:id="ottoman">
+                  <catDesc>Ottoman Period, 1516-1917 CE</catDesc>
+               </category>
+               <category xml:id="britishTerritorialAdministration">
+                  <catDesc>British Territorial Administration Period, 1970-1920 CE</catDesc>
+               </category>
+               <category xml:id="britishMandate">
+                  <catDesc>British Mandate Period, 1920-1948 CE</catDesc>
+               </category>
+               <category xml:id="modernState">
+                  <catDesc>Modern State, 1948- CE</catDesc>
+               </category>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <abstract>
+            <p/>
+         </abstract>
+         <creation>
+            <title xml:lang="en" ref="" type="uniform" level="m">Apocryphal Acts of Peter </title>
+            <ref>49.20-50.10</ref>
+            <persName ref="" role="author"/>
+            <origDate>0200 0400</origDate>
+            <origPlace ref="https://pleiades.stoa.org/places/1052">Italy</origPlace>
+         </creation>
+         <langUsage>
+            <language ident="la"/>
+         </langUsage>
+         <textClass>
+            <classCode scheme="https://distributed-text-services.github.io/specifications/">
+               <idno type="CTS-URN"/>
+            </classCode>
+            <catRef scheme="testimonia-type" target="#direct"/>
+            <catRef scheme="#CM-NEAEH" target="#earlyRoman"/>
+         </textClass>
+      </profileDesc>
+      <revisionDesc status="draft">
+         <change who="jrife" when="">CREATED: testimonium</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="identifier">
+            <idno type="URI"/>
+         </ab>
+         <desc type="abstract"/>
+         <desc type="context">Codex Vercellensis 158, an ancient book in the Capitulary Library of
+            the Cathedral in Vercelli in northwestern Italy, preserves most of a Latin manuscript
+            made probably in Italy during the 3rd or 4th century that translates an earlier Greek
+            account of Peter’s apostolic career. This Acts of the Apostle Peter, perhaps entitled
+            Πράξεις Πέτρου τοῦ ἀποστόλου, was written circa 180-190 C.E. possibly in Asia Minor. It
+            recounts Peter’s activities from the Near East to Italy, his controversy with Simon
+            Magus at Rome, his consolidation of the congregation there, and his martydom. In this
+            passage, Peter sees a vision of Christ and travels from Jerusalem to Caesarea, where he
+            embarks on a ship to Rome captained by the hospitable Theon. There are interesting
+            details in this scene of passengers launching out of the harbor.</desc>
+         <ab type="edition">Lugentibus autem eis et jejunantibus, iam instruebat deus in futurum
+            Petrum in Hierosolymis, adimpletis duodecim annis quod illi praeceperat dominus,
+            Christus ostendit illi visionem talem, dicens ei, “Petre, quem tu ejecisti de Iudea
+            adprobatum magum Simonem, iterum praeoccupavit vos Romae. Et in brevi scias: omnes enim
+            qui in me crediderunt dissolvit astutia sua et inergia sua satanas, cuius virtute se
+            adprobat esse. Sed noli moras facere: crastina die profiscere, et ibi invenies navem
+            paratam, navigantem in Italiam; et in paucos dies ostendam tibi gratiam meam quae non
+            habet invidiam nullam.” Petrus autem hoc viso monitus, referens fratribus sine mora,
+            dicens, “Necesse est me ascendere Romae ad expugnandum hostem et inimicum domini et
+            fratrum nostrum.” Et descendit $Caesaream% et confestim ascendit navem, iam scala
+            subducta neque epsimenia imposita. gubernius autem nomine Theon respiciens Petrum dixit,
+            “Quaecumque habemus universa tua sunt. quae autem gratia nostra, si suscipiamus hominem
+            similem nobis in incerto casu, et non omnia quae habemus nos, communicamus tecum? sed
+            tantum nos feliciter navigemus.” Petrus autem oblationi illius gratias agens, ipse autem
+            in navi jejunabat, lugens animo et iterum comfortans se, quod deus dignum eum habuisset
+            in ministerio suo ministrum.<note type="discussion">Ed. Lipsius 1891 [cited by
+               page-line]</note><note type="corrigenda">epsimenia: Apparent Latin transliteration of
+               Greek ἡψημένα.</note><idno type="CTS-URN"/><ref target=""/></ab>
+         <ab type="translation">While they were grieving and fasting, God was already preparing
+            Peter at Jerusalem for what was to come. After the twelve years had passed which the
+            Lord had enjoined on him, Christ showed to him the following vision, saying, “Peter,
+            Simon, whom you expelled from Judaea after having proved him to be a magician, has
+            forestalled you a second time in Rome. And in short, all who believed in me Satan has
+            perverted by his cunning and his power, whose agent he proves to be. But do not delay.
+            Go tomorrow (to Caesaerea), and there you will find a ship ready to sail to Italy. And
+            within a few days I will show you my grace, which is boundless.” Instructed by this
+            vision, Peter did not delay to mention it to the brethren and said, “I must go to Rome
+            to subdue the enemy and opponent of the Lord and of our brethren.” And he went down to
+            Caesarea and at once boarded the ship, which was ready to sail, with the ladder already
+            raised and no provisions (lit. boiled foods) in store. But the steersman named Theon
+            looked at Peter and said, “Whatever we have is all yours. What favor are we doing
+            ourselves, if we receive a man like ourselves in difficult circumstances, and do not
+            share with you everything we have? Let us have a safe voyage.” Peter thanked him for his
+            offer. And he fasted in the ship, being dejected in his mind and yet again comforting
+            himself, because God considered him to be a worthy servant in his service.<note
+               type="translation">Adapted from Schneemelcher and Wilson 1992 and Elliott
+               1993</note><note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"
+               /><ref target=""/></ab>
+         <listBibl>
+            <head>Works Cited</head>
+            <bibl>Richard Adelbert Lipsius, ed., Acta apostolorum apocrypha I: acta Petri, acta
+               Pauli, acta Petri et Pauli, acta Pauli et Theclae, acta Thaddei. Leipzig: Hermann
+               Mendelssohn, 1891. Repr. Hildesheim: Georg Olms 1990.<ptr target=""/><citedRange
+                  unit="p">49-50</citedRange><citedRange unit=""/></bibl>
+            <bibl>Wilhelm Schneemelcher and R. McL. Wilson, ed. and trans., New Testament Apocrypha,
+               Revised Edition of the Collection Initiated by Edgar Hennecke II: Writing Relating to
+               the Apostles, Apocalypses and Related Subjects. Cambridge and Loiusville: James
+               Clarke &amp; Co. and Westminster/John Knox Press, 1992.<ptr target=""/><citedRange
+                  unit=""/><citedRange unit=""/></bibl>
+         </listBibl>
+         <listBibl>
+            <head>Additional Bibliography</head>
+            <bibl>J. L. Elliott. The Apocryphal New Testament: A Collection of Apocryphal Christian
+               Literature in an English Translation. Oxford: Clarendon Press, 1993.<ptr target=""
+                  /><citedRange unit=""/><citedRange unit=""/></bibl>
+            <bibl>
+               <ptr target=""/>
+               <citedRange unit=""/>
+               <citedRange unit=""/>
+            </bibl>
+            <bibl>
+               <ptr target=""/>
+               <citedRange unit=""/>
+               <citedRange unit=""/>
+            </bibl>
+            <bibl>
+               <ptr target=""/>
+               <citedRange unit=""/>
+               <citedRange unit=""/>
+            </bibl>
+         </listBibl>
+         <note type="related-texts"/>
+         <note type="geography">
+            <p>Jerusalem</p>
+            <p>Judaea</p>
+            <p>Rome</p>
+            <p> Italy</p>
+         </note>
+         <note type="prosopography">
+            <p>Peter the Apostle</p>
+            <p>Jesus Christ</p>
+            <p>Simon Magus</p>
+            <p> Theon</p>
+         </note>
+         <note type="themes">
+            <p>Christian Bible</p>
+            <p>Christianity</p>
+            <p>Paganism</p>
+            <p>Roman History</p>
+            <p>Government</p>
+            <p>Travel</p>
+            <p>Maritime Activity</p>
+            <p> Economy</p>
+         </note>
+      </body>
+   </text>
+</TEI>
