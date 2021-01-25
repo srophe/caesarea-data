@@ -243,13 +243,13 @@
             <classCode scheme="https://distributed-text-services.github.io/specifications/">
                <idno type="CTS-URN"/>
             </classCode>
-            <catRef scheme="testimonia-type" target="#direct"/>
+            <catRef scheme="#CM-Testimonia-Type" target="#direct"/>
             <catRef scheme="#CM-NEAEH" target="#nabateanKingdom #earlyRoman #herodian #middleNabatean #lateRoman #byzantine"/>
          </textClass>
       </profileDesc>
       <revisionDesc status="draft">
          <change who="wpotter" when="">ADDED: testimonium ID, URNs, URLs to edition and translation, and Bibl URIs</change>
-         <change who="wpotter" when="">CREATED: testimonium</change>
+         <change who="dmichelson" when="">CREATED: testimonium</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -332,6 +332,7 @@
             <p>New Testament</p>
             <p>Saints</p>
             <p>Pilgrimage</p>
+            <p>Travel</p>
          </note>
       </body>
    </text>
