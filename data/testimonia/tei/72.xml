@@ -41,7 +41,7 @@
         <date>2020-04-29-05:00</date>
       </publicationStmt>
       <seriesStmt>
-        <title level="m" xml:lang="en">Caesarea-Maritima.org: A Digital Archive</title>
+        <title level="s" xml:lang="en">Caesarea-Maritima.org: A Digital Archive</title>
         <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
         <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#plieberman">Phillip I. Lieberman</editor>
       </seriesStmt>
