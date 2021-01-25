@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="en" level="a">Flavius Josephus , <title level="m">Antiquities of the Jews</title> 13.12.4</title>
+        <title xml:lang="en" level="a">Josephus , <title level="m">Antiquities of the Jews</title> 13.12.4</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
         <sponsor>Vanderbilt University</sponsor>
         <principal>Joseph L. Rife</principal>
@@ -241,7 +241,7 @@
         <p/>
       </abstract>
       <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg001" type="uniform" level="m">Antiquities of the Jews</title>
-        <ref target="#bib173-1">13.12.4</ref> written by <persName ref="http://viaf.org/viaf/22143666 " role="author">Flavius Josephus </persName> in <origDate period="#nabateanKingdom #earlyRoman" notBefore="0093" notAfter="0094">93 - 94 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</creation>
+        <ref target="#bib173-1">13.12.4</ref> written by <persName ref="http://viaf.org/viaf/22143666 " role="author">Josephus </persName> in <origDate period="#nabateanKingdom #earlyRoman" notBefore="0093" notAfter="0094">93 - 94 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</creation>
       <langUsage>
         <language ident="grc">Ancient Greek</language>
       </langUsage>
@@ -262,7 +262,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/173</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract173-1">Caesarea Maritima is indirectly attested in <persName ref="http://viaf.org/viaf/22143666 " role="author">Flavius Josephus </persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg001" type="uniform" level="m">Antiquities of the Jews</title> 13.12.4. This testimonium was written circa <origDate period="#nabateanKingdom #earlyRoman" notBefore="0093" notAfter="0094">93 - 94 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract173-1">Caesarea Maritima is indirectly attested in <persName ref="http://viaf.org/viaf/22143666 " role="author">Josephus </persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg001" type="uniform" level="m">Antiquities of the Jews</title> 13.12.4. This testimonium was written circa <origDate period="#nabateanKingdom #earlyRoman" notBefore="0093" notAfter="0094">93 - 94 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote173-1" source="#bib173-1">
         <anchor xml:id="testimonia-173.grc.1" corresp="testimonia-173.en.1"/>Ἐλθόντων δὲ πρὸς αὐτὸν Ζωίλου τε καὶ τῶν Γαζαίων καὶ δεομένων συμμαχεῖν αὐτοῖς πορθουμένης αὐτοῖς τῆς χώρας ὑπὸ τῶν Ἰουδαίων καὶ Ἀλεξάνδρου, λύει μὲν τὴν πολιορκίαν δείσας τὸν Πτολεμαῖον ὁ Ἀλέξανδρος, ἀπαγαγὼν δὲ τὴν στρατιὰν εἰς τὴν οἰκείαν ἐστρατήγει τὸ λοιπὸν λάθρα μὲν τὴν Κλεοπάτραν ἐπὶ τὸν Πτολεμαῖον μεταπεμπόμενος, φανερῶς δὲ φιλίαν καὶ συμμαχίαν πρὸς αὐτὸν ὑποκρινόμενος. καὶ τετρακόσια δὲ ἀργυρίου τάλαντα δώσειν ὑπέσχετο χάριν ἀντὶ τούτων αἰτῶν Ζώιλον ἐκποδὼν ποιήσασθαι τὸν τύραννον καὶ τὴν χώραν τοῖς Ἰουδαίοις προσνεῖμαι. τότε μὲν οὖν ὁ Πτολεμαῖος ἡδέως τὴν πρὸς Ἀλέξανδρον ποιησάμενος φιλίαν χειροῦται τὸν Ζώιλον. ὕστερον δὲ ἀκούσας λάθρα διαπεμψάμενον αὐτὸν πρὸς τὴν μητέρα αὐτοῦ Κλεοπάτραν λύει τοὺς γεγενημένους πρὸς αὐτὸν ὅρκους καὶ προσβαλὼν ἐπολιόρκει τὴν Πτολεμαΐδα μὴ δεξαμένην αὐτόν. καταλιπὼν δ᾽ ἐπὶ τῆς πολιορκίας στρατηγοὺς καὶ μέρος τι τῆς δυνάμεως αὐτὸς τῷ λοιπῷ τὴν Ἰουδαίαν καταστρεψόμενος ὥρμησεν. ὁ δὲ Ἀλέξανδρος τὴν τοῦ Πτολεμαίου διάνοιαν μαθὼν συνήθροισεν καὶ αὐτὸς περὶ πέντε μυριάδας τῶν ἐγχωρίων, ὡς δ᾽ ἔνιοι συγγραφεῖς εἰρήκασιν ὀκτώ, καὶ ἀναλαβὼν τὴν δύναμιν ἀπήντα τῷ Πτολεμαίῳ. Πτολεμαῖος δ᾽ ἐξαίφνης ἐπιπεσὼν Ἀσωχειτω τῆς Γαλιλαίας πόλει σάββασιν αἱρεῖ κατὰ κράτος αὐτὴν καὶ περὶ μύρια σώματα καὶ πολλὴν ἑτέραν ἔλαβε λείαν.<idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg0526.tlg001.perseus-grc1:13.12.4</idno>
         <ref target="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg001.perseus-grc1:13.12.4"/>

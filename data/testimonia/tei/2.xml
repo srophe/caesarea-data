@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="en" level="a">Flavius Josephus, <title level="m">Antiquities of the Jews</title> 14.76</title>
+        <title xml:lang="en" level="a">Josephus, <title level="m">Antiquities of the Jews</title> 14.76</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
         <sponsor>Vanderbilt University</sponsor>
         <principal>Joseph L. Rife</principal>
@@ -256,7 +256,7 @@
         <p/>
       </abstract>
       <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg001" type="uniform" level="m">Antiquities of the Jews</title>
-        <ref target="#bib2-1">14.76</ref> written by <persName ref="http://viaf.org/viaf/22143666" role="author">Flavius Josephus</persName> in <origDate period="#nabateanKingdom #earlyRoman" notBefore="0093" notAfter="0094">93 – 94 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</creation>
+        <ref target="#bib2-1">14.76</ref> written by <persName ref="http://viaf.org/viaf/22143666" role="author">Josephus</persName> in <origDate period="#nabateanKingdom #earlyRoman" notBefore="0093" notAfter="0094">93 – 94 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</creation>
       <langUsage>
         <language ident="grc">Ancient Greek</language>
       </langUsage>
@@ -287,7 +287,7 @@
      <placeName>Strato's Tower</placeName>
     </quote>, and <quote>
      <placeName>Caesarea</placeName>
-    </quote> are place names attested in <persName ref="http://viaf.org/viaf/22143666" role="author">Flavius Josephus</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg001" type="uniform" level="m">Antiquities of the Jews</title> 14.76. This testimonium was written circa <origDate period="#nabateanKingdom #earlyRoman" notBefore="0093" notAfter="0094">93 – 94 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+    </quote> are place names attested in <persName ref="http://viaf.org/viaf/22143666" role="author">Josephus</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg001" type="uniform" level="m">Antiquities of the Jews</title> 14.76. This testimonium was written circa <origDate period="#nabateanKingdom #earlyRoman" notBefore="0093" notAfter="0094">93 – 94 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote2-1" source="#bib2-1">
         <anchor xml:id="testimonia-2.grc.1" corresp="testimonia-2.en.1"/>
         καὶ ταύτας μὲν ἐν τῇ μεσογείῳ χωρὶς τῶν κατεσκαμμένων, Γάζαν δὲ πρὸς τῇ θαλάττῃ καὶ Ἰόππην καὶ Δῶρα καὶ <placeName>Στράτωνος πύργον</placeName>, ἣ κτίσαντος αὐτὴν Ἡρώδου μεγαλοπρεπῶς καὶ λιμέσιν τε καὶ ναοῖς κοσμήσαντος, <placeName>Καισάρεια</placeName> μετωνομάσθη, πάσας ὁ Πομπήιος ἀφῆκεν ἐλευθέρας καὶ προσένειμεν τῇ ἐπαρχίᾳ.

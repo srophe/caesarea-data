@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="en" level="a">Flavius Josephus, <title level="m">Antiquities of the Jews</title> 16.13</title>
+        <title xml:lang="en" level="a">Josephus, <title level="m">Antiquities of the Jews</title> 16.13</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
         <sponsor>Vanderbilt University</sponsor>
         <principal>Joseph L. Rife</principal>
@@ -255,7 +255,7 @@
         <p/>
       </abstract>
       <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg001" type="uniform" level="m">Antiquities of the Jews</title>
-        <ref target="#bib5-1">16.13</ref> written by <persName ref="http://viaf.org/viaf/22143666" role="author">Flavius Josephus</persName> in <origDate period="#nabateanKingdom #earlyRoman" notBefore="0093" notAfter="0094">93 - 94 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</creation>
+        <ref target="#bib5-1">16.13</ref> written by <persName ref="http://viaf.org/viaf/22143666" role="author">Josephus</persName> in <origDate period="#nabateanKingdom #earlyRoman" notBefore="0093" notAfter="0094">93 - 94 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</creation>
       <langUsage>
         <language ident="grc">Ancient Greek</language>
       </langUsage>
@@ -278,7 +278,7 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/5</idno>
       </ab>
       <desc type="abstract" xml:id="abstract5-1">
-    <quote><placeName xml:lang="grc">τῇ Σεβαστῇ</placeName></quote>, <quote><placeName xml:lang="grc">Καισαρείᾳ</placeName></quote>, <quote><placeName xml:lang="en">Sebaste</placeName></quote>, and <quote><placeName xml:lang="en">Cesarea</placeName></quote> are place names attested in <persName ref="http://viaf.org/viaf/22143666" role="author">Flavius Josephus</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg001" type="uniform" level="m">Antiquities of the Jews</title> 16.13. This testimonium was written circa <origDate period="#nabateanKingdom #earlyRoman" notBefore="0093" notAfter="0094">93 - 94 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+    <quote><placeName xml:lang="grc">τῇ Σεβαστῇ</placeName></quote>, <quote><placeName xml:lang="grc">Καισαρείᾳ</placeName></quote>, <quote><placeName xml:lang="en">Sebaste</placeName></quote>, and <quote><placeName xml:lang="en">Cesarea</placeName></quote> are place names attested in <persName ref="http://viaf.org/viaf/22143666" role="author">Josephus</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg001" type="uniform" level="m">Antiquities of the Jews</title> 16.13. This testimonium was written circa <origDate period="#nabateanKingdom #earlyRoman" notBefore="0093" notAfter="0094">93 - 94 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote5-1" source="#bib5-1">
         <anchor xml:id="testimonia-5.grc.1" corresp="testimonia-5.en.1"/>
         κἀκεῖνος μὲν εἴξας λιπαρῶς ἐγκειμένου ἧκεν εἰς τὴν Ἰουδαίαν, Ἡρώδης δὲ οὐδὲν ἀρεσκείας ἀπέλιπεν ἔν τε ταῖς νεοκτίστοις πόλεσιν ὑποδεχόμενος αὐτὸν καὶ μετὰ τοῦ τὰς κατασκευὰς ἐπιδεικνύναι πᾶσαν ἀπόλαυσιν διαίτης καὶ πολυτελείας ἐξαλλάττων αὐτῷ καὶ τοῖς φίλοις ἔν τε <placeName xml:lang="grc">τῇ Σεβαστῇ</placeName> καὶ <placeName xml:lang="grc">Καισαρείᾳ</placeName> περὶ τὸν λιμένα τὸν ὑπ᾽ αὐτοῦ κατεσκευασμένον κἀν τοῖς ἐρύμασιν, ἃ πολλαῖς δαπάναις ἐξῳκοδόμησεν, τό τε Ἀλεξάνδρειον καὶ Ἡρώδειον καὶ τὴν Ὑρκανίαν.
