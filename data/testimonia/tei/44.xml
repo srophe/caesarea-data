@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="en" level="a">Cornelius Tacitus, <title level="m">The Histories</title>
+        <title xml:lang="en" level="a">Tacitus, <title level="m">The Histories</title>
           2.82-2.83</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
         <sponsor>Vanderbilt University</sponsor>
@@ -295,8 +295,7 @@
       <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:latinLit:phi1351.phi004"
         type="uniform" level="m">The Histories</title>
         <ref target="#bib44-1">2.82-2.83</ref> written by <persName
-          ref="http://viaf.org/viaf/100226923" role="author"><name>Cornelius</name>
-          <name sort="1">Tacitus</name></persName> in <origDate period="#nabateanKingdom
+          ref="http://viaf.org/viaf/100226923" role="author"><name sort="1">Tacitus</name></persName> in <origDate period="#nabateanKingdom
             #earlyRoman" notBefore="0100" notAfter="0110">100 - 110 CE</origDate>. This work was
         likely written in <origPlace ref="https://pleiades.stoa.org/places/423025"
           >Rome</origPlace>.</creation>
@@ -330,7 +329,7 @@
       <desc type="abstract" xml:id="abstract44-1">
         <quote><placeName xml:lang="la">Caesaream</placeName></quote>, and <quote><placeName
             xml:lang="en">Cæsarea</placeName></quote> are place names attested in <persName
-          ref="http://viaf.org/viaf/100226923" role="author">Cornelius Tacitus</persName>'s <title
+          ref="http://viaf.org/viaf/100226923" role="author">Tacitus</persName>'s <title
           xml:lang="en" ref="urn:cts:latinLit:phi1351.phi004" type="uniform" level="m">The
           Histories</title> 2.82-2.83. This testimonium was written circa <origDate
           period="#nabateanKingdom #earlyRoman" notBefore="0100" notAfter="0110">100 - 110
