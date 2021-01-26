@@ -23,7 +23,7 @@
          </editionStmt><!-- Static metadata -->
          <publicationStmt>
             <authority>Caesarea City and Port Exploration Project</authority><!-- Static metadata -->
-            <idno type="URI"/><!-- Just need numerical sequence -->
+            <idno type="URI">46</idno><!-- Just need numerical sequence -->
             <availability>
                <licence target="http://creativecommons.org/licenses/by/4.0">
                   <p>Distributed under a Creative Commons Attribution 4.0 Unported License.</p>
@@ -232,8 +232,8 @@
             <p/>
          </abstract>
          <creation>
-            <title xml:lang="en" ref="" type="uniform" level="m">Correct Spelling</title>
-            <ref>451.22-27</ref>
+            <title xml:lang="en" ref="urn:cts:greekLit:tlg0087.tlg011" type="uniform" level="m">Correct Spelling</title>
+            <ref>2.2.4.127</ref>
             <persName ref="http://viaf.org/viaf/88626271" role="author">Aelius Herodianus</persName>
             <origDate>0150 0200</origDate>
             <origPlace ref="https://pleiades.stoa.org/places/727070">Alexandria</origPlace>
@@ -250,7 +250,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="" when="">ADDED: testimonium ID, URNs, URLs to edition and translation, and Bibl URIs</change>
+         <change who="wpotter" when="">ADDED: testimonium ID, URNs, URLs to edition and translation, and Bibl URIs</change>
          <change who="jrife" when="">CREATED: testimonium</change>
       </revisionDesc>
    </teiHeader>
@@ -265,12 +265,8 @@
             East, before moving to Rome as a celebrated scholar later in his career. In his
             grammatical treatise on spelling, Herodian cited the toponym Caesarea (Καισάρεια) as an
             example of a particular word-formation, as he does elsewhere.</desc>
-         <ab type="edition">Τὰ διὰ τοῦ -εια ἐπὶ πόλεων προπαροξύτονα θηλυκὰ δίφθογγον ἔχει οἷον
-            Ἀλεξάνδρεια, Ἀπάμεια, $Καισάρεια%, Ἀντιόχεια, Θέσπεια· τὸ δὲ ὀξυτόνως λεγόμενον Θεσπιά
-            διὰ τοῦ -ι· τὰ δὲ ἐπὶ χώρας ὄντα διὰ τοῦ -ι γράφεται καὶ παροξύνεται, Λυκία, Πισιδία,
-            Κιλικία, Σικελία, Παφλαγονία, Ἀρμενία, Συρία, Καππαδοκία, Ἰταλία, Ἀσία, Θεσσαλία,
-            Βοιωτία, Βιθυνία, Ἰτουρία.<note>Ed. Lentz 1868 [cited by page-line]</note><note type="textual"/><note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/><ref target=""
-            /></ab>
+         <ab type="edition">Τὰ διὰ τοῦ -εια ἐπὶ πόλεων προπαροξύτονα θηλυκὰ δίφθογγον ἔχει οἷον Ἀλεξάνδρεια, Ἀπάμεια, $Καισάρεια%, Ἀντιόχεια, Θέσπεια· τὸ δὲ ὀξυτόνως λεγόμενον Θεσπιά διὰ τοῦ -ι· τὰ δὲ ἐπὶ χώρας ὄντα διὰ τοῦ -ι γράφεται καὶ παροξύνεται, Λυκία, Πισιδία, Κιλικία, Σικελία, Παφλαγονία, Ἀρμενία, Συρία, Καππαδοκία, Ἰταλία, Ἀσία, Θεσσαλία, Βοιωτία, Βιθυνία, Ἰτουρία.<note>Ed. Lentz 1868 [cited by page-line]</note><note type="textual"/><note type="discussion"/><note type="corrigenda"
+            /><idno type="CTS-URN">urn:cts:greekLit:tlg0087.tlg011.1st1K-grc1:2.2.4.127</idno><ref target="https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0087.tlg011.1st1K-grc1:2.2.4.127"/></ab>
          <ab type="translation">Feminine proparoxytone nouns for cities in -eia have a diphthong,
             e.g., Alexandreia, Apameia, Kaisareia, Antiocheia, Thespeia. Thespia in -i is a noun
             spoken oxytone. Nouns for regions in -i are written and spoken paroxytone: Lykia,
@@ -280,9 +276,11 @@
                /><ref target=""/></ab>
          <listBibl>
             <head>Works Cited</head>
-            <bibl>August Lentz, ed., Grammatica graeci III.2.1: Herodiani Technici reliquiae,
-               Leipzig: B. G. Teubner, 1868. <ptr target=""/><citedRange unit="p"
-                  >451</citedRange><citedRange unit="line">22-27</citedRange></bibl>
+            <bibl>
+               <ptr target="https://www.zotero.org/groups/2320447/items/CFHZ6J2I"/>
+               <citedRange unit="p">451</citedRange>
+               <citedRange unit="line">22-27</citedRange>
+            </bibl>
             <bibl>
                <ptr target=""/>
                <citedRange unit=""/>

@@ -23,7 +23,7 @@
          </editionStmt><!-- Static metadata -->
          <publicationStmt>
             <authority>Caesarea City and Port Exploration Project</authority><!-- Static metadata -->
-            <idno type="URI"/><!-- Just need numerical sequence -->
+            <idno type="URI">45</idno><!-- Just need numerical sequence -->
             <availability>
                <licence target="http://creativecommons.org/licenses/by/4.0">
                   <p>Distributed under a Creative Commons Attribution 4.0 Unported License.</p>
@@ -232,7 +232,7 @@
             <p/>
          </abstract>
          <creation>
-            <title xml:lang="en" ref="" type="uniform" level="m">Parsings</title>
+            <title xml:lang="en" type="uniform" level="m">Parsings</title>
             <ref>63</ref>
             <persName role="author">Pseudo-Aelius Herodianus</persName>
             <origDate>1100 1400</origDate>
@@ -251,7 +251,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="" when="">ADDED: testimonium ID, URNs, URLs to edition and translation, and Bibl URIs</change>
+         <change who="wpotter" when="">ADDED: testimonium ID, URNs, URLs to edition and translation, and Bibl URIs</change>
          <change who="jrife" when="">CREATED: testimonium</change>
       </revisionDesc>
    </teiHeader>
@@ -268,26 +268,18 @@
             emulated in its encyclopedic format and technical scope. The work examined
             sound-clusters in the spelling of words in Byzantine Greek. In this passage, the author
             cited the place name Kaisareia among other words containing the element kai.</desc>
-         <ab type="edition">Πλὴν τοῦ καὶ, συνδεσμοῦ· καινὸν, τὸ νέον καὶ παράδοξον, ὅθεν καινοτομία,
-            ἡ νέα πράξις ἢ ἡ παράδοξος· καινοτομῶ, τὸ νεοπραγῶ· Καίσαρ, Καίσαρος· $Καισάρεια% πόλις,
-            καὶ Καισαρεὺς ὁ ἀπὸ $Καισαρείας%· καιρὸς ὁ χρόνος, ὅθεν καὶ καίριον, τὸ ἔγκαιριον·
-            καιροφυλακῶ· καιροσκοπῶ· καιρία πληγὴ, ὁ θανάσιμος· καικίας, ἄνεμος· Καινεὺς, κύριον,
-            καὶ κλίνεται Καινέως· καίω, ῥῆμα, τὸ φλογίζω· καὶ καίνω, τὸ κόπτω, ὅθεν καὶ καινὶς, ἡ
-               μάχαιρα.<note type="textual"/><note type="discussion">Ed. Boissonade 1819 [cited by page]</note><note
-               type="corrigenda"/><idno type="CTS-URN"/><ref target=""/></ab>
-         <ab type="translation">Besides kai, the conjunction; kainon, the new and incredible, from
-            which we also get kainotomia, a new practice or paradox; kainotomo, verb “to render
-            new”; Kaisar, Kaisaros; Kaisareia the city, and Kaisareus, the man from Kaisareia;
-            kairos, the time, from which we also get kairion, engkairion; kairophylako; kairoskopo;
-            kairia plege, the death-blow; kaikias, wind; Kaineus, proper noun, declined Kaineos;
-            kaio, verb, “to set afire”; and kaino, verb “to cut”, from which we also get kainis,
-               knife.<note type="translation">Trans. J. L. Rife</note><note type="discussion"/><note
-               type="corrigenda"/><idno type="CTS-URN"/><ref target=""/></ab>
+         <ab type="edition">Πλὴν τοῦ καὶ, συνδεσμοῦ· καινὸν, τὸ νέον καὶ παράδοξον, ὅθεν καινοτομία, ἡ νέα πράξις ἢ ἡ παράδοξος· καινοτομῶ, τὸ νεοπραγῶ· Καίσαρ, Καίσαρος· <placeName>Καισάρεια</placeName> πόλις, καὶ Καισαρεὺς ὁ ἀπὸ <placeName>Καισαρείας</placeName>· καιρὸς ὁ χρόνος, ὅθεν καὶ καίριον, τὸ ἔγκαιριον· καιροφυλακῶ· καιροσκοπῶ· καιρία πληγὴ, ὁ θανάσιμος· καικίας, ἄνεμος· Καινεὺς, κύριον, καὶ κλίνεται Καινέως· καίω, ῥῆμα, τὸ φλογίζω· καὶ καίνω, τὸ κόπτω, ὅθεν καὶ καινὶς, ἡ μάχαιρα.<note
+            type="textual"/><note type="discussion">Ed. Boissonade 1819 [cited by page]</note><note type="corrigenda"/><idno type="CTS-URN"/><ref target=""/></ab>
+         <ab type="translation"
+            >Besides kai, the conjunction; kainon, the new and incredible, from which we also get kainotomia, a new practice or paradox; kainotomo, verb “to render new”; Kaisar, Kaisaros; <placeName>Kaisareia</placeName> the city, and Kaisareus, the man from <placeName>Kaisareia</placeName>; kairos, the time, from which we also get kairion, engkairion; kairophylako; kairoskopo; kairia plege, the death-blow; kaikias, wind; Kaineus, proper noun, declined Kaineos; kaio, verb, “to set afire”; and kaino, verb “to cut”, from which we also get kainis, knife.<note
+            type="translation">Trans. J. L. Rife</note><note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/><ref target=""/></ab>
          <listBibl>
             <head>Works Cited</head>
-            <bibl>Jean Françoise Boissonade, ed., Ἠρωδιανοῦ Ἐπιμερισμοί. Herodiani Partitiones,
-               London: Black &amp; Sons, 1819; repr. Amsterdam: Hakkert, 1963<ptr target=""
-                  /><citedRange unit="p">63</citedRange><citedRange unit="section"/></bibl>
+            <bibl>
+               <ptr target="https://www.zotero.org/groups/2320447/items/UPCYXMFD"/>
+               <citedRange unit="p">63</citedRange>
+               <citedRange unit="section"/>
+            </bibl>
             <bibl>
                <ptr/>
                <citedRange unit=""/>
@@ -296,9 +288,11 @@
          </listBibl>
          <listBibl>
             <head>Additional Bibliography</head>
-            <bibl>Eleanor Dickey, “A Catalogue of Works Attributed to the Grammarian Herodian,”
-               Classical Philology 109 (2014) pp. 325-345<ptr target=""/><citedRange unit=""
-                  /><citedRange unit=""/></bibl>
+            <bibl>
+               <ptr target="https://www.zotero.org/groups/2320447/items/MUALGQEU"/>
+               <citedRange unit="p">325-345</citedRange>
+               <citedRange unit=""/>
+            </bibl>
             <bibl>
                <ptr target=""/>
                <citedRange unit=""/>
