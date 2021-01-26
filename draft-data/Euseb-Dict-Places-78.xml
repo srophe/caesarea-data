@@ -1,5 +1,5 @@
 <?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-entry.css"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -250,6 +250,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc status="draft">
+         <change who="" when="">ADDED: testimonium ID, URNs, URLs to edition and translation, and Bibl URIs</change>
          <change who="jrife" when="">CREATED: testimonium</change>
       </revisionDesc>
    </teiHeader>
@@ -263,7 +264,7 @@
          <ab type="edition">Δῶρ τοῦ Ναφάθ. Σʹ Δὼρ “τῆς παραλίας”, αὕτη ἐστὶ Δῶρα ἡ πρὸς $Καισάρειαν%
             τῆς Παλαιστίνης ἀπὸ σημείων θʹ ἀπιόντων Τυρὸν, νῦν ἔρημος, ἣν οὐκ ἔλαβεν ἡ φυλὴ Μανασσῆ,
             ὅτι μὴ ἀνεῖλεν τοὺς ἐν αὐτῇ ἀλλοφύλους.<note>Ed. Klosterman 1904 [cited by
-               page]</note><note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"
+               page]</note><note type="textual"/><note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"
                /><ref target=""/></ab>
          <ab type="translation">Dor of Nafath. Symmachus: Dor “by the Sea”. This is the Dor near
             Caesarea Palestinae, nine milestones away for those travelling to Tyre, now deserted,

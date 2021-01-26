@@ -1,5 +1,5 @@
 <?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-entry.css"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -250,6 +250,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc status="draft">
+         <change who="" when="">ADDED: testimonium ID, URNs, URLs to edition and translation, and Bibl URIs</change>
          <change who="jrife" when="">CREATED: testimonium</change>
       </revisionDesc>
    </teiHeader>
@@ -268,8 +269,7 @@
             Ἀλεξάνδρεια, Ἀπάμεια, $Καισάρεια%, Ἀντιόχεια, Θέσπεια· τὸ δὲ ὀξυτόνως λεγόμενον Θεσπιά
             διὰ τοῦ -ι· τὰ δὲ ἐπὶ χώρας ὄντα διὰ τοῦ -ι γράφεται καὶ παροξύνεται, Λυκία, Πισιδία,
             Κιλικία, Σικελία, Παφλαγονία, Ἀρμενία, Συρία, Καππαδοκία, Ἰταλία, Ἀσία, Θεσσαλία,
-            Βοιωτία, Βιθυνία, Ἰτουρία.<note>Ed. Lentz 1868 [cited by page-line]</note><note
-               type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/><ref target=""
+            Βοιωτία, Βιθυνία, Ἰτουρία.<note>Ed. Lentz 1868 [cited by page-line]</note><note type="textual"/><note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/><ref target=""
             /></ab>
          <ab type="translation">Feminine proparoxytone nouns for cities in -eia have a diphthong,
             e.g., Alexandreia, Apameia, Kaisareia, Antiocheia, Thespeia. Thespia in -i is a noun

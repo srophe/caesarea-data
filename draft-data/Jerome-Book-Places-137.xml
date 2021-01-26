@@ -1,5 +1,5 @@
 <?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-entry.css"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -250,6 +250,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc status="draft">
+         <change who="" when="">ADDED: testimonium ID, URNs, URLs to edition and translation, and Bibl URIs</change>
          <change who="jrife" when="">CREATED: testimonium</change>
       </revisionDesc>
    </teiHeader>
@@ -266,7 +267,7 @@
             information is recorded in the parallel passage at Eusebius, Dictionary of Place Names
             136, written roughly one century before Jerome’s work.</desc>
          <ab type="edition">Nefeddor, quod Symmachus interpretatur Maritimam. Dor autem est oppidum
-            iam desertum in nono miliario Caesareae pergentibus Ptolomaïdem.<note type="discussion"
+            iam desertum in nono miliario Caesareae pergentibus Ptolomaïdem.<note type="textual"/><note type="discussion"
                >Ed. Klosterman 1904 [cited by page]</note><note type="corrigenda"/><idno
                type="CTS-URN"/><ref target=""/></ab>
          <ab type="translation">Nefeddor, which Symmachus translates Maritima. Dor is a city now

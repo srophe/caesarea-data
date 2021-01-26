@@ -1,5 +1,5 @@
 <?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-entry.css"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -248,6 +248,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc status="draft">
+         <change who="" when="">ADDED: testimonium ID, URNs, URLs to edition and translation, and Bibl URIs</change>
          <change who="jrife" when="">CREATED: testimonium</change>
       </revisionDesc>
    </teiHeader>
@@ -272,7 +273,7 @@
             ᾱ μὲν καθαρὸν οἷον μαῖα μαίας, γραῖα γραίας, γαῖα γαίας, Μήδεια Μηδείας (τὸ γὰρ “Μηδείης
             ὑπ᾿ ἔρωτι” Ἰωνικόν ἐστι), Κράτεια Κρατείας, Ἀλεξάνδρεια Ἀλεξανδρείας, $Καισάρεια%
             $Καισαρείας%, Ἀντιόχεια Ἀντιοχείας.<note>Ed. Hilgard 1889 [cited by
-               page-line]</note><note type="discussion"/><note type="corrigenda"/><idno
+               page-line]</note><note type="textual"/><note type="discussion"/><note type="corrigenda"/><idno
                type="CTS-URN"/><ref target=""/></ab>
          <ab type="translation">As for feminine nouns ending -a, if they have pure -a (i.e., no
             preceding consonant), r before -a, or long -a, it persists also in the genitive, I mean

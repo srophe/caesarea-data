@@ -1,5 +1,5 @@
 <?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-entry.css"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -250,6 +250,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc status="draft">
+         <change who="" when="">ADDED: testimonium ID, URNs, URLs to edition and translation, and Bibl URIs</change>
          <change who="jrife" when="">CREATED: testimonium</change>
       </revisionDesc>
    </teiHeader>
@@ -265,7 +266,7 @@
             2nd century C.E. The same information is recorded in the parallel passage at Jerome,
             Book of Places 137, written roughly one century after Eusebius’ work.</desc>
          <ab type="edition">Ναφεθδώρ. Σʹ ἐν τῇ παραλίᾳ Δώρᾳ. αὕτη ἐστὶν ἀπὸ θʹ σημείων
-               $Καισαρείας%.<note>Ed. Klosterman 1904 [cited by page]</note><note type="discussion"
+               $Καισαρείας%.<note>Ed. Klosterman 1904 [cited by page]</note><note type="textual"/><note type="discussion"
                /><note type="corrigenda"/><idno type="CTS-URN"/><ref target=""/></ab>
          <ab type="translation">Nafethdor. Symmachus for Dora “by the Sea”. This is nine milestones
             from Caesarea.<note type="translation">Trans. J. L. Rife</note><note type="discussion"

@@ -1,5 +1,5 @@
 <?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-entry.css"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -250,6 +250,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc status="draft">
+         <change who="" when="">ADDED: testimonium ID, URNs, URLs to edition and translation, and Bibl URIs</change>
          <change who="jrife" when="">CREATED: testimonium</change>
       </revisionDesc>
    </teiHeader>
@@ -284,7 +285,7 @@
             similem nobis in incerto casu, et non omnia quae habemus nos, communicamus tecum? sed
             tantum nos feliciter navigemus.” Petrus autem oblationi illius gratias agens, ipse autem
             in navi jejunabat, lugens animo et iterum comfortans se, quod deus dignum eum habuisset
-            in ministerio suo ministrum.<note type="discussion">Ed. Lipsius 1891 [cited by
+            in ministerio suo ministrum.<note type="textual"/><note type="discussion">Ed. Lipsius 1891 [cited by
                page-line]</note><note type="corrigenda">epsimenia: Apparent Latin transliteration of
                Greek ἡψημένα.</note><idno type="CTS-URN"/><ref target=""/></ab>
          <ab type="translation">While they were grieving and fasting, God was already preparing
