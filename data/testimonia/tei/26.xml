@@ -279,6 +279,7 @@
       </ab>
       <desc type="abstract" xml:id="abstract26-1">
     <quote><placeName xml:lang="grc">Καισάρειαν</placeName></quote>, and <quote><placeName xml:lang="en">Cesarea</placeName></quote> are place names attested in <persName ref="http://viaf.org/viaf/22143666" role="author">Josephus</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg004" type="uniform" level="m">The Jewish War</title> 2.266. This testimonium was written circa <origDate period="#nabateanKingdom #earlyRoman #herodian" notBefore="0070" notAfter="0090">70 - 90 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+      <desc type="context"/>
       <ab type="edition" xml:lang="grc" xml:id="quote26-1" source="#bib26-1">
         <anchor xml:id="testimonia-26.grc.1" corresp="testimonia-26.en.1"/>
         Ἑτέρα δὲ ταραχὴ συνίσταται περὶ <placeName xml:lang="grc">Καισάρειαν</placeName> τῶν ἀναμεμιγμένων Ἰουδαίωνπρὸς τοὺς ἐν αὐτῇ Σύρους στασιασάντων. οἱμὲν γὰρ ἠξίουν σφετέραν εἶναι τὴν πόλινἸουδαῖον γεγονέναι τὸν κτίστην αὐτῆςλέγοντες: ἦν δὲ Ἡρώδης ὁ βασιλεύς: οἱ δὲἕτεροι τὸν οἰκιστὴν μὲν προσωμολόγουνἸουδαῖον, αὐτὴν μέντοι γε τὴν πόλιν Ἑλλήνωνἔφασαν: οὐ γὰρ ἂν ἀνδριάντας καὶ ναοὺςἐγκαθιδρῦσαι Ἰουδαίοις αὐτὴν ἀνατιθέντα.

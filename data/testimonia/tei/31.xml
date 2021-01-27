@@ -278,6 +278,7 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/31</idno>
       </ab>
       <desc type="abstract" xml:id="abstract31-1"> are place names attested in <persName ref="http://viaf.org/viaf/22143666" role="author">Josephus</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg004" type="uniform" level="m">The Jewish War</title> 3.410. This testimonium was written circa <origDate period="#nabateanKingdom #earlyRoman #herodian" notBefore="0070" notAfter="0090">70 - 90 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+      <desc type="context"/>
       <ab type="edition" xml:lang="grc" xml:id="quote31-1" source="#bib31-1">
         <anchor xml:id="testimonia-31.grc.1" corresp="testimonia-31.en.1"/>
         ἐδέχοντο δὲ καὶ τὴν στρατιὰν καὶ τὸνστρατηγὸν μετὰ πάσης εὐφημίας καὶφιλοφροσύνης οἱ ἐπιχώριοι, καὶ κατ᾽εὔνοιαν μὲν τὴν πρὸς Ῥωμαίους, τὸ δὲ πλέονἔχθει τῶν κατεστραμμένων: διὸ καὶ τὸνἸώσηπον ἀθρόοι καταβοῶντες ἠξίουνκολάζειν.

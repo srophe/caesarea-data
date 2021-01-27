@@ -264,6 +264,7 @@
       </ab>
       <desc type="abstract" xml:id="abstract191-1">
         <quote><placeName xml:lang="grc">Καισαρείας.</placeName></quote>,  and <quote><placeName xml:lang="en">city of Cæsarea.</placeName></quote> are place names attested in <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg003" type="uniform" level="m">Martyrs of Palestine</title> 8.3. This testimonium was written circa <origDate period="#lateRoman" notBefore="0315" notAfter="0316">315 – 316 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
+      <desc type="context"/>
       <ab type="edition" xml:lang="grc" xml:id="quote191-1" source="#bib191-1">
         <anchor xml:id="testimonia-191.grc.1" corresp="testimonia-191.en.1"/>ἤδη δὲ οὐκ ἐπιτρόποις αὐτὸ μόνον οἱ δηλούμενοι, ἀλλὰ καὶ αὐτῷ Μαξιμίνῳ τούτου γε ἕνεκεν παραστάντες γενναιοτάτην ἔνστασιν ὁμολογίας διὰ λιμοῦ καρτερίας καὶ μαστίγων ὑπομονῆς ἐνδειξάμενοι, τὰ ὅμοια τοῖς δηλωθεῖσι πεπόνθασι, μεθ’ ἑτέρων προστεθέντων αὐτοῖς ὁμολογητῶν αὐτῆς τῆς <placeName xml:lang="grc">Καισαρείας.</placeName>
       <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg003.opp-grc1:8.3</idno>

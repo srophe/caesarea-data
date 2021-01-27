@@ -335,6 +335,7 @@
           period="#nabateanKingdom #earlyRoman" notBefore="0100" notAfter="0110">100 - 110
           CE</origDate>. This work was likely written in <origPlace
           ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+      <desc type="context"/>
       <ab type="edition" xml:lang="la" xml:id="quote44-1" source="#bib44-1">
         <anchor xml:id="testimonia-44.la.1" corresp="testimonia-44.en.1"/> haud dubia destinatione
         discessere Mucianus Antiochiam, Vespasianus <placeName xml:lang="la">Caesaream</placeName>:
