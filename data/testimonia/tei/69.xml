@@ -284,12 +284,18 @@
       <ab type="edition" xml:lang="grc" xml:id="quote69-1" source="#bib69-1">
         <anchor xml:id="testimonia-69.grc.1" corresp="testimonia-69.en.1"/>
         ἀνοίξας δὲ Πέτρος τὸ στόμαεἶπεν Ἐπʼ ἀληθείαςκαταλαμβάνομαι ὅτι: "οὐκ ἔστιν προσωπολήμπτης ὁθεός," 
+        <note type="textual"/> 
+        <note type="discussion"/> 
+        <note type="corrigenda"/> 
         <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg0031.tlg005.perseus-grc2:10.34</idno>
         <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg0031.tlg005.perseus-grc2:10.34"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote69-2" source="#bib69-2">
         <anchor xml:id="testimonia-69.en.1" corresp="testimonia-69.grc.1"/>
         Peter opened his mouth and said, "Truly I perceive that God doesn't show favoritism;
+      <note type="translation"/>
+      <note type="discussion"/>
+      <note type="corrigenda"/>
       <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg0031.tlg005.perseus-eng2:10.34</idno>
         <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg0031.tlg005.perseus-eng2:10.34"/>
       </ab>

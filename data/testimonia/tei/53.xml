@@ -283,6 +283,9 @@
       <desc type="context"/>
       <ab type="edition" xml:lang="grc" xml:id="quote53-1" source="#bib53-1">
         ὅσοι μὲν οὖν ἔν τε <placeName xml:lang="grc">Καισαρείᾳ</placeName> τῇ ἐμῇ κὰν ταῖς ἄλλαις πόλεσιν ᾤκουν, παρὰ φαῦλον ἡγησάμενοι κακοπάθειάν τινα ὑπὲρ ἀνοήτου φέρεσθαιδόγματος, ὄνομα Χριστιανῶν τοῦ σφίσι παρόντος ἀνταλλαξάμενοι τῷπροσχήματι τούτῳ τὸν ἐκ τοῦ νόμου ἀποσείσασθαι κίνδυνον ἴσχυσαν.
+      <note type="textual"/>
+      <note type="discussion"/>
+      <note type="corrigenda"/>
       <idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg4029.tlg002.perseus-grc1:11.25</idno>
         <ref target="http://data.perseus.org/citations/urn:cts:greekLit:tlg4029.tlg002.perseus-grc1:11.25"/>
       </ab>

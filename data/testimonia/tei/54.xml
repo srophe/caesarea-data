@@ -282,6 +282,9 @@
       <desc type="context"/>
       <ab type="edition" xml:lang="grc" xml:id="quote54-1" source="#bib54-1">
         καὶ λέγονται μυριάδες ἀνθρώπων δέκα ἐν τῷ πόνῳ τούτῳ ἀπολωλέναι, καὶ χώρα ἡ πάσης γῆς ἀγαθὴ μάλιστα ἔρημος γεωργῶν ἀπ̓ αὐτοῦ γέγονε.
+      <note type="textual"/>
+      <note type="discussion"/>
+      <note type="corrigenda"/>
       <idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg4029.tlg002.perseus-grc1:11.29</idno>
         <ref target="http://data.perseus.org/citations/urn:cts:greekLit:tlg4029.tlg002.perseus-grc1:11.29"/>
       </ab>

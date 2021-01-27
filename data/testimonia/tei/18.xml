@@ -284,12 +284,18 @@
       <ab type="edition" xml:lang="grc" xml:id="quote18-1" source="#bib18-1">
         <anchor xml:id="testimonia-18.grc.1" corresp="testimonia-18.en.1"/>
         ἠλευθέρωσεν δὲ ἀπ᾽ αὐτῶν καὶ τὰς ἐντῇ μεσογείᾳ πόλεις, ὅσας μὴ φθάσαντεςκατέσκαψαν, Ἵππον Σκυθόπολίν τε καὶΠέλλαν καὶ Σαμάρειαν καὶ Ἰάμνειαν καὶΜάρισαν Ἄζωτόν τε καὶ Ἀρέθουσαν, ὁμοίωςδὲ καὶ τὰς παραλίους Γάζαν Ἰόππην Δῶρακαὶ τὴν πάλαι μὲν <placeName xml:lang="grc">Στράτωνος πύργον</placeName> καλουμένην, ὕστερον δὲ μετακτισθεῖσάν τεὑφ᾽ Ἡρώδου βασιλέως λαμπροτάτοιςκατασκευάσμασιν καὶ μετονομασθεῖσαν <placeName xml:lang="grc">Καισάρειαν</placeName>.
+      <note type="textual"/>
+      <note type="discussion"/>
+      <note type="corrigenda"/>
       <idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg0526.tlg004.perseus-grc1:1.156</idno>
         <ref target="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-grc1:1.156"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote18-2" source="#bib18-2">
         <anchor xml:id="testimonia-18.en.1" corresp="testimonia-18.grc.1"/>
         He also made other cities free from their dominion, that lay in the midst of the country, such, I mean, as they had not demolished before that time; Hippos, and Scythopolis, as also Pella, and Samaria, and Marissa; and besides these Ashdod, and Jamnia, and Arethusa; and in like manner dealt he with the maritime cities, Gaza, and Joppa, and Dora, and that which was anciently called <placeName xml:lang="en">Strato's Tower</placeName>, but was afterward rebuilt with the most magnificent edifices, and had its name changed to <placeName xml:lang="en">Cesarea</placeName>, by king Herod
+      <note type="translation"/>
+      <note type="discussion"/>
+      <note type="corrigenda"/>
       <idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.155</idno>
         <ref target="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.155"/>
       </ab>

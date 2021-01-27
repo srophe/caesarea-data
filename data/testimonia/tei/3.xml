@@ -293,12 +293,18 @@
       <ab type="edition" xml:lang="grc" xml:id="quote3-1" source="#bib3-1">
         <anchor xml:id="testimonia-3.grc.1" corresp="testimonia-3.en.1"/>
         οἰόμενος δὲ κατὰ τῆς χώρας οὐδὲν ἔλαττον ἰσχυροποιεῖν τὸν τόπον, ἀπέχοντα μὲν Ἱεροσολύμων μιᾶς ὁδὸν ἡμέρας, εὔχρηστον δ᾽ ὄντα καὶ κοινὸν ἐπί τε τοῖς ἐν τῇ πόλει καὶ τῇ χώρᾳ γενησόμενον. τῷ δὲ ἔθνει παντὶ φρούριον ἐνῳκοδόμησεν τὸ πάλαι μὲν καλούμενον <placeName>Στράτωνος πύργον</placeName>, <placeName>Καισάρειαν</placeName> δ᾽ ὑπ᾽ αὐτοῦ προσαγορευθέν.
+      <note type="textual"/>
+      <note type="discussion"/>
+      <note type="corrigenda"/>
       <idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg0526.tlg001.perseus-grc1:15.293</idno>
         <ref target="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg001.perseus-grc1:15.293"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote3-2" source="#bib3-2">
         <anchor xml:id="testimonia-3.en.1" corresp="testimonia-3.grc.1"/>
         So he fortified that place, which was a day's journey distant from Jerusalem, and which would be useful to him in common, to keep both the country and the city in awe. He also built another fortress for the whole nation; it was of old called <placeName>Strato's Tower</placeName>, but was by him named <placeName>Cesarea</placeName>.
+      <note type="translation"/>
+      <note type="discussion"/>
+      <note type="corrigenda"/>
       <idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg0526.tlg001.perseus-eng1:15.292</idno>
         <ref target="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg001.perseus-eng1:15.292"/>
       </ab>

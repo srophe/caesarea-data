@@ -284,12 +284,18 @@
       <ab type="edition" xml:lang="grc" xml:id="quote40-1" source="#bib40-1">
         <anchor xml:id="testimonia-40.grc.1" corresp="testimonia-40.en.1"/>
         Τοιαύτης δὲ τῆς ἁλώσεως γενομένης ἐπὶ μὲντοῦ φρουρίου καταλείπει φυλακὴν ὁστρατηγός, αὐτὸς δὲ μετὰ τῆς δυνάμεωςἀπῆλθεν εἰς <placeName xml:lang="grc">Καισάρειαν</placeName>.
+      <note type="textual"/>
+      <note type="discussion"/>
+      <note type="corrigenda"/>
       <idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg0526.tlg004.perseus-grc1:7.407</idno>
         <ref target="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-grc1:7.407"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote40-2" source="#bib40-2">
         <anchor xml:id="testimonia-40.en.1" corresp="testimonia-40.grc.1"/>
         When Masada was thus taken, the general left a garrison in the fortress to keep it, and he himself went away to <placeName xml:lang="en">Cesarea</placeName>;
+      <note type="translation"/>
+      <note type="discussion"/>
+      <note type="corrigenda"/>
       <idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:7.407</idno>
         <ref target="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:7.407"/>
       </ab>

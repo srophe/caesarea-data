@@ -344,7 +344,7 @@
         isque primus principatus dies in posterum celebratus, quamvis Iudaicus exercitus quinto
         nonas Iulias apud ipsum iurasset, eo ardore ut ne Titus quidem filius expectaretur, Syria
         remeans et consiliorum inter Mucianum ac patrem nuntius. cuncta impetu militum acta non
-        parata contione, non coniunctis legionibus. <idno type="CTS-URN" xml:base=""
+        parata contione, non coniunctis legionibus. <note type="textual"/> <note type="discussion"/> <note type="corrigenda"/> <idno type="CTS-URN" xml:base=""
           >urn:cts:latinLit:phi1351.phi004.perseus-lat2:2.82-2.83</idno>
         <ref target="urn:cts:latinLit:phi1351.phi004.perseus-lat2:2.82-2.83"/>
       </ab>
@@ -359,7 +359,7 @@
         not wait for the return of his son Titus, who was then on his way back from Syria, acting as
         the medium between Mucianus and his father for the communication of their plans. All this
         was done by the impulsive action of the soldiers without the preliminary of a formal
-        harangue or any concentration of the legions. <idno type="CTS-URN"
+        harangue or any concentration of the legions. <note type="translation"/> <note type="discussion"/> <note type="corrigenda"/> <idno type="CTS-URN"
           xml:base="http://data.perseus.org/citations/"
           >urn:cts:latinLit:phi1351.phi004.perseus-eng1:2.79</idno>
         <ref

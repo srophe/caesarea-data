@@ -284,12 +284,18 @@
       <ab type="edition" xml:lang="grc" xml:id="quote5-1" source="#bib5-1">
         <anchor xml:id="testimonia-5.grc.1" corresp="testimonia-5.en.1"/>
         κἀκεῖνος μὲν εἴξας λιπαρῶς ἐγκειμένου ἧκεν εἰς τὴν Ἰουδαίαν, Ἡρώδης δὲ οὐδὲν ἀρεσκείας ἀπέλιπεν ἔν τε ταῖς νεοκτίστοις πόλεσιν ὑποδεχόμενος αὐτὸν καὶ μετὰ τοῦ τὰς κατασκευὰς ἐπιδεικνύναι πᾶσαν ἀπόλαυσιν διαίτης καὶ πολυτελείας ἐξαλλάττων αὐτῷ καὶ τοῖς φίλοις ἔν τε <placeName xml:lang="grc">τῇ Σεβαστῇ</placeName> καὶ <placeName xml:lang="grc">Καισαρείᾳ</placeName> περὶ τὸν λιμένα τὸν ὑπ᾽ αὐτοῦ κατεσκευασμένον κἀν τοῖς ἐρύμασιν, ἃ πολλαῖς δαπάναις ἐξῳκοδόμησεν, τό τε Ἀλεξάνδρειον καὶ Ἡρώδειον καὶ τὴν Ὑρκανίαν.
+      <note type="textual"/>
+      <note type="discussion"/>
+      <note type="corrigenda"/>
       <idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg0526.tlg001.perseus-grc1:16.13</idno>
         <ref target="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg001.perseus-grc1:16.13"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote5-2" source="#bib5-2">
         <anchor xml:id="testimonia-5.en.1" corresp="testimonia-5.grc.1"/>
         This request he greatly pressed, and to it Agrippa agreed, and came into Judea; whereupon Herod omitted nothing that might please him. He entertained him in his new-built cities, and showed him the edifices he had built, and provided all sorts of the best and most costly dainties for him and his friends, and that at <placeName xml:lang="en">Sebaste</placeName> and <placeName xml:lang="en">Cesarea</placeName>, about that port that he had built, and at the fortresses which he had erected at great expenses, Alexandrium, and Herodium, and Hyrcania.
+      <note type="translation"/>
+      <note type="discussion"/>
+      <note type="corrigenda"/>
       <idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg0526.tlg001.perseus-eng1:16.12</idno>
         <ref target="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg001.perseus-eng1:16.12"/>
       </ab>

@@ -285,12 +285,18 @@
       <ab type="edition" xml:lang="grc" xml:id="quote33-1" source="#bib33-1">
         <anchor xml:id="testimonia-33.grc.1" corresp="testimonia-33.en.1"/>
         Ὁ μὲν Τίτος ὃν προειρήκαμεν τρόπονδιοδεύσας τὴν ὑπὲρ Αἰγύπτου μέχρι Συρίαςἐρημίαν εἰς <placeName xml:lang="grc">Καισάρειαν</placeName> παρῆν ταύτῃδιεγνωκὼς προσυντάξασθαι τὰς δυνάμεις.
+      <note type="textual"/>
+      <note type="discussion"/>
+      <note type="corrigenda"/>
       <idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg0526.tlg004.perseus-grc1:5.1</idno>
         <ref target="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-grc1:5.1"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote33-2" source="#bib33-2">
         <anchor xml:id="testimonia-33.en.1" corresp="testimonia-33.grc.1"/>
         When therefore Titus had marched over that desert which lies between Egypt and Syria, in the manner forementioned, he came to <placeName xml:lang="en">Cesarea</placeName>, having resolved to set his forces in order at that place, before he began the war.
+      <note type="translation"/>
+      <note type="discussion"/>
+      <note type="corrigenda"/>
       <idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:5.1</idno>
         <ref target="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:5.1"/>
       </ab>
