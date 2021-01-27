@@ -298,6 +298,10 @@
           <citedRange unit="section">8.3</citedRange>
         </bibl>
       </listBibl>
+        <note type="related-texts"/>
+        <note type="geography"/>
+        <note type="prosopography"/>
+        <note type="themes"/>
     </body>
   </text>
 </TEI>

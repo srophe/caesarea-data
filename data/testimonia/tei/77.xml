@@ -294,6 +294,10 @@
           <citedRange unit="section">24.1-24.27</citedRange>
         </bibl>
       </listBibl>
+        <note type="related-texts"/>
+        <note type="geography"/>
+        <note type="prosopography"/>
+        <note type="themes"/>
     </body>
   </text>
 </TEI>
