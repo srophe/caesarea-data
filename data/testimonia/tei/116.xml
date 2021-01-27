@@ -173,6 +173,9 @@
             <category xml:id="babylonianAndPersian">
               <catDesc>Babylonian and Persian Periods, 585-331 BCE</catDesc>
             </category>
+            <category xml:id="classicalPeriod">
+                <catDesc>Classical Period, 480-336 BCE</catDesc>
+            </category>
             <category xml:id="earlyHellenistic">
               <catDesc>Early Hellenistic Period, 331-166 BCE</catDesc>
             </category>
