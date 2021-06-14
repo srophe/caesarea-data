@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title xml:lang="en" level="a">Unknown, <title level="m">Ways and Pilgrimages of the Holy
+               Land B</title> 1.1-1.3</title>
+        <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
+            <sponsor>Vanderbilt University</sponsor>
+            <principal>Joseph L. Rife</principal>
+            <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
+            <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#plieberman">Phillip I. Lieberman</editor>
+            <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#dmichelson">David A. Michelson</editor>
+            <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</editor>
+            <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
+        <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#"/>
+        <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
+            
+            <respStmt>
+          <resp>TEI encoding by</resp>
+          <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
+        </respStmt>
+        <respStmt>
+          <resp>URNs and other metadata added by</resp>
+          <name ref="https://caesarea-maritima.org/documentation/editors.xml#"/>
+        </respStmt>
+        <respStmt>
+          <resp>Electronic text added by</resp>
+          <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
+        </respStmt>
+        <respStmt>
+               <resp>Testimonia identified by</resp>
+               <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
+            </respStmt>
+        
+         </titleStmt>
+         <editionStmt>
+            <edition n="1.0"/>
+         </editionStmt>
+      
+         <publicationStmt>
+            <authority>Caesarea City and Port Exploration Project</authority>
+        
+            <idno type="URI">https://caesarea-maritima.org/testimonia/180/tei</idno>
+        
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under a Creative Commons Attribution 4.0 Unported License.</p>
+               </licence>
+          
+            </availability>
+            <date>2021-06-14-05:00</date>
+        
+         </publicationStmt>
+         <seriesStmt>
+            <title level="s" xml:lang="en">Caesarea-Maritima.org: A Digital Archive</title>
+            <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
+            <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#plieberman">Phillip I. Lieberman</editor>
+         </seriesStmt>
+      
+         <sourceDesc>
+            <p>Born digital.</p>
+         </sourceDesc>
+      
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>Authors of testimonia are identified with URIs from The Virtual International Authority File, see <ref target="http://viaf.org">http://viaf.org</ref>. When multiple VIAF URIs exist, preference has been given to VIAF record linked to the Library of Congress authority file.</p>
+            <p>Geographic locations are identified with URIs from Pleiades: A Gazetteer of Past Places, see <ref target="https://pleiades.stoa.org/docs">https://pleiades.stoa.org/docs</ref>.</p>
+            <p>When possible, textual works have been cited using URNs according to the Distributed Text Services (DTS) system, see <ref target="https://distributed-text-services.github.io/specifications">https://distributed-text-services.github.io/specifications</ref>). Additional identifiers have been adopted from the systems used by the Perseus Digital Library (<ref target="http://www.perseus.tufts.edu/hopper">http://www.perseus.tufts.edu</ref>), Syriaca.org (<ref target="http://syriaca.org">http://syriaca.org</ref>), and other relevant authority systems such as WorldCat Identities or OCLC numbers (<ref target="https://www.worldcat.org">https://www.worldcat.org</ref>).</p>
+            <p>Bibliographic items are identified by a caesarea-maritima.org URI, which is linked, when possible to OCLC numbers and other identifiers.</p>
+            <p>Dates have been encoded following the ISO 8601 standard, <ref target="https://www.iso.org/iso-8601-date-and-time-format.html">https://www.iso.org/iso-8601-date-and-time-format.html</ref>, and the best practices established by for the Srophé App, see <ref target="http://srophe.app">http://srophe.app</ref>.</p>
+            <p>Languages have been encoded using ISO 639-1, 639-2, and 639-3 codes, following best practices of the TEI guidelines.</p>
+         </editorialDecl>
+      
+         <classDecl>
+        <taxonomy xml:id="CM-NEAEH">
+          
+               <desc>
+                  <title>Caesarea-Maritima.org Chronology</title>: This chronology is adapted from the chronology used in <bibl>
+                     <title>The New Encyclopedia of Archaeological Excavations in the Holy Land</title>
+                     <ptr target="https://caesarea-maritima.org/bibl/HG492LV3"/>
+                  </bibl>.  This taxonomy is used in the <gi>catRef</gi> encoding to classify the testimonia according to the time period(s) of the events described, rather than the date of composition of the testimonium. For example, Josephus may describe events occuring well before the period of his writing.
+               </desc>
+               <category xml:id="lowerPaleolithic">
+                  <catDesc>Lower Paleolithic, 999999-119999 BCE</catDesc>
+               </category>
+               <category xml:id="upperAcheulean">
+                  <catDesc>Upper Acheulean, 498050-148050 BP</catDesc>
+               </category>
+               <category xml:id="acheulean">
+                  <catDesc>Acheulean, 298050-148050 BP</catDesc>
+               </category>
+               <category xml:id="mousterian">
+                  <catDesc>Mousterian, 138050-38050 BP</catDesc>
+               </category>
+               <category xml:id="middlePaleolithic">
+                  <catDesc>Middle Paleolithic, 119999-44999 BCE</catDesc>
+               </category>
+               <category xml:id="upperPaleolithic">
+                  <catDesc>Upper Paleolithic, 44999-17999 BCE</catDesc>
+               </category>
+               <category xml:id="kebaran">
+                  <catDesc>Kebaran , 18050-13050 BP</catDesc>
+               </category>
+               <category xml:id="epipaleolithic">
+                  <catDesc>Epipaleolithic, 17999-8299 BCE</catDesc>
+               </category>
+               <category xml:id="geometricKebaran">
+                  <catDesc>Geometric Kebaran, 12499-10899 BCE</catDesc>
+               </category>
+               <category xml:id="natufianCulture">
+                  <catDesc>Natufian Culture, 10799-8499 BCE</catDesc>
+               </category>
+               <category xml:id="pre-potteryNeolithic">
+                  <catDesc>Pre-Pottery Neolithic, 8299-5499 BCE</catDesc>
+               </category>
+               <category xml:id="potteryNeolithic">
+                  <catDesc>Pottery Neolithic, 5499-4499 BCE</catDesc>
+               </category>
+               <category xml:id="chalcolithic">
+                  <catDesc>Chalcolithic, 4499-3299 BCE</catDesc>
+               </category>
+               <category xml:id="earlyBronzeAge">
+                  <catDesc>Early Bronze Age, 3299-2199 BCE</catDesc>
+               </category>
+               <category xml:id="bronzeAge">
+                  <catDesc>Bronze Age, 3299-1199 BCE</catDesc>
+               </category>
+               <category xml:id="earlyBronzeAgeIa-b">
+                  <catDesc>Early Bronze Age IA-B, 3299-2999 BCE</catDesc>
+               </category>
+               <category xml:id="earlyBronzeAgeIi">
+                  <catDesc>Early Bronze Age II, 2999-2699 BCE</catDesc>
+               </category>
+               <category xml:id="earlyBronzeAgeIii">
+                  <catDesc>Early Bronze Age III, 2699-2199 BCE</catDesc>
+               </category>
+               <category xml:id="middleBronzeAge">
+                  <catDesc>Middle Bronze Age, 2199-1549 BCE</catDesc>
+               </category>
+               <category xml:id="middleBronzeAgeI">
+                  <catDesc>Middle Bronze Age I, 2199-1999 BCE</catDesc>
+               </category>
+               <category xml:id="middleBronzeAgeIia">
+                  <catDesc>Middle Bronze Age IIA, 1999-1749 BCE</catDesc>
+               </category>
+               <category xml:id="middleBronzeAgeIib">
+                  <catDesc>Middle Bronze Age IIB, 1749-1549 BCE</catDesc>
+               </category>
+               <category xml:id="lateBronzeAge">
+                  <catDesc>Late Bronze Age, 1599-1200 BCE</catDesc>
+               </category>
+               <category xml:id="lateBronzeAgeI">
+                  <catDesc>Late Bronze Age I, 1549-1399 BCE</catDesc>
+               </category>
+               <category xml:id="lateBronzeAgeIia">
+                  <catDesc>Late Bronze Age IIA, 1399-1299 BCE</catDesc>
+               </category>
+               <category xml:id="lateBronzeAgeIib">
+                  <catDesc>Late Bronze Age IIB, 1299-1199 BCE</catDesc>
+               </category>
+               <category xml:id="ironAge">
+                  <catDesc>Iron Age, 1199-585 BCE</catDesc>
+               </category>
+               <category xml:id="ironAgeIa">
+                  <catDesc>Iron Age IA, 1199-1149 BCE</catDesc>
+               </category>
+               <category xml:id="ironAgeIb">
+                  <catDesc>Iron Age IB, 1149-999 BCE</catDesc>
+               </category>
+               <category xml:id="ironAgeIia">
+                  <catDesc>Iron Age IIA, 999-899 BCE</catDesc>
+               </category>
+               <category xml:id="ironAgeIib">
+                  <catDesc>Iron Age IIB, 899-699 BCE</catDesc>
+               </category>
+               <category xml:id="ironIic">
+                  <catDesc>Iron IIC, 799-731 BCE</catDesc>
+               </category>
+               <category xml:id="ironAgeIic">
+                  <catDesc>Iron Age IIC, 699-585 BCE</catDesc>
+               </category>
+               <category xml:id="babylonianAndPersian">
+                  <catDesc>Babylonian and Persian Periods, 585-331 BCE</catDesc>
+               </category>
+               <category xml:id="classicalPeriod">
+                   <catDesc>Classical Period, 480-336 BCE</catDesc>
+               </category>
+               <category xml:id="earlyHellenistic">
+                  <catDesc>Early Hellenistic Period, 331-166 BCE</catDesc>
+               </category>
+               <category xml:id="hellenistic">
+                  <catDesc>Hellenistic Period, 331-36 BCE</catDesc>
+               </category>
+               <category xml:id="earlyNabatean">
+                  <catDesc>Early Nabatean Period, 331-36 BCE</catDesc>
+               </category>
+               <category xml:id="nabateanKingdom">
+                  <catDesc>Nabatean Kingdom, 167 BCE-106 CE</catDesc>
+               </category>
+               <category xml:id="lateHellenistic">
+                  <catDesc>Late Hellenistic Period, 166-36 BCE</catDesc>
+               </category>
+               <category xml:id="earlyRoman">
+                  <catDesc>Early Roman Period, 36 BCE-132 CE</catDesc>
+               </category>
+               <category xml:id="herodian">
+                  <catDesc>Herodian Period, 36 BCE-70 CE</catDesc>
+               </category>
+               <category xml:id="middleNabatean">
+                  <catDesc>Middle Nabatean Period, 24 BCE-50 CE</catDesc>
+               </category>
+               <category xml:id="lateRoman">
+                  <catDesc>Late Roman Period, 132-324 CE</catDesc>
+               </category>
+               <category xml:id="byzantine">
+                  <catDesc>Byzantine Period, 324-638 CE</catDesc>
+               </category>
+               <category xml:id="earlyIslamic">
+                  <catDesc>Early Islamic Period, 638-1099 CE</catDesc>
+               </category>
+               <category xml:id="crusader">
+                  <catDesc>Crusader Period, 1099-1291 CE</catDesc>
+               </category>
+               <category xml:id="lateIslamic">
+                  <catDesc>Late Islamic Period, 1291-1516 CE</catDesc>
+               </category>
+               <category xml:id="ottoman">
+                  <catDesc>Ottoman Period, 1516-1917 CE</catDesc>
+               </category>
+               <category xml:id="britishTerritorialAdministration">
+                  <catDesc>British Territorial Administration Period, 1870-1920 CE</catDesc>
+               </category>
+               <category xml:id="britishMandate">
+                  <catDesc>British Mandate Period, 1820-1948 CE</catDesc>
+               </category>
+               <category xml:id="modernState">
+                  <catDesc>Modern State, 1948- CE</catDesc>
+               </category>
+            </taxonomy>
+        <taxonomy xml:id="CM-Testimonia-Type">
+                <desc>
+                <title>Caesarea-Maritima.org Testimonia Typology</title>: This typology defines three subsets of testimonia employed by the project and is used in the <gi>catRef</gi> below to further categorize a given testimonia record.
+                </desc>
+                <category xml:id="direct">
+                    <catDesc>A "direct testimonium" contains a word or phrase that is a direct reference to, or name for, the conceptual place Caeseara Maritima or its environs in part or in whole. When a "direct testimonium" also contains indirect references, the classification by type is nevertheless marked only as "direct".</catDesc>
+                </category>
+                <category xml:id="indirect">
+                    <catDesc>An "indirect testimonium" makes only an indirect reference to the conceptual place Caeseara Maritima or its environs in part or in whole. This indirect reference may take the form of a common noun or may be implied by context.</catDesc>
+                </category>
+                <category xml:id="toponymic-epithet">
+                    <catDesc>A "toponymic testimonium" contains a toponymic epithet related to the conceptual place Caeseara Maritima or its environs. When a "direct testimonium" also contain a "toponymic testimonium", the testimonium is marked as belonging to both types. These two types do not always overlap and thus our data set also includes "toponymic testimonia" which are not "direct testimonia".</catDesc>
+                </category> 
+            </taxonomy>
+      </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <abstract>
+            <p/>
+         </abstract>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Ways and Pilgrimages of the Holy
+               Land B</title> <ref target="#bib180-1">1.1-1.3</ref> written by <persName role="author">Unknown</persName> in <origDate notBefore="1244" notAfter="1263" period="#crusader">1244-1263 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/1001939">Palestine</origPlace>.</creation>
+         <langUsage>
+            <language ident="fro">Old French</language>
+         </langUsage>
+         <textClass>
+            <classCode scheme="https://distributed-text-services.github.io/specifications">
+               <idno type="CTS-URN"/>
+            </classCode>
+            <catRef scheme="#CM-Testimonia-Type" target="#direct"/>
+            <catRef scheme="#CM-NEAEH" target="#ironAgeIib #earlyRoman #lateRoman #byzantine #crusader"/>
+         </textClass>
+      </profileDesc>
+      <revisionDesc status="draft">
+         <change who="" when="">ADDED: testimonium ID, URNs, URLs to edition and translation, and Bibl URIs</change>
+         <change who="jrife" when="">CREATED: testimonium</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="identifier">
+            <idno type="URI">https://caesarea-maritima.org/testimonia/180</idno>
+         </ab>
+         <desc type="abstract" xml:id="abstract180-1">
+        <quote>
+          <placeName>Sesarie</placeName>
+        </quote>, <quote>
+          <placeName>Sesairie</placeName>
+        </quote>, <quote>
+          <placeName>Sesaire</placeName>
+        </quote>,  and <quote>
+          <placeName>Caesarea</placeName>
+        </quote> are directly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Ways and Pilgrimages of the Holy
+               Land B</title> <ref target="#bib180-1">1.1-1.3</ref>. This passage was written circa <origDate notBefore="1244" notAfter="1263" period="#crusader">1244-1263 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/1001939">Palestine</origPlace>.</desc>
+         <desc type="context">Two versions of Ways and Pilgrimages of the Holy Land (A and B)
+            survive from the middle of the 13th century, both of which show a close similarity in
+            content to the Holy Pilgrimages. They both trace two circuits for pilgrims, one from
+            Acre across the Plain of Sharon and Ramla to Jerusalem and the other back to Acco from
+            Jerusalem by way of Samaria, but they vary in the density, organization, and content of
+            the geographical and biblical information. Version B, which survives at Cambridge in a
+            manuscript in Norman French copied in England during the 15th century, provides copious
+            detail concerning the sites between Acco and Ioppa. The passage on Caesarea describes
+            sites in the city’s hinterland as well as in its immediate vicinity or interior.</desc>
+         <ab type="edition" xml:lang="fro" xml:id="quote180-1" source="#bib180-1">
+        <anchor xml:id="testimonia-180.fro.1" corresp="testimonia-180.en.1"/>(1) Ki dritement veut aler en Ierusalem, primérement deit aler de Acre à
+            Caïphas, en quel chemin à mayn senestre est la Montaigne de seynte Margarete de Carme,
+            ki est à .iiij. liues de Acre. En l’un chef de la montagne est Franche vile, où seynt
+            Denys fu né, en une eglise peitite, en une petite roche contre val. En celé roche apert
+            le lui oum un bersel cave en la roche, et par derére cele eglise à mayn destre est: la
+            Fontaigne ke Denys trova e fist de ces mayns. E sachéz ke ceo est un de plus seynz lius
+            à cors de home de tote la montaigne; e pus l’em vet à un caselet host près de là, à une
+            petite descendue. (2) A l’autre chef haut de cele montaigne est une abbaye de Grissons,
+            moignes ners, où seynte Margarete fist must de miracles, e sunt là de bons sentuaries. A
+            la descendue de celé abbaye contre val est une chapele en la roche de seynt Helyes le
+            prophète, où il fist must de miracles, e en la chapele est une bone fontaigne de ewe
+            freide ke il trova e fist. En contreval à mayn senestre est un casal k’est apelé
+            Capharnaüm. A près un poi en sus est Anne, un casal où furent forgez les clous dont
+            Ihesu Crist fust clavéz en la croiz, e apert uncore le lui. En aval ante sur la mer est
+            Caïphas ke soleit iadis mut valer avant ke la cité d’Acre fust fête, kar auncienement
+            soleit aver ausi grant renom cum Acre; kar iadis Acre soleit estre un casal e Caïphas fu
+            la vile. E sachéz ke Acre n’est pas de Terre de promission ausi cum est Caïphas, kar un
+            flum devise la Terre Seynr entre Acre e Caïphas, k’est apelé le Flum de Caïphas, ke ist
+            de une fontaigne ke curt par de suth le Carmont e vent par de suth la montaigne de Seynt
+            Margarete, k’a nun la Paumére e curt en la mer e part ensi la Terre de Promission, e
+            ataunt i a d’Acre à Caïphas com de Acre à la montaigne. En après l’em veit de Caïphas à
+            Chastel Pelrin où il i a .iij. liues, e est del Temple. En contre cel chastel est un
+            seynt luy ke l’om apele Seynt Iohan de Tyr, e si ad un abeye de moygnes gris, où il i a
+            bons seintuaires, e seynt Iohan Baptiste fist mut de miracles. En sus de cel liu haut
+            sus la montaigne à main senestre est un beau liu e seint, où i a en hermitage de
+            hermites Latins, ki s’apelent frères de Carme, e si a une eglise de Nostre Dame; e si a
+            mut de bones fontaignes curantes e mut de bones herbes flairans. Del Chastel Pelrin l’om
+            vet à Sesarie; la cité sis sur la mer, où l’om trove à main destre les salines de
+            l’Hospital de Seynt Iohan. E puis sur la mer trove l’om Pan perdu, une tur de Seynt
+            Lazare. D’autre part à mayne senestre dedeenz terre, est une eglise de Nostre Dame de
+            Mareys, e iluec venent mut de gens en pelrinage de <placeName>Sesarie</placeName> del
+            Chastel Pelrin e del païs. En cel mareys sunt mux de caucatris, unes féres bestes, les
+            queles i mist un riche hom ky estoyt en <placeName>Sesairie</placeName>, e los fist
+            norir, car il les quida fere devorer suen frére, pur un conteste ke aveit esté entre
+            eus, e pur ceo les fist il les aporter de Egipte. E un iur amena on liu son frére pur
+            baigner, pur covertement ocire. E sun frére su plus sachaunt de lui: si le fist primes
+            descendre, e les bestes k’yl aveyt nori tantost le tirérent en parfund, si ke onkes puis
+            ne fu trovéz; e fu aperceü la traïson par ceo ke esteynt consentaunt, e ensi fu perdu ly
+            traïtres, e seon frére savé. De tel liu delés <placeName>Sesarie</placeName>, si à une
+            liue de hors les murs un petit, est la sepulture de seynt Cornel, ke seynt Pére baptiza,
+            cum il est escrit en fez des Apostles, e fu arcevekes de cel cité. Après un poi en avant
+            si est une péce de marbre de la colur de propre, ke l’om apele la Table Nostre Seignur,
+            la quele Sarasins trenchérent per mi. En coste cele table sunt deus autre grant péces de
+            marbre, grosses e tute rundes par de suth, e lunges e greles par de lus, e sunt apelés
+            les Chandelabres Nostre Seignur, e une fontaigne ke est murée tut entur, en ben haut.
+            D’autre part fors de la cité à main destre en sus un poi de la mer si est une Chapele de
+            Seynte Marie Magdalene, ky est seinte e vertuuse, e dyent ke là fist fa penaunce. (3) En
+            après de <placeName>Sesaire</placeName> l’om vet à Asur, un chastel le quel si est sur
+            un tertre de roche un poi en sus de la mer, sur le sablum à nef liues de Sesaire. En sus
+            ausi vers la montaigne est un liu mult perillus, ke l’om apele Roche talie, kar la
+            repeirent larrons e grant mal funt à pilrins e as autres.<note type="textual">Ed.
+               Michelant and Raynaud 1882</note>
+        <note type="textual"/>
+        <note type="discussion">Cambridge University Library, Gg VI, 28, folios 52a-57a</note>
+        <note type="corrigenda">Minor corr. J. L. Rife</note>
+        <idno type="CTS-URN"/>
+        <ref target="https://archive.org/details/itinrairesajrus00parigoog/page/n237/mode/2up"/>
+      </ab>
+         <ab type="translation" xml:lang="en" xml:id="quote180-2" source="#bib180-2">
+        <anchor xml:id="testimonia-180.en.1" corresp="testimonia-180.fro.1"/>(1) Whoever wants to go to Jerusalem properly must first go from
+            Acre to Caïphas. ON the road on the left is the mountain of St. Margaret of Carmel,
+            which is 4 leagues from Acre. On one summit of the mountain is Freetown (Franche vile),
+            where St. Denys was born in a small church, in a small cave toward the bottom. In that
+            cave the place is visible as a crib cut in the rock, and behind that church, to the
+            right, is the foundtain that Denys found and made with his own hands, And know that this
+            is one of the healthiest places for the human body in all the mountain. Then one goes to
+            a little village there, a little further down. (2) On the other high summit of that
+            mountain is an abbey of the Greeks, black monks, where St. Margaret performed many
+            miracles and there are there some good sanctuaries. On the way down from that abbey,
+            towards the bottom, us a chapel in the cave of St. Elias the Prophet, where her
+            performed many miracles; and in the chapel is a good spring of cold water, which he
+            found and made. At the bottom to the left is a village called Capharnaüm. Nearby and a
+            little further up is Anne, a village where the nails with which Jesus Christ was nailed
+            to the Cross were forged; and the place may still be seen. Further down on the sea is
+            Caïphas, which formerly was very strong, before the city of Acre was built; for in
+            ancient times it used to have as much renown as Acre; for formerly Acre was a village
+            and Caïphas was the city. And know that Acre is not in the Promised Land and Caïphas is,
+            because a river defines the Holy Land between Acre and Caïphas. It is called the Caïphas
+            River, and it arises from a spring that flows below the Carmont and comes beneath the
+            mountain of St. Margaret, where it is named the Palm Grove (la Paumére), and runs into
+            the sea, and thus divides the Promised Land. And it is as far from Acre to Caïphas as
+            from Acre to the mountain. And afterwards one goes from Caïphas to Pilgrims’ Castle
+            (Chastel Pelrin), which is 3 leagues away and belongs to the Temple. Facing the castle
+            is a holy place that is called St. John of Tira, and there is an abbey of Greek monks,
+            where there are good sanctuaries and St. John the Baptist performed many miracles. Above
+            that place, high up on the mountain to the left, is a beautiful and holy place where
+            there is a hermitage of Latin hermits who are called the Friars of Carmel, and there is
+            a Church of Our Lady; and there are many good running springs and many good flowering
+            herbs. From Pilgrims’ Castle one goes to <placeName>Caesarea</placeName>. The city is
+            situated on the sea, where one finds on the right side the salt marsh of the Hospital of
+            St. John. And then on the sea one finds the Lost Bread (Pan perdu), a tower of St.
+            Lazarus. On the other side inland to the left is a Church of Our Lady of the Marsh, and
+            many people come there on pilgrimage from <placeName>Caesarea</placeName> and from
+            Pilgrims’ Castle and from the countryside. In that marsh are many crocodiles, ferocious
+            beasts, which a rich man who was in <placeName>Caesarea</placeName> put there. And he
+            had them fed, because he wanted them to eat his brother over a dispute between them, and
+            for that reason he had brought them from Egypt. One day he brought his brother to bathe
+            in order to kill him in secret. But his brother was more clever than he: he made him go
+            down first, and the beasts that he had raised immediately dragged him to the deep, so
+            that he was never found again. And the plot was seen through by those who were
+            complicit, and thus the traitor was lost and his brother saved. From that place beside
+            Caesarea, at a place a little way outside the walls, is the tomb of St. Cornelius whom
+            St. Peter baptized, as it is written in the Acts of the Apostles, and he was archbishop
+            of that city. A little further on there is a piece of marble, purple in color, called
+            the Table of our Lord, which the Saracens cut in half. Beside that table are two other
+            great pieces of marble, thick and quite round at the bottom and long and thin at the
+            top, and they are called the Candlesticks of Our Lord; and a spring that is walled all
+            around and very high. On the other side, outside the city to the right, a little above
+            the sea, is a chapel of St. Mary Magdalene, which is holy and righteous, and they say
+            that there she did her penance. (3) After <placeName>Caesarea</placeName> one goes to
+            Asur, a castle that stands on a rocky knoll a little above the sea, on the beach 9
+            leagues from Caesarea. Up from there toward the mountain there is also a very dangerous
+            place called Cut Rock (Roche talie), for there thieves convene and cause much harm to
+            pilgrims and others. <note type="translation">Rev. Pringle 2018</note>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+      </ab>
+         <listBibl>
+        <head>Works Cited</head>
+        <bibl xml:id="bib180-1">
+          <ptr target="https://caesarea-maritima.org/bibl/IYHLBB6W"/>
+          <citedRange unit="p">189-191</citedRange>
+          <citedRange unit="ch">1.1-1.3</citedRange>
+        </bibl>
+        <bibl xml:id="bib180-2">
+          <ptr target="https://caesarea-maritima.org/bibl/F7LQVQFP"/>
+          <citedRange unit="p">209-213</citedRange>
+          <citedRange unit="p"/>
+        </bibl>
+      </listBibl>
+         <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target="https://caesarea-maritima.org/bibl/KK3DKYG4"/>
+          <citedRange unit="p">69-79</citedRange>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+      </listBibl>
+         <note type="related-texts">
+            <p>
+               <hi rend="italic">Acts 10:1-48</hi>
+            </p>
+            <p>
+               <hi rend="italic">Holy Pilgrimages 8</hi>
+            </p>
+            <p>
+               <hi rend="italic">Ways and Pilgrimages of the Holy Land A 1.1-1.3</hi>
+            </p>
+            <p>Pilgrimages to Jerusalem 1-4</p>
+            <p>
+               <hi rend="italic">Pilgrimages and Pardons of Acre 1.1</hi>
+            </p>
+            <p>Rorgo Fretellus 430-431</p>
+         </note>
+         <note type="geography">
+            <p>Jerusalem</p>
+            <p>Acre (Acco)</p>
+            <p>Caïphas (Haifa)</p>
+            <p>Carmel, Mount</p>
+            <p>Franche vile (Freetown)</p>
+            <p>Capharnaüm (Khirbat al-Kanīsa)</p>
+            <p>Anne (Bi’r Bayt Ḥanūn)</p>
+            <p>Carmont (Caymont, Tel Yoane’am)</p>
+            <p>Chastel Pelrin (Athlit, Castellum peregrinorum)</p>
+            <p>St. Johan of Tira (al Tira, Tirat al-Lawz)</p>
+            <p>Lost Bread (Pan Perdu)</p>
+            <p>Egypt</p>
+            <p>Asur (Arsuf, Assur)</p>
+            <p>Cut Rock (Roche talie)</p>
+         </note>
+         <note type="prosopography">
+            <p>Dionysius (Denys), pope [AD 250-268]</p>
+            <p>St. Margaret</p>
+            <p>Elijah the Prophet (St. Elias)</p>
+            <p>Jesus Christ</p>
+            <p>Carmelites</p>
+            <p>Knights Templar</p>
+            <p>John the Baptist</p>
+            <p>Knights Hospitallers</p>
+            <p>Mary, Mother of Jesus</p>
+            <p>Knights of St. Lazarus</p>
+            <p>Cornelius, early Christian at Caesarea</p>
+            <p>Peter the Apostle</p>
+            <p>Mary Magdalene</p>
+         </note>
+         <note type="themes">
+            <p>History of Israel</p>
+            <p>Roman History</p>
+            <p>Medieval History</p>
+            <p>Christianity</p>
+            <p>Crusades</p>
+            <p>Pilgrimage</p>
+            <p>Hebrew Bible</p>
+            <p>Christian Bible</p>
+            <p>Geography</p>
+            <p>Natural Environment</p>
+            <p>Urban Topography</p>
+            <p>Government and Law</p>
+            <p>Society and Culture</p>
+            <p>Military</p>
+         </note>
+      </body>
+   </text>
+</TEI>

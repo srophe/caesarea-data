@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title xml:lang="en" level="a">Wilbrand of
+               Oldenburg, <title level="m">Journey in the Holy Land </title> 2.2-3</title>
+        <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
+            <sponsor>Vanderbilt University</sponsor>
+            <principal>Joseph L. Rife</principal>
+            <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
+            <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#plieberman">Phillip I. Lieberman</editor>
+            <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#dmichelson">David A. Michelson</editor>
+            <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</editor>
+            <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
+        <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#"/>
+        <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
+            
+            <respStmt>
+          <resp>TEI encoding by</resp>
+          <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
+        </respStmt>
+        <respStmt>
+          <resp>URNs and other metadata added by</resp>
+          <name ref="https://caesarea-maritima.org/documentation/editors.xml#"/>
+        </respStmt>
+        <respStmt>
+          <resp>Electronic text added by</resp>
+          <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
+        </respStmt>
+        <respStmt>
+               <resp>Testimonia identified by</resp>
+               <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
+            </respStmt>
+        
+         </titleStmt>
+         <editionStmt>
+            <edition n="1.0"/>
+         </editionStmt>
+      
+         <publicationStmt>
+            <authority>Caesarea City and Port Exploration Project</authority>
+        
+            <idno type="URI">https://caesarea-maritima.org/testimonia/51/tei</idno>
+        
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under a Creative Commons Attribution 4.0 Unported License.</p>
+               </licence>
+          
+            </availability>
+            <date>2021-06-14-05:00</date>
+        
+         </publicationStmt>
+         <seriesStmt>
+            <title level="s" xml:lang="en">Caesarea-Maritima.org: A Digital Archive</title>
+            <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
+            <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#plieberman">Phillip I. Lieberman</editor>
+         </seriesStmt>
+      
+         <sourceDesc>
+            <p>Born digital.</p>
+         </sourceDesc>
+      
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>Authors of testimonia are identified with URIs from The Virtual International Authority File, see <ref target="http://viaf.org">http://viaf.org</ref>. When multiple VIAF URIs exist, preference has been given to VIAF record linked to the Library of Congress authority file.</p>
+            <p>Geographic locations are identified with URIs from Pleiades: A Gazetteer of Past Places, see <ref target="https://pleiades.stoa.org/docs">https://pleiades.stoa.org/docs</ref>.</p>
+            <p>When possible, textual works have been cited using URNs according to the Distributed Text Services (DTS) system, see <ref target="https://distributed-text-services.github.io/specifications">https://distributed-text-services.github.io/specifications</ref>). Additional identifiers have been adopted from the systems used by the Perseus Digital Library (<ref target="http://www.perseus.tufts.edu/hopper">http://www.perseus.tufts.edu</ref>), Syriaca.org (<ref target="http://syriaca.org">http://syriaca.org</ref>), and other relevant authority systems such as WorldCat Identities or OCLC numbers (<ref target="https://www.worldcat.org">https://www.worldcat.org</ref>).</p>
+            <p>Bibliographic items are identified by a caesarea-maritima.org URI, which is linked, when possible to OCLC numbers and other identifiers.</p>
+            <p>Dates have been encoded following the ISO 8601 standard, <ref target="https://www.iso.org/iso-8601-date-and-time-format.html">https://www.iso.org/iso-8601-date-and-time-format.html</ref>, and the best practices established by for the Srophé App, see <ref target="http://srophe.app">http://srophe.app</ref>.</p>
+            <p>Languages have been encoded using ISO 639-1, 639-2, and 639-3 codes, following best practices of the TEI guidelines.</p>
+         </editorialDecl>
+      
+         <classDecl>
+        <taxonomy xml:id="CM-NEAEH">
+          
+               <desc>
+                  <title>Caesarea-Maritima.org Chronology</title>: This chronology is adapted from the chronology used in <bibl>
+                     <title>The New Encyclopedia of Archaeological Excavations in the Holy Land</title>
+                     <ptr target="https://caesarea-maritima.org/bibl/HG492LV3"/>
+                  </bibl>.  This taxonomy is used in the <gi>catRef</gi> encoding to classify the testimonia according to the time period(s) of the events described, rather than the date of composition of the testimonium. For example, Josephus may describe events occuring well before the period of his writing.
+               </desc>
+               <category xml:id="lowerPaleolithic">
+                  <catDesc>Lower Paleolithic, 999999-119999 BCE</catDesc>
+               </category>
+               <category xml:id="upperAcheulean">
+                  <catDesc>Upper Acheulean, 498050-148050 BP</catDesc>
+               </category>
+               <category xml:id="acheulean">
+                  <catDesc>Acheulean, 298050-148050 BP</catDesc>
+               </category>
+               <category xml:id="mousterian">
+                  <catDesc>Mousterian, 138050-38050 BP</catDesc>
+               </category>
+               <category xml:id="middlePaleolithic">
+                  <catDesc>Middle Paleolithic, 119999-44999 BCE</catDesc>
+               </category>
+               <category xml:id="upperPaleolithic">
+                  <catDesc>Upper Paleolithic, 44999-17999 BCE</catDesc>
+               </category>
+               <category xml:id="kebaran">
+                  <catDesc>Kebaran , 18050-13050 BP</catDesc>
+               </category>
+               <category xml:id="epipaleolithic">
+                  <catDesc>Epipaleolithic, 17999-8299 BCE</catDesc>
+               </category>
+               <category xml:id="geometricKebaran">
+                  <catDesc>Geometric Kebaran, 12499-10899 BCE</catDesc>
+               </category>
+               <category xml:id="natufianCulture">
+                  <catDesc>Natufian Culture, 10799-8499 BCE</catDesc>
+               </category>
+               <category xml:id="pre-potteryNeolithic">
+                  <catDesc>Pre-Pottery Neolithic, 8299-5499 BCE</catDesc>
+               </category>
+               <category xml:id="potteryNeolithic">
+                  <catDesc>Pottery Neolithic, 5499-4499 BCE</catDesc>
+               </category>
+               <category xml:id="chalcolithic">
+                  <catDesc>Chalcolithic, 4499-3299 BCE</catDesc>
+               </category>
+               <category xml:id="earlyBronzeAge">
+                  <catDesc>Early Bronze Age, 3299-2199 BCE</catDesc>
+               </category>
+               <category xml:id="bronzeAge">
+                  <catDesc>Bronze Age, 3299-1199 BCE</catDesc>
+               </category>
+               <category xml:id="earlyBronzeAgeIa-b">
+                  <catDesc>Early Bronze Age IA-B, 3299-2999 BCE</catDesc>
+               </category>
+               <category xml:id="earlyBronzeAgeIi">
+                  <catDesc>Early Bronze Age II, 2999-2699 BCE</catDesc>
+               </category>
+               <category xml:id="earlyBronzeAgeIii">
+                  <catDesc>Early Bronze Age III, 2699-2199 BCE</catDesc>
+               </category>
+               <category xml:id="middleBronzeAge">
+                  <catDesc>Middle Bronze Age, 2199-1549 BCE</catDesc>
+               </category>
+               <category xml:id="middleBronzeAgeI">
+                  <catDesc>Middle Bronze Age I, 2199-1999 BCE</catDesc>
+               </category>
+               <category xml:id="middleBronzeAgeIia">
+                  <catDesc>Middle Bronze Age IIA, 1999-1749 BCE</catDesc>
+               </category>
+               <category xml:id="middleBronzeAgeIib">
+                  <catDesc>Middle Bronze Age IIB, 1749-1549 BCE</catDesc>
+               </category>
+               <category xml:id="lateBronzeAge">
+                  <catDesc>Late Bronze Age, 1599-1200 BCE</catDesc>
+               </category>
+               <category xml:id="lateBronzeAgeI">
+                  <catDesc>Late Bronze Age I, 1549-1399 BCE</catDesc>
+               </category>
+               <category xml:id="lateBronzeAgeIia">
+                  <catDesc>Late Bronze Age IIA, 1399-1299 BCE</catDesc>
+               </category>
+               <category xml:id="lateBronzeAgeIib">
+                  <catDesc>Late Bronze Age IIB, 1299-1199 BCE</catDesc>
+               </category>
+               <category xml:id="ironAge">
+                  <catDesc>Iron Age, 1199-585 BCE</catDesc>
+               </category>
+               <category xml:id="ironAgeIa">
+                  <catDesc>Iron Age IA, 1199-1149 BCE</catDesc>
+               </category>
+               <category xml:id="ironAgeIb">
+                  <catDesc>Iron Age IB, 1149-999 BCE</catDesc>
+               </category>
+               <category xml:id="ironAgeIia">
+                  <catDesc>Iron Age IIA, 999-899 BCE</catDesc>
+               </category>
+               <category xml:id="ironAgeIib">
+                  <catDesc>Iron Age IIB, 899-699 BCE</catDesc>
+               </category>
+               <category xml:id="ironIic">
+                  <catDesc>Iron IIC, 799-731 BCE</catDesc>
+               </category>
+               <category xml:id="ironAgeIic">
+                  <catDesc>Iron Age IIC, 699-585 BCE</catDesc>
+               </category>
+               <category xml:id="babylonianAndPersian">
+                  <catDesc>Babylonian and Persian Periods, 585-331 BCE</catDesc>
+               </category>
+               <category xml:id="classicalPeriod">
+                   <catDesc>Classical Period, 480-336 BCE</catDesc>
+               </category>
+               <category xml:id="earlyHellenistic">
+                  <catDesc>Early Hellenistic Period, 331-166 BCE</catDesc>
+               </category>
+               <category xml:id="hellenistic">
+                  <catDesc>Hellenistic Period, 331-36 BCE</catDesc>
+               </category>
+               <category xml:id="earlyNabatean">
+                  <catDesc>Early Nabatean Period, 331-36 BCE</catDesc>
+               </category>
+               <category xml:id="nabateanKingdom">
+                  <catDesc>Nabatean Kingdom, 167 BCE-106 CE</catDesc>
+               </category>
+               <category xml:id="lateHellenistic">
+                  <catDesc>Late Hellenistic Period, 166-36 BCE</catDesc>
+               </category>
+               <category xml:id="earlyRoman">
+                  <catDesc>Early Roman Period, 36 BCE-132 CE</catDesc>
+               </category>
+               <category xml:id="herodian">
+                  <catDesc>Herodian Period, 36 BCE-70 CE</catDesc>
+               </category>
+               <category xml:id="middleNabatean">
+                  <catDesc>Middle Nabatean Period, 24 BCE-50 CE</catDesc>
+               </category>
+               <category xml:id="lateRoman">
+                  <catDesc>Late Roman Period, 132-324 CE</catDesc>
+               </category>
+               <category xml:id="byzantine">
+                  <catDesc>Byzantine Period, 324-638 CE</catDesc>
+               </category>
+               <category xml:id="earlyIslamic">
+                  <catDesc>Early Islamic Period, 638-1099 CE</catDesc>
+               </category>
+               <category xml:id="crusader">
+                  <catDesc>Crusader Period, 1099-1291 CE</catDesc>
+               </category>
+               <category xml:id="lateIslamic">
+                  <catDesc>Late Islamic Period, 1291-1516 CE</catDesc>
+               </category>
+               <category xml:id="ottoman">
+                  <catDesc>Ottoman Period, 1516-1917 CE</catDesc>
+               </category>
+               <category xml:id="britishTerritorialAdministration">
+                  <catDesc>British Territorial Administration Period, 1870-1920 CE</catDesc>
+               </category>
+               <category xml:id="britishMandate">
+                  <catDesc>British Mandate Period, 1820-1948 CE</catDesc>
+               </category>
+               <category xml:id="modernState">
+                  <catDesc>Modern State, 1948- CE</catDesc>
+               </category>
+            </taxonomy>
+        <taxonomy xml:id="CM-Testimonia-Type">
+                <desc>
+                <title>Caesarea-Maritima.org Testimonia Typology</title>: This typology defines three subsets of testimonia employed by the project and is used in the <gi>catRef</gi> below to further categorize a given testimonia record.
+                </desc>
+                <category xml:id="direct">
+                    <catDesc>A "direct testimonium" contains a word or phrase that is a direct reference to, or name for, the conceptual place Caeseara Maritima or its environs in part or in whole. When a "direct testimonium" also contains indirect references, the classification by type is nevertheless marked only as "direct".</catDesc>
+                </category>
+                <category xml:id="indirect">
+                    <catDesc>An "indirect testimonium" makes only an indirect reference to the conceptual place Caeseara Maritima or its environs in part or in whole. This indirect reference may take the form of a common noun or may be implied by context.</catDesc>
+                </category>
+                <category xml:id="toponymic-epithet">
+                    <catDesc>A "toponymic testimonium" contains a toponymic epithet related to the conceptual place Caeseara Maritima or its environs. When a "direct testimonium" also contain a "toponymic testimonium", the testimonium is marked as belonging to both types. These two types do not always overlap and thus our data set also includes "toponymic testimonia" which are not "direct testimonia".</catDesc>
+                </category> 
+            </taxonomy>
+      </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <abstract>
+            <p/>
+         </abstract>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Journey in the Holy Land </title> <ref target="#bib51-1">2.2-3</ref> written by <persName role="author" ref="http://viaf.org/viaf/398143">Wilbrand of
+               Oldenburg</persName> in <origDate notBefore="1211" notAfter="1212" period="#crusader">1211-1212 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/1001939">Palestine</origPlace>.</creation>
+         <langUsage>
+            <language ident="la">Latin</language>
+         </langUsage>
+         <textClass>
+            <classCode scheme="https://distributed-text-services.github.io/specifications">
+               <idno type="CTS-URN"/>
+            </classCode>
+            <catRef scheme="#CM-Testimonia-Type" target="#direct"/>
+            <catRef scheme="#CM-NEAEH" target="#earlyRoman #herodian #crusader"/>
+         </textClass>
+      </profileDesc>
+      <revisionDesc status="draft">
+         <change who="" when="">ADDED: testimonium ID, URNs, URLs to edition and translation, and Bibl URIs</change>
+         <change who="jrife" when="">CREATED: testimonium</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="identifier">
+            <idno type="URI">https://caesarea-maritima.org/testimonia/51</idno>
+         </ab>
+         <desc type="abstract" xml:id="abstract51-1">
+        <quote>
+          <placeName>Cesaream</placeName>
+        </quote>, <quote>
+          <placeName>Stratonis</placeName>
+        </quote>, <quote>
+          <placeName>Cesarea</placeName>
+        </quote>, <quote>
+          <placeName>Caesarea</placeName>
+        </quote>,  and <quote>
+          <placeName>Strato</placeName>
+        </quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/398143">Wilbrand of
+               Oldenburg</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Journey in the Holy Land </title> <ref target="#bib51-1">2.2-3</ref>. This passage was written circa <origDate notBefore="1211" notAfter="1212" period="#crusader">1211-1212 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/1001939">Palestine</origPlace>.</desc>
+         <desc type="context">Wilbrand, born to a noble family of Oldenburg in northwestern Germany,
+            had a distinguished ecclesiastical career as a prelate in the sees of Paderborn,
+            Münster, Osnabrück, and Utrecht up to his death in 1233. He had travelled to the Middle
+            East in 1211-1212 and wrote an account. During the first year of his journey he served
+            with Teutonic knights and royal envoys from Austria on an embassy from Otto IV, the
+            German emperor, to Levon I, the king of Armenian Cilicia. During the second year of his
+            journey he visited Jerusalem and other sacred sites. This passage covers Wilbrand’s
+            journey east from Acre to the Sea of Galilee, then back to the coast, and south to
+            Caesarea, Arsuf, Jaffa, and Ramla. He mixes observations on both the early Christian
+            associations and the contemporary state of these communities.</desc>
+         <ab type="edition" xml:lang="la" xml:id="quote51-1" source="#bib51-1">
+        <anchor xml:id="testimonia-51.la.1" corresp="testimonia-51.en.1"/>(2) Et relinquentes ad sinistram Sareptam Iudae, ad cuius differentiam
+            altera Sarepta, de qua vos supra expedivi, Sydoniorum est appellata, veniumus
+               <placeName>Cesaream</placeName>. Haec non est Cesarea Philippi, sed
+               <placeName>Stratonis</placeName>, in qua beatus Petrus, cum in visione de omni
+            immundo de reptili terre manducare iuberetur, sedem episcopalem ordinavit, et in ea
+            presidens verbum fidei gentibus predicare incepit, per quod sua visio, de qua iam
+            tetigi, adimplebatur. In hac hodie est sedes episcopalis. Ipsa vero civitas destructos
+            habet muros. Tantum tempore treugarum inhabitabatur et tunc nostris obedire consuevit.
+            In hac, ut quidam volunt, vidit Iesus hominem sedentem in thelonio, nomine Mathaeum, et
+            dixit illi “Sequere me” etc. Hec distat ab Hakon spacio unius magne diete. Ab illo
+            timore transivimus Arsun, que est civitas parva et destructa, tempore treugarum a
+            nostris inhabitata, multos in finibus suis habens latrunculos sarrecenos. Et notate,
+            quod hec civitates et dicte et dicende in perditione Terre Sancte a Sarracenis fuerunt
+            destructe, preter Iaf, quam nostri tempore Henrici imperatoris—pro pudor!—perdiderunt.
+            In qua filii Mammone nostris peccatis exigentibus XII milia Christianorum occiderunt et
+            captivaverunt. Hec est illa Iopea, in qua beatus Petrus visionem supra tactam accepit,
+            scilicet vas de celo missum, plenum omni reptili terre, quod angelus ipsum manducare
+            precepit. Hec est etiam ilia, in cuius portu magi adorato Domino per aliam viam
+            redeuntes navem nec velo nec remis munitam intraverunt. Qui illinc, ut supra plene
+            scripsi, ad portum Tharsis miraculose sunt perducti. Hec civitas, sicut et relique, a
+            nostris pace a paganis eis indulta inhabitari consuevit. Et distat a
+               <placeName>Cesarea</placeName> unam dietam. (3) Illic ducatu nobis concesso
+            relinquentes maritimam et incedentes versus meridiem transivimus terram verissime lacte
+            et melle fluentem, et peragravimus Rammam.<note type="textual">Ed. Pringle
+               2012</note>
+        <note type="textual"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref/>
+      </ab>
+         <ab type="translation" xml:lang="en" xml:id="quote51-2" source="#bib51-2">
+        <anchor xml:id="testimonia-51.en.1" corresp="testimonia-51.la.1"/>Leaving to the left Sarepta of Judaea, which in distinction from the
+            other Sarepta (I addressed it above) is called of the Sidonians, we came to
+               <placeName>Caesarea</placeName>. This is not the Caesarea of Philip but the one of
+               <placeName>Strato</placeName>, in which St. Peter, when he was commanded in a vision
+            to eat all the unclean things that creep on the earth, established a bishop’s seat.
+            Presiding in it, he began to preach the word of God to the gentiles, and through this
+            his vision, which I have just touched upon, came to be fulfilled equally in that place.
+            In it there is today an episcopal city. In fact the city has its walls destroyed; it was
+            inhabited only during the period of truce and only then became accustomed to owe
+            allegiance to our people. In this city, according to some, Jesus saw a man named Matthew
+            sitting in the customs house and said to him “Follow me” etc. This is the distance of
+            one long day’s journey from Acre. From there in great fear we passed by Arsuf, which is
+            a small destroyed city, inhabited by our people at the time of truces and having many
+            Saracen robbers within its borders. Note that these cities already mentioned or about to
+            be mentioned were destroyed during the loss of the Holy Land to the Saracens, except for
+            Jaffa, which our people lost—for shame!—at the time of the emperor Henry. In it the sons
+            of Mammon killed or took captive 12,000 Christians on account of our sins. This is the
+            Joppe where St. Peter received the vision touched upon above, that is to say, a dish
+            sent from heaven full of all the creeping things of the earth, which the angel
+            instructed him to eat. It is also the one in whose port the Magi, while returning home
+            by another way after worshipping the Lord, embarked on a ship equipped with no sail or
+            oars. From there, as I have written fully above, they were miraculously brought to the
+            port of Tarsus. This city, and equally its remains, have customarily been inhabited by
+            our people through a favor extended to them by those pagans. It is one day’s journey
+            from <placeName>Caesarea</placeName>. (3) From there, after a guide was assigned to us,
+            leaving the coast and advancing southwards, we passed over a land truly flowing with
+            milk and honey, and we wandered through Ramma.<note type="translation">Rev. Pringle
+               2018</note>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+      </ab>
+         <listBibl>
+        <head>Works Cited</head>
+        <bibl xml:id="bib51-1">
+          <ptr target="https://caesarea-maritima.org/bibl/8G8JUK7H"/>
+          <citedRange unit="bk">2</citedRange>
+          <citedRange unit="ch">2-3</citedRange>
+        </bibl>
+        <bibl xml:id="bib51-2">
+          <ptr target="https://caesarea-maritima.org/bibl/URWA5GU9"/>
+          <citedRange unit="bk">2.2-3</citedRange>
+          <citedRange unit="p">85-86</citedRange>
+        </bibl>
+      </listBibl>
+         <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+      </listBibl>
+         <note type="related-texts"/>
+         <note type="geography">
+            <p>Sarepta</p>
+            <p>Judaea</p>
+            <p>Sidon</p>
+            <p>Caesarea Philippi</p>
+            <p>Acre</p>
+            <p>Ioppe (Jaffa)</p>
+            <p>Tarsus</p>
+            <p>Ramma (Ramleh)</p>
+         </note>
+         <note type="prosopography">
+            <p>Peter the Apostle</p>
+            <p>Jesus Christ</p>
+            <p>Matthew</p>
+            <p>Henry V, king</p>
+            <p>Magi</p>
+            <p>Saracens</p>
+         </note>
+         <note type="themes">
+            <p>Christianity</p>
+            <p>Christian Bible</p>
+            <p>Crusades</p>
+            <p>Roman History</p>
+            <p>Medieval History</p>
+            <p>Geography</p>
+            <p>Urban Topography</p>
+            <p>Travel</p>
+            <p>Government and Law</p>
+            <p>Economy</p>
+         </note>
+      </body>
+   </text>
+</TEI>
