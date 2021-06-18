@@ -368,7 +368,27 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-         <note type="related-texts">
+      <listRef type="related-texts">
+         <ref target="#">John of Nikiu 66.2</ref>
+      </listRef>
+      <listRef type="geography">
+         <ref target="https://pleiades.stoa.org/places/658381">Antioch on the Orontes</ref>
+         <ref target="https://pleiades.stoa.org/places/1001940">Palestine</ref>
+         <ref target="https://pleiades.stoa.org/places/629035">Caesarea Mazaca</ref>
+         <ref target="https://pleiades.stoa.org/places/628949">Cappadocia</ref>
+      </listRef>
+      <listRef type="prosopography">
+         <ref target="#">Augustus, emperor </ref>
+         <ref target="#">Herod I, king</ref>
+         <ref target="#">Archelaos</ref>
+      </listRef>
+      <listRef type="themes">
+         <ref target="#">Hellenistic History</ref>
+         <ref target="#">Roman History</ref>
+         <ref target="#">Geography</ref>
+         <ref target="#">Government and Law</ref>
+      </listRef>
+         <!--<note type="related-texts">
             <p>John of Nikiu 66.2</p>
          </note>
          <note type="geography">
@@ -384,7 +404,7 @@
             <p>Roman History</p>
             <p>Geography</p>
             <p>Government and Law</p>
-         </note>
+         </note>-->
       </body>
    </text>
 </TEI>
