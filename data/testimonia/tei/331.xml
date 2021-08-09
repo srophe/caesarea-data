@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title xml:lang="en" level="a">Origen, <title level="m">Commentary on the Gospel of John </title> 6.2.8-10</title>
+        <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
+            <sponsor>Vanderbilt University</sponsor>
+            <principal>Joseph L. Rife</principal>
+            <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
+            <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#plieberman">Phillip I. Lieberman</editor>
+            <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#dmichelson">David A. Michelson</editor>
+            <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</editor>
+            <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
+        <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#"/>
+        <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
+            
+            <respStmt>
+          <resp>TEI encoding by</resp>
+          <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
+        </respStmt>
+        <respStmt>
+          <resp>URNs and other metadata added by</resp>
+          <name ref="https://caesarea-maritima.org/documentation/editors.xml#"/>
+        </respStmt>
+        <respStmt>
+          <resp>Electronic text added by</resp>
+          <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
+        </respStmt>
+        <respStmt>
+               <resp>Testimonia identified by</resp>
+               <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="1.0"/>
+         </editionStmt>
+         <publicationStmt>
+            <authority>Caesarea City and Port Exploration Project</authority>
+            <idno type="URI">https://caesarea-maritima.org/testimonia/331/tei</idno>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under a Creative Commons Attribution 4.0 Unported License.</p>
+               </licence>
+            </availability>
+            <date>2021-08-09-04:00</date>
+         </publicationStmt>
+         <seriesStmt>
+            <title level="s" xml:lang="en">Caesarea-Maritima.org: A Digital Archive</title>
+            <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
+            <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#plieberman">Phillip I. Lieberman</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <p>Born digital.</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>Authors of testimonia are identified with URIs from The Virtual International Authority File, see <ref target="http://viaf.org">http://viaf.org</ref>. When multiple VIAF URIs exist, preference has been given to VIAF record linked to the Library of Congress authority file.</p>
+            <p>Geographic locations are identified with URIs from Pleiades: A Gazetteer of Past Places, see <ref target="https://pleiades.stoa.org/docs">https://pleiades.stoa.org/docs</ref>.</p>
+            <p>When possible, textual works have been cited using URNs according to the Distributed Text Services (DTS) system, see <ref target="https://distributed-text-services.github.io/specifications">https://distributed-text-services.github.io/specifications</ref>). Additional identifiers have been adopted from the systems used by the Perseus Digital Library (<ref target="http://www.perseus.tufts.edu/hopper">http://www.perseus.tufts.edu</ref>), Syriaca.org (<ref target="http://syriaca.org">http://syriaca.org</ref>), and other relevant authority systems such as WorldCat Identities or OCLC numbers (<ref target="https://www.worldcat.org">https://www.worldcat.org</ref>).</p>
+            <p>Bibliographic items are identified by a caesarea-maritima.org URI, which is linked, when possible to OCLC numbers and other identifiers.</p>
+            <p>Dates have been encoded following the ISO 8601 standard, <ref target="https://www.iso.org/iso-8601-date-and-time-format.html">https://www.iso.org/iso-8601-date-and-time-format.html</ref>, and the best practices established by for the Srophé App, see <ref target="http://srophe.app">http://srophe.app</ref>.</p>
+            <p>Languages have been encoded using ISO 639-1, 639-2, and 639-3 codes, following best practices of the TEI guidelines.</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy xml:id="CM-NEAEH">
+               <desc>
+                  <title>Caesarea-Maritima.org Chronology</title>: This chronology is adapted from the chronology used in <bibl>
+                     <title>The New Encyclopedia of Archaeological Excavations in the Holy Land</title>
+                     <ptr target="https://caesarea-maritima.org/bibl/HG492LV3"/>
+                  </bibl>.  This taxonomy is used in the <gi>catRef</gi> encoding to classify the testimonia according to the time period(s) of the events described, rather than the date of composition of the testimonium. For example, Josephus may describe events occuring well before the period of his writing.
+               </desc>
+               <category xml:id="lowerPaleolithic">
+                  <catDesc>Lower Paleolithic, 999999-119999 BCE</catDesc>
+               </category>
+               <category xml:id="upperAcheulean">
+                  <catDesc>Upper Acheulean, 498050-148050 BP</catDesc>
+               </category>
+               <category xml:id="acheulean">
+                  <catDesc>Acheulean, 298050-148050 BP</catDesc>
+               </category>
+               <category xml:id="mousterian">
+                  <catDesc>Mousterian, 138050-38050 BP</catDesc>
+               </category>
+               <category xml:id="middlePaleolithic">
+                  <catDesc>Middle Paleolithic, 119999-44999 BCE</catDesc>
+               </category>
+               <category xml:id="upperPaleolithic">
+                  <catDesc>Upper Paleolithic, 44999-17999 BCE</catDesc>
+               </category>
+               <category xml:id="kebaran">
+                  <catDesc>Kebaran , 18050-13050 BP</catDesc>
+               </category>
+               <category xml:id="epipaleolithic">
+                  <catDesc>Epipaleolithic, 17999-8299 BCE</catDesc>
+               </category>
+               <category xml:id="geometricKebaran">
+                  <catDesc>Geometric Kebaran, 12499-10899 BCE</catDesc>
+               </category>
+               <category xml:id="natufianCulture">
+                  <catDesc>Natufian Culture, 10799-8499 BCE</catDesc>
+               </category>
+               <category xml:id="pre-potteryNeolithic">
+                  <catDesc>Pre-Pottery Neolithic, 8299-5499 BCE</catDesc>
+               </category>
+               <category xml:id="potteryNeolithic">
+                  <catDesc>Pottery Neolithic, 5499-4499 BCE</catDesc>
+               </category>
+               <category xml:id="chalcolithic">
+                  <catDesc>Chalcolithic, 4499-3299 BCE</catDesc>
+               </category>
+               <category xml:id="earlyBronzeAge">
+                  <catDesc>Early Bronze Age, 3299-2199 BCE</catDesc>
+               </category>
+               <category xml:id="bronzeAge">
+                  <catDesc>Bronze Age, 3299-1199 BCE</catDesc>
+               </category>
+               <category xml:id="earlyBronzeAgeIa-b">
+                  <catDesc>Early Bronze Age IA-B, 3299-2999 BCE</catDesc>
+               </category>
+               <category xml:id="earlyBronzeAgeIi">
+                  <catDesc>Early Bronze Age II, 2999-2699 BCE</catDesc>
+               </category>
+               <category xml:id="earlyBronzeAgeIii">
+                  <catDesc>Early Bronze Age III, 2699-2199 BCE</catDesc>
+               </category>
+               <category xml:id="middleBronzeAge">
+                  <catDesc>Middle Bronze Age, 2199-1549 BCE</catDesc>
+               </category>
+               <category xml:id="middleBronzeAgeI">
+                  <catDesc>Middle Bronze Age I, 2199-1999 BCE</catDesc>
+               </category>
+               <category xml:id="middleBronzeAgeIia">
+                  <catDesc>Middle Bronze Age IIA, 1999-1749 BCE</catDesc>
+               </category>
+               <category xml:id="middleBronzeAgeIib">
+                  <catDesc>Middle Bronze Age IIB, 1749-1549 BCE</catDesc>
+               </category>
+               <category xml:id="lateBronzeAge">
+                  <catDesc>Late Bronze Age, 1599-1200 BCE</catDesc>
+               </category>
+               <category xml:id="lateBronzeAgeI">
+                  <catDesc>Late Bronze Age I, 1549-1399 BCE</catDesc>
+               </category>
+               <category xml:id="lateBronzeAgeIia">
+                  <catDesc>Late Bronze Age IIA, 1399-1299 BCE</catDesc>
+               </category>
+               <category xml:id="lateBronzeAgeIib">
+                  <catDesc>Late Bronze Age IIB, 1299-1199 BCE</catDesc>
+               </category>
+               <category xml:id="ironAge">
+                  <catDesc>Iron Age, 1199-585 BCE</catDesc>
+               </category>
+               <category xml:id="ironAgeIa">
+                  <catDesc>Iron Age IA, 1199-1149 BCE</catDesc>
+               </category>
+               <category xml:id="ironAgeIb">
+                  <catDesc>Iron Age IB, 1149-999 BCE</catDesc>
+               </category>
+               <category xml:id="ironAgeIia">
+                  <catDesc>Iron Age IIA, 999-899 BCE</catDesc>
+               </category>
+               <category xml:id="ironAgeIib">
+                  <catDesc>Iron Age IIB, 899-699 BCE</catDesc>
+               </category>
+               <category xml:id="ironAgeIic">
+                  <catDesc>Iron Age IIC, 699-585 BCE</catDesc>
+               </category>
+               <category xml:id="babylonianAndPersian">
+                  <catDesc>Babylonian and Persian Periods, 585-331 BCE</catDesc>
+               </category>
+               <category xml:id="classicalPeriod">
+                   <catDesc>Classical Period, 480-336 BCE</catDesc>
+               </category>
+               <category xml:id="earlyHellenistic">
+                  <catDesc>Early Hellenistic Period, 331-166 BCE</catDesc>
+               </category>
+               <category xml:id="hellenistic">
+                  <catDesc>Hellenistic Period, 331-36 BCE</catDesc>
+               </category>
+               <category xml:id="earlyNabatean">
+                  <catDesc>Early Nabatean Period, 331-36 BCE</catDesc>
+               </category>
+               <category xml:id="nabateanKingdom">
+                  <catDesc>Nabatean Kingdom, 167 BCE-106 CE</catDesc>
+               </category>
+               <category xml:id="lateHellenistic">
+                  <catDesc>Late Hellenistic Period, 166-36 BCE</catDesc>
+               </category>
+               <category xml:id="earlyRoman">
+                  <catDesc>Early Roman Period, 36 BCE-132 CE</catDesc>
+               </category>
+               <category xml:id="herodian">
+                  <catDesc>Herodian Period, 36 BCE-70 CE</catDesc>
+               </category>
+               <category xml:id="middleNabatean">
+                  <catDesc>Middle Nabatean Period, 24 BCE-50 CE</catDesc>
+               </category>
+               <category xml:id="lateRoman">
+                  <catDesc>Late Roman Period, 132-324 CE</catDesc>
+               </category>
+               <category xml:id="byzantine">
+                  <catDesc>Byzantine Period, 324-638 CE</catDesc>
+               </category>
+               <category xml:id="earlyIslamic">
+                  <catDesc>Early Islamic Period, 638-1099 CE</catDesc>
+               </category>
+               <category xml:id="crusader">
+                  <catDesc>Crusader Period, 1099-1291 CE</catDesc>
+               </category>
+               <category xml:id="lateIslamic">
+                  <catDesc>Late Islamic Period, 1291-1516 CE</catDesc>
+               </category>
+               <category xml:id="ottoman">
+                  <catDesc>Ottoman Period, 1516-1917 CE</catDesc>
+               </category>
+               <category xml:id="britishTerritorialAdministration">
+                  <catDesc>British Territorial Administration Period, 1917-1920 CE</catDesc>
+               </category>
+               <category xml:id="britishMandate">
+                  <catDesc>British Mandate Period, 1920-1948 CE</catDesc>
+               </category>
+               <category xml:id="modernState">
+                  <catDesc>Modern State, 1948- CE</catDesc>
+               </category>
+            </taxonomy>
+            <taxonomy xml:id="CM-Testimonia-Type">
+                <desc>
+                <title>Caesarea-Maritima.org Testimonia Typology</title>: This typology defines three subsets of testimonia employed by the project and is used in the <gi>catRef</gi> below to further categorize a given testimonia record.
+                </desc>
+                <category xml:id="direct">
+                    <catDesc>A "direct testimonium" contains a word or phrase that is a direct reference to, or name for, the conceptual place Caeseara Maritima or its environs in part or in whole. When a "direct testimonium" also contains indirect references, the classification by type is nevertheless marked only as "direct".</catDesc>
+                </category>
+                <category xml:id="indirect">
+                    <catDesc>An "indirect testimonium" makes only an indirect reference to the conceptual place Caeseara Maritima or its environs in part or in whole. This indirect reference may take the form of a common noun or may be implied by context.</catDesc>
+                </category>
+                <category xml:id="toponymic-epithet">
+                    <catDesc>A "toponymic testimonium" contains a toponymic epithet related to the conceptual place Caeseara Maritima or its environs. When a "direct testimonium" also contain a "toponymic testimonium", the testimonium is marked as belonging to both types. These two types do not always overlap and thus our data set also includes "toponymic testimonia" which are not "direct testimonia".</catDesc>
+                </category> 
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <abstract>
+            <p/>
+         </abstract>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Commentary on the Gospel of John </title> <ref target="#bib331-1">6.2.8-10</ref> written by <persName ref="http://viaf.org/viaf/95155322" role="author">Origen</persName> in <origDate notBefore="0231" notAfter="0233" period="#lateRoman">231-233 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</creation>
+         <langUsage>
+            <language ident="grc">Ancient Greek</language>
+         </langUsage>
+         <textClass>
+            <classCode scheme="https://distributed-text-services.github.io/specifications">
+               <idno type="CTS-URN"/>
+            </classCode>
+            <catRef scheme="#CM-Testimonia-Type" target="#indirect"/>
+            <catRef scheme="#CM-NEAEH" target="#lateBronzeAge #earlyRoman #lateRoman"/>
+         </textClass>
+      </profileDesc>
+      <revisionDesc status="draft">
+         <change who="" when="">ADDED: testimonium ID, URNs, URLs to edition and translation, and Bibl URIs</change>
+         <change who="jrife" when="">CREATED: testimonium</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="identifier">
+            <idno type="URI">https://caesarea-maritima.org/testimonia/331</idno>
+         </ab>
+         <desc type="abstract" xml:id="abstract331-1">Caeasrea Maritima is indirectly attested at <persName ref="http://viaf.org/viaf/95155322" role="author">Origen</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Commentary on the Gospel of John </title> <ref target="#bib331-1">6.2.8-10</ref>. This passage was written circa <origDate notBefore="0231" notAfter="0233" period="#lateRoman">231-233 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</desc>
+         <desc type="context">Among Origen’s vast output is his Commentary on the Gospel of John.
+            This enormous work, which originally filled more than 30 volumes but of which only parts
+            survive, is a systematic and erudite exegesis that in part refuted the Valentinian
+            Gnostic interpretation by Heracleon, replete with mysticism and allegoresis. This
+            important passage attests to pivotal events in Origen’s career. He began writing the
+            Commentary at his homebase in Alexandria, where his wealthy associate Ambrose encouraged
+            and supported his writing, including the provision of secretaries. As a growing
+            intellectual luminary and popular teacher, Origen’s theology came under harsh criticism
+            from the bishop Demetrios; and consequently Origen, in 231, moved from Alexandria to
+            Caesarea in Palestine, where the bishops Theoctistus and Alexander ordained him to
+            preach and teach, not without controversy. Here Origen describes the travails
+            surrounding his move and the hiatus in his work on the Commentary metaphorically,
+            evoking the Exodus, delivery from storms, and failed attacks.</desc>
+         <ab type="edition" xml:lang="grc" xml:id="quote331-1" source="#bib331-1">
+        <anchor xml:id="testimonia-331.grc.1" corresp="testimonia-331.en.1"/>(8) Καὶ μέχρι γε τοῦ πέμπτου τόμου, εἰ καὶ ὁ κατὰ τὴν Ἀλεξανδρείαν
+            χειμὼν ἀντιπράττειν ἐδόκει, τὰ διδόμενα ὑπηγορεύσαμεν, ἐπιτιμῶντος τοῖς ἀνέμοις καὶ τοῖς
+            κύμασι τῆς θαλάσσης τοῦ Ἰησοῦ· καὶ ἕκτου δὲ ἐπὶ ποσὸν προεληλυθότες ἐξειλκύσθημεν ἀπὸ
+            γῆς Αἰγύπτου, ῥυσαμένου ἡμᾶς τοῦ θεοῦ τοῦ ἐξαγαγόντος τὸν λαὸν αὐτοῦ ἀπ’ αὐτῆς. (9)
+            Ἔπειτα τοῦ ἐχθροῦ πικρότατα ἡμῶν καταστρατευσαμένου διὰ τῶν καινῶν αὐτοῦ γραμμάτων τῶν
+            ἀληθῶς ἐχθρῶν τῷ εὐαγγελίῳ καὶ πάντας τοὺς ἐν Αἰγύπτῳ ἀνέμους τῆς πονηρίας καθ’ ἡμῶν
+            ἐγείραντος, στῆναι μᾶλλόν με πρὸς τὸν ἀγῶνα παρεκάλει ὁ λόγος καὶ τηρῆσαι τὸ ἡγεμονικόν,
+            μήποτε μοχθηροὶ λογισμοὶ ἐξισχύσωσι τὸν χειμῶνα καὶ τῇ ψυχῇ μου ἐπεισαγαγεῖν, ἤπερ
+            ἀκαίρως, πρὶν γαλήνην τὴν διάνοιαν λαβεῖν, συνάπτειν τὰ ἑξῆς τῆς γραφῆς· καὶ οἱ συνήθεις
+            δὲ ταχυγράφοι μὴ παρόντες τοῦ ἔχεσθαι τῶν ὑπαγορεύσεων ἐκώλυον. (10) Νῦν δ’ ὅτε τὰ καθ’
+            ἡμῶν πεπυρωμένα πολλὰ σβεννύντος θεοῦ βέλη ἤμβλυνται καὶ ἐνεθισθεῖσα ἡμῶν ἡ ψυχὴ τοῖς
+            συμβεβηκόσι διὰ τὸν οὐράνιον λόγον φέρειν ῥᾷον βιάζεται τὰς γεγενημένας ἐπιβουλάς,
+            ὡσπερεὶ ποσῆς εὐδίας λαβόμενοι οὐκέτι ὑπερτιθέμενοι ὑπαγορεύειν τὰ ἀκόλουθα βουλόμεθα,
+            θεὸν διδάσκαλον ὑπηχοῦντα ἐν τῷ ἀδύτῳ τῆς ψυχῆς ἡμῶν παρεῖναι εὐχόμενοι, ἵνα τέλος λάβῃ
+            ἡ τῆς διηγήσεως τοῦ κατὰ Ἰωάννην εὐαγγελίου οἰκοδομή.<note type="textual">Ed. Blanc 1970
+               </note>
+        <note type="textual"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref target="https://archive.org/details/desgregoriosthau00greg/page/40/mode/2up"/>
+      </ab>
+         <ab type="translation" xml:lang="en" xml:id="quote331-2" source="#bib331-2">
+        <anchor xml:id="testimonia-331.en.1" corresp="testimonia-331.grc.1"/>(8) I composed the material given me as far as the fifth volume (of
+            the Commentary) even though the storm in Alexandria seemed to work against me, just as
+            Jesus rebuked the winds and the waves of the sea. After I had moved on to part of the
+            sixth (volume) I was brought out of Egypt by God delivering me, He who led His people
+            forth from there. (9) Then, when the enemy assailed me with all bitterness in his new
+            writings, so truly hostile to the Gospel, and stirred up against me all the winds of
+            wickedness in Egypt, reason called me instead to stand fast for the conflict and to
+            preserve my guiding principle, so that evil counsels should never gain the strength to
+            bring the storm also into my soul, or even to compose the next part (of the Commentary)
+            at the wrong time, before my mind had returned to calm. Moreover, the absence of my
+            usual scribes prevented me from adhering to my practice of dictation. (10) But now that
+            the many flaming arrows shot at me are blunted by God as he extinguishes them, and (now
+            that) my soul, which had grown used to such occurrences, is compelled through the
+            heavenly Word to withstand more easily the plots that have arisen, I wish, as though
+            instilled with a certain tranquillity, to continue writing without further delay. I pray
+            that God will be with me and utter his teachings in the inner chamber of my soul, so
+            that the building I have begun—the interpretation of the Gospel of John—may be
+               finished.<note type="translation">Trans. J. L. Rife with ref. to Menzies
+               1899</note>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+      </ab>
+         <listBibl>
+        <head>Works Cited</head>
+        <bibl xml:id="bib331-1">
+          <ptr target="https://caesarea-maritima.org/bibl/MXL8QRKG"/>
+          <citedRange unit="bk">6</citedRange>
+          <citedRange unit="ch">2.8-10</citedRange>
+        </bibl>
+        <bibl xml:id="bib331-2">
+          <ptr target="https://caesarea-maritima.org/bibl/D2P5ND4C/"/>
+          <citedRange unit="p">349-350</citedRange>
+          <citedRange unit=""/>
+        </bibl>
+      </listBibl>
+         <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+      </listBibl>
+         <note type="related-texts">
+            <p>Eusebius, Church History 6.8.4-5</p>
+            <p>Eusebius, Church History 6.23.4-5</p>
+            <p>Jerome, Apology against Rufinus 2.18</p>
+            <p>Photius, Library 118.34-42</p>
+         </note>
+         <note type="geography">
+            <p>Alexandria</p>
+            <p>Egypt</p>
+         </note>
+         <note type="prosopography">
+            <p>Origen</p>
+            <p>Jesus Christ</p>
+            <p>John the Evangelist</p>
+            <p>Dionysius, Bishop of Alexandria</p>
+         </note>
+         <note type="themes">
+            <p>Christianity</p>
+            <p>Christian Bible</p>
+            <p>Education (sacred)</p>
+            <p>Society and Culture</p>
+         </note>
+      </body>
+   </text>
+</TEI>
