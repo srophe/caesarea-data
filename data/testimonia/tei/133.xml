@@ -14,7 +14,7 @@
             <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#dmichelson">David A. Michelson</editor>
             <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</editor>
             <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
-        <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#"/>
+        <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
         <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
             
             <respStmt>
@@ -23,7 +23,7 @@
         </respStmt>
         <respStmt>
           <resp>URNs and other metadata added by</resp>
-          <name ref="https://caesarea-maritima.org/documentation/editors.xml#"/>
+          <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
         <respStmt>
           <resp>Electronic text added by</resp>
@@ -33,36 +33,28 @@
                <resp>Testimonia identified by</resp>
                <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
             </respStmt>
-        
          </titleStmt>
          <editionStmt>
             <edition n="1.0"/>
          </editionStmt>
-      
          <publicationStmt>
             <authority>Caesarea City and Port Exploration Project</authority>
-        
             <idno type="URI">https://caesarea-maritima.org/testimonia/133/tei</idno>
-        
             <availability>
                <licence target="http://creativecommons.org/licenses/by/4.0">
                   <p>Distributed under a Creative Commons Attribution 4.0 Unported License.</p>
                </licence>
-          
             </availability>
-            <date>2021-06-14-05:00</date>
-        
+            <date>2021-08-09-04:00</date>
          </publicationStmt>
          <seriesStmt>
             <title level="s" xml:lang="en">Caesarea-Maritima.org: A Digital Archive</title>
             <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
             <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#plieberman">Phillip I. Lieberman</editor>
          </seriesStmt>
-      
          <sourceDesc>
             <p>Born digital.</p>
          </sourceDesc>
-      
       </fileDesc>
       <encodingDesc>
          <editorialDecl>
@@ -73,10 +65,8 @@
             <p>Dates have been encoded following the ISO 8601 standard, <ref target="https://www.iso.org/iso-8601-date-and-time-format.html">https://www.iso.org/iso-8601-date-and-time-format.html</ref>, and the best practices established by for the Srophé App, see <ref target="http://srophe.app">http://srophe.app</ref>.</p>
             <p>Languages have been encoded using ISO 639-1, 639-2, and 639-3 codes, following best practices of the TEI guidelines.</p>
          </editorialDecl>
-      
          <classDecl>
-        <taxonomy xml:id="CM-NEAEH">
-          
+            <taxonomy xml:id="CM-NEAEH">
                <desc>
                   <title>Caesarea-Maritima.org Chronology</title>: This chronology is adapted from the chronology used in <bibl>
                      <title>The New Encyclopedia of Archaeological Excavations in the Holy Land</title>
@@ -176,9 +166,6 @@
                <category xml:id="ironAgeIib">
                   <catDesc>Iron Age IIB, 899-699 BCE</catDesc>
                </category>
-               <category xml:id="ironIic">
-                  <catDesc>Iron IIC, 799-731 BCE</catDesc>
-               </category>
                <category xml:id="ironAgeIic">
                   <catDesc>Iron Age IIC, 699-585 BCE</catDesc>
                </category>
@@ -231,16 +218,16 @@
                   <catDesc>Ottoman Period, 1516-1917 CE</catDesc>
                </category>
                <category xml:id="britishTerritorialAdministration">
-                  <catDesc>British Territorial Administration Period, 1870-1920 CE</catDesc>
+                  <catDesc>British Territorial Administration Period, 1917-1920 CE</catDesc>
                </category>
                <category xml:id="britishMandate">
-                  <catDesc>British Mandate Period, 1820-1948 CE</catDesc>
+                  <catDesc>British Mandate Period, 1920-1948 CE</catDesc>
                </category>
                <category xml:id="modernState">
                   <catDesc>Modern State, 1948- CE</catDesc>
                </category>
             </taxonomy>
-        <taxonomy xml:id="CM-Testimonia-Type">
+            <taxonomy xml:id="CM-Testimonia-Type">
                 <desc>
                 <title>Caesarea-Maritima.org Testimonia Typology</title>: This typology defines three subsets of testimonia employed by the project and is used in the <gi>catRef</gi> below to further categorize a given testimonia record.
                 </desc>
@@ -254,13 +241,13 @@
                     <catDesc>A "toponymic testimonium" contains a toponymic epithet related to the conceptual place Caeseara Maritima or its environs. When a "direct testimonium" also contain a "toponymic testimonium", the testimonium is marked as belonging to both types. These two types do not always overlap and thus our data set also includes "toponymic testimonia" which are not "direct testimonia".</catDesc>
                 </category> 
             </taxonomy>
-      </classDecl>
+         </classDecl>
       </encodingDesc>
       <profileDesc>
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref target="#bib133-1">9.17</ref> written by <persName role="author" ref="http://viaf.org/viaf/88969561">John Malalas</persName> in <origDate notBefore="0530" notAfter="0532" period="#byzantine">530-532 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/658381">Antioch on the
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref target="#bib133-1">9.17</ref> written by <persName ref="http://viaf.org/viaf/88969561" role="author">John Malalas</persName> in <origDate notBefore="0530" notAfter="0532" period="#byzantine">530-532 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/658381">Antioch on the
                Orontes</origPlace>.</creation>
          <langUsage>
             <language ident="grc">Ancient Greek</language>
@@ -270,11 +257,12 @@
                <idno type="CTS-URN"/>
             </classCode>
             <catRef scheme="#CM-Testimonia-Type" target="#direct"/>
-            <catRef scheme="#CM-NEAEH" target="#earlyRoman #herodian #byzantine"/>
+            <catRef scheme="#CM-NEAEH" target="#earlyRoman #herodian"/>
          </textClass>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="" when="">ADDED: testimonium ID, URNs, URLs to edition and translation, and Bibl URIs</change>
+         <change who="jrife" when="">ADDED: testimonium ID, URNs, URLs to edition and translation,
+            and Bibl URIs</change>
          <change who="jrife" when="">CREATED: testimonium</change>
       </revisionDesc>
    </teiHeader>
@@ -286,35 +274,31 @@
          <desc type="abstract" xml:id="abstract133-1">
         <quote>
           <placeName>Καισάρειαν
-               Παλαιστίνης</placeName>
-        </quote>, <quote>
-          <placeName>Στράτωνος Πύργον</placeName>
-        </quote>, <quote>
-          <placeName>Caesarea of
-               Palestine</placeName>
+               Παλαιστίνης,</placeName>
         </quote>,  and <quote>
-          <placeName>Strato’s Tower</placeName>
-        </quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/88969561">John Malalas</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref target="#bib133-1">9.17</ref>. This passage was written circa <origDate notBefore="0530" notAfter="0532" period="#byzantine">530-532 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/658381">Antioch on the
+          <placeName>Στράτωνος Πύργον</placeName>
+        </quote> are directly attested at <persName ref="http://viaf.org/viaf/88969561" role="author">John Malalas</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref target="#bib133-1">9.17</ref>. This passage was written circa <origDate notBefore="0530" notAfter="0532" period="#byzantine">530-532 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/658381">Antioch on the
                Orontes</origPlace>.</desc>
-         <desc type="context">John Malalas, a moniker probably derived from Aramaic malolo meaning
-            “orator”, was an educated Syrian who moved from Antioch to Constantinople early in the
-            reign of Justinian I. His only known work is a historical chronicle in 18 books,
-            apparently composed in two editions, spanning from early times probably to the death of
-            Justinian, with a distinct focus on events in the eastern Mediterranean. In his long
-            passage on the activities of Augustus in the East, John cites the renaming of Straton’s
-            Tower as Caesarea.</desc>
+         <desc type="context">John Malalas, a moniker probably derived from Aramaic malolo ( ܡܰܠܳܠܰܐ
+            ) meaning “orator”, was an educated Syrian who moved from Antioch to Constantinople
+            early in the reign of Justinian I. His only known work is a historical chronicle in 18
+            books, apparently composed in two editions, spanning from early times probably to the
+            death of Justinian, with a distinct focus on events in the eastern Mediterranean. In his
+            long passage on the activities of Augustus in the East, John cites the renaming of
+            Straton’s Tower as Caesarea.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote133-1" source="#bib133-1">
         <anchor xml:id="testimonia-133.grc.1" corresp="testimonia-133.en.1"/>ὁ μὲν Ἡρώδης βασιλεὺς τῆς Ἰουδαίας πρὸς τιμὴν αὐτοῦ ἐποίησε καὶ τὴν
             ὁδοστρωσίαν τὴν ἔξω τῆς πόλεως Ἀντιοχείας τῆς μεγάλης, ἦν γὰρ δύσβατος, στρώσας αὐτὴν
             λευκαῖς πλάκαις. ἐκάλεσαν δὲ ἐμφότεροι τοπάρχαι τὰς μητροπόλεις αὐτῶν πρὸς τὴν αὐτοῦ εἰς
             ὄνομα τοῦ Καίσαρος· ὁ μὲν Ἡρώδης βασιλεὺς καὶ τοπάρχης ἐκάλεσε <placeName>Καισάρειαν
-               Παλαιστίνης</placeName>, τὴν πρῴην λεγομένην <placeName>Στράτωνος Πύργον</placeName>,
+               Παλαιστίνης,</placeName> τὴν πρῴην λεγομένην <placeName>Στράτωνος Πύργον</placeName>,
             ὁ δὲ Ἀρχέλαος βασιλεὺς καὶ τοπάρχης ἐκάλεσε Καισάρειαν Καππαδοκίας τὴν πρῴην λεγομένην
                Μάζακαν.<note type="textual">Ed. Thurn 2000</note>
-        <note type="textual"/>
-        <note type="discussion">Stauffenberg (1931) added ἰδίοις ἀναλώμασιν (“at his own expense”)
-               after λευκαῖς πλάκαις. We have omitted it here as an unnecessary interpolation from
-               the Slavonic translation (10th/11th century) and John of Nikiu 66.2.</note>
+        <note type="textual">Von
+               Stauffenberg (1931) added ἰδίοις ἀναλώμασιν (“at his own expense”) after λευκαῖς
+               πλάκαις. J. L. Rife has omitted it here as an unnecessary interpolation from the
+               Slavonic translation (10th/11th century) and John of Nikiu 66.2. </note>
+        <note type="discussion"/>
         <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
@@ -322,11 +306,11 @@
          <ab type="translation" xml:lang="en" xml:id="quote133-2" source="#bib133-2">
         <anchor xml:id="testimonia-133.en.1" corresp="testimonia-133.grc.1"/>Ηerod the king of Judaea made the paved highway outside the city of
             Antioch the Great in his (sc. Augustus’) honor, for it used to be a rough passage,
-            paving it with white slabs. Both locam rulers named their metropoleis after Caesar
-            (Augustus) to honor him. Herod, king and local ruler, named <placeName>Caesarea of
-               Palestine</placeName> the city formerly called <placeName>Strato’s Tower</placeName>,
-            while Archaelaos, king and local ruler, named Caesarea in Cappadocia the city formerly
-            called Mazaca.<note type="translation">Adapted from Jeffreys et al. 2017</note>
+            paving it with white slabs. Both local rulers named their metropoleis after Caesar
+            (Augustus) to honor him. Herod, king and local ruler, named Caesarea of Palestine the
+            city formerly called Strato’s Tower, while Archaelaos, king and local ruler, named
+            Caesarea in Cappadocia the city formerly called Mazaca.<note type="translation">Adapted
+               from Jeffreys et al. 2017</note>
         <note type="discussion"/>
         <note type="corrigenda"/>
         <idno type="CTS-URN"/>
@@ -335,20 +319,40 @@
          <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib133-1">
-          <ptr target="https://caesarea-maritima.org/bibl/2AK3S4N6"/>
-          <citedRange unit="bk">9.17</citedRange>
-          <citedRange unit="p">170</citedRange>
+          <ptr target="https://caesarea-maritima.org/bibl/2AK3S4N6/item-list"/>
+          <citedRange unit="bk">9</citedRange>
+          <citedRange unit="ch">17</citedRange>
         </bibl>
         <bibl xml:id="bib133-2">
-          <ptr target="https://caesarea-maritima.org/bibl/YYEJCD9W"/>
-          <citedRange unit="bk">9.17</citedRange>
-          <citedRange unit="p">118</citedRange>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
          <listBibl>
         <head>Additional Bibliography</head>
         <bibl>
-          <ptr target="https://caesarea-maritima.org/bibl/ZV9XT3GX320447/items/ZV9XT3GX"/>
+          <ptr target="https://caesarea-maritima.org/bibl/24LXHELZ"/>
+          <citedRange unit="p">118</citedRange>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target="https://caesarea-maritima.org/bibl/ZV9XT3GX"/>
+          <citedRange unit="p">8-9</citedRange>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
           <citedRange unit=""/>
           <citedRange unit=""/>
         </bibl>
@@ -368,43 +372,26 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <listRef type="related-texts">
-         <ref target="#">John of Nikiu 66.2</ref>
-      </listRef>
-      <listRef type="geography">
-         <ref target="https://pleiades.stoa.org/places/658381">Antioch on the Orontes</ref>
-         <ref target="https://pleiades.stoa.org/places/1001940">Palestine</ref>
-         <ref target="https://pleiades.stoa.org/places/629035">Caesarea Mazaca</ref>
-         <ref target="https://pleiades.stoa.org/places/628949">Cappadocia</ref>
-      </listRef>
-      <listRef type="prosopography">
-         <ref target="#">Augustus, emperor </ref>
-         <ref target="#">Herod I, king</ref>
-         <ref target="#">Archelaos</ref>
-      </listRef>
-      <listRef type="themes">
-         <ref target="#">Hellenistic History</ref>
-         <ref target="#">Roman History</ref>
-         <ref target="#">Geography</ref>
-         <ref target="#">Government and Law</ref>
-      </listRef>
-         <!--<note type="related-texts">
+         <note type="related-texts">
             <p>John of Nikiu 66.2</p>
          </note>
          <note type="geography">
-        <p>Antioch on the Orontes</p>
-        <p>Palestine</p>
-        <p>Caesarea
-            Mazaca</p>Cappadocia</note>
+            <p>Antioch on the Orontes</p>
+            <p>Palestine</p>
+            <p>Caesarea Mazaca</p>
+            <p>Cappadocia</p>
+         </note>
          <note type="prosopography">
-        <p>Augustus, emperor </p>
-        <p>Herod I, king</p>Archelaos</note>
+            <p>Augustus, emperor</p>
+            <p>Herod I, king</p>
+            <p>Archelaos</p>
+         </note>
          <note type="themes">
             <p>Hellenistic History</p>
             <p>Roman History</p>
             <p>Geography</p>
             <p>Government and Law</p>
-         </note>-->
+         </note>
       </body>
    </text>
 </TEI>
