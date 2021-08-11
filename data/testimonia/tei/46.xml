@@ -351,13 +351,12 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-         <p>related texts:<note>
+         <note type="related-texts">
           <p>Aelius Herodian, Correct Spelling 451.22-27</p> George
                Choeroboscus, Prologue and Notes on Theodosius of Alexandria’s Introductory Rules
                303.12-20 Apollonius of Rhodes, <hi rend="italic">Voyage of the Argo
             3.31</hi>
         </note>
-      </p>
          <note type="geography">
             <p>Alexandria (Alexandreia)</p>
             <p>Antioch on the Orontes (Antiocheia)</p>

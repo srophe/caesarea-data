@@ -355,7 +355,7 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-         <p>related texts:</p>
+         <note type="related-texts"/>
          <note type="geography"/>
          <note type="prosopography"/>
          <note type="themes">
