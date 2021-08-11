@@ -258,9 +258,9 @@
          </textClass>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="jrife" when="">ADDED: testimonium ID, URNs, URLs to edition and translation,
+         <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">ADDED: testimonium ID, URNs, URLs to edition and translation,
             and Bibl URIs</change>
-         <change who="jrife" when="">CREATED: testimonium</change>
+         <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
       </revisionDesc>
    </teiHeader>
    <text>
