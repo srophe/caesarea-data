@@ -279,7 +279,9 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/53</idno>
       </ab>
       <desc type="abstract" xml:id="abstract53-1">
-    <quote><placeName xml:lang="grc">Καισαρείᾳ</placeName></quote>, are place names attested in <persName ref="http://viaf.org/viaf/100172302" role="author">Procopius</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg4029.tlg002" type="uniform" level="m">Secret History</title> 11.25. This testimonium was written circa <origDate period="#byzantine" notBefore="0550" notAfter="0558">550 - 558 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+    <quote>
+          <placeName xml:lang="grc">Καισαρείᾳ</placeName>
+        </quote>, are place names attested in <persName ref="http://viaf.org/viaf/100172302" role="author">Procopius</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg4029.tlg002" type="uniform" level="m">Secret History</title> 11.25. This testimonium was written circa <origDate period="#byzantine" notBefore="0550" notAfter="0558">550 - 558 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
       <desc type="context"/>
       <ab type="edition" xml:lang="grc" xml:id="quote53-1" source="#bib53-1">
         ὅσοι μὲν οὖν ἔν τε <placeName xml:lang="grc">Καισαρείᾳ</placeName> τῇ ἐμῇ κὰν ταῖς ἄλλαις πόλεσιν ᾤκουν, παρὰ φαῦλον ἡγησάμενοι κακοπάθειάν τινα ὑπὲρ ἀνοήτου φέρεσθαιδόγματος, ὄνομα Χριστιανῶν τοῦ σφίσι παρόντος ἀνταλλαξάμενοι τῷπροσχήματι τούτῳ τὸν ἐκ τοῦ νόμου ἀποσείσασθαι κίνδυνον ἴσχυσαν.
@@ -317,6 +319,41 @@
             <forename>Mikhail Nikitich</forename>
             <surname>Krasheninnikov</surname>
           </editor>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
         <note type="related-texts"/>

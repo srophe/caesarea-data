@@ -264,10 +264,17 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/188</idno>
       </ab>
       <desc type="abstract" xml:id="abstract188-1">
-        <quote><placeName xml:lang="grc">Καισάρειαν θαυμαστὸν</placeName></quote>,  and <quote><placeName xml:lang="en">gates of Cæsarea,</placeName></quote> are place names attested in <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg003" type="uniform" level="m">Martyrs of Palestine</title> 4.2. This testimonium was written circa <origDate period="#lateRoman" notBefore="0315" notAfter="0316">315 – 316 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
+        <quote>
+          <placeName xml:lang="grc">Καισάρειαν θαυμαστὸν</placeName>
+        </quote>,  and <quote>
+          <placeName xml:lang="en">gates of Cæsarea,</placeName>
+        </quote> are place names attested in <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg003" type="uniform" level="m">Martyrs of Palestine</title> 4.2. This testimonium was written circa <origDate period="#lateRoman" notBefore="0315" notAfter="0316">315 – 316 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
       <desc type="context"/>
       <ab type="edition" xml:lang="grc" xml:id="quote188-1" source="#bib188-1">
-        <anchor xml:id="testimonia-188.grc.1" corresp="testimonia-188.en.1"/>πᾶσι δῆτα συγχύσεως οὐ μικράς ἐπῃωρημένης, καὶ ἄλλων ἄλλοσε διασπειρομένων, διαδρᾶναί τε τὸ δεινὸν ἐπιμελὲς ποιουμένων, χαλεπῆς τε τὸ πᾶν ἐπεχούσης κινήσεως, τίς ἂν ἐξαρκέσειεν ἡμίν λόγος εἰς τὴν ἐπαξίαν διήγησιν τοῦ θείου ἔρωτος καὶ παρρησίας τῆς εἰς θεὸν ὁμολογίας τοῦ μακαρίου καὶ ὡς ἀληθῶς ἀμνοῦ ἀκάκου, μάρτυρος Ἀπφιανοῦ φημὶ, τοῦ πρὸ πυλῶν ἐπὶ θεωρίαν ἅπασι τοῖς κατὰ <placeName xml:lang="grc">Καισάρειαν θαυμαστὸν</placeName> παράδειγμα τῆς εἰς τὸν μόνον θεὸν εὐσεβείας προβεβλημένοu;<note type="textual"/><note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg003.opp-grc1:4.2</idno>
+        <anchor xml:id="testimonia-188.grc.1" corresp="testimonia-188.en.1"/>πᾶσι δῆτα συγχύσεως οὐ μικράς ἐπῃωρημένης, καὶ ἄλλων ἄλλοσε διασπειρομένων, διαδρᾶναί τε τὸ δεινὸν ἐπιμελὲς ποιουμένων, χαλεπῆς τε τὸ πᾶν ἐπεχούσης κινήσεως, τίς ἂν ἐξαρκέσειεν ἡμίν λόγος εἰς τὴν ἐπαξίαν διήγησιν τοῦ θείου ἔρωτος καὶ παρρησίας τῆς εἰς θεὸν ὁμολογίας τοῦ μακαρίου καὶ ὡς ἀληθῶς ἀμνοῦ ἀκάκου, μάρτυρος Ἀπφιανοῦ φημὶ, τοῦ πρὸ πυλῶν ἐπὶ θεωρίαν ἅπασι τοῖς κατὰ <placeName xml:lang="grc">Καισάρειαν θαυμαστὸν</placeName> παράδειγμα τῆς εἰς τὸν μόνον θεὸν εὐσεβείας προβεβλημένοu;<note type="textual"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg003.opp-grc1:4.2</idno>
         <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2018.tlg003.opp-grc1:4.2"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote188-2" source="#bib188-2">
@@ -298,6 +305,36 @@
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/BTVVYMAC"/>
           <citedRange unit="section">4.2</citedRange>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
         <note type="related-texts"/>

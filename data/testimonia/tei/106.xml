@@ -264,14 +264,23 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/106</idno>
       </ab>
       <desc type="abstract" xml:id="abstract106-1">
-    <quote><placeName xml:lang="grc">Καισάρειαν</placeName></quote>, and <quote><placeName xml:lang="en">Caesarea</placeName></quote> are place names attested in <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Ecclesiastical History</title> 6.27.1. This testimonium was written circa <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
+    <quote>
+          <placeName xml:lang="grc">Καισάρειαν</placeName>
+        </quote>, and <quote>
+          <placeName xml:lang="en">Caesarea</placeName>
+        </quote> are place names attested in <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Ecclesiastical History</title> 6.27.1. This testimonium was written circa <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
       <desc type="context"/>
       <ab type="edition" xml:lang="grc" xml:id="quote106-1" source="#bib106-1">
-        <anchor xml:id="testimonia-106.grc.1" corresp="testimonia-106.en.1"/>τοσαύτην εἰσάγων περὶ τὸν Ὠριγένην σπουδὴν ὡς τοτὲ μὲν αὐτὸν ἀμφὶ τὰ κατ’ αὐτὸν κλίματα εἰς τὴν τῶν ἐκκλησιῶν ὠφέλειαν ἐκκαλεῖσθαι, τοτὲ δὲ ὡς αὐτὸν ἐπὶ τὴν Ἰουδαίαν στέλλεσθαι, καί τινας αὐτῷ συνδιατρίβειν χρόνους, τῆς εἰς τὰ θεῖα βελτιώσεως ἕνεκα. οὐ μὴν ἀλλὰ καὶ ὁ τῆς Ιεροσολύμων προεστὼς Ἀλέξανδρος, Θεόκτιστός τε ὁ κατὰ <placeName xml:lang="grc">Καισάρειαν</placeName>, τὸν πάντα χρόνον ὡς ἔπος εἰπεῖν προσανέχοντες αὐτῷ οἷα διδασκάλῳ μόνῳ, τὰ τῆς τῶν θείων γραφῶν ἑρμηνείας καὶ τὰ λοιπὰ τοῦ ἐκκλησιαστικοῦ λόγου πράττειν συνεχώρουν.<note type="textual"/><note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg002.opp-grc2:6.27.1</idno>
+        <anchor xml:id="testimonia-106.grc.1" corresp="testimonia-106.en.1"/>τοσαύτην εἰσάγων περὶ τὸν Ὠριγένην σπουδὴν ὡς τοτὲ μὲν αὐτὸν ἀμφὶ τὰ κατ’ αὐτὸν κλίματα εἰς τὴν τῶν ἐκκλησιῶν ὠφέλειαν ἐκκαλεῖσθαι, τοτὲ δὲ ὡς αὐτὸν ἐπὶ τὴν Ἰουδαίαν στέλλεσθαι, καί τινας αὐτῷ συνδιατρίβειν χρόνους, τῆς εἰς τὰ θεῖα βελτιώσεως ἕνεκα. οὐ μὴν ἀλλὰ καὶ ὁ τῆς Ιεροσολύμων προεστὼς Ἀλέξανδρος, Θεόκτιστός τε ὁ κατὰ <placeName xml:lang="grc">Καισάρειαν</placeName>, τὸν πάντα χρόνον ὡς ἔπος εἰπεῖν προσανέχοντες αὐτῷ οἷα διδασκάλῳ μόνῳ, τὰ τῆς τῶν θείων γραφῶν ἑρμηνείας καὶ τὰ λοιπὰ τοῦ ἐκκλησιαστικοῦ λόγου πράττειν συνεχώρουν.<note type="textual"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg002.opp-grc2:6.27.1</idno>
         <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2018.tlg002.opp-grc2:6.27.1"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote106-2" source="#bib106-2">
-        <anchor xml:id="testimonia-106.en.1" corresp="testimonia-106.grc.1"/>He displayed such esteem for Origen, that at one time he would summon him to his own parts for the benefit of the churches; at another, journey himself to Judaea, and spend some time with him for his own betterment in divine things. Nay further, Alexander, who presided over the [church] of Jerusalem, and Theoctistus, [who presided] at <placeName xml:lang="en">Caesarea</placeName>, continued their attendance on him the whole time, as their only teacher, and used to concede to him the task of expounding the divine Scriptures, and the other parts of the Church’s instruction.<note type="translation"/><note type="discussion"/><note type="corrigenda">Inaccuracies found in the transcription of the electronic text compared to its printed source have been corrected.</note>
+        <anchor xml:id="testimonia-106.en.1" corresp="testimonia-106.grc.1"/>He displayed such esteem for Origen, that at one time he would summon him to his own parts for the benefit of the churches; at another, journey himself to Judaea, and spend some time with him for his own betterment in divine things. Nay further, Alexander, who presided over the [church] of Jerusalem, and Theoctistus, [who presided] at <placeName xml:lang="en">Caesarea</placeName>, continued their attendance on him the whole time, as their only teacher, and used to concede to him the task of expounding the divine Scriptures, and the other parts of the Church’s instruction.<note type="translation"/>
+        <note type="discussion"/>
+        <note type="corrigenda">Inaccuracies found in the transcription of the electronic text compared to its printed source have been corrected.</note>
         <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg002.opp-eng1:6.27</idno>
         <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2018.tlg002.opp-eng1:6.27"/>
       </ab>
@@ -295,6 +304,36 @@
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/N73TPKH5"/>
           <citedRange unit="section">6.27</citedRange>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
         <note type="related-texts"/>

@@ -279,7 +279,23 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/13</idno>
       </ab>
       <desc type="abstract" xml:id="abstract13-1">
-    <quote><placeName xml:lang="grc">Καισαρεῖς</placeName></quote>, <quote><placeName xml:lang="grc">Σεβαστηνοὶ</placeName></quote>, <quote><placeName xml:lang="grc">Καισαρεῦσιν</placeName></quote>, <quote><placeName xml:lang="grc">Σεβαστηνοῖς</placeName></quote>, <quote><placeName xml:lang="grc">τῶν Καισαρέων</placeName></quote>, <quote><placeName xml:lang="grc">τῶν Σεβαστηνῶν</placeName></quote>, <quote><placeName xml:lang="en">Cesarea</placeName></quote>, and <quote><placeName xml:lang="en">Sebaste</placeName></quote> are place names attested in <persName ref="http://viaf.org/viaf/22143666" role="author">Josephus</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg001" type="uniform" level="m">Antiquities of the Jews</title> 19.356-19.366. This testimonium was written circa <origDate period="#nabateanKingdom #earlyRoman" notBefore="0093" notAfter="0094">93 - 94 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+    <quote>
+          <placeName xml:lang="grc">Καισαρεῖς</placeName>
+        </quote>, <quote>
+          <placeName xml:lang="grc">Σεβαστηνοὶ</placeName>
+        </quote>, <quote>
+          <placeName xml:lang="grc">Καισαρεῦσιν</placeName>
+        </quote>, <quote>
+          <placeName xml:lang="grc">Σεβαστηνοῖς</placeName>
+        </quote>, <quote>
+          <placeName xml:lang="grc">τῶν Καισαρέων</placeName>
+        </quote>, <quote>
+          <placeName xml:lang="grc">τῶν Σεβαστηνῶν</placeName>
+        </quote>, <quote>
+          <placeName xml:lang="en">Cesarea</placeName>
+        </quote>, and <quote>
+          <placeName xml:lang="en">Sebaste</placeName>
+        </quote> are place names attested in <persName ref="http://viaf.org/viaf/22143666" role="author">Josephus</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg001" type="uniform" level="m">Antiquities of the Jews</title> 19.356-19.366. This testimonium was written circa <origDate period="#nabateanKingdom #earlyRoman" notBefore="0093" notAfter="0094">93 - 94 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
       <desc type="context"/>
       <ab type="edition" xml:lang="grc" xml:id="quote13-1" source="#bib13-1">
         <anchor xml:id="testimonia-13.grc.1" corresp="testimonia-13.en.1"/>
@@ -346,6 +362,36 @@
             <forename>Flavius</forename>
             <surname>Josephus</surname>
           </author>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
         <note type="related-texts"/>

@@ -279,7 +279,29 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/27</idno>
       </ab>
       <desc type="abstract" xml:id="abstract27-1">
-    <quote><placeName xml:lang="grc">Καισαρείας</placeName></quote>, <quote><placeName xml:lang="grc">Καισαρέων</placeName></quote>, <quote><placeName xml:lang="grc">Καισαρείᾳ</placeName></quote>, <quote><placeName xml:lang="grc">Ἕλλην Καισαρεύς</placeName></quote>, <quote><placeName xml:lang="grc">τῆς Καισαρείας</placeName></quote>, <quote><placeName xml:lang="grc">Σεβαστὴν</placeName></quote>, <quote><placeName xml:lang="grc">Καισαρεὺς</placeName></quote>, <quote><placeName xml:lang="grc">τῶν Καισαρέων</placeName></quote>, <quote><placeName xml:lang="en">Cesarea</placeName></quote>, <quote><placeName xml:lang="en">Cesarean Greek</placeName></quote>, and <quote><placeName xml:lang="en">Sebaste</placeName></quote> are place names attested in <persName ref="http://viaf.org/viaf/22143666" role="author">Josephus</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg004" type="uniform" level="m">The Jewish War</title> 2.277-2.292. This testimonium was written circa <origDate period="#nabateanKingdom #earlyRoman #herodian" notBefore="0070" notAfter="0090">70 - 90 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+    <quote>
+          <placeName xml:lang="grc">Καισαρείας</placeName>
+        </quote>, <quote>
+          <placeName xml:lang="grc">Καισαρέων</placeName>
+        </quote>, <quote>
+          <placeName xml:lang="grc">Καισαρείᾳ</placeName>
+        </quote>, <quote>
+          <placeName xml:lang="grc">Ἕλλην Καισαρεύς</placeName>
+        </quote>, <quote>
+          <placeName xml:lang="grc">τῆς Καισαρείας</placeName>
+        </quote>, <quote>
+          <placeName xml:lang="grc">Σεβαστὴν</placeName>
+        </quote>, <quote>
+          <placeName xml:lang="grc">Καισαρεὺς</placeName>
+        </quote>, <quote>
+          <placeName xml:lang="grc">τῶν Καισαρέων</placeName>
+        </quote>, <quote>
+          <placeName xml:lang="en">Cesarea</placeName>
+        </quote>, <quote>
+          <placeName xml:lang="en">Cesarean Greek</placeName>
+        </quote>, and <quote>
+          <placeName xml:lang="en">Sebaste</placeName>
+        </quote> are place names attested in <persName ref="http://viaf.org/viaf/22143666" role="author">Josephus</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg004" type="uniform" level="m">The Jewish War</title> 2.277-2.292. This testimonium was written circa <origDate period="#nabateanKingdom #earlyRoman #herodian" notBefore="0070" notAfter="0090">70 - 90 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
       <desc type="context"/>
       <ab type="edition" xml:lang="grc" xml:id="quote27-1" source="#bib27-1">
         <anchor xml:id="testimonia-27.grc.1" corresp="testimonia-27.en.1"/>
@@ -346,6 +368,36 @@
             <forename>Flavius</forename>
             <surname>Josephus</surname>
           </author>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
         <note type="related-texts"/>

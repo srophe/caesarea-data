@@ -9,21 +9,15 @@
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
         <sponsor>Vanderbilt University</sponsor>
         <principal>Joseph L. Rife</principal>
-        <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife"
-          >Joseph L. Rife</editor>
-        <editor role="general"
-          ref="https://caesarea-maritima.org/documentation/editors.xml#plieberman">Phillip I.
+        <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
+        <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#plieberman">Phillip I.
           Lieberman</editor>
-        <editor role="technical"
-          ref="https://caesarea-maritima.org/documentation/editors.xml#dmichelson">David A.
+        <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#dmichelson">David A.
           Michelson</editor>
-        <editor role="technical"
-          ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L.
+        <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L.
           Potter</editor>
-        <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife"
-          >Joseph L. Rife</editor>
-        <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#eyonan"
-          >Eliana Yonan</editor>
+        <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
+        <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#eyonan">Eliana Yonan</editor>
         <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L.
@@ -55,10 +49,8 @@
       </publicationStmt>
       <seriesStmt>
         <title level="s" xml:lang="en">Caesarea-Maritima.org: A Digital Archive</title>
-        <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife"
-          >Joseph L. Rife</editor>
-        <editor role="general"
-          ref="https://caesarea-maritima.org/documentation/editors.xml#plieberman">Phillip I.
+        <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
+        <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#plieberman">Phillip I.
           Lieberman</editor>
       </seriesStmt>
       <sourceDesc>
@@ -74,21 +66,14 @@
         <p>Geographic locations are identified with URIs from Pleiades: A Gazetteer of Past Places,
           see <ref target="https://pleiades.stoa.org/docs">https://pleiades.stoa.org/docs</ref>.</p>
         <p>When possible, textual works have been cited using URNs according to the Distributed
-          Text Services (DTS) system, see <ref
-            target="https://distributed-text-services.github.io/specifications"
-            >https://distributed-text-services.github.io/specifications</ref>). Additional
-          identifiers have been adopted from the systems used by the Perseus Digital Library (<ref
-            target="http://www.perseus.tufts.edu/hopper">http://www.perseus.tufts.edu</ref>),
+          Text Services (DTS) system, see <ref target="https://distributed-text-services.github.io/specifications">https://distributed-text-services.github.io/specifications</ref>). Additional
+          identifiers have been adopted from the systems used by the Perseus Digital Library (<ref target="http://www.perseus.tufts.edu/hopper">http://www.perseus.tufts.edu</ref>),
           Syriaca.org (<ref target="http://syriaca.org">http://syriaca.org</ref>), and other
-          relevant authority systems such as WorldCat Identities or OCLC numbers (<ref
-            target="https://www.worldcat.org">https://www.worldcat.org</ref>).</p>
+          relevant authority systems such as WorldCat Identities or OCLC numbers (<ref target="https://www.worldcat.org">https://www.worldcat.org</ref>).</p>
         <p>Bibliographic items are identified by a caesarea-maritima.org URI, which is linked, when
           possible to OCLC numbers and other identifiers.</p>
-        <p>Dates have been encoded following the ISO 8601 standard, <ref
-            target="https://www.iso.org/iso-8601-date-and-time-format.html"
-            >https://www.iso.org/iso-8601-date-and-time-format.html</ref>, and the best practices
-          established by for the Srophé App, see <ref target="http://srophe.app"
-            >http://srophe.app</ref>.</p>
+        <p>Dates have been encoded following the ISO 8601 standard, <ref target="https://www.iso.org/iso-8601-date-and-time-format.html">https://www.iso.org/iso-8601-date-and-time-format.html</ref>, and the best practices
+          established by for the Srophé App, see <ref target="http://srophe.app">http://srophe.app</ref>.</p>
         <p>Languages have been encoded using ISO 639-1, 639-2, and 639-3 codes, following best
           practices of the TEI guidelines.</p>
       </editorialDecl>
@@ -277,27 +262,21 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:greekLit:tlg2733.tlg001"
-          type="uniform" level="m">Ecclesiastical History</title>
-        <ref target="#bib163-1">4.7</ref> written by <persName ref="https://viaf.org/viaf/8181546"
-          role="author">Evagrius Scholasticus </persName> in <origDate period="#byzantine"
-          when="0593">593 CE</origDate>. This work was likely written in <origPlace
-            ref="https://pleiades.stoa.org/places/658381">Antioch</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:greekLit:tlg2733.tlg001" type="uniform" level="m">Ecclesiastical History</title>
+        <ref target="#bib163-1">4.7</ref> written by <persName ref="https://viaf.org/viaf/8181546" role="author">Evagrius Scholasticus </persName> in <origDate period="#byzantine" when="0593">593 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/658381">Antioch</origPlace>.</creation>
       <langUsage>
         <language ident="grc">Ancient Greek</language>
       </langUsage>
       <textClass>
         <classCode scheme="https://distributed-text-services.github.io/specifications">
-          <idno xml:base="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn="
-            type="CTS-URN">urn:cts:greekLit:tlg2733.tlg001:4.7</idno>
+          <idno xml:base="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=" type="CTS-URN">urn:cts:greekLit:tlg2733.tlg001:4.7</idno>
         </classCode>
         <catRef scheme="#CM-Testimonia-Type" target=""/>
         <catRef scheme="#CM-NEAEH" target=""/>
       </textClass>
     </profileDesc>
     <revisionDesc status="published">
-      <change who="https://caesarea-maritima.org/documentation/editors.xml#wpotter"
-        when="2020-06-10-05:00">CREATED: testimonium</change>
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#wpotter" when="2020-06-10-05:00">CREATED: testimonium</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -306,24 +285,40 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/163</idno>
       </ab>
       <desc type="abstract" xml:id="abstract163-1">
-        <quote><placeName xml:lang="grc">τὴν Καίσαρος πόλιν,</placeName></quote>, <quote><placeName
-            xml:lang="grc">Καίσαρος πόλιν.</placeName></quote>, <quote><placeName xml:lang="grc">τῆς
-            Καίσαρος</placeName></quote>, <quote><placeName xml:lang="grc"
-          >Καίσαρος</placeName></quote>, <quote><placeName xml:lang="grc">τῶν πυλῶν τῆς
-            Καίσαρος</placeName></quote>, <quote><placeName xml:lang="en">from
-          Caesarea,</placeName></quote>, <quote><placeName xml:lang="en"
-          >Caesarea.</placeName></quote>, <quote><placeName xml:lang="en"
-          >Caesarea</placeName></quote>, <quote><placeName xml:lang="en">to
-          Caesarea</placeName></quote>, and <quote><placeName xml:lang="en">gates of
-            Caesarea,</placeName></quote> are place names attested in <persName
-          ref="https://viaf.org/viaf/8181546" role="author">Evagrius Scholasticus </persName>'s
-          <title xml:lang="en" ref="urn:cts:greekLit:tlg2733.tlg001" type="uniform" level="m"
-          >Ecclesiastical History</title> 4.7. This testimonium was written circa <origDate
-          period="#byzantine" when="0593">593 CE</origDate>. This work was likely written in
+        <quote>
+          <placeName xml:lang="grc">τὴν Καίσαρος πόλιν,</placeName>
+        </quote>, <quote>
+          <placeName xml:lang="grc">Καίσαρος πόλιν.</placeName>
+        </quote>, <quote>
+          <placeName xml:lang="grc">τῆς
+            Καίσαρος</placeName>
+        </quote>, <quote>
+          <placeName xml:lang="grc">Καίσαρος</placeName>
+        </quote>, <quote>
+          <placeName xml:lang="grc">τῶν πυλῶν τῆς
+            Καίσαρος</placeName>
+        </quote>, <quote>
+          <placeName xml:lang="en">from
+          Caesarea,</placeName>
+        </quote>, <quote>
+          <placeName xml:lang="en">Caesarea.</placeName>
+        </quote>, <quote>
+          <placeName xml:lang="en">Caesarea</placeName>
+        </quote>, <quote>
+          <placeName xml:lang="en">to
+          Caesarea</placeName>
+        </quote>, and <quote>
+          <placeName xml:lang="en">gates of
+            Caesarea,</placeName>
+        </quote> are place names attested in <persName ref="https://viaf.org/viaf/8181546" role="author">Evagrius Scholasticus </persName>'s
+          <title xml:lang="en" ref="urn:cts:greekLit:tlg2733.tlg001" type="uniform" level="m">Ecclesiastical History</title> 4.7. This testimonium was written circa <origDate period="#byzantine" when="0593">593 CE</origDate>. This work was likely written in
         <origPlace ref="https://pleiades.stoa.org/places/658381 ">Antioch</origPlace>.</desc>
       <desc type="context"/>
       <ab type="edition" xml:lang="grc" xml:id="quote163-1" source="#bib163-1">
-        <anchor xml:id="testimonia-163.grc.1" corresp="testimonia-163.en.1"/>Ἀλλ̓ ἐπεὶ τῶν εἰρημένων ἐμνήσθημεν παθημάτων, [*] φέρε καὶ ἕτερα ἄττα τῶν ἀξιολόγων τῷ παρόντι προσθῶμεν [*] πόνῳ, ἅπερ εἰς ἡμᾶς ἐκ τῶν ἱστορησάντων ἐνηνέκται. Ζωσιμᾶς ἀνήρ, γένος Φοῖνιξ, τῆς λεγομένης παραλίας, κώμην Σίνδην πατρίδα κληρωσάμενος διέχουσαν τῆς τῶν Τυρίων οὔτι σταδίους εἴκοσι, τὸν μονήρη διαθλεύων βίον,οὕτως ταῖς τε ἀφέξεσι καὶ μεθέξεσι τῶν τροφῶν καὶ ταῖς ἄλλαις ἀρεταῖς τοῦ βίου τὸν θεὸν εἰσοικισάμενος ὡς μὴ μόνον διορᾶν τὰ μέλλοντα, ἀλλὰ καὶ πάσης ἀπαθείας χάριν λαβεῖν, συνῆν τῶν τινι ἐπισήμων ἀνὰ <placeName xml:lang="grc">τὴν Καίσαρος πόλιν,</placeName> ἣ μιᾶς τῶν Παλαιστινῶν ἡγεῖται: ἦν δὲ ἄρα οὗτος Ἀρκεσίλαος, ἀνὴρ εὐπατρίδης τε καὶ λόγιμος, εὖ τε ἀξιωμάτων καὶ τῶν λοιπῶν τῶν κοσμούντων ἀνδρὸς βίον ἥκων. Οὗτος ὁ Ζωσιμᾶς ἐν τῷ ἀκαρεῖ τῆς Ἀντιόχου πτώσεως ἀθρόον ἐπιστυγνάσας ὀλοφυρόμενός τε καὶ μύχιον ἀνοιμώξας, δάκρυά τε τοσαῦτα σπείσας ὡς καὶ τὴν γῆν ἐπιβρέξαι, θυμιατήριον ἐξῃτήσατο, καὶ πάντα τὸν χῶρον ἐν ᾧ καθειστήκεισαν ἐπιθυμιάσας ἐπὶ γῆς ἑαυτὸν ῥίπτει, προσευχαῖς τε καὶ λιταῖς τὸν θεὸν ἱλεούμενος. Εἶτα πυνθανομένου τοῦ Ἀρκεσιλάου τί ἄρα τὸ οὕτω διαταράξαν εἴη, διαρρήδην εἶπε τὴν ἠχὴν τῆς Ἀντιόχου πτώσεως αὐτίκα τὰ ὦτά οἱ περιβομβῆσαι. Ὥστε τὸν Ἀρκεσίλαον καὶ τοὺς παρατετυχηκότας ἐκπεπληγμένους ἀναγράψαι τὴν ὥραν, εὑρεῖν τε ἐς ὕστερον οὕτως ὡς ὁ Ζωσιμᾶς ἀπεφήνατο. Διὰ τούτου πολλαί τε καὶ ἕτεραι θεοσημεῖαι γεγόνασιν, ὧν τὸ πλῆθος παρείς, ἐπεὶ καὶ κρείττονος εἰπεῖν ἀριθμοῦ τυγχάνουσιν οὖσαι, ἔνια λέξω. Συνήκμαζε τῷ Ζωσιμᾷ ἀνήρ, Ἰωάννης τοὔνομα, ταῖς ἀρεταῖς παραπλήσιος, ἐν Χουζιβᾷ τῇ μάνδρᾳ — κεῖται δὲ πρὸς τῇ ἐσχατιᾷ τῆς χαράδρας ἀνὰ τὸ ἀρκτῷον μέρος τῆς λεωφόρου τῆς φερούσης τοὺς διαπορευομένους ἐξ Ἱεροσολύμων ἐπὶ τὴν Ἱεριχουντίων πόλιν — τὸν μονήρη τε καὶ ἄϋλον διαπαλαίσας βίον, ἐπισκοπήσας δὲ τὴν εἰρημένην μοι <placeName xml:lang="grc">Καίσαρος πόλιν.</placeName> Οὗτος ὁ Ἰωάννης ὁ Χουζιβίτης, ἐπεὶ τὴν Ἀρκεσιλάου τοῦ λελεγμένου μοι γυναῖκα ἠκηκόει θάτερον τοῖν ὀφθαλμοῖν ὑπὸ κερκίδος ἐκκοπέντα, δρομαίως ᾔει πρὸς αὐτὴν τὸ πάθος ἐπισκεψόμενος. Ὡς δ̓ οὖν ἐθεάσατο τήν τε κόρην ἐκπεσοῦσαν τέλεόν τε τὸν ὀφθαλμὸν διαρρυέντα, σπόγγον ἐπιτάττει τῶν τινι παρεφομαρτούντων ἰατρῶν ἐνεγκεῖν, εἰσαγαγεῖν τε τὸ διαρρυὲν ὡς ἂν δύναιτο, καὶ τὸν σπόγγον περιθέντα τελαμῶσιν ἀναδῆσαι, οὔτι παρόντος Ἀρκεσιλάου. Ἔτυχε γὰρ τῷ Ζωσιμᾷ παρὼν ἐν τῷ κατ̓ αὐτὸν φροντιστηρίῳ, ὅπερ ἐπὶ τῆς Σινδηνῶν ἔκειτο κώμης, διεστώσης <placeName xml:lang="grc">τῆς Καίσαρος</placeName> σταδίους μάλιστα πεντακοσίους. Δρομαῖοιτοίνυν παρὰ τὸν Ἀρκεσίλαον ἐκτρέχουσίν οἱ ταῦτα διαγγέλλοντες. Καθῆστο δὲ πρὸς Ζωσιμᾷ ὁ Ἀρκεσίλαος τὰς διαλέξεις ποιούμενος: ὅπερ ἐπειδὴ διέγνω, διωλύγιον ἀνεκώκυε, καὶ τὰς τρίχας ἐκτίλλων καὶ διασπῶν εἰς οὐρανὸν ἀνέπεμπε. Τοῦ δὲ Ζωσιμᾶ πυνθανομένουτὴν αἰτίαν, τὸ συμβὰν ὁ Ἀρκεσίλαος ἔλεγε ταῖς οἰμωγαῖς καὶ τοῖς δάκρυσι συχνὰ διακοπτόμενος. Ἀφεὶς οὖν τοῦτον ὁ Ζωσιμᾶς αὐτὸς καθ̓ ἑαυτὸν εἴς τι δωμάτιον ἐστρέχει ἔνθα τῷ θεῷ, ὡς θεμιτὸν τοῖς τοιούτοις, ἐνετύγχανεν. Μετὰ δ̓ αὖ τινα καιρὸν προσελθὼν ἔχαιρέν τεκαὶ σεμνὰ μειδιῶν πρὸς Ἀρκεσίλαον ἔλεγε τὴν χεῖρα καταψήχων: Ἄπιθι χαίρων, ἄπιθι: ἡ χάρις τῷ Χουζιβίτῃ δέδοται. Ἰάθη σου τὸ γύναιον, ἄμφω τὼ ὀφθαλμὼ ἔχει, οὐδὲν ἰσχυσάσης τῆς συμφορᾶς ἀφελέσθαι, οὕτω τοῦ Χουζιβίτου βουληθέντος. Ὅπερ καὶ γέγονεν ἀμφοῖντοῖν δικαίοιν κατὰ ταὐτὸ θαυματουργησάντοιν. Τούτῳ τῷ Ζωσιμᾷ καί ποτε ἐπὶ τὴν <placeName xml:lang="grc">Καίσαρος</placeName> ἰόντι ὀνάριόν τε παρασυρομένῳ ἐν ᾧ τῶν τινά οἱ ἐπιτηδείων ἐπεβέβλητο, λέων ἔπεισι καὶ τὸν ὄνον ἁρπάσας ἀπῄει. Ὁ δὲ Ζωσιμᾶς ἀνὰ τὴν ὕλην εἵπετο μέχρις ὅτου διακορὴσὁ λέων ἐκ τῆς θοίνης τοῦ ζῴου γέγονε: πρὸς ὃν ἐπιγελάσας ὁ Ζωσιμᾶς φησιν: Ἀλλὰ γάρ, ὦ ἑταῖρε, τὰ τῆς πορείας ἐμοὶ διακέκοπται πάχητί τε ὄντι πόρρω τε τῆς ἡλικίας ἀφιγμένῳ, καὶ μὴ δυναμένῳ νωτοφορεῖν τὰ ἐπὶ τοῦ ζῴου σεσαγμένα. Ἀχθοφορεῖν οὖν ἀνάγκη σεπαρὰ τὸν θεσμὸν τῆς φύσεως, εἴπερ ἐθέλεις τῶν ἐντεῦθεν τὸν Ζωσιμᾶν ἀπαλλάττεσθαι καὶ θηρίον αὖθις εἶναι. Ὁ δὲ τοῦ θυμοῦ καθάπαξ ἐπιλελησμένος ὑπέσαινε καὶ τῷ Ζωσιμᾷ προσέτρεχε πράως εὐθύς, καὶ διὰ τοῦ σχήματος ἐβόα τὸ πειθήνιον. Ὧι περιθεὶς ὁ Ζωσιμᾶς τοῦ ὄνου τὸ φορτίον μέχρι <placeName xml:lang="grc">τῶν πυλῶν τῆς Καίσαρος</placeName> ἤγαγε, δεικνὺς τοῦ θεοῦ τὴν δύναμιν καὶ ὡς ἅπαντα τοῖς ἀνθρώποις δοῦλά τε καὶ πειθήνια, ὅταν αὐτῷ ζῶμεν καὶ τὴν δεδομένην ἡμῖν χάριν οὐ παραχαράττομεν. Ἀλλ̓ ἵνα μὴ τοῖς πλείοσι τὴν ἱστορίαν παραμηκύνωμεν, ἐπάνειμι ὅθεν τὴν ἐκβολὴν ἐποιησάμην.<note type="textual"/><note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2733.tlg001.1st1K-grc1:4.7</idno>
+        <anchor xml:id="testimonia-163.grc.1" corresp="testimonia-163.en.1"/>Ἀλλ̓ ἐπεὶ τῶν εἰρημένων ἐμνήσθημεν παθημάτων, [*] φέρε καὶ ἕτερα ἄττα τῶν ἀξιολόγων τῷ παρόντι προσθῶμεν [*] πόνῳ, ἅπερ εἰς ἡμᾶς ἐκ τῶν ἱστορησάντων ἐνηνέκται. Ζωσιμᾶς ἀνήρ, γένος Φοῖνιξ, τῆς λεγομένης παραλίας, κώμην Σίνδην πατρίδα κληρωσάμενος διέχουσαν τῆς τῶν Τυρίων οὔτι σταδίους εἴκοσι, τὸν μονήρη διαθλεύων βίον,οὕτως ταῖς τε ἀφέξεσι καὶ μεθέξεσι τῶν τροφῶν καὶ ταῖς ἄλλαις ἀρεταῖς τοῦ βίου τὸν θεὸν εἰσοικισάμενος ὡς μὴ μόνον διορᾶν τὰ μέλλοντα, ἀλλὰ καὶ πάσης ἀπαθείας χάριν λαβεῖν, συνῆν τῶν τινι ἐπισήμων ἀνὰ <placeName xml:lang="grc">τὴν Καίσαρος πόλιν,</placeName> ἣ μιᾶς τῶν Παλαιστινῶν ἡγεῖται: ἦν δὲ ἄρα οὗτος Ἀρκεσίλαος, ἀνὴρ εὐπατρίδης τε καὶ λόγιμος, εὖ τε ἀξιωμάτων καὶ τῶν λοιπῶν τῶν κοσμούντων ἀνδρὸς βίον ἥκων. Οὗτος ὁ Ζωσιμᾶς ἐν τῷ ἀκαρεῖ τῆς Ἀντιόχου πτώσεως ἀθρόον ἐπιστυγνάσας ὀλοφυρόμενός τε καὶ μύχιον ἀνοιμώξας, δάκρυά τε τοσαῦτα σπείσας ὡς καὶ τὴν γῆν ἐπιβρέξαι, θυμιατήριον ἐξῃτήσατο, καὶ πάντα τὸν χῶρον ἐν ᾧ καθειστήκεισαν ἐπιθυμιάσας ἐπὶ γῆς ἑαυτὸν ῥίπτει, προσευχαῖς τε καὶ λιταῖς τὸν θεὸν ἱλεούμενος. Εἶτα πυνθανομένου τοῦ Ἀρκεσιλάου τί ἄρα τὸ οὕτω διαταράξαν εἴη, διαρρήδην εἶπε τὴν ἠχὴν τῆς Ἀντιόχου πτώσεως αὐτίκα τὰ ὦτά οἱ περιβομβῆσαι. Ὥστε τὸν Ἀρκεσίλαον καὶ τοὺς παρατετυχηκότας ἐκπεπληγμένους ἀναγράψαι τὴν ὥραν, εὑρεῖν τε ἐς ὕστερον οὕτως ὡς ὁ Ζωσιμᾶς ἀπεφήνατο. Διὰ τούτου πολλαί τε καὶ ἕτεραι θεοσημεῖαι γεγόνασιν, ὧν τὸ πλῆθος παρείς, ἐπεὶ καὶ κρείττονος εἰπεῖν ἀριθμοῦ τυγχάνουσιν οὖσαι, ἔνια λέξω. Συνήκμαζε τῷ Ζωσιμᾷ ἀνήρ, Ἰωάννης τοὔνομα, ταῖς ἀρεταῖς παραπλήσιος, ἐν Χουζιβᾷ τῇ μάνδρᾳ — κεῖται δὲ πρὸς τῇ ἐσχατιᾷ τῆς χαράδρας ἀνὰ τὸ ἀρκτῷον μέρος τῆς λεωφόρου τῆς φερούσης τοὺς διαπορευομένους ἐξ Ἱεροσολύμων ἐπὶ τὴν Ἱεριχουντίων πόλιν — τὸν μονήρη τε καὶ ἄϋλον διαπαλαίσας βίον, ἐπισκοπήσας δὲ τὴν εἰρημένην μοι <placeName xml:lang="grc">Καίσαρος πόλιν.</placeName> Οὗτος ὁ Ἰωάννης ὁ Χουζιβίτης, ἐπεὶ τὴν Ἀρκεσιλάου τοῦ λελεγμένου μοι γυναῖκα ἠκηκόει θάτερον τοῖν ὀφθαλμοῖν ὑπὸ κερκίδος ἐκκοπέντα, δρομαίως ᾔει πρὸς αὐτὴν τὸ πάθος ἐπισκεψόμενος. Ὡς δ̓ οὖν ἐθεάσατο τήν τε κόρην ἐκπεσοῦσαν τέλεόν τε τὸν ὀφθαλμὸν διαρρυέντα, σπόγγον ἐπιτάττει τῶν τινι παρεφομαρτούντων ἰατρῶν ἐνεγκεῖν, εἰσαγαγεῖν τε τὸ διαρρυὲν ὡς ἂν δύναιτο, καὶ τὸν σπόγγον περιθέντα τελαμῶσιν ἀναδῆσαι, οὔτι παρόντος Ἀρκεσιλάου. Ἔτυχε γὰρ τῷ Ζωσιμᾷ παρὼν ἐν τῷ κατ̓ αὐτὸν φροντιστηρίῳ, ὅπερ ἐπὶ τῆς Σινδηνῶν ἔκειτο κώμης, διεστώσης <placeName xml:lang="grc">τῆς Καίσαρος</placeName> σταδίους μάλιστα πεντακοσίους. Δρομαῖοιτοίνυν παρὰ τὸν Ἀρκεσίλαον ἐκτρέχουσίν οἱ ταῦτα διαγγέλλοντες. Καθῆστο δὲ πρὸς Ζωσιμᾷ ὁ Ἀρκεσίλαος τὰς διαλέξεις ποιούμενος: ὅπερ ἐπειδὴ διέγνω, διωλύγιον ἀνεκώκυε, καὶ τὰς τρίχας ἐκτίλλων καὶ διασπῶν εἰς οὐρανὸν ἀνέπεμπε. Τοῦ δὲ Ζωσιμᾶ πυνθανομένουτὴν αἰτίαν, τὸ συμβὰν ὁ Ἀρκεσίλαος ἔλεγε ταῖς οἰμωγαῖς καὶ τοῖς δάκρυσι συχνὰ διακοπτόμενος. Ἀφεὶς οὖν τοῦτον ὁ Ζωσιμᾶς αὐτὸς καθ̓ ἑαυτὸν εἴς τι δωμάτιον ἐστρέχει ἔνθα τῷ θεῷ, ὡς θεμιτὸν τοῖς τοιούτοις, ἐνετύγχανεν. Μετὰ δ̓ αὖ τινα καιρὸν προσελθὼν ἔχαιρέν τεκαὶ σεμνὰ μειδιῶν πρὸς Ἀρκεσίλαον ἔλεγε τὴν χεῖρα καταψήχων: Ἄπιθι χαίρων, ἄπιθι: ἡ χάρις τῷ Χουζιβίτῃ δέδοται. Ἰάθη σου τὸ γύναιον, ἄμφω τὼ ὀφθαλμὼ ἔχει, οὐδὲν ἰσχυσάσης τῆς συμφορᾶς ἀφελέσθαι, οὕτω τοῦ Χουζιβίτου βουληθέντος. Ὅπερ καὶ γέγονεν ἀμφοῖντοῖν δικαίοιν κατὰ ταὐτὸ θαυματουργησάντοιν. Τούτῳ τῷ Ζωσιμᾷ καί ποτε ἐπὶ τὴν <placeName xml:lang="grc">Καίσαρος</placeName> ἰόντι ὀνάριόν τε παρασυρομένῳ ἐν ᾧ τῶν τινά οἱ ἐπιτηδείων ἐπεβέβλητο, λέων ἔπεισι καὶ τὸν ὄνον ἁρπάσας ἀπῄει. Ὁ δὲ Ζωσιμᾶς ἀνὰ τὴν ὕλην εἵπετο μέχρις ὅτου διακορὴσὁ λέων ἐκ τῆς θοίνης τοῦ ζῴου γέγονε: πρὸς ὃν ἐπιγελάσας ὁ Ζωσιμᾶς φησιν: Ἀλλὰ γάρ, ὦ ἑταῖρε, τὰ τῆς πορείας ἐμοὶ διακέκοπται πάχητί τε ὄντι πόρρω τε τῆς ἡλικίας ἀφιγμένῳ, καὶ μὴ δυναμένῳ νωτοφορεῖν τὰ ἐπὶ τοῦ ζῴου σεσαγμένα. Ἀχθοφορεῖν οὖν ἀνάγκη σεπαρὰ τὸν θεσμὸν τῆς φύσεως, εἴπερ ἐθέλεις τῶν ἐντεῦθεν τὸν Ζωσιμᾶν ἀπαλλάττεσθαι καὶ θηρίον αὖθις εἶναι. Ὁ δὲ τοῦ θυμοῦ καθάπαξ ἐπιλελησμένος ὑπέσαινε καὶ τῷ Ζωσιμᾷ προσέτρεχε πράως εὐθύς, καὶ διὰ τοῦ σχήματος ἐβόα τὸ πειθήνιον. Ὧι περιθεὶς ὁ Ζωσιμᾶς τοῦ ὄνου τὸ φορτίον μέχρι <placeName xml:lang="grc">τῶν πυλῶν τῆς Καίσαρος</placeName> ἤγαγε, δεικνὺς τοῦ θεοῦ τὴν δύναμιν καὶ ὡς ἅπαντα τοῖς ἀνθρώποις δοῦλά τε καὶ πειθήνια, ὅταν αὐτῷ ζῶμεν καὶ τὴν δεδομένην ἡμῖν χάριν οὐ παραχαράττομεν. Ἀλλ̓ ἵνα μὴ τοῖς πλείοσι τὴν ἱστορίαν παραμηκύνωμεν, ἐπάνειμι ὅθεν τὴν ἐκβολὴν ἐποιησάμην.<note type="textual"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2733.tlg001.1st1K-grc1:4.7</idno>
         <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2733.tlg001.1st1K-grc1:4.7"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote163-2" source="#bib163-2">
@@ -355,6 +350,36 @@
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/7J8TATQA"/>
           <citedRange unit="section">4.7</citedRange>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
         <note type="related-texts"/>
