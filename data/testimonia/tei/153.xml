@@ -385,8 +385,10 @@
             <p> Zeno of Tyre</p>
          </note>
          <note type="themes">
-        <p>Christianity</p>Travel</note>
-         <note type="themes">Society and Culture</note>
+            <p>Christianity</p>
+            <p>Travel</p>
+            <p>Society and Culture</p>
+         </note>
       </body>
    </text>
 </TEI>
