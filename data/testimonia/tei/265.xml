@@ -262,7 +262,6 @@
       </textClass>
     </profileDesc>
     <revisionDesc status="draft">
-      <change who="" when="">ADDED: testimonium ID, URNs, URLs to edition and translation, and Bibl URIs</change>
       <change who="jrife" when="">CREATED: testimonium</change>
     </revisionDesc>
   </teiHeader>
