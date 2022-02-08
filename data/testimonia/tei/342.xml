@@ -386,34 +386,37 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts"/>
+      
+      
+      
+      
+    <note type="related-texts"/>
       <note type="geography">
+        <p>Damascus</p>
         <p>Jerusalem</p>
         <p>Ptolomayda (Ptolemaïs, Acco, Akko, Acre)</p>
-        <p>Sarepta (Sidon)</p>
-        <p>Damascus</p>
         <p>Saquet</p>
+        <p>Sarepta (Sidon)</p>
       </note>
       <note type="prosopography">
+        <p>Al-Mu’azzam Isa, Ayyubid Sultan of Damascus (Sharaf ad-Din al-Mu’azzam Isa, Conradinus)</p>
+        <p>An-Nasir Dawud, Ayyubid Sultan of Damascus (Melecel Naser)</p>
+        <p>Conrad II, King of Jerusalem</p>
+        <p>Esedinebec, Emir of Saquet (?)</p>
         <p>Frederick II, Holy Roman Emperor</p>
         <p>Gerold of Lausanne, Latin Patriarch of Jerusalem</p>
         <p>Henry, Count of Lamborg</p>
-        <p>Al-Mu’azzam Isa, Ayyubid Sultan of Damascus (Sharaf ad-Din al-Mu’azzam Isa,
-               Conradinus)</p>
-        <p>An-Nasir Dawud, Ayyubid Sultan of Damascus (Melecel Naser)</p>
-        <p>Esedinebec, Emir of Saquet (?)</p>
-        <p>Philip of Ibelin, Regent of Cyprus</p>
         <p>Hugh I, King of Cyprus</p>
         <p>Isabella II, Queen of Jerusalem (Yolande of Brienne)</p>
-        <p>Conrad II, King of Jerusalem</p>
+        <p>Philip of Ibelin, Regent of Cyprus</p>
       </note>
       <note type="themes">
-        <p>Medieval History</p>
         <p>Crusades</p>
-        <p>Islamic History</p>
-        <p>Pilgrimage</p>
         <p>Government and Law</p>
+        <p>Islamic History</p>
+        <p>Medieval History</p>
         <p>Military</p>
+        <p>Pilgrimage</p>
       </note>
     </body>
   </text>

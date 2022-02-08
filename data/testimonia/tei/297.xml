@@ -366,40 +366,44 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts"/>
+      
+      
+      
+      
+    <note type="related-texts"/>
       <note type="geography">
-        <list type="simple">
-          <item>Palestine</item>
-          <item>Cyprus</item>
-        </list>
+        <p>Cyprus</p>
         <p>Jerusalem</p>
+        <p>Palestine</p>
       </note>
-      <note type="prosopography">Origen<list type="simple">
-          <item>Theophilus, Patriarch of Alexandria</item>
-          <item>Isidore, monk</item>
-          <item>John, bishop of Jerusalem</item>
-          <item>Tyrannius Rufinus, monk</item>
-          <item>Eulogius, bishop</item>
-          <item>John, bishop</item>
-          <item>Zebinnus, bishop</item>
-          <item>Auxentius, bishop</item>
-          <item>Dionysius, bishop</item>
-          <item>Gennadius, bishop</item>
-          <item>Zeno, bishop</item>
-          <item>Theodosius, bishop</item>
-          <item>Dictenios, bishop</item>
-          <item>Porphyry, bishop</item>
-          <item>Saturninus, bishop</item>
-          <item>Alan, bishop</item>
-          <item>Paul, bishop</item>
-          <item>Ammonius, bishop</item>
-          <item>Aelian, bishop</item>
-          <item>Paul, bishop</item>
-          <item>Eusebius, bishop</item>
-        </list>
+      <note type="prosopography">
+        <p>Aelian, bishop</p>
+        <p>Alan, bishop</p>
+        <p>Ammonius, bishop</p>
+        <p>Auxentius, bishop</p>
+        <p>Dictenios, bishop</p>
+        <p>Dionysius, bishop</p>
+        <p>Eulogius, bishop</p>
+        <p>Eusebius, bishop</p>
+        <p>Gennadius, bishop</p>
+        <p>Isidore, monk</p>
+        <p>John, bishop</p>
+        <p>John, bishop of Jerusalem</p>
+        <p>Origen</p>
+        <p>Paul, bishop</p>
+        <p>Paul, bishop</p>
+        <p>Porphyry, bishop</p>
+        <p>Saturninus, bishop</p>
+        <p>Theodosius, bishop</p>
+        <p>Theophilus, Patriarch of Alexandria</p>
+        <p>Tyrannius Rufinus, monk</p>
+        <p>Zebinnus, bishop</p>
+        <p>Zeno, bishop</p>
       </note>
-      <note type="themes">Theology<p>Christianity</p>
+      <note type="themes">
+        <p>Christianity</p>
         <p>Education (sacred)</p>
+        <p>Theology</p>
       </note>
     </body>
   </text>

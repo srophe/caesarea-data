@@ -387,29 +387,35 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts">
-        <p>Xenophon, Household Management (Oeconomicus) 10.3</p>
+      
+      
+      
+      
+    <note type="related-texts">
         <p>Diocletian, Price Edict 24.3</p>
+        <p>Xenophon, Household Management (Oeconomicus) 10.3</p>
       </note>
       <note type="geography">
-        <p>Scythopolis</p>
-        <p>Laodicea</p>
-        <p>Byblos</p>
-        <p>Tyre</p>
         <p>Beirut</p>
-        <p>Sarepta</p>
-        <p>Neapolis</p>
-        <p>Lydda</p>
-        <p>Palestine</p>
-        <p>Jericho</p>
+        <p>Byblos</p>
         <p>Damascus</p>
+        <p>Jericho</p>
+        <p>Laodicea</p>
+        <p>Lydda</p>
+        <p>Neapolis</p>
+        <p>Palestine</p>
+        <p>Sarepta</p>
+        <p>Scythopolis</p>
+        <p>Tyre</p>
       </note>
-      <note type="prosopography">Nicolaus of Damascus</note>
+      <note type="prosopography">
+        <p>Nicolaus of Damascus</p>
+      </note>
       <note type="themes">
-        <p>Roman History</p>
         <p>Byzantine History</p>
-        <p>Natural Environment</p>
         <p>Economy and Commerce</p>
+        <p>Natural Environment</p>
+        <p>Roman History</p>
       </note>
     </body>
   </text>

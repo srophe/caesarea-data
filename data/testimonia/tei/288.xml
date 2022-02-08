@@ -360,28 +360,35 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts">
-        <p>Eusebius, Church History<hi rend="italic">Suda ω 182.39-41</hi>
-        </p>
+      
+      
+      
+      
+    <note type="related-texts">
+        <p>Eusebius, Church History</p>
+        <p>Suda ω 182.39-41</p>
       </note>
       <note type="geography">
+        <p>Antioch</p>
         <p>Cappadocia</p>
-        <p>Palestine</p>Antioch</note>
+        <p>Palestine</p>
+      </note>
       <note type="prosopography">
         <p>Firmillianus, bishop</p>
         <p>Julia Mammaea</p>
-        <p>Severus
-               Alexander, emperor</p>Philip the Arab, emperor</note>
+        <p>Philip the Arab, emperor</p>
+        <p>Severus Alexander, emperor</p>
+      </note>
       <note type="themes">
-        <p>Roman History</p>
+        <p>Christian Bible</p>
         <p>Christianity</p>
-        <p>Christian
-               Bible</p>
-        <p>Pilgrimage</p>
+        <p>Education (sacred)</p>
         <p>Government and Law</p>
+        <p>Pilgrimage</p>
+        <p>Roman History</p>
+        <p>Society and Culture</p>
         <p>Travel</p>
-        <p>Education
-               (sacred)</p>Society and Culture</note>
+      </note>
     </body>
   </text>
 </TEI>

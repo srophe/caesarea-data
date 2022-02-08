@@ -363,16 +363,20 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts"/>
+      
+      
+      
+      
+    <note type="related-texts"/>
       <note type="geography">
-        <p>Ptolemaïs (Acco, Accho, Acre, Akko)</p>
-        <p>Kishon, stream (Cyson)</p>
-        <p>Nycelet (Sycelec)</p>
         <p>Antipatris (Assur, Arsur, Arsuf)</p>
         <p>Emmaus</p>
-        <p>Rephaim, Valley? (Raphaym)</p>
-        <p>Ramatha</p>
         <p>Joppa (Iope, Ioppe, Ioppa, Jaffa)</p>
+        <p>Kishon, stream (Cyson)</p>
+        <p>Nycelet (Sycelec)</p>
+        <p>Ptolemaïs (Acco, Accho, Acre, Akko)</p>
+        <p>Ramatha</p>
+        <p>Rephaim, Valley? (Raphaym)</p>
       </note>
       <note type="prosopography">
         <p>Zachariah, father of John the Baptist</p>

@@ -352,15 +352,19 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts">
-        <hi rend="italic">Bordeaux Itinerary 589.4-6</hi>
+      
+      
+      
+      
+    <note type="related-texts">
+        <p>Bordeaux Itinerary 589.4-6</p>
       </note>
       <note type="geography">
-        <p>Jerusalem</p>
-        <p>Nicopolis</p>
-        <p>Lydda (Lidda)</p>
         <p>Antipatris (Antipatrida)</p>
+        <p>Jerusalem</p>
+        <p>Lydda (Lidda)</p>
         <p>Matthar (Batthar)</p>
+        <p>Nicopolis</p>
       </note>
       <note type="prosopography"/>
       <note type="themes">

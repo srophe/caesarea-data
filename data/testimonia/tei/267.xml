@@ -363,9 +363,13 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts">
-        <p>Theodorus Anagnostes 153 (62.7-10)</p>
+      
+      
+      
+      
+    <note type="related-texts">
         <p>Socrates Scholasticus, Church History 3.23</p>
+        <p>Theodorus Anagnostes 153 (62.7-10)</p>
       </note>
       <note type="geography">
         <p>Palestine</p>
@@ -375,8 +379,8 @@
       </note>
       <note type="themes">
         <p>Christianity</p>
-        <p>Hellenism (paganism)</p>
         <p>Government and Law</p>
+        <p>Hellenism (paganism)</p>
       </note>
     </body>
   </text>

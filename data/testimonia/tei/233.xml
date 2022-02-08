@@ -384,39 +384,42 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts"/>
+      
+      
+      
+      
+    <note type="related-texts"/>
       <note type="geography">
-        <p>Emmaus</p>
-        <p>Ramla (Ramleh, Rama)</p>
         <p>Arimathea</p>
-        <p>Kakun (Cacho)</p>
-        <p>Athlit (Castellum Peregrinorum, Castrum Peregrinorum, Petra Incisa, Pilgrims’ Castle,
-               Château Pélérin)</p>
+        <p>Athlit (Castellum Peregrinorum, Castrum Peregrinorum, Petra Incisa, Pilgrims’ Castle, Château Pélérin)</p>
         <p>Egypt</p>
-        <p>Judaea</p>
+        <p>Emmaus</p>
         <p>Galilee</p>
+        <p>Judaea</p>
+        <p>Kakun (Cacho)</p>
+        <p>Ramla (Ramleh, Rama)</p>
       </note>
       <note type="prosopography">
-        <p>Joseph of Arimathea</p>
         <p>Jesus Christ</p>
+        <p>Jesus Christ</p>
+        <p>Joseph of Arimathea</p>
+        <p>Joseph of Arimathea</p>
+        <p>Joseph, father of Jesus</p>
         <p>Joseph, father of Jesus</p>
         <p>Mary, mother of Jesus</p>
-        <p>Joseph of Arimathea</p>
-        <p>Jesus Christ</p>
-        <p>Joseph, father of Jesus</p>
         <p>Mary, mother of Jesus</p>
       </note>
       <note type="themes">
-        <p>Roman History</p>
-        <p>Medieval History</p>
-        <p>Christianity</p>
         <p>Christian Bible</p>
-        <p>Pilgrimage</p>
+        <p>Christianity</p>
         <p>Crusades</p>
         <p>Geography</p>
-        <p>Natural Environment</p>
-        <p>Travel</p>
+        <p>Medieval History</p>
         <p>Military</p>
+        <p>Natural Environment</p>
+        <p>Pilgrimage</p>
+        <p>Roman History</p>
+        <p>Travel</p>
       </note>
     </body>
   </text>

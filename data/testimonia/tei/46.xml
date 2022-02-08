@@ -370,20 +370,24 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-         <note type="related-texts">
-            <p>Aelius Herodian, Correct Spelling 451.22-27</p>
-            <p>George Choeroboscus, Prologue and Notes on Theodosius of Alexandria’s Introductory Rules 303.12-20</p>
-            <p>Apollonius of Rhodes, Voyage of the Argo 3.31</p>
-        </note>
-         <note type="geography">
-            <p>Alexandria (Alexandreia)</p>
-            <p>Antioch on the Orontes (Antiocheia)</p>
-         </note>
-         <note type="prosopography"/>
-         <note type="themes">
-            <p>Greek Language</p>
-            <p> Geography</p>
-         </note>
-      </body>
+         
+         
+         
+         
+      <note type="related-texts">
+        <p>Aelius Herodian, Correct Spelling 451.22-27</p>
+        <p>Apollonius of Rhodes, Voyage of the Argo 3.31</p>
+        <p>George Choeroboscus, Prologue and Notes on Theodosius of Alexandria’s Introductory Rules 303.12-20</p>
+      </note>
+      <note type="geography">
+        <p>Alexandria (Alexandreia)</p>
+        <p>Antioch on the Orontes (Antiocheia)</p>
+      </note>
+      <note type="prosopography"/>
+      <note type="themes">
+        <p>Geography</p>
+        <p>Greek Language</p>
+      </note>
+    </body>
    </text>
 </TEI>

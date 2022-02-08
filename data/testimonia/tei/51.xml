@@ -416,37 +416,41 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-         <note type="related-texts"/>
-         <note type="geography">
-            <p>Sarepta</p>
-            <p>Judaea</p>
-            <p>Sidon</p>
-            <p>Caesarea Philippi</p>
-            <p>Acre</p>
-            <p>Ioppe (Jaffa)</p>
-            <p>Tarsus</p>
-            <p>Ramma (Ramleh)</p>
-         </note>
-         <note type="prosopography">
-            <p>Peter the Apostle</p>
-            <p>Jesus Christ</p>
-            <p>Matthew</p>
-            <p>Henry V, king</p>
-            <p>Magi</p>
-            <p>Saracens</p>
-         </note>
-         <note type="themes">
-            <p>Christianity</p>
-            <p>Christian Bible</p>
-            <p>Crusades</p>
-            <p>Roman History</p>
-            <p>Medieval History</p>
-            <p>Geography</p>
-            <p>Urban Topography</p>
-            <p>Travel</p>
-            <p>Government and Law</p>
-            <p>Economy</p>
-         </note>
-      </body>
+         
+         
+         
+         
+      <note type="related-texts"/>
+      <note type="geography">
+        <p>Acre</p>
+        <p>Caesarea Philippi</p>
+        <p>Ioppe (Jaffa)</p>
+        <p>Judaea</p>
+        <p>Ramma (Ramleh)</p>
+        <p>Sarepta</p>
+        <p>Sidon</p>
+        <p>Tarsus</p>
+      </note>
+      <note type="prosopography">
+        <p>Henry V, king</p>
+        <p>Jesus Christ</p>
+        <p>Magi</p>
+        <p>Matthew</p>
+        <p>Peter the Apostle</p>
+        <p>Saracens</p>
+      </note>
+      <note type="themes">
+        <p>Christian Bible</p>
+        <p>Christianity</p>
+        <p>Crusades</p>
+        <p>Economy</p>
+        <p>Geography</p>
+        <p>Government and Law</p>
+        <p>Medieval History</p>
+        <p>Roman History</p>
+        <p>Travel</p>
+        <p>Urban Topography</p>
+      </note>
+    </body>
    </text>
 </TEI>

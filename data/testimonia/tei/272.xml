@@ -355,38 +355,42 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts">
-        <p>Josephus, Jewish Antiquities 18.35</p>
-        <p>Josephus, Jewish
-               War 2.169</p>
+      
+      
+      
+      
+    <note type="related-texts">
+        <p>Dionysius of Tel Mahre 46</p>
+        <p>Easter Chronicle p. 389</p>
         <p>Eusebius, Church History 1.9.2</p>
-        <hi rend="italic">Easter
-               Chronicle p. 389</hi>
         <p>George Syncellus, Chronicle p. 320</p>
-        <p>Dionysius of Tel
-               Mahre 46</p>John Zonaras, Epitome of History 6.4=p. 477</note>
+        <p>John Zonaras, Epitome of History 6.4=p. 477</p>
+        <p>Josephus, Jewish War 2.169</p>
+        <p>Josephus, Jewish Antiquities 18.35</p>
+      </note>
       <note type="geography">
+        <p>Balearic Islands</p>
         <p>Caesarea Philippi (Paneas, Banias)</p>
-        <p>Julias
-               (Bethsaida)</p>
         <p>Judaea</p>
-        <p>Narbonne</p>Balearic Islands</note>
+        <p>Julias (Bethsaida)</p>
+        <p>Narbonne</p>
+      </note>
       <note type="prosopography">
+        <p>Felix, governor</p>
         <p>Herod Philip II</p>
+        <p>Josephus</p>
+        <p>Paul the Apostle</p>
         <p>Pontius Pilatus</p>
         <p>Tiberius, emperor</p>
         <p>Votienus Montanus of Narbonne</p>
-        <p>Felix, governor</p>
-        <p>Josephus</p>
-        <p>Paul the Apostle</p>
       </note>
       <note type="themes">
-        <p>Roman History</p>
-        <p>Herodian Dynasty</p>
+        <p>Death and Burial</p>
         <p>Geography</p>
         <p>Government and Law</p>
+        <p>Herodian Dynasty</p>
+        <p>Roman History</p>
         <p>Society and Culture</p>
-        <p>Death and Burial</p>
       </note>
     </body>
   </text>

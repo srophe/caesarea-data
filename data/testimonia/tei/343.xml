@@ -379,28 +379,31 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts"/>
+      
+      
+      
+      
+    <note type="related-texts"/>
       <note type="geography">
-        <p>Ptolomayda (Ptolemaïs, Acco, Accho, Acre, Akko)</p>
-        <p>Rama (Ramla)</p>
         <p>Ascalon (Ashkelon)</p>
         <p>Bethsan (Scythopolis, Beisan, Beth She’an)</p>
+        <p>Ptolomayda (Ptolemaïs, Acco, Accho, Acre, Akko)</p>
+        <p>Rama (Ramla)</p>
       </note>
       <note type="prosopography">
-        <p>Oliver de Termes</p>
+        <p>Baybars, Mamluk Sultan of Egypt (Bendocdar, Al-Malik al-Zahir Rukn al-Din Baibars al-Bunduqdari, الملك الظاهر ركن الدين بيبرس البندقداري‎)</p>
         <p>Knights Hospitaller</p>
         <p>Knights Templar</p>
-        <p>Baybars, Mamluk Sultan of Egypt (Bendocdar, Al-Malik al-Zahir Rukn al-Din Baibars
-               al-Bunduqdari, الملك الظاهر ركن الدين بيبرس البندقداري‎)</p>
+        <p>Oliver de Termes</p>
         <p>St. Nicholas of xxx</p>
       </note>
       <note type="themes">
-        <p>Medieval History</p>
-        <p>Islamic History</p>
         <p>Crusades</p>
         <p>Geography</p>
-        <p>Military</p>
         <p>Government and Law</p>
+        <p>Islamic History</p>
+        <p>Medieval History</p>
+        <p>Military</p>
       </note>
     </body>
   </text>

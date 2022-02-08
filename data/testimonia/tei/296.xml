@@ -374,32 +374,32 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts">
-        <hi rend="italic">Acts 10:1-2</hi>
+      
+      
+      
+      
+    <note type="related-texts">
+        <p>Acts 10:1-2</p>
       </note>
       <note type="geography">
-        <list type="simple">
-          <item>Constantinople</item>
-          <item>Africa</item>
-        </list>
+        <p>Africa</p>
+        <p>Constantinople</p>
         <p>Ιtaly</p>
       </note>
       <note type="prosopography">
-        <list type="simple">
-          <item>Nebridius</item>
-          <item>Theodosius I, emperor</item>
-          <item>Peter the Apostle</item>
-        </list>
         <p>Cornelius, early Christian at Caesarea</p>
+        <p>Nebridius</p>
+        <p>Peter the Apostle</p>
+        <p>Theodosius I, emperor</p>
       </note>
       <note type="themes">
-        <p>Christianity</p>
         <p>Christian Bible</p>
-        <p>Roman History</p>
-        <p>Government and Law</p>
-        <p>Society and Culture</p>
+        <p>Christianity</p>
         <p>Family</p>
+        <p>Government and Law</p>
         <p>Military</p>
+        <p>Roman History</p>
+        <p>Society and Culture</p>
       </note>
     </body>
   </text>

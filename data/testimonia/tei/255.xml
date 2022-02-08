@@ -384,24 +384,25 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts">
-        <hi rend="italic"/>
-      </note>
+      
+      
+      
+      
+    <note type="related-texts"/>
       <note type="geography">
         <p>Jerusalem</p>
         <p>Scythopolis</p>
       </note>
       <note type="prosopography">
+        <p>Athanasius of Scythopolis</p>
+        <p>Cyril of Jerusalem</p>
+        <p>Eutychius of Eleutheropolis</p>
         <p>Euzoeus of Caesarea</p>
-        <p>Philoumen</p>
-        <p>Cyril of
-               Jerusalem</p>
-        <p>Eutychius of
-               Eleutheropolis</p>
         <p>Gelasius</p>
         <p>Gemellinus</p>
-        <p>Philip of
-            Scythopolis</p>Athanasius of Scythopolis</note>
+        <p>Philip of Scythopolis</p>
+        <p>Philoumen</p>
+      </note>
       <note type="themes">
         <p>Christianity</p>
         <p>Society and Culture</p>

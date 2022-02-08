@@ -355,21 +355,29 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts">Josephus</note>
-      <note type="geography">Judaea</note>
+      
+      
+      
+      
+    <note type="related-texts">
+        <p>Josephus</p>
+      </note>
+      <note type="geography">
+        <p>Judaea</p>
+      </note>
       <note type="prosopography">
-        <p>Cn. Cornelius Lentulus Gaetulicus</p>
+        <p>Ap. Junius Silanus</p>
         <p>C. Calvisius Sabinus</p>
+        <p>Cn. Cornelius Lentulus Gaetulicus</p>
         <p>L. Calpurnius Piso</p>
         <p>M. Licinius Crassus Frugi</p>
+        <p>P. Silius Nerva</p>
         <p>Pontius Pilate</p>
         <p>Tiberius, emperor</p>
-        <p>Ap. Junius Silanus</p>
-        <p>P. Silius Nerva</p>
       </note>
       <note type="themes">
-        <p>Roman History</p>
         <p>Government and Law</p>
+        <p>Roman History</p>
       </note>
     </body>
   </text>

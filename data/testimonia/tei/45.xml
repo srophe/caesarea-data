@@ -374,13 +374,17 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-         <note type="related-texts"/>
-         <note type="geography"/>
-         <note type="prosopography"/>
-         <note type="themes">
-            <p>Greek Language</p>
-            <p>Geography</p>
-         </note>
-      </body>
+         
+         
+         
+         
+      <note type="related-texts"/>
+      <note type="geography"/>
+      <note type="prosopography"/>
+      <note type="themes">
+        <p>Geography</p>
+        <p>Greek Language</p>
+      </note>
+    </body>
    </text>
 </TEI>

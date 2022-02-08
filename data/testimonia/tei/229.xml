@@ -373,36 +373,34 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts">
-        <list type="simple">
-          <item>Evagrius Scholasticus, Church History 4.2-4.3</item>
-          <item>John Rufus, Reassurances 10</item>
-          <item>John Rufus, Reassurances 25</item>
-          <item>John Rufus, Reassurances 56</item>
-          <item>Pseudo-Zacharias Scholasticus, Historical Miscellany 3.3</item>
-          <item>Cyril of Scythopolis, Life of Euthymius 27</item>
-          <item>Theophanes the Confessor, Chronicle 107.6-14</item>
-          <item>Nicephorus Callistus Xanthopoulos 15.9</item>
-        </list>
+      
+      
+      
+      
+    <note type="related-texts">
+        <p>Cyril of Scythopolis, Life of Euthymius 27</p>
+        <p>Evagrius Scholasticus, Church History 4.2-4.3</p>
+        <p>John Rufus, Reassurances 10</p>
+        <p>John Rufus, Reassurances 25</p>
+        <p>John Rufus, Reassurances 56</p>
+        <p>Nicephorus Callistus Xanthopoulos 15.9</p>
+        <p>Pseudo-Zacharias Scholasticus, Historical Miscellany 3.3</p>
+        <p>Theophanes the Confessor, Chronicle 107.6-14</p>
       </note>
       <note type="geography">
-        <list type="simple">
-          <item>Jerusalem</item>
-          <item>Palestine</item>
-          <item>Chalcedon</item>
-        </list>
+        <p>Chalcedon</p>
+        <p>Jerusalem</p>
+        <p>Palestine</p>
       </note>
       <note type="prosopography">
-        <list type="simple">
-          <item>Juvenal of Jerusalem, bishop</item>
-          <item>Theodosius of Jerusalem, bishop</item>
-        </list>
+        <p>Juvenal of Jerusalem, bishop</p>
+        <p>Theodosius of Jerusalem, bishop</p>
       </note>
       <note type="themes">
-        <p>Roman History</p>
         <p>Christianity</p>
-        <p>Travel</p>
         <p>Government and Law</p>
+        <p>Roman History</p>
+        <p>Travel</p>
       </note>
     </body>
   </text>

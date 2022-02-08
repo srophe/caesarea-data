@@ -373,22 +373,25 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-         <note type="related-texts"/>
-         <note type="geography">
-            <p>Haifa</p>
-            <p>Athlit (Pilgrims’ Castle, Petra Incisa, Castrum Peregrinorum, Castellum
-               Peregrinorum)</p>
-            <p>Ioppa (Iope, Ioppe, Joppa, Jaffa)</p>
-            <p>Ascalon</p>
-            <p>Le Darun (Al-Darum)</p>
-            <p>Damietta</p>
-            <p>Egypt</p>
-         </note>
-         <note type="prosopography"/>
-         <note type="themes">
-            <p>Geography</p>
-            <p>Travel</p>
-         </note>
-      </body>
+         
+         
+         
+         
+      <note type="related-texts"/>
+      <note type="geography">
+        <p>Ascalon</p>
+        <p>Athlit (Pilgrims’ Castle, Petra Incisa, Castrum Peregrinorum, Castellum Peregrinorum)</p>
+        <p>Damietta</p>
+        <p>Egypt</p>
+        <p>Haifa</p>
+        <p>Ioppa (Iope, Ioppe, Joppa, Jaffa)</p>
+        <p>Le Darun (Al-Darum)</p>
+      </note>
+      <note type="prosopography"/>
+      <note type="themes">
+        <p>Geography</p>
+        <p>Travel</p>
+      </note>
+    </body>
    </text>
 </TEI>

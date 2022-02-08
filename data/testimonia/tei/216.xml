@@ -387,28 +387,32 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts"/>
+      
+      
+      
+      
+    <note type="related-texts"/>
       <note type="geography">
+        <p>Italy</p>
         <p>Jerusalem</p>
         <p>Judaea</p>
         <p>Rome</p>
-        <p>Italy</p>
       </note>
       <note type="prosopography">
-        <p>Peter the Apostle</p>
         <p>Jesus Christ</p>
+        <p>Peter the Apostle</p>
         <p>Simon Magus</p>
         <p>Theon</p>
       </note>
       <note type="themes">
         <p>Christian Bible</p>
         <p>Christianity</p>
+        <p>Economy</p>
+        <p>Government</p>
+        <p>Maritime Activity</p>
         <p>Paganism</p>
         <p>Roman History</p>
-        <p>Government</p>
         <p>Travel</p>
-        <p>Maritime Activity</p>
-        <p>Economy</p>
       </note>
     </body>
   </text>

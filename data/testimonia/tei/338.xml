@@ -361,39 +361,41 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-         <note type="related-texts">
-            <p>Jerome, Illustrious Men 54</p>
-            <p>Epiphanius, Weights and Measures, Syriac 57a-b</p>
-            <p>
-               <hi rend="italic">Hexapla</hi>
-            </p>
-         </note>
-         <note type="geography">
-            <p>Antioch</p>
-            <p>Rome</p>
-            <p>Jerusalem</p>
-            <p> Tyre</p>
-         </note>
-         <note type="prosopography">
-            <p>Decius, emperor</p>
-            <p>Philip the Arab, emperor</p>
-            <p>Volusianus, emperor</p>
-            <p>Gallienus, emperor</p>
-            <p>Babylas</p>
-            <p>Flavian</p>
-            <p>Alexander of Jerusalem</p>
-            <p> Origen</p>
-         </note>
-         <note type="themes">
-            <p>Roman History</p>
-            <p>Christianity</p>
-            <p>Christian Bible</p>
-            <p>Greek Language</p>
-            <p>Hebrew Language</p>
-            <p>Government and Law</p>
-            <p>Society and Culture</p>
-            <p>Death and Burial</p>
-         </note>
-      </body>
+         
+         
+         
+         
+      <note type="related-texts">
+        <p>Epiphanius, Weights and Measures, Syriac 57a-b</p>
+        <p>Hexapla</p>
+        <p>Jerome, Illustrious Men 54</p>
+      </note>
+      <note type="geography">
+        <p>Tyre</p>
+        <p>Antioch</p>
+        <p>Jerusalem</p>
+        <p>Rome</p>
+      </note>
+      <note type="prosopography">
+        <p>Origen</p>
+        <p>Alexander of Jerusalem</p>
+        <p>Babylas</p>
+        <p>Decius, emperor</p>
+        <p>Flavian</p>
+        <p>Gallienus, emperor</p>
+        <p>Philip the Arab, emperor</p>
+        <p>Volusianus, emperor</p>
+      </note>
+      <note type="themes">
+        <p>Christian Bible</p>
+        <p>Christianity</p>
+        <p>Death and Burial</p>
+        <p>Government and Law</p>
+        <p>Greek Language</p>
+        <p>Hebrew Language</p>
+        <p>Roman History</p>
+        <p>Society and Culture</p>
+      </note>
+    </body>
    </text>
 </TEI>

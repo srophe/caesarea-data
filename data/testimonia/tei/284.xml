@@ -364,37 +364,39 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts">
+      
+      
+      
+      
+    <note type="related-texts">
         <p>Rorgo Fretellus 430-431</p>
-        <p>
-          <hi rend="italic">Ways and Pilgrimages of the Holy Land  A 1.1-1.3</hi>
-          <hi rend="italic">Ways and Pilgrimages of the Holy Land  B 1.1-1.3</hi>
-        </p>
+        <p>Ways and Pilgrimages of the Holy Land A 1.1-1.3</p>
+        <p>Ways and Pilgrimages of the Holy Land B 1.1-1.3</p>
       </note>
       <note type="geography">
-        <p>Carmel, Mount</p>
         <p>Anne (Bi’r Bayt Ḥanūn)</p>
+        <p>Arsuf (Assur, Arsur, Apollonia)</p>
+        <p>Carmel, Mount</p>
+        <p>Egypt</p>
+        <p>Iaphe (Iope, Ioppe, Joppa, Jaffa)</p>
         <p>Pain Perdu (Pan Perdu)</p>
         <p>Pilgrims’ Castle (Athlit)</p>
-        <p>Egypt</p>
-        <p>Arsuf (Assur, Arsur, Apollonia)</p>
-        <p>Iaphe (Iope, Ioppe, Joppa, Jaffa)</p>
       </note>
       <note type="prosopography">
+        <p>Cornelius, early Christian at Caesarea</p>
         <p>Elijah the Prophet</p>
+        <p>James the Apostle</p>
         <p>Jesus Christ</p>
         <p>Philip, early Christian at Caesarea</p>
-        <p>Cornelius, early Christian at Caesarea</p>
-        <p>James the Apostle</p>
       </note>
       <note type="themes">
-        <p>History of Israel</p>
-        <p>Roman History</p>
-        <p>Christianity</p>
-        <p>Hebrew Bible</p>
         <p>Christian Bible</p>
-        <p>Pilgrimage</p>
+        <p>Christianity</p>
         <p>Geography</p>
+        <p>Hebrew Bible</p>
+        <p>History of Israel</p>
+        <p>Pilgrimage</p>
+        <p>Roman History</p>
         <p>Urban Topography</p>
       </note>
     </body>

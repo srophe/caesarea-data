@@ -358,27 +358,31 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-         <note type="related-texts"/>
-         <note type="geography">
-            <p>Palestine</p>
-            <p>Judaea</p>
-            <p>Syria</p>
-            <p>Arabia Petraea</p>
-            <p>Egypt</p>
-            <p>Chorseas, River</p>
-            <p>Apollonia</p>
-            <p>Iope (Ioppe, Ioppa, Joppa, Jaffa)</p>
-            <p>Iamnia</p>
-            <p>Azotus (Ashdod)</p>
-            <p>Ascalon</p>
-            <p>Anthedon</p>
-            <p>Gaza</p>
-         </note>
-         <note type="prosopography"/>
-         <note type="themes">
-            <p>Geography</p>
-            <p>Natural Environment</p>
-         </note>
-      </body>
+         
+         
+         
+         
+      <note type="related-texts"/>
+      <note type="geography">
+        <p>Anthedon</p>
+        <p>Apollonia</p>
+        <p>Arabia Petraea</p>
+        <p>Ascalon</p>
+        <p>Azotus (Ashdod)</p>
+        <p>Chorseas, River</p>
+        <p>Egypt</p>
+        <p>Gaza</p>
+        <p>Iamnia</p>
+        <p>Iope (Ioppe, Ioppa, Joppa, Jaffa)</p>
+        <p>Judaea</p>
+        <p>Palestine</p>
+        <p>Syria</p>
+      </note>
+      <note type="prosopography"/>
+      <note type="themes">
+        <p>Geography</p>
+        <p>Natural Environment</p>
+      </note>
+    </body>
    </text>
 </TEI>

@@ -354,11 +354,13 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts">
-        <p>
-          <hi rend="italic">Joshua 33:9</hi>
-        </p>
+      
+      
+      
+      
+    <note type="related-texts">
         <p>Jerome, Book of Places 163</p>
+        <p>Joshua 33:9</p>
       </note>
       <note type="geography">
         <p>Galilee, Sea of (Lake Tiberias, Kinnereth)</p>
@@ -368,9 +370,9 @@
       </note>
       <note type="prosopography"/>
       <note type="themes">
-        <p>History of Israel</p>
-        <p>Hebrew Bible</p>
         <p>Geography</p>
+        <p>Hebrew Bible</p>
+        <p>History of Israel</p>
       </note>
     </body>
   </text>

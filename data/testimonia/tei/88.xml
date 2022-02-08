@@ -374,22 +374,27 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-         <note type="related-texts">
-            <p>
-               <hi rend="italic">Acts 10:11-15</hi>
-            </p>
-         </note>
-         <note type="geography">Joppa</note>
-         <note type="prosopography">
-            <p>Peter the Apostle</p>
-            <p>Cornelius, early Christian at Caesarea</p>
-            <p>Moses</p>
-         </note>
-         <note type="themes">
-        <p>Christianity</p>
+         
+         
+         
+         
+      <note type="related-texts">
+        <p>Acts 10:11-15</p>
+      </note>
+      <note type="geography">
+        <p>Joppa</p>
+      </note>
+      <note type="prosopography">
+        <p>Cornelius, early Christian at Caesarea</p>
+        <p>Moses</p>
+        <p>Peter the Apostle</p>
+      </note>
+      <note type="themes">
         <p>Christian Bible</p>
-        <p>Roman History</p>Society
-            and Culture</note>
-      </body>
+        <p>Christianity</p>
+        <p>Roman History</p>
+        <p>Society and Culture</p>
+      </note>
+    </body>
    </text>
 </TEI>

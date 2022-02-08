@@ -380,25 +380,31 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-         <note type="related-texts">
-            <p>Gregory the Miracle-Worker,  Panegyric to Origen 5.76-112</p>
-         </note>
-         <note type="geography">
-        <p>Cappadocia </p>
-        <p>Caesarea Mazaca</p>Pontus</note>
-         <note type="prosopography">
-            <p>Gregory the Miracle-Worker</p>
-            <p>Firmilian</p>
-            <p>Origen</p>
-         </note>
-         <note type="themes">
-            <p>Roman History</p>
-            <p>Christianity</p>
-            <p>Education (sacred)</p>
-            <p>Travel</p>
-            <p>Society and Culture</p>
-            <p> Economy and Commerce</p>
-         </note>
-      </body>
+         
+         
+         
+         
+      <note type="related-texts">
+        <p>Gregory the Miracle-Worker, Panegyric to Origen 5.76-112</p>
+      </note>
+      <note type="geography">
+        <p>Caesarea Mazaca</p>
+        <p>Cappadocia</p>
+        <p>Pontus</p>
+      </note>
+      <note type="prosopography">
+        <p>Firmilian</p>
+        <p>Gregory the Miracle-Worker</p>
+        <p>Origen</p>
+      </note>
+      <note type="themes">
+        <p>Economy and Commerce</p>
+        <p>Christianity</p>
+        <p>Education (sacred)</p>
+        <p>Roman History</p>
+        <p>Society and Culture</p>
+        <p>Travel</p>
+      </note>
+    </body>
    </text>
 </TEI>

@@ -358,21 +358,27 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-         <note type="related-texts">
-            <p>Isidore, Etymologies 15.1.75</p>
-         </note>
-         <note type="geography">
-            <p>Rome</p>
-            <p>Caesarea (in Mauretania)</p>
-            <p>Palestine</p>
-         </note>
-         <note type="prosopography">
-            <p>Augustus, emperor</p>
-            <p>Juba II, king</p>
-         </note>
-         <note type="themes">Roman History<p>Geography</p>
-        <p>Government and Law</p>
+         
+         
+         
+         
+      <note type="related-texts">
+        <p>Isidore, Etymologies 15.1.75</p>
       </note>
-      </body>
+      <note type="geography">
+        <p>Caesarea (in Mauretania)</p>
+        <p>Palestine</p>
+        <p>Rome</p>
+      </note>
+      <note type="prosopography">
+        <p>Augustus, emperor</p>
+        <p>Juba II, king</p>
+      </note>
+      <note type="themes">
+        <p>Geography</p>
+        <p>Government and Law</p>
+        <p>Roman History</p>
+      </note>
+    </body>
    </text>
 </TEI>

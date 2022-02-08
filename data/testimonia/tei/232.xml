@@ -395,34 +395,38 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts"/>
+      
+      
+      
+      
+    <note type="related-texts"/>
       <note type="geography">
-        <p>Joppa</p>
+        <p>Caesarea Philippi</p>
         <p>Dor</p>
+        <p>Joppa</p>
         <p>Judaea</p>
         <p>Palestine</p>
-        <p>Caesarea Philippi</p>
       </note>
       <note type="prosopography">
-        <p>Herod I, King</p>
-        <p>Peter the Apostle</p>
         <p>Cornelius, early Christian at Caesarea</p>
-        <p>Philipp, early Christian at Caesarea</p>
-        <p>Paul the Apostle</p>
+        <p>Herod I, King</p>
         <p>Jesus Christ</p>
+        <p>Paul the Apostle</p>
+        <p>Peter the Apostle</p>
+        <p>Philipp, early Christian at Caesarea</p>
       </note>
       <note type="themes">
-        <p>Pilgrimage</p>
-        <p>Christianity</p>
         <p>Christian Bible</p>
-        <p>Harmonean Dynasty</p>
-        <p>Roman History</p>
-        <p>Medieval History</p>
-        <p>Geography</p>
-        <p>Urban Topography</p>
-        <p>Natural Environment</p>
-        <p>Travel</p>
+        <p>Christianity</p>
         <p>Death and burial</p>
+        <p>Geography</p>
+        <p>Harmonean Dynasty</p>
+        <p>Medieval History</p>
+        <p>Natural Environment</p>
+        <p>Pilgrimage</p>
+        <p>Roman History</p>
+        <p>Travel</p>
+        <p>Urban Topography</p>
       </note>
     </body>
   </text>

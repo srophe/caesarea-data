@@ -377,50 +377,50 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-         <note type="related-texts">
-            <p>
-               <hi rend="italic">Judith 1:9</hi>
-            </p>
-            <p> Exodus 1:14</p>
-            <hi rend="italic"/>
-         </note>
-         <note type="geography">
+         
+         
+         
+         
+      <note type="related-texts">
+        <p>Exodus 1:14</p>
+        <p>Judith 1:9</p>
+      </note>
+      <note type="geography">
+        <p>Accaron</p>
+        <p>Antipatris</p>
+        <p>Ascalon</p>
+        <p>Azotus (Ashdon)</p>
         <p>Cappadocia</p>
-        <p>Seleucia
-               Maritima</p>
+        <p>Carmel, Mount</p>
+        <p>Caypha (Haifa)</p>
         <p>Cyprus</p>
+        <p>Damiata (Damietta)</p>
+        <p>Dora (Dor, Tantura)</p>
+        <p>Gaza</p>
+        <p>Iamnia</p>
+        <p>Ioppe (Joppa)</p>
+        <p>Memphis</p>
+        <p>Nile River</p>
+        <p>Palestine</p>
+        <p>Seleucia Maritima</p>
         <p>Syria</p>
         <p>Tyre</p>
-        <p>Palestine</p>
-        <p>Caypha
-               (Haifa)</p>
-        <p>Carmel, Mount</p>
-        <p>Dora (Dor, Tantura)</p>
-        <p>Antipatris</p>
-        <p>Ioppe
-               (Joppa)</p>
-        <p>Iamnia</p>
-        <p>Accaron</p>
-        <p>Azotus
-               (Ashdon)</p>
-        <p>Ascalon</p>
-        <p>Gaza</p>
-        <p>Nile River</p>
-        <p>Damiata
-            (Damietta)</p>Memphis</note>
-         <note type="prosopography">
+      </note>
+      <note type="prosopography">
         <p>Israel, patriarch (Jacob)</p>
-        <p>Jeremiah</p>St.
-            Matthew</note>
-         <note type="themes">
-        <p>Crusades</p>
-        <p>Pilgrimage</p>
-        <p>Medieval History</p>
-        <p>Hebrew
-               Bible</p>
+        <p>Jeremiah</p>
+        <p>St. Matthew</p>
+      </note>
+      <note type="themes">
         <p>Christian Bible</p>
+        <p>Crusades</p>
         <p>Geography</p>
-        <p>Travel</p>Maritime Activity</note>
-      </body>
+        <p>Hebrew Bible</p>
+        <p>Maritime Activity</p>
+        <p>Medieval History</p>
+        <p>Pilgrimage</p>
+        <p>Travel</p>
+      </note>
+    </body>
    </text>
 </TEI>

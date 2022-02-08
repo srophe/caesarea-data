@@ -356,23 +356,29 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts">
-        <p>George Syncellus, Chronicle 349c=p. 660</p>
+      
+      
+      
+      
+    <note type="related-texts">
         <p>Dionysius of Tel Mahre 63</p>
+        <p>George Syncellus, Chronicle 349c=p. 660</p>
       </note>
       <note type="geography">
+        <p>Antinoöpolis</p>
+        <p>Egypt</p>
         <p>Nicopolis (Emmaus)</p>
-        <p>Egypt</p>Antinoöpolis</note>
+      </note>
       <note type="prosopography">
         <p>Antinous</p>
         <p>Hadrian, emperor</p>
       </note>
       <note type="themes">
-        <p>Roman History</p>
-        <p>Paganism</p>
         <p>Geography</p>
-        <p>Natural Environment</p>
         <p>Government and Law</p>
+        <p>Natural Environment</p>
+        <p>Paganism</p>
+        <p>Roman History</p>
         <p>Sex and Gender</p>
       </note>
     </body>

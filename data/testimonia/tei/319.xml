@@ -380,16 +380,22 @@
                <citedRange unit=""/>
             </bibl>
          </listBibl>
-         <note type="related-texts"/>
-         <note type="geography">
-            <p>Nicaea</p>
-         </note>
-         <note type="prosopography">
-            <p>Jovian, emperor</p>
-            <p>Acacius</p>
-         </note>
-         <note type="themes">
-        <p>Roman History</p>Christianity</note>
-      </body>
+         
+         
+         
+         
+      <note type="related-texts"/>
+      <note type="geography">
+        <p>Nicaea</p>
+      </note>
+      <note type="prosopography">
+        <p>Acacius</p>
+        <p>Jovian, emperor</p>
+      </note>
+      <note type="themes">
+        <p>Christianity</p>
+        <p>Roman History</p>
+      </note>
+    </body>
    </text>
 </TEI>

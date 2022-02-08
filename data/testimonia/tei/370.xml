@@ -378,19 +378,25 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts"/>
+      
+      
+      
+      
+    <note type="related-texts"/>
       <note type="geography">
-        <p>Nicaea</p>
         <p>Alexandria</p>
-        <p>Palestine</p>
         <p>Antioch</p>
+        <p>Nicaea</p>
+        <p>Palestine</p>
       </note>
       <note type="prosopography">
-        <p>St. Jerome</p>
         <p>John, bishop of Jerusalem</p>
+        <p>St. Jerome</p>
       </note>
       <note type="themes">
-        <p>Christianity</p>Government and Law</note>
+        <p>Christianity</p>
+        <p>Government and Law</p>
+      </note>
     </body>
   </text>
 </TEI>

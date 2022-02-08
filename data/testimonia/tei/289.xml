@@ -375,46 +375,47 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts">
-        <p>
-          <hi rend="italic">Septuaginta</hi>
-        </p>
-        <p>Origen, Hexapla</p>
-        <p>Symmachus, Commentaries on Matthew</p>
+      
+      
+      
+      
+    <note type="related-texts">
         <p>Eusebius, Church History 6.16-17</p>
-        <p>Jerome, Against Rufinus 2.32<hi rend="italic">Suda ω 182.52-75<hi rend="italic">Suda
-                     ω 182.75-100</hi>
-          </hi>
-        </p>
+        <p>Jerome, Against Rufinus 2.32</p>
         <p>John Zonaras, Epitome of History 12.17=p. 3.129</p>
+        <p>Origen, Hexapla</p>
+        <p>Septuaginta</p>
+        <p>Suda ω 182.75-100</p>
+        <p>Suda ω 182.52-75</p>
+        <p>Symmachus, Commentaries on Matthew</p>
       </note>
       <note type="geography">
         <p>Rome</p>
       </note>
       <note type="prosopography">
         <p>Aquila of Sinope</p>
-        <p>Theodotion</p>
-        <p>Symmachus</p>
         <p>Ebionites</p>
-        <p>Paula</p>
-        <p>Varro</p>
         <p>Jesus Christ</p>
+        <p>Paula</p>
+        <p>Symmachus</p>
+        <p>Theodotion</p>
+        <p>Varro</p>
       </note>
       <note type="themes">
-        <p>Roman History</p>
-        <p>Christianity</p>
-        <p>Judaism</p>
-        <p>Paganism</p>
-        <p>Hebrew Bible</p>
         <p>Christian Bible</p>
-        <p>Greek Language</p>
-        <p>Hebrew Language</p>
-        <p>Literature</p>
+        <p>Christianity</p>
         <p>Education (Sacred)</p>
         <p>Education (Secular)</p>
+        <p>Greek Language</p>
+        <p>Hebrew Bible</p>
+        <p>Hebrew Language</p>
+        <p>Judaism</p>
+        <p>Literature</p>
+        <p>Paganism</p>
+        <p>Philosophy</p>
+        <p>Roman History</p>
         <p>Society and Culture</p>
         <p>Urban Topography</p>
-        <p>Philosophy</p>
       </note>
     </body>
   </text>

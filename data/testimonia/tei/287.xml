@@ -382,30 +382,36 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts"/>
+      
+      
+      
+      
+    <note type="related-texts"/>
       <note type="geography">
-        <p>Alexandria</p>
         <p>Achaea</p>
+        <p>Alexandria</p>
         <p>Athens</p>
-        <p>Palestine</p>Jerusalem</note>
-      <note type="prosopography">
-        <p>Septimius Severus, emperor</p>
-        <p>Leonidas</p>
-        <p>Demetrius, bishop of Alexandria</p>
-        <p>Clement, presbyter in Alexandria</p>
-        <p>Theoctistus, bishop of Caesarea</p>
-        <p>Alexander, bishop of Jerusalem</p>
+        <p>Jerusalem</p>
+        <p>Palestine</p>
       </note>
-      <note type="themes">Roman History<p>Christianity</p>
+      <note type="prosopography">
+        <p>Alexander, bishop of Jerusalem</p>
+        <p>Clement, presbyter in Alexandria</p>
+        <p>Demetrius, bishop of Alexandria</p>
+        <p>Leonidas</p>
+        <p>Septimius Severus, emperor</p>
+        <p>Theoctistus, bishop of Caesarea</p>
+      </note>
+      <note type="themes">
         <p>Christian Bible</p>
-        <p>Government and
-               Law</p>
-        <p>Education (sacred)</p>
+        <p>Christianity</p>
+        <p>Death and Burial</p>
         <p>Economy and Commerce</p>
-        <p>Death and
-               Burial</p>
-        <p>Philosophy</p>
+        <p>Education (sacred)</p>
         <p>Family</p>
+        <p>Government and Law</p>
+        <p>Philosophy</p>
+        <p>Roman History</p>
       </note>
     </body>
   </text>

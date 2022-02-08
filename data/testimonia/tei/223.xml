@@ -361,24 +361,28 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts"/>
+      
+      
+      
+      
+    <note type="related-texts"/>
       <note type="geography">
-        <p>Nablus</p>
-        <p>Nazareth</p>
         <p>Jerusalem</p>
         <p>Jordan, River</p>
+        <p>Nablus</p>
+        <p>Nazareth</p>
       </note>
       <note type="prosopography">
         <p>Balian of Ibelin</p>
         <p>Guy of Jerusalem, king</p>
-        <p>Raymond III of Tripoli, count</p>
         <p>Jesus Christ</p>
+        <p>Raymond III of Tripoli, count</p>
       </note>
       <note type="themes">
-        <p>Early Roman History</p>
         <p>Christian Bible</p>
-        <p>Crusades</p>
         <p>Christianity</p>
+        <p>Crusades</p>
+        <p>Early Roman History</p>
         <p>Geography</p>
       </note>
     </body>

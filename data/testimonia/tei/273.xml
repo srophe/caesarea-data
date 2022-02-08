@@ -356,21 +356,24 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts">
-        <p>Josephus, Jewish Antiquities 20.137</p>
-        <p>Josephus, Jewish
-               War 2.247</p>
-        <hi rend="italic">Acts 24:1-23</hi>
-        <p>Tacitus, Histories
-               5.9</p>
-        <p>Suetonius, Claudius 28</p>
+      
+      
+      
+      
+    <note type="related-texts">
+        <p>Acts 24:1-23</p>
         <p>Eusebius, Church History 2.19.2</p>
-        <p>George
-               Syncellus, Chronicle p. 629</p>Zonaras, Epitome of Histories 6.15</note>
+        <p>George Syncellus, Chronicle p. 629</p>
+        <p>Josephus, Jewish War 2.247</p>
+        <p>Josephus, Jewish Antiquities 20.137</p>
+        <p>Suetonius, Claudius 28</p>
+        <p>Tacitus, Histories 5.9</p>
+        <p>Zonaras, Epitome of Histories 6.15</p>
+      </note>
       <note type="geography">
         <p>Greece</p>
-        <p>Rome</p>
         <p>Judaea</p>
+        <p>Rome</p>
       </note>
       <note type="prosopography">
         <p>Claudius, emperor</p>
@@ -379,11 +382,11 @@
         <p>Paul the Apostle</p>
       </note>
       <note type="themes">
-        <p>Roman History</p>
-        <p>Christianity</p>
         <p>Christian Bible</p>
-        <p>Natural Environment</p>
+        <p>Christianity</p>
         <p>Government and Law</p>
+        <p>Natural Environment</p>
+        <p>Roman History</p>
       </note>
     </body>
   </text>

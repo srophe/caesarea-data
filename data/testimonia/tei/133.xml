@@ -369,26 +369,30 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-         <note type="related-texts">
-            <p>John of Nikiu 66.2</p>
-         </note>
-         <note type="geography">
-            <p>Antioch on the Orontes</p>
-            <p>Palestine</p>
-            <p>Caesarea Mazaca</p>
-            <p>Cappadocia</p>
-         </note>
-         <note type="prosopography">
-            <p>Augustus, emperor</p>
-            <p>Herod I, king</p>
-            <p>Archelaos</p>
-         </note>
-         <note type="themes">
-            <p>Hellenistic History</p>
-            <p>Roman History</p>
-            <p>Geography</p>
-            <p>Government and Law</p>
-         </note>
-      </body>
+         
+         
+         
+         
+      <note type="related-texts">
+        <p>John of Nikiu 66.2</p>
+      </note>
+      <note type="geography">
+        <p>Antioch on the Orontes</p>
+        <p>Caesarea Mazaca</p>
+        <p>Cappadocia</p>
+        <p>Palestine</p>
+      </note>
+      <note type="prosopography">
+        <p>Archelaos</p>
+        <p>Augustus, emperor</p>
+        <p>Herod I, king</p>
+      </note>
+      <note type="themes">
+        <p>Geography</p>
+        <p>Government and Law</p>
+        <p>Hellenistic History</p>
+        <p>Roman History</p>
+      </note>
+    </body>
    </text>
 </TEI>

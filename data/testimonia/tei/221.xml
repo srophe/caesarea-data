@@ -375,45 +375,49 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts">
-        <p>
-          <hi rend="italic">Holy Pilgrimages 7-9</hi>
-        </p>
-        <p>Ways and Pilgrimages of the Holy Land A 1.1-1.3</p>Ways and Pilgrimages of the
-            Holy Land B 1.1-1.3<hi rend="italic">Pilgrimages to Jerusalem 2-3</hi>
+      
+      
+      
+      
+    <note type="related-texts">
+        <p>Holy Pilgrimages 7-9</p>
+        <p>Pilgrimages to Jerusalem 2-3</p>
+        <p>Ways and Pilgrimages of the Holy Land B 1.1-1.3</p>
+        <p>Ways and Pilgrimages of the Holy Land A 1.1-1.3</p>
       </note>
       <note type="geography">
-        <p>Acres (Acco)</p>Carmel, Mount)<p>St. John of Tira (al Tira,
-               Tirat al-Lawz)</p>
+        <p>Acres (Acco)</p>
+        <p>Carmel, Mount)</p>
         <p>Chastiel Pelryn</p>
-        <p>Merle (Dor, Tantura)</p>Iaphet (Iope,
-            Ioppe, Joppa, Jaffa)</note>
+        <p>Iaphet (Iope, Ioppe, Joppa, Jaffa)</p>
+        <p>Merle (Dor, Tantura)</p>
+        <p>St. John of Tira (al Tira, Tirat al-Lawz)</p>
+      </note>
       <note type="prosopography">
-        <p>Elijah the Prophet (St. Elias)</p>
         <p>Carmelites</p>
-        <p>Mary,
-               Mother of Jesus</p>
+        <p>Elijah the Prophet (St. Elias)</p>
+        <p>Euphemia the Martyr</p>
+        <p>Habukkuk the prophet</p>
         <p>Jesus Christ</p>
         <p>John the Baptist</p>
-        <p>Euphemia the
-               Martyr</p>
+        <p>Mary, Mother of Jesus</p>
         <p>St. Andrew</p>
-        <p>St. James</p>Habukkuk the prophet</note>
+        <p>St. James</p>
+      </note>
       <note type="themes">
-        <p>History of Israel</p>
-        <p>Medieval
-               History</p>
+        <p>Christian Bible</p>
         <p>Christianity</p>
         <p>Crusades</p>
-        <p>Pilgrimage</p>
-        <p>Hebrew
-               Bible</p>
-        <p>Christian Bible</p>
+        <p>Death and Burial</p>
         <p>Geography</p>
-        <p>Natural
-               Environment</p>
+        <p>Hebrew Bible</p>
+        <p>History of Israel</p>
+        <p>Medieval History</p>
+        <p>Military</p>
+        <p>Natural Environment</p>
+        <p>Pilgrimage</p>
         <p>Travel</p>
-        <p>Death and Burial</p>Military</note>
+      </note>
     </body>
   </text>
 </TEI>

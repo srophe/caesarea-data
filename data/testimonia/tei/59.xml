@@ -376,30 +376,36 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-         <note type="related-texts">
-            <p>John Malalas, Chronography 487.10-488.14</p>
-            <p>Constantine Porpyhrogenitus, Plots 173.13-29</p>
-            <p>Chronicle of Zuqnin 2.863</p>
-            <p>Michael the Syrian II.262</p>
-         </note>
-         <note type="geography">
-        <p>Palestine</p>Constantinople</note>
-         <note type="prosopography">
-            <p>Jews</p>
-            <p>Samaritans</p>
-            <p>Stephen, prefect of Caesarea</p>
-            <p>Justinian I, emperor</p>
-            <p>Amantius, magister militum</p>
-         </note>
-         <note type="themes">
-            <p>Roman History</p>
-            <p>Christianity</p>
-            <p>Judaism</p>
-            <p>Urban Topography</p>
-            <p>Government and Law</p>
-            <p>Military</p>
-            <p>Death and Burial</p>
-         </note>
-      </body>
+         
+         
+         
+         
+      <note type="related-texts">
+        <p>Chronicle of Zuqnin 2.863</p>
+        <p>Constantine Porpyhrogenitus, Plots 173.13-29</p>
+        <p>John Malalas, Chronography 487.10-488.14</p>
+        <p>Michael the Syrian II.262</p>
+      </note>
+      <note type="geography">
+        <p>Constantinople</p>
+        <p>Palestine</p>
+      </note>
+      <note type="prosopography">
+        <p>Amantius, magister militum</p>
+        <p>Jews</p>
+        <p>Justinian I, emperor</p>
+        <p>Samaritans</p>
+        <p>Stephen, prefect of Caesarea</p>
+      </note>
+      <note type="themes">
+        <p>Christianity</p>
+        <p>Death and Burial</p>
+        <p>Government and Law</p>
+        <p>Judaism</p>
+        <p>Military</p>
+        <p>Roman History</p>
+        <p>Urban Topography</p>
+      </note>
+    </body>
    </text>
 </TEI>

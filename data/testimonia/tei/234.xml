@@ -383,22 +383,29 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts"/>
+      
+      
+      
+      
+    <note type="related-texts"/>
       <note type="geography">
-        <p>Carmel, Mount</p>
-        <p>Castrum Peregrinum
-               (Athlit)</p>
         <p>Arsuf</p>
+        <p>Carmel, Mount</p>
+        <p>Castrum Peregrinum (Athlit)</p>
+        <p>Damiata (Damietta)</p>
+        <p>Jerusalem</p>
         <p>Joppa</p>
-        <p>Damiata (Damietta)</p>Jerusalem</note>
+      </note>
       <note type="prosopography">
         <p>St. Margaret</p>
       </note>
       <note type="themes">
         <p>Christianity</p>
         <p>Geography</p>
+        <p>Maritime Activity</p>
         <p>Natural Environment</p>
-        <p>Travel</p>Maritime Activity</note>
+        <p>Travel</p>
+      </note>
     </body>
   </text>
 </TEI>

@@ -361,26 +361,26 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts">
-        <list type="simple">
-          <item>I Corinthians 15:51</item>
-        </list>
+      
+      
+      
+      
+    <note type="related-texts">
+        <p>I Corinthians 15:51</p>
       </note>
-      <note type="geography">Toulouse</note>
+      <note type="geography">
+        <p>Toulouse</p>
+      </note>
       <note type="prosopography">
-        <list type="simple">
-          <item>
-            <list type="simple">
-              <item>Minervius, monk</item>
-              <item>Alexander, monk</item>
-              <item>Acacius, bishop</item>
-              <item>Eusebius of Caesarea</item>
-            </list>Pamphilus</item>
-        </list>
+        <p>Acacius, bishop</p>
+        <p>Alexander, monk</p>
+        <p>Eusebius of Caesarea</p>
+        <p>Minervius, monk</p>
+        <p>Pamphilus</p>
       </note>
       <note type="themes">
-        <p>Christianity</p>
         <p>Christian Bible</p>
+        <p>Christianity</p>
         <p>Education (sacred)</p>
       </note>
     </body>

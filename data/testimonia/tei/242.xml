@@ -352,25 +352,30 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts">
+      
+      
+      
+      
+    <note type="related-texts">
         <p>John of Nikiu, Chronicle 74.8</p>
       </note>
       <note type="geography">
-        <p>Palestine</p>
-        <p>Nicomedia</p>
+        <p>Asia</p>
         <p>Bithynia</p>
         <p>Ephesus</p>
-        <p>Asia</p>
+        <p>Nicomedia</p>
+        <p>Palestine</p>
       </note>
       <note type="prosopography">
         <p>Antoninus Pius, emperor</p>
       </note>
       <note type="themes">
-        <p>Roman History</p>
+        <p>Entertainment</p>
         <p>Geography</p>
         <p>Government and Law</p>
-        <p>Urban
-               Topography</p>Entertainment</note>
+        <p>Roman History</p>
+        <p>Urban Topography</p>
+      </note>
     </body>
   </text>
 </TEI>

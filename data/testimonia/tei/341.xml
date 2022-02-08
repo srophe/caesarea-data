@@ -383,38 +383,40 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts"/>
+      
+      
+      
+      
+    <note type="related-texts"/>
       <note type="geography">
-        <p>Hungary</p>
-        <p>Cyprus</p>
-        <p>Tripoli (Phoenicia)</p>
-        <p>Ptolomayda (Ptolemaïs, Accaron, Acco, Akko, Acre)</p>
-        <p>Jerusalem</p>
         <p>Austria</p>
-        <p>Castrum Peregrinorum (Athlit, Pilgrims’ Castle, Castellum Peregrinorum, Petra
-               Incisa)</p>
+        <p>Castrum Peregrinorum (Athlit, Pilgrims’ Castle, Castellum Peregrinorum, Petra Incisa)</p>
+        <p>Cyprus</p>
+        <p>Hungary</p>
+        <p>Jerusalem</p>
+        <p>Ptolomayda (Ptolemaïs, Accaron, Acco, Akko, Acre)</p>
+        <p>Tripoli (Phoenicia)</p>
       </note>
       <note type="prosopography">
         <p>Andrew II, king of Hungary</p>
-        <p>Hugh I, king of
-               Cyprus</p>
-        <p>Raoul of Merencourt, Latin Patriarch of Jerusalem</p>
-        <p>John I, king of
-               Jerusalem</p>
-        <p>Leopold VI, duke of Austria</p>
+        <p>Hugh I, king of Cyprus</p>
+        <p>John I, king of Jerusalem</p>
+        <p>Knights Templar</p>
         <p>Knights Hospitaller</p>
-        <p>Knights
-               Templar</p>Teutonic Knights</note>
+        <p>Leopold VI, duke of Austria</p>
+        <p>Raoul of Merencourt, Latin Patriarch of Jerusalem</p>
+        <p>Teutonic Knights</p>
+      </note>
       <note type="themes">
-        <p>Medieval History</p>
-        <p>Crusades</p>
         <p>Christianity</p>
-        <p>Pilgrimage</p>
-        <p>Geography</p>
-        <p>Military</p>
-        <p>Maritime Activity</p>
-        <p>Government and Law</p>
+        <p>Crusades</p>
         <p>Economy and Commerce</p>
+        <p>Geography</p>
+        <p>Government and Law</p>
+        <p>Maritime Activity</p>
+        <p>Medieval History</p>
+        <p>Military</p>
+        <p>Pilgrimage</p>
       </note>
     </body>
   </text>

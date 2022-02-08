@@ -381,31 +381,33 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-         <note type="related-texts">
-            <hi rend="italic"/>
-         </note>
-         <note type="geography">
-            <p>Syria Phoenice</p>
-            <p>Palestine</p>
-            <p>Jerusalem</p>
-            <p>Dead Sea</p>
-            <p>Kadesh Barnea</p>
-            <p>Petra Incisa or Pilgrim’s Castle</p>
-            <p>Bashan</p>
-            <p>Beth Shean (Scythopolis)</p>
-            <p>Gilboa, Mount</p>
-            <p>Jordan River</p>
-            <p>Galilee</p>
-            <p>Jezreel, Plain of (Esdraelon)</p>
-         </note>
-         <note type="prosopography"/>
-         <note type="themes">
-            <p>Crusades</p>
-            <p>Roman History</p>
-            <p>Medieval History</p>
-            <p>Geography</p>
-            <p> Government and Law</p>
-         </note>
-      </body>
+         
+         
+         
+         
+      <note type="related-texts"/>
+      <note type="geography">
+        <p>Bashan</p>
+        <p>Beth Shean (Scythopolis)</p>
+        <p>Dead Sea</p>
+        <p>Galilee</p>
+        <p>Gilboa, Mount</p>
+        <p>Jerusalem</p>
+        <p>Jezreel, Plain of (Esdraelon)</p>
+        <p>Jordan River</p>
+        <p>Kadesh Barnea</p>
+        <p>Palestine</p>
+        <p>Petra Incisa or Pilgrim’s Castle</p>
+        <p>Syria Phoenice</p>
+      </note>
+      <note type="prosopography"/>
+      <note type="themes">
+        <p>Government and Law</p>
+        <p>Crusades</p>
+        <p>Geography</p>
+        <p>Medieval History</p>
+        <p>Roman History</p>
+      </note>
+    </body>
    </text>
 </TEI>

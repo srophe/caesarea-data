@@ -359,29 +359,33 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts"/>
+      
+      
+      
+      
+    <note type="related-texts"/>
       <note type="geography">
-        <p>Ptolemaïs (Acco)</p>
-        <p>Haifa (Caifa)</p>
-        <p>Carmel, Mount</p>
         <p>Antipatris (Assur, Ashur, Arsuf)</p>
-        <p>Ioppe (Jaffa)</p>
-        <p>Ramla (Rama)</p>
         <p>Bethnopolis</p>
+        <p>Carmel, Mount</p>
+        <p>Haifa (Caifa)</p>
+        <p>Ioppe (Jaffa)</p>
         <p>Jerusalem</p>
+        <p>Ptolemaïs (Acco)</p>
+        <p>Ramla (Rama)</p>
       </note>
       <note type="prosopography">
         <p>Elijah the Prophet</p>
         <p>Stephen the Martyr</p>
       </note>
       <note type="themes">
-        <p>Medieval History</p>
-        <p>Crusades</p>
-        <p>Christianity</p>
-        <p>Pilgrimage</p>
-        <p>Hebrew Bible</p>
         <p>Christian Bible</p>
+        <p>Christianity</p>
+        <p>Crusades</p>
         <p>Geography</p>
+        <p>Hebrew Bible</p>
+        <p>Medieval History</p>
+        <p>Pilgrimage</p>
       </note>
     </body>
   </text>

@@ -358,24 +358,28 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts">
+      
+      
+      
+      
+    <note type="related-texts">
         <p>Jerome, Letters 33.4-6</p>
       </note>
-      <note type="geography">Rome</note>
+      <note type="geography">
+        <p>Rome</p>
+      </note>
       <note type="prosopography">
-        <list type="simple">
-          <item>
-            <p>Varro, Marcus Terentius</p>
-            <p>Origen (Chalcenterus)</p>Epimenides</item>
-        </list>
+        <p>Epimenides</p>
+        <p>Origen (Chalcenterus)</p>
+        <p>Varro, Marcus Terentius</p>
       </note>
       <note type="themes">
         <p>Christianity</p>
-        <p>Latin Literature</p>
-        <p>Greek Literature</p>
-        <p>Philosophy</p>
         <p>Education (sacred)</p>
         <p>Education (secular)</p>
+        <p>Greek Literature</p>
+        <p>Latin Literature</p>
+        <p>Philosophy</p>
         <p>Society and Culture</p>
       </note>
     </body>

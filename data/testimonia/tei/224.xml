@@ -364,25 +364,29 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts"/>
+      
+      
+      
+      
+    <note type="related-texts"/>
       <note type="geography">
-        <p>Ptolemaïs (Acco, Accho, Accaron, Acre, Akko)</p>
+        <p>Ashkelon (Ascalon, Ascalona)</p>
+        <p>Gaza (Gazara)</p>
         <p>Haifa (Hefa, Caipha)</p>
         <p>Joppa (Ioppe, Jappa, Jaffa, Jafis)</p>
-        <p>Gaza (Gazara)</p>
-        <p>Ashkelon (Ascalon, Ascalona)</p>
+        <p>Ptolemaïs (Acco, Accho, Accaron, Acre, Akko)</p>
       </note>
       <note type="prosopography"/>
       <note type="themes">
         <p>Crusades</p>
+        <p>Geography</p>
+        <p>Herodian Dynasty</p>
+        <p>Maritime Activity</p>
+        <p>Medieval History</p>
+        <p>Military</p>
         <p>Pilgrimage</p>
         <p>Roman History</p>
-        <p>Medieval History</p>
-        <p>Herodian Dynasty</p>
-        <p>Geography</p>
         <p>Travel</p>
-        <p>Maritime Activity</p>
-        <p>Military</p>
       </note>
     </body>
   </text>

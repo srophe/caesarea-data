@@ -371,24 +371,28 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts"/>
+      
+      
+      
+      
+    <note type="related-texts"/>
       <note type="geography">
-        <p>Ptolemaïs (Acco, Accho, Acre, Akko)</p>
-        <p>Porphyria</p>
-        <p>Joppa (Iope, Ioppe, Ioppa, Jaffa)</p>
         <p>Ascalon (Ashkelon)</p>
-        <p>Gaza</p>
         <p>Darus</p>
+        <p>Gaza</p>
+        <p>Joppa (Iope, Ioppe, Ioppa, Jaffa)</p>
+        <p>Porphyria</p>
+        <p>Ptolemaïs (Acco, Accho, Acre, Akko)</p>
       </note>
       <note type="prosopography">
-        <p>Saladin (Al-Nasir Salah al-Din Yusuf ibn Ayyub,الناصر صلاح الدين يوسف بن أيوب‎)</p>
         <p>Richard I, king of England</p>
+        <p>Saladin (Al-Nasir Salah al-Din Yusuf ibn Ayyub,الناصر صلاح الدين يوسف بن أيوب‎)</p>
       </note>
       <note type="themes">
-        <p>Medieval History</p>
-        <p>Islamic History</p>
         <p>Crusades</p>
         <p>Geography</p>
+        <p>Islamic History</p>
+        <p>Medieval History</p>
         <p>Military</p>
       </note>
     </body>

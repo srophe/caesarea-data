@@ -374,30 +374,32 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-         <note type="related-texts">
-            <p>Eusebius, Church History 6.17.1</p>
-            <p>
-               <hi rend="italic">Hexapla</hi>
-            </p>
-         </note>
-         <note type="geography">
-            <p>Caesarea Mazaca</p>
-            <p>Cappadocia</p>
-         </note>
-         <note type="prosopography">
-            <p>Juliana</p>
-            <p>Origen</p>
-            <p>Symmachus</p>
-         </note>
-         <note type="themes">
-            <p>Christianity</p>
-            <p>Hebrew Bible</p>
-            <p>Education (sacred)</p>
-            <p>Greek Language</p>
-            <p>Law and Government</p>
-            <p>Society and Culture</p>
-            <p>Gender and Sexuality</p>
-         </note>
-      </body>
+         
+         
+         
+         
+      <note type="related-texts">
+        <p>Eusebius, Church History 6.17.1</p>
+        <p>Hexapla</p>
+      </note>
+      <note type="geography">
+        <p>Caesarea Mazaca</p>
+        <p>Cappadocia</p>
+      </note>
+      <note type="prosopography">
+        <p>Juliana</p>
+        <p>Origen</p>
+        <p>Symmachus</p>
+      </note>
+      <note type="themes">
+        <p>Christianity</p>
+        <p>Education (sacred)</p>
+        <p>Gender and Sexuality</p>
+        <p>Greek Language</p>
+        <p>Hebrew Bible</p>
+        <p>Law and Government</p>
+        <p>Society and Culture</p>
+      </note>
+    </body>
    </text>
 </TEI>

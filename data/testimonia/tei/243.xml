@@ -379,35 +379,41 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts">
-        <p>Easter Chronicle 603.19-604.13</p>
+      
+      
+      
+      
+    <note type="related-texts">
         <p>Constantine Porphyrogenitus, Plots 162.22-36</p>
+        <p>Easter Chronicle 603.19-604.13</p>
       </note>
       <note type="geography">
-        <p>Palestine</p>Garizim, Mount (Gargarides, Gargazi)</note>
+        <p>Garizim, Mount (Gargarides, Gargazi)</p>
+        <p>Palestine</p>
+      </note>
       <note type="prosopography">
-        <p>Zeno, emperor</p>
-        <p>Samaritans</p>
-        <p>Justasas</p>
+        <p>Arcadiakoi</p>
+        <p>Asclepiades</p>
         <p>Christians</p>
+        <p>Justasas</p>
+        <p>Mary, Mother of God</p>
         <p>Porphyrios, governor</p>
+        <p>Rheges</p>
+        <p>Samaritans</p>
         <p>St. Procopius</p>
         <p>Timothy, bishop</p>
-        <p>Asclepiades</p>
-        <p>Arcadiakoi</p>
-        <p>Rheges</p>
-        <p>Mary, Mother of God</p>
+        <p>Zeno, emperor</p>
       </note>
       <note type="themes">
-        <p>Roman History</p>
-        <p>Judaism</p>
         <p>Christianity</p>
-        <p>Geography</p>
-        <p>Urban Topography</p>
-        <p>Government and Law</p>
-        <p>Entertainment</p>
         <p>Death and Burial</p>
+        <p>Entertainment</p>
+        <p>Geography</p>
+        <p>Government and Law</p>
+        <p>Judaism</p>
         <p>Military</p>
+        <p>Roman History</p>
+        <p>Urban Topography</p>
       </note>
     </body>
   </text>

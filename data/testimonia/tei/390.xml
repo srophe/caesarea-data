@@ -364,38 +364,38 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-         <note type="related-texts">
-            <p>
-               <hi rend="italic">Jonah  2:10</hi>
-            </p>
-            <p>
-               <hi rend="italic">Acts 9:36-42</hi>
-            </p>
-         </note>
-         <note type="geography">
-            <p>Diospolis (Lydda)</p>
-            <p>Ioppe (Iope, Ioppa, Joppa, Jaffa)</p>
-            <p>Diocaesarea (Sepphoris)</p>
-            <p>Cana</p>
-            <p>Galilee</p>
-         </note>
-         <note type="prosopography">
+         
+         
+         
+         
+      <note type="related-texts">
+        <p>Acts 9:36-42</p>
+        <p>Jonah 2:10</p>
+      </note>
+      <note type="geography">
+        <p>Cana</p>
+        <p>Diocaesarea (Sepphoris)</p>
+        <p>Diospolis (Lydda)</p>
+        <p>Galilee</p>
+        <p>Ioppe (Iope, Ioppa, Joppa, Jaffa)</p>
+      </note>
+      <note type="prosopography">
+        <p>Cornelius, early Christian at Caesarea</p>
+        <p>Jonah the Prophet</p>
         <p>Peter the Apostle</p>
+        <p>Simon the Magician</p>
         <p>Tabitha (Dorcas)</p>
-        <p>Jonah the
-               Prophet</p>
-        <p>Cornelius, early Christian at Caesarea</p>Simon the Magician</note>
-         <note type="themes">
-        <p>Hebrew Bible</p>
-        <p>Christian
-               Bible</p>
+      </note>
+      <note type="themes">
+        <p>Christian Bible</p>
         <p>Christianity</p>
+        <p>Death and Burial</p>
+        <p>Geography</p>
+        <p>Hebrew Bible</p>
         <p>Paganism</p>
         <p>Roman History</p>
-        <p>Geography</p>
-            <p>Travel</p>
-            <p>Death and Burial</p>
-         </note>
-      </body>
+        <p>Travel</p>
+      </note>
+    </body>
    </text>
 </TEI>

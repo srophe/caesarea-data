@@ -363,21 +363,25 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts">
-        <p>Theodorus Anagnostes 55 (28.30-32)</p>
+      
+      
+      
+      
+    <note type="related-texts">
         <p>Socrates Scholasticus, Church History 3.2</p>
+        <p>Theodorus Anagnostes 55 (28.30-32)</p>
       </note>
       <note type="geography"/>
       <note type="prosopography">
-        <p>Eusebius</p>
-        <p>Constantine I, emperor</p>
         <p>Acacius of Caesarea</p>
+        <p>Constantine I, emperor</p>
+        <p>Eusebius</p>
       </note>
       <note type="themes">
-        <p>Late Roman History</p>
         <p>Christianity</p>
-        <p>Society and Culture</p>
         <p>Education (sacred)</p>
+        <p>Late Roman History</p>
+        <p>Society and Culture</p>
       </note>
     </body>
   </text>

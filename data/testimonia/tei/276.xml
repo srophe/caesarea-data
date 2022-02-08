@@ -356,35 +356,41 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts">
-        <p>Josephus, Jewish War 2.271</p>
-        <p>Josephus, Jewish Antiquities 20.182<hi rend="italic">Acts 24:27</hi>Acts
-               25:13-27:1</p>
+      
+      
+      
+      
+    <note type="related-texts">
+        <p>Acts 25:13-27:1</p>
+        <p>Acts 24:27</p>
         <p>Eusebius, Church History 2.22.1</p>
-        <p>Jerome, Illustrious Men 5</p>
         <p>George Syncellus, Chronicle 336d=p. 636</p>
-        <p>Zonaras 6.16=p. 519</p>
+        <p>Jerome, Illustrious Men 5</p>
+        <p>Josephus, Jewish Antiquities 20.182</p>
+        <p>Josephus, Jewish War 2.271</p>
         <p>Nicephorus Callistus Xanthopoulos, Church History 2.29-30</p>
+        <p>Zonaras 6.16=p. 519</p>
       </note>
       <note type="geography">
-        <p>Rome</p>
         <p>Berytus</p>
+        <p>Rome</p>
       </note>
       <note type="prosopography">
         <p>Felix, governor</p>
+        <p>Festus, governor</p>
+        <p>Herod Agrippa, king</p>
         <p>Paul the Apostle</p>
-        <p>Festus,
-               governor</p>
-        <p>Herod Agrippa, king</p>Probus of Berytus</note>
+        <p>Probus of Berytus</p>
+      </note>
       <note type="themes">
-        <p>Roman History</p>
-        <p>Herodian
-               Dynasty</p>
-        <p>Christianity</p>
         <p>Christian Bible</p>
-        <p>Government and
-               Law</p>
-        <p>Society and Culture</p>Greek Language</note>
+        <p>Christianity</p>
+        <p>Government and Law</p>
+        <p>Greek Language</p>
+        <p>Herodian Dynasty</p>
+        <p>Roman History</p>
+        <p>Society and Culture</p>
+      </note>
     </body>
   </text>
 </TEI>

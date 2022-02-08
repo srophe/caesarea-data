@@ -393,39 +393,39 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-         <note type="related-texts">
-            <p>
-               <hi rend="italic">Matthew 4:18-22</hi>
-            </p>
-            <p>
-               <hi rend="italic">Luke 5:1-11</hi>
-            </p>
-            <p>John 21:1-19</p>
-            <p>Eusebius, Church History 2.16</p>
-         </note>
-         <note type="geography">
-            <p>Galilee</p>
-            <p>Antioch on the Orontes</p>
-            <p>Rome</p>
-            <p>Egypt</p>
-            <p>Alexandria</p>
-         </note>
-         <note type="prosopography">
-            <p>Peter the Apostle (Simon Peter, Cephas)</p>
-            <p>Moses the Prophet</p>
-            <p>Mark the Evangelist</p>
-            <p>Jesus Christ</p>
-         </note>
-         <note type="themes">
-            <p>Roman History</p>
-            <p>Christianity</p>
-            <p>Christian Bible</p>
-            <p>Hebrew Bible</p>
-            <p>Society and Culture</p>
-            <p>Maritime Activity</p>
-            <p>Education (Sacred)</p>
-            <p>Geography</p>
-         </note>
-      </body>
+         
+         
+         
+         
+      <note type="related-texts">
+        <p>Eusebius, Church History 2.16</p>
+        <p>John 21:1-19</p>
+        <p>Luke 5:1-11</p>
+        <p>Matthew 4:18-22</p>
+      </note>
+      <note type="geography">
+        <p>Alexandria</p>
+        <p>Antioch on the Orontes</p>
+        <p>Egypt</p>
+        <p>Galilee</p>
+        <p>Rome</p>
+      </note>
+      <note type="prosopography">
+        <p>Jesus Christ</p>
+        <p>Mark the Evangelist</p>
+        <p>Moses the Prophet</p>
+        <p>Peter the Apostle (Simon Peter, Cephas)</p>
+      </note>
+      <note type="themes">
+        <p>Christian Bible</p>
+        <p>Christianity</p>
+        <p>Education (Sacred)</p>
+        <p>Geography</p>
+        <p>Hebrew Bible</p>
+        <p>Maritime Activity</p>
+        <p>Roman History</p>
+        <p>Society and Culture</p>
+      </note>
+    </body>
    </text>
 </TEI>

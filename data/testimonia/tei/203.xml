@@ -377,33 +377,36 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-         <note type="related-texts">
-            <p>I Kings 21:1-16</p>
-            <hi rend="italic"/>
-         </note>
-         <note type="geography">
-            <p>Samaria Sebaste</p>
-            <p>Jezreel Valley</p>
-            <p>Joppa</p>
-            <p>Antipatris</p>
-            <p>Ephraim, Mount</p>
-            <p>Ramathaim Zophim</p>
-            <p>Carmel, Mount</p>
-            <p> Ptolemais (Acco, Accho, Acre, Akko)</p>
-         </note>
-         <note type="prosopography">
-            <p>Ahab</p>
-            <p>Naboth</p>
-         </note>
-         <note type="themes">
-            <p>Crusades</p>
-            <p>Medieval History</p>
-            <p>Pilgrimage</p>
-            <p>Hebrew Bible</p>
-            <p>Geography</p>
-            <p>Urban Topography</p>
-            <p> Natural Environment</p>
-         </note>
-      </body>
+         
+         
+         
+         
+      <note type="related-texts">
+        <p>I Kings 21:1-16</p>
+      </note>
+      <note type="geography">
+        <p>Ptolemais (Acco, Accho, Acre, Akko)</p>
+        <p>Antipatris</p>
+        <p>Carmel, Mount</p>
+        <p>Ephraim, Mount</p>
+        <p>Jezreel Valley</p>
+        <p>Joppa</p>
+        <p>Ramathaim Zophim</p>
+        <p>Samaria Sebaste</p>
+      </note>
+      <note type="prosopography">
+        <p>Ahab</p>
+        <p>Naboth</p>
+      </note>
+      <note type="themes">
+        <p>Natural Environment</p>
+        <p>Crusades</p>
+        <p>Geography</p>
+        <p>Hebrew Bible</p>
+        <p>Medieval History</p>
+        <p>Pilgrimage</p>
+        <p>Urban Topography</p>
+      </note>
+    </body>
    </text>
 </TEI>

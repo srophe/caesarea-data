@@ -436,47 +436,47 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts">
-        <p>
-          <hi rend="italic">Acts 10:1-48</hi>
-        </p>
-        <p>
-          <hi rend="italic">Ways and Pilgrimages of the Holy Land A 1.2</hi>
-        </p>
-        <p>Ways and Pilgrimages of the Holy Land B 1.2</p>
-        <p>Pilgrimages to Jerusalem 3</p>
+      
+      
+      
+      
+    <note type="related-texts">
+        <p>Acts 10:1-48</p>
         <p>Emmanuel de Schesltrate (1697)</p>
+        <p>Pilgrimages to Jerusalem 3</p>
+        <p>Ways and Pilgrimages of the Holy Land A 1.2</p>
+        <p>Ways and Pilgrimages of the Holy Land B 1.2</p>
       </note>
       <note type="geography">
         <p>Assur (Arsur, Arsuf, Apollonia)</p>
-        <p>Dor</p>
-        <p>Baldach in Persia</p>
         <p>Babylon in Egypt</p>
-        <p>Memphis</p>
+        <p>Baldach in Persia</p>
+        <p>Dor</p>
         <p>Egypt</p>
+        <p>Memphis</p>
         <p>Nile River</p>
         <p>Scariathias</p>
       </note>
       <note type="prosopography">
-        <p>Herod I, king</p>
         <p>Augustus, emperor</p>
-        <p>Peter the Apostle</p>
         <p>Cornelius, early Christian at Caesarea</p>
         <p>Eusebius</p>
-        <p>Saracens</p>
+        <p>Herod I, king</p>
         <p>Judas the Disciple</p>
+        <p>Peter the Apostle</p>
+        <p>Saracens</p>
       </note>
       <note type="themes">
-        <p>Roman History</p>
-        <p>Herodian Dynasty</p>
-        <p>Christianity</p>
         <p>Christian Bible</p>
-        <p>Islamic History</p>
-        <p>Natural Environment</p>
+        <p>Christianity</p>
         <p>Death and Burial</p>
+        <p>Economy and Commerce</p>
         <p>Geography</p>
         <p>Government and Law</p>
-        <p>Economy and Commerce</p>
+        <p>Herodian Dynasty</p>
+        <p>Islamic History</p>
+        <p>Natural Environment</p>
+        <p>Roman History</p>
         <p>Society and Culture</p>
       </note>
     </body>

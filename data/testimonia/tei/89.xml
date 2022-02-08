@@ -373,25 +373,31 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-         <note type="related-texts"/>
-         <note type="geography">
-        <p>Rhodes</p>
+         
+         
+         
+         
+      <note type="related-texts"/>
+      <note type="geography">
         <p>Alexandria</p>
         <p>Ashkelon</p>
         <p>Berytus</p>
-        <p>Sidon</p>
         <p>Byblos</p>
-        <p>Tripolis</p>
-        <p>Seleuceia</p>
         <p>Cilicia</p>
-        <p>Corycus</p>Cyprus</note>
-         <note type="prosopography"/>
-         <note type="themes">
-            <p>Geography</p>
-            <p>Travel</p>
-            <p>National Environment</p>
-            <p>Maritime Activity</p>
-         </note>
-      </body>
+        <p>Corycus</p>
+        <p>Cyprus</p>
+        <p>Rhodes</p>
+        <p>Seleuceia</p>
+        <p>Sidon</p>
+        <p>Tripolis</p>
+      </note>
+      <note type="prosopography"/>
+      <note type="themes">
+        <p>Geography</p>
+        <p>Maritime Activity</p>
+        <p>National Environment</p>
+        <p>Travel</p>
+      </note>
+    </body>
    </text>
 </TEI>

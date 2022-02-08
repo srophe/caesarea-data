@@ -396,19 +396,24 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts"/>
+      
+      
+      
+      
+    <note type="related-texts"/>
       <note type="geography"/>
       <note type="prosopography">
-        <p>Rufinus, Tyrannius</p>
-        <p>Pamphilus</p>
-        <p>Origen</p>
         <p>Eusebius of Caesarea</p>
+        <p>Origen</p>
+        <p>Pamphilus</p>
+        <p>Rufinus, Tyrannius</p>
       </note>
       <note type="themes">
-        <p>Christianity</p>
         <p>Christian Bible</p>
-        <p>Education
-            (sacred)</p>Society and Culture</note>
+        <p>Christianity</p>
+        <p>Education (sacred)</p>
+        <p>Society and Culture</p>
+      </note>
     </body>
   </text>
 </TEI>

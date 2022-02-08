@@ -386,46 +386,48 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts">
-        <hi rend="italic"/>
-      </note>
+      
+      
+      
+      
+    <note type="related-texts"/>
       <note type="geography">
-        <p>Ancyra</p>
-        <p>Laodicea in Syria</p>
-        <p>Tarsus</p>
-        <p>Antioch on the Orontes</p>
         <p>Alexandria</p>
-        <p>Jerusalem</p>
-        <p>Tyre</p>
+        <p>Ancyra</p>
+        <p>Antioch on the Orontes</p>
+        <p>Constantinople</p>
+        <p>Cyzicus</p>
         <p>Eleutheropolis</p>
         <p>Jerusalem</p>
-        <p>Cyzicus</p>
-        <p>Constantinople</p>
+        <p>Jerusalem</p>
+        <p>Laodicea in Syria</p>
         <p>Sebaste</p>
+        <p>Tarsus</p>
+        <p>Tyre</p>
       </note>
       <note type="prosopography">
+        <p>Acacius, bishop of Caesarea in Palestine</p>
+        <p>Anianus of Antioch</p>
         <p>Arius</p>
         <p>Basil of Ancyra</p>
-        <p>George of Laodicea in Syria</p>
-        <p>Silvanus of Tarsus</p>
-        <p>Eudoxius of Antioch</p>
-        <p>George of Alexandria</p>
-        <p>Euzoeus of Antioch</p>
         <p>Constantius II, emperor</p>
         <p>Cyril of Jerusalem</p>
-        <p>Acacius, bishop of Caesarea in Palestine</p>
-        <p>Meletius of Antioch</p>
-        <p>Uranius of Tyre</p>
-        <p>Eutychius of Eleutheropolis</p>
         <p>Eleusius of Cyzicus</p>
-        <p>Macedonius of Constantinople</p>
+        <p>Eudoxius of Antioch</p>
         <p>Eustathius of Sebaste</p>
-        <p>Anianus of Antioch</p>
+        <p>Eutychius of Eleutheropolis</p>
+        <p>Euzoeus of Antioch</p>
+        <p>George of Alexandria</p>
+        <p>George of Laodicea in Syria</p>
+        <p>Macedonius of Constantinople</p>
+        <p>Meletius of Antioch</p>
+        <p>Silvanus of Tarsus</p>
+        <p>Uranius of Tyre</p>
       </note>
       <note type="themes">
-        <p>Roman History</p>
         <p>Christianity</p>
         <p>Culture and Society</p>
+        <p>Roman History</p>
       </note>
     </body>
   </text>

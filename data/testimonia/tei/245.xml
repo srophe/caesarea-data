@@ -367,49 +367,53 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts"/>
+      
+      
+      
+      
+    <note type="related-texts"/>
       <note type="geography">
-        <p>Libya</p>
+        <p>Adramystus</p>
+        <p>Aelia</p>
+        <p>Africa</p>
+        <p>Alexandreia Magna</p>
+        <p>Ammoniaca</p>
+        <p>Apollonia</p>
+        <p>Arabia</p>
+        <p>Arabia Petraea</p>
+        <p>Arsinoë</p>
+        <p>Ascalon</p>
+        <p>Babylon</p>
+        <p>Bostra</p>
+        <p>Carthage</p>
+        <p>Cyrene</p>
+        <p>Cyrene</p>
+        <p>Diospolis Magna</p>
+        <p>Egypt</p>
         <p>Egypt</p>
         <p>Ethiopia</p>
-        <p>Meroë</p>
-        <p>Ptolemaïs</p>
-        <p>Arabia</p>
-        <p>Musa</p>
-        <p>Diospolis Magna</p>
-        <p>Syene</p>
-        <p>Ammoniaca</p>
-        <p>Oasis Magna</p>
+        <p>Libya</p>
         <p>Mauritania</p>
-        <p>Oppidaneum</p>
-        <p>Africa</p>
-        <p>Carthage</p>
-        <p>Adramystus</p>
-        <p>Cyrene</p>
-        <p>Arsinoë</p>
-        <p>Ptolemaïs</p>
-        <p>Taucheira</p>
-        <p>Apollonia</p>
-        <p>Cyrene</p>
-        <p>Egypt</p>
-        <p>Paratoneum</p>
-        <p>Alexandreia Magna</p>
-        <p>Pelusium</p>
-        <p>Memphis</p>
-        <p>Ptolemaïs Hermiou</p>
-        <p>Syria Judaea</p>
-        <p>Ascalon</p>
-        <p>Tiberias</p>
-        <p>Neapolis</p>
-        <p>Sebaste</p>
-        <p>Scythopolis</p>
-        <p>Aelia</p>
-        <p>Arabia Petraea</p>
-        <p>Petra</p>
         <p>Medaba</p>
-        <p>Bostra</p>
-        <p>Babylon</p>
+        <p>Memphis</p>
+        <p>Meroë</p>
+        <p>Musa</p>
+        <p>Neapolis</p>
+        <p>Oasis Magna</p>
+        <p>Oppidaneum</p>
+        <p>Paratoneum</p>
+        <p>Pelusium</p>
+        <p>Petra</p>
+        <p>Ptolemaïs</p>
+        <p>Ptolemaïs</p>
+        <p>Ptolemaïs Hermiou</p>
+        <p>Scythopolis</p>
+        <p>Sebaste</p>
+        <p>Syene</p>
+        <p>Syria Judaea</p>
+        <p>Taucheira</p>
         <p>Teredon</p>
+        <p>Tiberias</p>
       </note>
       <note type="prosopography"/>
       <note type="themes">

@@ -370,37 +370,41 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-         <note type="related-texts">
-            <hi rend="italic">Daniel  7-8</hi>
-            <p>Daniel 11:44-45</p>
-         </note>
-         <note type="geography">
-            <p>Egypt</p>
-            <p>Libya</p>
-            <p>Ethiopia</p>
-            <p>Apedno</p>
-            <p>Emmaus (Nicopolis)</p>
-            <p>Judaea</p>
-            <p>Mount of Olives</p>
-            <p>Jerusalem</p>
-            <p>Dead Sea</p>
-            <p>Ioppa</p>
-            <p>Ascalon</p>
-            <p> Gaza</p>
-         </note>
-         <note type="prosopography">
-            <p>Daniel</p>
-            <p>Jesus Christ</p>
-         </note>
-         <note type="themes">
-            <p>History of Israel</p>
-            <p>Christianity</p>
-            <p>Christian Bible</p>
-            <p>Hebrew Bible</p>
-            <p>Geography</p>
-            <p>Education (sacred)</p>
-            <p>Society and Culture</p>
-         </note>
-      </body>
+         
+         
+         
+         
+      <note type="related-texts">
+        <p>Daniel 7-8</p>
+        <p>Daniel 11:44-45</p>
+      </note>
+      <note type="geography">
+        <p>Gaza</p>
+        <p>Apedno</p>
+        <p>Ascalon</p>
+        <p>Dead Sea</p>
+        <p>Egypt</p>
+        <p>Emmaus (Nicopolis)</p>
+        <p>Ethiopia</p>
+        <p>Ioppa</p>
+        <p>Jerusalem</p>
+        <p>Judaea</p>
+        <p>Libya</p>
+        <p>Mount of Olives</p>
+      </note>
+      <note type="prosopography">
+        <p>Daniel</p>
+        <p>Jesus Christ</p>
+      </note>
+      <note type="themes">
+        <p>Christian Bible</p>
+        <p>Christianity</p>
+        <p>Education (sacred)</p>
+        <p>Geography</p>
+        <p>Hebrew Bible</p>
+        <p>History of Israel</p>
+        <p>Society and Culture</p>
+      </note>
+    </body>
    </text>
 </TEI>

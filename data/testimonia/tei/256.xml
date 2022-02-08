@@ -352,19 +352,23 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts"/>
+      
+      
+      
+      
+    <note type="related-texts"/>
       <note type="geography">
-        <p>Ptolemaïs (Acco, Accho, Acre, Akko)</p>
-        <p>Nazareth</p>
-        <p>Samaria Sebaste</p>
-        <p>Neapolis (Nablus)</p>
         <p>Jerusalem</p>
         <p>Lydda</p>
+        <p>Nazareth</p>
+        <p>Neapolis (Nablus)</p>
+        <p>Ptolemaïs (Acco, Accho, Acre, Akko)</p>
+        <p>Samaria Sebaste</p>
       </note>
       <note type="prosopography"/>
       <note type="themes">
-        <p>Pilgrimage</p>
         <p>Geography</p>
+        <p>Pilgrimage</p>
         <p>Travel</p>
       </note>
     </body>

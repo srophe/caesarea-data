@@ -362,20 +362,23 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts"/>
+      
+      
+      
+      
+    <note type="related-texts"/>
       <note type="geography">
-        <p>Haifa (Caypha)</p>
-        <p>Athlit (Pilgrims’ Castle, Castellum Peregrinorum, Catrum Peregrinorum, Petra
-               Incisa)</p>
         <p>Antipatris (Assur, Arsur, Arsuf)</p>
+        <p>Athlit (Pilgrims’ Castle, Castellum Peregrinorum, Catrum Peregrinorum, Petra Incisa)</p>
         <p>Dor (Dora)</p>
+        <p>Haifa (Caypha)</p>
         <p>Joppa (Iope, Ioppa, Jaffa)</p>
       </note>
       <note type="prosopography"/>
       <note type="themes">
         <p>Crusades</p>
-        <p>Medieval History</p>
         <p>Geography</p>
+        <p>Medieval History</p>
       </note>
     </body>
   </text>

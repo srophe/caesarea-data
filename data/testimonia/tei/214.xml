@@ -368,36 +368,39 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-         <note type="related-texts">
-            <p>Aelius Herodianus, Declension of Nouns 751.25-33</p>
-            <p>George Choeroboscus, Prologue and Notes on Theodosius of Alexandria’s Introductory
-               Rules 303.12-20</p>
-         </note>
-         <note type="geography">
-            <p>Alexandria</p>
-            <p>Apameia</p>
-            <p>Armenia</p>
-            <p>Antioch on the Orontes (Antiocheia)</p>
-            <p>Asia Minor</p>
-            <p>Bithynia</p>
-            <p>Boeotia (Boiotia)</p>
-            <p>Cappadocia (Kappadokia)</p>
-            <p>Cilicia (Kilikia)</p>
-            <p>Italy (Italia)</p>
-            <p>Ituria (Itouria)</p>
-            <p>Lycia (Lykia)</p>
-            <p>Thespia (Thespeia)</p>
-            <p>Paphlagonia</p>
-            <p>Pisidia</p>
-            <p>Sicily (Sikelia)</p>
-            <p>Syria</p>
-            <p>Thessaly (Thessalia)</p>
-         </note>
-         <note type="prosopography"/>
-         <note type="themes">
-            <p>Greek Language</p>
-            <p>Geography</p>
-         </note>
-      </body>
+         
+         
+         
+         
+      <note type="related-texts">
+        <p>Aelius Herodianus, Declension of Nouns 751.25-33</p>
+        <p>George Choeroboscus, Prologue and Notes on Theodosius of Alexandria’s Introductory Rules 303.12-20</p>
+      </note>
+      <note type="geography">
+        <p>Alexandria</p>
+        <p>Antioch on the Orontes (Antiocheia)</p>
+        <p>Apameia</p>
+        <p>Armenia</p>
+        <p>Asia Minor</p>
+        <p>Bithynia</p>
+        <p>Boeotia (Boiotia)</p>
+        <p>Cappadocia (Kappadokia)</p>
+        <p>Cilicia (Kilikia)</p>
+        <p>Italy (Italia)</p>
+        <p>Ituria (Itouria)</p>
+        <p>Lycia (Lykia)</p>
+        <p>Paphlagonia</p>
+        <p>Pisidia</p>
+        <p>Sicily (Sikelia)</p>
+        <p>Syria</p>
+        <p>Thespia (Thespeia)</p>
+        <p>Thessaly (Thessalia)</p>
+      </note>
+      <note type="prosopography"/>
+      <note type="themes">
+        <p>Geography</p>
+        <p>Greek Language</p>
+      </note>
+    </body>
    </text>
 </TEI>

@@ -392,36 +392,39 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts">
+      
+      
+      
+      
+    <note type="related-texts">
+        <p>Athanasius of Alexandria, The Decrees of the Nicene Synod 17.3</p>
         <p>Eusebius of Caesarea, Against Marcellus 1.4.40-1.4.41</p>
         <p>Eusebius of Caesarea, Against Marcellus 1.4.57</p>
-        <p>Athanasius of Alexandria, The Decrees of the Nicene Synod 17.3</p>
-        <p>Labbe VII 65</p>
         <p>Labbe VII 496</p>
+        <p>Labbe VII 65</p>
         <p>Mansi XIII 176-177</p>
         <p>Mansi XIII 316</p>
         <p>Mansi XIII 317</p>
         <p>Theodoret, Church History 1.5.1-4</p>
-        <hi rend="italic"/>
       </note>
       <note type="geography">
         <p>Nicomedia</p>
       </note>
       <note type="prosopography">
-        <p>Arius</p>
         <p>Alexander of Alexandria, Pope</p>
-        <p>Eusebius of Nicomedia</p>
-        <p>Jesus Christ</p>
         <p>Ammonius</p>
-        <p>Eusebius of Caesarea</p>
-        <p>Theodotus of Laodicea</p>
-        <p>Paulinus of Tyre</p>
+        <p>Arius</p>
         <p>Athanasius of Anazarbus</p>
-        <p>Gregory of Berytus</p>
         <p>Aëtius of Lydda</p>
-        <p>Philogonius of Antioch</p>
+        <p>Eusebius of Caesarea</p>
+        <p>Eusebius of Nicomedia</p>
+        <p>Gregory of Berytus</p>
         <p>Hellanicus</p>
+        <p>Jesus Christ</p>
         <p>Macarius of Jerusalem</p>
+        <p>Paulinus of Tyre</p>
+        <p>Philogonius of Antioch</p>
+        <p>Theodotus of Laodicea</p>
       </note>
       <note type="themes">
         <p>Christianity</p>

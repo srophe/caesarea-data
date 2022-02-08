@@ -363,42 +363,46 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts">
+      
+      
+      
+      
+    <note type="related-texts">
+        <p>Easter Chronicle 504.7-505.6</p>
         <p>Eusebius, Church History 6.39.3-4</p>
-        <p>Jerome, Illustrious Men 54.9<hi rend="italic">Easter Chronicle 504.7-505.6</hi>
-        </p>
-        <p>George the Monk, Chronicle p. 467</p>
         <p>George Cedrenus, Chronicle p. 453</p>
+        <p>George the Monk, Chronicle p. 467</p>
+        <p>Jerome, Illustrious Men 54.9</p>
         <p>John Zonaras, Epitome of History 12.20=p. 2.133</p>
         <p>Nicephorus Callistus Xanthopoulos, Church History 5.26</p>
       </note>
       <note type="geography">
-        <p>Pannonia
-               Inferior</p>
+        <p>Abrytus</p>
+        <p>Antioch on the Orontes</p>
         <p>Budalia</p>
         <p>Egypt</p>
-        <p>Rome</p>
         <p>Jerusalem</p>
-        <p>Antioch on the
-               Orontes</p>Abrytus</note>
+        <p>Pannonia Inferior</p>
+        <p>Rome</p>
+      </note>
       <note type="prosopography">
-        <p>Decius, emperor</p>
-        <p>Philip the Arab, emperor</p>
-        <p>Philip II, co-emperor</p>
-        <p>Antony, monk</p>
         <p>Alexander, bishop of Jerusalem</p>
+        <p>Antony, monk</p>
         <p>Babylas</p>
-        <p>Mazabanus, bishop</p>
+        <p>Decius, emperor</p>
         <p>Fabius, bishop</p>
         <p>Herennius Etruscus</p>
+        <p>Mazabanus, bishop</p>
+        <p>Philip II, co-emperor</p>
+        <p>Philip the Arab, emperor</p>
       </note>
       <note type="themes">
-        <p>Roman History</p>
         <p>Christianity</p>
-        <p>Government and Law</p>
-        <p>Family</p>
-        <p>Entertainment</p>
         <p>Death and Burial</p>
+        <p>Entertainment</p>
+        <p>Family</p>
+        <p>Government and Law</p>
+        <p>Roman History</p>
       </note>
     </body>
   </text>

@@ -357,24 +357,28 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-         <note type="related-texts"/>
-         <note type="geography">
-            <p>Pontus</p>
-            <p>Berytus (Beirut)</p>
-         </note>
-         <note type="prosopography">
-            <p>Origen</p>
-            <p>Gregory the Miracle-Worker</p>
-         </note>
-         <note type="themes">
-            <p>Roman History</p>
-            <p>Christianity</p>
-            <p>Government and Law</p>
-            <p>Education (sacred)</p>
-            <p>Education (secular)</p>
-            <p>Society and Culture</p>
-            <p>Natural Environment</p>
-         </note>
-      </body>
+         
+         
+         
+         
+      <note type="related-texts"/>
+      <note type="geography">
+        <p>Berytus (Beirut)</p>
+        <p>Pontus</p>
+      </note>
+      <note type="prosopography">
+        <p>Gregory the Miracle-Worker</p>
+        <p>Origen</p>
+      </note>
+      <note type="themes">
+        <p>Christianity</p>
+        <p>Education (sacred)</p>
+        <p>Education (secular)</p>
+        <p>Government and Law</p>
+        <p>Natural Environment</p>
+        <p>Roman History</p>
+        <p>Society and Culture</p>
+      </note>
+    </body>
    </text>
 </TEI>

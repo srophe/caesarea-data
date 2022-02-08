@@ -352,22 +352,26 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts"/>
+      
+      
+      
+      
+    <note type="related-texts"/>
       <note type="geography">
+        <p>Boukolos</p>
+        <p>Carmel, Mount</p>
+        <p>Krokodeilopolis (Crocodilopolis)</p>
         <p>Prolemaïs (Ake, Acco, Accho, Acre, Akko)</p>
-        <p>Carmel,
-               Mount</p>
         <p>Sykaminopolis (Sykaminos, Sycaminus)</p>
-        <p>Boukolos</p>Krokodeilopolis
-            (Crocodilopolis)</note>
+      </note>
       <note type="prosopography">
         <p>n</p>
       </note>
       <note type="themes">
         <p>Geography</p>
-        <p>Travel</p>
         <p>Maritime Activity</p>
         <p>Natural Environment</p>
+        <p>Travel</p>
       </note>
     </body>
   </text>

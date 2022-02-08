@@ -368,27 +368,31 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts">
+      
+      
+      
+      
+    <note type="related-texts">
         <p>3 Kings 17:10-17</p>
       </note>
       <note type="geography">
-        <p>Palestine</p>
-        <p>Iope (Ioppa, Joppa, Joffa, Jaffa)</p>
         <p>Arsur (Arsuf)</p>
         <p>Cayphas (Haifa)</p>
+        <p>Iope (Ioppa, Joppa, Joffa, Jaffa)</p>
+        <p>Palestine</p>
         <p>Ptolomayda (Ptolomaïs, Akko)</p>
-        <p>Tyre</p>
         <p>Sarepta (Zarephath)</p>
+        <p>Tyre</p>
       </note>
       <note type="prosopography">
         <p>Elijah, prophet</p>
       </note>
       <note type="themes">
-        <p>Medieval History</p>
-        <p>History of Israel</p>
-        <p>Hebrew Bible</p>
         <p>Christianity</p>
         <p>Geography</p>
+        <p>Hebrew Bible</p>
+        <p>History of Israel</p>
+        <p>Medieval History</p>
       </note>
     </body>
   </text>

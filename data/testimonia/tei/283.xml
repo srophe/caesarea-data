@@ -376,32 +376,36 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts"/>
+      
+      
+      
+      
+    <note type="related-texts"/>
       <note type="geography">
-        <p>Jerusalem</p>
-        <p>Hebron</p>
         <p>Ascalon</p>
-        <p>Gaza</p>
-        <p>Lydda</p>
         <p>Dor</p>
+        <p>Gaza</p>
         <p>Haifa (Caifa)</p>
+        <p>Hebron</p>
+        <p>Jerusalem</p>
+        <p>Lydda</p>
         <p>Ptolemaïs (Acco)</p>
       </note>
       <note type="prosopography">
-        <p>Titus, Emperor</p>
         <p>Abraham the Prophet</p>
         <p>Augustus, Emperor</p>
+        <p>Titus, Emperor</p>
       </note>
       <note type="themes">
-        <p>Jewish History</p>
-        <p>Roman History</p>
-        <p>Medieval History</p>
-        <p>Geography</p>
-        <p>Greek Language</p>
-        <p>Latin Language</p>
-        <p>Hebrew Language</p>
         <p>Culture and Society</p>
         <p>Death and Burial</p>
+        <p>Geography</p>
+        <p>Greek Language</p>
+        <p>Hebrew Language</p>
+        <p>Jewish History</p>
+        <p>Latin Language</p>
+        <p>Medieval History</p>
+        <p>Roman History</p>
       </note>
     </body>
   </text>

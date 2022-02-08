@@ -385,27 +385,21 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts">
-        <p>
-          <list type="simple">
-            <item>Nicephorus Callistus Xanthopoulos 17.4</item>
-          </list>
-        </p>
+      
+      
+      
+      
+    <note type="related-texts">
+        <p>Nicephorus Callistus Xanthopoulos 17.4</p>
       </note>
       <note type="geography"/>
       <note type="prosopography">
-        <list type="simple">
-          <item>
-            <list type="simple">
-              <item>Zosimas of Synda, monk</item>
-            </list>
-          </item>
-        </list>
+        <p>Zosimas of Synda, monk</p>
       </note>
       <note type="themes">
         <p>Christianity</p>
-        <p>Travel</p>
         <p>Natural Environment</p>
+        <p>Travel</p>
       </note>
     </body>
   </text>

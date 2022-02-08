@@ -373,38 +373,42 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts"/>
+      
+      
+      
+      
+    <note type="related-texts"/>
       <note type="geography">
-        <p>Jerusalem</p>
-        <p>Palestine</p>
-        <p>Phoenicia</p>
-        <p>Tyre</p>
-        <p>Galilee</p>
-        <p>Nazareth</p>
-        <p>Moab</p>
-        <p>Petra (Montreal)</p>
-        <p>Samaria Sebaste</p>
         <p>Acre</p>
-        <p>Sidon</p>
         <p>Beirut</p>
         <p>Caesarea Philippi (Bleinas)</p>
-        <p>Tiberias</p>
+        <p>Galilee</p>
+        <p>Jerusalem</p>
+        <p>Moab</p>
+        <p>Nazareth</p>
+        <p>Palestine</p>
+        <p>Petra (Montreal)</p>
+        <p>Phoenicia</p>
+        <p>Samaria Sebaste</p>
+        <p>Sidon</p>
         <p>Sinai, Mount</p>
+        <p>Tiberias</p>
+        <p>Tyre</p>
       </note>
       <note type="prosopography">
+        <p>Elisha the Prophet</p>
         <p>Jesus Christ</p>
         <p>John the Baptist</p>
-        <p>Elisha the Prophet</p>
         <p>Obadiah the Prophet (Abdias)</p>
       </note>
       <note type="themes">
-        <p>Medieval History</p>
-        <p>Crusades</p>
-        <p>Christianity</p>
-        <p>Hebrew Bible</p>
         <p>Christian Bible</p>
+        <p>Christianity</p>
+        <p>Crusades</p>
         <p>Geography</p>
         <p>Government and Law</p>
+        <p>Hebrew Bible</p>
+        <p>Medieval History</p>
       </note>
     </body>
   </text>

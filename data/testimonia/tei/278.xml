@@ -365,35 +365,40 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts">
-        <p>Eusebius, Church History 6.26.1</p>
-        <p>Jerome, Illustrious Men 54</p>
+      
+      
+      
+      
+    <note type="related-texts">
         <p>Epiphanius, Measures and Weights 18</p>
+        <p>Eusebius, Church History 6.26.1</p>
         <p>George Syncellus, Chronicle 361c=p. 681</p>
-        <p>Zonaras 12.17=263c<hi rend="italic">Suda s.v. Ὠριγένης (1275.17 ed. Bekker)</hi>
-        </p>
+        <p>Jerome, Illustrious Men 54</p>
         <p>Nicephorus Callistus Xanthopoulos, Church History 5.14.18</p>
+        <p>Suda s.v. Ὠριγένης (1275.17 ed. Bekker)</p>
+        <p>Zonaras 12.17=263c</p>
       </note>
       <note type="geography">
-        <p>Antioch</p>
         <p>Alexandria</p>
-        <p>Rome</p>
+        <p>Antioch</p>
         <p>Moguntiacum (Mainz)</p>
+        <p>Rome</p>
       </note>
       <note type="prosopography">
-        <p>Zebennus</p>
-        <p>Origen</p>
+        <p>Alexander Severus, emperor</p>
         <p>Heraclas</p>
-        <p>Alexander Severus,
-               emperor</p>
-        <p>Julia Mammaea</p>Pontianus</note>
+        <p>Julia Mammaea</p>
+        <p>Origen</p>
+        <p>Pontianus</p>
+        <p>Zebennus</p>
+      </note>
       <note type="themes">
-        <p>Roman History</p>
         <p>Christianity</p>
-        <p>Government and Law</p>
-        <p>Family</p>
-        <p>Military</p>
         <p>Death and Burial</p>
+        <p>Family</p>
+        <p>Government and Law</p>
+        <p>Military</p>
+        <p>Roman History</p>
         <p>Society and Culture</p>
       </note>
     </body>

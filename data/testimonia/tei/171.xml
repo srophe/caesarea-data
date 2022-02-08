@@ -401,39 +401,43 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-         <note type="related-texts">
-            <p>Marino Sanuto the Elder, Secrets for Those Faithful to the Cross 3.6.4</p>
-         </note>
-         <note type="geography">
-            <p>Antipatris (Assur, Arsuf)</p>
-            <p>Joppa</p>
-            <p>Palestine</p>
-            <p>Acre (Accho, Accho, Acco, Ptolemaïs)</p>
-         </note>
-         <note type="prosopography">
-            <p>Baldwin I, King of Jerusalem</p>
-            <p>Godfrey of Bouillon, Prince of Jerusalem</p>
-            <p>Genoese (mercenaries)</p>
-            <p>Antipater, father of Herod I</p>
-            <p>Herod I, King</p>
-            <p>Augustus, Roman Emperor</p>
-            <p>Paul the Apostle</p>
-         </note>
-         <note type="themes">
-            <p>Crusades</p>
-            <p>Medieval History</p>
-            <p>Hasmonean Dynasty</p>
-            <p>Roman History</p>
-            <p>Christianity</p>
-            <p>Christian Bible</p>
-            <p>Geography</p>
-            <p>Urban Topography</p>
-            <p>Natural Environment</p>
-            <p>Government</p>
-            <p>Military</p>
-            <p>Maritime Activity</p>
-            <p>Pilgrimage</p>
-         </note>
-      </body>
+         
+         
+         
+         
+      <note type="related-texts">
+        <p>Marino Sanuto the Elder, Secrets for Those Faithful to the Cross 3.6.4</p>
+      </note>
+      <note type="geography">
+        <p>Acre (Accho, Accho, Acco, Ptolemaïs)</p>
+        <p>Antipatris (Assur, Arsuf)</p>
+        <p>Joppa</p>
+        <p>Palestine</p>
+      </note>
+      <note type="prosopography">
+        <p>Antipater, father of Herod I</p>
+        <p>Augustus, Roman Emperor</p>
+        <p>Baldwin I, King of Jerusalem</p>
+        <p>Genoese (mercenaries)</p>
+        <p>Godfrey of Bouillon, Prince of Jerusalem</p>
+        <p>Herod I, King</p>
+        <p>Paul the Apostle</p>
+      </note>
+      <note type="themes">
+        <p>Christian Bible</p>
+        <p>Christianity</p>
+        <p>Crusades</p>
+        <p>Geography</p>
+        <p>Government</p>
+        <p>Hasmonean Dynasty</p>
+        <p>Maritime Activity</p>
+        <p>Medieval History</p>
+        <p>Military</p>
+        <p>Natural Environment</p>
+        <p>Pilgrimage</p>
+        <p>Roman History</p>
+        <p>Urban Topography</p>
+      </note>
+    </body>
    </text>
 </TEI>

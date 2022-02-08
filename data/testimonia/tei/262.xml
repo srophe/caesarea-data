@@ -361,25 +361,31 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts">
+      
+      
+      
+      
+    <note type="related-texts">
         <p>Jerome, Letters 34.1</p>
       </note>
       <note type="geography">
         <p>Cartagena</p>
-        <p>Hispala (Seville)</p>Spain</note>
+        <p>Hispala (Seville)</p>
+        <p>Spain</p>
+      </note>
       <note type="prosopography">
-        <p>Pisistratus</p>
-        <p>Pamphilus</p>
         <p>Eusbius of Caesarea</p>
-        <p>Jerome</p>
         <p>Gennadius</p>
+        <p>Jerome</p>
+        <p>Pamphilus</p>
+        <p>Pisistratus</p>
       </note>
       <note type="themes">
         <p>Christianity</p>
         <p>Classical History</p>
+        <p>Education (secular)</p>
         <p>Medieval History</p>
         <p>Urban topography</p>
-        <p>Education (secular)</p>
       </note>
     </body>
   </text>

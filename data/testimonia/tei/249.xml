@@ -379,37 +379,41 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts">
+      
+      
+      
+      
+    <note type="related-texts">
         <p>Eusebius, Church History 6.39.3-4</p>
         <p>Jerome, Chronicle 218c-h</p>
         <p>Jerome, Illustrious Men 54.9</p>
       </note>
       <note type="geography">
-        <p>Asia Minor</p>
-        <p>Smyrna</p>
-        <p>Jerusalem</p>
         <p>Africa</p>
         <p>Arabia Palestine</p>
+        <p>Asia Minor</p>
         <p>Circesius, Castrum</p>
-        <p>Libya Inferior (or Libya Sicca)</p>
         <p>Egypt</p>
+        <p>Jerusalem</p>
+        <p>Libya Inferior (or Libya Sicca)</p>
+        <p>Smyrna</p>
       </note>
       <note type="prosopography">
-        <p>Pionius, martyr</p>
-        <p>Decius, Emperor</p>
-        <p>Proclus Quintillianus, proconsul of Asia</p>
         <p>Alexander, Bishop of Jerusalem</p>
+        <p>Decius, Emperor</p>
+        <p>Pionius, martyr</p>
+        <p>Proclus Quintillianus, proconsul of Asia</p>
       </note>
       <note type="themes">
         <p>Christianity</p>
-        <p>Martyrdom</p>
-        <p>Roman History</p>
-        <p>Government and Law</p>
+        <p>Death and Burial</p>
         <p>Death and Burial</p>
         <p>Education (sectarian)</p>
         <p>Geography</p>
+        <p>Government and Law</p>
+        <p>Martyrdom</p>
         <p>Natural Environment</p>
-        <p>Death and Burial</p>
+        <p>Roman History</p>
       </note>
     </body>
   </text>

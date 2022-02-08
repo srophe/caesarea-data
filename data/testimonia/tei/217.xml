@@ -376,36 +376,40 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts">
-        <p>John Malalas, Chronicle 382.10-383.5</p>
+      
+      
+      
+      
+    <note type="related-texts">
         <p>Easter Chronicle 603.19-604.13</p>
+        <p>John Malalas, Chronicle 382.10-383.5</p>
       </note>
       <note type="geography">
-        <p>Palestine</p>
         <p>Garizim, Mount (Gargarides, Gargazi)</p>
+        <p>Palestine</p>
       </note>
       <note type="prosopography">
-        <p>Zeno, emperor</p>
-        <p>Samaritans</p>
-        <p>Justasas</p>
+        <p>Asclepiades</p>
         <p>Christians</p>
+        <p>Justasas</p>
+        <p>Mary, Mother of God</p>
         <p>Porphyrios, governor</p>
         <p>Procopius, saint and martyr</p>
-        <p>Timothy, bishop</p>
-        <p>Asclepiades</p>
         <p>Rhegis</p>
-        <p>Mary, Mother of God</p>
+        <p>Samaritans</p>
+        <p>Timothy, bishop</p>
+        <p>Zeno, emperor</p>
       </note>
       <note type="themes">
-        <p>Roman History</p>
         <p>Christianity</p>
-        <p>Judaism</p>
-        <p>Geography</p>
-        <p>Urban Topography</p>
-        <p>Government and Law</p>
-        <p>Entertainment</p>
         <p>Death and Burial</p>
+        <p>Entertainment</p>
+        <p>Geography</p>
+        <p>Government and Law</p>
+        <p>Judaism</p>
         <p>Military</p>
+        <p>Roman History</p>
+        <p>Urban Topography</p>
       </note>
     </body>
   </text>

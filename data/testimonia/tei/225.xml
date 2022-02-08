@@ -361,17 +361,19 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts">
-        <p>
-          <hi rend="italic">Tosefta Oholot  18.13</hi>
-        </p>
+      
+      
+      
+      
+    <note type="related-texts">
+        <p>Tosefta Oholot 18.13</p>
       </note>
       <note type="geography"/>
       <note type="prosopography"/>
       <note type="themes">
-        <p>Urban Topography</p>
-        <p>Society and Culture</p>
         <p>Art and Architecture</p>
+        <p>Society and Culture</p>
+        <p>Urban Topography</p>
       </note>
     </body>
   </text>

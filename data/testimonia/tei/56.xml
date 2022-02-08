@@ -395,14 +395,21 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-         <note type="related-texts"/>
-         <note type="geography">Ascalon</note>
-         <note type="prosopography"/>
-         <note type="themes">Government and Law<p>Urban Topography</p>
-        <p>Economy and
-               Commerce</p>
-        <p>Natural Environment</p>
+         
+         
+         
+         
+      <note type="related-texts"/>
+      <note type="geography">
+        <p>Ascalon</p>
       </note>
-      </body>
+      <note type="prosopography"/>
+      <note type="themes">
+        <p>Economy and Commerce</p>
+        <p>Government and Law</p>
+        <p>Natural Environment</p>
+        <p>Urban Topography</p>
+      </note>
+    </body>
    </text>
 </TEI>

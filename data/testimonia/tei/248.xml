@@ -366,19 +366,25 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts"/>
-      <note type="geography">Ethiopia</note>
+      
+      
+      
+      
+    <note type="related-texts"/>
+      <note type="geography">
+        <p>Ethiopia</p>
+      </note>
       <note type="prosopography">
-        <p>Jesus Christ</p>
-        <p>Philip the Apostle</p>
         <p>Candace, Ethiopian queen</p>
         <p>Cornelius, early Christian at Caesarea</p>
+        <p>Jesus Christ</p>
         <p>Peter the Apostle</p>
+        <p>Philip the Apostle</p>
       </note>
       <note type="themes">
-        <p>Roman History</p>
-        <p>Christianity</p>
         <p>Christian Bible</p>
+        <p>Christianity</p>
+        <p>Roman History</p>
         <p>Society and Culture</p>
       </note>
     </body>

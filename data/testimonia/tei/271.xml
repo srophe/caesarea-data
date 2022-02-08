@@ -370,17 +370,19 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts">
+      
+      
+      
+      
+    <note type="related-texts">
+        <p>Dionysius of Tel Mahre 42</p>
+        <p>Easter Chronicle p. 367</p>
+        <p>George Cedrenus, Chronicle p. 323</p>
+        <p>George Syncellus, Chronicle p. 595</p>
+        <p>John Malalas, Chronicle p. 224</p>
         <p>Josephus, Jewish Antiquities 15.293</p>
         <p>Josephus, Jewish Antiquities 16.136</p>
         <p>Josephus, Jewish War 1.408</p>
-        <p>John Malalas, Chronicle p. 224</p>
-        <p>
-          <hi rend="italic">Easter Chronicle p. 367</hi>
-        </p>
-        <p>Dionysius of Tel Mahre 42</p>
-        <p>George Syncellus, Chronicle p. 595</p>
-        <p>George Cedrenus, Chronicle p. 323</p>
       </note>
       <note type="geography">
         <p>Anthedon</p>
@@ -389,17 +391,17 @@
         <p>Syria</p>
       </note>
       <note type="prosopography">
+        <p>Antipater the Idumaean</p>
         <p>Augustus, emperor</p>
         <p>Herod I, king</p>
-        <p>Antipater the Idumaean</p>
       </note>
       <note type="themes">
-        <p>Roman History</p>
-        <p>Herodian Dynasty</p>
-        <p>Geography</p>
-        <p>Paganism</p>
-        <p>Government and Law</p>
         <p>Art and Architecture</p>
+        <p>Geography</p>
+        <p>Government and Law</p>
+        <p>Herodian Dynasty</p>
+        <p>Paganism</p>
+        <p>Roman History</p>
       </note>
     </body>
   </text>

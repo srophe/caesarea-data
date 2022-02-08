@@ -372,31 +372,35 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts"/>
+      
+      
+      
+      
+    <note type="related-texts"/>
       <note type="geography">
-        <p>Shiloh (Sylo)</p>
+        <p>Gamala in the Golan (Gamla)</p>
+        <p>Haifa (Hefa, Caipha)</p>
+        <p>Kakun or Qaqun (Cacho)</p>
         <p>Lidda (St. George)</p>
         <p>Ptolemaïs (Acco, Accho, Acre, Akko)</p>
-        <p>Gamala in the Golan (Gamla)</p>
         <p>Semala (Semla)</p>
-        <p>Kakun or Qaqun (Cacho)</p>
-        <p>Haifa (Hefa, Caipha)</p>
+        <p>Shiloh (Sylo)</p>
       </note>
       <note type="prosopography">
         <p>George the Martyr</p>
       </note>
       <note type="themes">
-        <p>Crusades</p>
         <p>Christian Bible</p>
-        <p>Pilgrimage</p>
-        <p>Medieval History</p>
-        <p>Geography</p>
-        <p>Urban Topography</p>
-        <p>Natural Environment</p>
-        <p>Travel</p>
-        <p>Maritime Activity</p>
-        <p>Military</p>
+        <p>Crusades</p>
         <p>Death and Burial</p>
+        <p>Geography</p>
+        <p>Maritime Activity</p>
+        <p>Medieval History</p>
+        <p>Military</p>
+        <p>Natural Environment</p>
+        <p>Pilgrimage</p>
+        <p>Travel</p>
+        <p>Urban Topography</p>
       </note>
     </body>
   </text>

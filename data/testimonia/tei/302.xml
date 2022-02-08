@@ -374,24 +374,28 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts"/>
+      
+      
+      
+      
+    <note type="related-texts"/>
       <note type="geography">
+        <p>Antipatris (Assur, Arsur, Arsuf)</p>
+        <p>Athlit (Pilgrims’ Castle, Castellum Peregrinorum, Catrum Peregrinorum, Petra Incisa)</p>
+        <p>Dor (Dora)</p>
         <p>Haifa (Efe, Hefa, Caypha)</p>
-        <p>Athlit (Pilgrims’ Castle,
-               Castellum Peregrinorum, Catrum Peregrinorum, Petra Incisa)</p>
-        <p>Antipatris (Assur,
-               Arsur, Arsuf)</p>Dor (Dora)</note>
+      </note>
       <note type="prosopography">
         <p>Knights Templar</p>
       </note>
       <note type="themes">
         <p>Crusades</p>
-        <p>Medieval History</p>
         <p>Geography</p>
+        <p>Government and Law</p>
+        <p>Medieval History</p>
+        <p>Military</p>
         <p>Natural Environment</p>
         <p>Travel</p>
-        <p>Military</p>
-        <p>Government and Law</p>
       </note>
     </body>
   </text>

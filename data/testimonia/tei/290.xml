@@ -368,11 +368,13 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts">
-        <p>
-          <hi rend="italic">Joshua 13:3</hi>
-        </p>
+      
+      
+      
+      
+    <note type="related-texts">
         <p>Eusebius, Dictionary of Place Names 22</p>
+        <p>Joshua 13:3</p>
       </note>
       <note type="geography">
         <p>Accaron</p>
@@ -380,13 +382,15 @@
         <p>Canaan</p>
         <p>Iamnia</p>
       </note>
-      <note type="prosopography">DanJudah</note>
+      <note type="prosopography">
+        <p>DanJudah</p>
+      </note>
       <note type="themes">
+        <p>Geography</p>
         <p>Hebrew Bible</p>
         <p>History of Israel</p>
-        <p>Persian History</p>
-        <p>Geography</p>
         <p>Judaism</p>
+        <p>Persian History</p>
       </note>
     </body>
   </text>

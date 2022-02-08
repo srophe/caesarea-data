@@ -357,32 +357,36 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-         <note type="related-texts">
-            <p>
-               <hi rend="italic">Acts 10 </hi>
-               <hi rend="italic">Acts 21:8</hi>
-            </p>
-         </note>
-         <note type="geography">
+         
+         
+         
+         
+      <note type="related-texts">
+        <p>Acts 10</p>
+        <p>Acts 21:8</p>
+      </note>
+      <note type="geography">
         <p>Cartagena</p>
+        <p>Dor</p>
         <p>Hispala (Seville)</p>
-        <p>Spain</p>Dor</note>
-         <note type="prosopography">
-        <p>Herod I, king</p>
+        <p>Spain</p>
+      </note>
+      <note type="prosopography">
         <p>Augustus, emperor</p>
-        <p>Jesus
-               Christ</p>
-        <p>Cornelius, early Christian at Caesarea</p>Philip, early Christian at
-            Caesarea</note>
-         <note type="themes">
-        <p>Roman History</p>
-        <p>Herodian Dynasty</p>
-        <p>Medieval
-               History</p>
-        <p>Christianity</p>
+        <p>Cornelius, early Christian at Caesarea</p>
+        <p>Herod I, king</p>
+        <p>Jesus Christ</p>
+        <p>Philip, early Christian at Caesarea</p>
+      </note>
+      <note type="themes">
         <p>Christian Bible</p>
-        <p>Geography</p>Urban
-            Topography</note>
-      </body>
+        <p>Christianity</p>
+        <p>Geography</p>
+        <p>Herodian Dynasty</p>
+        <p>Medieval History</p>
+        <p>Roman History</p>
+        <p>Urban Topography</p>
+      </note>
+    </body>
    </text>
 </TEI>

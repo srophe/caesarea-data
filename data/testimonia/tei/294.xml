@@ -357,25 +357,30 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts">
-        <p>
-          <hi rend="italic">Isaiah 33:9</hi>
-        </p>Eusebius, Dictionary of Place Names 162</note>
+      
+      
+      
+      
+    <note type="related-texts">
+        <p>Eusebius, Dictionary of Place Names 162</p>
+        <p>Isaiah 33:9</p>
+      </note>
       <note type="geography">
-        <p>Galilee, Sea of (Lake Tiberias, Gennesaret,
-               Kinnereth)</p>
+        <p>Galilee, Sea of (Lake Tiberias, Gennesaret, Kinnereth)</p>
         <p>Ioppe (Iope, Ioppa, Jaffa)</p>
-        <p>Sharon, Plain of (Saron,
-               Saronas)</p>Tabor, Mount (Thabor, Har Tavor)</note>
+        <p>Sharon, Plain of (Saron, Saronas)</p>
+        <p>Tabor, Mount (Thabor, Har Tavor)</p>
+      </note>
       <note type="prosopography">
         <p>Isaiah the Prophet</p>
       </note>
       <note type="themes">
+        <p>Geography</p>
+        <p>Hebrew Bible</p>
         <p>History of Israel</p>
+        <p>Natural Environment</p>
         <p>Roman History</p>
-        <p>Hebrew
-               Bible</p>
-        <p>Geography</p>Natural Environment</note>
+      </note>
     </body>
   </text>
 </TEI>

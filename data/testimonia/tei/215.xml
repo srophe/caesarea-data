@@ -388,30 +388,34 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts">
+      
+      
+      
+      
+    <note type="related-texts">
         <p>Libanius, Autobiography 90-91, 104, 109-110, 113-115, 120</p>
-        <p>Libanius, Oration 1</p>
         <p>Libanius, Letters 259, 174, 390, 391, 405, 439, 454, 529, 555, 722, 754, 815</p>
+        <p>Libanius, Oration 1</p>
       </note>
       <note type="geography">
+        <p>Antioch on the Orontes</p>
         <p>Palestine</p>
         <p>Phoenicia</p>
-        <p>Antioch on the Orontes</p>
       </note>
       <note type="prosopography">
-        <p>Acacius, sophist</p>
         <p>Acacius, bishop of Caesarea</p>
-        <p>Libanius of Antioch</p>
+        <p>Acacius, sophist</p>
         <p>Homer</p>
+        <p>Libanius of Antioch</p>
         <p>Pheidias</p>
       </note>
       <note type="themes">
-        <p>Roman History</p>
-        <p>Greek Language</p>
-        <p>Society and Culture</p>
         <p>Art and Literature</p>
-        <p>Education (sectarian)</p>
         <p>Death and Burial</p>
+        <p>Education (sectarian)</p>
+        <p>Greek Language</p>
+        <p>Roman History</p>
+        <p>Society and Culture</p>
       </note>
     </body>
   </text>

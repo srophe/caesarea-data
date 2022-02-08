@@ -413,50 +413,41 @@
                <citedRange unit=""/>
             </bibl>
          </listBibl>
-         <note type="related-texts">
-            <p>
-               <hi rend="italic">Hexapla</hi>
-            </p>
-            <p>
-               <hi rend="italic">Enneapla</hi>
-            </p>
-            <p>
-               <hi rend="italic">Tetrapla</hi>
-            </p>
-            <p>
-               <hi rend="italic">Septuagint</hi>
-            </p>
-            <p>
-               <hi rend="italic">Psalms</hi>
-            </p>
-            <p>
-               <hi rend="italic">Matthew</hi>
-            </p>
-         </note>
-         <note type="geography">
-            <p>Rome</p>
-            <p>Caesarea (in Mauretania)</p>
-            <p>Palestine</p>
-            <p> </p>
-         </note>
-         <note type="prosopography">
-            <p>Origen</p>
-            <p>Aquila of Pontus</p>
-            <p>Theodotion</p>
-            <p>Symmachus</p>
-            <p>Ebionites</p>
-            <p>Eusebius of Caesarea</p>
-         </note>
-         <note type="themes">
-            <p>Christianity</p>
-            <p>Hebrew Bible</p>
-            <p>Christian Bible</p>
-            <p>Hebrew Language</p>
-            <p>Greek Language</p>
-            <p>Education (sacred)</p>
-            <p>Education (secular)</p>
-            <p>Society and Culture</p>
-         </note>
-      </body>
+         
+         
+         
+         
+      <note type="related-texts">
+        <p>Enneapla</p>
+        <p>Hexapla</p>
+        <p>Matthew</p>
+        <p>Psalms</p>
+        <p>Septuagint</p>
+        <p>Tetrapla</p>
+      </note>
+      <note type="geography">
+        <p>Caesarea (in Mauretania)</p>
+        <p>Palestine</p>
+        <p>Rome</p>
+      </note>
+      <note type="prosopography">
+        <p>Aquila of Pontus</p>
+        <p>Ebionites</p>
+        <p>Eusebius of Caesarea</p>
+        <p>Origen</p>
+        <p>Symmachus</p>
+        <p>Theodotion</p>
+      </note>
+      <note type="themes">
+        <p>Christian Bible</p>
+        <p>Christianity</p>
+        <p>Education (sacred)</p>
+        <p>Education (secular)</p>
+        <p>Greek Language</p>
+        <p>Hebrew Bible</p>
+        <p>Hebrew Language</p>
+        <p>Society and Culture</p>
+      </note>
+    </body>
    </text>
 </TEI>

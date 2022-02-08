@@ -389,26 +389,32 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts"/>
+      
+      
+      
+      
+    <note type="related-texts"/>
       <note type="geography">
         <p>Antioch on the Orontes</p>
-        <p>Laodicea</p>
-        <p>Tyre</p>
-        <p>Beirut</p>
-        <p>Heliopolis</p>
-        <p>Lebanon</p>
-        <p>Gaza</p>
         <p>Ascalon</p>
+        <p>Beirut</p>
         <p>Castabala</p>
+        <p>Gaza</p>
+        <p>Heliopolis</p>
+        <p>Laodicea</p>
+        <p>Lebanon</p>
+        <p>Tyre</p>
       </note>
-      <note type="prosopography">Nicolaus of Damascus</note>
+      <note type="prosopography">
+        <p>Nicolaus of Damascus</p>
+      </note>
       <note type="themes">
-        <p>Roman History</p>
-        <p>Geography</p>
-        <p>Urban Topography</p>
-        <p>Government and Law</p>
-        <p>Society and Culture</p>
         <p>Entertainment</p>
+        <p>Geography</p>
+        <p>Government and Law</p>
+        <p>Roman History</p>
+        <p>Society and Culture</p>
+        <p>Urban Topography</p>
       </note>
     </body>
   </text>

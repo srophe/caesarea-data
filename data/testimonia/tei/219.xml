@@ -398,50 +398,46 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts">
-        <p>
-          <list type="simple">
-            <item>
-              <p>Hecataeus of Abdera FGrH 1 F 275</p>Josephus, Jewish Antiquities 5.83<p>Josephus, Jewish Antiquities 5.87</p>
-              <p>Josephus, Jewish Antiquities
-                        6.330</p>Claudius Iolaus, Phoenicica, FGrH 788 F 2<p>Artemidorus of
-                        Ephesus, Geographical Description fr. 111</p>
-              <p>Marcian of Heraclea, Epitome
-                        of Artemidorus’ Geography 576.19-27</p>Apollodorus, FGrH 244 F 19<p>Alexander of Ephesus, Supplementum Hellenisticum 29</p>Charax, FGrH 103 F
-                     29</item>
-          </list>
-        </p>
+      
+      
+      
+      
+    <note type="related-texts">
+        <p>Alexander of Ephesus, Supplementum Hellenisticum 29</p>
+        <p>Apollodorus, FGrH 244 F 19</p>
+        <p>Artemidorus of Ephesus, Geographical Description fr. 111</p>
+        <p>Charax, FGrH 103 F 29</p>
+        <p>Claudius Iolaus, Phoenicica, FGrH 788 F 2</p>
+        <p>Hecataeus of Abdera FGrH 1 F 275</p>
+        <p>Josephus, Jewish Antiquities 6.330</p>
+        <p>Josephus, Jewish Antiquities 5.83</p>
+        <p>Josephus, Jewish Antiquities 5.87</p>
+        <p>Marcian of Heraclea, Epitome of Artemidorus’ Geography 576.19-27</p>
       </note>
       <note type="geography">
-        <p>Jordan, River</p>
         <p>Ashdod (Azotos)</p>
         <p>Carmel, Mount (Karmelos, Har HaKarmel, Jabal Mar Elyas)</p>
-        <p>Dor (Dor of Nafath, Dor Nafeth, Nafethdor, Nefeddor, Doros, Doroi, Dora, Dora
-               Maritima, Tel Dor, Dor Tantura)</p>
-        <p>Ioppa (Ioppe, Iope, Jaffa)</p>
-        <p>Phoenicia</p>
         <p>Coele Syria</p>
+        <p>Dor (Dor of Nafath, Dor Nafeth, Nafethdor, Nefeddor, Doros, Doroi, Dora, Dora Maritima, Tel Dor, Dor Tantura)</p>
+        <p>Ioppa (Ioppe, Iope, Jaffa)</p>
+        <p>Jordan, River</p>
+        <p>Phoenicia</p>
         <p>Ptolemaïs (Acco, Accho, Ake, Acre, Akko)</p>
       </note>
       <note type="prosopography">
-        <list type="simple">
-          <item>
-            <p>Diodotus Tryphon, King of Syria</p>
-            <p>Antiochus VII Sidetes, King of Syria</p>
-            <list type="simple"/>
-          </item>
-        </list>
+        <p>Antiochus VII Sidetes, King of Syria</p>
+        <p>Diodotus Tryphon, King of Syria</p>
       </note>
       <note type="themes">
-        <p>Hellenistic History</p>
-        <p>Roman History</p>
-        <p>Paganism</p>
-        <p>Geography</p>
-        <p>Natural Environment</p>
-        <p>Greek Language</p>
-        <p>Travel</p>
-        <p>Maritime Activity</p>
         <p>Economy</p>
+        <p>Geography</p>
+        <p>Greek Language</p>
+        <p>Hellenistic History</p>
+        <p>Maritime Activity</p>
+        <p>Natural Environment</p>
+        <p>Paganism</p>
+        <p>Roman History</p>
+        <p>Travel</p>
       </note>
     </body>
   </text>

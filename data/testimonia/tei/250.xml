@@ -380,37 +380,41 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts">
-        <p>Theodosius, Novellae 3.2</p>
-        <p>Procopius, Buildings 5.7.7</p>
-        <p>John Malalas, Chronography 382.10-383.5</p>
+      
+      
+      
+      
+    <note type="related-texts">
         <p>Constantine Porphyrogenitus, Plots 162.22-36</p>
+        <p>John Malalas, Chronography 382.10-383.5</p>
+        <p>Procopius, Buildings 5.7.7</p>
+        <p>Theodosius, Novellae 3.2</p>
       </note>
       <note type="geography">
-        <p>Palestine</p>
         <p>Garizim, Mount (Gargarides, Gargazi)</p>
+        <p>Palestine</p>
       </note>
       <note type="prosopography">
-        <p>Samaritans</p>
-        <p>Justasa</p>
-        <p>Probus, saint</p>
-        <p>Timotheos, bishop</p>
-        <p>Asclepiades, dux Palestinae</p>
         <p>Arcadianoi</p>
-        <p>Zeno, emperor</p>
+        <p>Asclepiades, dux Palestinae</p>
+        <p>Justasa</p>
         <p>Mary, mother of Jesus</p>
+        <p>Probus, saint</p>
         <p>Procopius, saint</p>
+        <p>Samaritans</p>
+        <p>Timotheos, bishop</p>
+        <p>Zeno, emperor</p>
       </note>
       <note type="themes">
-        <p>Roman History</p>
         <p>Christianity</p>
-        <p>Judaism</p>
-        <p>Geography</p>
-        <p>Urban Topography</p>
-        <p>Government and Law</p>
-        <p>Entertainment</p>
         <p>Death and Burial</p>
+        <p>Entertainment</p>
+        <p>Geography</p>
+        <p>Government and Law</p>
+        <p>Judaism</p>
         <p>Military</p>
+        <p>Roman History</p>
+        <p>Urban Topography</p>
       </note>
     </body>
   </text>

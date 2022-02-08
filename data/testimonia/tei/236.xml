@@ -370,27 +370,31 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts"/>
+      
+      
+      
+      
+    <note type="related-texts"/>
       <note type="geography">
         <p>Carmel, Mount</p>
         <p>Jerusalem</p>
       </note>
       <note type="prosopography">
+        <p>David, King</p>
         <p>Herod I, King</p>
         <p>Jesus Christ</p>
-        <p>Peter the Apostle</p>
         <p>Josephus</p>
-        <p>David, King</p>
+        <p>Peter the Apostle</p>
       </note>
       <note type="themes">
-        <p>Roman History</p>
-        <p>Herodian Dynasty</p>
-        <p>Christianity</p>
         <p>Christian Bible</p>
-        <p>Urban Topography</p>
+        <p>Christianity</p>
         <p>Government and Law</p>
-        <p>Military</p>
+        <p>Herodian Dynasty</p>
         <p>Maritime Activity</p>
+        <p>Military</p>
+        <p>Roman History</p>
+        <p>Urban Topography</p>
       </note>
     </body>
   </text>

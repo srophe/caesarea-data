@@ -368,27 +368,31 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-         <note type="related-texts">
-            <p>Pseudo-Dionysius of Tel-Maḥre, The Chronicle of Zuqnīn 4.150-151</p>
-            <p>Michael the Syrian II.430</p>
-         </note>
-         <note type="geography">
-            <p>Constantinople</p>
-            <p>Syria</p>
-         </note>
-         <note type="prosopography">
-            <p>Heraklonas, emperor</p>
-            <p>Oumaros</p>
-            <p>Paul of Constantinople</p>
-            <p>Cyrus (?)</p>
-            <p>Muʿāwiya ibn Abī Sufyān (معاوية ابن أبي سفيان)</p>
-         </note>
-         <note type="themes">
-            <p>Byzantine History</p>
-            <p>Islamic History</p>
-            <p>Government and Law</p>
-            <p>Military</p>
-         </note>
-      </body>
+         
+         
+         
+         
+      <note type="related-texts">
+        <p>Michael the Syrian II.430</p>
+        <p>Pseudo-Dionysius of Tel-Maḥre, The Chronicle of Zuqnīn 4.150-151</p>
+      </note>
+      <note type="geography">
+        <p>Constantinople</p>
+        <p>Syria</p>
+      </note>
+      <note type="prosopography">
+        <p>Cyrus (?)</p>
+        <p>Heraklonas, emperor</p>
+        <p>Muʿāwiya ibn Abī Sufyān (معاوية ابن أبي سفيان)</p>
+        <p>Oumaros</p>
+        <p>Paul of Constantinople</p>
+      </note>
+      <note type="themes">
+        <p>Byzantine History</p>
+        <p>Government and Law</p>
+        <p>Islamic History</p>
+        <p>Military</p>
+      </note>
+    </body>
    </text>
 </TEI>

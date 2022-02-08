@@ -355,24 +355,28 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts">
+      
+      
+      
+      
+    <note type="related-texts">
         <p>Eusebius, Life of Constantine 4.36-37</p>
         <p>Leo the Grammarian 88.22-89.1</p>
         <p>Michael the Syrian I.327</p>
       </note>
       <note type="geography">
-        <p>Palestine</p>
         <p>Constantinople</p>
+        <p>Palestine</p>
       </note>
       <note type="prosopography">
         <p>Constantine I, emperor</p>
         <p>Eusebius</p>
       </note>
       <note type="themes">
-        <p>Late Roman History</p>
+        <p>Christian Bible</p>
         <p>Christianity</p>
         <p>Hebrew Bible</p>
-        <p>Christian Bible</p>
+        <p>Late Roman History</p>
         <p>Society and Culture</p>
       </note>
     </body>

@@ -355,7 +355,11 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts"/>
+      
+      
+      
+      
+    <note type="related-texts"/>
       <note type="geography">
         <p>Judaea</p>
         <p>Palestine</p>
@@ -364,11 +368,11 @@
         <p>Vespasian, emperor</p>
       </note>
       <note type="themes">
-        <p>Roman History</p>
-        <p>Judaism</p>
-        <p>Urban Topography</p>
-        <p>Government and Law</p>
         <p>Entertainment</p>
+        <p>Government and Law</p>
+        <p>Judaism</p>
+        <p>Roman History</p>
+        <p>Urban Topography</p>
       </note>
     </body>
   </text>

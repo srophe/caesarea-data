@@ -405,49 +405,48 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts">
-        <p>
-          <hi rend="italic">Acts 10:4</hi>
-        </p>
-        <p>
-          <hi rend="italic">Acts 16</hi>
-        </p>
+      
+      
+      
+      
+    <note type="related-texts">
+        <p>Acts 10:4</p>
+        <p>Acts 16</p>
         <p>Acts 21:8</p>
         <p>Jacques de Vitry, Eastern History 23-25</p>
       </note>
       <note type="geography">
-        <p>Ioppa (Iope, Ioppe, Jaffa)</p>
         <p>Antipatris (Assur, Arsur, Arsuf)</p>
+        <p>Ioppa (Iope, Ioppe, Jaffa)</p>
+        <p>Lydda (Lida)</p>
         <p>Palestine</p>
         <p>Ramla (Rama, Ramleh)</p>
-        <p>Lydda (Lida)</p>
       </note>
       <note type="prosopography">
+        <p>Antipater, Father of Herod I</p>
         <p>Baldwin I, King of Jerusalem</p>
+        <p>Cornelius, early Christian at Caesarea</p>
         <p>Genoese</p>
-        <p>Antipater,
-               Father of Herod I</p>
         <p>Herod I, King</p>
-        <p>Cornelius, early Christian at
-               Caesarea</p>
+        <p>Mohammed the Prophet</p>
+        <p>Paul the Apostle</p>
+        <p>Peter the Apostle</p>
         <p>Philipp, early Christian at Caesarea</p>
-        <p>Peter the
-               Apostle</p>
-        <p>Paul the Apostle</p>Mohammed the Prophet</note>
+      </note>
       <note type="themes">
-        <p>Crusades</p>
-        <p>Hasmonean Dynasty</p>
-        <p>Roman History</p>
-        <p>Medieval History</p>
-        <p>Christianity</p>
         <p>Christian Bible</p>
-        <p>Pilgrims</p>
-        <p>Geography</p>
-        <p>Natural Environment</p>
-        <p>Travel</p>
-        <p>Military</p>
-        <p>Government</p>
+        <p>Christianity</p>
+        <p>Crusades</p>
         <p>Economy</p>
+        <p>Geography</p>
+        <p>Government</p>
+        <p>Hasmonean Dynasty</p>
+        <p>Medieval History</p>
+        <p>Military</p>
+        <p>Natural Environment</p>
+        <p>Pilgrims</p>
+        <p>Roman History</p>
+        <p>Travel</p>
       </note>
     </body>
   </text>

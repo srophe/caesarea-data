@@ -371,28 +371,32 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-         <note type="related-texts">
-            <p>Hesychius of Jerusalem, Sermon 1=PG 93.1449A-B</p>
-            <p>Hesychius of Miletus, Compendium of Universal History 3 <hi rend="italic">Laterculus
-                  Malalianus (MGHAA 13) 427.3-36</hi>
-        </p>
-         </note>
-         <note type="geography">
-            <p>Palestine</p>
-         </note>
-         <note type="prosopography">
-            <p>Adam</p>
-            <p>Jesus Christ</p>
-            <p>Clement</p>
-            <p>Theophilus</p>
-            <p>Timotheus</p>
-            <p>Eusebius, bishop</p>
-         </note>
-         <note type="themes">
+         
+         
+         
+         
+      <note type="related-texts">
+        <p>Hesychius of Jerusalem, Sermon 1=PG 93.1449A-B</p>
+        <p>Hesychius of Miletus, Compendium of Universal History 3</p>
+        <p>Laterculus Malalianus (MGHAA 13) 427.3-36</p>
+      </note>
+      <note type="geography">
+        <p>Palestine</p>
+      </note>
+      <note type="prosopography">
+        <p>Adam</p>
+        <p>Clement</p>
+        <p>Eusebius, bishop</p>
+        <p>Jesus Christ</p>
+        <p>Theophilus</p>
+        <p>Timotheus</p>
+      </note>
+      <note type="themes">
+        <p>Christian Bible</p>
         <p>Christianity</p>
+        <p>Education (sacred)</p>
         <p>Hebrew Bible</p>
-        <p>Christian Bible</p>Education
-            (sacred)</note>
-      </body>
+      </note>
+    </body>
    </text>
 </TEI>

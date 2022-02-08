@@ -380,37 +380,35 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts">
-        <p>
-          <hi rend="italic">Vulgate Psalms 126:2</hi>
-        </p>
+      
+      
+      
+      
+    <note type="related-texts">
         <p>Isidore of Seville, Etymologies 6.6</p>
+        <p>Vulgate Psalms 126:2</p>
       </note>
       <note type="geography">
-        <list type="simple">
-          <item>Phaleron</item>
-          <item>Athens</item>
-        </list>
+        <p>Athens</p>
+        <p>Phaleron</p>
       </note>
       <note type="prosopography">
-        <list type="simple">
-          <item>Pamphilus</item>
-          <item>Eusebius of Caesarea</item>
-          <item>Demetrius of Phalerum</item>
-          <item>Pisistratus</item>
-          <item>Origen</item>
-          <item>Acacius</item>
-          <item>Euzoius</item>
-        </list>
+        <p>Acacius</p>
         <p>Adamantius (i.e. Origen)</p>
+        <p>Demetrius of Phalerum</p>
+        <p>Eusebius of Caesarea</p>
+        <p>Euzoius</p>
+        <p>Origen</p>
+        <p>Pamphilus</p>
+        <p>Pisistratus</p>
       </note>
       <note type="themes">
-        <p>Roman History</p>
         <p>Christianity</p>
-        <p>Hebrew Bible</p>
-        <p>Urban Topography</p>
         <p>Education (sacred)</p>
+        <p>Hebrew Bible</p>
+        <p>Roman History</p>
         <p>Society and Culture</p>
+        <p>Urban Topography</p>
         <p>Urban Topography</p>
       </note>
     </body>

@@ -383,39 +383,43 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-         <note type="related-texts"/>
-         <note type="geography">
-            <p>Jerusalem</p>
-            <p>Ioppe (Iope, Ioppa, Joppa, Jaffa)</p>
-            <p>Caesarea Philippi</p>
-            <p>Palestine</p>
-            <p>Galilee</p>
-            <p>Damascus</p>
-            <p>Heliopolis</p>
-            <p>Emesa (Emiza)</p>
-            <p>Larissa (Shaizar)</p>
-            <p>Arethusa (Aretosa, Aristosa, Al-Rastan)</p>
-            <p>Epiphania</p>
-         </note>
-         <note type="prosopography">
-            <p>Euphemia</p>
-            <p>Anthonius (Anthony)</p>
-            <p>Dorcas (Tabitha)</p>
-            <p>Pamphilus (scholar)</p>
-            <p>Procopius (martyr)</p>
-            <p>Cornelius, early Christian at Caesarea</p>
-            <p>Paul the Apostle</p>
-            <p>John the Baptist</p>
-         </note>
-         <note type="themes">
-            <p>Christianity</p>
-            <p>Christian Bible</p>
-            <p>Pilgrimage</p>
-            <p>Geography</p>
-            <p>Urban Topography</p>
-            <p>Travel</p>
-            <p>Society and Culture</p>
-         </note>
-      </body>
+         
+         
+         
+         
+      <note type="related-texts"/>
+      <note type="geography">
+        <p>Arethusa (Aretosa, Aristosa, Al-Rastan)</p>
+        <p>Caesarea Philippi</p>
+        <p>Damascus</p>
+        <p>Emesa (Emiza)</p>
+        <p>Epiphania</p>
+        <p>Galilee</p>
+        <p>Heliopolis</p>
+        <p>Ioppe (Iope, Ioppa, Joppa, Jaffa)</p>
+        <p>Jerusalem</p>
+        <p>Larissa (Shaizar)</p>
+        <p>Palestine</p>
+      </note>
+      <note type="prosopography">
+        <p>Anthonius (Anthony)</p>
+        <p>Cornelius, early Christian at Caesarea</p>
+        <p>Dorcas (Tabitha)</p>
+        <p>Euphemia</p>
+        <p>John the Baptist</p>
+        <p>Pamphilus (scholar)</p>
+        <p>Paul the Apostle</p>
+        <p>Procopius (martyr)</p>
+      </note>
+      <note type="themes">
+        <p>Christian Bible</p>
+        <p>Christianity</p>
+        <p>Geography</p>
+        <p>Pilgrimage</p>
+        <p>Society and Culture</p>
+        <p>Travel</p>
+        <p>Urban Topography</p>
+      </note>
+    </body>
    </text>
 </TEI>

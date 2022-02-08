@@ -353,22 +353,25 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts">
-        <p>
-          <hi rend="italic">Joshua 11:12</hi>
-        </p>
+      
+      
+      
+      
+    <note type="related-texts">
         <p>Jerome, Book of Places 137</p>
+        <p>Joshua 11:12</p>
       </note>
       <note type="geography">
-        <p>Dor (Dor of Nafath, Dor Nafeth, Nafethdor, Nefeddor, Doros, Doroi, Dora, Dora
-               Maritima, Tel Dor, Dor Tantura)</p>
+        <p>Dor (Dor of Nafath, Dor Nafeth, Nafethdor, Nefeddor, Doros, Doroi, Dora, Dora Maritima, Tel Dor, Dor Tantura)</p>
         <p>Ptolemaïs (Acco, Accho, Acre, Akko)</p>
       </note>
-      <note type="prosopography">Symmachus</note>
+      <note type="prosopography">
+        <p>Symmachus</p>
+      </note>
       <note type="themes">
-        <p>History of Israel</p>
-        <p>Hebrew Bible</p>
         <p>Geography</p>
+        <p>Hebrew Bible</p>
+        <p>History of Israel</p>
         <p>Travel</p>
       </note>
     </body>

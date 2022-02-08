@@ -388,23 +388,27 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-         <note type="related-texts">
-            <p>Palladius of Galatia, Dialog on the Life of St. John Chrysostom 20.143-157</p>
-         </note>
-         <note type="geography">
-            <p>Koukousos (Kokousos, Cucusus, Göksun)</p>
-            <p>Palestine</p>
-         </note>
-         <note type="prosopography">
-            <p>St. John Chrysostom</p>
-            <p>Eulogius, Bishop of Caesarea</p>
-         </note>
-         <note type="themes">
-            <p>Roman History</p>
-            <p>Christianity</p>
-            <p>Government and Law</p>
-            <p>Society and Culture</p>
-         </note>
-      </body>
+         
+         
+         
+         
+      <note type="related-texts">
+        <p>Palladius of Galatia, Dialog on the Life of St. John Chrysostom 20.143-157</p>
+      </note>
+      <note type="geography">
+        <p>Koukousos (Kokousos, Cucusus, Göksun)</p>
+        <p>Palestine</p>
+      </note>
+      <note type="prosopography">
+        <p>Eulogius, Bishop of Caesarea</p>
+        <p>St. John Chrysostom</p>
+      </note>
+      <note type="themes">
+        <p>Christianity</p>
+        <p>Government and Law</p>
+        <p>Roman History</p>
+        <p>Society and Culture</p>
+      </note>
+    </body>
    </text>
 </TEI>

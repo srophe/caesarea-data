@@ -414,45 +414,49 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts"/>
+      
+      
+      
+      
+    <note type="related-texts"/>
       <note type="geography">
-        <p>Jerusalem</p>
-        <p>Jaffa</p>
-        <p>Cayphas (Haifa)</p>
         <p>Acras (Accaron, Acco)</p>
         <p>Atsuph (Azotus)</p>
-        <p>Tyre</p>
-        <p>Sidon</p>
-        <p>Jubelet (Gibelet)</p>
+        <p>Babylonia Nova (New Babylon in Egypt)</p>
         <p>Baruth (Beirut)</p>
-        <p>Tartus (Tortosa)</p>
+        <p>Cayphas (Haifa)</p>
+        <p>Cyprus</p>
         <p>Gibel (Gibelet?)</p>
         <p>Gilboa, Mount</p>
-        <p>Tripolis</p>
+        <p>Jaffa</p>
+        <p>Jerusalem</p>
+        <p>Jubelet (Gibelet)</p>
         <p>Lice (Laodicea?)</p>
-        <p>Babylonia Nova (New Babylon in Egypt)</p>
-        <p>Syria</p>
         <p>Palestine</p>
         <p>Port of St. Andrew (presumably on Karpass Peninsula)</p>
-        <p>Cyprus</p>
+        <p>Sidon</p>
+        <p>Syria</p>
+        <p>Tartus (Tortosa)</p>
+        <p>Tripolis</p>
+        <p>Tyre</p>
       </note>
       <note type="prosopography">
-        <p>Franks</p>
-        <p>Saracens</p>
-        <p>Baldwin I, King of Jerusalem</p>
-        <p>Raymond IV of Toulouse</p>
-        <p>Jesus Christ</p>
         <p>Andrew the Apostle</p>
+        <p>Baldwin I, King of Jerusalem</p>
+        <p>Franks</p>
+        <p>Jesus Christ</p>
+        <p>Raymond IV of Toulouse</p>
+        <p>Saracens</p>
       </note>
       <note type="themes">
-        <p>Medieval History</p>
-        <p>Crusades</p>
-        <p>Pilgrimage</p>
         <p>Christianity</p>
-        <p>Islamic History</p>
+        <p>Crusades</p>
         <p>Government and Law</p>
-        <p>Military</p>
+        <p>Islamic History</p>
         <p>Maritima Activity</p>
+        <p>Medieval History</p>
+        <p>Military</p>
+        <p>Pilgrimage</p>
       </note>
     </body>
   </text>

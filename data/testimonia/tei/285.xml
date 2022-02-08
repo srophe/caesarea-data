@@ -363,22 +363,31 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts">Eusebius, Church History 6.1-2</note>
-      <note type="geography">Veria (Beroea in Syria)</note>
+      
+      
+      
+      
+    <note type="related-texts">
+        <p>Eusebius, Church History 6.1-2</p>
+      </note>
+      <note type="geography">
+        <p>Veria (Beroea in Syria)</p>
+      </note>
       <note type="prosopography">
         <p>Matthew the Evangelist</p>
-        <p>Pamphilus,
-            martyr</p>Nazarenes</note>
+        <p>Nazarenes</p>
+        <p>Pamphilus, martyr</p>
+      </note>
       <note type="themes">
-        <p>Roman History</p>
+        <p>Christian Bible</p>
         <p>Christianity</p>
-        <p>Christian
-               Bible</p>
-        <p>Judaism</p>
-        <p>Hebrew Language</p>
+        <p>Education (sacred)</p>
         <p>Greek Language</p>
-        <p>Education
-               (sacred)</p>Urban Topography</note>
+        <p>Hebrew Language</p>
+        <p>Judaism</p>
+        <p>Roman History</p>
+        <p>Urban Topography</p>
+      </note>
     </body>
   </text>
 </TEI>

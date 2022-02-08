@@ -356,23 +356,30 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts">Eutropius, Short History 7.10.3</note>
+      
+      
+      
+      
+    <note type="related-texts">
+        <p>Eutropius, Short History 7.10.3</p>
+      </note>
       <note type="geography">
+        <p>Caesarea (in Mauretania)</p>
         <p>Cartagena</p>
         <p>Hispala (Seville)</p>
+        <p>Palestine</p>
         <p>Spain</p>
-        <p>Caesarea (in
-               Mauretania)</p>Palestine</note>
+      </note>
       <note type="prosopography">
-        <p>Juba II, king</p>
-        <p>Moors</p>
         <p>Augustus, emperor</p>
         <p>Herod I, king</p>
+        <p>Juba II, king</p>
+        <p>Moors</p>
       </note>
       <note type="themes">
-        <p>Roman History</p>
-        <p>Herodian Dynasty</p>
         <p>Geography</p>
+        <p>Herodian Dynasty</p>
+        <p>Roman History</p>
       </note>
     </body>
   </text>

@@ -358,43 +358,49 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-         <note type="related-texts">
-        <p>Theodoret of Cyrrus, Church History 5.8</p>Jacob of Edessa
-            year 225 <p>Michael the Syrian I.322</p>
-        <p>Theodorus Anagnostes 238, 240, 241, 239
-               (79.7-19)</p>
-        <p>Socrates Scholasticus 5.9</p>Sozomen 7.10-11</note>
-         <note type="geography">
-            <p>Rome</p>
-            <p>Constantinople</p>
-            <p>Nyssa</p>
-            <p>Laodiceia</p>
-            <p>Edessa</p>
-            <p>Iconium</p>
-            <p>Nicomedia</p>
-         </note>
-         <note type="prosopography">
-            <p>Gregory of Nyssa</p>
-            <p>Pelagius of Laodiceia</p>
-            <p>Eulogius of Edessa</p>
-            <p>Amphilochius of Iconium</p>
-            <p>Gregory the Great</p>
-            <p>Arius the heretic</p>
-            <p>Eusebius of Nicomedia</p>
-            <p>Euzoius of Antioch</p>
-            <p>Acacius of Caesarea</p>
-            <p>Theognis</p>
-            <p>Euphronius</p>
-            <p>Macedonius</p>
-            <p>Eudoxius</p>
-            <p>Aëtios</p>
-            <p>Eunomius</p>
-         </note>
-         <note type="themes">
-            <p>Christianity</p>
-            <p>Government and Law</p>
-            <p>Society and Culture</p>
-         </note>
-      </body>
+         
+         
+         
+         
+      <note type="related-texts">
+        <p>Jacob of Edessa year 225</p>
+        <p>Michael the Syrian I.322</p>
+        <p>Socrates Scholasticus 5.9</p>
+        <p>Sozomen 7.10-11</p>
+        <p>Theodoret of Cyrrus, Church History 5.8</p>
+        <p>Theodorus Anagnostes 238, 240, 241, 239 (79.7-19)</p>
+      </note>
+      <note type="geography">
+        <p>Constantinople</p>
+        <p>Edessa</p>
+        <p>Iconium</p>
+        <p>Laodiceia</p>
+        <p>Nicomedia</p>
+        <p>Nyssa</p>
+        <p>Rome</p>
+      </note>
+      <note type="prosopography">
+        <p>Acacius of Caesarea</p>
+        <p>Amphilochius of Iconium</p>
+        <p>Arius the heretic</p>
+        <p>Aëtios</p>
+        <p>Eudoxius</p>
+        <p>Eulogius of Edessa</p>
+        <p>Eunomius</p>
+        <p>Euphronius</p>
+        <p>Eusebius of Nicomedia</p>
+        <p>Euzoius of Antioch</p>
+        <p>Gregory of Nyssa</p>
+        <p>Gregory the Great</p>
+        <p>Macedonius</p>
+        <p>Pelagius of Laodiceia</p>
+        <p>Theognis</p>
+      </note>
+      <note type="themes">
+        <p>Christianity</p>
+        <p>Government and Law</p>
+        <p>Society and Culture</p>
+      </note>
+    </body>
    </text>
 </TEI>

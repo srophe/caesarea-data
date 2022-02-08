@@ -373,44 +373,46 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts">
-        <p>Eusebius, Church History 8.13.1-7<hi rend="italic">Chronicle of 724 100.2-3</hi>
-        </p>
+      
+      
+      
+      
+    <note type="related-texts">
+        <p>Chronicle of 724 100.2-3</p>
+        <p>Eusebius, Church History 8.13.1-7</p>
       </note>
       <note type="geography">
-        <p>Thmouis</p>
+        <p>Antioch on the Orontes</p>
         <p>Egypt</p>
-        <p>Nicomedia</p>
-        <p>Tyre</p>
         <p>Emesa</p>
         <p>Gaza</p>
-        <p>Antioch on the Orontes</p>
+        <p>Nicomedia</p>
         <p>Sidon</p>
+        <p>Thmouis</p>
+        <p>Tyre</p>
       </note>
       <note type="prosopography">
-        <p>Peter of Alexandria</p>
-        <p>Maximian, emperor</p>
-        <p>Maximinus
-               Gaza, emperor</p>
+        <p>Anthimos of Nicomedia</p>
         <p>Arius</p>
         <p>Jesus Christ</p>
-        <p>Phileas of Thmouis</p>
-        <p>Peleus of
-               Egypt</p>
+        <p>Lucian of Antioch</p>
+        <p>Maximian, emperor</p>
+        <p>Maximinus Gaza, emperor</p>
         <p>Nilus of Egypt</p>
-        <p>Anthimos of Nicomedia</p>
-        <p>Tyrannion of
-               Tyre</p>
+        <p>Pamphilus</p>
+        <p>Peleus of Egypt</p>
+        <p>Peter of Alexandria</p>
+        <p>Phileas of Thmouis</p>
         <p>Silvanus of Emesa</p>
         <p>Silvanus of Gaza</p>
-        <p>Lucian of
-               Antioch</p>
-        <p>Zenobius of Sidon</p>Pamphilus</note>
+        <p>Tyrannion of Tyre</p>
+        <p>Zenobius of Sidon</p>
+      </note>
       <note type="themes">
-        <p>Roman History</p>
         <p>Christianity</p>
-        <p>Government and Law</p>
         <p>Death and Burial</p>
+        <p>Government and Law</p>
+        <p>Roman History</p>
       </note>
     </body>
   </text>

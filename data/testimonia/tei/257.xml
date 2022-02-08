@@ -355,11 +355,13 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts">
-        <p>
-          <hi rend="italic">Joshua 9:12</hi>
-        </p>
+      
+      
+      
+      
+    <note type="related-texts">
         <p>Jerome, Book of Places 109</p>
+        <p>Joshua 9:12</p>
       </note>
       <note type="geography">
         <p>Carmel, Mount (Karmelos, Har HaKarmel, Jabal Mar Elyas)</p>
@@ -370,9 +372,9 @@
       </note>
       <note type="prosopography"/>
       <note type="themes">
-        <p>History of Israel</p>
-        <p>Hebrew Bible</p>
         <p>Geography</p>
+        <p>Hebrew Bible</p>
+        <p>History of Israel</p>
         <p>Travel</p>
       </note>
     </body>

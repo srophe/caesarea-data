@@ -354,28 +354,29 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-         <note type="related-texts">
-            <p>
-               <hi rend="italic">Joshua 11:12</hi>
-            </p>
-            <p>Jerome, Book of Places 79</p>
-         </note>
-         <note type="geography">
-            <p>Dor (Dor of Nafath, Dor Nafeth, Nafethdor, Nefeddor, Doros, Doroi, Dora, Dora
-               Maritima, Tel Dor, Dor Tantura)</p>
-            <p>Ptolemais (Accho, Acre, Akko)</p>
-            <p>Tyre</p>
-         </note>
-         <note type="prosopography">
-            <p>Symmachus</p>
-         </note>
-         <note type="themes">
-            <p>Greek Language</p>
-            <p>Hebrew Bible</p>
-            <p>Geography</p>
-            <p>Travel</p>
-            <p>History of Israel</p>
-         </note>
-      </body>
+         
+         
+         
+         
+      <note type="related-texts">
+        <p>Jerome, Book of Places 79</p>
+        <p>Joshua 11:12</p>
+      </note>
+      <note type="geography">
+        <p>Dor (Dor of Nafath, Dor Nafeth, Nafethdor, Nefeddor, Doros, Doroi, Dora, Dora Maritima, Tel Dor, Dor Tantura)</p>
+        <p>Ptolemais (Accho, Acre, Akko)</p>
+        <p>Tyre</p>
+      </note>
+      <note type="prosopography">
+        <p>Symmachus</p>
+      </note>
+      <note type="themes">
+        <p>Geography</p>
+        <p>Greek Language</p>
+        <p>Hebrew Bible</p>
+        <p>History of Israel</p>
+        <p>Travel</p>
+      </note>
+    </body>
    </text>
 </TEI>

@@ -414,58 +414,59 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-         <note type="related-texts">
-            <hi rend="italic"/>
-            <p> Acts 8:40</p>
-            <p>
-               <hi rend="italic">Acts 21:8-9</hi>
-            </p>
-            <p>Acts 10:1-48</p>
-            <p>Acts 24-26</p>
-            <p>Josephus Jewish Antiquities 15.9.6</p>
-            <p>Marino Sanudo the Elder, Secrets for Those Faithful to the Cross 3.14.2</p>
-         </note>
-         <note type="geography">
+         
+         
+         
+         
+      <note type="related-texts">
+        <p>Acts 8:40</p>
+        <p>Acts 10:1-48</p>
+        <p>Acts 21:8-9</p>
+        <p>Acts 24-26</p>
+        <p>Josephus Jewish Antiquities 15.9.6</p>
+        <p>Marino Sanudo the Elder, Secrets for Those Faithful to the Cross 3.14.2</p>
+      </note>
+      <note type="geography">
         <p>Acre (Akko, Ptolemaïs)</p>
-        <p>Caypha (Haifa)</p>
-        <p>Pilgrims’
-               Castle (Castrum Peregrinorum, Athlit)</p>
+        <p>Antipatris</p>
+        <p>Assur (Arsuf)</p>
         <p>Carmel, Mount</p>
-        <p>Dor
-               (Dora)</p>
-        <p>Assur (Arsuf)</p>Antipatris</note>
-         <note type="prosopography">
-            <p>Knights Templar</p>
-            <p>Elijah the Prophet</p>
-            <p>Elisha the Prophet</p>
-            <p>Carmelites</p>
-            <p>Herod I, King</p>
-            <p>Philip, early Christian at Caesarea</p>
-            <p>Peter the Apostle</p>
-            <p>Cornelius, early Christian at Caesarea</p>
-            <p>Paul the Apostle</p>
-            <p>Agrippa</p>
-            <p>Felix</p>
-            <p>Tertullus</p>
-            <p>Antipater, Father of Herod I</p>
-            <p>Knights Hospitaller</p>
-         </note>
-         <note type="themes">
-            <p>Crusades</p>
-            <p>Medieval History</p>
-            <p>Pilgrimage</p>
-            <p>Christianity</p>
-            <p>Hebrew Bible</p>
-            <p>Christian Bible</p>
-            <p>Geography</p>
-            <p>Urban Topography</p>
-            <p>Natural Environment</p>
-            <p>Travel</p>
-            <p>Roman History</p>
-            <p>Government and Law</p>
-            <p>Economy and Commerce</p>
-            <p>Military</p>
-         </note>
-      </body>
+        <p>Caypha (Haifa)</p>
+        <p>Dor (Dora)</p>
+        <p>Pilgrims’ Castle (Castrum Peregrinorum, Athlit)</p>
+      </note>
+      <note type="prosopography">
+        <p>Agrippa</p>
+        <p>Antipater, Father of Herod I</p>
+        <p>Carmelites</p>
+        <p>Cornelius, early Christian at Caesarea</p>
+        <p>Elijah the Prophet</p>
+        <p>Elisha the Prophet</p>
+        <p>Felix</p>
+        <p>Herod I, King</p>
+        <p>Knights Hospitaller</p>
+        <p>Knights Templar</p>
+        <p>Paul the Apostle</p>
+        <p>Peter the Apostle</p>
+        <p>Philip, early Christian at Caesarea</p>
+        <p>Tertullus</p>
+      </note>
+      <note type="themes">
+        <p>Christian Bible</p>
+        <p>Christianity</p>
+        <p>Crusades</p>
+        <p>Economy and Commerce</p>
+        <p>Geography</p>
+        <p>Government and Law</p>
+        <p>Hebrew Bible</p>
+        <p>Medieval History</p>
+        <p>Military</p>
+        <p>Natural Environment</p>
+        <p>Pilgrimage</p>
+        <p>Roman History</p>
+        <p>Travel</p>
+        <p>Urban Topography</p>
+      </note>
+    </body>
    </text>
 </TEI>

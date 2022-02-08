@@ -358,22 +358,26 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts"/>
+      
+      
+      
+      
+    <note type="related-texts"/>
       <note type="geography">
         <p>Ascalon</p>
         <p>Bethlehem</p>
-        <p>Ioppe</p>
-        <p>Neapolis</p>
         <p>Caifa</p>
+        <p>Ioppe</p>
         <p>Jerusalem</p>
+        <p>Neapolis</p>
       </note>
       <note type="prosopography"/>
       <note type="themes">
-        <p>Medieval History</p>
-        <p>Crusades</p>
         <p>Christianity</p>
+        <p>Crusades</p>
         <p>Geography</p>
         <p>Government and Law</p>
+        <p>Medieval History</p>
       </note>
     </body>
   </text>

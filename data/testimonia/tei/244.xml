@@ -378,31 +378,36 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts">
-        <p>Theophanes the Confessor, Chronicle 230.4-15</p>
-        <p>Constantine Porphyrogenitus, Plots 173.13-29</p>
+      
+      
+      
+      
+    <note type="related-texts">
         <p>Chronicle of Zuqnin 2.863</p>
+        <p>Constantine Porphyrogenitus, Plots 173.13-29</p>
         <p>Michael the Syrian II.262</p>
+        <p>Theophanes the Confessor, Chronicle 230.4-15</p>
       </note>
       <note type="geography">
-        <p>Palestine</p>
         <p>Constantinople</p>
+        <p>Palestine</p>
       </note>
       <note type="prosopography">
-        <p>Samaritans</p>
-        <p>Jews</p>
-        <p>Christians</p>
-        <p>Stephanos</p>
-        <p>Justinian</p>
         <p>Amantios</p>
+        <p>Christians</p>
+        <p>Jews</p>
+        <p>Justinian</p>
+        <p>Samaritans</p>
+        <p>Stephanos</p>
       </note>
       <note type="themes">
         <p>Byzantine History</p>
         <p>Christianity</p>
+        <p>Government and Law</p>
         <p>Judaism</p>
-        <p>Urban
-               Topography</p>
-        <p>Government and Law</p>Military</note>
+        <p>Military</p>
+        <p>Urban Topography</p>
+      </note>
     </body>
   </text>
 </TEI>

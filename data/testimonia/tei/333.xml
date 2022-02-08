@@ -371,32 +371,34 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts">
+      
+      
+      
+      
+    <note type="related-texts">
         <p>Jerome, Letters 33.1</p>
       </note>
       <note type="geography">
-        <p>Rome</p>
-        <p>Palestine</p>
-        <p>Arabia</p>
-        <p>Phoenicia</p>
         <p>Achaia</p>
+        <p>Arabia</p>
+        <p>Palestine</p>
+        <p>Phoenicia</p>
+        <p>Rome</p>
       </note>
       <note type="prosopography">
-        <list type="simple">
-          <item>
-            <p>Varro, Marcus Terentius</p>Origen (Chalcenterus)</item>
-          <item>Demetrius, bishop</item>
-          <item>Epicurus</item>
-          <item>Aristippus</item>
-        </list>
+        <p>Aristippus</p>
+        <p>Demetrius, bishop</p>
+        <p>Epicurus</p>
+        <p>Origen (Chalcenterus)</p>
+        <p>Varro, Marcus Terentius</p>
       </note>
       <note type="themes">
-        <p>Christianity</p>
         <p>Christian Bible</p>
-        <p>Hebrew Bible</p>
-        <p>Philosophy</p>
+        <p>Christianity</p>
         <p>Education (sacred)</p>
         <p>Government and Law</p>
+        <p>Hebrew Bible</p>
+        <p>Philosophy</p>
         <p>Society and Culture</p>
       </note>
     </body>

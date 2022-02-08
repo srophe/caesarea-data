@@ -380,26 +380,30 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts"/>
+      
+      
+      
+      
+    <note type="related-texts"/>
       <note type="geography">
-        <p>Jerusalem</p>
-        <p>Ptolomayda (Ptolemaïs, Accaron, Acco, Accho, Acre, Akko)</p>
         <p>France</p>
+        <p>Jerusalem</p>
         <p>Massilia (Marseille)</p>
+        <p>Ptolomayda (Ptolemaïs, Accaron, Acco, Accho, Acre, Akko)</p>
       </note>
       <note type="prosopography">
+        <p>Aymar, Lord of Caesarea</p>
         <p>Maria of Montferrat, Queen of Jerusalem</p>
         <p>Philip II, King of France</p>
-        <p>Aymar, Lord of Caesarea</p>
       </note>
       <note type="themes">
-        <p>Medieval History</p>
-        <p>Crusades</p>
         <p>Christianity</p>
+        <p>Crusades</p>
+        <p>Family</p>
         <p>Government and Law</p>
+        <p>Medieval History</p>
         <p>Military</p>
         <p>Travel</p>
-        <p>Family</p>
       </note>
     </body>
   </text>

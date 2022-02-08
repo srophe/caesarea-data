@@ -384,24 +384,28 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-         <note type="related-texts"/>
-         <note type="geography">
-            <p>Babylon</p>
-            <p>Babylonia</p>
-         </note>
-         <note type="prosopography">
-            <p>Origen</p>
-            <p>Gregory the Miracle-Worker</p>
-         </note>
-         <note type="themes">
-            <p>History of Israel</p>
-            <p>Judaism</p>
-            <p>Christianity</p>
-            <p>Travel</p>
-            <p>Government and Law</p>
-            <p>Education (sacred)</p>
-            <p> Society and Culture</p>
-         </note>
-      </body>
+         
+         
+         
+         
+      <note type="related-texts"/>
+      <note type="geography">
+        <p>Babylon</p>
+        <p>Babylonia</p>
+      </note>
+      <note type="prosopography">
+        <p>Gregory the Miracle-Worker</p>
+        <p>Origen</p>
+      </note>
+      <note type="themes">
+        <p>Society and Culture</p>
+        <p>Christianity</p>
+        <p>Education (sacred)</p>
+        <p>Government and Law</p>
+        <p>History of Israel</p>
+        <p>Judaism</p>
+        <p>Travel</p>
+      </note>
+    </body>
    </text>
 </TEI>

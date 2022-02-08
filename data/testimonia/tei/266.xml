@@ -356,21 +356,26 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts">
-        <p>Theodorus Anagnostes 100 (47.27-28)</p>
+      
+      
+      
+      
+    <note type="related-texts">
         <p>Socrates Scholasticus, Church History 2.38</p>
+        <p>Theodorus Anagnostes 100 (47.27-28)</p>
         <p>[Arian Hypothesis] 25a</p>
       </note>
       <note type="geography">
-        <p>Scythopolis</p>
         <p>Jerusalem</p>
+        <p>Scythopolis</p>
       </note>
       <note type="prosopography">
-        <p>Arians</p>
         <p>Acacius of Caesarea</p>
-        <p>Patrophilos of
-               Scythopolis</p>
-        <p>Maximus of Jerusalem</p>Cyril of Jerusalem</note>
+        <p>Arians</p>
+        <p>Cyril of Jerusalem</p>
+        <p>Maximus of Jerusalem</p>
+        <p>Patrophilos of Scythopolis</p>
+      </note>
       <note type="themes">
         <p>Christianity</p>
         <p>Society and Culture</p>

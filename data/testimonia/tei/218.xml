@@ -384,29 +384,35 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts">
-        <p>Theophanes the Confessor, Chronicle 230.4-15</p>
+      
+      
+      
+      
+    <note type="related-texts">
         <p>John Malalas, Chronicle 487.10-488.3</p>
-        <p>Pseudo-Dionysius of Tel-Maḥre, The Chronicle of Zuqnīn 3.127-128</p>
         <p>Michael the Syrian II.262</p>
+        <p>Pseudo-Dionysius of Tel-Maḥre, The Chronicle of Zuqnīn 3.127-128</p>
+        <p>Theophanes the Confessor, Chronicle 230.4-15</p>
       </note>
       <note type="geography">
-        <p>Palestine</p>
         <p>Constantinople</p>
+        <p>Palestine</p>
       </note>
       <note type="prosopography">
+        <p>Amantios</p>
+        <p>Justinian, emperor</p>
         <p>Samaritans</p>
         <p>Stephanos</p>
-        <p>Justinian, emperor</p>
-        <p>Amantios</p>Zimarchos</note>
+        <p>Zimarchos</p>
+      </note>
       <note type="themes">
-        <p>Roman History</p>
         <p>Christianity</p>
-        <p>Judaism</p>
-        <p>Urban Topography</p>
-        <p>Government and Law</p>
-        <p>Military</p>
         <p>Death and Burial</p>
+        <p>Government and Law</p>
+        <p>Judaism</p>
+        <p>Military</p>
+        <p>Roman History</p>
+        <p>Urban Topography</p>
       </note>
     </body>
   </text>

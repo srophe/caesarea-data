@@ -368,22 +368,26 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts"/>
+      
+      
+      
+      
+    <note type="related-texts"/>
       <note type="geography">
-        <p>Sichem (Shechem)</p>
-        <p>Cayphas (Haifa)</p>
         <p>Accaron (Acco)</p>
+        <p>Cayphas (Haifa)</p>
         <p>Nazareth</p>
+        <p>Sichem (Shechem)</p>
       </note>
       <note type="prosopography">
-        <p>Saracens</p>
         <p>Jesus Christ</p>
+        <p>Saracens</p>
       </note>
       <note type="themes">
-        <p>Christianity</p>
         <p>Christian Bible</p>
-        <p>Pilgrimage</p>
+        <p>Christianity</p>
         <p>Geography</p>
+        <p>Pilgrimage</p>
         <p>Travel</p>
       </note>
     </body>

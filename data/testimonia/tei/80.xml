@@ -386,37 +386,38 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-         <note type="related-texts">
-            <p>Michael the Syrian II.413</p>
-            <p>Michael the Syrian II.414 <hi rend="italic">Chronicon anonymum ad AD 1234 pertinens
-                  trans Abouna 1973: 189-190</hi>
-        </p>
-            <p>Pseudo-Dionysius of Tel-Maḥre, The Chronicle of Zuqnīn 4.150-151</p>
-            <p>Chronicle of Seert 260</p>
-            <p>
-               <hi rend="italic">The Teaching of the Recently Baptized Jacob 5.16</hi>
-            </p>
-            <p>Agapius of Hierapolis, Universal History 193-194</p>
-            <p>Agapius of Hierapolis, Universal History 208-209</p>
-         </note>
-         <note type="geography">
-            <p>Hera (?)</p>
-            <p>Gaza</p>
-            <p>Palestine</p>
-         </note>
-         <note type="prosopography">
-        <p>Aboubacharos (Abulathar, Abu al-A'war Amr ibn Sufyan ibn Abd
-               Shams al-Sulami, أبو الأعور عمرو بن سُفيان بن عبد شمس
-            السلمي</p>
-        <p>Sergius</p>Arabs</note>
-         <note type="themes">
+         
+         
+         
+         
+      <note type="related-texts">
+        <p>Agapius of Hierapolis, Universal History 193-194</p>
+        <p>Agapius of Hierapolis, Universal History 208-209</p>
+        <p>Chronicle of Seert 260</p>
+        <p>Chronicon anonymum ad AD 1234 pertinens trans Abouna 1973: 189-190</p>
+        <p>Michael the Syrian II.413</p>
+        <p>Michael the Syrian II.414</p>
+        <p>Pseudo-Dionysius of Tel-Maḥre, The Chronicle of Zuqnīn 4.150-151</p>
+        <p>The Teaching of the Recently Baptized Jacob 5.16</p>
+      </note>
+      <note type="geography">
+        <p>Gaza</p>
+        <p>Hera (?)</p>
+        <p>Palestine</p>
+      </note>
+      <note type="prosopography">
+        <p>Aboubacharos (Abulathar, Abu al-A'war Amr ibn Sufyan ibn Abd Shams al-Sulami, أبو الأعور عمرو بن سُفيان بن عبد شمس السلمي</p>
+        <p>Arabs</p>
+        <p>Sergius</p>
+      </note>
+      <note type="themes">
         <p>Byzantine History</p>
-        <p>Islamic
-               History</p>
         <p>Geography</p>
+        <p>Government and Law</p>
+        <p>Islamic History</p>
+        <p>Military</p>
         <p>Natural Environment</p>
-        <p>Government and
-            Law</p>Military</note>
-      </body>
+      </note>
+    </body>
    </text>
 </TEI>

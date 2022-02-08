@@ -374,32 +374,38 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-         <note type="related-texts">
-            <p>Theodore the Reader 42-44 (20.18-21.34)</p>
-            <p>Sozomen 2.21, 23</p>
-            <p>Theodoret of Cyrrus, Church History 1.20.28</p>
-            <p>Socrates Scholasticus 1.27</p>
-         </note>
-         <note type="geography">
-        <p>Mareotis </p>
-        <p>Alexandria </p>
-        <p>Tyre</p>Nicomedia</note>
-         <note type="prosopography">
-        <p>Ischyras</p>
-        <p>Athanasius of Alexandria</p>
-        <p>Eusebius of
-               Nicomedia</p>
-        <p>Macarius</p>
+         
+         
+         
+         
+      <note type="related-texts">
+        <p>Socrates Scholasticus 1.27</p>
+        <p>Sozomen 2.21, 23</p>
+        <p>Theodore the Reader 42-44 (20.18-21.34)</p>
+        <p>Theodoret of Cyrrus, Church History 1.20.28</p>
+      </note>
+      <note type="geography">
+        <p>Alexandria</p>
+        <p>Mareotis</p>
+        <p>Nicomedia</p>
+        <p>Tyre</p>
+      </note>
+      <note type="prosopography">
         <p>Arsenius of Scetis and Turah</p>
-        <p>Dalmatius,
-               emperor</p>
-        <p>Eusebius of Caesarea</p>Constantine I, emperor</note>
-         <note type="themes">
-            <p>Christianity</p>
-            <p>Paganism</p>
-            <p>Government and Law</p>
-            <p>Society and Culture</p>
-         </note>
-      </body>
+        <p>Athanasius of Alexandria</p>
+        <p>Constantine I, emperor</p>
+        <p>Dalmatius, emperor</p>
+        <p>Eusebius of Nicomedia</p>
+        <p>Eusebius of Caesarea</p>
+        <p>Ischyras</p>
+        <p>Macarius</p>
+      </note>
+      <note type="themes">
+        <p>Christianity</p>
+        <p>Government and Law</p>
+        <p>Paganism</p>
+        <p>Society and Culture</p>
+      </note>
+    </body>
    </text>
 </TEI>

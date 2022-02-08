@@ -381,30 +381,33 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-         <note type="related-texts"/>
-         <note type="geography">
-            <p>Carmel, Mount</p>
-            <p>Jordan River</p>
-            <p>Dor</p>
-            <p>Athlit (Castellum Peregrinorum, Castrum Peregrinorum, Pilgrims’ Castle, Petra
-               Incisa)</p>
-            <p>Arsuf (Assur, Ashur)</p>
-         </note>
-         <note type="prosopography">
-            <p>Peter the Apostle</p>
-            <p>Cornelius, early Christian at Caesarea</p>
-            <p>De Horne, German knight</p>
-         </note>
-         <note type="themes">
-            <p>Medieval History</p>
-            <p>Crusades</p>
-            <p>Pilgrimage</p>
-            <p>Christianity</p>
-            <p>Christian Bible</p>
-            <p>Geography</p>
-            <p>Urban Topography</p>
-            <p>Natural Environment</p>
-         </note>
-      </body>
+         
+         
+         
+         
+      <note type="related-texts"/>
+      <note type="geography">
+        <p>Arsuf (Assur, Ashur)</p>
+        <p>Athlit (Castellum Peregrinorum, Castrum Peregrinorum, Pilgrims’ Castle, Petra Incisa)</p>
+        <p>Carmel, Mount</p>
+        <p>Dor</p>
+        <p>Jordan River</p>
+      </note>
+      <note type="prosopography">
+        <p>Cornelius, early Christian at Caesarea</p>
+        <p>De Horne, German knight</p>
+        <p>Peter the Apostle</p>
+      </note>
+      <note type="themes">
+        <p>Christian Bible</p>
+        <p>Christianity</p>
+        <p>Crusades</p>
+        <p>Geography</p>
+        <p>Medieval History</p>
+        <p>Natural Environment</p>
+        <p>Pilgrimage</p>
+        <p>Urban Topography</p>
+      </note>
+    </body>
    </text>
 </TEI>

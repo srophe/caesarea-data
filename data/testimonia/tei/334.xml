@@ -407,41 +407,46 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts">
+      
+      
+      
+      
+    <note type="related-texts">
         <p>Albert of Aachen, History of the Journey to Jerusalem 5.42</p>
       </note>
       <note type="geography">
         <p>Antioch on the Orontes</p>
+        <p>Arachis (Arca, Arqa, عرقا)</p>
+        <p>Constantinople</p>
+        <p>Cyprus</p>
+        <p>Egypt</p>
         <p>Flanders</p>
+        <p>Frisia</p>
+        <p>Genoa</p>
+        <p>Gibel (Gibellum, Jabala, Jableh, جَبْلَةٌ)</p>
         <p>Jerusalem</p>
         <p>Licia (Laodicea ad Mare, Latakia, al-Lāḏqīyah, ٱللَّاذِقِيَّة)</p>
-        <p>Constantinople</p>
-        <p>Gibel (Gibellum, Jabala, Jableh, جَبْلَةٌ)</p>
-        <p>Egypt</p>
-        <p>Arachis (Arca, Arqa, عرقا)</p>
-        <p>Tripoli (Tarabulus, طرابلس)</p>
         <p>Syria</p>
-        <p>Cyprus</p>
+        <p>Tripoli (Tarabulus, طرابلس)</p>
         <p>Venice</p>
-        <p>Genoa</p>
-        <p>Frisia</p>
       </note>
       <note type="prosopography">
-        <p>Robert II, Count of Flanders</p>
-        <p>Godfrey of Bouillon, Duke of Lower Lorraine (Godfrey I, King of Jerusalem)</p>
         <p>Alexius I Comnenus, Byzantine emperor</p>
         <p>Bohemond I of Antioch</p>
+        <p>Godfrey of Bouillon, Duke of Lower Lorraine (Godfrey I, King of Jerusalem)</p>
         <p>Peter Bartholemew, French priest</p>
+        <p>Robert II, Count of Flanders</p>
         <p>al-Mustaʽli Billah, Fatimid caliph of Egypt (المستعلي بالله‎)</p>
       </note>
-      <note type="themes">Christian Bible<p>Medieval
-               History</p>
-        <p>Crusades</p>
+      <note type="themes">
+        <p>Christian Bible</p>
         <p>Christianity</p>
+        <p>Crusades</p>
         <p>Geography</p>
-        <p>Travel</p>
+        <p>Medieval History</p>
         <p>Military</p>
         <p>Pilgrimage</p>
+        <p>Travel</p>
       </note>
     </body>
   </text>

@@ -360,27 +360,33 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts">
-        <p>Josephus, Jewish War 2.266-270</p>
-        <p>Josephus, Jewish Antiquities 20.173-178</p>
-        <p>Eusebius, Church History 2.21.1-2</p>
+      
+      
+      
+      
+    <note type="related-texts">
         <p>Dionysius of Tel Mahre 50 anno 2072</p>
+        <p>Eusebius, Church History 2.21.1-2</p>
         <p>George Syncellus, Chronicle 334d=p. 632</p>
+        <p>Josephus, Jewish Antiquities 20.173-178</p>
+        <p>Josephus, Jewish War 2.266-270</p>
         <p>Zonaras, Epitome of Histories 6.16=p. 2.47</p>
       </note>
       <note type="geography">
         <p>Judaea</p>
       </note>
       <note type="prosopography">
+        <p>Caligula, emperor</p>
+        <p>Felix, governor</p>
         <p>Nero, emperor</p>
-        <p>Caligula, emperor</p>Felix,
-            governor</note>
+      </note>
       <note type="themes">
-        <p>Roman History</p>
-        <p>Judaism</p>
+        <p>Death and Burial</p>
+        <p>Family</p>
         <p>Government and Law</p>
-        <p>Death and
-               Burial</p>Family</note>
+        <p>Judaism</p>
+        <p>Roman History</p>
+      </note>
     </body>
   </text>
 </TEI>

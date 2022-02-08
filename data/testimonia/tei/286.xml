@@ -354,10 +354,12 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts">
-        <p>
-          <hi rend="italic">Acts 24:27</hi>
-        </p>
+      
+      
+      
+      
+    <note type="related-texts">
+        <p>Acts 24:27</p>
         <p>Acts 25:13-27:1</p>
         <p>Eusebius, Church History 2.21.1-2</p>
         <p>Jerome, Chronicle 182b</p>
@@ -366,18 +368,18 @@
         <p>Rome</p>
       </note>
       <note type="prosopography">
-        <p>St. Paul</p>
+        <p>Felix, governor</p>
+        <p>Festus, governor</p>
         <p>Jesus Christ</p>
         <p>Nero, emperor</p>
-        <p>Festus, governor</p>
-        <p>Felix, governor</p>
+        <p>St. Paul</p>
       </note>
       <note type="themes">
-        <p>Roman History</p>
-        <p>Christianity</p>
         <p>Christian Bible</p>
-        <p>Judaism</p>
+        <p>Christianity</p>
         <p>Government and Law</p>
+        <p>Judaism</p>
+        <p>Roman History</p>
       </note>
     </body>
   </text>

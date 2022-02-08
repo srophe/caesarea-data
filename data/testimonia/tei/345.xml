@@ -366,26 +366,29 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts">
-        <p>
-          <hi rend="italic">Matthew 11:13</hi>
-        </p>
-        <p>John 17:12, 13</p>
+      
+      
+      
+      
+    <note type="related-texts">
         <p>Acts 21:9</p>
+        <p>John 17:12, 13</p>
+        <p>Matthew 11:13</p>
       </note>
       <note type="geography"/>
       <note type="prosopography">
+        <p>Cornelius, Christian at Caesarea</p>
         <p>Jesus Christ</p>
-        <p>Philip, Christian at
-               Caesarea</p>
-        <p>Cornelius, Christian at Caesarea</p>John the Baptist</note>
+        <p>John the Baptist</p>
+        <p>Philip, Christian at Caesarea</p>
+      </note>
       <note type="themes">
-        <p>Christianity</p>
         <p>Christian Bible</p>
-        <p>Hebrew Bible</p>
-        <p>Sexuality and Gender</p>
+        <p>Christianity</p>
         <p>Family</p>
+        <p>Hebrew Bible</p>
         <p>Military</p>
+        <p>Sexuality and Gender</p>
       </note>
     </body>
   </text>

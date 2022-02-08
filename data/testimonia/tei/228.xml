@@ -373,10 +373,14 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts">
-        <p>Theodosius of Alexandria, Introductory Rules for the Declension of Nouns</p>
+      
+      
+      
+      
+    <note type="related-texts">
         <p>Aelius Herodianus, Declension of Nouns 751.25-33</p>
         <p>Apollonius of Rhodes, Voyage of the Argo 3.31</p>
+        <p>Theodosius of Alexandria, Introductory Rules for the Declension of Nouns</p>
       </note>
       <note type="geography">
         <p>Alexandria (Alexandreia)</p>
@@ -384,8 +388,8 @@
       </note>
       <note type="prosopography"/>
       <note type="themes">
-        <p>Greek Language</p>
         <p>Geography</p>
+        <p>Greek Language</p>
       </note>
     </body>
   </text>

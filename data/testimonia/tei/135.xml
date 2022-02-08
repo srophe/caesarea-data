@@ -361,17 +361,23 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-         <note type="related-texts"/>
-         <note type="geography"/>
-         <note type="prosopography">
+         
+         
+         
+         
+      <note type="related-texts"/>
+      <note type="geography"/>
+      <note type="prosopography">
         <p>Claudius, emperor</p>
-        <p>Festus</p>Felix</note>
-         <note type="themes">
-            <p>Roman History</p>
-            <p>Judaism</p>
-            <p>Government and Law</p>
-            <p> Military</p>
-         </note>
-      </body>
+        <p>Felix</p>
+        <p>Festus</p>
+      </note>
+      <note type="themes">
+        <p>Military</p>
+        <p>Government and Law</p>
+        <p>Judaism</p>
+        <p>Roman History</p>
+      </note>
+    </body>
    </text>
 </TEI>

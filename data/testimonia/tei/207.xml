@@ -369,21 +369,25 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-         <note type="related-texts">
-            <p>Hecataeus of Abdera, FGrH 1 F 275</p>
-            <p>Artemidorus of Ephesus, Geographic Description fr. 111</p>
-            <p>Stephan of Byzantium, Book of Nations Δ 150</p>
-         </note>
-         <note type="geography">
+         
+         
+         
+         
+      <note type="related-texts">
+        <p>Artemidorus of Ephesus, Geographic Description fr. 111</p>
+        <p>Hecataeus of Abdera, FGrH 1 F 275</p>
+        <p>Stephan of Byzantium, Book of Nations Δ 150</p>
+      </note>
+      <note type="geography">
         <p>Carmel, Mount (Karmelos, Har HaKarmel, Jabal Mar Elyas)</p>
-        <p>Dor
-               (Dor of Nafath, Dor Nafeth, Nafethdor, Nefeddor, Doros, Doroi, Dora, Dora Maritima,
-               Tel Dor, Dor Tantura)</p>Phoenicia</note>
-         <note type="prosopography"/>
-         <note type="themes">
-            <p>Geography</p>
-            <p>Natural Environment</p>
-         </note>
-      </body>
+        <p>Dor (Dor of Nafath, Dor Nafeth, Nafethdor, Nefeddor, Doros, Doroi, Dora, Dora Maritima, Tel Dor, Dor Tantura)</p>
+        <p>Phoenicia</p>
+      </note>
+      <note type="prosopography"/>
+      <note type="themes">
+        <p>Geography</p>
+        <p>Natural Environment</p>
+      </note>
+    </body>
    </text>
 </TEI>

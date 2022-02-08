@@ -352,18 +352,24 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-         <note type="related-texts">
-            <hi rend="italic">Bordeaux Itinerary 600.1-6</hi>
-         </note>
-         <note type="geography">Jerusalem</note>
-         <note type="prosopography">
-            <p>Elijah the Prophet (Helias)</p>
-            <p>Cornelius, early Christian at Caesarea</p>
-         </note>
-         <note type="themes">
-            <p>Geography</p>
-            <p>Travel</p>
-         </note>
-      </body>
+         
+         
+         
+         
+      <note type="related-texts">
+        <p>Bordeaux Itinerary 600.1-6</p>
+      </note>
+      <note type="geography">
+        <p>Jerusalem</p>
+      </note>
+      <note type="prosopography">
+        <p>Cornelius, early Christian at Caesarea</p>
+        <p>Elijah the Prophet (Helias)</p>
+      </note>
+      <note type="themes">
+        <p>Geography</p>
+        <p>Travel</p>
+      </note>
+    </body>
    </text>
 </TEI>

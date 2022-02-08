@@ -364,35 +364,39 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts">
-        <p>Josephus, Jewish War 2.258-263</p>
-        <p>Josephus, Jewish Antiquities 20.167-172<hi rend="italic">Acts 21:38</hi>
-        </p>
-        <p>Tacitus, Annals 12.54</p>
+      
+      
+      
+      
+    <note type="related-texts">
+        <p>Acts 21:38</p>
         <p>Eusebius, Church History 2.21.1-3</p>
-        <p>[Aurelius Victor], Epitome on the Caesars 4.7</p>
-        <p>John Malalas, Chronicle 10.25=CSHB 247.11</p>
-        <p>George the Monk, Chronicle p. 327</p>
         <p>George Cedrenus, Chronicle p. 347</p>
+        <p>George the Monk, Chronicle p. 327</p>
+        <p>John Malalas, Chronicle 10.25=CSHB 247.11</p>
+        <p>Josephus, Jewish Antiquities 20.167-172</p>
+        <p>Josephus, Jewish War 2.258-263</p>
         <p>Nicephorus Callistus Xanthoupoulos, Church History 2.26</p>
+        <p>Tacitus, Annals 12.54</p>
+        <p>[Aurelius Victor], Epitome on the Caesars 4.7</p>
       </note>
       <note type="geography">
         <p>Egypt</p>
         <p>Judaea</p>
       </note>
       <note type="prosopography">
+        <p>Claudius, emperor</p>
         <p>Felix, governor</p>
         <p>Josephus</p>
         <p>Paul the Apostle</p>
-        <p>Claudius, emperor</p>
       </note>
       <note type="themes">
-        <p>Roman History</p>
-        <p>Christianity</p>
         <p>Christian Bible</p>
-        <p>Government and Law</p>
+        <p>Christianity</p>
         <p>Death and Burial</p>
+        <p>Government and Law</p>
         <p>Military</p>
+        <p>Roman History</p>
       </note>
     </body>
   </text>

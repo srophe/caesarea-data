@@ -378,33 +378,37 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts"/>
+      
+      
+      
+      
+    <note type="related-texts"/>
       <note type="geography">
-        <p>Jerusalem</p>
-        <p>Nablus (Neapolis, Shechem)</p>
         <p>Acre</p>
-        <p>Tyre</p>
-        <p>Byblos</p>
-        <p>Beirut</p>
-        <p>Darum (Daron, Doron, Deir al-Balah)</p>
-        <p>Tripoli</p>
-        <p>Sidon</p>
-        <p>Caypha (Haifa)</p>
-        <p>Galilee</p>
-        <p>Tiberias</p>
-        <p>Iope (Joppa, Jaffa)</p>
-        <p>Ascalon</p>
-        <p>Mount Royal (?)</p>
-        <p>Jordan, River</p>
         <p>Arsur (Arsuf)</p>
+        <p>Ascalon</p>
+        <p>Beirut</p>
+        <p>Byblos</p>
+        <p>Caypha (Haifa)</p>
+        <p>Darum (Daron, Doron, Deir al-Balah)</p>
+        <p>Galilee</p>
         <p>Ibelyn (Ibelin)</p>
+        <p>Iope (Joppa, Jaffa)</p>
+        <p>Jerusalem</p>
+        <p>Jordan, River</p>
+        <p>Mount Royal (?)</p>
+        <p>Nablus (Neapolis, Shechem)</p>
+        <p>Sidon</p>
+        <p>Tiberias</p>
+        <p>Tripoli</p>
+        <p>Tyre</p>
       </note>
       <note type="prosopography"/>
       <note type="themes">
         <p>Crusaders</p>
-        <p>Medieval History</p>
         <p>Geography</p>
         <p>Government and Law</p>
+        <p>Medieval History</p>
       </note>
     </body>
   </text>

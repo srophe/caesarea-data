@@ -351,18 +351,22 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-         <note type="related-texts">
-            <p>Strabo, Geography 16.2.7</p>
-         </note>
-         <note type="geography">
-            <p>Caeasarea Mazaca (Eusebeia)</p>
-            <p>Paneas (Caesarea Philippi)</p>
-         </note>
-         <note type="prosopography"/>
-         <note type="themes">
-            <p>Geography</p>
-            <p>Greek Language</p>
-         </note>
-      </body>
+         
+         
+         
+         
+      <note type="related-texts">
+        <p>Strabo, Geography 16.2.7</p>
+      </note>
+      <note type="geography">
+        <p>Caeasarea Mazaca (Eusebeia)</p>
+        <p>Paneas (Caesarea Philippi)</p>
+      </note>
+      <note type="prosopography"/>
+      <note type="themes">
+        <p>Geography</p>
+        <p>Greek Language</p>
+      </note>
+    </body>
    </text>
 </TEI>

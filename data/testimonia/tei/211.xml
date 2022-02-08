@@ -374,34 +374,38 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-         <note type="related-texts"/>
-         <note type="geography">
-            <p>Tyre</p>
-            <p>Alexandroschene</p>
-            <p>Antioch on the Orontes</p>
-            <p>Calamon</p>
-            <p>Carmel, Mount (Karmelos, Har HaKarmel, Jabal Mar Elyas)</p>
-            <p>Certha</p>
-            <p>Ecdeppa</p>
-            <p>Ptolemaïs (Acco, Accho, Acre, Akko)</p>
-            <p>Sykaminos (Sicaminos)</p>
-            <p> Syna, Mount</p>
-         </note>
-         <note type="prosopography">
-            <p>Elijah the Prophet (Helias)</p>
-            <p>Cornelius, early Christian at Caesarea</p>
-         </note>
-         <note type="themes">
-            <p>Pilgrimage</p>
-            <p>Christianity</p>
-            <p>Judaism</p>
-            <p>Hebrew Bible</p>
-            <p>History of Israel</p>
-            <p>Christian Bible</p>
-            <p>Urban Topography</p>
-            <p>Geography</p>
-            <p> Travel</p>
-         </note>
-      </body>
+         
+         
+         
+         
+      <note type="related-texts"/>
+      <note type="geography">
+        <p>Syna, Mount</p>
+        <p>Alexandroschene</p>
+        <p>Antioch on the Orontes</p>
+        <p>Calamon</p>
+        <p>Carmel, Mount (Karmelos, Har HaKarmel, Jabal Mar Elyas)</p>
+        <p>Certha</p>
+        <p>Ecdeppa</p>
+        <p>Ptolemaïs (Acco, Accho, Acre, Akko)</p>
+        <p>Sykaminos (Sicaminos)</p>
+        <p>Tyre</p>
+      </note>
+      <note type="prosopography">
+        <p>Cornelius, early Christian at Caesarea</p>
+        <p>Elijah the Prophet (Helias)</p>
+      </note>
+      <note type="themes">
+        <p>Travel</p>
+        <p>Christian Bible</p>
+        <p>Christianity</p>
+        <p>Geography</p>
+        <p>Hebrew Bible</p>
+        <p>History of Israel</p>
+        <p>Judaism</p>
+        <p>Pilgrimage</p>
+        <p>Urban Topography</p>
+      </note>
+    </body>
    </text>
 </TEI>

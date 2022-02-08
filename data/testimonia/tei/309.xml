@@ -349,24 +349,28 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-         <note type="related-texts">
-            <p>Jerome, Place Names 57</p>
-            <p>Admonán,  Holy Places 1.20</p>
-            <p>Bede,  Holy Places 5.3-9</p>
-         </note>
-         <note type="geography">
-            <p>Jerusalem</p>
-            <p>Arimathea (Ramathaim-Zophim)</p>
-            <p>Thamnia</p>
-         </note>
-         <note type="prosopography"/>
-         <note type="themes">
-            <p>Medieval History</p>
-            <p>Pilgrimage</p>
-            <p>Geography</p>
-            <p>Natural Environment</p>
-            <p>Travel</p>
-         </note>
-      </body>
+         
+         
+         
+         
+      <note type="related-texts">
+        <p>Admonán, Holy Places 1.20</p>
+        <p>Bede, Holy Places 5.3-9</p>
+        <p>Jerome, Place Names 57</p>
+      </note>
+      <note type="geography">
+        <p>Arimathea (Ramathaim-Zophim)</p>
+        <p>Jerusalem</p>
+        <p>Thamnia</p>
+      </note>
+      <note type="prosopography"/>
+      <note type="themes">
+        <p>Geography</p>
+        <p>Medieval History</p>
+        <p>Natural Environment</p>
+        <p>Pilgrimage</p>
+        <p>Travel</p>
+      </note>
+    </body>
    </text>
 </TEI>

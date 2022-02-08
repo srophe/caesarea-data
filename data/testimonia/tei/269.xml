@@ -378,40 +378,46 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts"/>
+      
+      
+      
+      
+    <note type="related-texts"/>
       <note type="geography">
-        <p>Constantinople</p>
         <p>Alexandria</p>
         <p>Antioch on the Orontes</p>
-        <p>Jerusalem</p>
-        <p>Palestine</p>
-        <p>Phoenicia</p>
-        <p>Tyre</p>
-        <p>Galilee</p>
-        <p>Nazareth</p>
-        <p>Moab</p>
-        <p>Petra</p>
-        <p>Samaria Sebaste</p>
-        <p>Ptolemais (Acco, Accho, Akko)</p>
-        <p>Sidon</p>
         <p>Beirut (Berytus, Beritus)</p>
-        <p>Caesarea Philippi (Paneas, Banias)</p>
-        <p>Tiberias</p>
         <p>Bethlehem</p>
-        <p>Lydda</p>
+        <p>Caesarea Philippi (Paneas, Banias)</p>
+        <p>Constantinople</p>
+        <p>Galilee</p>
         <p>Hebron</p>
+        <p>Jerusalem</p>
+        <p>Lydda</p>
+        <p>Moab</p>
+        <p>Nazareth</p>
+        <p>Palestine</p>
+        <p>Petra</p>
+        <p>Phoenicia</p>
+        <p>Ptolemais (Acco, Accho, Akko)</p>
+        <p>Samaria Sebaste</p>
+        <p>Sidon</p>
+        <p>Tiberias</p>
+        <p>Tyre</p>
       </note>
-      <note type="prosopography">John the Baptist</note>
+      <note type="prosopography">
+        <p>John the Baptist</p>
+      </note>
       <note type="themes">
-        <p>Christianity</p>
         <p>Christian Bible</p>
+        <p>Christianity</p>
         <p>Crusades</p>
-        <p>Roman History</p>
-        <p>Medieval History</p>
-        <p>Geography</p>
-        <p>Government</p>
         <p>Death and Burial</p>
         <p>Economy</p>
+        <p>Geography</p>
+        <p>Government</p>
+        <p>Medieval History</p>
+        <p>Roman History</p>
       </note>
     </body>
   </text>

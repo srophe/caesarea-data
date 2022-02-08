@@ -365,26 +365,32 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts">
-        <hi rend="italic">Matthew 16:13-20</hi>
+      
+      
+      
+      
+    <note type="related-texts">
+        <p>Matthew 16:13-20</p>
       </note>
       <note type="geography">
-        <p>Ramla (Rama, Ramleh)</p>Caesarea Philippi (Paneas, Banias)</note>
+        <p>Caesarea Philippi (Paneas, Banias)</p>
+        <p>Ramla (Rama, Ramleh)</p>
+      </note>
       <note type="prosopography">
         <p>Herod I, King</p>
         <p>Jesus Christ</p>
         <p>Peter the Apostle</p>
       </note>
       <note type="themes">
+        <p>Christian Bible</p>
+        <p>Christianity</p>
+        <p>Economy</p>
+        <p>Geography</p>
+        <p>Maritime Activity</p>
+        <p>Medieval History</p>
         <p>Pilgrimage</p>
         <p>Roman History</p>
-        <p>Medieval History</p>
-        <p>Christianity</p>
-        <p>Christian Bible</p>
-        <p>Geography</p>
         <p>Urban Topography</p>
-        <p>Maritime Activity</p>
-        <p>Economy</p>
       </note>
     </body>
   </text>

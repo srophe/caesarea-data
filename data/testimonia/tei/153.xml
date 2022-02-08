@@ -377,32 +377,34 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-         <note type="related-texts">
-            <hi rend="italic"/>
-         </note>
-         <note type="geography">
-            <p>Jerusalem</p>
-            <p>Gaza</p>
-            <p>Ascalon</p>
-            <p>Iamnia</p>
-            <p>Phoenicia</p>
-            <p>Tyre</p>
-            <p>Coele Syria</p>
-         </note>
-         <note type="prosopography">
-            <p>Arius</p>
-            <p>Alexander of Alexandria</p>
-            <p>Macarius of Jerusalem</p>
-            <p>Asclepius of Gaza</p>
-            <p>Longinus of Ascalon</p>
-            <p>Macrinus of Iamnia</p>
-            <p> Zeno of Tyre</p>
-         </note>
-         <note type="themes">
-            <p>Christianity</p>
-            <p>Travel</p>
-            <p>Society and Culture</p>
-         </note>
-      </body>
+         
+         
+         
+         
+      <note type="related-texts"/>
+      <note type="geography">
+        <p>Ascalon</p>
+        <p>Coele Syria</p>
+        <p>Gaza</p>
+        <p>Iamnia</p>
+        <p>Jerusalem</p>
+        <p>Phoenicia</p>
+        <p>Tyre</p>
+      </note>
+      <note type="prosopography">
+        <p>Zeno of Tyre</p>
+        <p>Alexander of Alexandria</p>
+        <p>Arius</p>
+        <p>Asclepius of Gaza</p>
+        <p>Longinus of Ascalon</p>
+        <p>Macarius of Jerusalem</p>
+        <p>Macrinus of Iamnia</p>
+      </note>
+      <note type="themes">
+        <p>Christianity</p>
+        <p>Society and Culture</p>
+        <p>Travel</p>
+      </note>
+    </body>
    </text>
 </TEI>
