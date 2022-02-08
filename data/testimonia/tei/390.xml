@@ -392,8 +392,10 @@
         <p>Christianity</p>
         <p>Paganism</p>
         <p>Roman History</p>
-        <p>Geography</p>Travel
-            Death and Burial</note>
+        <p>Geography</p>
+            <p>Travel</p>
+            <p>Death and Burial</p>
+         </note>
       </body>
    </text>
 </TEI>
