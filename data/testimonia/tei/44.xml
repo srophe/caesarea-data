@@ -269,9 +269,7 @@
         <p/>
       </abstract>
       <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:latinLit:phi1351.phi004" type="uniform" level="m">The Histories</title>
-        <ref target="#bib44-1">2.82-2.83</ref> written by <persName ref="http://viaf.org/viaf/100226923" role="author">
-          <name>Tacitus</name>
-        </persName> in <origDate period="#nabateanKingdom             #earlyRoman" notBefore="0100" notAfter="0110">100 - 110 CE</origDate>. This work was
+        <ref target="#bib44-1">2.82-2.83</ref> written by <persName ref="http://viaf.org/viaf/100226923" role="author">Tacitus</persName> in <origDate period="#nabateanKingdom             #earlyRoman" notBefore="0100" notAfter="0110">100 - 110 CE</origDate>. This work was
         likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</creation>
       <langUsage>
         <language ident="la">Latin</language>
