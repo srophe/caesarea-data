@@ -374,23 +374,23 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-         <note type="related-texts">
-            <p>Gregory the Miracle-Worker, Panegyric on Origen 5.76-112</p>
-         </note>
-         <note type="geography"/>
-         <note type="prosopography">
-            <p>Gregory the Miracle-Worker</p>
-            <p>Origen</p>
-         </note>
-         <note type="themes">
-            <p>Christianity</p>
-            <p>Christian Bible</p>
-            <p>Education (sacred)</p>
-            <p>Greek literature</p>
-            <p>Philosophy</p>
-            <p>Science</p>
-            <p>Society and Culture</p>
-         </note>
-      </body>
+      <note type="related-texts">
+        <p>Gregory the Miracle-Worker, Panegyric on Origen 5.76-112</p>
+      </note>
+      <note type="geography"/>
+      <note type="prosopography">
+        <p>Gregory the Miracle-Worker</p>
+        <p>Origen</p>
+      </note>
+      <note type="themes">
+        <p>Christian Bible</p>
+        <p>Christianity</p>
+        <p>Education (sacred)</p>
+        <p>Greek literature</p>
+        <p>Philosophy</p>
+        <p>Science</p>
+        <p>Society and Culture</p>
+      </note>
+    </body>
    </text>
 </TEI>

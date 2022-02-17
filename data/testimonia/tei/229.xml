@@ -26,36 +26,28 @@
           <resp>Testimonia identified by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
-        
       </titleStmt>
       <editionStmt>
         <edition n="1.0"/>
       </editionStmt>
-      
       <publicationStmt>
         <authority>Caesarea City and Port Exploration Project</authority>
-        
         <idno type="URI">https://caesarea-maritima.org/testimonia/229/tei</idno>
-        
         <availability>
           <licence target="http://creativecommons.org/licenses/by/4.0">
             <p>Distributed under a Creative Commons Attribution 4.0 Unported License.</p>
           </licence>
-          
         </availability>
         <date>2021-06-14-05:00</date>
-        
       </publicationStmt>
       <seriesStmt>
         <title level="s" xml:lang="en">Caesarea-Maritima.org: A Digital Archive</title>
         <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
         <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#plieberman">Phillip I. Lieberman</editor>
       </seriesStmt>
-      
       <sourceDesc>
         <p>Born digital.</p>
       </sourceDesc>
-      
     </fileDesc>
     <encodingDesc>
       <editorialDecl>
@@ -66,10 +58,8 @@
         <p>Dates have been encoded following the ISO 8601 standard, <ref target="https://www.iso.org/iso-8601-date-and-time-format.html">https://www.iso.org/iso-8601-date-and-time-format.html</ref>, and the best practices established for the Srophé App, see <ref target="http://srophe.app">http://srophe.app</ref>.</p>
         <p>Languages have been encoded using ISO 639-1 (<ref target="https://www.iso.org/standard/22109.html">https://www.iso.org/standard/22109.html</ref>), 639-2 (<ref target="https://www.iso.org/standard/4767.html">https://www.iso.org/standard/4767.html</ref>), and 639-3 (<ref target="https://www.iso.org/standard/39534.html">https://www.iso.org/standard/39534.html</ref>) codes, following best practices of the TEI guidelines, see <ref target="https://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html">https://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html</ref>.</p>
       </editorialDecl>
-      
       <classDecl>
         <taxonomy xml:id="CM-NEAEH">
-          
           <desc>
             <title>Caesarea-Maritima.org Chronology</title>: This chronology is adapted from the chronology used in<bibl>
               <title>The New Encyclopedia of Archaeological Excavations in the Holy Land</title>
@@ -373,36 +363,30 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts">
-        <list type="simple">
-          <item>Evagrius Scholasticus, Church History 4.2-4.3</item>
-          <item>John Rufus, Reassurances 10</item>
-          <item>John Rufus, Reassurances 25</item>
-          <item>John Rufus, Reassurances 56</item>
-          <item>Pseudo-Zacharias Scholasticus, Historical Miscellany 3.3</item>
-          <item>Cyril of Scythopolis, Life of Euthymius 27</item>
-          <item>Theophanes the Confessor, Chronicle 107.6-14</item>
-          <item>Nicephorus Callistus Xanthopoulos 15.9</item>
-        </list>
+    <note type="related-texts">
+        <p>Cyril of Scythopolis, Life of Euthymius 27</p>
+        <p>Evagrius Scholasticus, Church History 4.2-4.3</p>
+        <p>John Rufus, Reassurances 10</p>
+        <p>John Rufus, Reassurances 25</p>
+        <p>John Rufus, Reassurances 56</p>
+        <p>Nicephorus Callistus Xanthopoulos 15.9</p>
+        <p>Pseudo-Zacharias Scholasticus, Historical Miscellany 3.3</p>
+        <p>Theophanes the Confessor, Chronicle 107.6-14</p>
       </note>
       <note type="geography">
-        <list type="simple">
-          <item>Jerusalem</item>
-          <item>Palestine</item>
-          <item>Chalcedon</item>
-        </list>
+        <p>Chalcedon</p>
+        <p>Jerusalem</p>
+        <p>Palestine</p>
       </note>
       <note type="prosopography">
-        <list type="simple">
-          <item>Juvenal of Jerusalem, bishop</item>
-          <item>Theodosius of Jerusalem, bishop</item>
-        </list>
+        <p>Juvenal of Jerusalem, bishop</p>
+        <p>Theodosius of Jerusalem, bishop</p>
       </note>
       <note type="themes">
-        <p>Roman History</p>
         <p>Christianity</p>
-        <p>Travel</p>
         <p>Government and Law</p>
+        <p>Roman History</p>
+        <p>Travel</p>
       </note>
     </body>
   </text>

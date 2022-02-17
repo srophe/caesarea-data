@@ -28,36 +28,28 @@
           <resp>Testimonia identified by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
-        
       </titleStmt>
       <editionStmt>
         <edition n="1.0"/>
       </editionStmt>
-      
       <publicationStmt>
         <authority>Caesarea City and Port Exploration Project</authority>
-        
         <idno type="URI">https://caesarea-maritima.org/testimonia/278/tei</idno>
-        
         <availability>
           <licence target="http://creativecommons.org/licenses/by/4.0">
             <p>Distributed under a Creative Commons Attribution 4.0 Unported License.</p>
           </licence>
-          
         </availability>
         <date>2021-06-14-05:00</date>
-        
       </publicationStmt>
       <seriesStmt>
         <title level="s" xml:lang="en">Caesarea-Maritima.org: A Digital Archive</title>
         <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
         <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#plieberman">Phillip I. Lieberman</editor>
       </seriesStmt>
-      
       <sourceDesc>
         <p>Born digital.</p>
       </sourceDesc>
-      
     </fileDesc>
     <encodingDesc>
       <editorialDecl>
@@ -68,10 +60,8 @@
         <p>Dates have been encoded following the ISO 8601 standard, <ref target="https://www.iso.org/iso-8601-date-and-time-format.html">https://www.iso.org/iso-8601-date-and-time-format.html</ref>, and the best practices established for the Srophé App, see <ref target="http://srophe.app">http://srophe.app</ref>.</p>
         <p>Languages have been encoded using ISO 639-1 (<ref target="https://www.iso.org/standard/22109.html">https://www.iso.org/standard/22109.html</ref>), 639-2 (<ref target="https://www.iso.org/standard/4767.html">https://www.iso.org/standard/4767.html</ref>), and 639-3 (<ref target="https://www.iso.org/standard/39534.html">https://www.iso.org/standard/39534.html</ref>) codes, following best practices of the TEI guidelines, see <ref target="https://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html">https://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html</ref>.</p>
       </editorialDecl>
-      
       <classDecl>
         <taxonomy xml:id="CM-NEAEH">
-          
           <desc>
             <title>Caesarea-Maritima.org Chronology</title>: This chronology is adapted from the chronology used in<bibl>
               <title>The New Encyclopedia of Archaeological Excavations in the Holy Land</title>
@@ -365,35 +355,36 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts">
-        <p>Eusebius, Church History 6.26.1</p>
-        <p>Jerome, Illustrious Men 54</p>
+    <note type="related-texts">
         <p>Epiphanius, Measures and Weights 18</p>
+        <p>Eusebius, Church History 6.26.1</p>
         <p>George Syncellus, Chronicle 361c=p. 681</p>
-        <p>Zonaras 12.17=263c<hi rend="italic">Suda s.v. Ὠριγένης (1275.17 ed. Bekker)</hi>
-        </p>
+        <p>Jerome, Illustrious Men 54</p>
         <p>Nicephorus Callistus Xanthopoulos, Church History 5.14.18</p>
+        <p>Suda s.v. Ὠριγένης (1275.17 ed. Bekker)</p>
+        <p>Zonaras 12.17=263c</p>
       </note>
       <note type="geography">
-        <p>Antioch</p>
         <p>Alexandria</p>
-        <p>Rome</p>
+        <p>Antioch</p>
         <p>Moguntiacum (Mainz)</p>
+        <p>Rome</p>
       </note>
       <note type="prosopography">
-        <p>Zebennus</p>
-        <p>Origen</p>
+        <p>Alexander Severus, emperor</p>
         <p>Heraclas</p>
-        <p>Alexander Severus,
-               emperor</p>
-        <p>Julia Mammaea</p>Pontianus</note>
+        <p>Julia Mammaea</p>
+        <p>Origen</p>
+        <p>Pontianus</p>
+        <p>Zebennus</p>
+      </note>
       <note type="themes">
-        <p>Roman History</p>
         <p>Christianity</p>
-        <p>Government and Law</p>
-        <p>Family</p>
-        <p>Military</p>
         <p>Death and Burial</p>
+        <p>Family</p>
+        <p>Government and Law</p>
+        <p>Military</p>
+        <p>Roman History</p>
         <p>Society and Culture</p>
       </note>
     </body>

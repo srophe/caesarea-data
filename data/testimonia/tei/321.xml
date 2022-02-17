@@ -385,29 +385,31 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-         <note type="related-texts">
-            <p>Eusebius, Life of Constantine 4.35-4.37</p>
-            <p>Socrates of Constantinople, Church History 1.9.51-55</p>
-            <p>Theodoret of Cyrrus, Church History 1.16.1-4</p>
-            <p>Cassiodorus, Church History 2.16.1-5</p>
-            <p>Nicephorus Callistus Xanthopoulos, Church History 8.27</p>
-         </note>
-         <note type="geography">Constantinople</note>
-         <note type="prosopography">
-            <p>Constantine I, Emperor</p>
-            <p>Eusebius of Caesarea</p>
-         </note>
-         <note type="themes">
-            <p>Christianity</p>
-            <p>Hebrew Bible</p>
-            <p>Christian Bible</p>
-            <p>Byzantine History</p>
-            <p>Urban Topography</p>
-            <p>Travel</p>
-            <p>Government and Law</p>
-            <p>Education (sacred)</p>
-            <p> Society and Culture</p>
-         </note>
-      </body>
+      <note type="related-texts">
+        <p>Cassiodorus, Church History 2.16.1-5</p>
+        <p>Eusebius, Life of Constantine 4.35-4.37</p>
+        <p>Nicephorus Callistus Xanthopoulos, Church History 8.27</p>
+        <p>Socrates of Constantinople, Church History 1.9.51-55</p>
+        <p>Theodoret of Cyrrus, Church History 1.16.1-4</p>
+      </note>
+      <note type="geography">
+        <p>Constantinople</p>
+      </note>
+      <note type="prosopography">
+        <p>Constantine I, Emperor</p>
+        <p>Eusebius of Caesarea</p>
+      </note>
+      <note type="themes">
+        <p>Society and Culture</p>
+        <p>Byzantine History</p>
+        <p>Christian Bible</p>
+        <p>Christianity</p>
+        <p>Education (sacred)</p>
+        <p>Government and Law</p>
+        <p>Hebrew Bible</p>
+        <p>Travel</p>
+        <p>Urban Topography</p>
+      </note>
+    </body>
    </text>
 </TEI>

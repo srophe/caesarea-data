@@ -25,36 +25,28 @@
                <resp>Testimonia identified by</resp>
                <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
             </respStmt>
-        
          </titleStmt>
          <editionStmt>
             <edition n="1.0"/>
          </editionStmt>
-      
          <publicationStmt>
             <authority>Caesarea City and Port Exploration Project</authority>
-        
             <idno type="URI">https://caesarea-maritima.org/testimonia/129/tei</idno>
-        
             <availability>
                <licence target="http://creativecommons.org/licenses/by/4.0">
                   <p>Distributed under a Creative Commons Attribution 4.0 Unported License.</p>
                </licence>
-          
             </availability>
             <date>2021-06-14-05:00</date>
-        
          </publicationStmt>
          <seriesStmt>
             <title level="s" xml:lang="en">Caesarea-Maritima.org: A Digital Archive</title>
             <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
             <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#plieberman">Phillip I. Lieberman</editor>
          </seriesStmt>
-      
          <sourceDesc>
             <p>Born digital.</p>
          </sourceDesc>
-      
       </fileDesc>
       <encodingDesc>
          <editorialDecl>
@@ -65,10 +57,8 @@
             <p>Dates have been encoded following the ISO 8601 standard, <ref target="https://www.iso.org/iso-8601-date-and-time-format.html">https://www.iso.org/iso-8601-date-and-time-format.html</ref>, and the best practices established for the Srophé App, see <ref target="http://srophe.app">http://srophe.app</ref>.</p>
             <p>Languages have been encoded using ISO 639-1 (<ref target="https://www.iso.org/standard/22109.html">https://www.iso.org/standard/22109.html</ref>), 639-2 (<ref target="https://www.iso.org/standard/4767.html">https://www.iso.org/standard/4767.html</ref>), and 639-3 (<ref target="https://www.iso.org/standard/39534.html">https://www.iso.org/standard/39534.html</ref>) codes, following best practices of the TEI guidelines, see <ref target="https://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html">https://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html</ref>.</p>
          </editorialDecl>
-      
          <classDecl>
             <taxonomy xml:id="CM-NEAEH">
-          
                <desc>
                   <title>Caesarea-Maritima.org Chronology</title>: This chronology is adapted from the chronology used in <bibl>
                      <title>The New Encyclopedia of Archaeological Excavations in the Holy Land</title>
@@ -354,28 +344,25 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-         <note type="related-texts">
-            <p>
-               <hi rend="italic">Joshua 11:12</hi>
-            </p>
-            <p>Jerome, Book of Places 79</p>
-         </note>
-         <note type="geography">
-            <p>Dor (Dor of Nafath, Dor Nafeth, Nafethdor, Nefeddor, Doros, Doroi, Dora, Dora
-               Maritima, Tel Dor, Dor Tantura)</p>
-            <p>Ptolemais (Accho, Acre, Akko)</p>
-            <p>Tyre</p>
-         </note>
-         <note type="prosopography">
-            <p>Symmachus</p>
-         </note>
-         <note type="themes">
-            <p>Greek Language</p>
-            <p>Hebrew Bible</p>
-            <p>Geography</p>
-            <p>Travel</p>
-            <p>History of Israel</p>
-         </note>
-      </body>
+      <note type="related-texts">
+        <p>Jerome, Book of Places 79</p>
+        <p>Joshua 11:12</p>
+      </note>
+      <note type="geography">
+        <p>Dor (Dor of Nafath, Dor Nafeth, Nafethdor, Nefeddor, Doros, Doroi, Dora, Dora Maritima, Tel Dor, Dor Tantura)</p>
+        <p>Ptolemais (Accho, Acre, Akko)</p>
+        <p>Tyre</p>
+      </note>
+      <note type="prosopography">
+        <p>Symmachus</p>
+      </note>
+      <note type="themes">
+        <p>Geography</p>
+        <p>Greek Language</p>
+        <p>Hebrew Bible</p>
+        <p>History of Israel</p>
+        <p>Travel</p>
+      </note>
+    </body>
    </text>
 </TEI>

@@ -410,26 +410,26 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-         <note type="related-texts"/>
-         <note type="geography">
-            <p>Alexandria</p>
-         </note>
-         <note type="prosopography">
-            <p>Rufinus, Tyrannius</p>
-            <p>Clement of Rome</p>
-            <p>Clement of Alexandria</p>
-            <p>Dionysius of Alexandria</p>
-            <p>Origen</p>
-            <p>Demetrius, bishop of Alexandria</p>
-         </note>
-         <note type="themes">
-            <p>Christianity</p>
-            <p>Christian Bible</p>
-            <p>Education (sacred)</p>
-            <p>Society and Culture</p>
-            <p>Greek Language</p>
-            <p> Latin Language</p>
-         </note>
-      </body>
+      <note type="related-texts"/>
+      <note type="geography">
+        <p>Alexandria</p>
+      </note>
+      <note type="prosopography">
+        <p>Clement of Alexandria</p>
+        <p>Clement of Rome</p>
+        <p>Demetrius, bishop of Alexandria</p>
+        <p>Dionysius of Alexandria</p>
+        <p>Origen</p>
+        <p>Rufinus, Tyrannius</p>
+      </note>
+      <note type="themes">
+        <p>Latin Language</p>
+        <p>Christian Bible</p>
+        <p>Christianity</p>
+        <p>Education (sacred)</p>
+        <p>Greek Language</p>
+        <p>Society and Culture</p>
+      </note>
+    </body>
    </text>
 </TEI>

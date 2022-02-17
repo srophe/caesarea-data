@@ -406,30 +406,32 @@
                <citedRange unit=""/>
             </bibl>
          </listBibl>
-         <note type="related-texts">
-        <p>Gregory the Miracle-Worker, Panegyric on Origen
-            6-14</p>Gregory the Miracle-Worker, Paraphrase of Ecclesiastes <p>Hesychius of
-               Miletus</p>Suda ω 182.619.14-24</note>
-         <note type="geography">
-            <p>Neocaesarea in Pontus</p>
-            <p>Cappadocia</p>
-            <p>Beirut</p>
-         </note>
-         <note type="prosopography">
-            <p>Gregory the Miracle-Worker</p>
-            <p>Athenodoros</p>
-            <p>Origen</p>
-            <p>Aurelian, emperor</p>
-         </note>
-         <note type="themes">
-            <p>Christianity</p>
-            <p>Christian Bible</p>
-            <p>Education (secular)</p>
-            <p>Education (sacred)</p>
-            <p>Travel</p>
-            <p>Culture and Society</p>
-            <p> Death and Burial</p>
-         </note>
-      </body>
+      <note type="related-texts">
+        <p>Gregory the Miracle-Worker, Panegyric on Origen 6-14</p>
+        <p>Gregory the Miracle-Worker, Paraphrase of Ecclesiastes</p>
+        <p>Hesychius of Miletus</p>
+        <p>Suda ω 182.619.14-24</p>
+      </note>
+      <note type="geography">
+        <p>Beirut</p>
+        <p>Cappadocia</p>
+        <p>Neocaesarea in Pontus</p>
+      </note>
+      <note type="prosopography">
+        <p>Athenodoros</p>
+        <p>Aurelian, emperor</p>
+        <p>Gregory the Miracle-Worker</p>
+        <p>Origen</p>
+      </note>
+      <note type="themes">
+        <p>Death and Burial</p>
+        <p>Christian Bible</p>
+        <p>Christianity</p>
+        <p>Culture and Society</p>
+        <p>Education (sacred)</p>
+        <p>Education (secular)</p>
+        <p>Travel</p>
+      </note>
+    </body>
    </text>
 </TEI>

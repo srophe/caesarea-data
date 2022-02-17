@@ -26,36 +26,28 @@
           <resp>Testimonia identified by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
-        
       </titleStmt>
       <editionStmt>
         <edition n="1.0"/>
       </editionStmt>
-      
       <publicationStmt>
         <authority>Caesarea City and Port Exploration Project</authority>
-        
         <idno type="URI">https://caesarea-maritima.org/testimonia/222/tei</idno>
-        
         <availability>
           <licence target="http://creativecommons.org/licenses/by/4.0">
             <p>Distributed under a Creative Commons Attribution 4.0 Unported License.</p>
           </licence>
-          
         </availability>
         <date>2021-06-14-05:00</date>
-        
       </publicationStmt>
       <seriesStmt>
         <title level="s" xml:lang="en">Caesarea-Maritima.org: A Digital Archive</title>
         <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
         <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#plieberman">Phillip I. Lieberman</editor>
       </seriesStmt>
-      
       <sourceDesc>
         <p>Born digital.</p>
       </sourceDesc>
-      
     </fileDesc>
     <encodingDesc>
       <editorialDecl>
@@ -66,10 +58,8 @@
         <p>Dates have been encoded following the ISO 8601 standard, <ref target="https://www.iso.org/iso-8601-date-and-time-format.html">https://www.iso.org/iso-8601-date-and-time-format.html</ref>, and the best practices established for the Srophé App, see <ref target="http://srophe.app">http://srophe.app</ref>.</p>
         <p>Languages have been encoded using ISO 639-1 (<ref target="https://www.iso.org/standard/22109.html">https://www.iso.org/standard/22109.html</ref>), 639-2 (<ref target="https://www.iso.org/standard/4767.html">https://www.iso.org/standard/4767.html</ref>), and 639-3 (<ref target="https://www.iso.org/standard/39534.html">https://www.iso.org/standard/39534.html</ref>) codes, following best practices of the TEI guidelines, see <ref target="https://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html">https://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html</ref>.</p>
       </editorialDecl>
-      
       <classDecl>
         <taxonomy xml:id="CM-NEAEH">
-          
           <desc>
             <title>Caesarea-Maritima.org Chronology</title>: This chronology is adapted from the chronology used in<bibl>
               <title>The New Encyclopedia of Archaeological Excavations in the Holy Land</title>
@@ -392,76 +382,75 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts">
+    <note type="related-texts">
         <p>Marcianus of Heracleia, FGrH 2046 T 6</p>
         <p>Suda σ 510</p>
       </note>
       <note type="geography">
-        <p>Cilicia</p>
-        <p>Koile Syria</p>
-        <p>Phoenicia</p>
-        <p>Thrapsakos, River</p>
-        <p>Tripolis</p>
+        <p>Ake</p>
+        <p>Ake</p>
         <p>Arados</p>
-        <p>Tyros</p>
-        <p>Sidon</p>
-        <p>Theou Prosopon, Mount</p>
-        <p>Trieres</p>
+        <p>Arados</p>
+        <p>Arados</p>
+        <p>Arados</p>
+        <p>Askalon</p>
+        <p>Askalon</p>
+        <p>Berytos (Beirut)</p>
         <p>Berytos (Beirut)</p>
         <p>Bostrenos, River</p>
+        <p>Bostrenos, River</p>
+        <p>Cilicia</p>
+        <p>Cilicia</p>
+        <p>Dor</p>
+        <p>Dor</p>
+        <p>Ekdippoi (Ecdippa)</p>
+        <p>Ekdippoi (Ecdippa)</p>
+        <p>Exope</p>
+        <p>Exope</p>
+        <p>Ioppe</p>
+        <p>Ioppe</p>
+        <p>Karmelos, Mount</p>
+        <p>Karmelos, Mount</p>
+        <p>Koile Syria</p>
+        <p>Koile Syria</p>
         <p>Leonton Polis</p>
-        <p>Porphyreon</p>
+        <p>Leonton Polis</p>
+        <p>Ornithon Polis</p>
         <p>Ornithon Polis</p>
         <p>Palaityros</p>
-        <p>Ekdippoi (Ecdippa)</p>
-        <p>Ake</p>
-        <p>Exope</p>
-        <p>Karmelos, Mount</p>
-        <p>Arados</p>
-        <p>Dor</p>
-        <p>Ioppe</p>
-        <p>Askalon</p>
-        <p>Cilicia</p>
-        <p>Koile Syria</p>
+        <p>Palaityros</p>
         <p>Phoenicia</p>
-        <p>Thrapsakos, River</p>
-        <p>Tripolis</p>
-        <p>Arados</p>
-        <p>Tyros</p>
+        <p>Phoenicia</p>
+        <p>Porphyreon</p>
+        <p>Porphyreon</p>
+        <p>Sidon</p>
         <p>Sidon</p>
         <p>Theou Prosopon, Mount</p>
+        <p>Theou Prosopon, Mount</p>
+        <p>Thrapsakos, River</p>
+        <p>Thrapsakos, River</p>
         <p>Trieres</p>
-        <p>Berytos (Beirut)</p>
-        <p>Bostrenos, River</p>
-        <p>Leonton Polis</p>
-        <p>Porphyreon</p>
-        <p>Ornithon Polis</p>
-        <p>Palaityros</p>
-        <p>Ekdippoi (Ecdippa)</p>
-        <p>Ake</p>
-        <p>Exope</p>
-        <p>Karmelos, Mount</p>
-        <p>Arados</p>
-        <p>Dor</p>
-        <p>Ioppe</p>
-        <p>Askalon</p>
+        <p>Trieres</p>
+        <p>Tripolis</p>
+        <p>Tripolis</p>
+        <p>Tyros</p>
+        <p>Tyros</p>
       </note>
       <note type="prosopography">
-        <p>Philip II of Macedon</p>
         <p>Alexander the Great</p>
-        <p>Marcianus of Heracleia</p>
-        <p>Zeus</p>
         <p>Andromeda</p>
+        <p>Marcianus of Heracleia</p>
+        <p>Philip II of Macedon</p>
+        <p>Zeus</p>
       </note>
       <note type="themes">
         <p>Classical History</p>
         <p>Geography</p>
-        <p>Travel</p>
-        <p>Maritime Activity</p>
-        <p>Paganism</p>
         <p>Government</p>
+        <p>Maritime Activity</p>
         <p>Military</p>
-        <p/>
+        <p>Paganism</p>
+        <p>Travel</p>
       </note>
     </body>
   </text>

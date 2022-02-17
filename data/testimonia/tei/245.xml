@@ -25,36 +25,28 @@
           <resp>Testimonia identified by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
-        
       </titleStmt>
       <editionStmt>
         <edition n="1.0"/>
       </editionStmt>
-      
       <publicationStmt>
         <authority>Caesarea City and Port Exploration Project</authority>
-        
         <idno type="URI">https://caesarea-maritima.org/testimonia/245/tei</idno>
-        
         <availability>
           <licence target="http://creativecommons.org/licenses/by/4.0">
             <p>Distributed under a Creative Commons Attribution 4.0 Unported License.</p>
           </licence>
-          
         </availability>
         <date>2021-06-14-05:00</date>
-        
       </publicationStmt>
       <seriesStmt>
         <title level="s" xml:lang="en">Caesarea-Maritima.org: A Digital Archive</title>
         <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
         <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#plieberman">Phillip I. Lieberman</editor>
       </seriesStmt>
-      
       <sourceDesc>
         <p>Born digital.</p>
       </sourceDesc>
-      
     </fileDesc>
     <encodingDesc>
       <editorialDecl>
@@ -65,10 +57,8 @@
         <p>Dates have been encoded following the ISO 8601 standard, <ref target="https://www.iso.org/iso-8601-date-and-time-format.html">https://www.iso.org/iso-8601-date-and-time-format.html</ref>, and the best practices established for the Srophé App, see <ref target="http://srophe.app">http://srophe.app</ref>.</p>
         <p>Languages have been encoded using ISO 639-1 (<ref target="https://www.iso.org/standard/22109.html">https://www.iso.org/standard/22109.html</ref>), 639-2 (<ref target="https://www.iso.org/standard/4767.html">https://www.iso.org/standard/4767.html</ref>), and 639-3 (<ref target="https://www.iso.org/standard/39534.html">https://www.iso.org/standard/39534.html</ref>) codes, following best practices of the TEI guidelines, see <ref target="https://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html">https://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html</ref>.</p>
       </editorialDecl>
-      
       <classDecl>
         <taxonomy xml:id="CM-NEAEH">
-          
           <desc>
             <title>Caesarea-Maritima.org Chronology</title>: This chronology is adapted from the chronology used in<bibl>
               <title>The New Encyclopedia of Archaeological Excavations in the Holy Land</title>
@@ -367,49 +357,49 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts"/>
+    <note type="related-texts"/>
       <note type="geography">
-        <p>Libya</p>
+        <p>Adramystus</p>
+        <p>Aelia</p>
+        <p>Africa</p>
+        <p>Alexandreia Magna</p>
+        <p>Ammoniaca</p>
+        <p>Apollonia</p>
+        <p>Arabia</p>
+        <p>Arabia Petraea</p>
+        <p>Arsinoë</p>
+        <p>Ascalon</p>
+        <p>Babylon</p>
+        <p>Bostra</p>
+        <p>Carthage</p>
+        <p>Cyrene</p>
+        <p>Cyrene</p>
+        <p>Diospolis Magna</p>
+        <p>Egypt</p>
         <p>Egypt</p>
         <p>Ethiopia</p>
-        <p>Meroë</p>
-        <p>Ptolemaïs</p>
-        <p>Arabia</p>
-        <p>Musa</p>
-        <p>Diospolis Magna</p>
-        <p>Syene</p>
-        <p>Ammoniaca</p>
-        <p>Oasis Magna</p>
+        <p>Libya</p>
         <p>Mauritania</p>
-        <p>Oppidaneum</p>
-        <p>Africa</p>
-        <p>Carthage</p>
-        <p>Adramystus</p>
-        <p>Cyrene</p>
-        <p>Arsinoë</p>
-        <p>Ptolemaïs</p>
-        <p>Taucheira</p>
-        <p>Apollonia</p>
-        <p>Cyrene</p>
-        <p>Egypt</p>
-        <p>Paratoneum</p>
-        <p>Alexandreia Magna</p>
-        <p>Pelusium</p>
-        <p>Memphis</p>
-        <p>Ptolemaïs Hermiou</p>
-        <p>Syria Judaea</p>
-        <p>Ascalon</p>
-        <p>Tiberias</p>
-        <p>Neapolis</p>
-        <p>Sebaste</p>
-        <p>Scythopolis</p>
-        <p>Aelia</p>
-        <p>Arabia Petraea</p>
-        <p>Petra</p>
         <p>Medaba</p>
-        <p>Bostra</p>
-        <p>Babylon</p>
+        <p>Memphis</p>
+        <p>Meroë</p>
+        <p>Musa</p>
+        <p>Neapolis</p>
+        <p>Oasis Magna</p>
+        <p>Oppidaneum</p>
+        <p>Paratoneum</p>
+        <p>Pelusium</p>
+        <p>Petra</p>
+        <p>Ptolemaïs</p>
+        <p>Ptolemaïs</p>
+        <p>Ptolemaïs Hermiou</p>
+        <p>Scythopolis</p>
+        <p>Sebaste</p>
+        <p>Syene</p>
+        <p>Syria Judaea</p>
+        <p>Taucheira</p>
         <p>Teredon</p>
+        <p>Tiberias</p>
       </note>
       <note type="prosopography"/>
       <note type="themes">

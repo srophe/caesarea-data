@@ -352,19 +352,19 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-         <note type="related-texts"/>
-         <note type="geography">
-            <p>Damascus</p>
-            <p>Alexandria</p>
-            <p>Palestine</p>
-            <p>Judaea</p>
-            <p>Ashkelon (Askalon, Ascalon)</p>
-         </note>
-         <note type="prosopography"/>
-         <note type="themes">
-            <p>Geography</p>
-            <p>Natural Environment</p>
-         </note>
-      </body>
+      <note type="related-texts"/>
+      <note type="geography">
+        <p>Alexandria</p>
+        <p>Ashkelon (Askalon, Ascalon)</p>
+        <p>Damascus</p>
+        <p>Judaea</p>
+        <p>Palestine</p>
+      </note>
+      <note type="prosopography"/>
+      <note type="themes">
+        <p>Geography</p>
+        <p>Natural Environment</p>
+      </note>
+    </body>
    </text>
 </TEI>

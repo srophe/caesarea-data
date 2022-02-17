@@ -26,36 +26,28 @@
           <resp>Testimonia identified by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
-        
       </titleStmt>
       <editionStmt>
         <edition n="1.0"/>
       </editionStmt>
-      
       <publicationStmt>
         <authority>Caesarea City and Port Exploration Project</authority>
-        
         <idno type="URI">https://caesarea-maritima.org/testimonia/253/tei</idno>
-        
         <availability>
           <licence target="http://creativecommons.org/licenses/by/4.0">
             <p>Distributed under a Creative Commons Attribution 4.0 Unported License.</p>
           </licence>
-          
         </availability>
         <date>2021-06-14-05:00</date>
-        
       </publicationStmt>
       <seriesStmt>
         <title level="s" xml:lang="en">Caesarea-Maritima.org: A Digital Archive</title>
         <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
         <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#plieberman">Phillip I. Lieberman</editor>
       </seriesStmt>
-      
       <sourceDesc>
         <p>Born digital.</p>
       </sourceDesc>
-      
     </fileDesc>
     <encodingDesc>
       <editorialDecl>
@@ -66,10 +58,8 @@
         <p>Dates have been encoded following the ISO 8601 standard, <ref target="https://www.iso.org/iso-8601-date-and-time-format.html">https://www.iso.org/iso-8601-date-and-time-format.html</ref>, and the best practices established for the Srophé App, see <ref target="http://srophe.app">http://srophe.app</ref>.</p>
         <p>Languages have been encoded using ISO 639-1 (<ref target="https://www.iso.org/standard/22109.html">https://www.iso.org/standard/22109.html</ref>), 639-2 (<ref target="https://www.iso.org/standard/4767.html">https://www.iso.org/standard/4767.html</ref>), and 639-3 (<ref target="https://www.iso.org/standard/39534.html">https://www.iso.org/standard/39534.html</ref>) codes, following best practices of the TEI guidelines, see <ref target="https://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html">https://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html</ref>.</p>
       </editorialDecl>
-      
       <classDecl>
         <taxonomy xml:id="CM-NEAEH">
-          
           <desc>
             <title>Caesarea-Maritima.org Chronology</title>: This chronology is adapted from the chronology used in<bibl>
               <title>The New Encyclopedia of Archaeological Excavations in the Holy Land</title>
@@ -386,46 +376,44 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts">
-        <hi rend="italic"/>
-      </note>
+    <note type="related-texts"/>
       <note type="geography">
-        <p>Ancyra</p>
-        <p>Laodicea in Syria</p>
-        <p>Tarsus</p>
-        <p>Antioch on the Orontes</p>
         <p>Alexandria</p>
-        <p>Jerusalem</p>
-        <p>Tyre</p>
+        <p>Ancyra</p>
+        <p>Antioch on the Orontes</p>
+        <p>Constantinople</p>
+        <p>Cyzicus</p>
         <p>Eleutheropolis</p>
         <p>Jerusalem</p>
-        <p>Cyzicus</p>
-        <p>Constantinople</p>
+        <p>Jerusalem</p>
+        <p>Laodicea in Syria</p>
         <p>Sebaste</p>
+        <p>Tarsus</p>
+        <p>Tyre</p>
       </note>
       <note type="prosopography">
+        <p>Acacius, bishop of Caesarea in Palestine</p>
+        <p>Anianus of Antioch</p>
         <p>Arius</p>
         <p>Basil of Ancyra</p>
-        <p>George of Laodicea in Syria</p>
-        <p>Silvanus of Tarsus</p>
-        <p>Eudoxius of Antioch</p>
-        <p>George of Alexandria</p>
-        <p>Euzoeus of Antioch</p>
         <p>Constantius II, emperor</p>
         <p>Cyril of Jerusalem</p>
-        <p>Acacius, bishop of Caesarea in Palestine</p>
-        <p>Meletius of Antioch</p>
-        <p>Uranius of Tyre</p>
-        <p>Eutychius of Eleutheropolis</p>
         <p>Eleusius of Cyzicus</p>
-        <p>Macedonius of Constantinople</p>
+        <p>Eudoxius of Antioch</p>
         <p>Eustathius of Sebaste</p>
-        <p>Anianus of Antioch</p>
+        <p>Eutychius of Eleutheropolis</p>
+        <p>Euzoeus of Antioch</p>
+        <p>George of Alexandria</p>
+        <p>George of Laodicea in Syria</p>
+        <p>Macedonius of Constantinople</p>
+        <p>Meletius of Antioch</p>
+        <p>Silvanus of Tarsus</p>
+        <p>Uranius of Tyre</p>
       </note>
       <note type="themes">
-        <p>Roman History</p>
         <p>Christianity</p>
         <p>Culture and Society</p>
+        <p>Roman History</p>
       </note>
     </body>
   </text>

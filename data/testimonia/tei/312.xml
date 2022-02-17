@@ -393,25 +393,25 @@
                <citedRange unit=""/>
             </bibl>
          </listBibl>
-         <note type="related-texts">
-            <p>Origen, Commentary on the Gospel of John 6.2.9</p>
-            <p>Eusebius, Church History 6.23.2</p>
-         </note>
-         <note type="geography">
-            <p>Alexandria</p>
-         </note>
-         <note type="prosopography">
-            <p>Origen</p>
-            <p>Ambrose of Alexandria</p>
-         </note>
-         <note type="themes">
-            <p>Christianity</p>
-            <p>Christian Bible</p>
-            <p>Greek Language</p>
-            <p>Education (sacred)</p>
-            <p>Society and Culture</p>
-            <p>Economy and Commerce</p>
-         </note>
-      </body>
+      <note type="related-texts">
+        <p>Eusebius, Church History 6.23.2</p>
+        <p>Origen, Commentary on the Gospel of John 6.2.9</p>
+      </note>
+      <note type="geography">
+        <p>Alexandria</p>
+      </note>
+      <note type="prosopography">
+        <p>Ambrose of Alexandria</p>
+        <p>Origen</p>
+      </note>
+      <note type="themes">
+        <p>Christian Bible</p>
+        <p>Christianity</p>
+        <p>Economy and Commerce</p>
+        <p>Education (sacred)</p>
+        <p>Greek Language</p>
+        <p>Society and Culture</p>
+      </note>
+    </body>
    </text>
 </TEI>

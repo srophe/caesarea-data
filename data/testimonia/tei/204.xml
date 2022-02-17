@@ -27,36 +27,28 @@
                <resp>Testimonia identified by</resp>
                <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
             </respStmt>
-        
          </titleStmt>
          <editionStmt>
             <edition n="1.0"/>
          </editionStmt>
-      
          <publicationStmt>
             <authority>Caesarea City and Port Exploration Project</authority>
-        
             <idno type="URI">https://caesarea-maritima.org/testimonia/204/tei</idno>
-        
             <availability>
                <licence target="http://creativecommons.org/licenses/by/4.0">
                   <p>Distributed under a Creative Commons Attribution 4.0 Unported License.</p>
                </licence>
-          
             </availability>
             <date>2021-06-14-05:00</date>
-        
          </publicationStmt>
          <seriesStmt>
             <title level="s" xml:lang="en">Caesarea-Maritima.org: A Digital Archive</title>
             <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
             <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#plieberman">Phillip I. Lieberman</editor>
          </seriesStmt>
-      
          <sourceDesc>
             <p>Born digital.</p>
          </sourceDesc>
-      
       </fileDesc>
       <encodingDesc>
          <editorialDecl>
@@ -67,10 +59,8 @@
             <p>Dates have been encoded following the ISO 8601 standard, <ref target="https://www.iso.org/iso-8601-date-and-time-format.html">https://www.iso.org/iso-8601-date-and-time-format.html</ref>, and the best practices established for the Srophé App, see <ref target="http://srophe.app">http://srophe.app</ref>.</p>
             <p>Languages have been encoded using ISO 639-1 (<ref target="https://www.iso.org/standard/22109.html">https://www.iso.org/standard/22109.html</ref>), 639-2 (<ref target="https://www.iso.org/standard/4767.html">https://www.iso.org/standard/4767.html</ref>), and 639-3 (<ref target="https://www.iso.org/standard/39534.html">https://www.iso.org/standard/39534.html</ref>) codes, following best practices of the TEI guidelines, see <ref target="https://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html">https://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html</ref>.</p>
          </editorialDecl>
-      
          <classDecl>
             <taxonomy xml:id="CM-NEAEH">
-          
                <desc>
                   <title>Caesarea-Maritima.org Chronology</title>: This chronology is adapted from the chronology used in <bibl>
                      <title>The New Encyclopedia of Archaeological Excavations in the Holy Land</title>
@@ -414,58 +404,55 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-         <note type="related-texts">
-            <hi rend="italic"/>
-            <p> Acts 8:40</p>
-            <p>
-               <hi rend="italic">Acts 21:8-9</hi>
-            </p>
-            <p>Acts 10:1-48</p>
-            <p>Acts 24-26</p>
-            <p>Josephus Jewish Antiquities 15.9.6</p>
-            <p>Marino Sanudo the Elder, Secrets for Those Faithful to the Cross 3.14.2</p>
-         </note>
-         <note type="geography">
+      <note type="related-texts">
+        <p>Acts 8:40</p>
+        <p>Acts 10:1-48</p>
+        <p>Acts 21:8-9</p>
+        <p>Acts 24-26</p>
+        <p>Josephus Jewish Antiquities 15.9.6</p>
+        <p>Marino Sanudo the Elder, Secrets for Those Faithful to the Cross 3.14.2</p>
+      </note>
+      <note type="geography">
         <p>Acre (Akko, Ptolemaïs)</p>
-        <p>Caypha (Haifa)</p>
-        <p>Pilgrims’
-               Castle (Castrum Peregrinorum, Athlit)</p>
+        <p>Antipatris</p>
+        <p>Assur (Arsuf)</p>
         <p>Carmel, Mount</p>
-        <p>Dor
-               (Dora)</p>
-        <p>Assur (Arsuf)</p>Antipatris</note>
-         <note type="prosopography">
-            <p>Knights Templar</p>
-            <p>Elijah the Prophet</p>
-            <p>Elisha the Prophet</p>
-            <p>Carmelites</p>
-            <p>Herod I, King</p>
-            <p>Philip, early Christian at Caesarea</p>
-            <p>Peter the Apostle</p>
-            <p>Cornelius, early Christian at Caesarea</p>
-            <p>Paul the Apostle</p>
-            <p>Agrippa</p>
-            <p>Felix</p>
-            <p>Tertullus</p>
-            <p>Antipater, Father of Herod I</p>
-            <p>Knights Hospitaller</p>
-         </note>
-         <note type="themes">
-            <p>Crusades</p>
-            <p>Medieval History</p>
-            <p>Pilgrimage</p>
-            <p>Christianity</p>
-            <p>Hebrew Bible</p>
-            <p>Christian Bible</p>
-            <p>Geography</p>
-            <p>Urban Topography</p>
-            <p>Natural Environment</p>
-            <p>Travel</p>
-            <p>Roman History</p>
-            <p>Government and Law</p>
-            <p>Economy and Commerce</p>
-            <p>Military</p>
-         </note>
-      </body>
+        <p>Caypha (Haifa)</p>
+        <p>Dor (Dora)</p>
+        <p>Pilgrims’ Castle (Castrum Peregrinorum, Athlit)</p>
+      </note>
+      <note type="prosopography">
+        <p>Agrippa</p>
+        <p>Antipater, Father of Herod I</p>
+        <p>Carmelites</p>
+        <p>Cornelius, early Christian at Caesarea</p>
+        <p>Elijah the Prophet</p>
+        <p>Elisha the Prophet</p>
+        <p>Felix</p>
+        <p>Herod I, King</p>
+        <p>Knights Hospitaller</p>
+        <p>Knights Templar</p>
+        <p>Paul the Apostle</p>
+        <p>Peter the Apostle</p>
+        <p>Philip, early Christian at Caesarea</p>
+        <p>Tertullus</p>
+      </note>
+      <note type="themes">
+        <p>Christian Bible</p>
+        <p>Christianity</p>
+        <p>Crusades</p>
+        <p>Economy and Commerce</p>
+        <p>Geography</p>
+        <p>Government and Law</p>
+        <p>Hebrew Bible</p>
+        <p>Medieval History</p>
+        <p>Military</p>
+        <p>Natural Environment</p>
+        <p>Pilgrimage</p>
+        <p>Roman History</p>
+        <p>Travel</p>
+        <p>Urban Topography</p>
+      </note>
+    </body>
    </text>
 </TEI>

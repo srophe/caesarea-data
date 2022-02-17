@@ -392,23 +392,23 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-         <note type="related-texts">
-            <p>Origen, Letter to Gregory the Miracle-Worker 1</p>
-         </note>
-         <note type="geography">
-            <p>Palestine</p>
-            <p>Berytus (Beirut)</p>
-         </note>
-         <note type="prosopography">
-            <p>Origen</p>
-            <p>Gregory the Miracle-Worker</p>
-         </note>
-         <note type="themes">
-            <p>Roman History</p>
-            <p>Government and Law</p>
-            <p>Military</p>
-            <p>Education (sacred)</p>
-         </note>
-      </body>
+      <note type="related-texts">
+        <p>Origen, Letter to Gregory the Miracle-Worker 1</p>
+      </note>
+      <note type="geography">
+        <p>Berytus (Beirut)</p>
+        <p>Palestine</p>
+      </note>
+      <note type="prosopography">
+        <p>Gregory the Miracle-Worker</p>
+        <p>Origen</p>
+      </note>
+      <note type="themes">
+        <p>Education (sacred)</p>
+        <p>Government and Law</p>
+        <p>Military</p>
+        <p>Roman History</p>
+      </note>
+    </body>
    </text>
 </TEI>

@@ -403,25 +403,24 @@
                <citedRange unit=""/>
             </bibl>
          </listBibl>
-         <note type="related-texts"/>
-         <note type="geography">
-            <p>Pontus</p>
-            <p> </p>
-         </note>
-         <note type="prosopography">
-            <p>Origin</p>
-            <p>Gregory of Nazianzus</p>
-            <p>Gregory the Miracle-Worker</p>
-            <p>Athenodorus</p>
-         </note>
-         <note type="themes">
-            <p>Christianity</p>
-            <p>Philosophy</p>
-            <p>Travel</p>
-            <p>Education (sacred)</p>
-            <p>Education (secular)</p>
-            <p>Society and Culture</p>
-         </note>
-      </body>
+      <note type="related-texts"/>
+      <note type="geography">
+        <p>Pontus</p>
+      </note>
+      <note type="prosopography">
+        <p>Athenodorus</p>
+        <p>Gregory of Nazianzus</p>
+        <p>Gregory the Miracle-Worker</p>
+        <p>Origin</p>
+      </note>
+      <note type="themes">
+        <p>Christianity</p>
+        <p>Education (sacred)</p>
+        <p>Education (secular)</p>
+        <p>Philosophy</p>
+        <p>Society and Culture</p>
+        <p>Travel</p>
+      </note>
+    </body>
    </text>
 </TEI>

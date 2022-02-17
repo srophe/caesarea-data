@@ -392,28 +392,29 @@
                <citedRange unit=""/>
             </bibl>
          </listBibl>
-         <note type="related-texts">
-            <p>Procopius, Wars </p>
-            <p>Procopius, Secret History </p>
-            <p>Hesychius of Miletus</p>
-         </note>
-         <note type="geography">
-            <p>Rome</p>
-            <p>Libya</p>
-         </note>
-         <note type="prosopography">
-            <p>Procopius</p>
-            <p>Justinian, emperor</p>
-            <p>Belisarius</p>
-            <p>Theodora, empress</p>
-         </note>
-         <note type="themes">
-        <p>Roman History</p>
+      <note type="related-texts">
+        <p>Hesychius of Miletus</p>
+        <p>Procopius, Secret History</p>
+        <p>Procopius, Wars</p>
+      </note>
+      <note type="geography">
+        <p>Libya</p>
+        <p>Rome</p>
+      </note>
+      <note type="prosopography">
+        <p>Belisarius</p>
+        <p>Justinian, emperor</p>
+        <p>Procopius</p>
+        <p>Theodora, empress</p>
+      </note>
+      <note type="themes">
         <p>Christianity</p>
+        <p>Culture and Society</p>
+        <p>Government and Law</p>
         <p>Literature</p>
-        <p>Government
-               and Law</p>
-        <p>Culture and Society</p>Military</note>
-      </body>
+        <p>Military</p>
+        <p>Roman History</p>
+      </note>
+    </body>
    </text>
 </TEI>

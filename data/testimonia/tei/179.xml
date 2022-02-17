@@ -26,36 +26,28 @@
                <resp>Testimonia identified by</resp>
                <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
             </respStmt>
-        
          </titleStmt>
          <editionStmt>
             <edition n="1.0"/>
          </editionStmt>
-      
          <publicationStmt>
             <authority>Caesarea City and Port Exploration Project</authority>
-        
             <idno type="URI">https://caesarea-maritima.org/testimonia/179/tei</idno>
-        
             <availability>
                <licence target="http://creativecommons.org/licenses/by/4.0">
                   <p>Distributed under a Creative Commons Attribution 4.0 Unported License.</p>
                </licence>
-          
             </availability>
             <date>2021-06-14-05:00</date>
-        
          </publicationStmt>
          <seriesStmt>
             <title level="s" xml:lang="en">Caesarea-Maritima.org: A Digital Archive</title>
             <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
             <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#plieberman">Phillip I. Lieberman</editor>
          </seriesStmt>
-      
          <sourceDesc>
             <p>Born digital.</p>
          </sourceDesc>
-      
       </fileDesc>
       <encodingDesc>
          <editorialDecl>
@@ -66,10 +58,8 @@
             <p>Dates have been encoded following the ISO 8601 standard, <ref target="https://www.iso.org/iso-8601-date-and-time-format.html">https://www.iso.org/iso-8601-date-and-time-format.html</ref>, and the best practices established for the Srophé App, see <ref target="http://srophe.app">http://srophe.app</ref>.</p>
             <p>Languages have been encoded using ISO 639-1 (<ref target="https://www.iso.org/standard/22109.html">https://www.iso.org/standard/22109.html</ref>), 639-2 (<ref target="https://www.iso.org/standard/4767.html">https://www.iso.org/standard/4767.html</ref>), and 639-3 (<ref target="https://www.iso.org/standard/39534.html">https://www.iso.org/standard/39534.html</ref>) codes, following best practices of the TEI guidelines, see <ref target="https://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html">https://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html</ref>.</p>
          </editorialDecl>
-      
          <classDecl>
         <taxonomy xml:id="CM-NEAEH">
-          
                <desc>
                   <title>Caesarea-Maritima.org Chronology</title>: This chronology is adapted from the chronology used in <bibl>
                      <title>The New Encyclopedia of Archaeological Excavations in the Holy Land</title>
@@ -441,64 +431,58 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-         <note type="related-texts">
-            <p>
-               <hi rend="italic">Rorgo Fretellus, Description of the Holy Places 430-431</hi>
-               <hi rend="italic">Ways and Pilgrimages of the Holy Land B 1.1-1.3 </hi>
-               <hi rend="italic">Pilgrimages to Jerusalem 1-4 <hi rend="italic">Pilgrimages and
-                     Pardons of Acre 1.1</hi>
-          </hi>
-            </p>
-         </note>
-         <note type="geography">
-        <p>Jerusalem</p>
+      <note type="related-texts">
+        <p>Pilgrimages and Pardons of Acre 1.1</p>
+        <p>Pilgrimages to Jerusalem 1-4</p>
+        <p>Rorgo Fretellus, Description of the Holy Places 430-431</p>
+        <p>Ways and Pilgrimages of the Holy Land B 1.1-1.3</p>
+      </note>
+      <note type="geography">
         <p>Acre (Acco)</p>
-        <p>Cayphas (Haifa)</p>
-        <p>Carme
-               (Carmel, Mount</p>
-        <p>Ffranche ville (Freetown)</p>
-        <p>Anne (Bi’r Bayt
-               Ḥanūn)</p>
+        <p>Anne (Bi’r Bayt Ḥanūn)</p>
+        <p>Asur (Arsuf, Assur)</p>
         <p>Capharnaüm (Khirbat al-Kanīsa)</p>
+        <p>Carme (Carmel, Mount</p>
+        <p>Cayphas (Haifa)</p>
         <p>Chastieu Pelerin</p>
-        <p>St. John of
-               Tira (al Tira, Tirat al-Lawz)</p>
+        <p>Cut Rock (Roche talliée)</p>
+        <p>Ffranche ville (Freetown)</p>
+        <p>Iaphe (Iope, Ioppe, Joppa, Jaffa)</p>
+        <p>Jerusalem</p>
         <p>Lost Bread (Pan Perdu)</p>
-        <p>Asur (Arsuf,
-               Assur)</p>
-        <p>Cut Rock (Roche talliée)</p>Iaphe (Iope, Ioppe, Joppa, Jaffa)</note>
-         <note type="prosopography">
-            <p>Dionysius (Denys), pope [AD 250-268]</p>
-            <p>St. Margaret</p>
-            <p>Elijah the Prophet (St. Elias)</p>
-            <p>Mary, Mother of Jesus</p>
-            <p>Jesus Christ</p>
-            <p>Carmelites</p>
-            <p>John the Baptist</p>
-            <p>Knights Templar</p>
-            <p>Euphemia the Martyr</p>
-            <p>John Laleman, lord of Caesarea</p>
-            <p>Cornelius, early Christian at Caesarea</p>
-            <p>Peter the Apostle</p>
-            <p>Knights Hospitaller</p>
-         </note>
-         <note type="themes">
-        <p>History of Israel</p>
-        <p>Roman History</p>
-        <p>Medieval
-               History</p>
+        <p>St. John of Tira (al Tira, Tirat al-Lawz)</p>
+      </note>
+      <note type="prosopography">
+        <p>Carmelites</p>
+        <p>Cornelius, early Christian at Caesarea</p>
+        <p>Dionysius (Denys), pope [AD 250-268]</p>
+        <p>Elijah the Prophet (St. Elias)</p>
+        <p>Euphemia the Martyr</p>
+        <p>Jesus Christ</p>
+        <p>John Laleman, lord of Caesarea</p>
+        <p>John the Baptist</p>
+        <p>Knights Hospitaller</p>
+        <p>Knights Templar</p>
+        <p>Mary, Mother of Jesus</p>
+        <p>Peter the Apostle</p>
+        <p>St. Margaret</p>
+      </note>
+      <note type="themes">
+        <p>Christian Bible</p>
         <p>Christianity</p>
         <p>Crusades</p>
-        <p>Pilgrimage</p>
-        <p>Hebrew
-               Bible</p>
-        <p>Christian Bible</p>
         <p>Geography</p>
-        <p>Natural Environment</p>
-        <p>Urban
-               Topography</p>
         <p>Government and Law</p>
-        <p>Society and Culture</p>Military</note>
-      </body>
+        <p>Hebrew Bible</p>
+        <p>History of Israel</p>
+        <p>Medieval History</p>
+        <p>Military</p>
+        <p>Natural Environment</p>
+        <p>Pilgrimage</p>
+        <p>Roman History</p>
+        <p>Society and Culture</p>
+        <p>Urban Topography</p>
+      </note>
+    </body>
    </text>
 </TEI>

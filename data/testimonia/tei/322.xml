@@ -393,23 +393,25 @@
                <citedRange unit=""/>
             </bibl>
          </listBibl>
-         <note type="related-texts">
-            <p>Eusebius, Church History 6.30</p>
-         </note>
-         <note type="geography">
-            <p>Pontus</p>
-         </note>
-         <note type="prosopography">
+      <note type="related-texts">
+        <p>Eusebius, Church History 6.30</p>
+      </note>
+      <note type="geography">
+        <p>Pontus</p>
+      </note>
+      <note type="prosopography">
+        <p>Athenodorus</p>
+        <p>Gregory the Miracle-Worker</p>
         <p>Origen</p>
-        <p>Gregory the Miracle-Worker</p>Athenodorus</note>
-         <note type="themes">
-            <p>Christianity</p>
-            <p>Philosophy</p>
-            <p>Travel</p>
-            <p>Education (sacred)</p>
-            <p>Education (secular)</p>
-            <p>Society and Culture</p>
-         </note>
-      </body>
+      </note>
+      <note type="themes">
+        <p>Christianity</p>
+        <p>Education (sacred)</p>
+        <p>Education (secular)</p>
+        <p>Philosophy</p>
+        <p>Society and Culture</p>
+        <p>Travel</p>
+      </note>
+    </body>
    </text>
 </TEI>

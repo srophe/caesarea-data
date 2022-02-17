@@ -369,25 +369,26 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-         <note type="related-texts">
-            <p>John Chrysostom, Letter 87</p>
-         </note>
-         <note type="geography">
+      <note type="related-texts">
+        <p>John Chrysostom, Letter 87</p>
+      </note>
+      <note type="geography">
+        <p>Ancyra</p>
+        <p>Antioch on the Orontes</p>
+        <p>Pelusium</p>
         <p>Tarsus</p>
-        <p>Antioch on the
-            Orontes</p>
-        <p>Pelusium</p>Ancyra</note>
-         <note type="prosopography">
-            <p>Theophilus of Alexandria</p>
-            <p>Eulogius, bishop</p>
-            <p>Ammonius, bishop</p>
-         </note>
-         <note type="themes">
-            <p>Roman History</p>
-            <p>Christianity</p>
-            <p>Government and Law</p>
-            <p>Military</p>
-         </note>
-      </body>
+      </note>
+      <note type="prosopography">
+        <p>Ammonius, bishop</p>
+        <p>Eulogius, bishop</p>
+        <p>Theophilus of Alexandria</p>
+      </note>
+      <note type="themes">
+        <p>Christianity</p>
+        <p>Government and Law</p>
+        <p>Military</p>
+        <p>Roman History</p>
+      </note>
+    </body>
    </text>
 </TEI>

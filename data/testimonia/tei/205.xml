@@ -27,36 +27,28 @@
                <resp>Testimonia identified by</resp>
                <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
             </respStmt>
-        
          </titleStmt>
          <editionStmt>
             <edition n="1.0"/>
          </editionStmt>
-      
          <publicationStmt>
             <authority>Caesarea City and Port Exploration Project</authority>
-        
             <idno type="URI">https://caesarea-maritima.org/testimonia/205/tei</idno>
-        
             <availability>
                <licence target="http://creativecommons.org/licenses/by/4.0">
                   <p>Distributed under a Creative Commons Attribution 4.0 Unported License.</p>
                </licence>
-          
             </availability>
             <date>2021-06-14-05:00</date>
-        
          </publicationStmt>
          <seriesStmt>
             <title level="s" xml:lang="en">Caesarea-Maritima.org: A Digital Archive</title>
             <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
             <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#plieberman">Phillip I. Lieberman</editor>
          </seriesStmt>
-      
          <sourceDesc>
             <p>Born digital.</p>
          </sourceDesc>
-      
       </fileDesc>
       <encodingDesc>
          <editorialDecl>
@@ -67,10 +59,8 @@
             <p>Dates have been encoded following the ISO 8601 standard, <ref target="https://www.iso.org/iso-8601-date-and-time-format.html">https://www.iso.org/iso-8601-date-and-time-format.html</ref>, and the best practices established for the Srophé App, see <ref target="http://srophe.app">http://srophe.app</ref>.</p>
             <p>Languages have been encoded using ISO 639-1 (<ref target="https://www.iso.org/standard/22109.html">https://www.iso.org/standard/22109.html</ref>), 639-2 (<ref target="https://www.iso.org/standard/4767.html">https://www.iso.org/standard/4767.html</ref>), and 639-3 (<ref target="https://www.iso.org/standard/39534.html">https://www.iso.org/standard/39534.html</ref>) codes, following best practices of the TEI guidelines, see <ref target="https://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html">https://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html</ref>.</p>
          </editorialDecl>
-      
          <classDecl>
             <taxonomy xml:id="CM-NEAEH">
-          
                <desc>
                   <title>Caesarea-Maritima.org Chronology</title>: This chronology is adapted from the chronology used in <bibl>
                      <title>The New Encyclopedia of Archaeological Excavations in the Holy Land</title>
@@ -377,50 +367,46 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-         <note type="related-texts">
-            <p>
-               <hi rend="italic">Judith 1:9</hi>
-            </p>
-            <p> Exodus 1:14</p>
-            <hi rend="italic"/>
-         </note>
-         <note type="geography">
+      <note type="related-texts">
+        <p>Exodus 1:14</p>
+        <p>Judith 1:9</p>
+      </note>
+      <note type="geography">
+        <p>Accaron</p>
+        <p>Antipatris</p>
+        <p>Ascalon</p>
+        <p>Azotus (Ashdon)</p>
         <p>Cappadocia</p>
-        <p>Seleucia
-               Maritima</p>
+        <p>Carmel, Mount</p>
+        <p>Caypha (Haifa)</p>
         <p>Cyprus</p>
+        <p>Damiata (Damietta)</p>
+        <p>Dora (Dor, Tantura)</p>
+        <p>Gaza</p>
+        <p>Iamnia</p>
+        <p>Ioppe (Joppa)</p>
+        <p>Memphis</p>
+        <p>Nile River</p>
+        <p>Palestine</p>
+        <p>Seleucia Maritima</p>
         <p>Syria</p>
         <p>Tyre</p>
-        <p>Palestine</p>
-        <p>Caypha
-               (Haifa)</p>
-        <p>Carmel, Mount</p>
-        <p>Dora (Dor, Tantura)</p>
-        <p>Antipatris</p>
-        <p>Ioppe
-               (Joppa)</p>
-        <p>Iamnia</p>
-        <p>Accaron</p>
-        <p>Azotus
-               (Ashdon)</p>
-        <p>Ascalon</p>
-        <p>Gaza</p>
-        <p>Nile River</p>
-        <p>Damiata
-            (Damietta)</p>Memphis</note>
-         <note type="prosopography">
+      </note>
+      <note type="prosopography">
         <p>Israel, patriarch (Jacob)</p>
-        <p>Jeremiah</p>St.
-            Matthew</note>
-         <note type="themes">
-        <p>Crusades</p>
-        <p>Pilgrimage</p>
-        <p>Medieval History</p>
-        <p>Hebrew
-               Bible</p>
+        <p>Jeremiah</p>
+        <p>St. Matthew</p>
+      </note>
+      <note type="themes">
         <p>Christian Bible</p>
+        <p>Crusades</p>
         <p>Geography</p>
-        <p>Travel</p>Maritime Activity</note>
-      </body>
+        <p>Hebrew Bible</p>
+        <p>Maritime Activity</p>
+        <p>Medieval History</p>
+        <p>Pilgrimage</p>
+        <p>Travel</p>
+      </note>
+    </body>
    </text>
 </TEI>

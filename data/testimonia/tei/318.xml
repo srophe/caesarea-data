@@ -408,44 +408,44 @@
                <citedRange unit=""/>
             </bibl>
          </listBibl>
-         <note type="related-texts">
-            <p>Eusebius, Proof of the Gospel </p>
-            <p>Eusebius, Preparation for the Gospel </p>
-            <p>Eusebius, Theophany </p>
-            <p>Eusebius, Church History </p>
-            <p>Eusebius, Chronological Canons of Universal History and their Epitome </p>
-            <p>Eusebius, Differences between the Gospels </p>
-            <p>Eusebius, The Prophet Isaiah </p>
-            <p>Eusebius, Against  Porphyry </p>
-            <p>Eusebius, Topics </p>
-            <p>Eusebius, Apology for  Origen </p>
-            <p>Eusebius, On the Life of  Pamphilus </p>
-            <p>Eusebius, Commentary on the Psalms </p>
-            <p>Eusebius, To Stephan and Marinus </p>
-            <p>Hesychius of Miletus</p>
-         </note>
-         <note type="geography">
-            <p>Sicily</p>
-         </note>
-         <note type="prosopography">
-            <p>Eusebius</p>
-            <p>Pamphilus</p>
-            <p>Arius</p>
-            <p>Isaiah the Prophet</p>
-            <p>Porphyry</p>
-            <p>Constantine, emperor</p>
-            <p>Constantius II, emperor</p>
-         </note>
-         <note type="themes">
-            <p>Roman Government</p>
-            <p>Christianity</p>
-            <p>Christian Bible</p>
-            <p>Hebrew Bible</p>
-            <p>Education (sacred)</p>
-            <p>Culture and Society</p>
-            <p>Urban Topography</p>
-            <p>Death and Burial</p>
-         </note>
-      </body>
+      <note type="related-texts">
+        <p>Eusebius, Against Porphyry</p>
+        <p>Eusebius, Apology for Origen</p>
+        <p>Eusebius, Chronological Canons of Universal History and their Epitome</p>
+        <p>Eusebius, Church History</p>
+        <p>Eusebius, Commentary on the Psalms</p>
+        <p>Eusebius, Differences between the Gospels</p>
+        <p>Eusebius, On the Life of Pamphilus</p>
+        <p>Eusebius, Preparation for the Gospel</p>
+        <p>Eusebius, Proof of the Gospel</p>
+        <p>Eusebius, The Prophet Isaiah</p>
+        <p>Eusebius, Theophany</p>
+        <p>Eusebius, To Stephan and Marinus</p>
+        <p>Eusebius, Topics</p>
+        <p>Hesychius of Miletus</p>
+      </note>
+      <note type="geography">
+        <p>Sicily</p>
+      </note>
+      <note type="prosopography">
+        <p>Arius</p>
+        <p>Constantine, emperor</p>
+        <p>Constantius II, emperor</p>
+        <p>Eusebius</p>
+        <p>Isaiah the Prophet</p>
+        <p>Pamphilus</p>
+        <p>Porphyry</p>
+      </note>
+      <note type="themes">
+        <p>Christian Bible</p>
+        <p>Christianity</p>
+        <p>Culture and Society</p>
+        <p>Death and Burial</p>
+        <p>Education (sacred)</p>
+        <p>Hebrew Bible</p>
+        <p>Roman Government</p>
+        <p>Urban Topography</p>
+      </note>
+    </body>
    </text>
 </TEI>

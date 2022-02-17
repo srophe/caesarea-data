@@ -377,28 +377,28 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-         <note type="related-texts">
-            <p>Eusebius, Church History 6.8.4-5</p>
-            <p>Eusebius, Church History 6.23.4-5</p>
-            <p>Jerome, Apology against Rufinus 2.18</p>
-            <p>Photius, Library 118.34-42</p>
-         </note>
-         <note type="geography">
-            <p>Alexandria</p>
-            <p>Egypt</p>
-         </note>
-         <note type="prosopography">
-            <p>Origen</p>
-            <p>Jesus Christ</p>
-            <p>John the Evangelist</p>
-            <p>Dionysius, Bishop of Alexandria</p>
-         </note>
-         <note type="themes">
-            <p>Christianity</p>
-            <p>Christian Bible</p>
-            <p>Education (sacred)</p>
-            <p>Society and Culture</p>
-         </note>
-      </body>
+      <note type="related-texts">
+        <p>Eusebius, Church History 6.23.4-5</p>
+        <p>Eusebius, Church History 6.8.4-5</p>
+        <p>Jerome, Apology against Rufinus 2.18</p>
+        <p>Photius, Library 118.34-42</p>
+      </note>
+      <note type="geography">
+        <p>Alexandria</p>
+        <p>Egypt</p>
+      </note>
+      <note type="prosopography">
+        <p>Dionysius, Bishop of Alexandria</p>
+        <p>Jesus Christ</p>
+        <p>John the Evangelist</p>
+        <p>Origen</p>
+      </note>
+      <note type="themes">
+        <p>Christian Bible</p>
+        <p>Christianity</p>
+        <p>Education (sacred)</p>
+        <p>Society and Culture</p>
+      </note>
+    </body>
    </text>
 </TEI>

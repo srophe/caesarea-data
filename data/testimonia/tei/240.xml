@@ -27,36 +27,28 @@
           <resp>Testimonia identified by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
-        
       </titleStmt>
       <editionStmt>
         <edition n="1.0"/>
       </editionStmt>
-      
       <publicationStmt>
         <authority>Caesarea City and Port Exploration Project</authority>
-        
         <idno type="URI">https://caesarea-maritima.org/testimonia/240/tei</idno>
-        
         <availability>
           <licence target="http://creativecommons.org/licenses/by/4.0">
             <p>Distributed under a Creative Commons Attribution 4.0 Unported License.</p>
           </licence>
-          
         </availability>
         <date>2021-06-14-05:00</date>
-        
       </publicationStmt>
       <seriesStmt>
         <title level="s" xml:lang="en">Caesarea-Maritima.org: A Digital Archive</title>
         <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
         <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#plieberman">Phillip I. Lieberman</editor>
       </seriesStmt>
-      
       <sourceDesc>
         <p>Born digital.</p>
       </sourceDesc>
-      
     </fileDesc>
     <encodingDesc>
       <editorialDecl>
@@ -67,10 +59,8 @@
         <p>Dates have been encoded following the ISO 8601 standard, <ref target="https://www.iso.org/iso-8601-date-and-time-format.html">https://www.iso.org/iso-8601-date-and-time-format.html</ref>, and the best practices established for the Srophé App, see <ref target="http://srophe.app">http://srophe.app</ref>.</p>
         <p>Languages have been encoded using ISO 639-1 (<ref target="https://www.iso.org/standard/22109.html">https://www.iso.org/standard/22109.html</ref>), 639-2 (<ref target="https://www.iso.org/standard/4767.html">https://www.iso.org/standard/4767.html</ref>), and 639-3 (<ref target="https://www.iso.org/standard/39534.html">https://www.iso.org/standard/39534.html</ref>) codes, following best practices of the TEI guidelines, see <ref target="https://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html">https://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html</ref>.</p>
       </editorialDecl>
-      
       <classDecl>
         <taxonomy xml:id="CM-NEAEH">
-          
           <desc>
             <title>Caesarea-Maritima.org Chronology</title>: This chronology is adapted from the chronology used in<bibl>
               <title>The New Encyclopedia of Archaeological Excavations in the Holy Land</title>
@@ -403,45 +393,46 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-      <note type="related-texts"/>
+    <note type="related-texts"/>
       <note type="geography">
-        <p>Jerusalem</p>
-        <p>Jaffa</p>
-        <p>Ascalon</p>
-        <p>Rama</p>
-        <p>Mirabel</p>
-        <p>Ibelin</p>
-        <p>Galilee</p>
-        <p>Mount Royal</p>
-        <p>Joscelin</p>
-        <p>Nablus</p>
         <p>Acre</p>
-        <p>Tyre</p>
-        <p>Josaphat</p>
-        <p>Syon, Mount</p>
-        <p>Latina</p>
-        <p>Tabarie</p>
-        <p>Tabor, Mount</p>
-        <p>Bethlehem</p>
         <p>Arsur</p>
-        <p>Sabadoit</p>
-        <p>Nazareth</p>
-        <p>Sidon</p>
+        <p>Ascalon</p>
+        <p>Bethlehem</p>
+        <p>Cayphas</p>
+        <p>Galilee</p>
+        <p>Ibelin</p>
+        <p>Jaffa</p>
+        <p>Jerusalem</p>
+        <p>Josaphat</p>
+        <p>Joscelin</p>
+        <p>Latina</p>
         <p>Leluon</p>
         <p>Leyrim</p>
-        <p>Cayphas</p>
+        <p>Mirabel</p>
+        <p>Mount Royal</p>
+        <p>Nablus</p>
+        <p>Nazareth</p>
+        <p>Rama</p>
+        <p>Sabadoit</p>
+        <p>Sidon</p>
+        <p>Syon, Mount</p>
         <p>Tabaria</p>
+        <p>Tabarie</p>
+        <p>Tabor, Mount</p>
+        <p>Tyre</p>
       </note>
       <note type="prosopography">
-        <p>St. George</p>
         <p>St. Abraham</p>
+        <p>St. George</p>
       </note>
       <note type="themes">
         <p>Crusades</p>
-        <p>Medieval History</p>
         <p>Geography</p>
-        <p>Government and
-               Law</p>Military</note>
+        <p>Government and Law</p>
+        <p>Medieval History</p>
+        <p>Military</p>
+      </note>
     </body>
   </text>
 </TEI>
