@@ -331,12 +331,12 @@
          <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib327-1">
-          <ptr target="https://caesarea-maritima.org/bibl/LPSE3UYU/"/>
+          <ptr target="https://caesarea-maritima.org/bibl/LPSE3UYU"/>
           <citedRange unit="section">16</citedRange>
           <citedRange unit="line">63-92</citedRange>
         </bibl>
         <bibl xml:id="bib327-2">
-          <ptr target="https://caesarea-maritima.org/bibl/RTCA5XRS/"/>
+          <ptr target="https://caesarea-maritima.org/bibl/RTCA5XRS"/>
           <citedRange unit="p"/>
           <citedRange unit=""/>
         </bibl>

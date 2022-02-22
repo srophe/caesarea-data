@@ -338,7 +338,7 @@
           <citedRange unit="col">422a-423a</citedRange>
         </bibl>
         <bibl xml:id="bib346-2">
-          <ptr target="https://caesarea-maritima.org/bibl/TJ39ZZJT/"/>
+          <ptr target="https://caesarea-maritima.org/bibl/TJ39ZZJT"/>
           <citedRange unit="p"/>
           <citedRange unit="ch"/>
         </bibl>
@@ -351,12 +351,12 @@
           <citedRange unit=""/>
         </bibl>
         <bibl>
-          <ptr target="https://caesarea-maritima.org/bibl/NXXZDS3J/"/>
+          <ptr target="https://caesarea-maritima.org/bibl/NXXZDS3J"/>
           <citedRange unit=""/>
           <citedRange unit=""/>
         </bibl>
         <bibl>
-          <ptr target="https://caesarea-maritima.org/bibl/TXEGX8UE/"/>
+          <ptr target="https://caesarea-maritima.org/bibl/TXEGX8UE"/>
           <citedRange unit="p">243-258</citedRange>
           <citedRange unit=""/>
         </bibl>

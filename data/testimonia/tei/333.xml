@@ -313,7 +313,7 @@
           <citedRange unit="ch">4-6</citedRange>
         </bibl>
         <bibl xml:id="bib333-2">
-          <ptr target="https://caesarea-maritima.org/bibl/4KIJIT36/"/>
+          <ptr target="https://caesarea-maritima.org/bibl/4KIJIT36"/>
           <citedRange unit="section"/>
           <citedRange unit="p"/>
         </bibl>

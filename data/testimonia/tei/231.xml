@@ -327,7 +327,7 @@
           <citedRange unit="p">158-159</citedRange>
         </bibl>
         <bibl xml:id="bib231-2">
-          <ptr target="https://caesarea-maritima.org/bibl/"/>
+          <ptr target="https://caesarea-maritima.org/bibl"/>
           <citedRange unit="bk">4.7c</citedRange>
           <citedRange unit="p">207</citedRange>
         </bibl>

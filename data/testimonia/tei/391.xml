@@ -327,12 +327,12 @@
          <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib391-1">
-          <ptr target="https://caesarea-maritima.org/bibl/9NB5UAKS/"/>
+          <ptr target="https://caesarea-maritima.org/bibl/9NB5UAKS"/>
           <citedRange unit="col">905C-908D</citedRange>
           <citedRange unit="section"/>
         </bibl>
         <bibl xml:id="bib391-2">
-          <ptr target="https://caesarea-maritima.org/bibl/QJPCTU2D/"/>
+          <ptr target="https://caesarea-maritima.org/bibl/QJPCTU2D"/>
           <citedRange unit="ch">21-23</citedRange>
           <citedRange unit="p">50</citedRange>
         </bibl>
@@ -340,7 +340,7 @@
          <listBibl>
         <head>Additional Bibliography</head>
         <bibl>
-          <ptr target="https://caesarea-maritima.org/bibl/MK5BEX6L/"/>
+          <ptr target="https://caesarea-maritima.org/bibl/MK5BEX6L"/>
           <citedRange unit=""/>
           <citedRange unit=""/>
         </bibl>
