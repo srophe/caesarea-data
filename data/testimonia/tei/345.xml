@@ -280,7 +280,6 @@
             detineri, quae virginitatis fulserant claritate.<note type="textual">Ed. Migne 1883</note>
         <note type="discussion">Minor corr. J. L.
                Rife</note>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target="https://archive.org/details/patrologiaecurs01goog/page/n144/mode/2up"/>
       </ab>
@@ -296,8 +295,6 @@
             virgins, were reported to have prophesied even after John. For the girls who flashed
             with the brightness of virginity could not be held back by the Law of the Old
                Testament.<note type="translation">Adapted from Fremantle 1893</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target="https://ccel.org/ccel/schaff/npnf206/npnf206.vi.vi.I.html"/>
       </ab>
@@ -311,50 +308,12 @@
         <bibl xml:id="bib345-2">
           <ptr target="https://caesarea-maritima.org/bibl/4KIJIT36"/>
           <citedRange unit="p">376-377</citedRange>
-          <citedRange unit="ch"/>
         </bibl>
       </listBibl>
       <listBibl>
         <head>Additional Bibliography</head>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/MUU4ALR4"/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

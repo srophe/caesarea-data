@@ -295,8 +295,6 @@
             ζητεῖν τοὺς πεποιηκότας τὸν φόνον, καὶ εὑρὼν τοὺς μὲν ἐφούρκισε, τοὺς δὲ ἀπεκεφάλισεν,
             ἑτέρους δὲ ἐχειροκόπησε, τοὺς δὲ ἐδήμευσε· καὶ ἐγένετο φόβος μέγας ἐν<placeName>Καισαρείᾳ τῆς Παλαιστίνης</placeName>.<note type="textual">Ed. de Boor
                1905</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref/>
       </ab>
@@ -314,8 +312,6 @@
             searching for those who had committed the murders. When he found them, he hanged some,
             beheaded others, cut off the right hands of others, and confiscated the property of
             others. And there was great fear in<placeName>Caesarea of Palestine</placeName>.<note type="translation">Trans. J. L. Rife</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -325,54 +321,6 @@
           <ptr target="https://caesarea-maritima.org/bibl/6PJ9W9WZ"/>
           <citedRange unit="p">173.13-29</citedRange>
           <citedRange unit="bk">3.48</citedRange>
-        </bibl>
-        <bibl xml:id="bib218-2">
-          <ptr target=""/>
-          <citedRange unit="p"/>
-          <citedRange unit="section"/>
-        </bibl>
-      </listBibl>
-      <listBibl>
-        <head>Additional Bibliography</head>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

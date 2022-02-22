@@ -278,8 +278,6 @@
         <anchor xml:id="testimonia-282.la.1" corresp="testimonia-282.en.1"/>Preterea iste civitates sunt, que non habent episcopos: Scalona, que est
             sub episcopo Bethlehemitano; Ioppen, que est sub canonicis Dominici Sepulcri; Neapolis,
             que est sub Abbate Templi, Caifa sub Archepiscopo<placeName>Cesariense</placeName>.<note type="textual">Ed. Neumann 1866</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref/>
       </ab>
@@ -288,8 +286,6 @@
             Ascalon, which is subject to the Bishop of Bethlehem; Ioppe, which is subject to the
             canons of the Lord’s Sepulcher; Neapolis, which is subject to the Abbot of the Temple;
             and Caifa, subject to the Archbishop of<placeName>Caesarea</placeName>.<note type="translation">Adapted from Stewart 1894</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -298,55 +294,11 @@
         <bibl xml:id="bib282-1">
           <ptr target="https://caesarea-maritima.org/bibl/H3E7SNZV"/>
           <citedRange unit="p">271</citedRange>
-          <citedRange unit="p"/>
         </bibl>
         <bibl xml:id="bib282-2">
           <ptr target="https://caesarea-maritima.org/bibl/XFZD5DB4"/>
           <citedRange unit="p">32</citedRange>
           <citedRange unit="section">2.16</citedRange>
-        </bibl>
-      </listBibl>
-      <listBibl>
-        <head>Additional Bibliography</head>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

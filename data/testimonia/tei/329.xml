@@ -298,8 +298,6 @@
             ἐὰν ἐθέλωμεν.<note type="textual">Ed. Bartelink 1974</note>
         <note type="textual">Minor
                corr. J. L. Rife (extended direct quotation)</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -314,8 +312,6 @@
             the virtuous acts of these women as part of my plan, that we may know that it is
             possible to gain excellence in many ways, if we desire.<note type="translation">Rev.
                Clarke 1918</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target="https://archive.org/details/lausiachistoryof002802mbp/page/n173/mode/2up"/>
       </ab>
@@ -324,12 +320,10 @@
         <bibl xml:id="bib329-1">
           <ptr target="https://caesarea-maritima.org/bibl/Y6G5L3X3"/>
           <citedRange unit="ch">64</citedRange>
-          <citedRange unit="section"/>
         </bibl>
         <bibl xml:id="bib329-2">
           <ptr target="https://caesarea-maritima.org/bibl/5MAJXY7B"/>
           <citedRange unit="p">171</citedRange>
-          <citedRange unit=""/>
         </bibl>
       </listBibl>
          <listBibl>
@@ -337,42 +331,10 @@
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/76GRS3Q6"/>
           <citedRange unit="p">19-20</citedRange>
-          <citedRange unit=""/>
         </bibl>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/J4B3ATLY"/>
           <citedRange unit="p">16-17</citedRange>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
         </bibl>
       </listBibl>
       <note type="related-texts">

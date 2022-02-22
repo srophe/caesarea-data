@@ -291,8 +291,6 @@
             eminentem, similiter et Laodiciam et Tyrum et Berytum et<placeName>Caesaream</placeName>. Et Laodicia mittit aliis civitatibus agitatores
             optimos, Tyrus et Berytus mimarios,<placeName>Caesarea</placeName>pantomimos,
             Heliopolis choraulas, Gaza pammacarios, Ascalon athletas luctatores, Castabala pyctas.<note type="textual">Ed. Rougé 1966</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref/>
       </ab>
@@ -320,7 +318,6 @@
                of vocal expression. Latin calopecta (A) transliterating Greek καλοπαίκτης refers to
                an acrobat. Latin pycta (B) transliterating Greek παίκτης refers generically to a
                performer or “player.”</note>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -329,55 +326,6 @@
         <bibl xml:id="bib227-1">
           <ptr target="https://caesarea-maritima.org/bibl/7WH68SGE"/>
           <citedRange unit="ch">32</citedRange>
-          <citedRange unit="p"/>
-        </bibl>
-        <bibl xml:id="bib227-2">
-          <ptr target=""/>
-          <citedRange unit="section"/>
-          <citedRange unit="p"/>
-        </bibl>
-      </listBibl>
-      <listBibl>
-        <head>Additional Bibliography</head>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

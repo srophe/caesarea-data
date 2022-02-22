@@ -283,8 +283,6 @@
             ἑβραϊκῶν σελίδας ἄντικρυ ἐκ παραλλήλου μιᾶς ἑρμηνείας πρὸς τὴν ἑτέραν συνέθηκεν ἑξαπλᾶ
             τὰς βίβλους ὀνομάσας, καθ’ ἅπερ ἄνω διὰ πλάτους εἴρηται.<note type="textual">Ed.
                Moutsoulas 1973</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -301,8 +299,6 @@
             columns of Hebrew (text), one translation facing opposite the other, calling the books
             Hexapla, just as has been fully related above.<note type="translation">Trans. J. L.
                Rife</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -312,54 +308,6 @@
           <ptr target="https://caesarea-maritima.org/bibl/GXY2A3TP"/>
           <citedRange unit="ch">18.506-518</citedRange>
           <citedRange unit="p">180-181</citedRange>
-        </bibl>
-        <bibl xml:id="bib338-2">
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-      </listBibl>
-         <listBibl>
-        <head>Additional Bibliography</head>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
         </bibl>
       </listBibl>
       <note type="related-texts">

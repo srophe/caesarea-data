@@ -296,8 +296,6 @@
             portum Ionae et—ut aliquid perstringam de fabulis poetarum—religatae ad saxum Andromedae
             spectatricem, repetitoque itinere Nicopolim, quae prius Emmaus vocabatur, apud quam in
             fractione panis cognitus dominus Cleopae domum in ecclesiam dedicavit.<note type="textual">Ed. Hilberg and Slovak 1996</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref/>
       </ab>
@@ -322,8 +320,6 @@
             something from the tales of poets—saw Andromeda bound to the rock. Again resuming her
             journey she came to Nicopolis, once called Emmaus, where the Lord, recognized in the
             breaking of bread, dedicated the house of Cleopas as a church.<note type="translation">Adapted from Fremantle 1893</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target="https://ccel.org/ccel/schaff/npnf206/npnf206.v.CVIII.html"/>
       </ab>
@@ -337,50 +333,6 @@
         <bibl xml:id="bib61-2">
           <ptr target="https://caesarea-maritima.org/bibl/4KIJIT36"/>
           <citedRange unit="p">198</citedRange>
-          <citedRange unit="ch"/>
-        </bibl>
-      </listBibl>
-         <listBibl>
-        <head>Additional Bibliography</head>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
         </bibl>
       </listBibl>
       <note type="related-texts">

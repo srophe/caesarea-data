@@ -279,8 +279,6 @@
             σπουδῆς τὴν θείαν ἄσκησιν ἀντικαταλλάξασθαι προετρέψατο. πέντε δὲ ὅλοις ἔτεσιν αὐτῷ
             συγγενόμενοι τοσαύτην ἀπηνέγκαντο περὶ τὰ θεῖα βελτίωσιν, ὡς ἔτι νέους ἄμφω ἐπισκοπῆς
             τῶν κατὰ Πόντον ἐκκλησιῶν ἀξιωθῆναι.<note type="textual">Ed. Adler 1933</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN">https://archive.org/details/adler-a.-suidae-lexicon-3
                ./Adler%20A.%2C%20Suidae%20Lexicon%203%20%28%CE%9A-%CE%9F.%20%CE%A9%29/page/n315/mode/2up</idno>
       </ab>
@@ -296,8 +294,6 @@
             still young, both were considered deserving of the episcopate over the Pontic
                churches.<note type="translation">Adapted from SOL (trans. P. Little et al.,
                2000-)</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target="https://www.cs.uky.edu/~raphael/sol/sol-entries/omega/182"/>
       </ab>
@@ -312,88 +308,8 @@
          <listBibl>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/753625E4"/>
-          <citedRange unit="p"/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
         </bibl>
       </listBibl>
-         <listBibl>
-            <head>Additional Bibliography</head>
-            <bibl>
-               <ptr target=""/>
-               <citedRange unit=""/>
-               <citedRange unit=""/>
-            </bibl>
-            <bibl>
-               <ptr target=""/>
-               <citedRange unit=""/>
-               <citedRange unit=""/>
-            </bibl>
-            <bibl>
-               <ptr target=""/>
-               <citedRange unit=""/>
-               <citedRange unit=""/>
-            </bibl>
-            <bibl>
-               <ptr target=""/>
-               <citedRange unit=""/>
-               <citedRange unit=""/>
-            </bibl>
-            <bibl>
-               <ptr target=""/>
-               <citedRange unit=""/>
-               <citedRange unit=""/>
-            </bibl>
-            <bibl>
-               <ptr target=""/>
-               <citedRange unit=""/>
-               <citedRange unit=""/>
-            </bibl>
-            <bibl>
-               <ptr target=""/>
-               <citedRange unit=""/>
-               <citedRange unit=""/>
-            </bibl>
-            <bibl>
-               <ptr target=""/>
-               <citedRange unit=""/>
-               <citedRange unit=""/>
-            </bibl>
-         </listBibl>
       <note type="related-texts">
         <p>Eusebius, Church History 6.30</p>
       </note>

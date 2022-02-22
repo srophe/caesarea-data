@@ -265,15 +265,12 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/185</idno>
       </ab>
       <desc type="abstract" xml:id="abstract185-1">Caesarea Maritima is indirectly attested in <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg003" type="uniform" level="m">Martyrs of Palestine</title> 1.3. This testimonium was written circa <origDate period="#lateRoman" notBefore="0315" notAfter="0316">315 – 316 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
-      <desc type="context"/>
       <ab type="edition" xml:lang="grc" xml:id="quote185-1" source="#bib185-1">
-        <anchor xml:id="testimonia-185.grc.1" corresp="testimonia-185.en.1"/>μετὰ δὲ τοῦτο ἐπὶ <placeName xml:lang="grc">τῆς αὐτῆς πόλεως</placeName> πλεῖστοι ὅσοι τῶν ἐπιχωρίων ἐκκλησιῶν ἄρχοντες, δειναῖς αἰκίαις προθύμως διαθλήσαντες, μεγάλων ἀγώνων ἱστορίαν τοῖς ἐνορῶσιν ἐνεδείξαντο, ἄλλοι δὲ ὑπὸ δειλίας τὴν ψυχὴν προναρκήσαντες προχείρως οὕτως ἀπὸ πρώτης ἐξησθένησαν προσβολῆς, τῶν δὲ λοιπῶν ἕκαστος εἴδη διάφορα βασάνων διήλλαττον, τοτὲ μὲν μάστιξιν ἀνηρίθμοις, τοτὲ δὲ στρεβλώσεσι καὶ καταξάνσεσι τῶν πλευρῶν δεσμοῖς τε ἀνυπομονήτοις, ὑφ’ ὧν τισὶ καὶ παρεθῆναι συνέβη τὰς χεῖρας. <note type="textual"/> <note type="discussion"/> <note type="corrigenda"/> <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg003.opp-grc1:1.3</idno>
+        <anchor xml:id="testimonia-185.grc.1" corresp="testimonia-185.en.1"/>μετὰ δὲ τοῦτο ἐπὶ <placeName xml:lang="grc">τῆς αὐτῆς πόλεως</placeName> πλεῖστοι ὅσοι τῶν ἐπιχωρίων ἐκκλησιῶν ἄρχοντες, δειναῖς αἰκίαις προθύμως διαθλήσαντες, μεγάλων ἀγώνων ἱστορίαν τοῖς ἐνορῶσιν ἐνεδείξαντο, ἄλλοι δὲ ὑπὸ δειλίας τὴν ψυχὴν προναρκήσαντες προχείρως οὕτως ἀπὸ πρώτης ἐξησθένησαν προσβολῆς, τῶν δὲ λοιπῶν ἕκαστος εἴδη διάφορα βασάνων διήλλαττον, τοτὲ μὲν μάστιξιν ἀνηρίθμοις, τοτὲ δὲ στρεβλώσεσι καὶ καταξάνσεσι τῶν πλευρῶν δεσμοῖς τε ἀνυπομονήτοις, ὑφ’ ὧν τισὶ καὶ παρεθῆναι συνέβη τὰς χεῖρας.    <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg003.opp-grc1:1.3</idno>
         <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2018.tlg003.opp-grc1:1.3"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote185-2" source="#bib185-2">
-        <anchor xml:id="testimonia-185.en.1" corresp="testimonia-185.grc.1"/>Afterwards, <placeName xml:lang="en">in the same city,</placeName> many rulers of the country churches readily endured terrible sufferings, and furnished to the beholders an example of noble conflicts. But others, benumbed in spirit by terror, were easily weakened at the first onset. Of the rest, each one endured different forms of torture, as scourgings without number, and rackings, and tearings of their sides, and insupportable fetters, by which the hands of some were dislocated.<note type="translation"/>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
+        <anchor xml:id="testimonia-185.en.1" corresp="testimonia-185.grc.1"/>Afterwards, <placeName xml:lang="en">in the same city,</placeName> many rulers of the country churches readily endured terrible sufferings, and furnished to the beholders an example of noble conflicts. But others, benumbed in spirit by terror, were easily weakened at the first onset. Of the rest, each one endured different forms of torture, as scourgings without number, and rackings, and tearings of their sides, and insupportable fetters, by which the hands of some were dislocated.
         <idno type="CTS-URN"/>
         <ref target="https://ccel.org/ccel/schaff/npnf201/npnf201.iii.xiv.ii.html"/>
       </ab>
@@ -297,36 +294,6 @@
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/BTVVYMAC"/>
           <citedRange unit="section">1.3</citedRange>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

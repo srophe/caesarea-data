@@ -283,8 +283,6 @@
             τρόπον ἐμηχανήσατο· πάντας λόγους στρέφων καὶ πάντα κάλων (τοῦτο δὴ τὸ τοῦ λόγου) κινῶν
             καὶ πάσας τὰς δυνάμεις αὐτοῦ προχειριζόμενος … <note type="textual">Ed. Crouzel
                1969</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -297,8 +295,6 @@
             in every way to tie us to him, contriving all kinds of arguments and moving all the
             ropes (as the saying goes) and applying all his powers …<note type="translation">Adapted
                from Salmond 1886</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target="https://ccel.org/ccel/schaff/anf06/anf06.iii.iii.iv.vi.html"/>
       </ab>
@@ -311,51 +307,6 @@
         </bibl>
         <bibl xml:id="bib326-2">
           <ptr target="https://caesarea-maritima.org/bibl/RTCA5XRS"/>
-          <citedRange unit="p"/>
-          <citedRange unit=""/>
-        </bibl>
-      </listBibl>
-         <listBibl>
-        <head>Additional Bibliography</head>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
         </bibl>
       </listBibl>
       <note type="related-texts"/>

@@ -276,8 +276,6 @@
       <ab type="edition" xml:lang="la" xml:id="quote261-1" source="#bib261-1">
         <anchor xml:id="testimonia-261.la.1" corresp="testimonia-261.en.1"/>Caesaream Mauretaniae oppidum Iuba rex Maurorum in honorem Caesaris
             Augusti condidit, quam ex eius nomine Caesaream appellavit; sicut Herodes aliam<placeName>Caesaream</placeName>in Palaestina, quae nunc urbs est clarissima.<note type="textual">Ed. Lindsay 1911</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref/>
       </ab>
@@ -286,8 +284,6 @@
             honor of Caesar Augustus, and called it Caesarea from his name, just as Herod (did in
             the case of) another<placeName>Caesarea</placeName>, in Palestine, which is now a most
             famous city.<note type="translation">Trans. J. L. Rife</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -298,53 +294,14 @@
           <citedRange unit="bk">5</citedRange>
           <citedRange unit="ch">1.75</citedRange>
         </bibl>
-        <bibl xml:id="bib261-2">
-          <ptr target=""/>
-          <citedRange unit="section"/>
-          <citedRange unit="p"/>
-        </bibl>
       </listBibl>
       <listBibl>
         <head>Additional Bibliography</head>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/4ZNQT2QD"/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
         </bibl>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/AQ6CUTBN"/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

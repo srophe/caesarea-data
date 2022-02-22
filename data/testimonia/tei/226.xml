@@ -291,8 +291,6 @@
             Palestina regione, in loco qui dicitur Hiericho; similiter et Damasco minores palmulas
             sed utiles et pistacium et omne genus pomorum.<note type="textual">Ed. Rougé
                1966</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref/>
       </ab>
@@ -318,7 +316,6 @@
                industrial-commercial connotation in descriptions of porphry dye that means pure,
                deep, and/or consistent in color, and it implies higher cost (Rougé 1966, p. 252 n.
                10; and see under Related Texts).</note>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -327,55 +324,6 @@
         <bibl xml:id="bib226-1">
           <ptr target="https://caesarea-maritima.org/bibl/7WH68SGE"/>
           <citedRange unit="ch">31</citedRange>
-          <citedRange unit="p"/>
-        </bibl>
-        <bibl xml:id="bib226-2">
-          <ptr target=""/>
-          <citedRange unit="section"/>
-          <citedRange unit="p"/>
-        </bibl>
-      </listBibl>
-      <listBibl>
-        <head>Additional Bibliography</head>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

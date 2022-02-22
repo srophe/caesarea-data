@@ -275,8 +275,6 @@
       <ab type="edition" xml:lang="grc" xml:id="quote264-1" source="#bib264-1">
         <anchor xml:id="testimonia-264.grc.1" corresp="testimonia-264.en.1"/>Εὐσεβίῳ δὲ τῷ Παμφίλου βίβλους ἱερὰς κατασκευάσαι ὁ βασιλεὺς προσέταξε
             λόγῳ τῶν ἐκκλησιῶν Κωνσταντινουπόλεως παρασχὼν αὐτῷ καὶ δημόσια χρήματα.<note type="textual">Ed. de Boor 1883</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -285,8 +283,6 @@
             Sacred Books for use in the churches of Constantinople, for which he supplied him with
             public money.<note type="translation">Trans. Mango, Scott, and Greatrex
                1997</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -295,55 +291,10 @@
         <bibl xml:id="bib264-1">
           <ptr target="https://caesarea-maritima.org/bibl/WCGZNHGV"/>
           <citedRange unit="p">27.18-20</citedRange>
-          <citedRange unit="p"/>
         </bibl>
         <bibl xml:id="bib264-2">
           <ptr target="https://caesarea-maritima.org/bibl/9634RWJV"/>
           <citedRange unit="p">43</citedRange>
-          <citedRange unit="p"/>
-        </bibl>
-      </listBibl>
-      <listBibl>
-        <head>Additional Bibliography</head>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

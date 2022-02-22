@@ -299,8 +299,6 @@
             ἀποδέδειχεν. <note type="textual">Ed. Gressmann 1904</note>
         <note type="textual">Checked
                against Gressmand and Laminski 1992</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN">urn.cts:greekLit:tlg2018.tlg010.opp-grc1:6</idno>
         <ref target="https://scaife.perseus.org/reader/urn:cts:greekLit:tlg2018.tlg010.opp-grc1:6"/>
       </ab>
@@ -323,8 +321,6 @@
             Italy and all neighboring nations, he appointed his student Mark to be teacher and
             netcaster in Egypt.<note type="translation">Trans. J. L. Rife with ref. to Lee
                1843</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target="http://www.tertullian.org/fathers/eusebius_theophania_05book4.htm"/>
       </ab>
@@ -333,55 +329,15 @@
         <bibl xml:id="bib91-1">
           <ptr target="https://caesarea-maritima.org/bibl/6FG4R8RX"/>
           <citedRange unit="p">19.32-20.19</citedRange>
-          <citedRange unit="p"/>
         </bibl>
         <bibl xml:id="bib91-2">
           <ptr target="https://caesarea-maritima.org/bibl/CUCN3BKF"/>
-          <citedRange unit="p"/>
-          <citedRange unit="section"/>
         </bibl>
       </listBibl>
          <listBibl>
         <head>Additional Bibliography</head>
         <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/8TWF4D28"/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
         </bibl>
       </listBibl>
       <note type="related-texts">

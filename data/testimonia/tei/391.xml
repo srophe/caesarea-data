@@ -296,8 +296,6 @@
                ἐνεπορεύσατο.<note type="textual">Ed. Migne 1863</note>
         <note type="textual">Rev. Heil
                1990</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -320,8 +318,6 @@
             knowledge, which he imported like a merchant in all world pursuits who conducts business
             with a celebrated clientele.<note type="translation">Adapted from Slusser
                1998</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref/>
       </ab>
@@ -330,7 +326,6 @@
         <bibl xml:id="bib391-1">
           <ptr target="https://caesarea-maritima.org/bibl/9NB5UAKS"/>
           <citedRange unit="col">905C-908D</citedRange>
-          <citedRange unit="section"/>
         </bibl>
         <bibl xml:id="bib391-2">
           <ptr target="https://caesarea-maritima.org/bibl/QJPCTU2D"/>
@@ -342,43 +337,6 @@
         <head>Additional Bibliography</head>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/MK5BEX6L"/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
         </bibl>
       </listBibl>
       <note type="related-texts">

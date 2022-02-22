@@ -270,18 +270,13 @@
         </quote>, and <quote>
           <placeName xml:lang="en">Bishop of Caesarea in Palestine</placeName>
         </quote> are place names attested in <persName ref="https://viaf.org/viaf/6200152139996611100009" role="author">Photius</persName>'s <title ref="" type="uniform" level="m">Bibliotheca</title> 89. This testimonium was written circa <origDate period="#earlyIslamic" notBefore="0820" notAfter="0891">820 – 891 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
-      <desc type="context"/>
       <ab type="edition" xml:lang="Greek" xml:id="quote147-1" source="#bib147-1">
-        <anchor xml:id="testimonia-147.Greek.1" corresp="testimonia-147.en.1"/>"Η δε λοιπή βίβλος επιγραφήν μεν έχει τοιαύτην "προοίμιον επισκόπε <placeName xml:lang="Greek">Καισαρείας Παλαιστίνης</placeName> εις τα μετά την εκκλησιαστικήν ιστορίαν Ευσεβία τό Παμφίλε;" άρχεται δε έτω "τές μέν άλλους επί το συγγράφειν ώρμημένες και των γενομένων τάς ιστορίας τη μνήμη παραπέμπειν εγνωκότας" και εξής, λέγει δε αυτόν ανεψιόν προς μητρός Κυρίλλε το Ιεροσολύμων, και υπ' εκείνε πρoτραπήναι εις τήνδε την συγγραφήν, ημείς δε εύρομεν ανεγνωκότες εν άλλοις ότι αυτός τε Κύριλλος και Γελάσιος έτος την Ρεφίνε το Ρωμαίου μετέφρασαν ιστορίαν εις την Ελλάδα γλώσσαν, ε μέντοι ότι ιδίαν συνετάξαντο ιστορίαν, δήλον δ' ώς αρχαιότερος ήν έτος το προειρημένε, είγε κατά Κύριλλον ήκμασε τον Ιεροσολύμων, αλλ' έτος μεν ο Γελάσιος εκείνε και τη φράσει επί το λογιώτερον διαφέρει, εκάτερος μέντοι αυτών πολύ τό κατά Ανομοίων συγγεγραφότος ενδεέστερος υπάρχει επίσκοπος δ' άρα κακείνος της αυτής επιγράφεθ Παλαιστίνης, αλλ' εκείνός γε ο Γελάσιος τή τε φράσει και τη πολυμαθία και ταις λογικαίς εφόδοις, αίς ουκ οίδ" όπως ειπείν και απειροκάλως κατεχρήσατο, παρά πολύ τότες την εν τοις λόγοις ελάττονα τάξιν επέχειν απελαύνει, ει δέ τις τέτων αυτός εστιν ο γράψας, και ταύτα χρόνω συλλέξας και συναυξήσας τα λείποντα, έπω μαθειν έχον. "<note type="textual"/>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
+        <anchor xml:id="testimonia-147.Greek.1" corresp="testimonia-147.en.1"/>"Η δε λοιπή βίβλος επιγραφήν μεν έχει τοιαύτην "προοίμιον επισκόπε <placeName xml:lang="Greek">Καισαρείας Παλαιστίνης</placeName> εις τα μετά την εκκλησιαστικήν ιστορίαν Ευσεβία τό Παμφίλε;" άρχεται δε έτω "τές μέν άλλους επί το συγγράφειν ώρμημένες και των γενομένων τάς ιστορίας τη μνήμη παραπέμπειν εγνωκότας" και εξής, λέγει δε αυτόν ανεψιόν προς μητρός Κυρίλλε το Ιεροσολύμων, και υπ' εκείνε πρoτραπήναι εις τήνδε την συγγραφήν, ημείς δε εύρομεν ανεγνωκότες εν άλλοις ότι αυτός τε Κύριλλος και Γελάσιος έτος την Ρεφίνε το Ρωμαίου μετέφρασαν ιστορίαν εις την Ελλάδα γλώσσαν, ε μέντοι ότι ιδίαν συνετάξαντο ιστορίαν, δήλον δ' ώς αρχαιότερος ήν έτος το προειρημένε, είγε κατά Κύριλλον ήκμασε τον Ιεροσολύμων, αλλ' έτος μεν ο Γελάσιος εκείνε και τη φράσει επί το λογιώτερον διαφέρει, εκάτερος μέντοι αυτών πολύ τό κατά Ανομοίων συγγεγραφότος ενδεέστερος υπάρχει επίσκοπος δ' άρα κακείνος της αυτής επιγράφεθ Παλαιστίνης, αλλ' εκείνός γε ο Γελάσιος τή τε φράσει και τη πολυμαθία και ταις λογικαίς εφόδοις, αίς ουκ οίδ" όπως ειπείν και απειροκάλως κατεχρήσατο, παρά πολύ τότες την εν τοις λόγοις ελάττονα τάξιν επέχειν απελαύνει, ει δέ τις τέτων αυτός εστιν ο γράψας, και ταύτα χρόνω συλλέξας και συναυξήσας τα λείποντα, έπω μαθειν έχον. "
         <idno type="CTS-URN"/>
         <ref target="https://hdl.handle.net/2027/inu.32000000323156"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote147-2" source="#bib147-2">
-        <anchor xml:id="testimonia-147.en.1" corresp="testimonia-147.Greek.1"/>The other book, which I have referred to above, is entitled Preface of the <placeName xml:lang="en">Bishop of Caesarea in Palestine</placeName> to the Continuation of the History of Eusebius Pamphili. It begins, as follows: Others who have applied themselves to writing and have determined to hand down to posterity a record of historical events, and so on. The author states that he was encouraged to write the work by his uncle Cyril, bishop of Jerusalem. I have read elsewhere that this Cyril and Gelasius translated the history of Rufinus the Roman into Greek, but did not compose any history of their own. It is evident that this Gelasius was older than the other, if he flourished in the time of Cyril of Jerusalem. He also certainly differs from him in the greater eloquence of his language, although both are inferior to the author of the treatise Against the Anomoeans, also called bishop of Palestine. For the latter Gelasius, by his diction, learning, and logical methods, his use of which, however, is somewhat inept, leaves the other two far behind, whose style appears to be much inferior. I have not yet been able to learn whether any of these is the author of the work referred to, or who compiled it and supplemented it by his own additions.<note type="translation"/>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
+        <anchor xml:id="testimonia-147.en.1" corresp="testimonia-147.Greek.1"/>The other book, which I have referred to above, is entitled Preface of the <placeName xml:lang="en">Bishop of Caesarea in Palestine</placeName> to the Continuation of the History of Eusebius Pamphili. It begins, as follows: Others who have applied themselves to writing and have determined to hand down to posterity a record of historical events, and so on. The author states that he was encouraged to write the work by his uncle Cyril, bishop of Jerusalem. I have read elsewhere that this Cyril and Gelasius translated the history of Rufinus the Roman into Greek, but did not compose any history of their own. It is evident that this Gelasius was older than the other, if he flourished in the time of Cyril of Jerusalem. He also certainly differs from him in the greater eloquence of his language, although both are inferior to the author of the treatise Against the Anomoeans, also called bishop of Palestine. For the latter Gelasius, by his diction, learning, and logical methods, his use of which, however, is somewhat inept, leaves the other two far behind, whose style appears to be much inferior. I have not yet been able to learn whether any of these is the author of the work referred to, or who compiled it and supplemented it by his own additions.
         <idno type="CTS-URN"/>
         <ref target="http://www.tertullian.org/fathers/photius_03bibliotheca.htm"/>
       </ab>
@@ -305,36 +300,6 @@
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/9UDPPPSU"/>
           <citedRange unit="section">89</citedRange>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

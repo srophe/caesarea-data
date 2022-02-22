@@ -272,8 +272,6 @@
             oppidum Sycaminum nomine de<placeName>Caesarea</placeName>Ptolomaidem pergentibus
             super mare propter montem Carmelum Efa dicitur.<note type="textual">Ed. Klosterman
                1904</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target="urn:cts:greekLit:tlg2018.tlg011.opp-lat1:9"/>
       </ab>
@@ -281,8 +279,6 @@
         <anchor xml:id="testimonia-292.en.1" corresp="testimonia-292.la.1"/>Iafthie in the tribe of Zebulon. Until now it is called Ioppe, the
             Ascent of Iafo. It is also the town Sycaminus by name for those traveling from<placeName>Caesarea</placeName>to Ptolemais, on the sea beside Mount Carmel, called
                Efa.<note type="translation">Trans. J. L. Rife</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -291,55 +287,12 @@
         <bibl xml:id="bib292-1">
           <ptr target="https://caesarea-maritima.org/bibl/ARSF2XBM"/>
           <citedRange unit="p">109</citedRange>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl xml:id="bib292-2">
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
         </bibl>
       </listBibl>
       <listBibl>
         <head>Additional Bibliography</head>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/66T989F7"/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

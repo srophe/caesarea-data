@@ -295,8 +295,6 @@
                Stauffenberg (1931) added ἰδίοις ἀναλώμασιν (“at his own expense”) after λευκαῖς
                πλάκαις. J. L. Rife has omitted it here as an unnecessary interpolation from the
                Slavonic translation (10th/11th century) and John of Nikiu 66.2. </note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -308,8 +306,6 @@
             city formerly called Strato’s Tower, while Archaelaos, king and local ruler, named
             Caesarea in Cappadocia the city formerly called Mazaca.<note type="translation">Adapted
                from Jeffreys et al. 2017</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -320,53 +316,16 @@
           <citedRange unit="bk">9</citedRange>
           <citedRange unit="ch">17</citedRange>
         </bibl>
-        <bibl xml:id="bib133-2">
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
       </listBibl>
          <listBibl>
         <head>Additional Bibliography</head>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/24LXHELZ"/>
           <citedRange unit="p">118</citedRange>
-          <citedRange unit=""/>
         </bibl>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/ZV9XT3GX"/>
           <citedRange unit="p">8-9</citedRange>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
         </bibl>
       </listBibl>
       <note type="related-texts">

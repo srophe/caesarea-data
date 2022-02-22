@@ -274,9 +274,6 @@
         <anchor xml:id="testimonia-257.grc.1" corresp="testimonia-257.en.1"/>Ἰάφεθ. κλήρου Ζαβουλών ἀνάβασίς, καλεῖται καὶ Ἰόππη. καὶ ἡ Συκάμινος δὲ
             ἀπιόντων εἰς Πτολεμαίδα ἀπὸ<placeName>Καισαρείας</placeName>, κώμη πάραλος πλησίον τοῦ
             Καρμήλου, Ἡφὰ λέγεται.<note>Ed. Klosterman 1904 [cited by page]</note>
-        <note type="textual"/>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -285,8 +282,6 @@
             also Sykaminos for those traveling to Ptolemais from<placeName>Caesarea</placeName>, a
             coastal village near Carmel, called Hepha.<note type="translation">Trans. J. L.
                Rife</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -295,55 +290,6 @@
         <bibl xml:id="bib257-1">
           <ptr target="https://caesarea-maritima.org/bibl/ARSF2XBM"/>
           <citedRange unit="p">108</citedRange>
-          <citedRange unit="line"/>
-        </bibl>
-        <bibl xml:id="bib257-2">
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-      </listBibl>
-      <listBibl>
-        <head>Additional Bibliography</head>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

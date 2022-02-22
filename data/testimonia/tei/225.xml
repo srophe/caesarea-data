@@ -279,8 +279,6 @@
             enim eius nominatur ubique, quod unum et novum aliquod spectaculum. B) Similiter et<placeName>Caesarea</placeName>, civitas deliciosissima, cuius tertrapilum nominatur
             ubique, quod unum et novum spectaculum praebet.<note type="textual">Ed. Rougé
                1966</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref/>
       </ab>
@@ -291,8 +289,6 @@
             Then<placeName>Caesarea</placeName>too is a most enjoyable city. Its Tetrapylon is
             celebrated everywhere, a new, one-of-a-kind sight.<note type="translation">Trans. J. L.
                Rife with reference to Rougé 1966</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -301,55 +297,6 @@
         <bibl xml:id="bib225-1">
           <ptr target="https://caesarea-maritima.org/bibl/7WH68SGE"/>
           <citedRange unit="ch">26</citedRange>
-          <citedRange unit="p"/>
-        </bibl>
-        <bibl xml:id="bib225-2">
-          <ptr target=""/>
-          <citedRange unit="section"/>
-          <citedRange unit="p"/>
-        </bibl>
-      </listBibl>
-      <listBibl>
-        <head>Additional Bibliography</head>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

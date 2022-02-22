@@ -273,8 +273,6 @@
         <anchor xml:id="testimonia-237.la.1" corresp="testimonia-237.en.1"/>Item ab Ierusalem, sic: civitas Nicopoli mil. XXII civitas Lidda mil. X
             mutatio Antipatrida mil. X mutatio Batthar mil. X civitas<placeName>Caesarea</placeName>mil. XVI<note type="textual">Ed. Cuntz
                1929</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref/>
       </ab>
@@ -282,8 +280,6 @@
         <anchor xml:id="testimonia-237.en.1" corresp="testimonia-237.la.1"/>Likewise from Jerusalem it goes: City: Nicopoli 22 miles City: Lidda
             10 miles Exchange: Antipatrida 10 miles Exchange: Matthar 10 miles City:<placeName>Caesarea</placeName>16 miles<note type="translation">Trans. J. L.
                Rife</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -292,55 +288,6 @@
         <bibl xml:id="bib237-1">
           <ptr target="https://caesarea-maritima.org/bibl/4F6HPBGX"/>
           <citedRange unit="p">600.1-6</citedRange>
-          <citedRange unit="p"/>
-        </bibl>
-        <bibl xml:id="bib237-2">
-          <ptr target=""/>
-          <citedRange unit="section"/>
-          <citedRange unit="p"/>
-        </bibl>
-      </listBibl>
-      <listBibl>
-        <head>Additional Bibliography</head>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

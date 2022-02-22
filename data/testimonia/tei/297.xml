@@ -283,8 +283,6 @@
             Dictenio, Porphyrio, Saturnino, Alani, Paulo, Ammonio, Heliano, alteri Paulo, Eusebio et
             omnibus, qui in Aeliae encaeniis congregati sunt, catholicis episcopis Theophilus in
             domino salutem dicit.<note type="textual">Ed. Hilberg and Slovak 1996</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref/>
       </ab>
@@ -296,8 +294,6 @@
             Ammonius, Aelian, the second Paul, Eusebius, and all the catholic bishops who gathered
             in Aelia to celebrate the consecration (of the Holy Sepulcher): Theophilus greets you in
             the Lord.<note type="translation">Trans. J. L. Rife</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -308,53 +304,11 @@
           <citedRange unit="letter">92</citedRange>
           <citedRange unit="ch">1</citedRange>
         </bibl>
-        <bibl xml:id="bib297-2">
-          <ptr target=""/>
-          <citedRange unit="section"/>
-          <citedRange unit="p"/>
-        </bibl>
       </listBibl>
       <listBibl>
         <head>Additional Bibliography</head>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/MUU4ALR4"/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

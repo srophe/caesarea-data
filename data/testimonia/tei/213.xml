@@ -294,7 +294,6 @@
                1882</note>
         <note type="discussion">The map from volume II did not depict
                Caesarea.</note>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target="https://archive.org/stream/itinrairesjr00michuoft?ref=ol#page/136/mode/2up"/>
       </ab>
@@ -303,8 +302,6 @@
             the road from Jaffa to Jerusalem—Ascalon—Al-Darum—Damietta C: Haifa—Pilgrim’s
                Castle—<placeName>Caesarea</placeName>—Jaffa—Ascalon—Al-Darum—Damietta, which (is) in
             the country of Egypt<note type="translation">Trans. Pringle 2012</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -326,42 +323,6 @@
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/IBXFRYLN"/>
           <citedRange unit="">74-93, figs. 40, 41</citedRange>
-          <citedRange unit="p"/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
         </bibl>
       </listBibl>
       <note type="related-texts"/>

@@ -285,9 +285,6 @@
             παροξύνεται, Λυκία, Πισιδία, Κιλικία, Σικελία, Παφλαγονία, Ἀρμενία, Συρία, Καππαδοκία,
             Ἰταλία, Ἀσία, Θεσσαλία, Βοιωτία, Βιθυνία, Ἰτουρία.<note>Ed. Lentz 1868 [cited by
                page-line]</note>
-        <note type="textual"/>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN">urn:cts:greekLit:tlg0087.tlg011.1st1K-grc1:2.2.4.127</idno>
         <ref target="https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0087.tlg011.1st1K-grc1:2.2.4.127"/>
       </ab>
@@ -298,8 +295,6 @@
             paroxytone: Lykia, Pisidia, Kilikia, Sikelia, Paphlagonia, Armenia, Syria, Kappadokia,
             Italia, Asia, Thessalia, Boiotia, Bithynia, Itouria.<note type="translation">Trans. J.
                L. Rife</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -309,54 +304,6 @@
           <ptr target="https://caesarea-maritima.org/bibl/CFHZ6J2I"/>
           <citedRange unit="p">451</citedRange>
           <citedRange unit="line">22-27</citedRange>
-        </bibl>
-        <bibl xml:id="bib214-2">
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-      </listBibl>
-         <listBibl>
-        <head>Additional Bibliography</head>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
         </bibl>
       </listBibl>
       <note type="related-texts">

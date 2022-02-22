@@ -270,18 +270,13 @@
         </quote>,  and <quote>
           <placeName xml:lang="en">Caesarea</placeName>
         </quote> are place names attested in <persName ref="https://viaf.org/viaf/88881722" role="author">Justinian I</persName>'s <title xml:lang="en" ref="" type="uniform" level="m">Digesta L</title> 15.8.7. This testimonium was written circa <origDate period="#byzantine" notBefore="0530" notAfter="0533">530 - 533 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
-      <desc type="context"/>
       <ab type="edition" xml:lang="la" xml:id="quote79-1" source="#bib79-1">
-        <anchor xml:id="testimonia-79.la.1" corresp="testimonia-79.en.1"/>Divus Vespasianus <placeName xml:lang="la">Caesarienses</placeName> colonos fecit non adiecto, ut et iuris Italici essent, sed tributum his remisit capitis: sed divus Titus etiam solum immune factum interpretatus est. Similes his capitulenses esse videntur.<note type="textual"/>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
+        <anchor xml:id="testimonia-79.la.1" corresp="testimonia-79.en.1"/>Divus Vespasianus <placeName xml:lang="la">Caesarienses</placeName> colonos fecit non adiecto, ut et iuris Italici essent, sed tributum his remisit capitis: sed divus Titus etiam solum immune factum interpretatus est. Similes his capitulenses esse videntur.
         <idno type="CTS-URN"/>
         <ref target="https://droitromain.univ-grenoble-alpes.fr/Corpus/d-50.htm#15"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote79-2" source="#bib79-2">
-        <anchor xml:id="testimonia-79.en.1" corresp="testimonia-79.la.1"/>The Divine Vespasian constituted the people of <placeName xml:lang="en">Caesarea</placeName> colonists, without conferring upon them the privileges of Italy, but released them from personal taxation. The Divine Titus, however, decided that their soil should also be exempt from taxation, for it was considered that they resembled the inhabitants of Aelia Capitolina.<note type="translation"/>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
+        <anchor xml:id="testimonia-79.en.1" corresp="testimonia-79.la.1"/>The Divine Vespasian constituted the people of <placeName xml:lang="en">Caesarea</placeName> colonists, without conferring upon them the privileges of Italy, but released them from personal taxation. The Divine Titus, however, decided that their soil should also be exempt from taxation, for it was considered that they resembled the inhabitants of Aelia Capitolina.
         <idno type="CTS-URN"/>
         <ref target="https://droitromain.univ-grenoble-alpes.fr/Anglica/D50_Scott.htm#XV"/>
       </ab>
@@ -305,36 +300,6 @@
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/TRH24FTN"/>
           <citedRange unit="section">15.8.7</citedRange>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

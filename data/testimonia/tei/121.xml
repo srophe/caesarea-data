@@ -270,19 +270,13 @@
         </quote>,  and <quote>
           <placeName xml:lang="en">Cæsarea in Palestine.</placeName>
         </quote> are place names attested in <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg003" type="uniform" level="m">Martyrs of Palestine</title> 1.1-1.2. This testimonium was written circa <origDate period="#lateRoman" notBefore="0315" notAfter="0316">315 – 316 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
-      <desc type="context"/>
       <ab type="edition" xml:lang="grc" xml:id="quote121-1" source="#bib121-1">
-        <anchor xml:id="testimonia-121.grc.1" corresp="testimonia-121.en.1"/>Πρῶτος τοιγαροῦν τῶν ἐπὶ Παλαιστίνης μαρτύρων Προκόπιος, πρὶν ἢ φυλακῆς πεῖραν λαβεῖν, εὐθὺς ἀπὸ πρώτης εἰσόδου τοῖς ἡγεμονικοῖς παραστὰς δικαστηρίοις, θύειν τε τοῖς λεγομένοις προσταχθεὶς θεοῖς, ἔνα μόνον ἔφησεν εἰδέναι, ᾧ καθῆκεν ὡς αὐτὸς βούλεται θύειν· ὡς δὲ κἂν τοῖς βασιλεῦσι τέσσαρσι σπένδειν ἐκελεύετο, ῥῆμά τι φθεγξάμενος τῶν οὐ προσηνῶν αὐτοῖς αὐτίκα τὴν κεφαλὴν άποτέμνεται, τὸ ποιητικὸν εἰπὼν ἐκεῖνο “οὐκ ἀγαθὸν πολυκοιρανίη, εἷς κοίρανος ἔστω, εἶς βασιλεύς.” Δεσίου μηνὸς ἑβδόμῃ, πρὸ ἑπτὰ εἰδῶν Ἰουνίων λέγοιτ’ ἂν παρὰ Ῥωμαίοις, ἡμέρᾳ τετράδι σαββάτου τοῦτο πρῶτον ἐπὶ <placeName xml:lang="grc">Καισαρείας τῆς Παλαιστίνης</placeName> ἀπετελέσθη σημεῖον.<note type="textual"/>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
+        <anchor xml:id="testimonia-121.grc.1" corresp="testimonia-121.en.1"/>Πρῶτος τοιγαροῦν τῶν ἐπὶ Παλαιστίνης μαρτύρων Προκόπιος, πρὶν ἢ φυλακῆς πεῖραν λαβεῖν, εὐθὺς ἀπὸ πρώτης εἰσόδου τοῖς ἡγεμονικοῖς παραστὰς δικαστηρίοις, θύειν τε τοῖς λεγομένοις προσταχθεὶς θεοῖς, ἔνα μόνον ἔφησεν εἰδέναι, ᾧ καθῆκεν ὡς αὐτὸς βούλεται θύειν· ὡς δὲ κἂν τοῖς βασιλεῦσι τέσσαρσι σπένδειν ἐκελεύετο, ῥῆμά τι φθεγξάμενος τῶν οὐ προσηνῶν αὐτοῖς αὐτίκα τὴν κεφαλὴν άποτέμνεται, τὸ ποιητικὸν εἰπὼν ἐκεῖνο “οὐκ ἀγαθὸν πολυκοιρανίη, εἷς κοίρανος ἔστω, εἶς βασιλεύς.” Δεσίου μηνὸς ἑβδόμῃ, πρὸ ἑπτὰ εἰδῶν Ἰουνίων λέγοιτ’ ἂν παρὰ Ῥωμαίοις, ἡμέρᾳ τετράδι σαββάτου τοῦτο πρῶτον ἐπὶ <placeName xml:lang="grc">Καισαρείας τῆς Παλαιστίνης</placeName> ἀπετελέσθη σημεῖον.
         <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg003.opp-grc1:1.1-1.2</idno>
         <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2018.tlg003.opp-grc1:1.1-1.2"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote121-2" source="#bib121-2">
         <anchor xml:id="testimonia-121.en.1" corresp="testimonia-121.grc.1"/>The first of the martyrs of Palestine was Procopius, who, before he had received the trial of imprisonment, immediately on his first appearance before the governor’s tribunal, having been ordered to sacrifice to the so-called gods, declared that he knew only one to whom it was proper to sacrifice, as he himself wills. But when he was commanded to offer libations to the four emperors, having quoted a sentence which displeased them, he was immediately beheaded. The quotation was from the poet: “The rule of many is not good; let there be one ruler and one king.” It was the seventh day of the month Desius, the seventh before the ides of June, as the Romans reckon, and the fourth day of the week, when this first example was given at <placeName xml:lang="en">Caesarea in Palestine.</placeName>
-        <note type="translation"/>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target="https://ccel.org/ccel/schaff/npnf201/npnf201.iii.xiv.ii.html"/>
       </ab>
@@ -306,36 +300,6 @@
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/BTVVYMAC"/>
           <citedRange unit="section">1.1-1.2</citedRange>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

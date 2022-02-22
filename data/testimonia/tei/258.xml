@@ -273,9 +273,6 @@
       <ab type="edition" xml:lang="grc" xml:id="quote258-1" source="#bib258-1">
         <anchor xml:id="testimonia-258.grc.1" corresp="testimonia-258.en.1"/>Ναφεθδώρ. Σʹ ἐν τῇ παραλίᾳ Δώρᾳ. αὕτη ἐστὶν ἀπὸ θʹ σημείων<placeName>Καισαρείας</placeName>.<note>Ed. Klosterman 1904 [cited by
                page]</note>
-        <note type="textual"/>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -283,8 +280,6 @@
         <anchor xml:id="testimonia-258.en.1" corresp="testimonia-258.grc.1"/>Nafethdor. Symmachus for Dora “by the Sea”. This is nine milestones
             from<placeName>Caesarea</placeName>.<note type="translation">Trans. J. L.
                Rife</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -293,55 +288,6 @@
         <bibl xml:id="bib258-1">
           <ptr target="https://caesarea-maritima.org/bibl/ARSF2XBM"/>
           <citedRange unit="p">136</citedRange>
-          <citedRange unit="line"/>
-        </bibl>
-        <bibl xml:id="bib258-2">
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-      </listBibl>
-      <listBibl>
-        <head>Additional Bibliography</head>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

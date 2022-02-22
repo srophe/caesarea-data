@@ -291,7 +291,6 @@
             Dora; compassus ponit XV milliaria. Fuit autem Templariorum, qui etiam post eius
             amissionem, annuatim soluebant domino Assur XXVIII millia bizantiorum (de ea part. III
             cap. IV).<note type="textual">Ed. Bongars 1611</note>
-        <note type="discussion"/>
         <note type="corrigenda">Minor corr. J. L. Rife</note>
         <idno type="CTS-URN"/>
         <ref target=""/>
@@ -304,8 +303,6 @@
             to the fort at Assur or Dora; the compass makes this 15 miles. It formerly belonged to
             the Templars, who, even after its loss, were indebted to the Lord of Assur for 28,000
             bezants annually (see 6.3.4).<note type="translation">Adapted from Lock 2011</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -319,50 +316,6 @@
         <bibl xml:id="bib302-2">
           <ptr target="https://caesarea-maritima.org/bibl/46ITBHCT"/>
           <citedRange unit="p">391</citedRange>
-          <citedRange unit=""/>
-        </bibl>
-      </listBibl>
-      <listBibl>
-        <head>Additional Bibliography</head>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

@@ -284,8 +284,6 @@
             procurator of Judaea. 7 [52 C.E.] Before him Paul the apostle, standing accused, gives
             12 a speech in defense of himself. 8<note type="translation">Trans. J. L. Rife with
                ref. to Pearse 2005</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target="http://www.tertullian.org/fathers/jerome_chronicle_03_part2.htm"/>
       </ab>
@@ -294,55 +292,9 @@
         <bibl xml:id="bib273-1">
           <ptr target="https://caesarea-maritima.org/bibl/7T7G9J52"/>
           <citedRange unit="p">181a-c</citedRange>
-          <citedRange unit=""/>
         </bibl>
         <bibl xml:id="bib273-2">
           <ptr target="https://caesarea-maritima.org/bibl/7JSD2DS2"/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-      </listBibl>
-      <listBibl>
-        <head>Additional Bibliography</head>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

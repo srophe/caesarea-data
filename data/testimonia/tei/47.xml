@@ -285,8 +285,6 @@
             “Συνεχῶς δʼ ἐστὶ <placeName>Στράτωνος πύργος</placeName>, εἶτα ἔνι Δῶρα, ἐπὶ
             χερσονησοειδοῦς τόπου κείμενον πολισμάτιον, ἀρχομένου τοῦ ὄρους τοῦ Καρμήλου.” Καὶ ἐν θʹ
             Γεωγραφουμένων τὸ αὐτό.<note type="textual">Ed. Stiehl 1856</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN">urn:cts:greekLit:tlg4003.tlg003.1st1K-grc1:3</idno>
         <ref/>
       </ab>
@@ -296,8 +294,6 @@
             Artemidorus mentions the city Dora in Epitome of 11 books: “Continuing on is
                <placeName>Straton’s Tower</placeName>, and then Dora, a town situated on the
             peninsula where Mount Carmel begins.” And the same thing in Geography 9.<note type="translation">Trans. J. L. Rife</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -306,55 +302,10 @@
         <bibl xml:id="bib47-1">
           <ptr target="https://caesarea-maritima.org/bibl/ID3R9I8K"/>
           <citedRange unit="section">111</citedRange>
-          <citedRange unit="p"/>
         </bibl>
         <bibl xml:id="bib47-2">
           <ptr target="https://caesarea-maritima.org/bibl/P32Y86WM"/>
           <citedRange unit="p">576.19-27</citedRange>
-          <citedRange unit="p"/>
-        </bibl>
-      </listBibl>
-         <listBibl>
-        <head>Additional Bibliography</head>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
         </bibl>
       </listBibl>
       <note type="related-texts">

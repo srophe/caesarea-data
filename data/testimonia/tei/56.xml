@@ -299,8 +299,6 @@
             ἑαυτῶν οἰκημάτων. (4) Εἰ δὲ ἐν ταῖς στέγαις οἴνους ἢ ὄσπρια ἤ τι τοιοῦτον ἐν ὡρίοις
             ἀποτιθέασι, τῆς δοκώσεως διδόναι τοὺς ὑπερκειμένους τὸ δίμοιρον μέρος, τοῦ ὑποκειμένου
             παρέχοντος τὸ λοιπὸν τρίτον.<note type="textual">Ed. Saliou 1996</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref/>
       </ab>
@@ -326,7 +324,6 @@
         <note type="discussion">J. L. Rife adopts the reading of ὑποκείμενον (Genausensis gr. 23)
                instead of ὑπερκείμενον (Vaticanus Ottobonianus gr. 440); cf. Saliou 1996, p.
                59.</note>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref/>
       </ab>
@@ -335,55 +332,15 @@
         <bibl xml:id="bib56-1">
           <ptr target="https://caesarea-maritima.org/bibl/SCGMDIM2"/>
           <citedRange unit="ch">35.1-4</citedRange>
-          <citedRange unit="ch"/>
-        </bibl>
-        <bibl xml:id="bib56-2">
-          <ptr target=""/>
-          <citedRange unit="p"/>
-          <citedRange unit="ch"/>
         </bibl>
       </listBibl>
          <listBibl>
         <head>Additional Bibliography</head>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/AYE74J6G"/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
         </bibl>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/H7VYQD5N"/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
         </bibl>
       </listBibl>
       <note type="related-texts"/>

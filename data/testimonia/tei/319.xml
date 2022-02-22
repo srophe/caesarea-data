@@ -275,15 +275,11 @@
         <anchor xml:id="testimonia-319.grc.1" corresp="testimonia-319.en.1"/>ὅτι ἐπὶ Ἰοβιανοῦ ἦν Ἀκάκιος ἐπίσκοπος <placeName>Καισαρείας
                Παλαιστίνης</placeName>, ὃς λίβελλον ἔγραψε περὶ ὀρθοδόξου πίστεως, ἀποδεχόμενος τὴν
             ἐν Νικαίᾳ σύνοδον.<note type="textual">Ed. Adler 1931</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN">https://archive.org/details/adler-a.-suidae-lexicon-3-./Adler%20A.%2C%20Suidae%20Lexicon%202%20%28%CE%94-%CE%98%29/page/638/mode/2up</idno>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote319-2" source="#bib319-2">
         <anchor xml:id="testimonia-319.en.1" corresp="testimonia-319.grc.1"/>In the reign of Jovian, Acacius, who wrote a pamphlet about orthodox
             faith and accepted the synod at Nicaea, was bishop of Caesarea Palestinae.<note type="translation">Rev. SOL (trans. A. Ring et al., 2004-)</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target="http://www.cs.uky.edu/~raphael/sol/sol-entries/iota/401"/>
       </ab>
@@ -299,88 +295,8 @@
          <listBibl>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/753625E4"/>
-          <citedRange unit="p"/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
         </bibl>
       </listBibl>
-         <listBibl>
-            <head>Additional Bibliography</head>
-            <bibl>
-               <ptr target=""/>
-               <citedRange unit=""/>
-               <citedRange unit=""/>
-            </bibl>
-            <bibl>
-               <ptr target=""/>
-               <citedRange unit=""/>
-               <citedRange unit=""/>
-            </bibl>
-            <bibl>
-               <ptr target=""/>
-               <citedRange unit=""/>
-               <citedRange unit=""/>
-            </bibl>
-            <bibl>
-               <ptr target=""/>
-               <citedRange unit=""/>
-               <citedRange unit=""/>
-            </bibl>
-            <bibl>
-               <ptr target=""/>
-               <citedRange unit=""/>
-               <citedRange unit=""/>
-            </bibl>
-            <bibl>
-               <ptr target=""/>
-               <citedRange unit=""/>
-               <citedRange unit=""/>
-            </bibl>
-            <bibl>
-               <ptr target=""/>
-               <citedRange unit=""/>
-               <citedRange unit=""/>
-            </bibl>
-            <bibl>
-               <ptr target=""/>
-               <citedRange unit=""/>
-               <citedRange unit=""/>
-            </bibl>
-         </listBibl>
       <note type="related-texts"/>
       <note type="geography">
         <p>Nicaea</p>

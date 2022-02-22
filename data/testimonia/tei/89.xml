@@ -290,8 +290,6 @@
             εἰς Κιλικίαν στάδιοι ͵αφʹ· ἐκ Ῥόδου εἰς Κώρυκον στάδιοι ͵α· ἐκ Ῥόδου εἰς Κώρυκον στάδιοι
             ͵α· ἐκ Ῥόδου δὲ ἐπὶ τὴν Κύπρον ἐπὶ τὴν ἑσπερίαν τὴν ἐπ’ ἀνατολὰς τοῦ κριοῦ οὐριώτα⟨τα⟩
             ζεφύρῳ στάδιοι ͵βωʹ …<note type="textual">Ed. Helm 1955</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref/>
       </ab>
@@ -303,8 +301,6 @@
             stades. From Rhodes to Cilicia, 1,500 stades. From Rhodes to Corycus, 1,000 stades. From
             Rhodes to western Cyprus, the part east of the Ram, with the fairest possible west wind,
             2,800 stades …<note type="translation">Trans. J. L. Rife</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target="http://www.tertullian.org/fathers/eusebius_theophania_05book4.htm"/>
       </ab>
@@ -313,55 +309,6 @@
         <bibl xml:id="bib89-1">
           <ptr target="https://caesarea-maritima.org/bibl/N64HCCT4"/>
           <citedRange unit="section">527</citedRange>
-          <citedRange unit="p"/>
-        </bibl>
-        <bibl xml:id="bib89-2">
-          <ptr target=""/>
-          <citedRange unit="p"/>
-          <citedRange unit="section"/>
-        </bibl>
-      </listBibl>
-         <listBibl>
-        <head>Additional Bibliography</head>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
         </bibl>
       </listBibl>
       <note type="related-texts"/>

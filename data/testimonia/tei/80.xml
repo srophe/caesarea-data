@@ -294,8 +294,6 @@
             λεγόμενος δοκίτης, προμηνύων τὴν τῶν Ἀράβων ἐπικράτησιν· ἔμεινε δὲ ἡμέρας λʹ διατείνων
             ἀπὸ μεσημβρίας ἕως ἄρκτου. ἦν δὲ ξιφοειδής. <note type="textual">Ed. de Boor
                1883</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -316,7 +314,6 @@
         <note type="discussion">The unusual word δοκίτης refers to a shooting star or meteor
                already in Late Antiquity (John Lydus, Signs 10b) and continuing in common usage into
                Late Byzantine and katharevousa.</note>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -325,55 +322,10 @@
         <bibl xml:id="bib80-1">
           <ptr target="https://caesarea-maritima.org/bibl/WCGZNHGV"/>
           <citedRange unit="p">335.4-24</citedRange>
-          <citedRange unit="p"/>
         </bibl>
         <bibl xml:id="bib80-2">
           <ptr target="https://caesarea-maritima.org/bibl/9634RWJV"/>
           <citedRange unit="p">467-468</citedRange>
-          <citedRange unit="p"/>
-        </bibl>
-      </listBibl>
-         <listBibl>
-        <head>Additional Bibliography</head>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
         </bibl>
       </listBibl>
       <note type="related-texts">

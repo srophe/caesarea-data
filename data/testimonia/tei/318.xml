@@ -288,8 +288,6 @@
             ἐκκλησία δύο βίους νομοθετεῖ καὶ τρόπους: τὸν μὲν ὑπερφυᾶ καὶ τῆς ἀνθρωπίνης πολιτείας
             ἐπέκεινα, οἷος ἐστὶν ὁ μοναδικός: τὸν δὲ ὑποβεβηκότα καὶ ἀνθρωπινώτερον, ὃς καὶ γάμοις
             ὑποτίθεται συγκοινωνεῖν.<note type="textual">Ed. Adler 1931</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN">https://archive.org/details/adler-a.-suidae-lexicon-3-./Adler%20A.%2C%20Suidae%20Lexicon%202%20%28%CE%94-%CE%98%29/page/472/mode/2up
             </idno>
       </ab>
@@ -310,8 +308,6 @@
             Christ prescribes two lives and thus two directions: the one extraordinary and beyond
             everyday society, such as is the monastic life. The other, inferior and mundane by
             comparison, which also presupposes participation in marriage.<note type="translation">Rev. SOL (trans. C. Roth et al., 2002-)</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target="http://www.cs.uky.edu/~raphael/sol/sol-entries/epsilon/3737"/>
       </ab>
@@ -327,88 +323,8 @@
          <listBibl>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/753625E4"/>
-          <citedRange unit="p"/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
         </bibl>
       </listBibl>
-         <listBibl>
-            <head>Additional Bibliography</head>
-            <bibl>
-               <ptr target=""/>
-               <citedRange unit=""/>
-               <citedRange unit=""/>
-            </bibl>
-            <bibl>
-               <ptr target=""/>
-               <citedRange unit=""/>
-               <citedRange unit=""/>
-            </bibl>
-            <bibl>
-               <ptr target=""/>
-               <citedRange unit=""/>
-               <citedRange unit=""/>
-            </bibl>
-            <bibl>
-               <ptr target=""/>
-               <citedRange unit=""/>
-               <citedRange unit=""/>
-            </bibl>
-            <bibl>
-               <ptr target=""/>
-               <citedRange unit=""/>
-               <citedRange unit=""/>
-            </bibl>
-            <bibl>
-               <ptr target=""/>
-               <citedRange unit=""/>
-               <citedRange unit=""/>
-            </bibl>
-            <bibl>
-               <ptr target=""/>
-               <citedRange unit=""/>
-               <citedRange unit=""/>
-            </bibl>
-            <bibl>
-               <ptr target=""/>
-               <citedRange unit=""/>
-               <citedRange unit=""/>
-            </bibl>
-         </listBibl>
       <note type="related-texts">
         <p>Eusebius, Against Porphyry</p>
         <p>Eusebius, Apology for Origen</p>

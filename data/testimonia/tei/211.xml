@@ -289,8 +289,6 @@
             Cornelii centurionis, qui multas elymosynas faciebat. Inde est tertio miliario mons
             Syna, ubi fons est, in quem mulier si laverit, gravida fit.<note type="textual">Ed.
                Cuntz 1929</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref/>
       </ab>
@@ -304,8 +302,6 @@
             exchanges, three overnights. Located there is the bath of the centurion Cornelius, who
             did many charitable acts. From there at the third milestone is located Mount Syna, where
             there is the spring where, if a woman bathes in it, she becomes pregnant. <note type="translation">Trans. J. L. Rife</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -314,55 +310,12 @@
         <bibl xml:id="bib211-1">
           <ptr target="https://caesarea-maritima.org/bibl/4F6HPBGX"/>
           <citedRange unit="section">584.1-586.2</citedRange>
-          <citedRange unit="p"/>
-        </bibl>
-        <bibl xml:id="bib211-2">
-          <ptr target=""/>
-          <citedRange unit="section"/>
-          <citedRange unit="p"/>
         </bibl>
       </listBibl>
          <listBibl>
         <head>Additional Bibliography</head>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/SSAVC63T"/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
         </bibl>
       </listBibl>
       <note type="related-texts"/>

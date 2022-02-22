@@ -285,22 +285,15 @@
         </quote>, and <quote>
           <placeName xml:lang="en">Cesarea</placeName>
         </quote> are place names attested in <persName ref="http://viaf.org/viaf/22143666" role="author">Josephus</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg004" type="uniform" level="m">The Jewish War</title> 4.663. This testimonium was written circa <origDate period="#nabateanKingdom #earlyRoman #herodian" notBefore="0070" notAfter="0090">70 - 90 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
-      <desc type="context"/>
       <ab type="edition" xml:lang="grc" xml:id="quote32-1" source="#bib32-1">
         <anchor xml:id="testimonia-32.grc.1" corresp="testimonia-32.en.1"/>
         τὸ πέμπτον ἐν Γάζῃ τίθεταιστρατόπεδον, μεθ᾽ ἣν εἰς Ἀσκάλωνακἀκεῖθεν εἰς Ἰάμνειαν, ἔπειτα εἰς Ἰόππην κἀξἸόππης εἰς <placeName xml:lang="grc">Καισάρειαν</placeName> ἀφικνεῖταιδιεγνωκὼς αὐτόθι τὰς ἄλλας δυνάμειςἀθροίζειν.
-      <note type="textual"/>
-      <note type="discussion"/>
-      <note type="corrigenda"/>
       <idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg0526.tlg004.perseus-grc1:4.663</idno>
         <ref target="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-grc1:4.663"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote32-2" source="#bib32-2">
         <anchor xml:id="testimonia-32.en.1" corresp="testimonia-32.grc.1"/>
         For his fifth station he pitched his camp at Gaza; after which he came to Ascalon, and thence to Jamnia, and after that to Joppa, and from Joppa to <placeName xml:lang="en">Cesarea</placeName>, having taken a resolution to gather all his other forces together at that place.
-      <note type="translation"/>
-      <note type="discussion"/>
-      <note type="corrigenda"/>
       <idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:4.656</idno>
         <ref target="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:4.656"/>
       </ab>
@@ -351,36 +344,6 @@
             <forename>Flavius</forename>
             <surname>Josephus</surname>
           </author>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

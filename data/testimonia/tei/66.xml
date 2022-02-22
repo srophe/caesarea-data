@@ -286,22 +286,15 @@
     </quote>, and <quote>
      <placeName>Caesarea</placeName>
     </quote> are place names attested in <persName ref="http://viaf.org/viaf/305863610" role="author">Luke the Evangelist</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg0031.tlg005" type="uniform" level="m">Acts</title> 9.30. This testimonium was written circa <origDate period="#nabateanKingdom #earlyRoman" notBefore="0080" notAfter="0090">80 – 90 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
-      <desc type="context"/>
       <ab type="edition" xml:lang="grc" xml:id="quote66-1" source="#bib66-1">
         <anchor xml:id="testimonia-66.grc.1" corresp="testimonia-66.en.1"/>
         ἐπιγνόντες δὲ οἱ ἀδελφοὶκατήγαγον αὐτὸν εἰς <placeName>Καισαρίαν</placeName> καὶ ἐξαπέστειλαν αὐτὸν εἰς Ταρσόν.
-        <note type="textual"/>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg0031.tlg005.perseus-grc2:9.30</idno>
         <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg0031.tlg005.perseus-grc2:9.30"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote66-2" source="#bib66-2">
         <anchor xml:id="testimonia-66.en.1" corresp="testimonia-66.grc.1"/>
         When the brothers knew it, they brought him down to <placeName>Caesarea</placeName>, and sent him out to Tarsus. 
-      <note type="translation"/> 
-      <note type="discussion"/> 
-      <note type="corrigenda"/> 
       <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg0031.tlg005.perseus-eng2:9.30</idno>
         <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg0031.tlg005.perseus-eng2:9.30"/>
       </ab>
@@ -355,36 +348,6 @@
           <editor>
             <name>Rainbow Missions, Inc.</name>
           </editor>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

@@ -288,8 +288,6 @@
             τῆς ξηρᾶς Λιβύης ἤγαγεν ἑρπετὰ ἰοβόλα καὶ φοβερὰ ἀῤῥενοθήλεα, καὶ ἀπέλυσεν εἰς τὸ τῆς
             Αἰγύπτου λίμιτον διὰ τοὺς Νομάδας καὶ Βλεμμύας Βαρβάρους· καὶ διὰ τοῦτο γράφουσιν αὐτὸν
             ἑστῶτα μεταξὺ λεόντων καὶ ἀσπίδων.<note type="textual">Ed. Dindorf 1832</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref/>
       </ab>
@@ -309,8 +307,6 @@
             and he released them to the Egyptian frontier because of the barbarian Nomads and
             Blemmyes. And for this reason they portray him standing between between lions and
                asps.<note type="translation">Trans. J. L. Rife</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -319,55 +315,6 @@
         <bibl xml:id="bib249-1">
           <ptr target="https://caesarea-maritima.org/bibl/4ICC3ERG"/>
           <citedRange unit="p">504.7-505.6</citedRange>
-          <citedRange unit="p"/>
-        </bibl>
-        <bibl xml:id="bib249-2">
-          <ptr target=""/>
-          <citedRange unit="section"/>
-          <citedRange unit="p"/>
-        </bibl>
-      </listBibl>
-      <listBibl>
-        <head>Additional Bibliography</head>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

@@ -289,9 +289,6 @@
             ὑπ᾿ ἔρωτι” Ἰωνικόν ἐστι), Κράτεια Κρατείας, Ἀλεξάνδρεια Ἀλεξανδρείας,<placeName>Καισάρεια</placeName>
         <placeName>Καισαρείας</placeName>, Ἀντιόχεια Ἀντιοχείας.<note>Ed. Hilgard
                1889</note>
-        <note type="textual"/>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target="urn:cts:greekLit:tlg0087.tlg011.1st1K-grc1:2.2.4.127"/>
       </ab>
@@ -304,7 +301,6 @@
                Antiocheia-Antiocheias.<note type="translation">Trans. J. L. Rife</note>
         <note type="discussion">“Medeies hyp’ eroti” is quoted from Apollonius of Rhodes, Voyage of
                the Argo 3.31.</note>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -314,54 +310,6 @@
           <ptr target="https://caesarea-maritima.org/bibl/TMCUBZU3"/>
           <citedRange unit="p">303</citedRange>
           <citedRange unit="line">12-20</citedRange>
-        </bibl>
-        <bibl xml:id="bib228-2">
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-      </listBibl>
-      <listBibl>
-        <head>Additional Bibliography</head>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

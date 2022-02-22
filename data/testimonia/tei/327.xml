@@ -296,8 +296,6 @@
             ἀσφαλοῦς καὶ εἰρηνευομένης τινὸς πόλεως ἐξελθών· εἰκὸς δὲ ὡς ἄρα ὁδοιπορῶν καὶ λῃσταῖς
             συντεύξομαι καὶ συλληφθήσομαι, καὶ γυμνωθεὶς τρωθήσομαι τραύμασι πολλοῖς, καὶ κείσομαί
             που ἡμιθνὴς ἐρριμμένος.<note type="textual">Ed. Crouzel 1969</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -324,8 +322,6 @@
             peaceful city. To be sure, it is likely that I will run into robbers on the road, they
             will capture me, strip me naked, cripple me with many wounds, and throw me away to lie
             somewhere half-dead.<note type="translation">Adapted from Salmond 1886</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target="https://ccel.org/ccel/schaff/anf06/anf06.iii.iii.iv.xvi.html"/>
       </ab>
@@ -338,51 +334,6 @@
         </bibl>
         <bibl xml:id="bib327-2">
           <ptr target="https://caesarea-maritima.org/bibl/RTCA5XRS"/>
-          <citedRange unit="p"/>
-          <citedRange unit=""/>
-        </bibl>
-      </listBibl>
-         <listBibl>
-        <head>Additional Bibliography</head>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
         </bibl>
       </listBibl>
       <note type="related-texts"/>

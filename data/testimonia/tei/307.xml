@@ -277,8 +277,6 @@
             monte Sion qualitas regionum monstratur usque ad Cesaream Palestinae occasum versus. Nam
             quamvis aliqua reperriantur angusta et brevia aspera loca interposita, praecipue tamen
             latiores plani monstrantur campi interpositis laetiores olivetis.<note type="textual">Ed. Bieler 1965</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -290,8 +288,6 @@
             different. For, although here and there can be found rough spots over narrow, short
             stretches, by and large the wide open, flat plains prove to be very pleasant, with olive
             trees spread about.<note type="translation">Trans. J. L. Rife </note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref/>
       </ab>
@@ -301,54 +297,6 @@
           <ptr target="https://caesarea-maritima.org/bibl/LCEGGGHH"/>
           <citedRange unit="ch">1</citedRange>
           <citedRange unit="section">20</citedRange>
-        </bibl>
-        <bibl xml:id="bib307-2">
-          <ptr target=""/>
-          <citedRange unit="p"/>
-          <citedRange unit=""/>
-        </bibl>
-      </listBibl>
-         <listBibl>
-        <head>Additional Bibliography</head>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
         </bibl>
       </listBibl>
       <note type="related-texts">

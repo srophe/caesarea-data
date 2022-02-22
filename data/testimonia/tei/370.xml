@@ -289,7 +289,6 @@
             metropolitano tuo honorem reddere. Nee hoc dico, quod praeter amicitias, quae
             suspicionem generant, quidquam in legatione reprehendam; sed quia apud interrogantes
             magis et praesentes te purgare debueris.<note type="textual">Ed. Migne 1883</note>
-        <note type="discussion"/>
         <note type="corrigenda">Minor corr. J. L.
                Rife</note>
         <idno type="CTS-URN"/>
@@ -308,8 +307,6 @@
             to blame in the mission itself, except certain partialities which beget suspicion; I say
             this because you ought rather to clear yourself in the actual presence of your
                questioners.<note type="translation">Adapted from Fremantle 1892</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target="https://ccel.org/ccel/schaff/npnf206/npnf206.vi.viii.html"/>
       </ab>
@@ -322,51 +319,12 @@
         </bibl>
         <bibl xml:id="bib370-2">
           <ptr target="https://caesarea-maritima.org/bibl/4KIJIT36"/>
-          <citedRange unit="p"/>
-          <citedRange unit="ch"/>
         </bibl>
       </listBibl>
       <listBibl>
         <head>Additional Bibliography</head>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/MUU4ALR4"/>
-          <citedRange unit="p"/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit="p"/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

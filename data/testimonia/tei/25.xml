@@ -291,22 +291,15 @@
         </quote>, and <quote>
           <placeName xml:lang="en">Cesarea</placeName>
         </quote> are place names attested in <persName ref="http://viaf.org/viaf/22143666" role="author">Josephus</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg004" type="uniform" level="m">The Jewish War</title> 2.232-2.244. This testimonium was written circa <origDate period="#nabateanKingdom #earlyRoman #herodian" notBefore="0070" notAfter="0090">70 - 90 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
-      <desc type="context"/>
       <ab type="edition" xml:lang="grc" xml:id="quote25-1" source="#bib25-1">
         <anchor xml:id="testimonia-25.grc.1" corresp="testimonia-25.en.1"/>
         Αὖθις δὲ Γαλιλαίων καὶ Σαμαρέων γίνεται συμβολή. κατὰ γὰρ Γήμαν καλουμένην κώμην, ἥτις ἐν τῷ μεγάλῳ πεδίῳ κεῖται τῆς Σαμαρείτιδος, πολλῶν ἀναβαινόντων Ἰουδαίων ἐπὶ τὴν ἑορτὴν ἀναιρεῖταί τις Γαλιλαῖος. πρὸς τοῦτο πλεῖστοι μὲν ἐκ τῆς Γαλιλαίας συνέδραμον ὡς πολεμήσοντες τοῖς Σαμαρεῦσιν, οἱ γνώριμοι δ᾽ αὐτῶν ἐλθόντες πρὸς Κουμανὸν ἠντιβόλουν πρὶν ἀνηκέστου πάθους εἰς τὴν Γαλιλαίαν διαβάντα τιμωρήσασθαι τοὺς αἰτίους τοῦ φόνου: μόνως γὰρ ἂν οὕτως διαλυθῆναι πρὸ πολέμου τὸ πλῆθος. Κουμανὸς μὲν οὖν ἐν δευτέρῳ τὰς ἐκείνων ἱκεσίας τῶν ἐν χειρὶ πραγμάτων θέμενος ἀπράκτους ἀπέπεμψεν τοὺς ἱκέτας. Ἀγγελθὲν δὲ εἰς Ἱεροσόλυμα τὸ πάθος τοῦ πεφονευμένου τὰ πλήθη συνετάραξεν καὶ τῆς ἑορτῆς ἀφέμενοι πρὸς τὴν Σαμάρειαν ἐξώρμων ἀστρατήγητοι καὶ μηδενὶ τῶν ἀρχόντων κατέχοντι πειθόμενοι. τοῦ λῃστρικοῦ δ᾽ αὐτῶν καὶ στασιώδους Δειναίου τις υἱὸς Ἐλεάζαρος καὶ Ἀλέξανδρος ἐξῆρχον, οἳ τοῖς ὁμόροις τῆς Ἀκραβατηνῆς τοπαρχίας προσπεσόντες αὐτούς τε ἀνῄρουν μηδεμιᾶς ἡλικίας φειδὼ ποιούμενοι καὶ τὰς κώμας ἐνεπίμπρασαν. Κουμανὸς δὲ ἀναλαβὼν ἀπὸ <placeName xml:lang="grc">τῆς Καισαρείας</placeName> μίαν ἴλην ἱππέων καλουμένην <placeName xml:lang="grc">Σεβαστηνῶν</placeName> ἐξεβοήθει τοῖς πορθουμένοις καὶ τῶν περὶ τὸν Ἐλεάζαρον πολλοὺς μὲν συνέλαβεν, πλείστους δ᾽ ἀπέκτεινεν. πρὸς δὲ τὸ λοιπὸν πλῆθος τῶν πολεμεῖν τοῖς Σαμαρεῦσιν ὡρμημένων οἱ ἄρχοντες τῶν Ἱεροσολύμων ἐκδραμόντες σάκκους ἀμπεχόμενοι καὶ τέφραν τῶν κεφαλῶν καταχέοντες ἱκέτευον ἀναχωρεῖν καὶ μὴ διὰ τὴν εἰς Σαμαρεῖς ἄμυναν ἐπὶ Ἱεροσόλυμα Ῥωμαίους παροξύνειν, ἐλεῆσαί τε τὴν πατρίδα καὶ τὸν ναὸν τέκνα τε καὶ γυναῖκας ἰδίας, ἃ πάντα κινδυνεύειν δι᾽ ἑνὸς ἐκδικίαν Γαλιλαίου παραπολέσθαι. τούτοις πεισθέντες Ἰουδαῖοι διελύθησαν. ἐτράποντο δὲ πολλοὶ πρὸς λῃστείαν διὰ τὴν ἄδειαν, καὶ κατὰ πᾶσαν τὴν χώραν ἁρπαγαί τε ἦσαν καὶ τῶν θρασυτέρων ἐπαναστάσεις. καὶ τῶν Σαμαρέων οἱ δυνατοὶ πρὸς Οὐμμίδιον Κουαδρᾶτον, ὃς ἦν ἡγεμὼν τῆς Συρίας, εἰς Τύρον παραγενόμενοι δίκην τινὰ παρὰ τῶν πορθησάντων τὴν χώραν ἠξίουν λαβεῖν. παρόντες δὲ καὶ οἱ γνώριμοι τῶν Ἰουδαίων καὶ ὁ ἀρχιερεὺς Ἰωνάθης υἱὸς Ἀνάνου κατάρξαι μὲν ἔλεγον τῆς ταραχῆς Σαμαρέας διὰ τὸν φόνον, αἴτιον δὲ τῶν ἀποβεβηκότων Κουμανὸν γεγονέναι μὴ θελήσαντα τοὺς αὐθέντας τοῦ σφαγέντος ἐπεξελθεῖν. Κουαδρᾶτος δὲ τότε μὲν ἑκατέρους ὑπερτίθεται φήσας, ἐπειδὰν εἰς τοὺς τόπους παραγένηται, διερευνήσειν ἕκαστα, αὖθις δὲ παρελθὼν εἰς <placeName xml:lang="grc">Καισάρειαν</placeName> τοὺς ὑπὸ Κουμανοῦ ζωγρηθέντας ἀνεσταύρωσεν πάντας. ἐκεῖθεν εἰς Λύδδα παραγενόμενος πάλιν διήκουσεν τῶν Σαμαρέων, καὶ μεταπεμψάμενος ὀκτωκαίδεκα τῶν Ἰουδαίων, οὓς ἐπέπυστο μετεσχηκέναι τῆς μάχης, πελέκει διεχειρίσατο: δύο δ᾽ ἑτέρους τῶν δυνατωτάτων καὶ τοὺς ἀρχιερεῖς Ἰωνάθην καὶ Ἀνανίαν τόν τε τούτου παῖδα Ἄνανον καί τινας ἄλλους Ἰουδαίων γνωρίμους ἀνέπεμψεν ἐπὶ Καίσαρα, ὁμοίως δὲ καὶ Σαμαρέων τοὺς ἐπιφανεστάτους. παρήγγειλεν δὲ καὶ Κουμανῷ καὶ Κέλερι τῷ χιλιάρχῳ πλεῖν ἐπὶ Ῥώμης δώσοντας Κλαυδίῳ λόγον ὑπὲρ τῶν γεγενημένων. ταῦτα διαπραξάμενος ἀπὸ Λύδδων ἀνέβαινεν εἰς Ἱεροσόλυμα, καὶ καταλαβὼν τὸ πλῆθος ἄγον τὴν τῶν ἀζύμων ἑορτὴν ἀθορύβως εἰς Ἀντιόχειαν ἐπανῄει.
-      <note type="textual"/>
-      <note type="discussion"/>
-      <note type="corrigenda"/>
       <idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg0526.tlg004.perseus-grc1:2.232-2.244</idno>
         <ref target="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-grc1:2.232-2.244"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote25-2" source="#bib25-2">
         <anchor xml:id="testimonia-25.en.1" corresp="testimonia-25.grc.1"/>
         After this there happened a fight between the Galileans and the Samaritans; it happened at a village called Geman, which is situate in the great plain of Samaria; where, as a great number of Jews were going up to Jerusalem to the feast [of tabernacles,] a certain Galilean was slain; and besides, a vast number of people ran together out of Galilee, in order to fight with the Samaritans. But the principal men among them came to Cumanus, and besought him that, before the evil became incurable, he would come into Galilee, and bring the authors of this murder to punishment; for that there was no other way to make the multitude separate without coming to blows. However, Cumanus postponed their supplications to the other affairs he was then about, and sent the petitioners away without success. But when the affair of this murder came to be told at Jerusalem, it put the multitude into disorder, and they left the feast; and without any generals to conduct them, they marched with great violence to Samaria; nor would they be ruled by any of the magistrates that were set over them, but they were managed by one Eleazar, the son of Dineus, and by Alexander, in these their thievish and seditious attempts. These men fell upon those that were ill the neighborhood of the Acrabatene toparchy, and slew them, without sparing any age, and set the villages on fire. But Cumanus took one troop of horsemen, called the troop of <placeName xml:lang="en">Sebaste</placeName>, out of <placeName xml:lang="en">Cesarea</placeName>, and came to the assistance of those that were spoiled; he also seized upon a great number of those that followed Eleazar, and slew more of them. And as for the rest of the multitude of those that went so zealously to fight with the Samaritans, the rulers of Jerusalem ran out clothed with sackcloth, and having ashes on their head, and begged of them to go their ways, lest by their attempt to revenge themselves upon the Samaritans they should provoke the Romans to come against Jerusalem; to have compassion upon their country and temple, their children and their wives, and not bring the utmost dangers of destruction upon them, in order to avenge themselves upon one Galilean only. The Jews complied with these persuasions of theirs, and dispersed themselves; but still there were a great number who betook themselves to robbing, in hopes of impunity; and rapines and insurrections of the bolder sort happened over the whole country. And the men of power among the Samaritans came to Tyre, to Ummidius Quadratus, the president of Syria, and desired that they that had laid waste the country might be punished: the great men also of the Jews, and Jonathan the son of Ananus the high priest, came thither, and said that the Samaritans were the beginners of the disturbance, on account of that murder they had committed; and that Cumanus had given occasion to what had happened, by his unwillingness to punish the original authors of that murder. But Quadratus put both parties off for that time, and told them, that when he should come to those places, he would make a diligent inquiry after every circumstance. After which he went to <placeName xml:lang="en">Cesarea</placeName>, and crucified all those whom Cumanus had taken alive; and when from thence he was come to the city Lydda, he heard the affair of the Samaritans, and sent for eighteen of the Jews, whom he had learned to have been concerned in that fight, and beheaded them; but he sent two others of those that were of the greatest power among them, and both Jonathan and Ananias, the high priests, as also Artanus the son of this Ananias, and certain others that were eminent among the Jews, to Caesar; as he did in like manner by the most illustrious of the Samaritans. He also ordered that Cureanus [the procurator] and Celer the tribune should sail to Rome, in order to give an account of what had been done to Caesar. When he had finished these matters, he went up from Lydda to Jerusalem, and finding the multitude celebrating their feast of unleavened bread without any tumult, he returned to Antioch.
-      <note type="translation"/>
-      <note type="discussion"/>
-      <note type="corrigenda"/>
       <idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:2.232-2.41</idno>
         <ref target="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:2.232-2.41"/>
       </ab>
@@ -357,36 +350,6 @@
             <forename>Flavius</forename>
             <surname>Josephus</surname>
           </author>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

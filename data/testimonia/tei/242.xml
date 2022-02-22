@@ -272,8 +272,6 @@
       <ab type="edition" xml:lang="grc" xml:id="quote242-1" source="#bib242-1">
         <anchor xml:id="testimonia-242.grc.1" corresp="testimonia-242.en.1"/>Ἔκτισε δὲ καὶ ἐν<placeName>Καισαρείᾳ τῆς Παλαιστίνης</placeName>λουτρόν, καὶ ἐν Νικομηδείᾳ τῆς Βιθυνίας καὶ ἐν Ἐφέσῳ τῆς Ἀσίας· ἅπερ δημόσια λουτρὰ εἰς
             τὸ ἴδιον ἐπεκάλεσεν ὄνομα.<note type="textual">Ed. Thurn 2000</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -282,8 +280,6 @@
                Palestine</placeName>and at Nicomedia of Bithynia and at Ephesus in Asia. These
             public baths he named after himself.<note type="translation">Adapted from Jeffreys et
                al. 2017</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -298,49 +294,6 @@
           <ptr target="https://caesarea-maritima.org/bibl/YYEJCD9W"/>
           <citedRange unit="bk">11.25</citedRange>
           <citedRange unit="p">149</citedRange>
-        </bibl>
-      </listBibl>
-      <listBibl>
-        <head>Additional Bibliography</head>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

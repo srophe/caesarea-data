@@ -270,15 +270,12 @@
         </quote>,  and <quote>
           <placeName xml:lang="en">church of Cæsarea in Palestine,</placeName>
         </quote> are place names attested in <persName ref="http://viaf.org/viaf/95147024 " role="author">Jerome</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg3389.tlg001" type="uniform" level="m">De viris illustribus</title> 98. This testimonium was written circa <origDate period="#byzantine" when="0392">392 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</desc>
-      <desc type="context"/>
       <ab type="edition" xml:lang="la" xml:id="quote140-1" source="#bib140-1">
-        <anchor xml:id="testimonia-140.la.1" corresp="testimonia-140.en.1"/>Acacius quem, quia luscus erat, μονόφθαλμον nuncupabant, <placeName xml:lang="la">Caesariensis ecclesiae in Palestina</placeName> episcopus, elaborauit in ecclesiasten decem et Septem uolumina, et Συμμίκτων ζητημάτων sex, multos praeterea diuersosque tractatus. In tantum autem sub Constantio imperatore damit, ut in Liberii locum Romae Felicem episcopum constitueret. <note type="textual"/> <note type="discussion"/> <note type="corrigenda"/> <idno type="CTS-URN"/>
+        <anchor xml:id="testimonia-140.la.1" corresp="testimonia-140.en.1"/>Acacius quem, quia luscus erat, μονόφθαλμον nuncupabant, <placeName xml:lang="la">Caesariensis ecclesiae in Palestina</placeName> episcopus, elaborauit in ecclesiasten decem et Septem uolumina, et Συμμίκτων ζητημάτων sex, multos praeterea diuersosque tractatus. In tantum autem sub Constantio imperatore damit, ut in Liberii locum Romae Felicem episcopum constitueret.    <idno type="CTS-URN"/>
         <ref target="https://archive.org/details/hieronymusundge00berngoog/page/n109/mode/2up"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote140-2" source="#bib140-2">
-        <anchor xml:id="testimonia-140.en.1" corresp="testimonia-140.la.1"/>Acacius, who, because he was blind in one eye, they nicknamed “the one-eyed,” bishop of the <placeName xml:lang="en">church of Cæsarea in Palestine,</placeName> wrote seventeen volumes On Ecclesiastes and six of Miscellaneous questions, and many treatises besides on various subjects. He was so influential in the reign of the emperor Constantius that he made Felix bishop of Rome in the place of Liberius.<note type="translation"/>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
+        <anchor xml:id="testimonia-140.en.1" corresp="testimonia-140.la.1"/>Acacius, who, because he was blind in one eye, they nicknamed “the one-eyed,” bishop of the <placeName xml:lang="en">church of Cæsarea in Palestine,</placeName> wrote seventeen volumes On Ecclesiastes and six of Miscellaneous questions, and many treatises besides on various subjects. He was so influential in the reign of the emperor Constantius that he made Felix bishop of Rome in the place of Liberius.
         <idno type="CTS-URN"/>
         <ref target="https://ccel.org/ccel/schaff/npnf203/npnf203.v.iii.c.html"/>
       </ab>
@@ -302,36 +299,6 @@
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/R8Y9YB8L"/>
           <citedRange unit="section">98</citedRange>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

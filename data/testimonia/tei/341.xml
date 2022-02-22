@@ -293,7 +293,6 @@
             quibusdam aliis celeriter et utiliter castrum<placeName>Caesareae</placeName>firmaverunt. Templarii vero auxiliantibus peregrinis et Hospitali de domo Theotonicorum
             castrum quod prius dicibatur Filii Dei reaedificaverunt Peregrinorum vocant. Ibi in
             fossionibus ignota moneta inventa est, peregrinorum labores et sumptus allevians.<note type="textual">Ed. Bongars 1611</note>
-        <note type="discussion"/>
         <note type="corrigenda">Minor corr. J. L. Rife</note>
         <idno type="CTS-URN"/>
       </ab>
@@ -313,8 +312,6 @@
             Castle of the Pilgrims. There in the ditches money was found unexpectedly, lightening
             the hard work and expenses of the pilgrims.<note type="translation">Adapted from Lock
                2011</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -328,50 +325,6 @@
         <bibl xml:id="bib341-2">
           <ptr target="https://caesarea-maritima.org/bibl/46ITBHCT"/>
           <citedRange unit="p">328</citedRange>
-          <citedRange unit=""/>
-        </bibl>
-      </listBibl>
-      <listBibl>
-        <head>Additional Bibliography</head>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

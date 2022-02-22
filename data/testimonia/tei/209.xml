@@ -295,8 +295,6 @@
             proceditur et pervenitur in civitatem quondam pulchram, sed nunc desertam, Castrum
             peregrini vocatam, sed olim Assur dictam.<note type="textual">Ed. Heuyks
                1851</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref/>
       </ab>
@@ -311,8 +309,6 @@
             with her on this subject. Going on from <placeName>Caesarea</placeName> one comes to
             what was once a fair city but is now deserted called Pilgrim’s Castle, but in old times
                Assur.<note type="translation">Adapted from Stewart 1895</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -327,49 +323,6 @@
           <ptr target="https://caesarea-maritima.org/bibl/EKRFE8EQ"/>
           <citedRange unit="ch">28</citedRange>
           <citedRange unit="p">64-65</citedRange>
-        </bibl>
-      </listBibl>
-         <listBibl>
-        <head>Additional Bibliography</head>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit="p"/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
         </bibl>
       </listBibl>
       <note type="related-texts"/>

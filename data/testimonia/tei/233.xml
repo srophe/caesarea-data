@@ -298,8 +298,6 @@
             lapidem, lapis quasi liquatus et per semet ipsum lectum et concavum se faciens
             occultavit puerum et Mariam et Ioseph, ut non viderent eos quidam insequentes et
             volentes eos ledere, ut dicunt.<note type="textual">Ed. Laurent 1873</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target="https://babel.hathitrust.org/cgi/pt?id=hvd.32044019846799&amp;view=1up&amp;seq=125"/>
       </ab>
@@ -314,8 +312,6 @@
             as though melted, turning itself into a bed on its own, hollowed out, hid the Child and
             Mary and Joseph, so that anyone pursuing and wanting to harm them could not see them,
             [or] so the story goes.<note type="translation">Trans. J. L. Rife</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -326,53 +322,12 @@
           <citedRange unit="p">113</citedRange>
           <citedRange unit="ch">6.23-6.28</citedRange>
         </bibl>
-        <bibl xml:id="bib233-2">
-          <ptr target=""/>
-          <citedRange unit="ch"/>
-          <citedRange unit="section"/>
-        </bibl>
       </listBibl>
       <listBibl>
         <head>Additional Bibliography</head>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/DP26KG4M"/>
           <citedRange unit="p">361-375</citedRange>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

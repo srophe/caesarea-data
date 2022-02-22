@@ -295,8 +295,6 @@
             Κωνσταντινουπολίτην, Εὐστάθιον τὸν Σεβαστείας, καὶ Ἀνιανὸν τὸν Ἀντιοχέα, τότε
             κατασταθέντα, κατ’ αὐτῶν &lt;τε&gt; ἑαυτὸν στρατεύσας ὁ αὐτὸς Ἀκάκιος πολλὴν φύρσιν
             εἰργάσατο.<note type="textual">Ed. Holl 1933</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -316,8 +314,6 @@
             Constantinople, Eustathius of Sebaste, and the newly consecrated bishop of Antioch,
             Anianus. &lt;And&gt; by leading his troops against them, Acacius caused a great deal of
                confusion.<note type="translation">Adapted from Williams 2013</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -332,49 +328,6 @@
           <ptr target="https://caesarea-maritima.org/bibl/JPPNQCCZ"/>
           <citedRange unit="bk">73.23.2-4</citedRange>
           <citedRange unit="p">468</citedRange>
-        </bibl>
-      </listBibl>
-      <listBibl>
-        <head>Additional Bibliography</head>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit="section"/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

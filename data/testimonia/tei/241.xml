@@ -275,8 +275,6 @@
             αὐτῆς Ἰουδαϊκῆς πραίδας ὁ αὐτὸς Οὐεσπασιανὸς ᾠδεῖον μέγα πάνυ, θεάτρου ἔχον διάστημα
             μέγα, ὄντος καὶ αὐτοῦ τοῦ τόπου πρῴην συναγωγῆς τῶν Ἰουδαίων.<note type="textual">Ed.
                Thurn 2000</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -285,8 +283,6 @@
             odeum in<placeName>Caesarea of Palestine</placeName>, the size of a large theater. Its
             site too had previously been that of a Jewish synagogue.<note type="translation">Adapted
                from Jeffreys et al. 2017</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -301,49 +297,6 @@
           <ptr target="https://caesarea-maritima.org/bibl/YYEJCD9W"/>
           <citedRange unit="bk">10.46</citedRange>
           <citedRange unit="p">221</citedRange>
-        </bibl>
-      </listBibl>
-      <listBibl>
-        <head>Additional Bibliography</head>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

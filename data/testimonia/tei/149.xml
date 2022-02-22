@@ -277,8 +277,6 @@
             postea ab Herode, rege Iudaeae, in honorem Caesaris Augusti
                <placeName>Caesarea</placeName> nuncupata. In qua Corneli domum Christi vidit
             Ecclesia, et Philippi aediculas, et cubiculum quattuor virginum prophetarum.<note type="textual">Ed. Lindsay 1911</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref/>
       </ab>
@@ -287,8 +285,6 @@
             Tower, which was later named <placeName>Caesarea</placeName> by Herod, king of Judaea,
             in honor of Caesar Augustus. There the Church of Christ saw the home of Cornelius, the
             house of Philip, and the room of the four virgin prophets.<note type="translation">Trans. J. L. Rife</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -299,53 +295,14 @@
           <citedRange unit="bk">15</citedRange>
           <citedRange unit="ch">1.18</citedRange>
         </bibl>
-        <bibl xml:id="bib149-2">
-          <ptr target=""/>
-          <citedRange unit="section"/>
-          <citedRange unit="p"/>
-        </bibl>
       </listBibl>
          <listBibl>
         <head>Additional Bibliography</head>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/4ZNQT2QD"/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
         </bibl>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/AQ6CUTBN"/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
         </bibl>
       </listBibl>
       <note type="related-texts">
