@@ -299,8 +299,8 @@
             ἀποδέδειχεν. <note type="textual">Ed. Gressmann 1904</note>
         <note type="textual">Checked
                against Gressmand and Laminski 1992</note>
-        <idno type="CTS-URN">urn.cts:greekLit:tlg2018.tlg010.opp-grc1:6</idno>
-        <ref target="https://scaife.perseus.org/reader/urn:cts:greekLit:tlg2018.tlg010.opp-grc1:6"/>
+            <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg010.1st1K-grc1</idno>
+            <ref target="https://scaife.perseus.org/reader/urn:cts:greekLit:tlg2018.tlg010.1st1K-grc1:6"/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote91-2" source="#bib91-2">
         <anchor xml:id="testimonia-91.en.1" corresp="testimonia-91.grc.1"/>In any case, it is not possible to comprehend in number how many

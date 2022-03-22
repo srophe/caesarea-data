@@ -285,8 +285,8 @@
             “Συνεχῶς δʼ ἐστὶ <placeName>Στράτωνος πύργος</placeName>, εἶτα ἔνι Δῶρα, ἐπὶ
             χερσονησοειδοῦς τόπου κείμενον πολισμάτιον, ἀρχομένου τοῦ ὄρους τοῦ Καρμήλου.” Καὶ ἐν θʹ
             Γεωγραφουμένων τὸ αὐτό.<note type="textual">Ed. Stiehl 1856</note>
-        <idno type="CTS-URN">urn:cts:greekLit:tlg4003.tlg003.1st1K-grc1:3</idno>
-        <ref/>
+            <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg4003.tlg003.1st1K-grc1:3</idno>
+            <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg4003.tlg003.1st1K-grc1:3"/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote47-2" source="#bib47-2">
         <anchor xml:id="testimonia-47.en.1" corresp="testimonia-47.grc.1"/>ASIA. Book 9. Doros, a city in Phoenicia. Hecataeus in [his book on]
