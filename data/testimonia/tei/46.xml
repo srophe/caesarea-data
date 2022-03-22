@@ -286,8 +286,8 @@
             ᾱ μὲν καθαρὸν οἷον μαῖα μαίας, γραῖα γραίας, γαῖα γαίας, Μήδεια Μηδείας (τὸ γὰρ “Μηδείης
             ὑπ᾿ ἔρωτι” Ἰωνικόν ἐστι), Κράτεια Κρατείας, Ἀλεξάνδρεια Ἀλεξανδρείας,
                <placeName>Καισάρεια</placeName> Καισαρείας, Ἀντιόχεια Ἀντιοχείας.<note type="textual">Ed. Lentz 1868</note>
-        <idno type="CTS-URN">urn:cts:greekLit:tlg0087.tlg011.1st1K-grc1:2.2.4.127</idno>
-        <ref target=""/>
+            <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg0087.tlg011.1st1K-grc1:2.2.4.127</idno>
+            <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg0087.tlg011.1st1K-grc1:2.2.4.127"/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote46-2" source="#bib46-2">
         <anchor xml:id="testimonia-46.en.1" corresp="testimonia-46.grc.1"/>As for feminine nouns ending -a, if they have pure -a (i.e., no
