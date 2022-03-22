@@ -272,13 +272,13 @@
         </quote> are place names attested in <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>'s <title ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Historia ecclesiastica</title> 7.14.1. This testimonium was written circa <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote114-1" source="#bib114-1">
         <anchor xml:id="testimonia-114.grc.1" corresp="testimonia-114.en.1"/>Ἐν τούτῳ δὲ τῆς μὲν Ρωμαίων ἐκκλησίας εἰσέτι τότε καθηγεῖτο Ξυστὸς, τῆς δὲ ἐπ’ Ἀντιοχείας μετὰ Φάβιον Δημητριανὸς, Φιρμιλλιανὸς δὲ Καισαρείας τῆς Καππαδοκῶν, καὶ ἐπὶ τούτοις τῶν κατὰ Πόντον ἐκκλησιῶν Γρηγόριος καὶ ὁ τούτου ἀδελφὸς Ἀθηνόδωρος, Ὠριγένους γνώριμοι. τῆς δ’ ἐπὶ Παλαιστίνης <placeName xml:lang="grc">Καισαρείας</placeName> Θεοκτίστου μεταλλάξαντος διαδέχεται τὴν ἐπισκοπὴν Δόμνος, βραχεῖ δὲ χρόνῳ τούτου διαγενομένου Θεότεκνος, ὁ καθ’ ἡμὰς, διάδοχος καθίσταται. τῆς δ’ Ὠριγένους διατριβῆς καὶ οὗτος ἦν. ἀλλὰ καὶ ἐν Ἱεροσολύμοις ἀναπαυσαμένου Μαζαβάνου τὸν θρόνον Ὑμέναιος, ὁ καὶ αὐτὸς ἐπὶ πλείστοις τοῖς καθ’ ἡμὰς διαπρέψας ἔτεσι, διεδέξατο.
-        <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg002.opp-grc2:7.14.1</idno>
-        <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2018.tlg002.opp-grc2:7.14.1"/>
+        <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg002.1st1K-grc2:7.14.1</idno>
+        <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2018.tlg002.1st1K-grc2:7.14.1"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote114-2" source="#bib114-2">
         <anchor xml:id="testimonia-114.en.1" corresp="testimonia-114.grc.1"/>At that time Xystus was still ruling the church of the Romans, Demetrian, who came after Fabius, the church at Antioch, and Firmilian at Caesarea in Cappadocia; and moreover Gregory and his brother Athenodore were ruling the churches of Pontus, pupils of Origen. As to <placeName xml:lang="en">Caesarea</placeName> in Palestine, on the death of Theoctistus, Domnus succeeded to the episcopate, but after he had continued in office a short time Theotecnus, our contemporary, was appointed to succeed him. He also was of the school of Origen. But at Jerusalem, when Mazabanes had entered into his rest, Hymenaeus succeeded to the throne, the same who was distinguished for very many years in our day.
-        <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg002.opp-eng1:7.14</idno>
-        <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2018.tlg002.opp-eng1:7.14"/>
+        <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg002.1st1K-eng1:7.14</idno>
+        <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2018.tlg002.1st1K-eng1:7.14"/>
       </ab>
       <listBibl>
         <head>Works Cited</head>

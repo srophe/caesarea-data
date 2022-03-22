@@ -272,13 +272,13 @@
         </quote> are place names attested in <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>'s <title ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Historia ecclesiastica</title> 7.5.1. This testimonium was written circa <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote112-1" source="#bib112-1">
         <anchor xml:id="testimonia-112.grc.1" corresp="testimonia-112.en.1"/>“Ἴσθι δὲ νῦν, ἀδελφὲ, ὅτι ἥνωνται “αἱ πρότερον διεσχισμέναι κατά τε τὴν ‟ἐκκλησίαι καὶ ἔτι προσωτέρω. καὶ πάντες εἰσὶν “ὁμόφρονες οἱ πανταχοῦ προεστῶτες, χαίροντες καθ’ “ὑπερβολὴν ἐπὶ τῇ παρὰ προσδοκίαν εἰρήνῃ γενο-μένῃ, Δημητριανὸς ἐν Ἀντιοχείᾳ, <placeName xml:lang="grc">Θεόκτιστος ἐν ‟Καισαρείᾳ,</placeName> Μαζαβάνης ἐν Αἰλίᾳ, Μαρῖνος ἐν Τυρῷ κοιμηθέντος Ἀλεξάνδρου, Ἡλιόδωρος ἐν Λαοδικείᾳ ‟ἀναπαυσαμένου Θηλυμίδρου, Ἕλενος ἐν Ταρσῷ καὶ ‘πᾶσαι αἶ τῆς Κιλικίας ἐκκλησίαι, Φιρμιλλιανὸς καὶ πᾶσα Καππαδοκία. τοὺ ’ς γὰρ περιφανεστέρους μό- ‟νους τῶν ἐπισκόπων ὠνόμασα, ἵνα μήτε μῆκος τῇ ‟ἐπιστολῇ μήτε βάρος προσάψω τῷ λόγῳ.
-        <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg002.opp-grc2:7.5.1</idno>
-        <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2018.tlg002.opp-grc2:7.5.1"/>
+        <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg002.1st1K-grc2:7.5.1</idno>
+        <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2018.tlg002.1st1K-grc2:7.5.1"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote112-2" source="#bib112-2">
         <anchor xml:id="testimonia-112.en.1" corresp="testimonia-112.grc.1"/>But know now, brother, that all the churches in the East and still further away, which were formerly divided, have been united, and all their presidents everywhere are of like mind, rejoicing above measure at the unexpected arrival of peace: Demetrian at Antioch, Theoctistus at <placeName xml:lang="en">Caesarea</placeName>, Mazabanes at Aelia, Marinus at Tyre (Alexander having fallen asleep), Heliodorus at Laodicea (for Thelymidres has entered into his rest), Helenus at Tarsus and all the churches of Cilicia, Firmilian and all Cappadocia. For I name only the more eminent bishops, to avoid making my letter long and my discourse tedious.
-        <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg002.opp-eng1:7.5</idno>
-        <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2018.tlg002.opp-eng1:7.5"/>
+        <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg002.1st1K-eng1:7.5</idno>
+        <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2018.tlg002.1st1K-eng1:7.5"/>
       </ab>
       <listBibl>
         <head>Works Cited</head>
