@@ -284,7 +284,7 @@
             likely patron. In this passage, which adopts the form of a parable or folktale, retells
             Zosimas’ journey to Caesarea on a donkey and his supernatural exchange with a lion.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote231-1" source="#bib231-1">
-        <anchor xml:id="testimonia-231.grc.1" corresp="testimonia-231.en.1"/>Τούτῳ τῷ Ζωσιμᾷ καί ποτε ἐπὶ<placeName>τὴν Καίσαρος</placeName>ἰόντι
+        <anchor xml:id="testimonia-231.grc.1" corresp="testimonia-231.en.1"/>Τούτῳ τῷ Ζωσιμᾷ καί ποτε ἐπὶ <placeName>τὴν Καίσαρος</placeName> ἰόντι
             ὀνάριόν τε παρασυρομένῳ ἐν ᾧ τῶν τινά οἱ ἐπιτηδείων ἐπεβέβλητο, λέων ἔπεισι καὶ τὸν ὄνον
             ἁρπάσας ἀπῄει. Ὁ δὲ Ζωσιμᾶς ἀνὰ τὴν ὕλην εἵπετο μέχρις ὅτου διακορὴσὁ λέων ἐκ τῆς θοίνης
             τοῦ ζῴου γέγονε· πρὸς ὃν ἐπιγελάσας ὁ Ζωσιμᾶς φησιν· Ἀλλὰ γάρ, ὦ ἑταῖρε, τὰ τῆς πορείας
@@ -293,15 +293,15 @@
             φύσεως, εἴπερ ἐθέλεις τῶν ἐντεῦθεν τὸν Ζωσιμᾶν ἀπαλλάττεσθαι καὶ θηρίον αὖθις εἶναι. Ὁ
             δὲ τοῦ θυμοῦ καθάπαξ ἐπιλελησμένος ὑπέσαινε καὶ τῷ Ζωσιμᾷ προσέτρεχε πράως εὐθύς, καὶ
             διὰ τοῦ σχήματος ἐβόα τὸ πειθήνιον. Ὧι περιθεὶς ὁ Ζωσιμᾶς τοῦ ὄνου τὸ φορτίον μέχρι τῶν
-            πυλῶν τ<placeName>ῆς Καίσαρος</placeName>ἤγαγε, δεικνὺς τοῦ θεοῦ τὴν δύναμιν καὶ ὡς
+            πυλῶν τ <placeName>ῆς Καίσαρος</placeName> ἤγαγε, δεικνὺς τοῦ θεοῦ τὴν δύναμιν καὶ ὡς
             ἅπαντα τοῖς ἀνθρώποις δοῦλά τε καὶ πειθήνια, ὅταν αὐτῷ ζῶμεν καὶ τὴν δεδομένην ἡμῖν
             χάριν οὐ παραχαράττομεν.<note type="textual">Ed. Bidez and Parmentier 1898</note>
         <idno type="CTS-URN"/>
         <ref target="https://babel.hathitrust.org/cgi/pt?id=hvd.ah3vvp&amp;view=1up&amp;seq=182"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote231-2" source="#bib231-2">
-        <anchor xml:id="testimonia-231.en.1" corresp="testimonia-231.grc.1"/>Once when this Zosimas was going to the<placeName>city of
-               Caesar</placeName>and was leading along an ass on which he had loaded some of his
+        <anchor xml:id="testimonia-231.en.1" corresp="testimonia-231.grc.1"/>Once when this Zosimas was going to the <placeName>city of
+               Caesar</placeName> and was leading along an ass on which he had loaded some of his
             necessities, a lion came up, seized the ass, and departed. Zosimas followed him into the
             wood until the lion became satiated from his feast on the animal. Zosimas smiled at it
             and said, “Look here, my friend, my journey has been interrupted. While I am stout, I
@@ -310,7 +310,7 @@
             carry the burden, if indeed you wish Zosimas to leave these parts and you to become a
             wild animal again.” And the lion, forgetting its ferocity, fawned and at once ran gently
             up to Zosimas, and through its demeanor proclaimed obedience. Zosimas put on him the
-            ass’s burden and led him as far as the gates of the<placeName>city of
+            ass’s burden and led him as far as the gates of the <placeName>city of
                Caesar</placeName>, showing God’s power, and how all things are obedient slaves to
             men when we live for Him and do not debase the grace given to us.<note type="translation">Rev. Whitby 2000</note>
         <idno type="CTS-URN"/>

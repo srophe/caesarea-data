@@ -269,7 +269,7 @@
             roughly one century before Jerome’s work.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote292-1" source="#bib292-1">
         <anchor xml:id="testimonia-292.la.1" corresp="testimonia-292.en.1"/>Iafthie in tribu Zabulon. nunc usque Ioppe vocatur ascensus Iafo. sed et
-            oppidum Sycaminum nomine de<placeName>Caesarea</placeName>Ptolomaidem pergentibus
+            oppidum Sycaminum nomine de <placeName>Caesarea</placeName> Ptolomaidem pergentibus
             super mare propter montem Carmelum Efa dicitur.<note type="textual">Ed. Klosterman
                1904</note>
         <idno type="CTS-URN"/>
@@ -277,7 +277,7 @@
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote292-2" source="#bib292-2">
         <anchor xml:id="testimonia-292.en.1" corresp="testimonia-292.la.1"/>Iafthie in the tribe of Zebulon. Until now it is called Ioppe, the
-            Ascent of Iafo. It is also the town Sycaminus by name for those traveling from<placeName>Caesarea</placeName>to Ptolemais, on the sea beside Mount Carmel, called
+            Ascent of Iafo. It is also the town Sycaminus by name for those traveling from <placeName>Caesarea</placeName> to Ptolemais, on the sea beside Mount Carmel, called
                Efa.<note type="translation">Trans. J. L. Rife</note>
         <idno type="CTS-URN"/>
         <ref target=""/>

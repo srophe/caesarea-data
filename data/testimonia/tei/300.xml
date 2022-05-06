@@ -282,7 +282,7 @@
             routes between Shechem and Nazareth and the coastal settlements, including
             Caesarea.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote300-1" source="#bib300-1">
-        <anchor xml:id="testimonia-300.la.1" corresp="testimonia-300.en.1"/>De Sichem iter est ad<placeName>Cesaream Palestinam</placeName>, a<placeName>Cesarea</placeName>ad Cayphas, a Caypha vero ad Accaron. De Acharonte
+        <anchor xml:id="testimonia-300.la.1" corresp="testimonia-300.en.1"/>De Sichem iter est ad <placeName>Cesaream Palestinam</placeName>, a <placeName>Cesarea</placeName> ad Cayphas, a Caypha vero ad Accaron. De Acharonte
             distat Nazareth quasi octo miliaria ad orientem. Civitas autem Nazaret omnino a
             Sarracenis devastata atque precipitata, sed tamen locum dominicae annuntiationis
             monasterium demonstrat valde praeclarum.<note type="textual">Ed. Huygens
@@ -291,8 +291,8 @@
         <ref/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote300-2" source="#bib300-2">
-        <anchor xml:id="testimonia-300.en.1" corresp="testimonia-300.la.1"/>From Sichem the road goes to<placeName>Caesarea
-               Palestina</placeName>, from<placeName>Caesarea</placeName>to Cayphas, and from
+        <anchor xml:id="testimonia-300.en.1" corresp="testimonia-300.la.1"/>From Sichem the road goes to <placeName>Caesarea
+               Palestina</placeName>, from <placeName>Caesarea</placeName> to Cayphas, and from
             Cayphas to Accaron; from Accaron Nazareth is about eight miles east. The city of
             Nazareth has been completely laid waste and overthrown by the Saracens, but nevertheless
             the very renowned monastery points out the place of our Lord’s Annunciation.<note type="translation">Rev. from Clifton 1896</note>

@@ -282,7 +282,7 @@
             during the mid- to late 4th century, the Homoiousians, among whom was Euzoeus, bishop of
             Caesarea.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote255-1" source="#bib255-1">
-        <anchor xml:id="testimonia-255.grc.1" corresp="testimonia-255.en.1"/>(5) ἐξ αὐτῶν γὰρ Εὐζώϊος ὁ ἐν<placeName>Καισαρείᾳ</placeName>, μαθητὴς
+        <anchor xml:id="testimonia-255.grc.1" corresp="testimonia-255.en.1"/>(5) ἐξ αὐτῶν γὰρ Εὐζώϊος ὁ ἐν <placeName>Καισαρείᾳ</placeName>, μαθητὴς
             ἐκείνων ὑπάρχων, ὃς καὶ τὸν Ἀκάκιον διεδέξατο μετὰ κατάστασιν Φιλουμένου τοῦ ὑπὸ
             Κυρίλλου τοῦ Ἱεροσολυμίτου κατασταθέντος καὶ μετὰ κατάστασιν Κυρίλλου τοῦ γέροντος τοῦ
             ἀπὸ τῶν περὶ Εὐτύχιον κατασταθέντος καὶ μετὰ κατάστασιν Γελασίου τοῦ ὑπὸ Κυρίλλου αὖθις
@@ -299,7 +299,7 @@
         <ref target=""/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote255-2" source="#bib255-2">
-        <anchor xml:id="testimonia-255.en.1" corresp="testimonia-255.grc.1"/>(5) One of them is Euzoeus of<placeName>Caesarea</placeName>, their
+        <anchor xml:id="testimonia-255.en.1" corresp="testimonia-255.grc.1"/>(5) One of them is Euzoeus of <placeName>Caesarea</placeName>, their
             disciple, who succeeded Acacius after the consecration of Philoumen, who was consecrated
             by Cyril of Jerusalem, and the consecration of the elderly Cyril, who was consecrated by
             the circle of Eutychius, and the consecration of Gelasius, who was consecrated again by

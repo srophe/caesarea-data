@@ -271,7 +271,7 @@
             compendium for the years 327-378 C.E. This passage from Jerome’s translation of Eusebius
             records an earthquake that struck Palestine during Hadrian’s reign.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote277-1" source="#bib277-1">
-        <anchor xml:id="testimonia-277.la.1" corresp="testimonia-277.en.1"/>Romanorum XII ….. CCXXVII Olymp(ias) (a) Nicopolis et<placeName>Caesarea</placeName>terrae motu conciderunt XIII (b) Antinous puer regius
+        <anchor xml:id="testimonia-277.la.1" corresp="testimonia-277.en.1"/>Romanorum XII ….. CCXXVII Olymp(ias) (a) Nicopolis et <placeName>Caesarea</placeName> terrae motu conciderunt XIII (b) Antinous puer regius
             eximiae pulchritudinis in Aegypto moritur. Quem Hadrianus vehementer deperiens—nam in
             deliciis habuerat—in deos refert. Ex cuius nomine etiam urbs appellata est<note type="textual">Ed. Helm 1956</note>
         <note type="corrigenda">Minor corr. J. L. Rife</note>
@@ -280,7 +280,7 @@
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote277-2" source="#bib277-2">
         <anchor xml:id="testimonia-277.en.1" corresp="testimonia-277.la.1"/>Year of the Romans [128 C.E.] 12 ….. 227th Olympiad (a) Nicopolis
-            and<placeName>Caesarea</placeName>collapsed in an earthquake. [129 C.E.] 13 (b)
+            and <placeName>Caesarea</placeName> collapsed in an earthquake. [129 C.E.] 13 (b)
             Antinous, the royal youth of exceptional beauty, dies in Egypt. Hadrian, feeling deeply
             dejected, for he considered (Antinous) his favorite, enlists him into the ranks of the
             gods. There was furthermore a city named after him.<note type="translation">Trans. J.

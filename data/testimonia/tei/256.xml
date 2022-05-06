@@ -272,14 +272,14 @@
             passage Dietrich describes major roads in his itinerary.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote256-1" source="#bib256-1">
         <anchor xml:id="testimonia-256.la.1" corresp="testimonia-256.en.1"/>Hec ergo via, que ab Achon per Nazareth et Samariam atque Neapolim
-            Ierosolimam ducit, ‘superior’ vocatur, et illa que per<placeName>Cesaream</placeName>et Liddam ab Achon Ierosolimam tendit ‘Maritima’ appellatur.<note type="textual">Ed.
+            Ierosolimam ducit, ‘superior’ vocatur, et illa que per <placeName>Cesaream</placeName> et Liddam ab Achon Ierosolimam tendit ‘Maritima’ appellatur.<note type="textual">Ed.
                Huygens 1994</note>
         <idno type="CTS-URN"/>
         <ref/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote256-2" source="#bib256-2">
         <anchor xml:id="testimonia-256.en.1" corresp="testimonia-256.la.1"/>Now this road which leads from Accon through Nazareth, Samaria, and
-            Neapolis to Jerusalem is called the High Road; and that which leads from Achon through<placeName>Caesarea</placeName>and Lidda to Jerusalem is called the Coastal Road.<note type="translation">Adapted from Stewart 1896</note>
+            Neapolis to Jerusalem is called the High Road; and that which leads from Achon through <placeName>Caesarea</placeName> and Lidda to Jerusalem is called the Coastal Road.<note type="translation">Adapted from Stewart 1896</note>
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>

@@ -271,7 +271,7 @@
             two, the first being I Corinthians 15:51. On the topic Jerome quotes from Acacius, the
             controversial bishop of Caesarea during the mid-4th century.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote299-1" source="#bib299-1">
-        <anchor xml:id="testimonia-299.la.1" corresp="testimonia-299.en.1"/>Acacius,<placeName>Caesareae</placeName>, quae prius Turris Stratonis
+        <anchor xml:id="testimonia-299.la.1" corresp="testimonia-299.en.1"/>Acacius, <placeName>Caesareae</placeName>, quae prius Turris Stratonis
             vocabatur, post Eusebium Pamphili episcopus, in quarto Συμμίκτων ζητημάτων libro
             proponens sibi hanc eandem quaestionem latius disputavit et utrumque suscipiens, quod
             inter se videtur esse contrarium, post principium, quod omisimus, sic locutus est:
@@ -282,7 +282,7 @@
         <ref/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote299-2" source="#bib299-2">
-        <anchor xml:id="testimonia-299.en.1" corresp="testimonia-299.la.1"/>Acacius, who after Eusebius Pamphili was bishop of<placeName>Caesarea</placeName>, which was formerly called Strato’s Tower, in
+        <anchor xml:id="testimonia-299.en.1" corresp="testimonia-299.la.1"/>Acacius, who after Eusebius Pamphili was bishop of <placeName>Caesarea</placeName>, which was formerly called Strato’s Tower, in
             Miscellaneous Questions 4 posed this same question to himself and debated it rather
             extensively. Looking unfavorably on both options, which he considered opposites, after
             the first part, which we have left out, he spoke as follows: “Let’s talk first about the
