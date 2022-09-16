@@ -238,7 +238,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Apocryphal Acts of Peter</title> <ref target="#bib216-1">49.20-50.10</ref> written by <persName ref="" role="author">Unknown</persName> in <origDate notBefore="0200" notAfter="0400" period="#lateRoman# byzantine">200-400 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/1052">Italy</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Apocryphal Acts of Peter</title> <ref target="#bib216-1">49.20-50.10</ref> written by <persName ref="" role="author">Unknown</persName> in <origDate notBefore="0200" notAfter="0400" period="#lateRoman #byzantine">200-400 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/1052">Italy</origPlace>.</creation>
       <langUsage>
         <language ident="la">Latin</language>
       </langUsage>
