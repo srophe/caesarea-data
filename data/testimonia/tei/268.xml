@@ -279,7 +279,7 @@
             inhabitants, alongside usual observations concerning the historical landscape. In this
             passage, he describes Caesarea on his journey south from Acre to Sinai.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote268-1" source="#bib268-1">
-        <anchor xml:id="testimonia-268.la.1" corresp="testimonia-268.en.1"/>(38) Item a monte Carmelo perveni <placeName>Cesaream</placeName>, (39)
+        <anchor xml:id="testimonia-268.la.1" corresp="#testimonia-268.en.1"/>(38) Item a monte Carmelo perveni <placeName>Cesaream</placeName>, (39)
             et transivi per fluvium, qui flui de Carmelo, in quo multi sunt cocodrilli. (40) Ista <placeName>Cesarea</placeName> est Palestina, que quondam dicta est Dor, et non
             Philippi, de qua supra dictum est. (41) Hic quondam fuit <placeName>Turris
                Stratonis</placeName>. (42) Hanc civitatem ad honorem Augusti Cesaris Herodes, rex
@@ -292,7 +292,7 @@
         <ref target=""/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote268-2" source="#bib268-2">
-        <anchor xml:id="testimonia-268.en.1" corresp="testimonia-268.la.1"/>(38) From Mount Carmel I came to Caesarea, (39) and I crossed over a
+        <anchor xml:id="testimonia-268.en.1" corresp="#testimonia-268.la.1"/>(38) From Mount Carmel I came to Caesarea, (39) and I crossed over a
             river that flows from Carmel in which there are many crocodiles. (40) That Caesarea is
             Caesarea Palaestina, which was formerly called Dor, and not Caesarea Philippi, about
             which I have spoken above. (41) Here once was Strato’s Tower. (42) Herod, King of

@@ -279,7 +279,7 @@
             Dalmatius, the Caesar in Antioch, planned the trial to occur at Caesarea Maritima, but
             the city’s bishop Eusebius intervened on Athanasius’ behalf.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote337-1" source="#bib337-1">
-        <anchor xml:id="testimonia-337.grc.1" corresp="testimonia-337.en.1"/>τῷ δ’ αὐτῷ ἔτει καὶ ἡ κατὰ Ἰσχύραν ἐπιβουλὴ Ἀθανασίου ἐτυρεύθη ἐν τῷ
+        <anchor xml:id="testimonia-337.grc.1" corresp="#testimonia-337.en.1"/>τῷ δ’ αὐτῷ ἔτει καὶ ἡ κατὰ Ἰσχύραν ἐπιβουλὴ Ἀθανασίου ἐτυρεύθη ἐν τῷ
             Μαρεώτῃ. οὗτος ὁ Ἰσχύρας ἱερέα ἑαυτὸν σχηματίσας περιῄει ἱερουργῶν· ὅπερ μαθὼν Ἀθανάσιος
             τοῦτον ἐκώλυσε τοῦ τολμήματος διὰ Μακαρίου πρεσβυτέρου. ὁ δὲ φυγὼν ἦλθε πρὸς Εὐσέβιον
             τὸν Νικομηδείας, κατηγορῶν Ἀθανασίου ὡς ἱερὰ σκεύη τῷ καιρῷ τῆς μυσταγωγίας ἐκ τοῦ
@@ -296,7 +296,7 @@
         <ref target=""/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote337-2" source="#bib337-2">
-        <anchor xml:id="testimonia-337.en.1" corresp="testimonia-337.grc.1"/>[A.M. 5827=334/5 C.E.] In the same year Ischyras concocted a plot
+        <anchor xml:id="testimonia-337.en.1" corresp="#testimonia-337.grc.1"/>[A.M. 5827=334/5 C.E.] In the same year Ischyras concocted a plot
             against Athanasius in Mareotis. This man Ischyras, having disguised himself as a priest,
             travelled about celebrating mass. When Athanasius learned of this, he forbade this
             outrageous behaviour through the presbyter Macarius. Ischyras then fled to Eusebius of

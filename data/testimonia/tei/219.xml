@@ -287,7 +287,7 @@
             Geography 576.19-27, written roughly one to two centuries before Stephanus’s
             work.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote219-1" source="#bib219-1">
-        <anchor xml:id="testimonia-219.grc.1" corresp="testimonia-219.en.1"/>Δῶρος· πόλις Φοινίκης. Ἑκαταῖος Ἀσίᾳ “μετὰ δὲ ἡ πάλαι Δῶρος, νῦν δὲ Δῶρα
+        <anchor xml:id="testimonia-219.grc.1" corresp="#testimonia-219.en.1"/>Δῶρος· πόλις Φοινίκης. Ἑκαταῖος Ἀσίᾳ “μετὰ δὲ ἡ πάλαι Δῶρος, νῦν δὲ Δῶρα
             καλεῖται.” καὶ οὕτως Ἰώσηπος αὐτὴν καλεῖ ἐν εʹ τῆς Ἰουδαϊκῆς ἱστορίας “ἀπὸ μέν Ἰορδάνου
             μέχρι Δώρων πόλεως.” καὶ πάλιν “Ἀζώτῳ καὶ Δώροις ὁριζόμενοι.” καὶ ἐν ϛʹ “εἶναί τι
             γύναιον ἐν πόλει Δώρῳ.” καὶ πάλιν “ὅτε ἤνεγκεν εἰς τὴν Δῶρον.” καὶ Κλαύδιος Ἰόλαος ἐν γʹ
@@ -308,7 +308,7 @@
         <ref/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote219-2" source="#bib219-2">
-        <anchor xml:id="testimonia-219.en.1" corresp="testimonia-219.grc.1"/>Doros. City in Phoenicia. Hecataeus in [his book on] Asia: “After
+        <anchor xml:id="testimonia-219.en.1" corresp="#testimonia-219.grc.1"/>Doros. City in Phoenicia. Hecataeus in [his book on] Asia: “After
             that is the city called Doros in the old times but today Dora.” So Josephus called it
             this in Jewish Antiquities 5: “from the Jordan to the city Doros”; and “bordered by
             Azotos and Doros”; and in Jewish Antiquities 6: “there is a woman in the city Doros”;

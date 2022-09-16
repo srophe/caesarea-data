@@ -288,13 +288,13 @@
      <placeName>Caesarea</placeName>
     </quote> are place names attested in <persName ref="http://viaf.org/viaf/305863610" role="author">Luke the Evangelist</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg0031.tlg005" type="uniform" level="m">Acts</title> 10.1. This testimonium was written circa <origDate period="#nabateanKingdom #earlyRoman" notBefore="0080" notAfter="0090">80 – 90 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote67-1" source="#bib67-1">
-        <anchor xml:id="testimonia-67.grc.1" corresp="testimonia-67.en.1"/>
+        <anchor xml:id="testimonia-67.grc.1" corresp="#testimonia-67.en.1"/>
         Ἀνὴρ δέ τις ἐν <placeName>Καισαρίᾳ</placeName> ὀνόματιΚορνήλιος, ἑκατοντάρχης ἐκσπείρης τῆς καλουμένηςἸταλικῆς,
         <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg0031.tlg005.perseus-grc2:10.1</idno>
         <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg0031.tlg005.perseus-grc2:10.1"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote67-2" source="#bib67-2">
-        <anchor xml:id="testimonia-67.en.1" corresp="testimonia-67.grc.1"/>
+        <anchor xml:id="testimonia-67.en.1" corresp="#testimonia-67.grc.1"/>
         Now there was a certain man in <placeName>Caesarea</placeName>, Cornelius by name, a centurion of what was called the Italian Regiment, 
       <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg0031.tlg005.perseus-eng2:10.1</idno>
         <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg0031.tlg005.perseus-eng2:10.1"/>

@@ -280,7 +280,7 @@
             Artemidorus, and by Stephan of Byzantium (Book of Nations Δ 150), who wrote six to seven
             centuries after Artemidorus.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote47-1" source="#bib47-1">
-        <anchor xml:id="testimonia-47.grc.1" corresp="testimonia-47.en.1"/>ΑΣΙΑ. Βιβλ. θʹ. Δῶρος, πόλις Φοινίκης. Ἑκαταῖος Ἀσίᾳ· “Μετὰ δὲ ἡ πάλαι
+        <anchor xml:id="testimonia-47.grc.1" corresp="#testimonia-47.en.1"/>ΑΣΙΑ. Βιβλ. θʹ. Δῶρος, πόλις Φοινίκης. Ἑκαταῖος Ἀσίᾳ· “Μετὰ δὲ ἡ πάλαι
             Δῶρος, νῦν δὲ Δῶρα καλεῖται.” Καὶ Ἀρτεμίδωρος Δῶρα τὴν πόλιν οἶδεν ἐν Ἐπιτομῇ τῶν ιαʹ·
             “Συνεχῶς δʼ ἐστὶ <placeName>Στράτωνος πύργος</placeName>, εἶτα ἔνι Δῶρα, ἐπὶ
             χερσονησοειδοῦς τόπου κείμενον πολισμάτιον, ἀρχομένου τοῦ ὄρους τοῦ Καρμήλου.” Καὶ ἐν θʹ
@@ -289,7 +289,7 @@
             <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg4003.tlg003.1st1K-grc1:3"/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote47-2" source="#bib47-2">
-        <anchor xml:id="testimonia-47.en.1" corresp="testimonia-47.grc.1"/>ASIA. Book 9. Doros, a city in Phoenicia. Hecataeus in [his book on]
+        <anchor xml:id="testimonia-47.en.1" corresp="#testimonia-47.grc.1"/>ASIA. Book 9. Doros, a city in Phoenicia. Hecataeus in [his book on]
             Asia: “After that is the city called Doros in the old times but today Dora.” And
             Artemidorus mentions the city Dora in Epitome of 11 books: “Continuing on is
                <placeName>Straton’s Tower</placeName>, and then Dora, a town situated on the

@@ -271,13 +271,13 @@
             2nd century C.E. The same information is recorded in the parallel passage at Jerome,
             Book of Places 137, written roughly one century after Eusebius’ work.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote258-1" source="#bib258-1">
-        <anchor xml:id="testimonia-258.grc.1" corresp="testimonia-258.en.1"/>Ναφεθδώρ. Σʹ ἐν τῇ παραλίᾳ Δώρᾳ. αὕτη ἐστὶν ἀπὸ θʹ σημείων <placeName>Καισαρείας</placeName>.<note>Ed. Klosterman 1904 [cited by
+        <anchor xml:id="testimonia-258.grc.1" corresp="#testimonia-258.en.1"/>Ναφεθδώρ. Σʹ ἐν τῇ παραλίᾳ Δώρᾳ. αὕτη ἐστὶν ἀπὸ θʹ σημείων <placeName>Καισαρείας</placeName>.<note>Ed. Klosterman 1904 [cited by
                page]</note>
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote258-2" source="#bib258-2">
-        <anchor xml:id="testimonia-258.en.1" corresp="testimonia-258.grc.1"/>Nafethdor. Symmachus for Dora “by the Sea”. This is nine milestones
+        <anchor xml:id="testimonia-258.en.1" corresp="#testimonia-258.grc.1"/>Nafethdor. Symmachus for Dora “by the Sea”. This is nine milestones
             from <placeName>Caesarea</placeName>.<note type="translation">Trans. J. L.
                Rife</note>
         <idno type="CTS-URN"/>

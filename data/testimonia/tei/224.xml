@@ -273,7 +273,7 @@
             passage Dietrich describes his itinerary south down the old Palestinian coast, providing
             characteristic details of the settled landscape.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote224-1" source="#bib224-1">
-        <anchor xml:id="testimonia-224.la.1" corresp="testimonia-224.en.1"/>Sequitur ultra quatuor miliaria Accaron sive Ptolemaida et postea
+        <anchor xml:id="testimonia-224.la.1" corresp="#testimonia-224.en.1"/>Sequitur ultra quatuor miliaria Accaron sive Ptolemaida et postea
             Cayphas nova atque vetusta ultra miliaria tria. Deinde etiam ultra miliaria sex <placeName>Cesarea Palestine</placeName>, ab Herode rege cum adiacente portu
             insigniter exstructa, itemque ultra XIIII miliaria Ioppe sive Iafis cum portu propter
             australis venti flatum naufragoso, post hec nichilominus in ordine Gaza sive Gazara et
@@ -284,7 +284,7 @@
         <ref/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote224-2" source="#bib224-2">
-        <anchor xml:id="testimonia-224.en.1" corresp="testimonia-224.la.1"/>Four miles further comes Accaron or Ptolemaïs, and three miles
+        <anchor xml:id="testimonia-224.en.1" corresp="#testimonia-224.la.1"/>Four miles further comes Accaron or Ptolemaïs, and three miles
             further Old and New Cayphas. Then sixteen miles further is <placeName>Caesarea
                Palestinae</placeName>, splendidly built by King Herod along with the adjoining
             harbor. And fourteen miles further is Joppa or Jafis, with a harbor full of shipwrecks

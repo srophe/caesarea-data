@@ -284,7 +284,7 @@
             detail concerning the sites between Acco and Ioppa. The passage on Caesarea describes
             sites in the city’s hinterland as well as in its immediate vicinity or interior.</desc>
          <ab type="edition" xml:lang="fro" xml:id="quote180-1" source="#bib180-1">
-        <anchor xml:id="testimonia-180.fro.1" corresp="testimonia-180.en.1"/>(1) Ki dritement veut aler en Ierusalem, primérement deit aler de Acre à
+        <anchor xml:id="testimonia-180.fro.1" corresp="#testimonia-180.en.1"/>(1) Ki dritement veut aler en Ierusalem, primérement deit aler de Acre à
             Caïphas, en quel chemin à mayn senestre est la Montaigne de seynte Margarete de Carme,
             ki est à .iiij. liues de Acre. En l’un chef de la montagne est Franche vile, où seynt
             Denys fu né, en une eglise peitite, en une petite roche contre val. En celé roche apert
@@ -342,7 +342,7 @@
         <ref target="https://archive.org/details/itinrairesajrus00parigoog/page/n237/mode/2up"/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote180-2" source="#bib180-2">
-        <anchor xml:id="testimonia-180.en.1" corresp="testimonia-180.fro.1"/>(1) Whoever wants to go to Jerusalem properly must first go from
+        <anchor xml:id="testimonia-180.en.1" corresp="#testimonia-180.fro.1"/>(1) Whoever wants to go to Jerusalem properly must first go from
             Acre to Caïphas. ON the road on the left is the mountain of St. Margaret of Carmel,
             which is 4 leagues from Acre. On one summit of the mountain is Freetown (Franche vile),
             where St. Denys was born in a small church, in a small cave toward the bottom. In that

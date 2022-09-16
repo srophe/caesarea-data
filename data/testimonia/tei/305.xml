@@ -272,7 +272,7 @@
             limits of Palestine-Judaea and plotted the settlements along the coast, including
             “Caesarea Stratonis.”</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote305-1" source="#bib305-1">
-        <anchor xml:id="testimonia-305.grc.1" corresp="testimonia-305.en.1"/>(1) Ἡ Παλαιστίνη, ἥτις καὶ Ἰουδαία καλεῖται, περιορίζεται ἀπὸ μὲν ἄρκτων
+        <anchor xml:id="testimonia-305.grc.1" corresp="#testimonia-305.en.1"/>(1) Ἡ Παλαιστίνη, ἥτις καὶ Ἰουδαία καλεῖται, περιορίζεται ἀπὸ μὲν ἄρκτων
             καὶ ἀνατολῶν Συρίᾳ κατὰ τὴν ἐκτεθειμένην γραμμήν, ἀπὸ δὲ [ἀνατολῶν καὶ] μεσημβρίας
             Ἀραβίᾳ Πετραίᾳ κατὰ γραμμὴν τὴν ἀπὸ τοῦ πρὸς τῇ Συρίᾳ ἑωθινοῦ ὁρίου μέχρι τοῦ πρὸς τῇ
             Αἰγύπτῳ πέρατος, οὗ πέρατος ἡ θέσις ὡς εἴρηται ξδ° δʹ λ° γοʹ ἀπὸ δὲ δύσεως τῷ τε
@@ -286,7 +286,7 @@
         <ref target=""/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote305-2" source="#bib305-2">
-        <anchor xml:id="testimonia-305.en.1" corresp="testimonia-305.grc.1"/>1) Palestine, which is also called Judaea, is bordered on the north
+        <anchor xml:id="testimonia-305.en.1" corresp="#testimonia-305.grc.1"/>1) Palestine, which is also called Judaea, is bordered on the north
             and the east by Syria along the line mentioned above. On the east and south it is
             bordered by Arabia Petraea along a line drawn from the southeastern border of Syria to
             its terminus at Egypt, The location of that terminus is, as stated, 64° 15ʹ 30° 40ʹ. On

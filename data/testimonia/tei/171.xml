@@ -287,7 +287,7 @@
             Jerusalem on Christmas, 1100 C.E., including the siege of Caesarea on May 2-17, 1101
             C.E. </desc>
          <ab type="edition" xml:lang="la" xml:id="quote171-1" source="#bib171-1">
-        <anchor xml:id="testimonia-171.la.1" corresp="testimonia-171.en.1"/>(23) Ipso vero in fine eiusdem anni viam universe carnis ingresso,
+        <anchor xml:id="testimonia-171.la.1" corresp="#testimonia-171.en.1"/>(23) Ipso vero in fine eiusdem anni viam universe carnis ingresso,
             frater eius Baldwinus, miles in armis strenuus, ab annis adolescentie sue preliis
             exercitatus, de communi omnium assensu electus est in dominum et in regem inunctus. Ipse
             autem vir militaris et in agendis negotiis suis providus et sollicitus cum summo studio
@@ -310,7 +310,7 @@
         <ref target=""/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote171-2" source="#bib171-2">
-        <anchor xml:id="testimonia-171.en.1" corresp="testimonia-171.la.1"/>(23) At the end of the year, he (sc. Godfrey of Bouillon) went the
+        <anchor xml:id="testimonia-171.en.1" corresp="#testimonia-171.la.1"/>(23) At the end of the year, he (sc. Godfrey of Bouillon) went the
             way of all flesh, but his brother Baldwin, a knight valiant in arms, practiced in
             fighting from his childhood, was by common consent chosen to reign over them and
             anointed as King. He was a man of war, wise and intelligent in the management of his

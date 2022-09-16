@@ -282,7 +282,7 @@
             John XXII (in 1321). This passage describes the soldiers provided in service to the King
             by each barony, county, see, or other unit.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote240-1" source="#bib240-1">
-        <anchor xml:id="testimonia-240.la.1" corresp="testimonia-240.en.1"/>Quartus principatus est Ierosolymitanus, de quo supra dictum est.
+        <anchor xml:id="testimonia-240.la.1" corresp="#testimonia-240.en.1"/>Quartus principatus est Ierosolymitanus, de quo supra dictum est.
             Servibant autem regi: Ierusalem, de militibus XLI et armigeris vC; Baroniae de Iopen,
             Ascalona, Rama, Maribel, et Ibelyn, de militibus centum; Baronia principatus Galileae,
             de militibus centum; Dominium Montis Regalis, de militibus LX; Comitatus Iocellini, de
@@ -310,7 +310,7 @@
         <ref target=""/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote240-2" source="#bib240-2">
-        <anchor xml:id="testimonia-240.en.1" corresp="testimonia-240.la.1"/>The fourth principality is Jerusalem, which is discussed above. They
+        <anchor xml:id="testimonia-240.en.1" corresp="#testimonia-240.la.1"/>The fourth principality is Jerusalem, which is discussed above. They
             serve the King as follows: Jerusalem, 41 knights and 500 squires; the barony of Jaffa,
             Ascalon, Rama, Mirabel, and Ibelin, 100 knights; the barony of the principality of
             Galilee, 100 knights; the lordship of Mount Royal, 60 knights; the county of Joscelin,

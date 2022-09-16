@@ -272,7 +272,7 @@
             records the Decian persecution, including the martyrdom of Alexander of Jerusalem at
             Caesarea.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote279-1" source="#bib279-1">
-        <anchor xml:id="testimonia-279.la.1" corresp="testimonia-279.en.1"/>Romanorum CCLVII Olymp(ias) ….. VII ….. Romanorum XXV regnavit Decius
+        <anchor xml:id="testimonia-279.la.1" corresp="#testimonia-279.en.1"/>Romanorum CCLVII Olymp(ias) ….. VII ….. Romanorum XXV regnavit Decius
             ann I mens III (c) Decius e Pannonia inferiore Budaliae natus fuit. I (d) Decius, cum
             Filippos patrem et filium interfecisset VII persecutio ob odium eorum, in (Christ)ianos
             persecutionem movet (e) Antonius monachus in Aegypto nascitur (f) Romae amphitheatrum
@@ -284,7 +284,7 @@
         <ref target=""/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote279-2" source="#bib279-2">
-        <anchor xml:id="testimonia-279.en.1" corresp="testimonia-279.la.1"/>Year of the Romans 267th Olympiad ….. [251 C.E.] 7 ….. 25th
+        <anchor xml:id="testimonia-279.en.1" corresp="#testimonia-279.la.1"/>Year of the Romans 267th Olympiad ….. [251 C.E.] 7 ….. 25th
             (emperor) of the Romans, Decius, ruled for 1 year, 3 months (c) Decius from Pannonia
             Inferior had been born at Budalia. [252 C.E.] 1 (d) After he killed the Philips, father
             and son, because 7th persecution he hated them, Decius set in motion a persecution

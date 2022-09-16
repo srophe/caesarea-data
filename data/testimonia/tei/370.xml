@@ -278,7 +278,7 @@
             against him, when in fact he should have recognized the authority of Caesarea and
             Antioch over the see of Jerusalem.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote370-1" source="#bib370-1">
-        <anchor xml:id="testimonia-370.la.1" corresp="testimonia-370.en.1"/>Tu qui regulas quaeris ecclesiasticas, et Nicaeni concilii canonibus
+        <anchor xml:id="testimonia-370.la.1" corresp="#testimonia-370.en.1"/>Tu qui regulas quaeris ecclesiasticas, et Nicaeni concilii canonibus
             uteris, et alienos clericos et cum suis episcopis commorantes tibi niteris usurpare,
             responde mihi, ad Alexandrinum episcopum Palaestina quid pertinet? Ni fallor, hoc ibi
             decernitur, ut Palaestinae metropolis <placeName>Caesarea</placeName> sit et totius
@@ -295,7 +295,7 @@
         <ref target="https://archive.org/details/patrologiaecurs01goog/page/n210/mode/2up"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote370-2" source="#bib370-2">
-        <anchor xml:id="testimonia-370.en.1" corresp="testimonia-370.la.1"/>You who ask for ecclesiastical rules, apply the canons of the
+        <anchor xml:id="testimonia-370.en.1" corresp="#testimonia-370.la.1"/>You who ask for ecclesiastical rules, apply the canons of the
             Council of Nicaea, and seize control over priests in another diocese and actually living
             with their own bishops, answer my question: what has Palestine to do with the bishop of
             Alexandria? Unless I am deceived, it is decreed in those canons that <placeName>Caesarea</placeName> is the metropolis of Palestine, and Antioch of the

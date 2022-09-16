@@ -272,7 +272,7 @@
             covers the end of Claudius’ reign, including events in the governorship of Judaea, which
             was headquartered in Caesarea, and in the life of St. Paul.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote274-1" source="#bib274-1">
-        <anchor xml:id="testimonia-274.la.1" corresp="testimonia-274.en.1"/>Romanorum Judaeorum CCVIII Olymp(ias) XIII (d) Sub Felici procuratore
+        <anchor xml:id="testimonia-274.la.1" corresp="#testimonia-274.en.1"/>Romanorum Judaeorum CCVIII Olymp(ias) XIII (d) Sub Felici procuratore
             Iudaeae extiterunt multi, qui IX populum sua persuasione deciperent. In quibus et
             Aegyptus quidam pseudoprofetes fuit, qui plurimos sibi adsocians in ipso magnarum rerum
             conatu per exercitum Felicis opprimitur. Scribit Iosephus consentanee Apostolorum
@@ -284,7 +284,7 @@
         <ref target=""/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote274-2" source="#bib274-2">
-        <anchor xml:id="testimonia-274.en.1" corresp="testimonia-274.la.1"/>Year of the Romans Year of the Jews 208th Olympiad [53 C.E.] 13 (d)
+        <anchor xml:id="testimonia-274.en.1" corresp="#testimonia-274.la.1"/>Year of the Romans Year of the Jews 208th Olympiad [53 C.E.] 13 (d)
             When Felix was procurator of Judaea, there are 9 many who deceived the people through
             the art of persuasion. Among them was a certain Egyptian false prophet who, attracting
             many followers to himself, is put down by the army of Felix for undertaking grand plans.

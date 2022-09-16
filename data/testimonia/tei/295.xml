@@ -274,7 +274,7 @@
             condition of the ecclesiastical library at Caesarea, and the absence of Origen’s
             relevant work from the collection.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote295-1" source="#bib295-1">
-        <anchor xml:id="testimonia-295.la.1" corresp="testimonia-295.en.1"/>Beatus Pamphilus martyr, cuius vitam Eusebius <placeName>Caesariensis</placeName> episcopus tribus ferme voluminibus explicavit,
+        <anchor xml:id="testimonia-295.la.1" corresp="#testimonia-295.en.1"/>Beatus Pamphilus martyr, cuius vitam Eusebius <placeName>Caesariensis</placeName> episcopus tribus ferme voluminibus explicavit,
             cum Demetrium Phalereum et Pisistratum in sacrae bibliothecae studio vellet aequare
             imaginesque ingeniorum, quae vera sunt et aeterna monumenta, toto orbe perquireret, tunc
             vel maxime Origenis libros inpensius persecutus <placeName>Caesariensi</placeName> ecclesiae dedicavit, [quam ex parte corruptam Acacius, dehinc Εuzoius, eiusdem ecclesiae
@@ -290,7 +290,7 @@
         <ref target=""/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote295-2" source="#bib295-2">
-        <anchor xml:id="testimonia-295.en.1" corresp="testimonia-295.la.1"/>The blessed martyr Pamphilus, whose life the bishop Eusebius of
+        <anchor xml:id="testimonia-295.en.1" corresp="#testimonia-295.la.1"/>The blessed martyr Pamphilus, whose life the bishop Eusebius of
             Caesarea composed ferme in three volumes, when he wished to match Demetrius of Phalerum
             and Pisistratus in his zeal for a sacred library and he thoroughly sought the pictures
             of their minds, true and eternal memorials, across the whole world. Then he especially

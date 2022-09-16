@@ -273,7 +273,7 @@
             of Palestine-Judaea and plotted the settlements along the coast, including “Caesarea
             Stratonis.”=</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote306-1" source="#bib306-1">
-        <anchor xml:id="testimonia-306.grc.1" corresp="testimonia-306.en.1"/>(13) ἡ δὲ Δαμασκὸς ἔχει τὴν μεγίστην ἡμέραν ὡρῶν ῑδ δʹ ἔγγιστα (ῑδ δʹ)
+        <anchor xml:id="testimonia-306.grc.1" corresp="#testimonia-306.en.1"/>(13) ἡ δὲ Δαμασκὸς ἔχει τὴν μεγίστην ἡμέραν ὡρῶν ῑδ δʹ ἔγγιστα (ῑδ δʹ)
             καὶ διέστηκεν Ἀλεξανδρείας πρὸς ἀνατολὰς μιᾶς ὥρας 𐅵ιβʹ (𐅵ιεʹ)<lb/>(14) Τῆς δὲ
             Παλαιστίνης Ἰουδαίας<lb/>ἡ μὲν Καισάρεια τοῦ Στράτωνος ἔχει τὴν μεγίστην ἡμέραν ὡρῶν ῑδ ϛʹ
             καὶ διέστηκεν Ἀλεξανδρείας πρὸς ἀνατολὰς μιᾶς ὥρας γιεʹ<lb/>(15) ἡ δὲ Ἀσκαλὼν ἔχει τὴν
@@ -283,7 +283,7 @@
         <ref target=""/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote306-2" source="#bib306-2">
-        <anchor xml:id="testimonia-306.en.1" corresp="testimonia-306.grc.1"/>(13) Damascus has a longest day of almost 14¼ hours, and its
+        <anchor xml:id="testimonia-306.en.1" corresp="#testimonia-306.grc.1"/>(13) Damascus has a longest day of almost 14¼ hours, and its
             distance from Alexandria to the east is 7/12 hours (17/30 hours).<lb/>(14) [Chief cities]
             of Palestine, [i.e.] Judaea:<lb/>Straton’s Caesarea has a longest day of 14⅙ hours, and
             its distance from Alexandria to the east is 2/5 hours.<lb/>15) Ascalon has its longest day

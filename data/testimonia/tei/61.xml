@@ -280,7 +280,7 @@
             account of Paula’s pilgrimage, listing the sites of biblical interest in sequence from
             the Phoenician coast past Caesarea to Ioppa and inland.</desc>
          <ab type="edition" xml:lang="la" xml:id="quote61-1" source="#bib61-1">
-        <anchor xml:id="testimonia-61.la.1" corresp="testimonia-61.en.1"/>(1) Omitto Syriae Coeles et Phoenicis iter—neque enim odoeporicum eius
+        <anchor xml:id="testimonia-61.la.1" corresp="#testimonia-61.en.1"/>(1) Omitto Syriae Coeles et Phoenicis iter—neque enim odoeporicum eius
             disposui scribere—ea tantum loca nominabo, quae sacris in voluminibus continentur.
             Beryto, Romana colonia, et antiqua urbe Sidone derelicta in Sareptae littore Heliae est
             ingressa turriculam, in qua adorato domino salvatore, per harenas Tyri, in quibus Paulus
@@ -300,7 +300,7 @@
         <ref/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote61-2" source="#bib61-2">
-        <anchor xml:id="testimonia-61.en.1" corresp="testimonia-61.la.1"/>(1) I say nothing of (Paula’s) journey through Syria Coele and
+        <anchor xml:id="testimonia-61.en.1" corresp="#testimonia-61.la.1"/>(1) I say nothing of (Paula’s) journey through Syria Coele and
             Phoenicia (for it is not my purpose to write her itinerary); I shall only name those
             places mentioned in the sacred books. After leaving the Roman colony of Berytus and the
             ancient city of Sidon, she entered Elijah’s town on the shore at Sarepta and there

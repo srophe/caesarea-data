@@ -276,7 +276,7 @@
             passage Dietrich describes his itinerary north along the coast, providing characteristic
             detail on historical sites and the natural environment.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote251-1" source="#bib251-1">
-        <anchor xml:id="testimonia-251.la.1" corresp="testimonia-251.en.1"/>Sexto deinde versus occidentem a Sylo miliario in campestribus sita est
+        <anchor xml:id="testimonia-251.la.1" corresp="#testimonia-251.en.1"/>Sexto deinde versus occidentem a Sylo miliario in campestribus sita est
             Lidda, ubi sepultus fuit, ut fertur, sanctus martir Georgius, unde idem locus mutato
             nomine antiquo Ad Sanctum Georgium a modernis appellantur. Abhinc iocunda et amena
             planitie, inter montana et maritima loca, campestria per viam que ducit Achon, id est
@@ -290,7 +290,7 @@
         <ref/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote251-2" source="#bib251-2">
-        <anchor xml:id="testimonia-251.en.1" corresp="testimonia-251.la.1"/>Six miles to the west of Sylo on the plain is located Lidda, the
+        <anchor xml:id="testimonia-251.en.1" corresp="#testimonia-251.la.1"/>Six miles to the west of Sylo on the plain is located Lidda, the
             burial place of St. George the Martyr according to tradition. Thus the ancient name of
             the place has changed, and it is called St. George’s by people today. From there along
             the road leading to Achon, or Ptolemaïs, the countryside spreads out in a pleasant and

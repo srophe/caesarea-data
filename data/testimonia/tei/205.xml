@@ -280,7 +280,7 @@
             close study of scripture. In this passage that concludes his work, Burchard describes
             his journey sailing from southern Asia Minor down the Levantine coast to Egypt.</desc>
          <ab type="edition" xml:lang="la" xml:id="quote205-1" source="#bib205-1">
-        <anchor xml:id="testimonia-205.la.1" corresp="testimonia-205.en.1"/>Transivi tutam terram illam usque Cappadociam et Seleuciam maritimam, et
+        <anchor xml:id="testimonia-205.la.1" corresp="#testimonia-205.en.1"/>Transivi tutam terram illam usque Cappadociam et Seleuciam maritimam, et
             inde navigavi Cyprum et perambulavi pro magna parte regionem. Inde navigavi in Syriam et
             veni Tyrum, et post dies aliquot inde navigans per littus Palestine seu Philistiim
             pertransivi Caypham, montem Carmelum, Doram, Cesaream Palestine, Antipatridam, Ioppen,
@@ -292,7 +292,7 @@
         <ref target=""/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote205-2" source="#bib205-2">
-        <anchor xml:id="testimonia-205.en.1" corresp="testimonia-205.la.1"/>Ι have passed over the whole of this land as far as Cappadocia and
+        <anchor xml:id="testimonia-205.en.1" corresp="#testimonia-205.la.1"/>Ι have passed over the whole of this land as far as Cappadocia and
             Seleucia Maritima, and from there sailed to Cyprus, and wandered over the greater part
             of that region. From there Ι sailed to Syria and came to Tyre, and after a few days,
             sailing along the coast of Palestine or Philistiim, Ι passed by Caypha, Mount Carmel,

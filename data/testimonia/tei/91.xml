@@ -281,7 +281,7 @@
             Churchs of Caesarea, Antioch, and Rome as proof of St. Peter’s success as a fisher of
             men.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote91-1" source="#bib91-1">
-        <anchor xml:id="testimonia-91.grc.1" corresp="testimonia-91.en.1"/>ὁ γοῦν ἀμφιβολεὺς ἐκεῖνος, ὁ ἁλιεύς, ὁ Σύρος ἀντὶ τῆς τῶν ἰχθύων θήρας
+        <anchor xml:id="testimonia-91.grc.1" corresp="#testimonia-91.en.1"/>ὁ γοῦν ἀμφιβολεὺς ἐκεῖνος, ὁ ἁλιεύς, ὁ Σύρος ἀντὶ τῆς τῶν ἰχθύων θήρας
             ὅσας ἀνθρώπων ἐσαγήνευσε μυριάδας λόγων ἀπορρήτων δικτύοις θεικῇ δυνάμει πλακεῖσιν, οὐκ
             ἕστιν ἀριθμῷ περιλαβεῖν δυνατόν. ὄψις δ ἀδήλων τὰ φαινόμενα. ἃ γὰρ ὁ μακρὸς αἰὼν τοῦ
             βίου πρὸ τῆς τοῦ σωτῆρος θεοφανείας οὐκ ἤνεγκεν, ἃ μήτε Μώσης ὁ τῶν Ἑβραίων νομοθέτης
@@ -303,7 +303,7 @@
             <ref target="https://scaife.perseus.org/reader/urn:cts:greekLit:tlg2018.tlg010.1st1K-grc1:6"/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote91-2" source="#bib91-2">
-        <anchor xml:id="testimonia-91.en.1" corresp="testimonia-91.grc.1"/>In any case, it is not possible to comprehend in number how many
+        <anchor xml:id="testimonia-91.en.1" corresp="#testimonia-91.grc.1"/>In any case, it is not possible to comprehend in number how many
             thousands of men instead of fish that netcaster, the fisherman, the Syrian (sc. Simon
             Peter) caught in nets of mysterious Words woven by divine power. The visual perception
             of something hidden is something visible. Therefore, that which the long life of the

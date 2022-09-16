@@ -272,7 +272,7 @@
             discusses the Hebrew version of the gospel, which was available in the ecclesiastical
             library at Caesarea.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote285-1" source="#bib285-1">
-        <anchor xml:id="testimonia-285.la.1" corresp="testimonia-285.en.1"/>Mattheus qui et Levi, ex publicano apostolus, primus in Iudea propter
+        <anchor xml:id="testimonia-285.la.1" corresp="#testimonia-285.en.1"/>Mattheus qui et Levi, ex publicano apostolus, primus in Iudea propter
             eos qui ex circumcisione crediderunt evangelium Christi hebreis litteris verbisque
             conposuit; quod quis postea in graecum transtulerit, non satis certum est. Porro ipsum
             hebraicum habetur usque hodie in <placeName>Caesariensi</placeName> bibliotheca, quam
@@ -283,7 +283,7 @@
         <ref target="https://archive.org/details/devirisinlustri00jerogoog/page/n67/mode/2up"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote285-2" source="#bib285-2">
-        <anchor xml:id="testimonia-285.en.1" corresp="testimonia-285.la.1"/>Matthew, also known as Levi, a tax-farmer who became an apostle,
+        <anchor xml:id="testimonia-285.en.1" corresp="#testimonia-285.la.1"/>Matthew, also known as Levi, a tax-farmer who became an apostle,
             wrote the gospel of Christ at first published in Judaea in Hebrew for the sake of
             circumcised believers; someone later translated it into Greek, but the authorship is
             uncertain. Moreover, the Hebrew itself has been preserved until the present day in the

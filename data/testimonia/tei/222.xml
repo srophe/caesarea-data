@@ -278,7 +278,7 @@
             third of the 4th century B.C., if not also the author’s decision to omit an existing
             settlement e.g. at Apollonia (Arsuf).</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote222-1" source="#bib222-1">
-        <anchor xml:id="testimonia-222.grc.1" corresp="testimonia-222.en.1"/>{Συρίας καὶ Φοινίκη.} Ἔστι μετὰ Κιλικίαν ἔθνος Σύροι. Ἐν δὲ τῇ Συρίᾳ
+        <anchor xml:id="testimonia-222.grc.1" corresp="#testimonia-222.en.1"/>{Συρίας καὶ Φοινίκη.} Ἔστι μετὰ Κιλικίαν ἔθνος Σύροι. Ἐν δὲ τῇ Συρίᾳ
             οἰκοῦσι τὰ παρὰ θάλατταν Φοίνικες ἔθνος, ἐπὶ στενὸν ἔλαττον ἢ ἐπὶ τετταράκοντα σταδίους
             ἀπὸ θαλάττης, ἐνιαχῆ δὲ οὐδὲ ἐπὶ σταδίους ιʹ τὸ πλάτος. Ἀπὸ δὲ Θαψάκου ποταμοῦ ἐστὶ
             Τρίπολις Φοινίκων, Ἄραδος νῆσος καὶ λιμὴν, βασίλεια Τύρου καὶ λιμὴν ὅσον ηʹ στάδια ἀπὸ
@@ -298,7 +298,7 @@
         <ref target="https://archive.org/details/chroniquedernoul00ernouoft/page/112/mode/2up"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote222-2" source="#bib222-2">
-        <anchor xml:id="testimonia-222.en.1" corresp="testimonia-222.grc.1"/>{Syria and Phoenicia.} There is after Cilicia the community of the
+        <anchor xml:id="testimonia-222.en.1" corresp="#testimonia-222.grc.1"/>{Syria and Phoenicia.} There is after Cilicia the community of the
             Syroi. And in Syria there live, in the seaward part, the Phoinikes, a community, on a
             narrow plain less than up to 40 stades from the sea, and in some places not even up to
             10 stades in width. And past the River Thrapsakos is Tripolis of the Phoinikes. Arados

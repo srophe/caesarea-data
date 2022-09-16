@@ -282,7 +282,7 @@
             concerning the sites between Acco and Ioppa. The passage on Caesarea describes sites in
             the city’s hinterland as well as in its immediate vicinity or interior.</desc>
          <ab type="edition" xml:lang="fro" xml:id="quote179-1" source="#bib179-1">
-        <anchor xml:id="testimonia-179.fro.1" corresp="testimonia-179.en.1"/>Ces ssont les chamins qui droytament vuet aler de la cité d’Acre en
+        <anchor xml:id="testimonia-179.fro.1" corresp="#testimonia-179.en.1"/>Ces ssont les chamins qui droytament vuet aler de la cité d’Acre en
             Iherusalem e les pelerinarges de los sains e les luoqs qui sont en la droyte vie. (1)
             Qui droytemenc vuet aler en Iherusalem, ci voie en tele manieyra come ilh est en cest
             escrit devisé: Primerament l’on vait d’Acre à Cayphas, au quel chamin ilh i a .iiij.
@@ -327,7 +327,7 @@
         <ref target="https://archive.org/details/itinrairesajrus00parigoog/page/n227/mode/2up"/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote179-2" source="#bib179-2">
-        <anchor xml:id="testimonia-179.en.1" corresp="testimonia-179.fro.1"/>These are the ways that should rightly lead from Acre to Jerusalem
+        <anchor xml:id="testimonia-179.en.1" corresp="#testimonia-179.fro.1"/>These are the ways that should rightly lead from Acre to Jerusalem
             and the pilgrimages of the saints and the places that are on the right road. (1) Whoever
             wants to go to Jerusalem will see how to here, as it is set out in this document. First
             of all one goes from Acre to Cayphas, a journey of 4 leagues. Also after that (is) Mount

@@ -270,7 +270,7 @@
             In this passage the author records the appointment of Pontius Pilate to the prefecture
             of Judaea by Tiberius.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote247-1" source="#bib247-1">
-        <anchor xml:id="testimonia-247.grc.1" corresp="testimonia-247.en.1"/>σαʹ Ὀλυμπιάς. Ἰνδ. ιβʹ. ιαʹ. ὑπ. Γετουλικοῦ καὶ Σαβίνου. Ἰνδ. ιγʹ. ιβʹ.
+        <anchor xml:id="testimonia-247.grc.1" corresp="#testimonia-247.en.1"/>σαʹ Ὀλυμπιάς. Ἰνδ. ιβʹ. ιαʹ. ὑπ. Γετουλικοῦ καὶ Σαβίνου. Ἰνδ. ιγʹ. ιβʹ.
             ὑπ. Κράσσου καὶ Πίσωνος. Ἐπὶ τούτων τῶν ὑπάτων Πόντιος Πιλᾶτος ἐπίτροπος τῆς Ἰουδαίας
             ὑπὸ Τιβερίου ἐκπέμπεται ιβʹ ἔτει τῆς βασιλείας αὐτοῦ, ὡς ἱστορεῖ Ἰώσηπος. Ἰνδ. ιδʹ. ιγʹ.
             ὑπ. Σιλανοῦ καὶ Νερούα. Ἰνδ. ιεʹ. ιδʹ. ὑπ. Γεμίνου καὶ Γεμίνου.<note type="textual">Ed.
@@ -279,7 +279,7 @@
         <ref/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote247-2" source="#bib247-2">
-        <anchor xml:id="testimonia-247.en.1" corresp="testimonia-247.grc.1"/>Olympiad 201 Indiction 12. Year 11. Consuls Gaetulicus and Sabinus.
+        <anchor xml:id="testimonia-247.en.1" corresp="#testimonia-247.grc.1"/>Olympiad 201 Indiction 12. Year 11. Consuls Gaetulicus and Sabinus.
             [26 C.E.] Indiction 13. Year 12. Consuls Crassus and Piso. [27 C.E.] Under these consuls
             Pontius Pilate was sent to be prοcurator of Judaea by Tiberius in the 12th year of his
             reign, as Josephus records. Indiction 14. Year 13. Consuls Silanus and Nerva. [28 C.E.]<note type="translation">Trans. J. L. Rife</note>

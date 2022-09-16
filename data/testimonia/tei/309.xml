@@ -270,7 +270,7 @@
             to the coast as far as Caesarea, copies the account written by Bede the Venerable (Holy
             Places 5.3-5.9) roughly 450 years earlier.</desc>
          <ab type="edition" xml:lang="la" xml:id="quote309-1" source="#bib309-1">
-        <anchor xml:id="testimonia-309.la.1" corresp="testimonia-309.en.1"/>Circa Ierosolimam aspera ac montuosa cernuntur loca. Hinc quoque
+        <anchor xml:id="testimonia-309.la.1" corresp="#testimonia-309.en.1"/>Circa Ierosolimam aspera ac montuosa cernuntur loca. Hinc quoque
             septemtrionem versus usque Arimatheam terra petrosa et aspera per intervalla quaedam
             monstrantur, valles quoque spinosae usque ad Thamnycam regionem patentes. Ad Caesaream
             vero Palestinae ab Ierusalem quamvis aliqua reperriantur angusta et brevia aspera loca,
@@ -280,7 +280,7 @@
         <ref target=""/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote309-2" source="#bib309-2">
-        <anchor xml:id="testimonia-309.en.1" corresp="testimonia-309.la.1"/>Around Jerusalem one sees that the land is rough and mountainous.
+        <anchor xml:id="testimonia-309.en.1" corresp="#testimonia-309.la.1"/>Around Jerusalem one sees that the land is rough and mountainous.
             From there to the north up to Arimathia the terrain proves to be rocky and rough in
             certain areas, and the valleys extending as far as the Thamnic region are full of thorny
             vegetation. But from Jerusalem to Caesarea Palestinae, although here and there can be

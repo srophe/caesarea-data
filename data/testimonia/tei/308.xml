@@ -275,7 +275,7 @@
             years earlier, and this passage was copied by Peter the Deacon, who wrote his Holy Place
             some 450 years later.</desc>
          <ab type="edition" xml:lang="la" xml:id="quote308-1" source="#bib308-1">
-        <anchor xml:id="testimonia-308.la.1" corresp="testimonia-308.en.1"/>Circa Hierusalem aspera ac montuosa cernuntur loca. Hinc quoque
+        <anchor xml:id="testimonia-308.la.1" corresp="#testimonia-308.en.1"/>Circa Hierusalem aspera ac montuosa cernuntur loca. Hinc quoque
             septemtrionem versus usque Arimathiam terra petrosa et aspera per intervalla quaedam
             monstratur, valles quoque spinosae usque ad Thamnicam regionem patentes. Ad
                <placeName>Caesaream vero Palestinae</placeName> ab Aelia quamvis aliqua reperriantur
@@ -285,7 +285,7 @@
         <ref target=""/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote308-2" source="#bib308-2">
-        <anchor xml:id="testimonia-308.en.1" corresp="testimonia-308.la.1"/>Around Jerusalem one sees that the land is rough and mountainous.
+        <anchor xml:id="testimonia-308.en.1" corresp="#testimonia-308.la.1"/>Around Jerusalem one sees that the land is rough and mountainous.
             From there to the north up to Arimathia the terrain proves to be rocky and rough in
             certain areas, and the valleys extending as far as the Thamnic region are full of thorny
             vegetation. But from Aelia to Caesarea Palestinae, although here and there can be found

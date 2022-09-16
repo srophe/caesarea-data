@@ -277,7 +277,7 @@
             Arcesilaus and the miraculous intercession by Zosimas and John of Choziba, bishop of
             Caesarea (ca. 516 C.E.).</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote230-1" source="#bib230-1">
-        <anchor xml:id="testimonia-230.grc.1" corresp="testimonia-230.en.1"/>Διὰ τούτου πολλαί τε καὶ ἕτεραι θεοσημεῖαι γεγόνασιν, ὧν τὸ πλῆθος
+        <anchor xml:id="testimonia-230.grc.1" corresp="#testimonia-230.en.1"/>Διὰ τούτου πολλαί τε καὶ ἕτεραι θεοσημεῖαι γεγόνασιν, ὧν τὸ πλῆθος
             παρείς, ἐπεὶ καὶ κρείττονος εἰπεῖν ἀριθμοῦ τυγχάνουσιν οὖσαι, ἔνια λέξω. Συνήκμαζε τῷ
             Ζωσιμᾷ ἀνήρ, Ἰωάννης τοὔνομα, ταῖς ἀρεταῖς παραπλήσιος, ἐν Χουζιβᾷ τῇ μάνδρᾳ—κεῖται δὲ
             πρὸς τῇ ἐσχατιᾷ τῆς χαράδρας ἀνὰ τὸ ἀρκτῷον μέρος τῆς λεωφόρου τῆς φερούσης τοὺς
@@ -304,7 +304,7 @@
         <ref target="https://babel.hathitrust.org/cgi/pt?id=hvd.ah3vvp&amp;view=1up&amp;seq=182"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote230-2" source="#bib230-2">
-        <anchor xml:id="testimonia-230.en.1" corresp="testimonia-230.grc.1"/>Through him many other miracles occurred; omitting the majority,
+        <anchor xml:id="testimonia-230.en.1" corresp="#testimonia-230.grc.1"/>Through him many other miracles occurred; omitting the majority,
             because they are of too great a number to recount, I will relate a few. At the same time
             as Zosimas there flourished a man named John, who was similar in his virtues. He had
             wrestled in the solitary life without matrial possessions at the monastery of Choziba,

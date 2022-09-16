@@ -275,7 +275,7 @@
             greater Syria, including purple-dye as well as wine, oil, and grain from
             Caesarea.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote226-1" source="#bib226-1">
-        <anchor xml:id="testimonia-226.la.1" corresp="testimonia-226.en.1"/>A) Quoniam ergo ex parte praedictas civitates descripsimus et diximus
+        <anchor xml:id="testimonia-226.la.1" corresp="#testimonia-226.en.1"/>A) Quoniam ergo ex parte praedictas civitates descripsimus et diximus
             ⟨†... , necessarium mihi videtur ut etiam quidnam unaquaeque civitas proprium habet
             exponamus, ut qui legit certam eorum scientiam habere possit. †⟩. In linteamina sunt
             hae: Scythopolis, Laodicia, Byblus, Tyrus, Berytus quae linteamen omni orbi terrarum
@@ -295,7 +295,7 @@
         <ref/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote226-2" source="#bib226-2">
-        <anchor xml:id="testimonia-226.en.1" corresp="testimonia-226.la.1"/>A) Therefore, since we have partially described the aforementioned
+        <anchor xml:id="testimonia-226.en.1" corresp="#testimonia-226.la.1"/>A) Therefore, since we have partially described the aforementioned
             cities and we have said ⟨... it seems to me necessary to explain again what special
             product each one of them has, so that the reader can have exact knowledge of them⟩.
             These cities (are known) for linen textiles: Scythopolis, Laodicaea, Byblos, Tyre, and

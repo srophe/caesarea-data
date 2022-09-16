@@ -271,7 +271,7 @@
             staff, for his biblical research at Caesarea in the early 3rd century. Here the author
             depends on the account of Eusebius written roughly 650 year earlier.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote312-1" source="#bib312-1">
-        <anchor xml:id="testimonia-312.grc.1" corresp="testimonia-312.en.1"/>ἐξ ἐκείνου δὲ τοῦ χρόνου τῶν εἰς τὰς θείας γραφὰς ὑπομνημάτων ἐγένετο
+        <anchor xml:id="testimonia-312.grc.1" corresp="#testimonia-312.en.1"/>ἐξ ἐκείνου δὲ τοῦ χρόνου τῶν εἰς τὰς θείας γραφὰς ὑπομνημάτων ἐγένετο
             ἀρχή, ᾽Αμβροσίου εἰς τὰ μάλιστα παρορμῶντος αὐτὸν μυρίαις ὅσαις οὐ προτροπαῖς ταῖς διὰ
             λόγων καὶ παρακλήσεσιν αὐτοῦ μόνον, ἀλλὰ καὶ ἀφθονωτάταις τῶν ἐπιτηδείων χορηγίαις.
             ταχυγράφοι τε γὰρ αὐτῷ πλείους ἢ ἑπτὰ τὸν ἀριθμὸν παρῆσαν ὑπαγορεύοντι, χρόνοις
@@ -284,7 +284,7 @@
         <ref target="https://archive.org/details/adler-a.-suidae-lexicon-3 ./Adler%20A.%2C%20Suidae%20Lexicon%203%20%28%CE%9A-%CE%9F.%20%CE%A9%29/page/n315/mode/2up"/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote312-2" source="#bib312-2">
-        <anchor xml:id="testimonia-312.en.1" corresp="testimonia-312.grc.1"/>The start of his Commentaries on the Divine Scriptures dates to that
+        <anchor xml:id="testimonia-312.en.1" corresp="#testimonia-312.grc.1"/>The start of his Commentaries on the Divine Scriptures dates to that
             time, after Ambrose in particular urged him to undertake this project not only through
             endless verbal prodding and appeals to the man but also with the provision of unlimited
             resources. Thus, more than seven stenographers were on call to take his dictation,

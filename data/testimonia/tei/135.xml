@@ -274,7 +274,7 @@
             portrayed, so that we cannot tell whether the historian has in mind the movement under
             the Egyptian pseudo-prophet or another activity around the same time.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote135-1" source="#bib135-1">
-        <anchor xml:id="testimonia-135.grc.1" corresp="testimonia-135.en.1"/>Τῷ δὲ ὀγδόῳ ἔτει τῆς βασιλείας τοῦ αὐτοῦ Κλαυδίου Καίσαρος διωγμὸν μέγαν
+        <anchor xml:id="testimonia-135.grc.1" corresp="#testimonia-135.en.1"/>Τῷ δὲ ὀγδόῳ ἔτει τῆς βασιλείας τοῦ αὐτοῦ Κλαυδίου Καίσαρος διωγμὸν μέγαν
             ἐποίησαν οἱ Ἰουδαῖοι κατὰ τῶν ἀποστόλων καὶ τῶν μαθητῶν αὐτῶν καὶ τυραννίδα κατὰ Ῥωμαίων
             ἐμελέτουν. ὅθεν πρῶτος ἐπέμφθη κατ’ αὐτῶν χιλίαρχος ὀνόματι Φῆστος· καὶ ἐξ ἐκείνου
             ὄλεθρος αὐτοῖς ἐγένετο. καὶ ἄρχοντα γὰρ προεχειρίσατο αὐτοῖς ὁ αὐτὸς Κλαύδιος βασιλεὺς
@@ -283,7 +283,7 @@
         <ref target=""/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote135-2" source="#bib135-2">
-        <anchor xml:id="testimonia-135.en.1" corresp="testimonia-135.grc.1"/>In the eighth year of the reign of Claudius Caesar the Jews began a
+        <anchor xml:id="testimonia-135.en.1" corresp="#testimonia-135.grc.1"/>In the eighth year of the reign of Claudius Caesar the Jews began a
             fierce persecution of the apostles and their disciples, and planned a rebellion against
             the Romans. Therefore a tribune, named Festus, was sent against them first, and from
             that time destuction came upon them. The emperor Claudius also appointed a governor over

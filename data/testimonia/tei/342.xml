@@ -281,7 +281,7 @@
             undertook to strengthen the fortifications at Sidon and Caesarea between the fall of
             1227 and the summer of 1228.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote342-1" source="#bib342-1">
-        <anchor xml:id="testimonia-342.la.1" corresp="testimonia-342.en.1"/>Cum vero Imperator transire deberet et cum eo Patriarcha
+        <anchor xml:id="testimonia-342.la.1" corresp="#testimonia-342.en.1"/>Cum vero Imperator transire deberet et cum eo Patriarcha
             Ierosolymitanus, coepit infirmitate gravari, et datis Patriarchae galeis duabus
             profectus est. Tunc peregrini qui Ptolomaydae Imperatoris adventum expectabant, nolentes
             torpere otio, Henricum ducem de Lamborc sibi capitaneum elegerunt, et habita
@@ -299,7 +299,7 @@
         <idno type="CTS-URN"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote342-2" source="#bib342-2">
-        <anchor xml:id="testimonia-342.en.1" corresp="testimonia-342.la.1"/>When the Emperor (sc. Frederick II) should have made the crossing
+        <anchor xml:id="testimonia-342.en.1" corresp="#testimonia-342.la.1"/>When the Emperor (sc. Frederick II) should have made the crossing
             and with him the Patriarch of Jerusalem (sc. Gerold of Lausanne), he fell seriously ill
             and gave two galleys to the Patriarch to proceed. Then the pilgrims who were awaiting
             the Emperor’s arrival in Ptolomayda, not wanting to grow sluggish from leisure, elected

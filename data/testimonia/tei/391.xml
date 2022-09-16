@@ -278,7 +278,7 @@
             companion in spiritual instruction, and places Gregory’s commitment to God before his
             tutelage under Origen.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote391-1" source="#bib391-1">
-        <anchor xml:id="testimonia-391.grc.1" corresp="testimonia-391.en.1"/>Ἀλλὰ τὸ μὲν προοίμιον τοῦ βίου, τοιοῦτον. Αὐτὸς δὲ ὁ βίος τίς; Ἐπειδὴ
+        <anchor xml:id="testimonia-391.grc.1" corresp="#testimonia-391.en.1"/>Ἀλλὰ τὸ μὲν προοίμιον τοῦ βίου, τοιοῦτον. Αὐτὸς δὲ ὁ βίος τίς; Ἐπειδὴ
             πᾶσαν παίδευσιν τῆς ἔξω σοφίας ἐπιδραμὼν, ἐνέτυχε Φιρμιλιανῷ τινι τῶν εὐπατριδῶν
             Καππαδόκῃ, ὁμοιοτρόπῳ κατὰ τὸ ἦθος, ὡς ἔδειξεν ἐκεῖνος τῷ μετὰ ταῦτα βίῳ, κόσμος τῆς
             Ἐκκλησίας τῶν Καισαρέων γενόμενος, καὶ τόν τε σκοπὸν τοῦ φρονήματος καὶ ἰδίου βίου
@@ -300,7 +300,7 @@
         <ref target=""/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote391-2" source="#bib391-2">
-        <anchor xml:id="testimonia-391.en.1" corresp="testimonia-391.grc.1"/>But such is the prologue to his life. What of the life itself? After
+        <anchor xml:id="testimonia-391.en.1" corresp="#testimonia-391.grc.1"/>But such is the prologue to his life. What of the life itself? After
             having dashed through the entire curriculum of worldly wisdom, he met a certain
             Firmilian from the elite in Cappadocia, a man of comparable character, as he
             demonstrated later in life, who became the jewel of the Church of Caesarea (Mazaca).

@@ -275,7 +275,7 @@
             source. In the passage on the sites between Acre and Ioppa, the author describes locales
             in the hinterland of Caesarea as well as in its immediate vicinity or interior.</desc>
       <ab type="edition" xml:lang="fro" xml:id="quote311-1" source="#bib311-1">
-        <anchor xml:id="testimonia-311.fro.1" corresp="testimonia-311.en.1"/>(1) Premierement l’en va d’Acres à Cayfas où il a .iiij. lieues. Après
+        <anchor xml:id="testimonia-311.fro.1" corresp="#testimonia-311.en.1"/>(1) Premierement l’en va d’Acres à Cayfas où il a .iiij. lieues. Après
             d’iqui est la montaigne du Carme où monseignor saint Denis est, qui fu nés à une ville
             qui est apelée Francheville, auquel lieu est une chapele desouz l’autel en une petite
             caverne où il fu nés, &amp; encore i pert le lieu. Emprès la chapele a une petite valée;
@@ -318,7 +318,7 @@
         <ref target="https://archive.org/details/itinrairesajrus00parigoog/page/n129/mode/2up"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote311-2" source="#bib311-2">
-        <anchor xml:id="testimonia-311.en.1" corresp="testimonia-311.fro.1"/>(1) First of all one goes from Acre to Cayfas, a journey of 4
+        <anchor xml:id="testimonia-311.en.1" corresp="#testimonia-311.fro.1"/>(1) First of all one goes from Acre to Cayfas, a journey of 4
             leagues. After that is Mount Carmel where my lord St. Denys is, where he was born in a
             town called Freetown (Francheville). There is a chapel there, and beneath its altar is a
             small cave where he was born, and the place can still be seen. Near the chapel is a

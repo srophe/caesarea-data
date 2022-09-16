@@ -278,7 +278,7 @@
             different cities across greater Syria, including chariot racing and pantomimes at
             Caesarea Maritima.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote227-1" source="#bib227-1">
-        <anchor xml:id="testimonia-227.la.1" corresp="testimonia-227.en.1"/>A) Quoniam autem oportet et singula earum describere, quid ad singulas
+        <anchor xml:id="testimonia-227.la.1" corresp="#testimonia-227.en.1"/>A) Quoniam autem oportet et singula earum describere, quid ad singulas
             civitates delectabile esse potest, et hoc dicere necessarium est. Habes ergo Antiochiam
             quidem in omnibus delectabilibus abundantem, maxime autem circensibus. Omnia autem
             quare? Quoniam ibi imperator sedet, necesse est omnia propter eum. Ecce similiter
@@ -295,7 +295,7 @@
         <ref/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote227-2" source="#bib227-2">
-        <anchor xml:id="testimonia-227.en.1" corresp="testimonia-227.la.1"/>A) Since we should also describe their peculiarities, it is
+        <anchor xml:id="testimonia-227.en.1" corresp="#testimonia-227.la.1"/>A) Since we should also describe their peculiarities, it is
             necessary also to say what there is for entertainment in individual cities. So you have
             Antioch, indeed rich in all kinds of amenities but especially race courses. But why all
             this? Because the emperor resides there, all this is necessary on his account. Note

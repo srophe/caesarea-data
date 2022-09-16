@@ -275,7 +275,7 @@
             summarizes the trip southward along the coast from Acco past Caesarea and then east up
             to Jerusalem.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote280-1" source="#bib280-1">
-        <anchor xml:id="testimonia-280.la.1" corresp="testimonia-280.en.1"/>Ego ivi de Accon in Caifa, quod est sub monte Carmeli, ubi fuit Helias
+        <anchor xml:id="testimonia-280.la.1" corresp="#testimonia-280.en.1"/>Ego ivi de Accon in Caifa, quod est sub monte Carmeli, ubi fuit Helias
             propheta. Et inde veni <placeName>Cesaream</placeName>, deinde Assur, deinde Ioppen,
             deinde Rama, deinde Bethnopolin, deinde Ierusalem. Ubi intratur ad portam S. Stephani,
             ubi fuit lapidatus.<note type="textual">Ed. Neumann 1866</note>
@@ -283,7 +283,7 @@
         <ref/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote280-2" source="#bib280-2">
-        <anchor xml:id="testimonia-280.en.1" corresp="testimonia-280.la.1"/>I went from Acco to Haifa, which is below Mount Carmel where Elijah
+        <anchor xml:id="testimonia-280.en.1" corresp="#testimonia-280.la.1"/>I went from Acco to Haifa, which is below Mount Carmel where Elijah
             the prophet lived. Then I came to <placeName>Caesarea</placeName>, Assur, Ioppe, Rama,
             Bethnopolis, and Jerusalem, which is entered through the Gate of St. Stephen, where he
             was stoned.<note type="translation">Adapted from Stewart 1896</note>

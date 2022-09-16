@@ -283,7 +283,7 @@
             shared spaces, Julian outlines the practices of erecting multistorey buildings that are
             shared by separate owners at Caesarea and Ascalon.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote56-1" source="#bib56-1">
-        <anchor xml:id="testimonia-56.grc.1" corresp="testimonia-56.en.1"/>(1) Εἰ ψιλοῦ ὄντος τοῦ ἐπικοίνου τόπου βουληθεῖεν οἱ τούτου δεσπόζοντες
+        <anchor xml:id="testimonia-56.grc.1" corresp="#testimonia-56.en.1"/>(1) Εἰ ψιλοῦ ὄντος τοῦ ἐπικοίνου τόπου βουληθεῖεν οἱ τούτου δεσπόζοντες
             οἰκοδομῆσαί τε καἰ ἐποικοδομῆσαι (οἷον εἰ τῆς κάτω θέσεως δεσπόζει τις, τῆς δευτέρας
             θέσεως ἕτερος, τῆς δὲ τρίτης καὶ τῶν ἐφεξῆς ἄλλος) εἴτε ἀπὸ πτώσεως, εἴτε οὕτως αὐτῶν
             ἀγορασάντων, χρὴ μὲν ἐν τῇ οἰκίᾳ ἐξακολουθεῖν τοῖς ἐπὶ τῆς οἰκίας, περὶ δὲ τῶν στεγῶν,
@@ -303,7 +303,7 @@
         <ref/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote56-2" source="#bib56-2">
-        <anchor xml:id="testimonia-56.en.1" corresp="testimonia-56.grc.1"/>(1) If the proprietors of co-owned land that is undeveloped want to
+        <anchor xml:id="testimonia-56.en.1" corresp="#testimonia-56.grc.1"/>(1) If the proprietors of co-owned land that is undeveloped want to
             erect a house and add an upper part—that is, someone would own the lower level, another
             the second level, another the third, and so on—either because of the collapse (of an
             earlier building), or because they bought the land with that intention, it is necessary

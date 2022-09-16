@@ -285,7 +285,7 @@
             and natural history. In this passage he recounts the trip south from Carmel through
             Caesarea to Arsuf. </desc>
          <ab type="edition" xml:lang="la" xml:id="quote209-1" source="#bib209-1">
-        <anchor xml:id="testimonia-209.la.1" corresp="testimonia-209.en.1"/>De monte Carmelo transito quodam flumine, qui Iordanis pro parte est
+        <anchor xml:id="testimonia-209.la.1" corresp="#testimonia-209.en.1"/>De monte Carmelo transito quodam flumine, qui Iordanis pro parte est
             origo, pervenitur in <placeName>Caesaream Palestinam</placeName>, quae quondam dicta
             fuit Dor, nunc Caesarea Palaestina vocata, sed funditus nunc eversa. In hac civitate
             pulchra ecclesia de domo Cornelii, quem Petrus ad fidem convertit, fuit facta. Eadem
@@ -299,7 +299,7 @@
         <ref/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote209-2" source="#bib209-2">
-        <anchor xml:id="testimonia-209.en.1" corresp="testimonia-209.la.1"/>After passing over Mount Carmel one crosses a river, which is one of
+        <anchor xml:id="testimonia-209.en.1" corresp="#testimonia-209.la.1"/>After passing over Mount Carmel one crosses a river, which is one of
             the sources of the Jordan, and arrives at <placeName>Caesarea of Palestine</placeName>,
             which was once called Dor and now Caesarea of Palestine, but it is utterly destroyed. In
             this city there was a fair church made out of the house of Cornelius, whom Peter

@@ -351,7 +351,7 @@
         This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401"
           >Caesarea</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote98-1" source="#bib98-1">
-        <anchor xml:id="testimonia-98.grc.1" corresp="testimonia-98.en.1"/>φέρεται δ᾿ εἰσέτι νῦν τῶν
+        <anchor xml:id="testimonia-98.grc.1" corresp="#testimonia-98.en.1"/>φέρεται δ᾿ εἰσέτι νῦν τῶν
         κατὰ Παλαιστίνην τηνικάδε συγκεκροτημένων γραφὴ, ὧν προυτέτακτο Θεόφιλος τῆς ἐν <placeName
           xml:lang="grc">Καισαρείᾳ</placeName> παροικίας ἐπίσκοπος καὶ Νάρκισσος τῆς ἐν
         Ἱεροσολύμοις· καὶ τῶν ἐπὶ ῾Ρώμης δὲ ὁμοίως ἄλλη περὶ τοῦ αὐτοῦ ζητήματος, ἐπίσκοπον Βίκτορα
@@ -364,7 +364,7 @@
         />
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote98-2" source="#bib98-2">
-        <anchor xml:id="testimonia-98.en.1" corresp="testimonia-98.grc.1"/>There is still extant a
+        <anchor xml:id="testimonia-98.en.1" corresp="#testimonia-98.grc.1"/>There is still extant a
         writing of those who were convened in Palestine, over whom presided Theophilus, bishop of
           <placeName xml:lang="en">the diocese of Caesarea</placeName>, and Narcissus, bishop of
         Jerusalem; and there is similarly another from those in Rome on the same controversy, which

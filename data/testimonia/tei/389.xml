@@ -276,7 +276,7 @@
             Council, which was actually held in 381, including the condemnation of Acacius, the
             Arian bishop of Caesarea.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote389-1" source="#bib389-1">
-        <anchor xml:id="testimonia-389.grc.1" corresp="testimonia-389.en.1"/> ἡ δὲ ἁγία καὶ οἰκουμενικὴ σύνοδος τὸ ὁμοούσιον ἐκύρωσεν, προσέθηκε δὲ
+        <anchor xml:id="testimonia-389.grc.1" corresp="#testimonia-389.en.1"/> ἡ δὲ ἁγία καὶ οἰκουμενικὴ σύνοδος τὸ ὁμοούσιον ἐκύρωσεν, προσέθηκε δὲ
             τῷ συμβόλῳ καὶ τὴν θεολογίαν τοῦ πνεύματος. ἐξέθετο δὲ καὶ κανόνας, ἐν οἷς τῷ θρόνῳ
             Κωνσταντινουπόλεως τὰ πρεσβεῖα νέας Ῥώμης ἀπένειμεν. τότε Γρηγόριος ὁ Νύσης καὶ Πελάγιος
             Λαοδικείας, Εὐλόγιός τε Ἐδέσης καὶ Ἀμφιλόχιος Ἰκονίου ἐν ταύτῃ διέλαμπον σὺν τῷ μεγάλῳ
@@ -288,7 +288,7 @@
         <ref target=""/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote389-2" source="#bib389-2">
-        <anchor xml:id="testimonia-389.en.1" corresp="testimonia-389.grc.1"/>[A.M. 5876=383/4 C.E.] The holy ecumenical synod validated the
+        <anchor xml:id="testimonia-389.en.1" corresp="#testimonia-389.grc.1"/>[A.M. 5876=383/4 C.E.] The holy ecumenical synod validated the
             consubstantial and added the doctrine of the Spirit to the creed. It also published
             canons in which it assigned the privileges of New Rome to the see of Constantinople.
             Gregory of Nyssa, Pelagius of Laodiceia, Eulogius of Edessa, and Amphilochius of Iconium

@@ -273,7 +273,7 @@
             centuries), and by Constantine VII Porphyrogenitus in his historical excerpts on
             political plots (ca. 930-955 C.E.).</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote244-1" source="#bib244-1">
-        <anchor xml:id="testimonia-244.grc.1" corresp="testimonia-244.en.1"/>Μηνὶ Ἰουλίῳ ἰνδικτιῶνος δʹ στασιάσαντες οἱ Σαμαρεῖται καὶ οἱ Ἰουδαῖοι ἐν
+        <anchor xml:id="testimonia-244.grc.1" corresp="#testimonia-244.en.1"/>Μηνὶ Ἰουλίῳ ἰνδικτιῶνος δʹ στασιάσαντες οἱ Σαμαρεῖται καὶ οἱ Ἰουδαῖοι ἐν
             Καισαρείᾳ Παλαιστίνης, ποιήσαντες τὸ ἓν εἰς ἀλλήλους ὡς ἐν τάξει μερικῶν ἐπῆλθον τοῖς
             χριστιανοῖς τῆς αὐτῆς πόλεως καὶ πολλοὺς κατέσφαξαν τῶν χριστιανῶν. ἐπῆλθον δὲ καὶ
             ἐπόρθησαν τὰς ἐκκλησίας. καὶ τοῦ ἄρχοντος τῆς αὐτῆς πόλεως ἐξελθόντος πρὸς βοήθειαν τῶν
@@ -293,7 +293,7 @@
         <ref target=""/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote244-2" source="#bib244-2">
-        <anchor xml:id="testimonia-244.en.1" corresp="testimonia-244.grc.1"/>In the month of July of the fourth indication, the Samaritans and
+        <anchor xml:id="testimonia-244.en.1" corresp="#testimonia-244.grc.1"/>In the month of July of the fourth indication, the Samaritans and
             Jews in Caesarea of Palestine staged a revolt. Combining into a faction, they attacked
             the Christians of the city and killed many of them. They attacked and plundered the
             churches. And when the leader of the city went out to help the Christians, the

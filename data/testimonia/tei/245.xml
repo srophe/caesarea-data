@@ -273,7 +273,7 @@
             Testament in the early part of the chronicle, the unknown author reviews the peoples and
             cities of the world, including this passage on North Africa to the Middle East.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote245-1" source="#bib245-1">
-        <anchor xml:id="testimonia-245.grc.1" corresp="testimonia-245.en.1"/>Ἔδοξέ μοι καὶ τὰς ἐπισήμους πόλεις τῶν ἑπτὰ κλιμάτων ἐξειπεῖν. Αʹ.
+        <anchor xml:id="testimonia-245.grc.1" corresp="#testimonia-245.en.1"/>Ἔδοξέ μοι καὶ τὰς ἐπισήμους πόλεις τῶν ἑπτὰ κλιμάτων ἐξειπεῖν. Αʹ.
             Κλίματος πρώτου Λιβύης τῆς ἐν τῇ Αἰγύπτῳ, Νίγρης μητρόπολις Αἰθιοπίας τῆς ἐν τῇ αὐτῇ
             Αἰγύπτῳ, αʹ Μερόη, βʹ Πτολεμαΐς, γʹ Ἀραβία, δʹ Μοῦζα. Βʹ. Κλίματος δευτέρου Αἰγύπτου
             Διόσπολις μεγάλη, Συήνη, Ἀμμωνιακή, Ὤασις μεγάλη. Γʹ. Κλίματος τρίτου Μαυριτανίας
@@ -286,7 +286,7 @@
         <ref/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote245-2" source="#bib245-2">
-        <anchor xml:id="testimonia-245.en.1" corresp="testimonia-245.grc.1"/>It is also worth recounting the distinguished cities of the seven
+        <anchor xml:id="testimonia-245.en.1" corresp="#testimonia-245.grc.1"/>It is also worth recounting the distinguished cities of the seven
             geographic regions. I. The first region. Libya in Egypt, Nigres the capital of Ethiopia
             in the same Egypt. 1. Meroë, 2. Ptolemaïs, 3. Arabia, 4. Musa. II. The second region.
             Egypt: Diospolis Magna, Syene, Ammoniaca, Oasis Magna. III. The third region.

@@ -278,7 +278,7 @@
             records martydoms under Maximinus Daza, including Pamphilus of Caesarea, following the
             listing by Eusebius in his Church History (see Related Texts).</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote263-1" source="#bib263-1">
-        <anchor xml:id="testimonia-263.grc.1" corresp="testimonia-263.en.1"/>Τῷ δ’ αὐτῷ ἔτει Πέτρος, ὁ ἐπίσκοπος Ἀλεξανδρείας, ἐν τῇ φυλακῇ ὑπάρχων
+        <anchor xml:id="testimonia-263.grc.1" corresp="#testimonia-263.en.1"/>Τῷ δ’ αὐτῷ ἔτει Πέτρος, ὁ ἐπίσκοπος Ἀλεξανδρείας, ἐν τῇ φυλακῇ ὑπάρχων
             προστάγματι Μαξιμιανοῦ τοῦ Γαλλερίου καὶ Μαξιμίνου, τοῦ υἱοῦ αὐτοῦ, τὴν κεφαλὴν
             ἀποτμηθεὶς ἐνδόξως ἐμαρτύρησεν· ὅστις τὸν Ἄρειον διάκονον ὄντα τῆς αὐτοῦ ἐκκλησίας
             ἀκοινώνητον ἐποίησεν· ὅστις μετὰ ταῦτα κακοδόξου αἱρέσεως προστάτης γεγονὼς πολλοὺς τῆς
@@ -292,7 +292,7 @@
         <ref target=""/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote263-2" source="#bib263-2">
-        <anchor xml:id="testimonia-263.en.1" corresp="testimonia-263.grc.1"/>[A.M. 5797=304/5 C.E.] In the same year Peter, bishop of Alexandria,
+        <anchor xml:id="testimonia-263.en.1" corresp="#testimonia-263.grc.1"/>[A.M. 5797=304/5 C.E.] In the same year Peter, bishop of Alexandria,
             who had been imprisoned by order of Maximianus Galerius and his son Maximinus, was
             beheaded and underwent martyrdom gloriously. It was he who excommunicated Arius, who was
             deacon of his church and who later, as leader of an erroneous heresy, caused many to

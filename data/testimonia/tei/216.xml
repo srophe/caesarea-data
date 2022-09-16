@@ -274,7 +274,7 @@
             where he embarks on a ship to Rome captained by the hospitable Theon. The scene contains
             interesting details of passengers launching out of the harbor.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote216-1" source="#bib216-1">
-        <anchor xml:id="testimonia-216.la.1" corresp="testimonia-216.en.1"/>Lugentibus autem eis et jejunantibus, iam instruebat deus in futurum
+        <anchor xml:id="testimonia-216.la.1" corresp="#testimonia-216.en.1"/>Lugentibus autem eis et jejunantibus, iam instruebat deus in futurum
             Petrum in Hierosolymis, adimpletis duodecim annis quod illi praeceperat dominus,
             Christus ostendit illi visionem talem, dicens ei, “Petre, quem tu ejecisti de Iudea
             adprobatum magum Simonem, iterum praeoccupavit vos Romae. Et in brevi scias: omnes enim
@@ -300,7 +300,7 @@
         <ref target=""/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote216-2" source="#bib216-2">
-        <anchor xml:id="testimonia-216.en.1" corresp="testimonia-216.la.1"/>While they were grieving and fasting, God was already preparing
+        <anchor xml:id="testimonia-216.en.1" corresp="#testimonia-216.la.1"/>While they were grieving and fasting, God was already preparing
             Peter at Jerusalem for what was to come. After the twelve years had passed which the
             Lord had enjoined on him, Christ showed to him the following vision, saying, “Peter,
             Simon, whom you expelled from Judaea after having proved him to be a magician, has

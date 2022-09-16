@@ -278,7 +278,7 @@
             passage at Eusebius, Dictionary of Place Names 22, which was written roughly one century
             before Jerome’s work.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote290-1" source="#bib290-1">
-        <anchor xml:id="testimonia-290.la.1" corresp="testimonia-290.en.1"/>Accaron in triba Dan, sine ut ego arbitror in tribu Iudae, ad laevam
+        <anchor xml:id="testimonia-290.la.1" corresp="#testimonia-290.en.1"/>Accaron in triba Dan, sine ut ego arbitror in tribu Iudae, ad laevam
             Chananaeorum. urbs una de quinque olim satrapiis Palaestinae. et decreta est quidem
             tribui Iudae, nec tamen tenta ab ea, quia habitatores pristinos nequivit expellere. sed
             et usque hodie grandis vicus civium Iudaeorum Accaron dicitur, inter Azotum et Iamniam,
@@ -289,7 +289,7 @@
         <ref target="urn:cts:greekLit:tlg2018.tlg011.opp-lat1:1"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote290-2" source="#bib290-2">
-        <anchor xml:id="testimonia-290.en.1" corresp="testimonia-290.la.1"/>Accaron in the tribe of Dan—or, I think, in the tribe of Judah—to
+        <anchor xml:id="testimonia-290.en.1" corresp="#testimonia-290.la.1"/>Accaron in the tribe of Dan—or, I think, in the tribe of Judah—to
             the left of the Caananites. This city was one of the five former satrapies of Palestine.
             It was indeed assigned to the tribe of Judah but nevertheless not held by it, because it
             could not expel the ancient inhabitants. Even up to today there is a large village of

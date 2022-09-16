@@ -279,7 +279,7 @@
             John XXII (in 1321). This passage describes the organization of rule over the Kingdom of
             Jerusalem.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote239-1" source="#bib239-1">
-        <anchor xml:id="testimonia-239.la.1" corresp="testimonia-239.en.1"/>Ierosolymitarum regum explicata gloria de regni baronibus persequamur.
+        <anchor xml:id="testimonia-239.la.1" corresp="#testimonia-239.en.1"/>Ierosolymitarum regum explicata gloria de regni baronibus persequamur.
             Pro ipsius enim regni tutela, inter principes et barones, ut assolet, est divisum, qui
             terram sub rege custodirent ac defenderent, retenta regi parte digniori ac meliori:
             civitate scilicet sacra, Ierusalem, Neapoli, Ptolomayda, et Tyro, cum quibusdam oppidis
@@ -294,7 +294,7 @@
         <ref target=""/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote239-2" source="#bib239-2">
-        <anchor xml:id="testimonia-239.en.1" corresp="testimonia-239.la.1"/>Let us go over the clear glory of the Kings of Jerusalem from the
+        <anchor xml:id="testimonia-239.en.1" corresp="#testimonia-239.la.1"/>Let us go over the clear glory of the Kings of Jerusalem from the
             point of view of the barons of the kingdom. For the safety of the kingdom, as was
             typical, it was divided between princes and barons who guarded and defended the land
             under the King. The more important and better part was reserved for the King, namely,

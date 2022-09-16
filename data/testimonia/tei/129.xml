@@ -268,7 +268,7 @@
           <placeName>Caesarea Palestinae</placeName>
         </quote> are directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Dictionary of Place Names</title> <ref target="#bib129-1">78</ref>. This passage was written circa <origDate notBefore="0290" notAfter="0325" period="#lateRoman# byzantine">290-325 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote129-1" source="#bib129-1">
-        <anchor xml:id="testimonia-129.grc.1" corresp="testimonia-129.en.1"/>Δῶρ τοῦ Ναφάθ. Σʹ Δὼρ “τῆς παραλίας”, αὕτη ἐστὶ Δῶρα ἡ πρὸς
+        <anchor xml:id="testimonia-129.grc.1" corresp="#testimonia-129.en.1"/>Δῶρ τοῦ Ναφάθ. Σʹ Δὼρ “τῆς παραλίας”, αὕτη ἐστὶ Δῶρα ἡ πρὸς
                <placeName>Καισάρειαν τῆς Παλαιστίνης</placeName> ἀπὸ σημείων θʹ ἀπιόντων Τυρὸν, νῦν
             ἔρημος, ἣν οὐκ ἔλαβεν ἡ φυλὴ Μανασσῆ, ὅτι μὴ ἀνεῖλεν τοὺς ἐν αὐτῇ ἀλλοφύλους.<note>Ed.
                Klosterman 1904</note>
@@ -276,7 +276,7 @@
         <ref target=""/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote129-2" source="#bib129-2">
-        <anchor xml:id="testimonia-129.en.1" corresp="testimonia-129.grc.1"/>Dor of Nafath. Symmachus: Dor “by the Sea”. This is the Dor near
+        <anchor xml:id="testimonia-129.en.1" corresp="#testimonia-129.grc.1"/>Dor of Nafath. Symmachus: Dor “by the Sea”. This is the Dor near
                <placeName>Caesarea Palestinae</placeName>, nine milestones away for those travelling
             to Tyre, now deserted, which the tribe of Manasseh did not take because they could not
             expel the foreign tribes there.<note type="translation">Trans. J. L. Rife</note>

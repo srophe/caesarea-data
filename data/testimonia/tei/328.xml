@@ -284,7 +284,7 @@
             of Alexandria, against the Johannine faction persecuted his followers, among whom
             Eulogius, bishop of Caesarea, is named as especially cruel.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote328-1" source="#bib328-1">
-        <anchor xml:id="testimonia-328.grc.1" corresp="testimonia-328.en.1"/>Εἰς τοσοῦτον δὲ ὠμότητος οἱ κατὰ τόπον ἤκμασαν ἐπίσκοποι τῶν κοινωνικῶν
+        <anchor xml:id="testimonia-328.grc.1" corresp="#testimonia-328.en.1"/>Εἰς τοσοῦτον δὲ ὠμότητος οἱ κατὰ τόπον ἤκμασαν ἐπίσκοποι τῶν κοινωνικῶν
             Θεοφίλου κατὰ τὴν ἀνατολὴν πᾶσαν, ὡς ἔλεγεν ὁ ἐλθὼν ἀσκητής, ὥς τινας αὐτῶν οὐχὶ μόνον
             μὴ ἐνδείξασθαι τὴν ὀφειλομένην σωφροσύνην ἀλλὰ καὶ μετὰ δώρων πείθειν τοὺς ἐπαρχικοὺς
             τάχιον ἐξελαύνειν τῶν πόλεων. Εἰσὶ δὲ οἱ μάλιστα τοῦτο πεποιηκότες, ὁ Ταρσοῦ καὶ ὁ
@@ -297,7 +297,7 @@
         <ref target=""/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote328-2" source="#bib328-2">
-        <anchor xml:id="testimonia-328.en.1" corresp="testimonia-328.grc.1"/>The local bishops in communion with Theophilus throughout the East
+        <anchor xml:id="testimonia-328.en.1" corresp="#testimonia-328.grc.1"/>The local bishops in communion with Theophilus throughout the East
             reached such a level of savage cruelty that, according to a monk who came (from there),
             some of them not only failed to show the necessary moderation, but they even bribed the
             provincial officials to remove (their prisoners) more quickly from the cities. The prime

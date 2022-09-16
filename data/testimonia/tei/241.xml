@@ -271,7 +271,7 @@
             C.E. at Caesarea on the site of a synagogue. This is the only known testimony for the
             building.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote241-1" source="#bib241-1">
-        <anchor xml:id="testimonia-241.grc.1" corresp="testimonia-241.en.1"/>Ἔκτισε δὲ καὶ ἐν <placeName>Καισαρείᾳ τῆς Παλαιστίνης</placeName> ἐκ τῆς
+        <anchor xml:id="testimonia-241.grc.1" corresp="#testimonia-241.en.1"/>Ἔκτισε δὲ καὶ ἐν <placeName>Καισαρείᾳ τῆς Παλαιστίνης</placeName> ἐκ τῆς
             αὐτῆς Ἰουδαϊκῆς πραίδας ὁ αὐτὸς Οὐεσπασιανὸς ᾠδεῖον μέγα πάνυ, θεάτρου ἔχον διάστημα
             μέγα, ὄντος καὶ αὐτοῦ τοῦ τόπου πρῴην συναγωγῆς τῶν Ἰουδαίων.<note type="textual">Ed.
                Thurn 2000</note>
@@ -279,7 +279,7 @@
         <ref target=""/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote241-2" source="#bib241-2">
-        <anchor xml:id="testimonia-241.en.1" corresp="testimonia-241.grc.1"/>Out of the spoils from Judaea Vespasian also built a very large
+        <anchor xml:id="testimonia-241.en.1" corresp="#testimonia-241.grc.1"/>Out of the spoils from Judaea Vespasian also built a very large
             odeum in <placeName>Caesarea of Palestine</placeName>, the size of a large theater. Its
             site too had previously been that of a Jewish synagogue.<note type="translation">Adapted
                from Jeffreys et al. 2017</note>

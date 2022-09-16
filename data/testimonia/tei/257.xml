@@ -271,14 +271,14 @@
             recorded in the parallel passage at Jerome, Book of Places 109, written roughly one
             century after Eusebius’ work.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote257-1" source="#bib257-1">
-        <anchor xml:id="testimonia-257.grc.1" corresp="testimonia-257.en.1"/>Ἰάφεθ. κλήρου Ζαβουλών ἀνάβασίς, καλεῖται καὶ Ἰόππη. καὶ ἡ Συκάμινος δὲ
+        <anchor xml:id="testimonia-257.grc.1" corresp="#testimonia-257.en.1"/>Ἰάφεθ. κλήρου Ζαβουλών ἀνάβασίς, καλεῖται καὶ Ἰόππη. καὶ ἡ Συκάμινος δὲ
             ἀπιόντων εἰς Πτολεμαίδα ἀπὸ <placeName>Καισαρείας</placeName>, κώμη πάραλος πλησίον τοῦ
             Καρμήλου, Ἡφὰ λέγεται.<note>Ed. Klosterman 1904 [cited by page]</note>
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote257-2" source="#bib257-2">
-        <anchor xml:id="testimonia-257.en.1" corresp="testimonia-257.grc.1"/>Iapheth. The Ascent of the Plot of Zebulon, also called Ioppe. It is
+        <anchor xml:id="testimonia-257.en.1" corresp="#testimonia-257.grc.1"/>Iapheth. The Ascent of the Plot of Zebulon, also called Ioppe. It is
             also Sykaminos for those traveling to Ptolemais from <placeName>Caesarea</placeName>, a
             coastal village near Carmel, called Hepha.<note type="translation">Trans. J. L.
                Rife</note>

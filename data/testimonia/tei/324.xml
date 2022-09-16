@@ -267,7 +267,7 @@
             criticizes a declining enthusiasm for classical learning (saeculares litterae). Origen
             flourished as a scholar and teacher at Caesarea Maritima.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote324-1" source="#bib324-1">
-        <anchor xml:id="testimonia-324.la.1" corresp="testimonia-324.en.1"/>Marcum Terentium Varronem miratur antiquitas, quod apud Latinos tam
+        <anchor xml:id="testimonia-324.la.1" corresp="#testimonia-324.en.1"/>Marcum Terentium Varronem miratur antiquitas, quod apud Latinos tam
             innumerabiles libros scripserit. Graeci Chalcenterum miris efferunt laudibus, quod
             tantos libros conposuerit, quantos quivis nostrum alienos sua manu describere non
             potest, et quia nunc otiosum est apud Latinos Graecorum voluminum indicem texere, de eo,
@@ -278,7 +278,7 @@
         <ref/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote324-2" source="#bib324-2">
-        <anchor xml:id="testimonia-324.en.1" corresp="testimonia-324.la.1"/>Antiquity marvels at Marcus Terentius Varro, because of the
+        <anchor xml:id="testimonia-324.en.1" corresp="#testimonia-324.la.1"/>Antiquity marvels at Marcus Terentius Varro, because of the
             countless books which he wrote for Latin readers. Greek writers are extravagant in their
             praise of Brass-Guts, because he has written more works than one of us could so much as
             copy. But because now it would be tiresome for Latin readers to assemble a list of Greek

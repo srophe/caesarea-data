@@ -282,7 +282,7 @@
             the emperor paraphrases the earlier accounts of John Malalas and the Easter Chronicle on
             the Samaritan uprising of 556 C.E.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote218-1" source="#bib218-1">
-        <anchor xml:id="testimonia-218.grc.1" corresp="testimonia-218.en.1"/>Ὅτι ἐπὶ τοῦ αὐτοῦ βασιλέως Ἰουστινιανοῦ ἐστασίασαν οἱ Σαμαρεῖται καὶ οἱ
+        <anchor xml:id="testimonia-218.grc.1" corresp="#testimonia-218.en.1"/>Ὅτι ἐπὶ τοῦ αὐτοῦ βασιλέως Ἰουστινιανοῦ ἐστασίασαν οἱ Σαμαρεῖται καὶ οἱ
             Ἰουδαῖοι ἐν <placeName>Καισαρείᾳ τῆς Παλαιστίνης</placeName> ποιήσαντες τὸ ἓν ὡς ἐν
             τάξει πρασινοβενέτων, καὶ ἐπῆλθον τοῖς χριστιανοῖς τῆς αὐτῆς πόλεως καὶ κατέκοψαν
             πολλοὺς καὶ ἐπῆλθον καὶ ταῖς ἐκκλησίαις τῶν ὀρθοδόξων. ὁ δὲ Στέφανος ὁ ἀνθύπατος τῆς
@@ -299,7 +299,7 @@
         <ref/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote218-2" source="#bib218-2">
-        <anchor xml:id="testimonia-218.en.1" corresp="testimonia-218.grc.1"/>It happened during the reign of the emperor Justinian that the
+        <anchor xml:id="testimonia-218.en.1" corresp="#testimonia-218.grc.1"/>It happened during the reign of the emperor Justinian that the
             Samaritans and Jews in <placeName>Caesarea of Palestine</placeName> staged a revolt.
             Combining into a Green-Blue faction, they attacked the Christians in this city and cut
             down many of them and attacked the churchs of the orthodox. Stephanos the governor of

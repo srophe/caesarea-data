@@ -275,7 +275,7 @@
             the Christian’s soul’s stay in purgatory (i.e., indulgences). The work begins abruptly
             with this passage on the coastal route from Acre to Jaffa.</desc>
       <ab type="edition" xml:lang="fro" xml:id="quote221-1" source="#bib221-1">
-        <anchor xml:id="testimonia-221.fro.1" corresp="testimonia-221.en.1"/>Ces sunt le pelrinages communes, que crestiens fount en la Seinre Terre.
+        <anchor xml:id="testimonia-221.fro.1" corresp="#testimonia-221.en.1"/>Ces sunt le pelrinages communes, que crestiens fount en la Seinre Terre.
             De la vyle de Acres à Seym Elye: iiij. liwes; de cele terre, e de la Cave Seynt Elye à
             la Carme, .j. liwe; e de la Carme à Seint Iohan de Tyr .i. liwe. Là yl y a une vile de
             Seint Iohan le Baptistre, e à .j. liwe de ileque est le peroun sur qui Dieu se reposa,
@@ -292,7 +292,7 @@
         <ref target="https://archive.org/details/itinrairesjrusa00michgoog/page/n251/mode/2up"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote221-2" source="#bib221-2">
-        <anchor xml:id="testimonia-221.en.1" corresp="testimonia-221.fro.1"/>These are the common pilgrimages that Christians make in the Holy
+        <anchor xml:id="testimonia-221.en.1" corresp="#testimonia-221.fro.1"/>These are the common pilgrimages that Christians make in the Holy
             Land. From the town of Acre to St. Elias is four leages; from that place and from the
             Cave of St. Elias to the Carmel(ite Monastery) is one league; and from the Carmel(ite
             Monastery) to St. John of Tyr is one league. There is a town of St. John the Baptist,

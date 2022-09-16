@@ -268,7 +268,7 @@
             (the Hexapla with its supplements), produced at the ecclesiastical library in
             Caesarea.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote289-1" source="#bib289-1">
-        <anchor xml:id="testimonia-289.la.1" corresp="testimonia-289.en.1"/>Quis autem ignorat, quod tantum habuerit in scripturis sanctis studii,
+        <anchor xml:id="testimonia-289.la.1" corresp="#testimonia-289.en.1"/>Quis autem ignorat, quod tantum habuerit in scripturis sanctis studii,
             ut etiam Hebream linguam contra aetatis gentisque suae naturam edisceret et exceptis
             Septuaginta interpraetibus alias quoque editiones in unum congregaret? Aquilae scilicet
             Pontici proselyti et Theodotionis Hebionei et Symmachi eiusdem dogmatis, qui in
@@ -288,7 +288,7 @@
         <ref target="https://archive.org/details/devirisinlustri00jerogoog/page/n91/mode/2up"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote289-2" source="#bib289-2">
-        <anchor xml:id="testimonia-289.en.1" corresp="testimonia-289.la.1"/>Who does not also know that he was so assiduous in the study of the
+        <anchor xml:id="testimonia-289.en.1" corresp="#testimonia-289.la.1"/>Who does not also know that he was so assiduous in the study of the
             Holy Scriptures that, contrary to the spirit of his era and his people, he learned the
             Hebrew language, and, after he had collected the Septuagint translations, he gathered
             into a single work the other translations also? I am referring to those by Aquila, the

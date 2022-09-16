@@ -279,7 +279,7 @@
             a survey of the region’s ethnography, religions, and environment. This passage addresses
             changes in place names over time, including Caesarea.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote283-1" source="#bib283-1">
-        <anchor xml:id="testimonia-283.la.1" corresp="testimonia-283.en.1"/>Nomina autem civitatum et locorum, que propter mutationem gentium, que
+        <anchor xml:id="testimonia-283.la.1" corresp="#testimonia-283.en.1"/>Nomina autem civitatum et locorum, que propter mutationem gentium, que
             ipsam terram) diversis temporibιιs incoluerunt, paulatim mutata sunt. Ierusalem primo
             dicta et Iebus, postea Salem, propterea dicta est Ierusalem, postea Ierosolima; postea
             Elya, ab Elia Romano, qui postea ipsam post destructionem Titi edificavit in loco, quo
@@ -293,7 +293,7 @@
         <ref/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote283-2" source="#bib283-2">
-        <anchor xml:id="testimonia-283.en.1" corresp="testimonia-283.la.1"/>The names of cities and places have changed gradually due to the
+        <anchor xml:id="testimonia-283.en.1" corresp="#testimonia-283.la.1"/>The names of cities and places have changed gradually due to the
             changing of the peoples who inhabitated the land at different times. Jerusalem was at
             first called Jebus, later Salem, and therefore it was called Ierusalem, later
             Ierosolima; after that Elia, from Aelias the Roman who, after its destruction by Titus,
