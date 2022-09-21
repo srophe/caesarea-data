@@ -277,7 +277,7 @@
             passage on the activities of Augustus in the East, John discusses the chronology of the
             birth of Christ and cites Eusebius of Caesarea as a learned authority.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote134-1" source="#bib134-1">
-        <anchor xml:id="testimonia-134.grc.1" corresp="testimonia-134.en.1"/>τῇ δὲ ἕκτῃ ἡμέρᾳ, ὡς προεῖπεν ἡ γραφή, ἔπλασεν ὁ θεὸς τὸν ἄνθρωπον, καὶ
+        <anchor xml:id="testimonia-134.grc.1" corresp="#testimonia-134.en.1"/>τῇ δὲ ἕκτῃ ἡμέρᾳ, ὡς προεῖπεν ἡ γραφή, ἔπλασεν ὁ θεὸς τὸν ἄνθρωπον, καὶ
             ὑπέπεσε τῇ ἁμαρτίᾳ ὁ ἄνθρωπος· ὡς δῆλον εἶναι ὅτι οὕτω καὶ τῇ ἕκτῃ ἡμέρᾳ τῆς χιλιάδος
             ἐπὶ τῆς γῆς ἐφάνη ὁ δεσπότης ἡμῶν Ἰησοῦς ὁ Χριστός, καὶ ἔσωσε τὸν ἄνθρωπον διὰ τοῦ
             σταυροῦ καὶ τῆς ἀναστάσεως· ἅτινα συνεγράψατο Κλήμης, Θεόφιλος, καὶ Τιμόθεος, οἱ σοφοὶ
@@ -290,7 +290,7 @@
         <ref target=""/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote134-2" source="#bib134-2">
-        <anchor xml:id="testimonia-134.en.1" corresp="testimonia-134.grc.1"/>It was on the sixth day, as Scripture says, that God created man and
+        <anchor xml:id="testimonia-134.en.1" corresp="#testimonia-134.grc.1"/>It was on the sixth day, as Scripture says, that God created man and
             man fell into sin. So it is clear that thus on the millenium’s sixth day our Lord Jesus
             Christ appeared on earth and saved man through the cross and resurrection. These things
             the learned chroniclers Clement, Theophilus, and Timotheus recorded in agreement. The

@@ -277,7 +277,7 @@
             his neighbors John, the bishop of Jerusalem, and Tyrannius Rufinus, the learned monk at
             the Mount of Olives (see Related Texts).</desc>
       <ab type="edition" xml:lang="la" xml:id="quote297-1" source="#bib297-1">
-        <anchor xml:id="testimonia-297.la.1" corresp="testimonia-297.en.1"/>Haec epistula uniformis ad Palaestinos et ad Cyprios episcopos missa
+        <anchor xml:id="testimonia-297.la.1" corresp="#testimonia-297.en.1"/>Haec epistula uniformis ad Palaestinos et ad Cyprios episcopos missa
             est. utriusque principia tulimus. Ad Palaestinos: Dominis dilectissimis, fratribus et
             coepiscopis Eulogio, Iohanni, Zebinno, Auxentio, Dionysio, Gennadio, Zenoni, Theudosio,
             Dictenio, Porphyrio, Saturnino, Alani, Paulo, Ammonio, Heliano, alteri Paulo, Eusebio et
@@ -287,7 +287,7 @@
         <ref/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote297-2" source="#bib297-2">
-        <anchor xml:id="testimonia-297.en.1" corresp="testimonia-297.la.1"/>This letter has been sent in identical copies to the Palestinian and
+        <anchor xml:id="testimonia-297.en.1" corresp="#testimonia-297.la.1"/>This letter has been sent in identical copies to the Palestinian and
             Cypriot bishops. We give the first lines of both copies. To the Palestinian bishops: To
             the Lord’s beloved, brothers and fellow bishops Eulogius, John, Zebinnus, Auxentius,
             Dionysius, Gennadius, Zeno, Theodosius, Dictenios, Porphyry, Saturninus, Alan, Paul,

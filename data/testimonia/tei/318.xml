@@ -273,7 +273,7 @@
             Here the author depends on the universal history written by Hesychius of Miletus roughly
             400 years earlier.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote318-1" source="#bib318-1">
-        <anchor xml:id="testimonia-318.grc.1" corresp="testimonia-318.en.1"/>Εὐσέβιος, ὁ Παμφίλου, προσκείμενος τῇ Ἀρειανικῇ αἱρέσει, ἐπίσκοπος
+        <anchor xml:id="testimonia-318.grc.1" corresp="#testimonia-318.en.1"/>Εὐσέβιος, ὁ Παμφίλου, προσκείμενος τῇ Ἀρειανικῇ αἱρέσει, ἐπίσκοπος
                <placeName>Καισαρείας τῆς Παλαιστίνης</placeName>, σπουδαῖος ἐν ταῖς θείαις γραφαῖς
             καὶ τῆς θείας βιβλιοθήκης ἅμα Παμφίλῳ τῷ μάρτυρι ἐπιμελέστατος ἀνιχνευτής. ἐξέδωκε πολλὰ
             τεύχη, ὧν εἰσι τάδε: Εὐαγγελικῆς ἀποδείξεως λόγοι κʹ, Εὐαγγελικῆς προπαρασκευῆς λόγοι
@@ -292,7 +292,7 @@
             </idno>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote318-2" source="#bib318-2">
-        <anchor xml:id="testimonia-318.en.1" corresp="testimonia-318.grc.1"/>Eusebius, (called) son of Pamphilus, inclined to the Arian heresy,
+        <anchor xml:id="testimonia-318.en.1" corresp="#testimonia-318.grc.1"/>Eusebius, (called) son of Pamphilus, inclined to the Arian heresy,
             bishop of Caesarea Palestinae, zealous in the Divine Scriptures, and diligent researcher
             with Pamphilus the martyr at the Divine Library. He published many volumes, among which
             are the following: Proof of the Gospel in 20 books; Preparation for the Gospel in 15

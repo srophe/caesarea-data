@@ -271,12 +271,12 @@
           <placeName xml:lang="en">Caesarea</placeName>
         </quote> are place names attested in <persName ref="https://viaf.org/viaf/88881722" role="author">Justinian I</persName>'s <title xml:lang="en" ref="" type="uniform" level="m">Digesta L</title> 15.1.6. This testimonium was written circa <origDate period="#byzantine" notBefore="0530" notAfter="0533">530 - 533 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote57-1" source="#bib57-1">
-        <anchor xml:id="testimonia-57.la.1" corresp="testimonia-57.en.1"/>In Palaestina duae fuerunt coloniae, <placeName xml:lang="la">Caesariensis</placeName> et Aelia Capitolina, sed neutra ius Italicum habet.
+        <anchor xml:id="testimonia-57.la.1" corresp="#testimonia-57.en.1"/>In Palaestina duae fuerunt coloniae, <placeName xml:lang="la">Caesariensis</placeName> et Aelia Capitolina, sed neutra ius Italicum habet.
         <idno type="CTS-URN"/>
         <ref target="https://droitromain.univ-grenoble-alpes.fr/Corpus/d-50.htm#15"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote57-2" source="#bib57-2">
-        <anchor xml:id="testimonia-57.en.1" corresp="testimonia-57.la.1"/>In Palestine there are two colonies, those of <placeName xml:lang="en">Caesarea</placeName> and Aelia Capitolina; but neither of these enjoy Italian privileges.
+        <anchor xml:id="testimonia-57.en.1" corresp="#testimonia-57.la.1"/>In Palestine there are two colonies, those of <placeName xml:lang="en">Caesarea</placeName> and Aelia Capitolina; but neither of these enjoy Italian privileges.
         <idno type="CTS-URN"/>
         <ref target="https://droitromain.univ-grenoble-alpes.fr/Anglica/D50_Scott.htm#XV"/>
       </ab>

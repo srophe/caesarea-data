@@ -275,7 +275,7 @@
             Rufinus on the grounds that he had misrepresented the authorship of the Apology for
             Origen.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote346-1" source="#bib346-1">
-        <anchor xml:id="testimonia-346.la.1" corresp="testimonia-346.en.1"/>(9) Quid tibi animi fuisse dicam, amice simplicissime? Tene potuisse
+        <anchor xml:id="testimonia-346.la.1" corresp="#testimonia-346.en.1"/>(9) Quid tibi animi fuisse dicam, amice simplicissime? Tene potuisse
             haeretici hominis libro martyris nomen imponere, et ignaros, sub auctoritate testis
             Christi, Origenis facere defensores? Pro eruditione qua polles et inclytus συγγραφεὺς in
             Occidente laudaris, ita ut coryphaeum te omnes tuae partis nominent, non reor te
@@ -300,7 +300,7 @@
         <ref target="https://archive.org/details/patrologiaecurs01goog/page/n216/mode/2up"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote346-2" source="#bib346-2">
-        <anchor xml:id="testimonia-346.en.1" corresp="testimonia-346.la.1"/>(9) Shall I say what your intention was, my most simple-minded
+        <anchor xml:id="testimonia-346.en.1" corresp="#testimonia-346.la.1"/>(9) Shall I say what your intention was, my most simple-minded
             friend? Surely you could not have placed the name of a marytr (sc. Pamphilus) on the
             book of a heretic (sc. Origen) and thus, under the guarantee of Christ’s witness, made
             uninformed men the defenders of Origen? Considering the learning for which you are

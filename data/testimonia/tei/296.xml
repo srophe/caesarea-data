@@ -269,7 +269,7 @@
             devotion, chastity, and charity, comparing him to Cornelius, the famous centurion at
             Caesarea whom St. Peter converted.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote296-1" source="#bib296-1">
-        <anchor xml:id="testimonia-296.la.1" corresp="testimonia-296.en.1"/>(1) Alius forsitan laudet Nebridium, quod de sorore generatus Augustae
+        <anchor xml:id="testimonia-296.la.1" corresp="#testimonia-296.en.1"/>(1) Alius forsitan laudet Nebridium, quod de sorore generatus Augustae
             et in materterae nutritus sinu invictissimo principi ita carus fuit, ut ei coniugem
             nobilissimam quaereret et bellis civilibus Africam dissidentem hac velut obside sibi
             fidam redderet. mihi a principio statim illud est praedicandum, quod quasi vicinae
@@ -286,7 +286,7 @@
         <ref/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote296-2" source="#bib296-2">
-        <anchor xml:id="testimonia-296.en.1" corresp="testimonia-296.la.1"/>(1) Perhaps another would praise Nebridius because, born to the
+        <anchor xml:id="testimonia-296.en.1" corresp="#testimonia-296.la.1"/>(1) Perhaps another would praise Nebridius because, born to the
             sister of the Empress and brought up in the bosom of his aunt, he was so dear to the
             unconquered emperor (Theodosius) that he sought out for (Nebridius) a wife of the
             highest rank, who, as Africa (her homeland) was disrupted by civil wars, became a kind

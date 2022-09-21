@@ -285,7 +285,7 @@
             route through Greater Syria from Alexandretta to Gaza and Darum, including the stretch
             around Caesarea.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote302-1" source="#bib302-1">
-        <anchor xml:id="testimonia-302.la.1" corresp="testimonia-302.en.1"/>De Caypha ad tres leucas est Castrum Peregrinorum, munitissimum, et erat
+        <anchor xml:id="testimonia-302.la.1" corresp="#testimonia-302.en.1"/>De Caypha ad tres leucas est Castrum Peregrinorum, munitissimum, et erat
             Templariorum, sita in corde maris. De Castro Peregrinorum ad tres leucas est <placeName>Caesarea Palestinae</placeName>; compassus ponit XX milliaria (de ea part.
             VI cap. IV). De <placeName>Caesarea</placeName> ad duas leucas est munitio Assur vel
             Dora; compassus ponit XV milliaria. Fuit autem Templariorum, qui etiam post eius
@@ -296,7 +296,7 @@
         <ref target=""/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote302-2" source="#bib302-2">
-        <anchor xml:id="testimonia-302.en.1" corresp="testimonia-302.la.1"/>It is three leagues from Caypha to Pilgrims’ Castle, very well
+        <anchor xml:id="testimonia-302.en.1" corresp="#testimonia-302.la.1"/>It is three leagues from Caypha to Pilgrims’ Castle, very well
             fortified, which once belonged to the Templars, situated in deep sea. From the Pilgrims’
             Castle it is three leagues to <placeName>Caesarea of Palestine</placeName>; the compass
             makes this 20 miles (see 3.6.4). From <placeName>Caesarea</placeName> it is two leagues

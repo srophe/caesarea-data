@@ -278,7 +278,7 @@
             concentrated at Neapolis and one in 556 C.E. under Justinian concentrated at Caesarea
             Maritima.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote250-1" source="#bib250-1">
-        <anchor xml:id="testimonia-250.grc.1" corresp="testimonia-250.en.1"/>Ἐν τοῖς χρόνοις τούτοις πρόφασιν λαβόντες οἱ ἐκ τοῦ ἔθνους τῶν
+        <anchor xml:id="testimonia-250.grc.1" corresp="#testimonia-250.en.1"/>Ἐν τοῖς χρόνοις τούτοις πρόφασιν λαβόντες οἱ ἐκ τοῦ ἔθνους τῶν
             Σαμαρειτῶν ἐν Παλαιστίνῃ ἐτυράννησαν, καὶ ἔστεψαν λῄσταρχον, ὀνόματι Ἰουστασᾶν,
             Σαμαρείτην. καὶ εἰσῆλθεν ἐν <placeName>Καισαρείᾳ</placeName>, καὶ ἐθεώρησεν ἱππικόν, καὶ
             πολλοὺς ἐφόνευσεν ἡγεμονεύων τῆς Παλαιστίνης. ἔκαυσεν δὲ καὶ τὴν ἐκκλησίαν τοῦ ἁγίου
@@ -294,7 +294,7 @@
         <ref/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote250-2" source="#bib250-2">
-        <anchor xml:id="testimonia-250.en.1" corresp="testimonia-250.grc.1"/>[484 C.E.] In these times the people of the Samaritan race in
+        <anchor xml:id="testimonia-250.en.1" corresp="#testimonia-250.grc.1"/>[484 C.E.] In these times the people of the Samaritan race in
             Palestine seized a pretext and rebelled, and crowned a bandit chief, the Samaritan named
             Justasas. And he came to <placeName>Caesarea</placeName> and watched chariot races and
             murdered many people while he was ruler of Palestine. The same Justasas also burned the

@@ -272,7 +272,7 @@
             identifies the site of the beast’s encampment as the Mount of Olives, between the Dead
             Sea and the Mediterranean coast.</desc>
          <ab type="edition" xml:lang="la" xml:id="quote323-1" source="#bib323-1">
-        <anchor xml:id="testimonia-323.la.1" corresp="testimonia-323.en.1"/>Nostri autem extremum visionis huius capitulum super Antichristo sic
+        <anchor xml:id="testimonia-323.la.1" corresp="#testimonia-323.en.1"/>Nostri autem extremum visionis huius capitulum super Antichristo sic
             exponunt: quod, pugnans contra Aegyptios, Libyasque et Aethiopas, et tria cornua de
             decem cornibus conterens, aditurus sit de aquilonis et orientis partibus adversum se
             bella consurgere; quod, veniens cum magna multitudine ut conterat et interficiat
@@ -292,7 +292,7 @@
         <ref target=""/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote323-2" source="#bib323-2">
-        <anchor xml:id="testimonia-323.en.1" corresp="testimonia-323.la.1"/>Our school explains the final chapter of this vision in relation to
+        <anchor xml:id="testimonia-323.en.1" corresp="#testimonia-323.la.1"/>Our school explains the final chapter of this vision in relation to
             the Antichrist as follows. During his battle against the Egyptians, Libyans, and
             Ethiopians, when he will smash three of the ten horns, the news will come that war has
             arisen against him from the North and the East. He will advance with a great host to

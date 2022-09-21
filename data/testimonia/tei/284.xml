@@ -276,7 +276,7 @@
             biblical content is greatly condensed. This passage opens the itinerary, which advance
             south along the coast from Acco past Caesarea.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote284-1" source="#bib284-1">
-        <anchor xml:id="testimonia-284.la.1" corresp="testimonia-284.en.1"/>Si quis voluerit ire ab Acon ad montem Carmelum sunt leugue VIII ubi
+        <anchor xml:id="testimonia-284.la.1" corresp="#testimonia-284.en.1"/>Si quis voluerit ire ab Acon ad montem Carmelum sunt leugue VIII ubi
             fuit beatus Elias propheta. De Carmelo ad <placeName>Cesaream</placeName> sunt league
             VIII. ibi dicitur esse tabula Domini et quatuor filie Sci. Filippi et locus centurionis
             Corneli. Et de <placeName>Cesarea</placeName> usque Iopem sunt leugue XII, ubi est
@@ -286,7 +286,7 @@
         <ref target="https://archive.org/details/chroniquedernoul00ernouoft/page/112/mode/2up"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote284-2" source="#bib284-2">
-        <anchor xml:id="testimonia-284.en.1" corresp="testimonia-284.la.1"/>If anyone should want to go from Aco to Mount Carmel, it is 8
+        <anchor xml:id="testimonia-284.en.1" corresp="#testimonia-284.la.1"/>If anyone should want to go from Aco to Mount Carmel, it is 8
             leagues to the place where blessed Elijah the Prophet was. From Carmel to <placeName>Caesarea</placeName> is 8 leagues. There is said to be the Table of the
             Lord and the [tombs of the] four daughters of St. Philip and the site of the centurion
             Cornelius. And from <placeName>Caesarea</placeName> to Joppe is 12 leagues, and there is

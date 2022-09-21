@@ -319,7 +319,7 @@
             quoted but misrepresented and misconstrued. This testimony sheds light on the
             controversial transition of Origen from Alexandria to Caesarea around 231 C.E.</desc>
          <ab type="edition" xml:lang="la" xml:id="quote392-1" source="#bib392-1">
-        <anchor xml:id="testimonia-392.la.1" corresp="testimonia-392.en.1"/>Praemissa falsatione ab haereticis apostolorum et utriusque Clementis
+        <anchor xml:id="testimonia-392.la.1" corresp="#testimonia-392.en.1"/>Praemissa falsatione ab haereticis apostolorum et utriusque Clementis
             atque Dionysii, venit ad Origenem, et his verbis loquitur: “Ipsius hoc conquerentis et
             deplorantis scriptis ac vocibus probavimus. Quid enim ipse, cum adhuc esset in carne
             vivens, sentiens vidensque, perpessus sit de librorum suorum vel sermonum
@@ -335,7 +335,7 @@
         <idno type="CTS-URN">https://archive.org/details/patrologiaecurs01goog/page/n236/mode/2up</idno>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote392-2" source="#bib392-2">
-        <anchor xml:id="testimonia-392.en.1" corresp="testimonia-392.la.1"/>After this preface as to the falsification by heretics of the
+        <anchor xml:id="testimonia-392.en.1" corresp="#testimonia-392.la.1"/>After this preface as to the falsification by heretics of the
             apostles, of both Clements, and of Dionysius, (Rufinus) comes to Origen. These are his
             words: “I have shown from (Origen’s) own writings and words how he himself complains of
             this and deplores it. He explains clearly in the letter which he wrote to some close

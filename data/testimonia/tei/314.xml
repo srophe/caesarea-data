@@ -271,7 +271,7 @@
             teacher and scholar at Caesarea in the early 3rd century. Here the author depends
             chiefly on the account of Eusebius written roughly 650 year earlier.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote314-1" source="#bib314-1">
-        <anchor xml:id="testimonia-314.grc.1" corresp="testimonia-314.en.1"/>καὶ ἁπλῶς πᾶσαν γραφὴν ὑποσημηνάμενος ἐκκλησιαστικὴν πλεῖστα καὶ
+        <anchor xml:id="testimonia-314.grc.1" corresp="#testimonia-314.en.1"/>καὶ ἁπλῶς πᾶσαν γραφὴν ὑποσημηνάμενος ἐκκλησιαστικὴν πλεῖστα καὶ
             ἀναρίθμητα καταλέλοιπεν, ὡς ἐξ ἐκείνου πάντας τοὺς μετέπειτα τῆς ἐκκλησίας διδασκάλους
             τὰς ἀφορμὰς εἰληφέναι, ὡς ὁ θεολόγος φάσκει Γρηγόριος: ̓Ωριγένης ἡ πάντων ἡμῶν ἀκόνη. οὐ
             μόνον δὲ τῇ καθ' ἡμᾶς ἐκκλησίᾳ, ἀλλὰ καὶ τοῖς τῶν ἔξωθεν πολλὴν παρείχετο τὴν ὠφέλειαν,
@@ -288,7 +288,7 @@
                ./Adler%20A.%2C%20Suidae%20Lexicon%203%20%28%CE%9A-%CE%9F.%20%CE%A9%29/page/n315/mode/2up</idno>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote314-2" source="#bib314-2">
-        <anchor xml:id="testimonia-314.en.1" corresp="testimonia-314.grc.1"/>Having examined canonical scripture as a whole, he left behind such
+        <anchor xml:id="testimonia-314.en.1" corresp="#testimonia-314.grc.1"/>Having examined canonical scripture as a whole, he left behind such
             vast and innumerable writings that all subsequent teachings of the Church would take
             them as a starting point. And so the theologian Gregory (of Nazianzus) claims, “Origen
             is the whetstone of us all.” He provided a great service not only to our Church but to

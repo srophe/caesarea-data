@@ -284,7 +284,7 @@
             departure of Andrew II from Tripoli back to Hungary in January of 1218 and the
             subsequent capture of Caesarea and refortification of Athlit.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote341-1" source="#bib341-1">
-        <anchor xml:id="testimonia-341.la.1" corresp="testimonia-341.en.1"/>Post haec exercitus Domini quadrifariam dividitur. Reges enim Ungariae
+        <anchor xml:id="testimonia-341.la.1" corresp="#testimonia-341.en.1"/>Post haec exercitus Domini quadrifariam dividitur. Reges enim Ungariae
             et Cypri Tripolim profecti sunt. Ibique rex Ungariae tempore immoratus cum magno damno
             Terrae Promissionis abscessi, peregrinos, dextarios, iumenta, et arma cum galeis secum
             trahens, licet a patriarcha prius monitus et tandem cum sua sequela excommunicationis
@@ -297,7 +297,7 @@
         <idno type="CTS-URN"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote341-2" source="#bib341-2">
-        <anchor xml:id="testimonia-341.en.1" corresp="testimonia-341.la.1"/>After this the army of the Lord was split into four parts. The Kings
+        <anchor xml:id="testimonia-341.en.1" corresp="#testimonia-341.la.1"/>After this the army of the Lord was split into four parts. The Kings
             of Hungary and Cyprus (sc. Andrew II and Hugh I) proceeded to Tripoli. There the King of
             Hungary after a short delay departed with great damage to the Promised Land, taking in
             the galleys with him pilgrims, war horses, draft animals, and weapons, even though he

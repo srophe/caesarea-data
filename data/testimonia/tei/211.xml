@@ -280,7 +280,7 @@
             with the stories in Hebrew and Christian scripture and recounts local tradition. This
             passage covers the trip south from Tyre to the area of Caesarea Maritima.</desc>
          <ab type="edition" xml:lang="la" xml:id="quote211-1" source="#bib211-1">
-        <anchor xml:id="testimonia-211.la.1" corresp="testimonia-211.en.1"/>Civitas Tyro mil. XII fit ab Antiochia Tyro usque milia CLXXIIII,
+        <anchor xml:id="testimonia-211.la.1" corresp="#testimonia-211.en.1"/>Civitas Tyro mil. XII fit ab Antiochia Tyro usque milia CLXXIIII,
             mutationes XX, mansiones XI. mutatio Alexandroschene mil. XII mutatio Ecdeppa mil. XII
             civitas Ptolomaida mil. VIII mutatio Calamon mil. XII mansio Sicaminos ibi est mons
             Carmelus, ibi Helias sacrificium faciebat. Civitas <placeName>Caesareae
@@ -293,7 +293,7 @@
         <ref/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote211-2" source="#bib211-2">
-        <anchor xml:id="testimonia-211.en.1" corresp="testimonia-211.la.1"/>City: Tyre 12 miles Tyre is 174 miles from Antioch, 20 exchanges, 11
+        <anchor xml:id="testimonia-211.en.1" corresp="#testimonia-211.la.1"/>City: Tyre 12 miles Tyre is 174 miles from Antioch, 20 exchanges, 11
             overnights. Exchange: Alexandroschene 12 miles Exchange: Ecdeppa 12 miles City:
             Ptolemaida 8 miles Exchange: Calamon 12 miles Overnight: Sicaminos 3 miles Located there
             is Mount Carmel, where Elias made his sacrifice. Exchange: Certha 8 miles Border between

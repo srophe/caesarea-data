@@ -291,7 +291,7 @@
             the identifications of the site of Paul’s prison and of a rocky suburban locale, then in
             the countryside, as Peter’s first church.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote232-1" source="#bib232-1">
-        <anchor xml:id="testimonia-232.la.1" corresp="testimonia-232.en.1"/>(65) XXIIII miliario a Ioppe est Cesarea civitas, metropolis Palestine,
+        <anchor xml:id="testimonia-232.la.1" corresp="#testimonia-232.en.1"/>(65) XXIIII miliario a Ioppe est Cesarea civitas, metropolis Palestine,
             sita super litus maris. Que qιιondam vocabatur Dor, sed nunc est destructa. Hanc
             civitatem Herodes, rex Iudee, ampliavit et ad honorum Augusti Cesaris <placeName>Cesaream</placeName> vocavit. Et regio Palestina incipit. In hac civitate
             est ecclesia Sancti Petri, edificata de domo Cornelii, quem beatus Petrus convertit et
@@ -310,7 +310,7 @@
         <ref target=""/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote232-2" source="#bib232-2">
-        <anchor xml:id="testimonia-232.en.1" corresp="testimonia-232.la.1"/>(12) At the 24th mile from Joppa is the city <placeName>Caesarea</placeName>, capital of Palestine, located on the seashore. It
+        <anchor xml:id="testimonia-232.en.1" corresp="#testimonia-232.la.1"/>(12) At the 24th mile from Joppa is the city <placeName>Caesarea</placeName>, capital of Palestine, located on the seashore. It
             was once called Dor but now is in ruin. Herodes, king of Judaea, expanded this city and
             named it <placeName>Caesarea</placeName> in honor of Augustus Caesar. And the region
             Palestine begins (here). In it is the Church of St. Peter, built from the house of

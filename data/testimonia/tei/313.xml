@@ -271,7 +271,7 @@
             3rd century. Here the author depends on the account of Eusebius written roughly 650 year
             earlier.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote313-1" source="#bib313-1">
-        <anchor xml:id="testimonia-313.grc.1" corresp="testimonia-313.en.1"/>τοσαύτην δὲ ἔσχε σπουδὴν περὶ τὰς θείας γραφάς, ὥστε καὶ τὴν ῾Εβραϊκὴν
+        <anchor xml:id="testimonia-313.grc.1" corresp="#testimonia-313.en.1"/>τοσαύτην δὲ ἔσχε σπουδὴν περὶ τὰς θείας γραφάς, ὥστε καὶ τὴν ῾Εβραϊκὴν
             διάλεκτον, ἐναντιουμένην τῇ τε ἡλικίᾳ καὶ τῇ οἰκείᾳ φύσει, ἐκμαθει̂ν, καὶ δίχα τῶν οʹ
             ἑρμηνευτῶν ἄλλας ἐκδόσεις εἰς ἓν συναγαγεῖν, ᾽Ακύλα λέγω τοῦ Ποντικοῦ καὶ Θεοδοτίωνος
             καὶ Συμμάχου τω̂ν ᾽Εβιωναίων (αἵρεσις δέ ἐστιν αὐτω̂ν ψιλὸν τὸν Χριστὸν ἄνθρωπον
@@ -293,7 +293,7 @@
         <ref target="https://archive.org/details/adler-a.-suidae-lexicon-3 ./Adler%20A.%2C%20Suidae%20Lexicon%203%20%28%CE%9A-%CE%9F.%20%CE%A9%29/page/n315/mode/2up"/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote313-2" source="#bib313-2">
-        <anchor xml:id="testimonia-313.en.1" corresp="testimonia-313.grc.1"/>Moreover, Origen possessed such diligence for the Divine Scriptures
+        <anchor xml:id="testimonia-313.en.1" corresp="#testimonia-313.grc.1"/>Moreover, Origen possessed such diligence for the Divine Scriptures
             that he made a thorough study of Hebrew, contrary to his age and natural inclination.
             Alongside the translation by the Seventy he compiled other editions (of the Bible) into
             a single work. I am referring to those by Aquila of Pontus, Theodotion, and Symmachus, a

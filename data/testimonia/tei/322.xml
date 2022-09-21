@@ -271,7 +271,7 @@
             early 3rd century. Here the author depends largely on the account of Eusebius written
             roughly 650 year earlier.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote322-1" source="#bib322-1">
-        <anchor xml:id="testimonia-322.grc.1" corresp="testimonia-322.en.1"/>τῷ δὲ ᾽Ωριγένει ἐπὶ τῆς Καισαρείας τὰ συνήθη πράττοντι πολλοὶ προσῄεσαν
+        <anchor xml:id="testimonia-322.grc.1" corresp="#testimonia-322.en.1"/>τῷ δὲ ᾽Ωριγένει ἐπὶ τῆς Καισαρείας τὰ συνήθη πράττοντι πολλοὶ προσῄεσαν
             οὐ μόνον τῶν ἐπιχωρίων, ἀλλὰ καὶ τῆς ἀλλοδαπῆς μυρίοι φοιτηταὶ τὰς πατρίδας
             ἀπολείποντες: ὧν ἐπισήμους μάλιστα ἔγνωμεν Θεόδωρον, ὃς ἦν αὐτὸς οὗτος ὁ καθ’ ἡμᾶς
             ἐπισκόπων διαβόητος Γρηγόριος ὁ Θαυματουργός, ὅ τε τούτου ἀδελφὸς ᾽Αθηνόδωρος. οἷς ἀμφὶ
@@ -283,7 +283,7 @@
                ./Adler%20A.%2C%20Suidae%20Lexicon%203%20%28%CE%9A-%CE%9F.%20%CE%A9%29/page/n315/mode/2up</idno>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote322-2" source="#bib322-2">
-        <anchor xml:id="testimonia-322.en.1" corresp="testimonia-322.grc.1"/>While Origen was in the course of his usual tasks at Caesarea, not
+        <anchor xml:id="testimonia-322.en.1" corresp="#testimonia-322.grc.1"/>While Origen was in the course of his usual tasks at Caesarea, not
             only did many locals approach him (for instruction), but also thousands of foreign
             students, leaving their homelands; especially renown among them we note Theodorus, who
             was the very man famous in our day, the bishop Gregory the Miracle-Worker, and his

@@ -278,7 +278,7 @@
             covers events in the middle years of the reign of Augustus, including Herod’s program to
             found cities and to build across the region.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote271-1" source="#bib271-1">
-        <anchor xml:id="testimonia-271.la.1" corresp="testimonia-271.en.1"/>Romanorum Iudaeorum CXCII Olymp(ias) XXXII (167c) Augustus a senatu
+        <anchor xml:id="testimonia-271.la.1" corresp="#testimonia-271.en.1"/>Romanorum Iudaeorum CXCII Olymp(ias) XXXII (167c) Augustus a senatu
             pontifex maximus appellatur XXII (d) Herodes <placeName>Caesaream</placeName> in nomine
             Caesaris condidit, quae prius <placeName>Turris Stratonis</placeName> vocabatur XXXIII
             (e) Herodes Anthidonam condidit et Antipatridam atque XXIII Herodionem in honorem patris
@@ -290,7 +290,7 @@
         <ref/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote271-2" source="#bib271-2">
-        <anchor xml:id="testimonia-271.en.1" corresp="testimonia-271.la.1"/>Year of the Romans Year of the Jews 192nd Olympiad [12 B.C.E.] 32
+        <anchor xml:id="testimonia-271.en.1" corresp="#testimonia-271.la.1"/>Year of the Romans Year of the Jews 192nd Olympiad [12 B.C.E.] 32
             (167c) Augustus is granted the title pontifex maximus 22 by the Senate. (d) Herod
             founded <placeName>Caesarea</placeName> in the name of Caesar, (the city) which was
             formerly called <placeName>Strato’s Tower</placeName>. [11 B.C.E.] 33 (e) Herod founded

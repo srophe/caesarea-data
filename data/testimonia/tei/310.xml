@@ -287,7 +287,7 @@
             Islamic city, redolent with spices, and his digression on the ecology of crocodiles,
             insects, and snakes in the hinterland.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote310-1" source="#bib310-1">
-        <anchor xml:id="testimonia-310.la.1" corresp="testimonia-310.en.1"/>Vigesimo miliario ab Assur cοntra orientem Dor: ipsa est quam in honore
+        <anchor xml:id="testimonia-310.la.1" corresp="#testimonia-310.en.1"/>Vigesimo miliario ab Assur cοntra orientem Dor: ipsa est quam in honore
             Augusti Caesaris <placeName>Caesaream</placeName> nominavit Herodes, ubi et construxit
             albo de marmore portum, in qua Petrus baptizavit Cornelium, dοmο eius mutata in
             ecclesiam, et ipsum ordinavit episcopum; ubi quiescunt quatuor prophetissae virgines.
@@ -328,7 +328,7 @@
         <ref/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote310-2" source="#bib310-2">
-        <anchor xml:id="testimonia-310.en.1" corresp="testimonia-310.la.1"/>Twenty miles from Assur toward the east is Dor, which Herod called <placeName>Caesarea</placeName> in honor Augustus Caesar. Here he also built a harbor
+        <anchor xml:id="testimonia-310.en.1" corresp="#testimonia-310.la.1"/>Twenty miles from Assur toward the east is Dor, which Herod called <placeName>Caesarea</placeName> in honor Augustus Caesar. Here he also built a harbor
             out of white marble in which Peter baptized Cornelius and, when his house was changed
             into a church, ordained him bishop. Here rest four virgins prophetesses. They say that
             in this <placeName>Caesarea</placeName> the learned Eusebius was bishop. <placeName>Caesarea</placeName> was <placeName>Strato’s Tower</placeName>, where

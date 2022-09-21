@@ -282,7 +282,7 @@
             John XXII (in 1321). This passage records the landmarks and distances along the coast
             Levantine, in case such data may be useful to new crusaders.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote234-1" source="#bib234-1">
-        <anchor xml:id="testimonia-234.la.1" corresp="testimonia-234.en.1"/>Carmelum vero mons est altus et planus, supra mare et in mari tanquam
+        <anchor xml:id="testimonia-234.la.1" corresp="#testimonia-234.en.1"/>Carmelum vero mons est altus et planus, supra mare et in mari tanquam
             longam insulam se ostendens. Cuius montis caput quod est supra mare versus magistrum
             respicit, in cuius summitate una est ecclesia quae Sancta Margarita vocitatur. A parte
             autem septentrioni quaedam sicca est, que per unum milliare elongatur. A monte autem
@@ -300,7 +300,7 @@
         <ref target=""/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote234-2" source="#bib234-2">
-        <anchor xml:id="testimonia-234.en.1" corresp="testimonia-234.la.1"/>Carmel is a high, flat mountain extending as long as an island both
+        <anchor xml:id="testimonia-234.en.1" corresp="#testimonia-234.la.1"/>Carmel is a high, flat mountain extending as long as an island both
             over and into the sea. The peak of this mountain above the sea looks back toward the
             northwest, and on its summit is a church called Saint Margaret. On its north side is a
             certain reef that extends for a mile. From Mount Carmel to Pilgrims' Castle is five

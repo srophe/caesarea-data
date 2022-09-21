@@ -284,7 +284,7 @@
             likely patron. In this passage, which adopts the form of a parable or folktale, retells
             Zosimas’ journey to Caesarea on a donkey and his supernatural exchange with a lion.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote231-1" source="#bib231-1">
-        <anchor xml:id="testimonia-231.grc.1" corresp="testimonia-231.en.1"/>Τούτῳ τῷ Ζωσιμᾷ καί ποτε ἐπὶ <placeName>τὴν Καίσαρος</placeName> ἰόντι
+        <anchor xml:id="testimonia-231.grc.1" corresp="#testimonia-231.en.1"/>Τούτῳ τῷ Ζωσιμᾷ καί ποτε ἐπὶ <placeName>τὴν Καίσαρος</placeName> ἰόντι
             ὀνάριόν τε παρασυρομένῳ ἐν ᾧ τῶν τινά οἱ ἐπιτηδείων ἐπεβέβλητο, λέων ἔπεισι καὶ τὸν ὄνον
             ἁρπάσας ἀπῄει. Ὁ δὲ Ζωσιμᾶς ἀνὰ τὴν ὕλην εἵπετο μέχρις ὅτου διακορὴσὁ λέων ἐκ τῆς θοίνης
             τοῦ ζῴου γέγονε· πρὸς ὃν ἐπιγελάσας ὁ Ζωσιμᾶς φησιν· Ἀλλὰ γάρ, ὦ ἑταῖρε, τὰ τῆς πορείας
@@ -300,7 +300,7 @@
         <ref target="https://babel.hathitrust.org/cgi/pt?id=hvd.ah3vvp&amp;view=1up&amp;seq=182"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote231-2" source="#bib231-2">
-        <anchor xml:id="testimonia-231.en.1" corresp="testimonia-231.grc.1"/>Once when this Zosimas was going to the <placeName>city of
+        <anchor xml:id="testimonia-231.en.1" corresp="#testimonia-231.grc.1"/>Once when this Zosimas was going to the <placeName>city of
                Caesar</placeName> and was leading along an ass on which he had loaded some of his
             necessities, a lion came up, seized the ass, and departed. Zosimas followed him into the
             wood until the lion became satiated from his feast on the animal. Zosimas smiled at it

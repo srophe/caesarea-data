@@ -281,13 +281,13 @@
       </ab>
       <desc type="abstract" xml:id="abstract31-1"> are place names attested in <persName ref="http://viaf.org/viaf/22143666" role="author">Josephus</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg004" type="uniform" level="m">The Jewish War</title> 3.410. This testimonium was written circa <origDate period="#nabateanKingdom #earlyRoman #herodian" notBefore="0070" notAfter="0090">70 - 90 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote31-1" source="#bib31-1">
-        <anchor xml:id="testimonia-31.grc.1" corresp="testimonia-31.en.1"/>
+        <anchor xml:id="testimonia-31.grc.1" corresp="#testimonia-31.en.1"/>
         ἐδέχοντο δὲ καὶ τὴν στρατιὰν καὶ τὸνστρατηγὸν μετὰ πάσης εὐφημίας καὶφιλοφροσύνης οἱ ἐπιχώριοι, καὶ κατ᾽εὔνοιαν μὲν τὴν πρὸς Ῥωμαίους, τὸ δὲ πλέονἔχθει τῶν κατεστραμμένων: διὸ καὶ τὸνἸώσηπον ἀθρόοι καταβοῶντες ἠξίουνκολάζειν.
       <idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg0526.tlg004.perseus-grc1:3.410</idno>
         <ref target="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-grc1:3.410"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote31-2" source="#bib31-2">
-        <anchor xml:id="testimonia-31.en.1" corresp="testimonia-31.grc.1"/>
+        <anchor xml:id="testimonia-31.en.1" corresp="#testimonia-31.grc.1"/>
         The citizens here received both the Roman army and its general, with all sorts of acclamations and rejoicings, and this partly out of the good-will they bore to the Romans, but principally out of the hatred they bore to those that were conquered by them; on which account they came clamoring against Josephus in crowds, and desired he might be put to death.
       <idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:3.409</idno>
         <ref target="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:3.409"/>

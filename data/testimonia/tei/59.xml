@@ -281,7 +281,7 @@
             depends closely on the account of John Malalas (mid-6th century) concerning the
             Samaritan revolt at Caesarea.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote59-1" source="#bib59-1">
-        <anchor xml:id="testimonia-59.grc.1" corresp="testimonia-59.en.1"/>κθʹ. λαʹ. ιηʹ. δʹ. ιαʹ. ζʹ. ιαʹ. Τούτῳ τῷ ἔτει μηνὶ Ἰουλίῳ, ἰνδικτιῶνος
+        <anchor xml:id="testimonia-59.grc.1" corresp="#testimonia-59.en.1"/>κθʹ. λαʹ. ιηʹ. δʹ. ιαʹ. ζʹ. ιαʹ. Τούτῳ τῷ ἔτει μηνὶ Ἰουλίῳ, ἰνδικτιῶνος
             δʹ, ἐστασίασαν Ἰουδαῖοι καὶ Σαμαρεῖται ἐν <placeName>Καισαρείᾳ τῆς
                Παλαιστίνης</placeName> καὶ ποιήσαντες πρὸς ἀλλήλους ἐν τάξει πρασινοβενέτων ἐπῆλθον
             τοῖς Χριστιανοῖς τῆς αὐτῆς πόλεως καὶ πολλοὺς ἀνεῖλον καὶ ἐκκλησίας κατέκαυσαν, Στέφανον
@@ -294,7 +294,7 @@
         <ref target=""/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote59-2" source="#bib59-2">
-        <anchor xml:id="testimonia-59.en.1" corresp="testimonia-59.grc.1"/>[A.M. 6048=555/6 C.E.] Justinian, 19th year Chosroes, 31st year
+        <anchor xml:id="testimonia-59.en.1" corresp="#testimonia-59.grc.1"/>[A.M. 6048=555/6 C.E.] Justinian, 19th year Chosroes, 31st year
             Vigilius, 18th year Eutychios, 4th year Peter, 11th year Apolinarios, 7th year Domnus,
             11th year In July of this year, the 4th indiction, the Jews and Samaritans staged a
             revolt at <placeName>Caesarea in Palestine</placeName>. Combining into a Green-Blue

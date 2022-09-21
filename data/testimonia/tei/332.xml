@@ -274,7 +274,7 @@
             in Caesarea but possibly Alexander in Jerusalem—choses one for the scholar’s
             elaboration.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote332-1" source="#bib332-1">
-        <anchor xml:id="testimonia-332.grc.1" corresp="testimonia-332.en.1"/>Τὰ ἀναγνωσθέντα πλείονά ἐστιν, καὶ ἐπεὶ χρὴ ἐπιτεμνόμενον εἰπεῖν, δ’
+        <anchor xml:id="testimonia-332.grc.1" corresp="#testimonia-332.en.1"/>Τὰ ἀναγνωσθέντα πλείονά ἐστιν, καὶ ἐπεὶ χρὴ ἐπιτεμνόμενον εἰπεῖν, δ’
             εἰσὶν περικοπαί. ἀνεγνώσθη τὰ ἑξῆς τῶν περὶ Νάβαλ τὸν Καρμήλιον. εἶτα μετὰ τοῦτο ἡ
             ἱστορία ἡ περὶ τοῦ κεκρύφθαι τὸν Δαβὶδ παρὰ τοῖς Ζιφαίοις καὶ διαβεβλῆσθαι αὐτὸν ὑπ’
             αὐτῶν, ἐληλυθέναι δὲ τὸν Σαοὺλ βουλόμενον λαβεῖν τὸν Δαβὶδ καὶ ἐληλυθότα ἐπιτηρῆσαι
@@ -294,7 +294,7 @@
         <ref target="https://archive.org/details/origeneswerke03orig_0/page/282/mode/2up"/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote332-2" source="#bib332-2">
-        <anchor xml:id="testimonia-332.en.1" corresp="testimonia-332.grc.1"/> What was read is lengthy, and, since it is necessary to give an
+        <anchor xml:id="testimonia-332.en.1" corresp="#testimonia-332.grc.1"/> What was read is lengthy, and, since it is necessary to give an
             abbreviated version, here are the sections. The order of events concerning Nabal of
             Carmel was read first; then the story of David hiding with the Ziphites and being
             maligned by them; and then (the story) that Saul came with the desire to seize David

@@ -278,7 +278,7 @@
             agitating outside the city; thereafter they ensured the election of Theodosius to occupy
             the vacated throne at Jerusalem.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote229-1" source="#bib229-1">
-        <anchor xml:id="testimonia-229.grc.1" corresp="testimonia-229.en.1"/>Ἀλλ’ οὐδὲ τὰ κατὰ τὴν ἔρημον τὴν πρὸς τὰ Ἱεροσόλυμα τὴν ἠρεμίαν εἶχεν.
+        <anchor xml:id="testimonia-229.grc.1" corresp="#testimonia-229.en.1"/>Ἀλλ’ οὐδὲ τὰ κατὰ τὴν ἔρημον τὴν πρὸς τὰ Ἱεροσόλυμα τὴν ἠρεμίαν εἶχεν.
             Ἔνιοι γὰρ τῶν μοναχῶν τῶν ἀνὰ τὴν σύνοδον εὑρεθέντων καὶ τἀναντία ταύτης βουληθέντων
             φρονεῖν πρὸς τὴν Παλαιστίνην ἀφικνοῦνται· καὶ προδοσίαν τῆς πίστεως ὀδυρόμενοι τὸ
             μοναδικὸν ἔσπευδον ἀναρριπίσαι καὶ ἀνασοβῆσαι. Καὶ ἐπειδή περ Ἰουβενάλιος τὸν οἰκεῖον
@@ -291,7 +291,7 @@
         <ref target="https://babel.hathitrust.org/cgi/pt?id=hvd.ah3vvp&amp;view=1up&amp;seq=78"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote229-2" source="#bib229-2">
-        <anchor xml:id="testimonia-229.en.1" corresp="testimonia-229.grc.1"/>But the desert areas near Jerusalem did not even maintain
+        <anchor xml:id="testimonia-229.en.1" corresp="#testimonia-229.grc.1"/>But the desert areas near Jerusalem did not even maintain
             tranquility. For some of the monks who had been present at the Synod but wished to hold
             different opinions from it came to Palestine; and lamenting the betrayal of the faith,
             they were eager to reignite and reawaken the monastic community. After Juvenal had

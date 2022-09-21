@@ -273,7 +273,7 @@
             excerpts on political plots by Constantine VII Porphyrogenitus (ca. 930-955
             C.E.).</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote243-1" source="#bib243-1">
-        <anchor xml:id="testimonia-243.grc.1" corresp="testimonia-243.en.1"/>Ἐπὶ δὲ τῆς Ζήνωνος βασιλείας πρόφασιν λαβόντες οἱ ἐκ τοῦ ἔθνους τῶν
+        <anchor xml:id="testimonia-243.grc.1" corresp="#testimonia-243.en.1"/>Ἐπὶ δὲ τῆς Ζήνωνος βασιλείας πρόφασιν λαβόντες οἱ ἐκ τοῦ ἔθνους τῶν
             Σαμαρειτῶν ἐτυράννήσαν καὶ ἔστεψαν λῄσταρχον ὀνόματι Ἰουστασὰν Σαμαρείτην· καὶ εἰσῆλθεν
             ἐν <placeName>Καισαρείᾳ</placeName> καὶ ἐθεώρησεν ἱππικὸν καὶ ἐφόνευσε πολλοὺς
             {χριστιανοὺς} ἡγεμονεύοντος τῆς πρώτης Παλαιστίνης Πορφυρίου. ὁ δὲ αὐτὸς Ἰουστασὰς
@@ -297,7 +297,7 @@
         <ref target=""/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote243-2" source="#bib243-2">
-        <anchor xml:id="testimonia-243.en.1" corresp="testimonia-243.grc.1"/>During his reign (sc. Zeno), the Samaritans rebelled in Palestine
+        <anchor xml:id="testimonia-243.en.1" corresp="#testimonia-243.grc.1"/>During his reign (sc. Zeno), the Samaritans rebelled in Palestine
             and crowned a bandit chief, the Samaritan named Justasas. He entered <placeName>Caesarea</placeName>, watched a chariot race, and killed many Christians.
             Porphyrios was then governor of Palestine. Justasas burned (the Church of) St. Procopius
             when Timothy was bishop of <placeName>Caesarea</placeName>. Asklepiades, dux of

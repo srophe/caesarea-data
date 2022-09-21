@@ -274,7 +274,7 @@
             century. The author depends perhaps on the original writings of Gregory but largely on
             the lexicon by Hesychius of Alexandria written some 350-450 years earlier. </desc>
          <ab type="edition" xml:lang="grc" xml:id="quote317-1" source="#bib317-1">
-        <anchor xml:id="testimonia-317.grc.1" corresp="testimonia-317.en.1"/>Γρηγόριος, ὁ καὶ Θεόδωρος, ὁ Θαυματουργὸς, Νεοκαισαρείας τῆς ἐν τῷ Πόντῳ
+        <anchor xml:id="testimonia-317.grc.1" corresp="#testimonia-317.en.1"/>Γρηγόριος, ὁ καὶ Θεόδωρος, ὁ Θαυματουργὸς, Νεοκαισαρείας τῆς ἐν τῷ Πόντῳ
             ἐπίσκοπος, νέος κομιδῇ διὰ τὴν παίδευσιν Ἑλληνικῶν τε καὶ Ῥωμαϊκῶν γραμμάτων ἀπὸ τῆς
             Καππαδοκίας εἰς Βηρυτὸν κἀκεῖθεν εἰς <placeName>Καισάρειαν τὴν τῆς
                Παλαιστίνης</placeName> διέβη ἅμα Ἀθηνοδώρῳ ἀδελφῷ: οὓς καὶ κατὰ μέρος εἰς τὴν τοῦ
@@ -292,7 +292,7 @@
             </idno>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote317-2" source="#bib317-2">
-        <anchor xml:id="testimonia-317.en.1" corresp="testimonia-317.grc.1"/>Gregory, also called Theodore, the Miracle-Worker, bishop of
+        <anchor xml:id="testimonia-317.en.1" corresp="#testimonia-317.grc.1"/>Gregory, also called Theodore, the Miracle-Worker, bishop of
             Neocaesarea in Pontus. As a young man he went from Cappadocia to Beirut for education in
             Greek and Roman literature, and from there to Caesarea Palestinae, with his brother
             Athenodorus. They became personal devotees of Origen, who was partly responsible for

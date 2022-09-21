@@ -278,7 +278,7 @@
             his worldly foes from a position of moral superiority, or he aimed to soften his
             detractor in hopes of mitigating the pain of his brethren.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote344-1" source="#bib344-1">
-        <anchor xml:id="testimonia-344.grc.1" corresp="testimonia-344.en.1"/>Ἡμεῖς κἂν πρὸς αὐτὰς ἀφικώμεθα τῆς οἰκουμένης τὰς ἐσχατιὰς, ἐπιλαθέσθαι
+        <anchor xml:id="testimonia-344.grc.1" corresp="#testimonia-344.en.1"/>Ἡμεῖς κἂν πρὸς αὐτὰς ἀφικώμεθα τῆς οἰκουμένης τὰς ἐσχατιὰς, ἐπιλαθέσθαι
             σου τῆς ἀγάπης οὐ δυνάμεθα, ἀλλὰ πανταχοῦ περιφέροντες ἄπιμεν· οὕτως ἡμᾶς εἷλες καὶ
             ἐχειρώσω, δέσποτά μου τιμιώτατε καὶ εὐλαβέστατε, ἐπεὶ καὶ νῦν ἐν Κουκουσῷ καθήμενοι, τῷ
             πάσης τῆς καθ’ ἡμᾶς οἰκουμένης ἐρημοτάτῳ χωρίῳ, οὐ παυόμεθα διηνεκῶς τὴν χρηστότητα, τὴν
@@ -304,7 +304,7 @@
         <ref target=""/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote344-2" source="#bib344-2">
-        <anchor xml:id="testimonia-344.en.1" corresp="testimonia-344.grc.1"/>Even if we have arrived at the outer reaches of the inhabited world,
+        <anchor xml:id="testimonia-344.en.1" corresp="#testimonia-344.grc.1"/>Even if we have arrived at the outer reaches of the inhabited world,
             we are unable to forget your love, carrying it around with us everywhere we go. You have
             so captivated and conquered us, my most honored and most devout master, that even now,
             settled in at Koukousos, the most desolate place in our whole world, I do not cease from

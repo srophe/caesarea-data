@@ -284,7 +284,7 @@
             influential party, who would not join the majority in compromise, were summarily
             deposed, and he swiftly departed for Constantinople to plead before the emperor.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote254-1" source="#bib254-1">
-        <anchor xml:id="testimonia-254.grc.1" corresp="testimonia-254.en.1"/>Τῇ πίστει ὑπέγραψαν οἱ παρόντες· Βασίλειος, Μάρκος καὶ Γεώργιος ὁ τῆς
+        <anchor xml:id="testimonia-254.grc.1" corresp="#testimonia-254.en.1"/>Τῇ πίστει ὑπέγραψαν οἱ παρόντες· Βασίλειος, Μάρκος καὶ Γεώργιος ὁ τῆς
             Ἀλεξανδρείας ἐπίσκοπος, Παγκράτιος καὶ Ὑπατιανὸς καὶ οἱ πλεῖστοι ἐπίσκοποι τῆς δύσεως.
             Γεώργιος ἐπίσκοπος Ἀλεξανδρείας ἐξεθέμην τὴν πίστιν· οὕτως ὁμολογῶ φρονεῖν ὡς πρόκειται.
             Ἀκάκιος ἐπίσκοπος <placeName>Καισαρείας</placeName> ἐξεθέμην τὴν πίστιν· οὕτως ὁμολογῶ
@@ -296,7 +296,7 @@
         <ref target=""/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote254-2" source="#bib254-2">
-        <anchor xml:id="testimonia-254.en.1" corresp="testimonia-254.grc.1"/>Those present have signed this creed: Basil, Mark, George the bishop
+        <anchor xml:id="testimonia-254.en.1" corresp="#testimonia-254.grc.1"/>Those present have signed this creed: Basil, Mark, George the bishop
             of Alexandria, Pancratius, Hypatian, and most of the bishops of the West. I, George,
             bishop of Alexandria, have issued this creed. I agree to profess as it is set forth
             here. I, Acacius, bishop of <placeName>Caesarea</placeName>, have issued this creed. I

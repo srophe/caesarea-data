@@ -282,7 +282,7 @@
             to seven centuries after Artemidorus’ work and two to three centuries after Marcianus’s
             work.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote207-1" source="#bib207-1">
-        <anchor xml:id="testimonia-207.grc.1" corresp="testimonia-207.en.1"/>ΑΣΙΑ. Βιβλ. θʹ. Δῶρος, πόλις Φοινίκης. Ἑκαταῖος Ἀσίᾳ· “Μετὰ δὲ ἡ πάλαι
+        <anchor xml:id="testimonia-207.grc.1" corresp="#testimonia-207.en.1"/>ΑΣΙΑ. Βιβλ. θʹ. Δῶρος, πόλις Φοινίκης. Ἑκαταῖος Ἀσίᾳ· “Μετὰ δὲ ἡ πάλαι
             Δῶρος, νῦν δὲ Δῶρα καλεῖται.” Καὶ Ἀρτεμίδωρος Δῶρα τὴν πόλιν οἶδεν ἐν Ἐπιτομῇ τῶν ιαʹ·
             “Συνεχῶς δʼ ἐστὶ <placeName>Στράτωνος πύργος</placeName>, εἶτα ἔνι Δῶρα, ἐπὶ
             χερσονησοειδοῦς τόπου κείμενον πολισμάτιον, ἀρχομένου τοῦ ὄρους τοῦ Καρμήλου.” Καὶ ἐν θʹ
@@ -291,7 +291,7 @@
         <ref/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote207-2" source="#bib207-2">
-        <anchor xml:id="testimonia-207.en.1" corresp="testimonia-207.grc.1"/>ASIA. Book 9. Doros, a city in Phoenicia. Hecataeus in [his book on]
+        <anchor xml:id="testimonia-207.en.1" corresp="#testimonia-207.grc.1"/>ASIA. Book 9. Doros, a city in Phoenicia. Hecataeus in [his book on]
             Asia: “After that is the city called Doros in the old times but today Dora.” And
             Artemidorus mentions the city Dora in Epitome of 11 books: “Continuing on is
                <placeName>Straton’s Tower</placeName>, and then Dora, a town situated on the

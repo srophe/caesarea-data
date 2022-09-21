@@ -275,7 +275,7 @@
             Lord’s prayer, he cites Peter’s vision of animals to eat in Joppa, before his sojourn in
             Caesarea.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote88-1" source="#bib88-1">
-        <anchor xml:id="testimonia-88.grc.1" corresp="testimonia-88.en.1"/>κοινωνεῖν γοῦν τῷ ἑκατοντάρχῳ Κορνηλίῳ καὶ τοῖς ἅμα συναχθεῖσιν ἐν τῇ
+        <anchor xml:id="testimonia-88.grc.1" corresp="#testimonia-88.en.1"/>κοινωνεῖν γοῦν τῷ ἑκατοντάρχῳ Κορνηλίῳ καὶ τοῖς ἅμα συναχθεῖσιν ἐν τῇ
                <placeName>Καισαρείᾳ</placeName> ὁ Πέτρος μέλλων μετὰ δὲ ταῦτα καὶ τοῖς ἔθνεσι
             μεταδώσειν τῶν λόγων τοῦ θεοῦ, ὁρᾷ τὸ “τέτταρσιν ἀρχαῖς καθιέμενον” οὐρανόθεν “σκεῦος,”
             ἐν ᾧ “πάντα τὰ τετράποδα καὶ ἑρπετὰ καὶ θηρία τῆς γῆς”· ὅτε καὶ κελεύεται “ἀναστὰς”
@@ -290,7 +290,7 @@
         <ref target="https://scaife.perseus.org/library/urn:cts:greekLit:tlg2042.tlg008.perseus-grc1/"/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote88-2" source="#bib88-2">
-        <anchor xml:id="testimonia-88.en.1" corresp="testimonia-88.grc.1"/>So when Peter is about to commune with the centurion Cornelius and
+        <anchor xml:id="testimonia-88.en.1" corresp="#testimonia-88.grc.1"/>So when Peter is about to commune with the centurion Cornelius and
             those who met together with him in <placeName>Caesarea</placeName>, and after that also
             to share the Words of God with the Gentiles, he sees “the container sent down by four
             corners” from heaven, in which (are) “all quadrupeds and reptiles and beasts of the

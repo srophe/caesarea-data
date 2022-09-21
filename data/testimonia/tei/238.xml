@@ -291,7 +291,7 @@
             years of the Kingdom of Jerusalem, including the infamous siege of Caesarea Maritima in
             May of 1101.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote238-1" source="#bib238-1">
-        <anchor xml:id="testimonia-238.la.1" corresp="testimonia-238.en.1"/>Rex igitur ad inchoatam regni dilatationem sollicitus, et providus in
+        <anchor xml:id="testimonia-238.la.1" corresp="#testimonia-238.en.1"/>Rex igitur ad inchoatam regni dilatationem sollicitus, et providus in
             agendis, audiens ad portum Iopen Ianuensium adventasse LXX galeas, quasi in veris
             principio, cum solent reges ad bella procedere, tam navium ipsorum quam etiam personarum
             fretus auxilio, Assur expugnavit, quae alio nomine Antipatrida nominatur, ab Antipatro,
@@ -315,7 +315,7 @@
         <ref target=""/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote238-2" source="#bib238-2">
-        <anchor xml:id="testimonia-238.en.1" corresp="testimonia-238.la.1"/>Therefore the King (Baldwin I) was concerned over the delayed start
+        <anchor xml:id="testimonia-238.en.1" corresp="#testimonia-238.la.1"/>Therefore the King (Baldwin I) was concerned over the delayed start
             of his reign, and, looking ahead to what had to be done, heard that 70 Genoese galleys
             had arrived at the port of Iope, bringing assistance in the very ships and the men,
             right at the beginning of spring when kings are accustomed to go to war. He defeated

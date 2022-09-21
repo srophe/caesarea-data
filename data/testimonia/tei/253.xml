@@ -282,7 +282,7 @@
             mid-4th century among Arius’ successors, the Homoiousians, which involved a powerful
             party lead by Acacius, the formidable bishop of Caesarea.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote253-1" source="#bib253-1">
-        <anchor xml:id="testimonia-253.grc.1" corresp="testimonia-253.en.1"/>(2) διηνέχθησαν οὖν οἱ αὐτοὶ πάλιν πρὸς τοὺς σὺν αὐτοῖς διὰ μίση τινῶν
+        <anchor xml:id="testimonia-253.grc.1" corresp="#testimonia-253.en.1"/>(2) διηνέχθησαν οὖν οἱ αὐτοὶ πάλιν πρὸς τοὺς σὺν αὐτοῖς διὰ μίση τινῶν
             καὶ ζῆλον ἀνθρώπινον ἐρεσχελοῦντες ἑκάτερος πρὸς ἑκάτερον καὶ φιλαρχοῦντες, καὶ
             ἐκρατύνθη τότε τὸ μέρος τούτων τῶν Ἡμιαρείων, τῶν περὶ Βασίλειον φημὶ καὶ Γεώργιον καὶ
             Σιλουανὸν καὶ λοιπούς· &lt;…&gt; ἔχοντες μεθ’ ἑαυτῶν σαρκὸς δεξιάν, Κωνστάντιον τὸν
@@ -299,7 +299,7 @@
         <ref target=""/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote253-2" source="#bib253-2">
-        <anchor xml:id="testimonia-253.en.1" corresp="testimonia-253.grc.1"/>(2) And so the (Semi-Arians) fell out with their allies, and they
+        <anchor xml:id="testimonia-253.en.1" corresp="#testimonia-253.grc.1"/>(2) And so the (Semi-Arians) fell out with their allies, and they
             quarreled with each other and competed for leadership because of the hatred of some of
             them and from jealousy, that human emotion. And at that time the party of these
             Semi-Arians—I mean Basil, George, Silvanus, and the rest of them—were in control. But

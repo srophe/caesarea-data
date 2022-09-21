@@ -268,7 +268,7 @@
             covers the end of Claudius’ reign, including events in the governorship of Judaea, which
             was headquartered in Caesarea, and in the life of St. Paul.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote273-1" source="#bib273-1">
-        <anchor xml:id="testimonia-273.la.1" corresp="testimonia-273.en.1"/>Romanorum Judaeorum CCVII Olymp(ias) VIIII (181a) Fame facta in Graecia
+        <anchor xml:id="testimonia-273.la.1" corresp="#testimonia-273.en.1"/>Romanorum Judaeorum CCVII Olymp(ias) VIIII (181a) Fame facta in Graecia
             modius sex drachmis V venundatus est X (b) magna fames Romae VI XI (c) Claudius Felicem
             procuratorem Iudaeae mittit, VII aput quem Paulus apostolus accusatus in defensionem XII
             sui perorat VIII<note type="textual">Ed. Helm 1956</note>
@@ -278,7 +278,7 @@
         <ref target=""/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote273-2" source="#bib273-2">
-        <anchor xml:id="testimonia-273.en.1" corresp="testimonia-273.la.1"/>Year of the Romans Year of the Jews 207th Olympiad [49 C.E.] 9
+        <anchor xml:id="testimonia-273.en.1" corresp="#testimonia-273.la.1"/>Year of the Romans Year of the Jews 207th Olympiad [49 C.E.] 9
             (181a) When there was a great famine in Greece, 5 one bushel sold for six drachmas. [50
             C.E.] 10 (b) Great famine at Rome. 6 [51 C.E.] 11 (c) Claudius sends Felix to be
             procurator of Judaea. 7 [52 C.E.] Before him Paul the apostle, standing accused, gives

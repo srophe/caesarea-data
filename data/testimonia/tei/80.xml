@@ -282,7 +282,7 @@
             celestial harbinger of the Arab conquest, an episode that several Syriac sources also
             recount.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote80-1" source="#bib80-1">
-        <anchor xml:id="testimonia-80.grc.1" corresp="testimonia-80.en.1"/>Κόσμου ἔτη ͵ϛρκδʹ<lb/>Τῆς θείας σαρκώσεως ἔτη χκδʹ<lb/>Ῥωμαίων βασιλεὺς
+        <anchor xml:id="testimonia-80.grc.1" corresp="#testimonia-80.en.1"/>Κόσμου ἔτη ͵ϛρκδʹ<lb/>Τῆς θείας σαρκώσεως ἔτη χκδʹ<lb/>Ῥωμαίων βασιλεὺς
             Ἡράκλειος ἔτη λαʹ<lb/>κγʹ. Ἀράβων ἀρχηγὸς Ἀβουβάχαρος ἔτη γʹ<lb/>βʹ. Κωνσταντ(ινουπόλεως)
             ἐπίσκοπος Σέργιος ἔτη κθʹ<lb/>κδʹ. Ἱεροσολύμων ἐπίσκοπος Μόδεστος ἔτη βʹ. βʹ<lb/>Ἀλεξανδρείας ἐπίσκοπος Γεώργιος ἔτη ιδʹ. ιδʹ<lb/>Τούτῳ τῷ ἔτει ἔπεμψεν Ἀβουβάχαρος
             στρατηγοὺς τέσσαρας, οἳ καὶ ὁγδηγηθέντες, ὡς προέφην, ὑπὸ τῶν Ἀράβων ἦλθον καὶ ἔλαβον
@@ -298,7 +298,7 @@
         <ref target=""/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote80-2" source="#bib80-2">
-        <anchor xml:id="testimonia-80.en.1" corresp="testimonia-80.grc.1"/>Year of the World 6124 [=631/2 C.E.]<lb/>Year of the Divine
+        <anchor xml:id="testimonia-80.en.1" corresp="#testimonia-80.grc.1"/>Year of the World 6124 [=631/2 C.E.]<lb/>Year of the Divine
             Incarnation 624<lb/>Heraclius, Emperor of the Romans, 23rd year<lb/>Aboubacharos, Leader of
             the Arabs, 2nd year<lb/>Sergius, Bishop of Constantinople, 24th year<lb/>Modestus, Bishop of
             Jerusalem, 2nd year<lb/>George, Bishop of Alexandria, 14th year<lb/>In this year

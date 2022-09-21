@@ -269,7 +269,7 @@
             records the appointment of Pontius Pilate to the governorship of Judaea by
             Tiberius.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote272-1" source="#bib272-1">
-        <anchor xml:id="testimonia-272.la.1" corresp="testimonia-272.en.1"/>Romanorum Judaeorum CCI Olymp(ias) XII (172i) Philippus tetrarcha
+        <anchor xml:id="testimonia-272.la.1" corresp="#testimonia-272.en.1"/>Romanorum Judaeorum CCI Olymp(ias) XII (172i) Philippus tetrarcha
             Paneadam, in qua plurimas XII aedes construxerat, Caesariam Philippi vocavit et Iuliadem
             aliam civitatem. XIII (173a) Pilatus procurator Iudaeae a Tiberio mittitur XIII XIIII
             (b) Votienus Montanus Narbonensis orator in Balearibus XIIII Insulis moritur illuc a
@@ -279,7 +279,7 @@
         <ref/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote272-2" source="#bib272-2">
-        <anchor xml:id="testimonia-272.en.1" corresp="testimonia-272.la.1"/>Year of the Romans Year of the Jews 201st Olympiad [25 C.E.] 12
+        <anchor xml:id="testimonia-272.en.1" corresp="#testimonia-272.la.1"/>Year of the Romans Year of the Jews 201st Olympiad [25 C.E.] 12
             (172i) Philip the Tetrarch named Paneas, where 12 he had built many shrines, Caesarea
             Philippi, and (he named) another city Julias. [26 C.E.] 13 (173a) Pilatus is sent by
             Tiberius to be governor of Judaea. 13 [27 C.E.] 14 (b) Votienus Montanus of Narbonne, an

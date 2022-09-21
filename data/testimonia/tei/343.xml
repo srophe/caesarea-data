@@ -284,7 +284,7 @@
             Kingdom of Jerusalem, including the final capture of Caesarea by Baybars on January 26,
             1265.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote343-1" source="#bib343-1">
-        <anchor xml:id="testimonia-343.la.1" corresp="testimonia-343.en.1"/>XV. Iunii Christiani de Ptolomayda cum Hospitalariis et Templariis
+        <anchor xml:id="testimonia-343.la.1" corresp="#testimonia-343.en.1"/>XV. Iunii Christiani de Ptolomayda cum Hospitalariis et Templariis
             exierunt ad redimendum Gerardum quendam, quem Saraceni proditione ceperant cum multis in
             Rama nec reddere volebant. Et ideo iverunt usque Ascalonam omnia vastando et comburendo;
             et inventos duos admiraldos occiderunt et XXVIII. ex quadringentis, qui cum eis erant;
@@ -297,7 +297,7 @@
         <idno type="CTS-URN"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote343-2" source="#bib343-2">
-        <anchor xml:id="testimonia-343.en.1" corresp="testimonia-343.la.1"/>On June 15 the Christians departed from Acre with the Hospitallers
+        <anchor xml:id="testimonia-343.en.1" corresp="#testimonia-343.la.1"/>On June 15 the Christians departed from Acre with the Hospitallers
             and Templars to recover a certain Gerard, whom the Saracens had captured with many
             others in Ramla by treachery and whom they did not want to give back. They went as far
             as Ascalon, wasting and burning down everything; and they killed two emirs they found

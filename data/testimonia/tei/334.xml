@@ -284,7 +284,7 @@
             coast from Syria toward their conquest of Jerusalem, stopping in Caesarea to celebrate
             the Pentecost.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote334-1" source="#bib334-1">
-        <anchor xml:id="testimonia-334.la.1" corresp="testimonia-334.en.1"/>Adveniente autem Martio populus qui remanserat in Antiochia rogat
+        <anchor xml:id="testimonia-334.la.1" corresp="#testimonia-334.en.1"/>Adveniente autem Martio populus qui remanserat in Antiochia rogat
             comitem Flandriae et ducem Gotifredem ut se ad civitatem Ierusalem deducant, allegantes
             quam bene alii transierant. Profecti igitur cum pervenissent ad Liciam civitatem, quae
             pro Imperatore Constantinopolitano tenebatur, invenerunt se xv. milia. Inde rediit
@@ -311,7 +311,7 @@
         <ref target=""/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote334-2" source="#bib334-2">
-        <anchor xml:id="testimonia-334.en.1" corresp="testimonia-334.la.1"/>At the beginning of March [1099 C.E.], those who had remained in
+        <anchor xml:id="testimonia-334.en.1" corresp="#testimonia-334.la.1"/>At the beginning of March [1099 C.E.], those who had remained in
             Antioch asked [Robert II] the Count of Flanders and Duke Godfrey to postpone (their
             march) to Jerusalem, claiming that they would cross over them as quickly as the others.
             Therefore they set out and came to the city of Licia, which was held for [Alexius I] the

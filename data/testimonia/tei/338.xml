@@ -272,7 +272,7 @@
             from the Greek version on the reign of Decius, Epiphanius discusses the career of
             Origen.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote338-1" source="#bib338-1">
-        <anchor xml:id="testimonia-338.grc.1" corresp="testimonia-338.en.1"/>Τοῦτον διεδέξατο Δέκιος καὶ ἐβασίλευσεν ἐνιαυτὸν ἕνα καὶ μῆνας γʹ. Ἐν
+        <anchor xml:id="testimonia-338.grc.1" corresp="#testimonia-338.en.1"/>Τοῦτον διεδέξατο Δέκιος καὶ ἐβασίλευσεν ἐνιαυτὸν ἕνα καὶ μῆνας γʹ. Ἐν
             τοῖς χρόνοις Δεκίου Ὠριγένης ἐγνωρίζετο ἀπὸ χρόνων Δεκίου ἀκμάσας ἕως χρόνων Γαλιήνου
             καὶ Οὐολουσιανοῦ καὶ ἐπέκεινα. Ἐπὶ δὲ τοῦ διωγμοῦ τοῦ προειρημένου Δεκίου γεγονότος
             ἐμαρτύρησε Βαβύλας μὲν ἐν Ἀντιοχείᾳ, Φλαβιανὸς δὲ ἐπὶ Ῥώμης, Ἀλέξανδρος ἐπίσκοπος
@@ -287,7 +287,7 @@
         <ref target=""/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote338-2" source="#bib338-2">
-        <anchor xml:id="testimonia-338.en.1" corresp="testimonia-338.grc.1"/>Decius succeeded this one (sc. Philip the Arab) and ruled for one
+        <anchor xml:id="testimonia-338.en.1" corresp="#testimonia-338.grc.1"/>Decius succeeded this one (sc. Philip the Arab) and ruled for one
             year and three months. In the time of Decius Origen grew famous, flourishing from the
             reign of Decius until the reigns of Gallienus and Volusianus and their successors.
             During the persecution of the aforementioned Decius, Babylas was martyred in Antioch,

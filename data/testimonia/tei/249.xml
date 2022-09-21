@@ -276,7 +276,7 @@
             Decius and his son at Abirtus (250/1 C.E.), noting in particular the martyrdoms of
             Pionius at Smyrna and Alexander of Jerusalem at Caesarea.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote249-1" source="#bib249-1">
-        <anchor xml:id="testimonia-249.grc.1" corresp="testimonia-249.en.1"/>Καὶ ἐν Σμύρνῃ τῆς Ἀσίας Πιόνιος σὺν ἄλλοις πολλοῖς ἐμαρτύρησεν, ἀνὴρ
+        <anchor xml:id="testimonia-249.grc.1" corresp="#testimonia-249.en.1"/>Καὶ ἐν Σμύρνῃ τῆς Ἀσίας Πιόνιος σὺν ἄλλοις πολλοῖς ἐμαρτύρησεν, ἀνὴρ
             λόγιος καὶ τῶν ἐν μαθήμασιν τοῦ χριστιανῶν λόγου διαπρεπόντων γνωριζόμενος, ἐπὶ Πρόκλου
             Κυϊντιλλιανοῦ ἀνθυπάτου τῆς Ἀσίας πρὸ δʹ ἰδῶν μαρτίων, ὅ ἐστι κατὰ Ἀσιανοὺς μηνὶ ἕκτῳ
             ιβʹ, σαββάτου ὥρᾳ δακάτῃ. Ὁμοίως δὲ καὶ ὁ τῆς Ἱεροσολύμων ἐκκλησίας ἐπίσκοπος Ἀλέξανδρος
@@ -292,7 +292,7 @@
         <ref/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote249-2" source="#bib249-2">
-        <anchor xml:id="testimonia-249.en.1" corresp="testimonia-249.grc.1"/>And in Smyrna in Asia, Pionius along with many others died as a
+        <anchor xml:id="testimonia-249.en.1" corresp="#testimonia-249.grc.1"/>And in Smyrna in Asia, Pionius along with many others died as a
             martyr, a man of the Word and one recognized among those distinguished in the Christian
             teachings of the Word, under Proclus Quintillianus, proconsul of Asia, on the fourth day
             before the Ides of March, i.e., according to the Asian reckoning, on the twelfth day in

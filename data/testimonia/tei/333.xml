@@ -267,7 +267,7 @@
             condemnation on theological grounds and the jealousy his intellectual brilliance
             attracts. Origen flourished as a scholar and teacher at Caesarea Maritima.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote333-1" source="#bib333-1">
-        <anchor xml:id="testimonia-333.la.1" corresp="testimonia-333.en.1"/>(4) Quorsum Varronis et Chalcenteri mentio facta sit, quaeritis?
+        <anchor xml:id="testimonia-333.la.1" corresp="#testimonia-333.en.1"/>(4) Quorsum Varronis et Chalcenteri mentio facta sit, quaeritis?
             Videlicet, ut ad Adamantium nostrum nostrumque Chalcenterum veniamus, qui tanto in
             Sanctarum Scripturarum commentariis sudore laboravit, ut iuste Adamantis nomen
             acceperit. Vultis nosse, quanta ingenii sui reliquerit monimenta? Sequens titulus
@@ -284,7 +284,7 @@
         <ref/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote333-2" source="#bib333-2">
-        <anchor xml:id="testimonia-333.en.1" corresp="testimonia-333.la.1"/>(4) But to what end, you ask, have I mentioned Varro and Brass-Guts?
+        <anchor xml:id="testimonia-333.en.1" corresp="#testimonia-333.la.1"/>(4) But to what end, you ask, have I mentioned Varro and Brass-Guts?
             Simply to bring to your attention the Christian Brass-Guts, or Man of Steel, who has
             labored with so much sweat over his commentaries on the Sacred Writings that he has
             rightly received the name “Steel.” Do you wish to learn how many monuments to his genius

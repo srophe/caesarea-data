@@ -278,7 +278,7 @@
             the emperor paraphrases the earlier accounts of John Malalas and the Easter Chronicle on
             the Samaritan uprising in 484 C.E.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote217-1" source="#bib217-1">
-        <anchor xml:id="testimonia-217.grc.1" corresp="testimonia-217.en.1"/>Ὅτι ἐπὶ τῆς βασιλείας Ζήνωνος πρόφασιν λαβόντες οἱ ἐκ τοῦ ἔθνους τῶν
+        <anchor xml:id="testimonia-217.grc.1" corresp="#testimonia-217.en.1"/>Ὅτι ἐπὶ τῆς βασιλείας Ζήνωνος πρόφασιν λαβόντες οἱ ἐκ τοῦ ἔθνους τῶν
             Σαμαρειτῶν ἐτυράννησαν καὶ ἔστεψαν λῄσταρχον ὄνομα Ἰουστάσαν Σαμαρείτην. καὶ εἰσῆλθεν ἐν <placeName>Καισαρείᾳ</placeName> καὶ ἐθεώρησεν ἱππικὸν καὶ ἐφόνευσε πολλούς,
             ἡγεμονεύοντος τῆς πρώτης Παλαιστίνης Πορφυρίου. ἔκαυσε δὲ καὶ τὸν ἅγιον Προκόπιον ὁ
             αὐτὸς Ἰουστάσας. καὶ εὐθέως ὁ δοὺξ Παλαιστίνης Ἀσκληπιάδης ἦλθε μετὰ τῆς αὐτοῦ βοηθείας
@@ -292,7 +292,7 @@
         <ref/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote217-2" source="#bib217-2">
-        <anchor xml:id="testimonia-217.en.1" corresp="testimonia-217.grc.1"/>It happened during the reign of Zeno that the people of the
+        <anchor xml:id="testimonia-217.en.1" corresp="#testimonia-217.grc.1"/>It happened during the reign of Zeno that the people of the
             Samaritan race seized a pretext and rebelled, and crowned a bandit chief, the Samaritan
             named Justasas. And he came to <placeName>Caesarea</placeName> and watched chariot races
             and murdered many people when Porphyrios was governor of Palestine I. The same Justasas

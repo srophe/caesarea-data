@@ -288,7 +288,7 @@
             Caesarea and Athlit, undoubtedly a local folk tradition, is uniquely attested
             here.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote233-1" source="#bib233-1">
-        <anchor xml:id="testimonia-233.la.1" corresp="testimonia-233.en.1"/>(23) Redeuntes inde venimus iuxta Ramam, civitatem Ioseph, qui sepelivit
+        <anchor xml:id="testimonia-233.la.1" corresp="#testimonia-233.en.1"/>(23) Redeuntes inde venimus iuxta Ramam, civitatem Ioseph, qui sepelivit
             Christum. (24) Et inde iuxta decem miliaria <placeName>Cesaream</placeName> Philippi,
             que est super mare. (25) Inde viginti miliaria ad Cacho castellum. (26) et inde
             appropinquantes Castro Peregrini decem et octo miliaria venimus ad caveam virginis. (27)
@@ -302,7 +302,7 @@
         <ref target="https://babel.hathitrust.org/cgi/pt?id=hvd.32044019846799&amp;view=1up&amp;seq=125"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote233-2" source="#bib233-2">
-        <anchor xml:id="testimonia-233.en.1" corresp="testimonia-233.la.1"/>(23) Starting again from there (sc. Emmaus) we came to Rama, city of
+        <anchor xml:id="testimonia-233.en.1" corresp="#testimonia-233.la.1"/>(23) Starting again from there (sc. Emmaus) we came to Rama, city of
             Joseph, who buried Christ. (24) And then after close to 10 miles (we came) to <placeName>Caesarea</placeName> Philippi, which is on the sea. (25) From there after
             20 miles (we came) to the castle Cacho. (26) And then approaching Pilgrim’s Castle after
             18 miles we came to the Cave of the Virgin. (27) The Cave of the Virgin is a pit near

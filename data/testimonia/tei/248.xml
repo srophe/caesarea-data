@@ -277,7 +277,7 @@
             In this passage the author cites the conversions of the Ethiopian eunuch and Cornelius
             by Philip and Peter.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote248-1" source="#bib248-1">
-        <anchor xml:id="testimonia-248.grc.1" corresp="testimonia-248.en.1"/>Τούτῳ τῷ δευτέρῳ ἔτει τῆς εἰς οὐρανοὺς ἀναλήψεως τοῦ κυρίου, Φίλιππος ὁ
+        <anchor xml:id="testimonia-248.grc.1" corresp="#testimonia-248.en.1"/>Τούτῳ τῷ δευτέρῳ ἔτει τῆς εἰς οὐρανοὺς ἀναλήψεως τοῦ κυρίου, Φίλιππος ὁ
             ἀπόστολος τὸν εὐνοῦχον Κανδάκης τῆς βασιλίσσης Αἰθιόπων ἀπαρχὴν τῆς τῶν ἐθνῶν κλήσεως τῷ
             τοῦ Χριστοῦ κηρύηματι ὑπηγάγετο. Τῷ αὐτῷ ἔτει πρῶτος τῶν κατὰ <placeName>τὴν Παλαιστίνην
                Καισάρειαν</placeName> Κορνήλιος σὺν ὅλῳ τῷ οἰκῷ αὐτοῦ δι’ ἐπιφανείας θείας, ὑπουργίᾳ
@@ -287,7 +287,7 @@
         <ref/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote248-2" source="#bib248-2">
-        <anchor xml:id="testimonia-248.en.1" corresp="testimonia-248.grc.1"/>[32 C.E.] In this the second year after the Assumption of the Lord
+        <anchor xml:id="testimonia-248.en.1" corresp="#testimonia-248.grc.1"/>[32 C.E.] In this the second year after the Assumption of the Lord
             into the heavens, Philip the Apostle led the eunuch of Candace, queen of the Ethiopians,
             under the preaching of Christ, the first-offering of the call to the gentiles. In the
             same year Cornelius accepted faith in Christ, the first of those in <placeName>Caesarea

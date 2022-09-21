@@ -284,7 +284,7 @@
             Caesarea, in the aftermath of the disastrous conclusion of the siege of Acre in
             midsummer of 1191.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote336-1" source="#bib336-1">
-        <anchor xml:id="testimonia-336.la.1" corresp="testimonia-336.en.1"/>Cernens tortuosus coluber Saladinus captam civitatem Ptolomaydam et
+        <anchor xml:id="testimonia-336.la.1" corresp="#testimonia-336.en.1"/>Cernens tortuosus coluber Saladinus captam civitatem Ptolomaydam et
             pugnatorum suorum multitudinem interemptam consternatus est animo. Nam electos ibi
             locaverat pugnatores (II. cap. supra) et diffidens cetera posse tueri, maritima loca
             destruxit: Poyphyriam scilicet, et <placeName>Caesaream</placeName>, Iopen, Ascalonem,
@@ -295,7 +295,7 @@
         <ref target=""/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote336-2" source="#bib336-2">
-        <anchor xml:id="testimonia-336.en.1" corresp="testimonia-336.la.1"/>Saladin, the slippery snake, observing that the city Ptolomayda was
+        <anchor xml:id="testimonia-336.en.1" corresp="#testimonia-336.la.1"/>Saladin, the slippery snake, observing that the city Ptolomayda was
             captured and many of his warriors killed, was dispirited, for he had stationed his
             select warriors there (Chapter 2 above). Losing hope that the other places could be
             protected, he destroyed the coastal towns, namely, Porphyria, <placeName>Caesarea</placeName>, Jaffa, Ascalon, Gaza, and Darus. After this King

@@ -281,7 +281,7 @@
             tells how the three ships transporting him and other pilgrims to Cyprus from Jaffa were
             threatened by an Arab flotilla in the waters off Haifa and Akko on May 20, 1103.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote301-1" source="#bib301-1">
-        <anchor xml:id="testimonia-301.la.1" corresp="testimonia-301.en.1"/>Perscrutatis etenim singulis Ierosolimitane urbis finiumque suarum
+        <anchor xml:id="testimonia-301.la.1" corresp="#testimonia-301.en.1"/>Perscrutatis etenim singulis Ierosolimitane urbis finiumque suarum
             sanctuariis pro posse nostro atque adoratis, die Pentecostes repatriandi causa Ioppen
             navim ascendimus, sed Sarracenorum metu per altum pelagus Adriatici maris, ut venimus,
             classem illorum metuentes, tendere ausi non sumus, et ideo civitates maritimas
@@ -313,7 +313,7 @@
         <ref/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote301-2" source="#bib301-2">
-        <anchor xml:id="testimonia-301.en.1" corresp="testimonia-301.la.1"/>After we had thoroughly investigated every one of the sanctuaries of
+        <anchor xml:id="testimonia-301.en.1" corresp="#testimonia-301.la.1"/>After we had thoroughly investigated every one of the sanctuaries of
             the city of Jerusalem and its confines as far as we could, and we had paid our
             devotions, we boarded a ship at Joppa on the day of Pentecost to return home. Out of
             fear of the Saracens, however, we did not dare to cross the open deep of the Adriatic

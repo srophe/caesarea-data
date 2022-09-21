@@ -277,7 +277,7 @@
             covers the start of Nero’s reign, including the Jewish uprising of 55 C.E. in
             Caesarea.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote275-1" source="#bib275-1">
-        <anchor xml:id="testimonia-275.la.1" corresp="testimonia-275.en.1"/>Romanorum Judaeorum Romanorum VI regnavit Nero ann(is) XIII mens(ibus)
+        <anchor xml:id="testimonia-275.la.1" corresp="#testimonia-275.en.1"/>Romanorum Judaeorum Romanorum VI regnavit Nero ann(is) XIII mens(ibus)
             VII dieb(us) XXVIII I (f) Huius avunculus fuit Gaius Caligula XI (182a) Felici regente
             Judaeam seditio in <placeName>Caesarea Palestinae</placeName> orta magnam Judaeorum
             multitudinem perdidit<note type="textual">Ed. Helm 1956</note>
@@ -286,7 +286,7 @@
         <ref target=""/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote275-2" source="#bib275-2">
-        <anchor xml:id="testimonia-275.en.1" corresp="testimonia-275.la.1"/>Year of the Romans Year of the Jews 6th (emperor) of the Romans,
+        <anchor xml:id="testimonia-275.en.1" corresp="#testimonia-275.la.1"/>Year of the Romans Year of the Jews 6th (emperor) of the Romans,
             Nero, ruled 13 years, 7 months, 28 days [55 C.E.] 1 (181f) (Nero’s) uncle was Gaius
             Caligula. 11 (182a) When Felix was governor in Judea, a revolt arose in <placeName>Caesarea Maritima</placeName> and destroyed a great number of Jews.<note type="translation">Trans. J. L. Rife with ref. to Pearse 2005</note>
         <idno type="CTS-URN"/>

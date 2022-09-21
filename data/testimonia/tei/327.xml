@@ -277,7 +277,7 @@
             rejoining his mundane existence in some place that is dangerous and without inspiration,
             like the Jews deported to Babylon.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote327-1" source="#bib327-1">
-        <anchor xml:id="testimonia-327.grc.1" corresp="testimonia-327.en.1"/>Πολέμιοί ποτε λέγονται ἐπελθόντες πόλει μεγάλῃ καὶ ἱερᾷ, ἐν ᾗ τὸ θεῖον
+        <anchor xml:id="testimonia-327.grc.1" corresp="#testimonia-327.en.1"/>Πολέμιοί ποτε λέγονται ἐπελθόντες πόλει μεγάλῃ καὶ ἱερᾷ, ἐν ᾗ τὸ θεῖον
             ἐθεραπεύετο, αἰχμαλώτους κατασῦραι τοὺς ἐνοικοῦντας καὶ ὑμνῳδοὺς καὶ θεολόγους εἰς τὴν
             αὐτὴν χώραν, Βαβυλωνία δὲ ἦν· τοὺς δ’ ἐνεχθέντας εἰς αὐτήν, μηδ’ ἀξιουμένους ὑπὸ τῶν
             κρατούντων ὑμνεῖν ἐθέλειν τὸ θεῖον, μηδὲ ψάλλειν ἐν γῇ βεβήλῳ· ἀλλὰ τὰ μὲν ὄργανα τὰ
@@ -300,7 +300,7 @@
         <ref target=""/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote327-2" source="#bib327-2">
-        <anchor xml:id="testimonia-327.en.1" corresp="testimonia-327.grc.1"/>It is told that that the enemy once assailed a great and sacred city
+        <anchor xml:id="testimonia-327.en.1" corresp="#testimonia-327.grc.1"/>It is told that that the enemy once assailed a great and sacred city
             in which the God was worshipped, and dragged away its inhabitants as prisoners, both
             singers and prophets, into their own country, Babylonia. And it is told that the
             captives in that land were unwilling, even when it was demanded by their conquerors, to

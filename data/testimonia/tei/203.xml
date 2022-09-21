@@ -283,7 +283,7 @@
             close study of scripture. In this passage about Samaria Sebaste, Burchard describes its
             excellent location with a view to the Mediterranean coast, including Caesarea.</desc>
          <ab type="edition" xml:lang="la" xml:id="quote203-1" source="#bib203-1">
-        <anchor xml:id="testimonia-203.la.1" corresp="testimonia-203.en.1"/>Breviter dico, quod magis non potest dici de civitate ista, que ad
+        <anchor xml:id="testimonia-203.la.1" corresp="#testimonia-203.en.1"/>Breviter dico, quod magis non potest dici de civitate ista, que ad
             tantam miseriam nunc devenit, ut rei veritate sit ortus olerum, sicut Achab, rex eius,
             facere voluit de vinea Naboth Iesrahelite, eo quod esset prope domum suam. Et revera
             nunc iusto Dei iudicio non sοlum vinea ipsa, sed et palacium ipsum regis est in ortum
@@ -295,7 +295,7 @@
         <ref target=""/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote203-2" source="#bib203-2">
-        <anchor xml:id="testimonia-203.en.1" corresp="testimonia-203.la.1"/>In short, there is no more to be said about this city (sc. Samaria
+        <anchor xml:id="testimonia-203.en.1" corresp="#testimonia-203.la.1"/>In short, there is no more to be said about this city (sc. Samaria
             Sebaste), which has now come to such misery that in real truth it is a garden of herbs,
             just like Ahab, its king, wanted to make of the vineyard of Naboth the Jezreelite,
             because it was near his house. Indeed today, by the just judgement of God, not only that

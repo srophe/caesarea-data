@@ -283,7 +283,7 @@
             Bishop of Alexandria, on theological grounds, and named various eastern bishops as
             agreeing with his beliefs, including Eusebius of Caesarea.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote252-1" source="#bib252-1">
-        <anchor xml:id="testimonia-252.grc.1" corresp="testimonia-252.en.1"/>(1) Κυρίῳ ποθεινοτάτῳ ἀνθρώπῳ θεοῦ πιστῷ ὀρθοδόξῳ Εὐσεβίῳ, Ἄρειος ὁ
+        <anchor xml:id="testimonia-252.grc.1" corresp="#testimonia-252.en.1"/>(1) Κυρίῳ ποθεινοτάτῳ ἀνθρώπῳ θεοῦ πιστῷ ὀρθοδόξῳ Εὐσεβίῳ, Ἄρειος ὁ
             διωκόμενος ὑπὸ Ἀλεξάνδρου πάπα ἀδίκως διὰ τὴν πάντα νικῶσαν ἀλήθειαν, ἧς καὶ σὺ
             ὑπερασπίζεις, ἐν Κυρίῳ χαίρειν. (2) Τοῦ πατρός μου Ἀμμωνίου εἰς τὴν Νικομήδειαν
             ἀφικομένου εὔλογον καὶ ὀφειλόμενον ἐφάνη μοι προσαγορεῦσαί σε δι’ αὐτοῦ, ὁμοῦ τε καὶ
@@ -303,7 +303,7 @@
         <ref target=""/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote252-2" source="#bib252-2">
-        <anchor xml:id="testimonia-252.en.1" corresp="testimonia-252.grc.1"/>(1) Greetings in the Lord from Arius, unjustly persecuted by Pope
+        <anchor xml:id="testimonia-252.en.1" corresp="#testimonia-252.grc.1"/>(1) Greetings in the Lord from Arius, unjustly persecuted by Pope
             Alexander for the all-conquering truth of which you too are a defender, to the most
             beloved man of God, the faithful and orthodox Master Eusebius. (2) As my father Ammonius
             is arriving in Nicomedia, it seems to me reasonable and appropriate to address you

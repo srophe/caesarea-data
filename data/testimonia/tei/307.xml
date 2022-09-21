@@ -271,7 +271,7 @@
             describes the natural terrain from the Judaean Hills west to the coast as far as
             Caesarea.</desc>
          <ab type="edition" xml:lang="la" xml:id="quote307-1" source="#bib307-1">
-        <anchor xml:id="testimonia-307.la.1" corresp="testimonia-307.en.1"/>Ab Helia septemtrionem versus usque ad Samuhelis civitatem, quae
+        <anchor xml:id="testimonia-307.la.1" corresp="#testimonia-307.en.1"/>Ab Helia septemtrionem versus usque ad Samuhelis civitatem, quae
             Armathem nominatur, terra petrosa et aspera per quaedam monstratur intervalla; valles
             quoque spinosae usque ad Tamniticam regionem patentes. Aliter vero a supradicta Helia et
             monte Sion qualitas regionum monstratur usque ad Cesaream Palestinae occasum versus. Nam
@@ -281,7 +281,7 @@
         <ref target=""/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote307-2" source="#bib307-2">
-        <anchor xml:id="testimonia-307.en.1" corresp="testimonia-307.la.1"/>North from Helia up to the city of Samuel, which is called Armathes,
+        <anchor xml:id="testimonia-307.en.1" corresp="#testimonia-307.la.1"/>North from Helia up to the city of Samuel, which is called Armathes,
             the terrain proves to be rocky and rough in certain areas, and the valleys extending as
             far as the Tamnitic region are full of thorny vegetation. But from the aforementioned
             Helia and Mount Sion to the west as far as Caesarea Palestinae the regional character is

@@ -274,14 +274,14 @@
             In this passage Eutropius cites the establishment of Caesarea in honor of
             Augustus.</desc>
          <ab type="edition" xml:lang="la" xml:id="quote52-1" source="#bib52-1">
-        <anchor xml:id="testimonia-52.la.1" corresp="testimonia-52.en.1"/>Tanto autem amore etiam apud barbaros fuit, ut reges populi Romani amici
+        <anchor xml:id="testimonia-52.la.1" corresp="#testimonia-52.en.1"/>Tanto autem amore etiam apud barbaros fuit, ut reges populi Romani amici
             in honorem eius conderent civitates, quas <placeName>Caesareas</placeName> nominarent,
             sicut in Mauritania a rege Iuba, et in Palaestina, quae nunc urbs est clarissima.<note type="textual">Ed. Droysen 1879</note>
         <idno type="CTS-URN"/>
         <ref target="https://www.dmgh.de/mgh_auct_ant_2/index.htm#page/120/mode/1up"/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote52-2" source="#bib52-2">
-        <anchor xml:id="testimonia-52.en.1" corresp="testimonia-52.la.1"/>Nevertheless, (Caesar Augustus) was the object of such great
+        <anchor xml:id="testimonia-52.en.1" corresp="#testimonia-52.la.1"/>Nevertheless, (Caesar Augustus) was the object of such great
             affection, even among the barbarians, that kings who were friends of the Roman people
             founded cities in his honor which were called <placeName>Caesarea</placeName>, such as
             the one in Mauretania (established) by king Juba, and the one in Palestine, which is now

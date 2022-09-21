@@ -287,7 +287,7 @@
             Caesarea, Arsuf, Jaffa, and Ramla. He mixes observations on both the early Christian
             associations and the contemporary state of these communities.</desc>
          <ab type="edition" xml:lang="la" xml:id="quote51-1" source="#bib51-1">
-        <anchor xml:id="testimonia-51.la.1" corresp="testimonia-51.en.1"/>(2) Et relinquentes ad sinistram Sareptam Iudae, ad cuius differentiam
+        <anchor xml:id="testimonia-51.la.1" corresp="#testimonia-51.en.1"/>(2) Et relinquentes ad sinistram Sareptam Iudae, ad cuius differentiam
             altera Sarepta, de qua vos supra expedivi, Sydoniorum est appellata, veniumus
                <placeName>Cesaream</placeName>. Haec non est Cesarea Philippi, sed
                <placeName>Stratonis</placeName>, in qua beatus Petrus, cum in visione de omni
@@ -316,7 +316,7 @@
         <ref/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote51-2" source="#bib51-2">
-        <anchor xml:id="testimonia-51.en.1" corresp="testimonia-51.la.1"/>Leaving to the left Sarepta of Judaea, which in distinction from the
+        <anchor xml:id="testimonia-51.en.1" corresp="#testimonia-51.la.1"/>Leaving to the left Sarepta of Judaea, which in distinction from the
             other Sarepta (I addressed it above) is called of the Sidonians, we came to
                <placeName>Caesarea</placeName>. This is not the Caesarea of Philip but the one of
                <placeName>Strato</placeName>, in which St. Peter, when he was commanded in a vision

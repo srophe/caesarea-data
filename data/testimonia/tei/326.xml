@@ -275,7 +275,7 @@
             classical and Christian intellectualism. In this passage he describes in poetic terms
             how Origen captivated him and his brother and drew them under his tutelage.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote326-1" source="#bib326-1">
-        <anchor xml:id="testimonia-326.grc.1" corresp="testimonia-326.en.1"/>Ὁ δ’ ὑποδεξάμενος ἐξ ἡμέρας τῆς πρώτης, τῆς ὄντως ἐμοὶ πρώτης, τῆς
+        <anchor xml:id="testimonia-326.grc.1" corresp="#testimonia-326.en.1"/>Ὁ δ’ ὑποδεξάμενος ἐξ ἡμέρας τῆς πρώτης, τῆς ὄντως ἐμοὶ πρώτης, τῆς
             τιμιωτάτης πασῶν, εἰ δεῖ λέγειν, ἡμερῶν, ὅτε μοι πρῶτον ὁ ἀληθινὸς ἀνατέλλειν ἥλιος
             ἤρξατο, πρῶτον μέν, ὥσπερ θῆράς τινας ἀγρίους ἢ ἰχθύας ἤ τινας ὄρνεις, ἐμπεσόντας μὲν
             εἰς τὰς ἄρκυς ἢ εἰς τὰς σαγήνας, ἐξολισθαίνειν δὲ καὶ ἀποδιδράσκειν πειρωμένους,
@@ -287,7 +287,7 @@
         <ref target=""/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote326-2" source="#bib326-2">
-        <anchor xml:id="testimonia-326.en.1" corresp="testimonia-326.grc.1"/>And from the very first day (Origen) received us—which was truly my
+        <anchor xml:id="testimonia-326.en.1" corresp="#testimonia-326.grc.1"/>And from the very first day (Origen) received us—which was truly my
             first day, the most precious of all days, if I may say, whereas then for the first time
             the true Sun began to rise upon me—at the start we, like some wild creatures of the
             field or fish or some birds that had fallen into the traps or nets, attempting to slip

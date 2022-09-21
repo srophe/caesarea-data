@@ -288,7 +288,7 @@
             the book during his preparation of the Hexapla, and quite possibly used it in his
             research.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote329-1" source="#bib329-1">
-        <anchor xml:id="testimonia-329.grc.1" corresp="testimonia-329.en.1"/>Ἰουλιανή τις πάλιν παρθένος ἐν Καισαρείᾳ τῆς Καππαδοκίας λογιωτάτη
+        <anchor xml:id="testimonia-329.grc.1" corresp="#testimonia-329.en.1"/>Ἰουλιανή τις πάλιν παρθένος ἐν Καισαρείᾳ τῆς Καππαδοκίας λογιωτάτη
             ἐλέγετο καὶ πιστοτάτη· ἥτις Ὠριγένην τὸν συγγραφέα φεύγοντα τὴν ἐπανάστασιν τῶν Ἑλλήνων
             ἐδέξατο ἐπὶ δύο ἔτη ἰδίοις ἀναλώμασι καὶ ὑπηρεσίᾳ ἀναπαύσασα τὸν ἄνδρα. Εὗρον δὲ ταῦτα
             ἐγὼ γεγραμμένα ἐν παλαιοτάτῳ βιβλίῳ στιχηρῷ, ἐν ᾧ ἐγέγραπτο χειρὶ Ὠριγένους· “Τοῦτο τὸ
@@ -302,7 +302,7 @@
         <ref target=""/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote329-2" source="#bib329-2">
-        <anchor xml:id="testimonia-329.en.1" corresp="testimonia-329.grc.1"/>Again there was a certain Juliana, a virgin of Caesarea in
+        <anchor xml:id="testimonia-329.en.1" corresp="#testimonia-329.grc.1"/>Again there was a certain Juliana, a virgin of Caesarea in
             Cappadocia, said to be very learned and most faithful. When Origen the writer fled from
             the uprising of the pagans, she is the one who received him, and she sustained him for
             two years at her own cost with supportive attendance. I found this written in a very old

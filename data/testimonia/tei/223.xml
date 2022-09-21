@@ -276,7 +276,7 @@
             to Count Raymond III of Tripoli in 1187. Here the author notes the situation of Nablus
             relative to Nazareth, Caesarea, and Jerusalem.</desc>
       <ab type="edition" xml:lang="fro" xml:id="quote223-1" source="#bib223-1">
-        <anchor xml:id="testimonia-223.fro.1" corresp="testimonia-223.en.1"/>Il a de Naples en Jherusalem XII liues, et de Naples en Nazareth XII
+        <anchor xml:id="testimonia-223.fro.1" corresp="#testimonia-223.en.1"/>Il a de Naples en Jherusalem XII liues, et de Naples en Nazareth XII
             liues; et si est Naples en mi voies de Nazareth et de Jherusalem. Or a de Naples à <placeName>Cesaire</placeName> sour mer XII liues, et de Naples au flun Jourdain V
             liues, mais cil fluns n’est mie en cel endroit où Jhesu Cris fu batisiés, car il i a
             assés plus de Naples là u il fu baptisiés; mais tout est I fluns.<note type="textual">Ed. Mas Latrie 1871</note>
@@ -284,7 +284,7 @@
         <ref target="https://archive.org/details/chroniquedernoul00ernouoft/page/112/mode/2up"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote223-2" source="#bib223-2">
-        <anchor xml:id="testimonia-223.en.1" corresp="testimonia-223.fro.1"/>It is 12 miles from Nablus to Jerusalem, and 12 from Nablus to
+        <anchor xml:id="testimonia-223.en.1" corresp="#testimonia-223.fro.1"/>It is 12 miles from Nablus to Jerusalem, and 12 from Nablus to
             Nazareth; and Nablus is midway between Nazareth and Jerusalem. Now from Nazareth to <placeName>Caesarea</placeName> on the Sea is 12 miles, and from Nablus to the River
             Jordan is 5 miles. But that part of the river is not the place where Jesus Christ was
             baptized, for it is much more from Nablus to the place where he was baptized, but it is

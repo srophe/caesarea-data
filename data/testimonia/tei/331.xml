@@ -276,7 +276,7 @@
             surrounding his move and the hiatus in his work on the Commentary metaphorically,
             evoking the Exodus, delivery from storms, and failed attacks.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote331-1" source="#bib331-1">
-        <anchor xml:id="testimonia-331.grc.1" corresp="testimonia-331.en.1"/>(8) Καὶ μέχρι γε τοῦ πέμπτου τόμου, εἰ καὶ ὁ κατὰ τὴν Ἀλεξανδρείαν
+        <anchor xml:id="testimonia-331.grc.1" corresp="#testimonia-331.en.1"/>(8) Καὶ μέχρι γε τοῦ πέμπτου τόμου, εἰ καὶ ὁ κατὰ τὴν Ἀλεξανδρείαν
             χειμὼν ἀντιπράττειν ἐδόκει, τὰ διδόμενα ὑπηγορεύσαμεν, ἐπιτιμῶντος τοῖς ἀνέμοις καὶ τοῖς
             κύμασι τῆς θαλάσσης τοῦ Ἰησοῦ· καὶ ἕκτου δὲ ἐπὶ ποσὸν προεληλυθότες ἐξειλκύσθημεν ἀπὸ
             γῆς Αἰγύπτου, ῥυσαμένου ἡμᾶς τοῦ θεοῦ τοῦ ἐξαγαγόντος τὸν λαὸν αὐτοῦ ἀπ’ αὐτῆς. (9)
@@ -296,7 +296,7 @@
         <ref target="https://archive.org/details/desgregoriosthau00greg/page/40/mode/2up"/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote331-2" source="#bib331-2">
-        <anchor xml:id="testimonia-331.en.1" corresp="testimonia-331.grc.1"/>(8) I composed the material given me as far as the fifth volume (of
+        <anchor xml:id="testimonia-331.en.1" corresp="#testimonia-331.grc.1"/>(8) I composed the material given me as far as the fifth volume (of
             the Commentary) even though the storm in Alexandria seemed to work against me, just as
             Jesus rebuked the winds and the waves of the sea. After I had moved on to part of the
             sixth (volume) I was brought out of Egypt by God delivering me, He who led His people

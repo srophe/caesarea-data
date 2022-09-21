@@ -269,7 +269,7 @@
             critique. At the end of his discussion of marriage and purity, Jerome cites the famous
             example of the four virgin prophetesses of Caesarea Maritima.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote345-1" source="#bib345-1">
-        <anchor xml:id="testimonia-345.la.1" corresp="testimonia-345.en.1"/>Dies me deficiet si voluero omnia de castitate Apostoli praecepta
+        <anchor xml:id="testimonia-345.la.1" corresp="#testimonia-345.en.1"/>Dies me deficiet si voluero omnia de castitate Apostoli praecepta
             memorare. Ista sunt de quibus ad apostolos Dominus loquebatur, “Adhuc multa habeo vobis
             dicere, sed non potestis ea portare modo. Cum autem venerit ille Spiritus veritatis,
             docebit vos omnem veritatem.” Post crucem Christi, statim in Actis apostolorum una domus
@@ -284,7 +284,7 @@
         <ref target="https://archive.org/details/patrologiaecurs01goog/page/n144/mode/2up"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote345-2" source="#bib345-2">
-        <anchor xml:id="testimonia-345.en.1" corresp="testimonia-345.la.1"/>The day would fail me if I should want to relate all the apostle’s
+        <anchor xml:id="testimonia-345.en.1" corresp="#testimonia-345.la.1"/>The day would fail me if I should want to relate all the apostle’s
             teachings on chastity. The Lord said this on the matter to the apostles: “Up to now I
             have told you many things, but you cannot bear them at all. But when the Spirit of truth
             comes, it will teach you every truth.” Right after the crucifixion of Christ in the Acts

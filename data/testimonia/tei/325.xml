@@ -275,7 +275,7 @@
             integration of Classical and Christian intellectualism. In this passage he describes the
             circumstances of his diversion to Caesarea and attraction to Origen.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote325-1" source="#bib325-1">
-        <anchor xml:id="testimonia-325.grc.1" corresp="testimonia-325.en.1"/>Πῶς οὖν καὶ τοῦτο ἐξεπορίσθη; Κηδεστήν μου ἄνδρα ἀδελφῆς ἐμῆς ὁ τότε
+        <anchor xml:id="testimonia-325.grc.1" corresp="#testimonia-325.en.1"/>Πῶς οὖν καὶ τοῦτο ἐξεπορίσθη; Κηδεστήν μου ἄνδρα ἀδελφῆς ἐμῆς ὁ τότε
             ἄρχων τῶν Παλαιστίνων τοῦτον παραλαβὼν ἐξαίφνης, ἄκοντα μόνον κεχωρισμένον τῆς ὁμοκοίτου
             ἤγαγεν ἐνταῦθα, συνεπιβοηθήσοντα καὶ κοινωνήσοντα τῶν τοῦ ἔθνους ἄρχοντος πόνων· νομικὸς
             γάρ τις ἦν, καὶ ἔστιν ἴσως ἔτι· ὃς δὴ ἐλθὼν ἅμα αὐτῷ ἔμελλε μὲν οὐκ εἰς μακρὸν
@@ -301,7 +301,7 @@
         <ref target=""/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote325-2" source="#bib325-2">
-        <anchor xml:id="testimonia-325.en.1" corresp="testimonia-325.grc.1"/>How, then, was this effected? The governor of Palestine at the time
+        <anchor xml:id="testimonia-325.en.1" corresp="#testimonia-325.grc.1"/>How, then, was this effected? The governor of Palestine at the time
             suddenly engaged my brother-in-law, my sister’s husband, and brought him here, against
             his will, alone, and separated him from his wife, in order to join as an assistant and
             participant in the hard work of governing the country. For he was a lawyer, and perhaps

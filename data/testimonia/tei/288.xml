@@ -267,7 +267,7 @@
             Origen’s interactions with the Cappadocian Church and the Imperial family from his base
             at Caesarea in the 230s C.E.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote288-1" source="#bib288-1">
-        <anchor xml:id="testimonia-288.la.1" corresp="testimonia-288.en.1"/>Quantae autem gloriae fuerit, hinc apparet, quod Firmillianus, Caesareae
+        <anchor xml:id="testimonia-288.la.1" corresp="#testimonia-288.en.1"/>Quantae autem gloriae fuerit, hinc apparet, quod Firmillianus, Caesareae
             episcopus, cum omni Cappadocia eum invitavit et diu tenuit et postea sub occasione
             sanctorum locorum Palestinam veniens diu Caesareae ab eo in sanctis scripturis eruditus
             est; sed et illud quod ad Mameam, matrem Alexandri imperatoris, religiosam feminam
@@ -278,7 +278,7 @@
         <ref target="https://archive.org/details/devirisinlustri00jerogoog/page/n67/mode/2up"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote288-2" source="#bib288-2">
-        <anchor xml:id="testimonia-288.en.1" corresp="testimonia-288.la.1"/>One can see how great Origen’s glory was from the fact that
+        <anchor xml:id="testimonia-288.en.1" corresp="#testimonia-288.la.1"/>One can see how great Origen’s glory was from the fact that
             Firmillianus, bishop of Caesarea, with all the Cappadocian bishops invited and hosted
             him for a long stay; and later, when (Firmillianus) was travelling to Palestine to visit
             the Holy Places, he received instruction on the Holy Scriptures from Origen for a long

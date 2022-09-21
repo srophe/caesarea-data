@@ -278,7 +278,7 @@
             from the itinerary refers to stopping over at Caesarea Maritima on the road between
             Jerusalem and Joppa and Galilee and Damascus.</desc>
          <ab type="edition" xml:lang="la" xml:id="quote62-1" source="#bib62-1">
-        <anchor xml:id="testimonia-62.la.1" corresp="testimonia-62.en.1"/>Iterum venientes Hierusolimam, ubi etiam aegrotus remansi per multum
+        <anchor xml:id="testimonia-62.la.1" corresp="#testimonia-62.en.1"/>Iterum venientes Hierusolimam, ubi etiam aegrotus remansi per multum
             tempus. Evidenter oculata fide vidi beatam Euphemiam per visionem et beatum Antonium;
             quomodo venerunt, sanaverunt me. Egressus de Hierusolima descendi in Ioppe. Ibi iacet
             sancta Tabitha quae et Dorcas dicitur. Deinde veni Caesaream Philippi, quae
@@ -297,7 +297,7 @@
         <ref target=""/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote62-2" source="#bib62-2">
-        <anchor xml:id="testimonia-62.en.1" corresp="testimonia-62.la.1"/>Arriving again at Jerusalem, I remained there sick for a long time.
+        <anchor xml:id="testimonia-62.en.1" corresp="#testimonia-62.la.1"/>Arriving again at Jerusalem, I remained there sick for a long time.
             Evidently by my keen-sighted faith I saw the blessed Euphemia in a vision and the
             blessed Antonius; just as they came, they healed me. I left Jerusalem and went down to
             Joppe. There lies St. Tabitha, also called Dorcas. Then I came to Caesarea Philippi,

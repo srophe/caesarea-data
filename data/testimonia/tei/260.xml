@@ -277,7 +277,7 @@
             John XXII (in 1321). His account of the Holy Land begins by surveying the regional
             divisions of “Syria” from Cappadocia and Cilicia to Mesopotamia to Egypt.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote260-1" source="#bib260-1">
-        <anchor xml:id="testimonia-260.la.1" corresp="testimonia-260.en.1"/>Dicuntur etiam Syriae, tres Palestinae: unde quinta Syria est Palestina,
+        <anchor xml:id="testimonia-260.la.1" corresp="#testimonia-260.en.1"/>Dicuntur etiam Syriae, tres Palestinae: unde quinta Syria est Palestina,
             quae proprie Philistim nominatur: cuius metropolis est Caesarea, incipiens a Castro
             Pereginorum et tendens versus meridiem supra mare Mediterraneum contra austrum usque
             Gazam. Sexta Syria est alia Palestina, cuius metropolis est Ierusalem, cum omnibus
@@ -290,7 +290,7 @@
         <ref target=""/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote260-2" source="#bib260-2">
-        <anchor xml:id="testimonia-260.en.1" corresp="testimonia-260.la.1"/>Also, the three parts of Palestine are called the Syrias, of which
+        <anchor xml:id="testimonia-260.en.1" corresp="#testimonia-260.la.1"/>Also, the three parts of Palestine are called the Syrias, of which
             the fifth Syria is that Palestine which is properly called Philistim. Its chief city is
             Caesarea, and it begins at Pilgrims’ Castle and extends south along the coast of the
             Mediterranean as far as Gaza. The Sixth Syria is the second Palestine. Its chief city is
