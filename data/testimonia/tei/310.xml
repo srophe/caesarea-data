@@ -324,7 +324,7 @@
         <note type="textual">Bibliothèque impériale, fonds Latin, 5129 (Paris, dated
                1151-1157)</note>
         <note type="discussion">Minor corr. J. L. Rife</note>
-        <idno type="CTS-URN"/>
+        <note type="corrigenda"/><idno type="CTS-URN"/>
         <ref/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote310-2" source="#bib310-2">
@@ -364,7 +364,7 @@
             kingdom. This very thing actually happened, and so the older brother became sole ruler.<lb/>Ten miles from <placeName>Caesarea</placeName> toward the east is Scariathias, from
             which Judas the traitor was nicknamed Scarioth.<note type="translation">Trans. J. L.
                Rife with ref. to MacPherson 1896</note>
-        <idno type="CTS-URN"/>
+        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
         <ref/>
       </ab>
       <listBibl>

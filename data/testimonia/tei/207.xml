@@ -287,7 +287,7 @@
             “Συνεχῶς δʼ ἐστὶ <placeName>Στράτωνος πύργος</placeName>, εἶτα ἔνι Δῶρα, ἐπὶ
             χερσονησοειδοῦς τόπου κείμενον πολισμάτιον, ἀρχομένου τοῦ ὄρους τοῦ Καρμήλου.” Καὶ ἐν θʹ
             Γεωγραφουμένων τὸ αὐτό.<note type="textual">Ed. Müller 1855</note>
-        <idno type="CTS-URN"/>
+        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
         <ref/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote207-2" source="#bib207-2">
@@ -297,7 +297,7 @@
                <placeName>Straton’s Tower</placeName>, and then Dora, a town situated on the
             peninsula where Mount Carmel begins.” And the same thing in Geographic Description
                9.<note type="translation">Trans. J. L. Rife</note>
-        <idno type="CTS-URN"/>
+        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
          <listBibl>

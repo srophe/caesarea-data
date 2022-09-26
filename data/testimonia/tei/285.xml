@@ -279,7 +279,7 @@
             Pamphilus martyr studiosissime confecit. Mihi quoque a Nazareis qui in Veria, urbe
             Syriae, hoc volumine utuntur, describendi facultas fuit.<note type="textual">Ed.
                Bernoulli 1895</note>
-        <idno type="CTS-URN"/>
+        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
         <ref target="https://archive.org/details/devirisinlustri00jerogoog/page/n67/mode/2up"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote285-2" source="#bib285-2">
@@ -291,7 +291,7 @@
             assembled. I have also been able to have the book described to me by the Nazarenes in
             Beroea, a city in Syria, who use it.<note type="translation">Adapted from Schaff 1892
                and Halton 1999</note>
-        <idno type="CTS-URN"/>
+        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
         <ref/>
       </ab>
       <listBibl>

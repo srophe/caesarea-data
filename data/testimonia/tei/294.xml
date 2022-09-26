@@ -276,7 +276,7 @@
             appellatur. sed et a <placeName>Caesarea Palaestinae</placeName> usque ad oppidum Ioppe
             omnis terra quae cernitur, dicitur Saronas.<note type="textual">Ed. Klosterman
                1904</note>
-        <idno type="CTS-URN"/>
+        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
         <ref target="urn:cts:greekLit:tlg2018.tlg011.opp-lat1:18"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote294-2" source="#bib294-2">
@@ -285,7 +285,7 @@
             called Saronas. All the land seen from <placeName>Caesarea Palestinae</placeName> as far
             as the town Joppa is also called Saronas.<note type="translation">Trans. J. L.
                Rife</note>
-        <idno type="CTS-URN"/>
+        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
       <listBibl>

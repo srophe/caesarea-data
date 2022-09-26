@@ -285,7 +285,7 @@
             παροξύνεται, Λυκία, Πισιδία, Κιλικία, Σικελία, Παφλαγονία, Ἀρμενία, Συρία, Καππαδοκία,
             Ἰταλία, Ἀσία, Θεσσαλία, Βοιωτία, Βιθυνία, Ἰτουρία.<note>Ed. Lentz 1868 [cited by
                page-line]</note>
-            <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg0087.tlg011.1st1K-grc1:2.2.4.127</idno>
+            <note type="textual"/><note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg0087.tlg011.1st1K-grc1:2.2.4.127</idno>
             <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg0087.tlg011.1st1K-grc1:2.2.4.127"/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote214-2" source="#bib214-2">
@@ -295,7 +295,7 @@
             paroxytone: Lykia, Pisidia, Kilikia, Sikelia, Paphlagonia, Armenia, Syria, Kappadokia,
             Italia, Asia, Thessalia, Boiotia, Bithynia, Itouria.<note type="translation">Trans. J.
                L. Rife</note>
-        <idno type="CTS-URN"/>
+        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
          <listBibl>

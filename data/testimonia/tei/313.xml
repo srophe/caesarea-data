@@ -289,7 +289,7 @@
             καὶ αὐτῆς τῆς Ἑβραίων σημειώσεως, τὰ τῶν λεγομένων ῾Εξαπλῶν ἡμῖν ἀντίγραφα καταλέλοιπεν,
             ἰδίως δὲ τὴν ᾽Ακύλου καὶ Συμμάχου καὶ Θεοδοτίωνος ἔκδοσιν ἅμα τῇ τῶν οʹ ἐν τοι̂ς
             Τετραπλοι̂ς ἐπισκευάσας.<note type="textual">Ed. Adler 1933</note>
-        <idno type="CTS-URN"/>
+        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
         <ref target="https://archive.org/details/adler-a.-suidae-lexicon-3 ./Adler%20A.%2C%20Suidae%20Lexicon%203%20%28%CE%9A-%CE%9F.%20%CE%A9%29/page/n315/mode/2up"/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote313-2" source="#bib313-2">
@@ -313,7 +313,7 @@
             against one another, along with the very notations of the Hebrew scholars. He has left
             us copies of the so-called Hexapla, and prepared separately a version that contains
             Aquila and Symmachus and Theodotion together with the Seventy in the Tetrapla.<note type="translation">Adapted from SOL (trans. P. Little et al., 2000-)</note>
-        <idno type="CTS-URN"/>
+        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
         <ref target="https://www.cs.uky.edu/~raphael/sol/sol-entries/omega/182"/>
       </ab>
          <listBibl>

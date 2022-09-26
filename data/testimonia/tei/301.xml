@@ -309,7 +309,7 @@
             facti sunt. Nos etenim, iuxta Syriam Palestinam prout potuimus velificantes, post octo
             dies ad Portum Sancti Andreae in insula Cipros appulimus …<note type="textual">Ed.
                Huygens 1994</note>
-        <idno type="CTS-URN"/>
+        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
         <ref/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote301-2" source="#bib301-2">
@@ -342,7 +342,7 @@
             afterwards captured three of those same ships and enriched themselves with their spoil.
             We sailed as close as we could along the coast of Syria and Palestine, and after eight
             days they landed at the Port of St. Andrew on the island of Cyprus …<note type="translation">Rev. from Clifton 1896</note>
-        <idno type="CTS-URN"/>
+        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
       <listBibl>

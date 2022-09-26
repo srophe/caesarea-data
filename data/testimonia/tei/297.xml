@@ -283,7 +283,7 @@
             Dictenio, Porphyrio, Saturnino, Alani, Paulo, Ammonio, Heliano, alteri Paulo, Eusebio et
             omnibus, qui in Aeliae encaeniis congregati sunt, catholicis episcopis Theophilus in
             domino salutem dicit.<note type="textual">Ed. Hilberg and Slovak 1996</note>
-        <idno type="CTS-URN"/>
+        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
         <ref/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote297-2" source="#bib297-2">
@@ -294,7 +294,7 @@
             Ammonius, Aelian, the second Paul, Eusebius, and all the catholic bishops who gathered
             in Aelia to celebrate the consecration (of the Holy Sepulcher): Theophilus greets you in
             the Lord.<note type="translation">Trans. J. L. Rife</note>
-        <idno type="CTS-URN"/>
+        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
       <listBibl>

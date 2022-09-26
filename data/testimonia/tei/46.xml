@@ -286,7 +286,7 @@
             ᾱ μὲν καθαρὸν οἷον μαῖα μαίας, γραῖα γραίας, γαῖα γαίας, Μήδεια Μηδείας (τὸ γὰρ “Μηδείης
             ὑπ᾿ ἔρωτι” Ἰωνικόν ἐστι), Κράτεια Κρατείας, Ἀλεξάνδρεια Ἀλεξανδρείας,
                <placeName>Καισάρεια</placeName> Καισαρείας, Ἀντιόχεια Ἀντιοχείας.<note type="textual">Ed. Lentz 1868</note>
-            <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg0087.tlg011.1st1K-grc1:2.2.4.127</idno>
+            <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg0087.tlg011.1st1K-grc1:2.2.4.127</idno>
             <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg0087.tlg011.1st1K-grc1:2.2.4.127"/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote46-2" source="#bib46-2">
@@ -299,7 +299,7 @@
         <note type="discussion">The Greek verse
                “Medeies hyp’ eroti” is quoted from Apollonius of Rhodes, Voyage of the Argo
                3.31.</note>
-        <idno type="CTS-URN"/>
+        <note type="corrigenda"/><idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
          <listBibl>

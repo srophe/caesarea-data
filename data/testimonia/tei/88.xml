@@ -286,7 +286,7 @@
             τὸν Μωϋσέως νόμον ἐν ὀνομασίας διακρινόμενον πλειόνων ζῴων, τὴν ἀναφορὰν ἔχον ἐπὶ τὰ
             διάφορα ἤθη τῶν λογικῶν, διδάσκει τούσδε μὲν τροφίμους ἡμῖν τυγχάνειν τούσδε δὲ ἐναντίως
             ἔχειν, ἕως καθαρίσας πάντας ποιήσῃ τροφίμους ὁ θεὸς ἢ τοὺς ἀπὸ “παντὸς γένους.”<note type="textual">Ed. Koetschau 1899 </note>
-        <idno type="CTS-URN"/>
+        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
         <ref target="https://scaife.perseus.org/library/urn:cts:greekLit:tlg2042.tlg008.perseus-grc1/"/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote88-2" source="#bib88-2">
@@ -302,7 +302,7 @@
             Law of Moses in the naming of various animals, analogous to the different characters of
             rational beings, teach that some are nourishing for us but others are the opposite,
             until God has cleansed and made all, or those from “every race,” nourishing.<note type="translation">Adapted from Curtis 2001</note>
-        <idno type="CTS-URN"/>
+        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
         <ref target="http://www.ccel.org/ccel/origen/prayer.pdf"/>
       </ab>
          <listBibl>

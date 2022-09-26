@@ -278,7 +278,7 @@
             “dicamus primum de eo, quod magis in plurimis codicibus invenitur: ecce mysterium dico
             vobis: omnes quidem dormiemus, non omnes autem inmutabimur. …”<note type="textual">Ed.
                Hilberg and Slovak 1996</note>
-        <idno type="CTS-URN"/>
+        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
         <ref/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote299-2" source="#bib299-2">
@@ -289,7 +289,7 @@
             subject found in many books: Behold I speak to you of a mystery! Indeed we shall all
             sleep, but we shall not all be changed. …"<note type="translation">Trans. J. L.
                Rife</note>
-        <idno type="CTS-URN"/>
+        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
         <ref target="https://www.ccel.org/ccel/schaff/npnf206.v.LXXIX.html"/>
       </ab>
       <listBibl>

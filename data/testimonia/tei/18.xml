@@ -288,17 +288,17 @@
           <placeName xml:lang="en">Strato's Tower</placeName>
         </quote>, and <quote>
           <placeName xml:lang="en">Cesarea</placeName>
-        </quote> are place names attested in <persName ref="http://viaf.org/viaf/22143666" role="author">Josephus</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg004" type="uniform" level="m">The Jewish War</title> 1.156. This testimonium was written circa <origDate period="#nabateanKingdom #earlyRoman #herodian" notBefore="0070" notAfter="0090">70 - 90 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+        </quote> are place names attested in <persName ref="http://viaf.org/viaf/22143666" role="author">Josephus</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg004" type="uniform" level="m">The Jewish War</title> 1.156. This testimonium was written circa <origDate period="#nabateanKingdom #earlyRoman #herodian" notBefore="0070" notAfter="0090">70 - 90 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc><desc type="context"/>
       <ab type="edition" xml:lang="grc" xml:id="quote18-1" source="#bib18-1">
         <anchor xml:id="testimonia-18.grc.1" corresp="#testimonia-18.en.1"/>
         ἠλευθέρωσεν δὲ ἀπ᾽ αὐτῶν καὶ τὰς ἐντῇ μεσογείᾳ πόλεις, ὅσας μὴ φθάσαντες κατέσκαψαν, Ἵππον Σκυθόπολίν τε καὶΠέλλαν καὶ Σαμάρειαν καὶ Ἰάμνειαν καὶΜάρισαν Ἄζωτόν τε καὶ Ἀρέθουσαν, ὁμοίως δὲ καὶ τὰς παραλίους Γάζαν Ἰόππην Δῶρακαὶ τὴν πάλαι μὲν <placeName xml:lang="grc">Στράτωνος πύργον</placeName> καλουμένην, ὕστερον δὲ μετακτισθεῖσάν τεὑφ᾽ Ἡρώδου βασιλέως λαμπροτάτοις κατασκευάσμασιν καὶ μετονομασθεῖσαν <placeName xml:lang="grc">Καισάρειαν</placeName>.
-      <idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg0526.tlg004.perseus-grc1:1.156</idno>
+      <note type="textual"/><note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg0526.tlg004.perseus-grc1:1.156</idno>
         <ref target="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-grc1:1.156"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote18-2" source="#bib18-2">
         <anchor xml:id="testimonia-18.en.1" corresp="#testimonia-18.grc.1"/>
         He also made other cities free from their dominion, that lay in the midst of the country, such, I mean, as they had not demolished before that time; Hippos, and Scythopolis, as also Pella, and Samaria, and Marissa; and besides these Ashdod, and Jamnia, and Arethusa; and in like manner dealt he with the maritime cities, Gaza, and Joppa, and Dora, and that which was anciently called <placeName xml:lang="en">Strato's Tower</placeName>, but was afterward rebuilt with the most magnificent edifices, and had its name changed to <placeName xml:lang="en">Cesarea</placeName>, by king Herod
-      <idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.155</idno>
+      <note type="translation"/><note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.155</idno>
         <ref target="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.155"/>
       </ab>
       <listBibl>

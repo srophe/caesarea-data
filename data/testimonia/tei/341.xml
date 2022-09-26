@@ -293,7 +293,7 @@
             quibusdam aliis celeriter et utiliter castrum <placeName>Caesareae</placeName> firmaverunt. Templarii vero auxiliantibus peregrinis et Hospitali de domo Theotonicorum
             castrum quod prius dicibatur Filii Dei reaedificaverunt Peregrinorum vocant. Ibi in
             fossionibus ignota moneta inventa est, peregrinorum labores et sumptus allevians.<note type="textual">Ed. Bongars 1611</note>
-        <note type="corrigenda">Minor corr. J. L. Rife</note>
+        <note type="discussion"/><note type="corrigenda">Minor corr. J. L. Rife</note>
         <idno type="CTS-URN"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote341-2" source="#bib341-2">
@@ -312,7 +312,7 @@
             Castle of the Pilgrims. There in the ditches money was found unexpectedly, lightening
             the hard work and expenses of the pilgrims.<note type="translation">Adapted from Lock
                2011</note>
-        <idno type="CTS-URN"/>
+        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
       <listBibl>

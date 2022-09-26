@@ -286,7 +286,7 @@
             τῶν ἐνιαυτῶν λέγει καὶ αὐτὸς φανῆναι τὸν ὅλων σωτῆρα καὶ κύριον Ἰησοῦν Χριστόν, κατὰ τὸν
             ἀριθμὸν τῶν ἓξ ἡμερῶν τῆς πλάσεως τοῦ Ἀδάμ … <note type="textual">Ed. Thurn
                2000</note>
-        <idno type="CTS-URN"/>
+        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote134-2" source="#bib134-2">
@@ -299,7 +299,7 @@
             the Savior of all, appeared in the sixth millenium, corresponding to the number of the
             six days of Adam’s creation.<note type="translation">Adapted from Jeffreys et al.
                2017</note>
-        <idno type="CTS-URN"/>
+        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
          <listBibl>

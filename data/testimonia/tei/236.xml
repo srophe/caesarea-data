@@ -287,7 +287,7 @@
             Herodes turrim, quae Ierosolimam supereminet, quae et Turris David dicitur, Iosepho
             attestante fabricavit eamque Antoniam vocavit.<note type="textual">Ed. Huygens
                1994</note>
-        <idno type="CTS-URN"/>
+        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote236-2" source="#bib236-2">
@@ -298,7 +298,7 @@
             of Augustus Caesar. Herod himself built the tower that dominates Jerusalem, also called
             the Tower of David. Josephus tells us that he built this Tower and called it
                Antonia.<note type="translation">Adapted from Stewart 1896</note>
-        <idno type="CTS-URN"/>
+        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
       <listBibl>

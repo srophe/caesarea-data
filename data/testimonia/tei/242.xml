@@ -272,7 +272,7 @@
       <ab type="edition" xml:lang="grc" xml:id="quote242-1" source="#bib242-1">
         <anchor xml:id="testimonia-242.grc.1" corresp="#testimonia-242.en.1"/>Ἔκτισε δὲ καὶ ἐν <placeName>Καισαρείᾳ τῆς Παλαιστίνης</placeName> λουτρόν, καὶ ἐν Νικομηδείᾳ τῆς Βιθυνίας καὶ ἐν Ἐφέσῳ τῆς Ἀσίας· ἅπερ δημόσια λουτρὰ εἰς
             τὸ ἴδιον ἐπεκάλεσεν ὄνομα.<note type="textual">Ed. Thurn 2000</note>
-        <idno type="CTS-URN"/>
+        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote242-2" source="#bib242-2">
@@ -280,7 +280,7 @@
                Palestine</placeName> and at Nicomedia of Bithynia and at Ephesus in Asia. These
             public baths he named after himself.<note type="translation">Adapted from Jeffreys et
                al. 2017</note>
-        <idno type="CTS-URN"/>
+        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
       <listBibl>

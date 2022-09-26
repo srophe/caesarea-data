@@ -279,7 +279,7 @@
             de Alexandria ad <placeName>Caesariam Palaestinae</placeName> transit IICCL XII (b)
             Romanae ecclesiae XVII episcopatum suscipit Pontianus ann(is) V XIII (c) Alexander
             occiditur Mogontiaci tumultu militari.<note type="textual">Ed. Helm 1956</note>
-        <note type="corrigenda">Minor corr. J. L. Rife</note>
+        <note type="discussion"/><note type="corrigenda">Minor corr. J. L. Rife</note>
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -294,7 +294,7 @@
             episcopate of the Church of Rome for four years. [235 C.E.] 13 (c) Alexander is killed
             at Moguntiacum in a military uprising.<note type="translation">Trans. J. L. Rife with
                ref. to Pearse 2005</note>
-        <idno type="CTS-URN"/>
+        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
         <ref target="http://www.tertullian.org/fathers/jerome_chronicle_03_part2.htm"/>
       </ab>
       <listBibl>

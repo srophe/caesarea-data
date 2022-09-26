@@ -293,7 +293,7 @@
             venimus in civitatem splendidissimam Apamiam, in qua est omnis nobilitas Syrorum.<note type="textual">Ed. Guyer 1965</note>
         <note type="textual">Sangallensis 133, Turicensis
                73 (9th-10th centuries) </note>
-        <idno type="CTS-URN"/>
+        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote62-2" source="#bib62-2">
@@ -311,7 +311,7 @@
             through the cities of Larissa, Aristosa, and Epifania, we came to the most magnificent
             city of Apamia, where all the nobles of Syria dwell. <note type="translation">Adapted
                from Stewart 1887</note>
-        <idno type="CTS-URN"/>
+        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
          <listBibl>

@@ -291,7 +291,7 @@
             eminentem, similiter et Laodiciam et Tyrum et Berytum et <placeName>Caesaream</placeName>. Et Laodicia mittit aliis civitatibus agitatores
             optimos, Tyrus et Berytus mimarios, <placeName>Caesarea</placeName> pantomimos,
             Heliopolis choraulas, Gaza pammacarios, Ascalon athletas luctatores, Castabala pyctas.<note type="textual">Ed. Rougé 1966</note>
-        <idno type="CTS-URN"/>
+        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
         <ref/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote227-2" source="#bib227-2">
@@ -318,7 +318,7 @@
                of vocal expression. Latin calopecta (A) transliterating Greek καλοπαίκτης refers to
                an acrobat. Latin pycta (B) transliterating Greek παίκτης refers generically to a
                performer or “player.”</note>
-        <idno type="CTS-URN"/>
+        <note type="corrigenda"/><idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
       <listBibl>

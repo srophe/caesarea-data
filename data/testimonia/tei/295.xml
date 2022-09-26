@@ -286,7 +286,7 @@
             psalmo proposuisti, qui esset “panis doloris” in eo, quod dicitur: “in vanum vobis est
             ante lucem surgere, surgere, postquam sederitis, qui manducatis panem doloris,”
             ostenderem me de Origenis commentariis, quid senserit, non habere.<note type="textual">Ed. Hilberg and Slovak 1996</note>
-        <idno type="CTS-URN"/>
+        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote295-2" source="#bib295-2">
@@ -309,7 +309,7 @@
         <note type="discussion">In
                translation we use B for "bread of sorrow", but the text has p ("phe") for "panis
                doloris".</note>
-        <idno type="CTS-URN"/>
+        <note type="corrigenda"/><idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
       <listBibl>

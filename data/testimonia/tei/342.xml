@@ -295,7 +295,7 @@
             etiam tempore Philippus de Ybelyn, qui a morta Hugonis regis Cypri baylivus regni
             fuerate, mortuus est. Imperatrix vero MCCXIII—enixa est puerum vocatum Conradum in quo
             Ierosolymitani regni ius remansit—eo vero herede relicto, defuncta est.<note type="textual">Ed. Bongars 1611</note>
-        <note type="corrigenda">Minor corr. J. L. Rife</note>
+        <note type="discussion"/><note type="corrigenda">Minor corr. J. L. Rife</note>
         <idno type="CTS-URN"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote342-2" source="#bib342-2">
@@ -315,7 +315,7 @@
             since the death of King Hugh had been the regent of the Kingdom (of Cyprus), died. And
             in 1228 the empress (sc. Isabella II)—she had given birth to a boy named Conrad, in whom
             continued the rule of the Kingdom of Jerusalem—died, leaving him behind as heir.<note type="translation">Adapted from Lock 2011</note>
-        <idno type="CTS-URN"/>
+        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
       <listBibl>

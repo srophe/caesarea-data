@@ -285,7 +285,7 @@
             “Συνεχῶς δʼ ἐστὶ <placeName>Στράτωνος πύργος</placeName>, εἶτα ἔνι Δῶρα, ἐπὶ
             χερσονησοειδοῦς τόπου κείμενον πολισμάτιον, ἀρχομένου τοῦ ὄρους τοῦ Καρμήλου.” Καὶ ἐν θʹ
             Γεωγραφουμένων τὸ αὐτό.<note type="textual">Ed. Stiehl 1856</note>
-            <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg4003.tlg003.1st1K-grc1:3</idno>
+            <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg4003.tlg003.1st1K-grc1:3</idno>
             <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg4003.tlg003.1st1K-grc1:3"/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote47-2" source="#bib47-2">
@@ -294,7 +294,7 @@
             Artemidorus mentions the city Dora in Epitome of 11 books: “Continuing on is
                <placeName>Straton’s Tower</placeName>, and then Dora, a town situated on the
             peninsula where Mount Carmel begins.” And the same thing in Geography 9.<note type="translation">Trans. J. L. Rife</note>
-        <idno type="CTS-URN"/>
+        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
          <listBibl>

@@ -285,17 +285,17 @@
           <placeName xml:lang="grc">Καισάρειαν</placeName>
         </quote>, and <quote>
           <placeName xml:lang="en">that Cesarea which was on the seaside</placeName>
-        </quote> are place names attested in <persName ref="http://viaf.org/viaf/22143666" role="author">Josephus</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg004" type="uniform" level="m">The Jewish War</title> 7.36. This testimonium was written circa <origDate period="#nabateanKingdom #earlyRoman #herodian" notBefore="0070" notAfter="0090">70 - 90 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+        </quote> are place names attested in <persName ref="http://viaf.org/viaf/22143666" role="author">Josephus</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg004" type="uniform" level="m">The Jewish War</title> 7.36. This testimonium was written circa <origDate period="#nabateanKingdom #earlyRoman #herodian" notBefore="0070" notAfter="0090">70 - 90 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc><desc type="context"/>
       <ab type="edition" xml:lang="grc" xml:id="quote37-1" source="#bib37-1">
         <anchor xml:id="testimonia-37.grc.1" corresp="#testimonia-37.en.1"/>
         Καίσαρι δὲ εἰς τὴν παράλιονἐπανελθόντι <placeName xml:lang="grc">Καισάρειαν</placeName> Σίμων προσήχθηδεδεμένος: κἀκεῖνον μὲν εἰς ὃν ἐπιτελεῖν ἐνῬώμῃ παρεσκευάζετο θρίαμβον προσέταξεφυλάττειν.
-      <idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg0526.tlg004.perseus-grc1:7.36</idno>
+      <note type="textual"/><note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg0526.tlg004.perseus-grc1:7.36</idno>
         <ref target="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-grc1:7.36"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote37-2" source="#bib37-2">
         <anchor xml:id="testimonia-37.en.1" corresp="#testimonia-37.grc.1"/>
         But for Simon, he was brought to Caesar in bonds, when he was come back to <placeName xml:lang="en">that Cesarea which was on the seaside</placeName>, who gave orders that he should be kept against that triumph which he was to celebrate at Rome upon this occasion.
-      <idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:7.26</idno>
+      <note type="translation"/><note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:7.26</idno>
         <ref target="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:7.26"/>
       </ab>
       <listBibl>

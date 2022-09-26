@@ -283,7 +283,7 @@
                Καισάρειαν</placeName> Κορνήλιος σὺν ὅλῳ τῷ οἰκῷ αὐτοῦ δι’ ἐπιφανείας θείας, ὑπουργίᾳ
             δὲ Πέτρου τοῦ ἀποστόλου, τὴν εἰς Χριστὸν πίστιν κατεδέξατο.<note type="textual">Ed.
                Dindorf 1832</note>
-        <idno type="CTS-URN"/>
+        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
         <ref/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote248-2" source="#bib248-2">
@@ -294,7 +294,7 @@
                Palestinae</placeName>, along with his entire household, through divine epiphany and
             with the helpful service of Peter the Apostle.<note type="translation">Trans. J. L.
                Rife</note>
-        <idno type="CTS-URN"/>
+        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
       <listBibl>

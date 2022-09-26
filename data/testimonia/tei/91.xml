@@ -299,7 +299,7 @@
             ἀποδέδειχεν. <note type="textual">Ed. Gressmann 1904</note>
         <note type="textual">Checked
                against Gressmand and Laminski 1992</note>
-            <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg010.1st1K-grc1</idno>
+            <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg010.1st1K-grc1</idno>
             <ref target="https://scaife.perseus.org/reader/urn:cts:greekLit:tlg2018.tlg010.1st1K-grc1:6"/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote91-2" source="#bib91-2">
@@ -321,7 +321,7 @@
             Italy and all neighboring nations, he appointed his student Mark to be teacher and
             netcaster in Egypt.<note type="translation">Trans. J. L. Rife with ref. to Lee
                1843</note>
-        <idno type="CTS-URN"/>
+        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
         <ref target="http://www.tertullian.org/fathers/eusebius_theophania_05book4.htm"/>
       </ab>
          <listBibl>

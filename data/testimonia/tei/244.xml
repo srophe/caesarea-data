@@ -289,7 +289,7 @@
                gives the reading of Codex Boccianus 182 at Oxford (12th century), which varies
                throughout from the parallel passage at Constantine Porphyrogenitus, Plots
                173.13-29.</note>
-        <idno type="CTS-URN"/>
+        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote244-2" source="#bib244-2">
@@ -306,7 +306,7 @@
             some, beheaded others, cut off the right hands of others, and confiscated the property
             of others. And there was great fear in the city of Caesarea and the eastern
                regions.<note type="translation">Adapted from Jeffreys et al. 2017</note>
-        <idno type="CTS-URN"/>
+        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
       <listBibl>

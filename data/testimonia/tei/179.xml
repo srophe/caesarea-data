@@ -323,7 +323,7 @@
             aubergent males gens aucune ssois por tallier le chamin à ceaus qui vont à Iaphe.<note type="textual">Ed. Michelant and Raynaud 1882</note>
         <note type="textual">Bibliotheca
                Apostolica Vaticana 3136, folios 19-25</note>
-        <idno type="CTS-URN"/>
+        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
         <ref target="https://archive.org/details/itinrairesajrus00parigoog/page/n227/mode/2up"/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote179-2" source="#bib179-2">
@@ -370,7 +370,7 @@
         <note type="discussion">Pringle (2018, pp. 41, 211 n. 16) identifies the “baron of the
                kingdom” (baron dou roiaume) as John Laleman, who last held Caesarea before its fall
                to Baybars in 1265.</note>
-        <idno type="CTS-URN"/>
+        <note type="corrigenda"/><idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
          <listBibl>

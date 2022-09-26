@@ -269,16 +269,16 @@
           <placeName xml:lang="grc">Καισαρείας</placeName>
         </quote>, and <quote>
           <placeName xml:lang="en">Caesarea</placeName>
-        </quote> are place names attested in <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Ecclesiastical History</title> 6.8.4. This testimonium was written circa <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
+        </quote> are place names attested in <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Ecclesiastical History</title> 6.8.4. This testimonium was written circa <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc><desc type="context"/>
       <ab type="edition" xml:lang="grc" xml:id="quote101-1" source="#bib101-1">
         <anchor xml:id="testimonia-101.grc.1" corresp="#testimonia-101.en.1"/>ἀλλὰ τότε μὲν οὗτος τοιοῦτός τις ἦν. οὐ μακροῖς δὲ χρόνοις ὕστερον ὁ αὐτὸς ὁρῶν εὖ πράττοντα, μέγαν τε καὶ λαμπρὸν καὶ παρὰ πᾶσιν ὄντα βεβοημένον, ἀνθρώπινόν τι πεπονθὼς τοῖς ἀνὰ τὴν οἰκουμένην ἐπισκόποις καταγράφειν ὡς ἀτοπωτάτου τοῦ πραχθέντος αὐτῷ ἐπειρᾶτο, ὅτε γε τῶν κατὰ Παλαιστίνην οἱ μάλιστα δόκιμοι καὶ διαπρέποντες <placeName xml:lang="grc">Καισαρείας</placeName> τε καὶ Ἱεροσολύμων ἐπίσκοποι πρεσβείων τὸν Ὠριγένην καὶ τῆς ἀνωτάτω τιμῆς ἄξιον εἶναι δοκιμάσαντες χεῖρας εἰς πρεσβυτέριον αὐτῷ τεθείκασι.
-        <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg002.1st1K-grc2:6.8.4</idno>
+        <note type="textual"/><note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg002.1st1K-grc2:6.8.4</idno>
         <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2018.tlg002.1st1K-grc2:6.8.4"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote101-2" source="#bib101-2">
         <anchor xml:id="testimonia-101.en.1" corresp="#testimonia-101.grc.1"/>Such indeed was his attitude at that time. But not Iong afterwards, when the same person saw that he was prospering and a great man and distinguished and famous in the sight of all, overcome by a human weakness, he attempted to describe the deed as monstrous to the bishops throughout the world, when the most highly approved and distinguished bishops in Palestine, namely those of <placeName xml:lang="en">Caesarea</placeName> and Jerusalem, deeming Origen worthy of privilege and the highest honor, ordained him to the presbyterate by laying on hands.
         <note type="translation">Translation corrected and adapted from its source.</note>
-        <note type="corrigenda">Inaccuracies found in the transcription of the electronic text compared to its printed source have been corrected.</note>
+        <note type="discussion"/><note type="corrigenda">Inaccuracies found in the transcription of the electronic text compared to its printed source have been corrected.</note>
         <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg002.1st1K-eng1:6.8</idno>
         <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2018.tlg002.1st1K-eng1:6.8"/>
       </ab>

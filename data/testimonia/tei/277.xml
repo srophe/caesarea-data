@@ -274,7 +274,7 @@
         <anchor xml:id="testimonia-277.la.1" corresp="#testimonia-277.en.1"/>Romanorum XII ….. CCXXVII Olymp(ias) (a) Nicopolis et <placeName>Caesarea</placeName> terrae motu conciderunt XIII (b) Antinous puer regius
             eximiae pulchritudinis in Aegypto moritur. Quem Hadrianus vehementer deperiens—nam in
             deliciis habuerat—in deos refert. Ex cuius nomine etiam urbs appellata est<note type="textual">Ed. Helm 1956</note>
-        <note type="corrigenda">Minor corr. J. L. Rife</note>
+        <note type="discussion"/><note type="corrigenda">Minor corr. J. L. Rife</note>
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -285,7 +285,7 @@
             dejected, for he considered (Antinous) his favorite, enlists him into the ranks of the
             gods. There was furthermore a city named after him.<note type="translation">Trans. J.
                L. Rife with ref. to Pearse 2005</note>
-        <idno type="CTS-URN"/>
+        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
         <ref target="http://www.tertullian.org/fathers/jerome_chronicle_03_part2.htm"/>
       </ab>
       <listBibl>

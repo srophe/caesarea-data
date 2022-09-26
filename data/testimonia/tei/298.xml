@@ -285,7 +285,7 @@
             θεοῦ” πρὸς αὐτὸν ἀπεκρίντο, τὸ τῆς ἀγάπης ἐντεῦθεν διάπυρον ἐνδεικνύμενος.<note type="textual">Ed. Allatius 1875</note>
         <note type="discussion">Bibliotheca
                Vallicelliana Romae 158 (Chios, 15th century)</note>
-        <idno type="CTS-URN"/>
+        <note type="corrigenda"/><idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote298-2" source="#bib298-2">
@@ -294,7 +294,7 @@
             expenditure having been incurred by Herod for its construction. Here Christ asked the
             Apostles, “ Whom do people say that I, the Son of man, am?” And Peter answered him, “You
             are the Christ, the Son of God,” demonstrating thereby the fervor of his love.<note type="translation">Adapted from Stewart 1896</note>
-        <idno type="CTS-URN"/>
+        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
       <listBibl>

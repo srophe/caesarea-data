@@ -286,7 +286,7 @@
             olim <placeName>Turris Stratonis</placeName> nuncupata, montana Cayphas, cui opidum
             eiusdem nominis admodum dirutum adiacet …<note type="textual">Ed. Huygens
                1994</note>
-        <idno type="CTS-URN"/>
+        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
         <ref/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote251-2" source="#bib251-2">
@@ -300,7 +300,7 @@
             is now called <placeName>Caesarea Palestinae</placeName> and was once called <placeName>Strato’s Tower</placeName>; and the Mount Cayphas, near which sits a
             ruined town of the same name …<note type="translation">Adapted from Stewart
                1896</note>
-        <idno type="CTS-URN"/>
+        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
       <listBibl>

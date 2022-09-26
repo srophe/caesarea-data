@@ -275,7 +275,7 @@
             αὐτῆς Ἰουδαϊκῆς πραίδας ὁ αὐτὸς Οὐεσπασιανὸς ᾠδεῖον μέγα πάνυ, θεάτρου ἔχον διάστημα
             μέγα, ὄντος καὶ αὐτοῦ τοῦ τόπου πρῴην συναγωγῆς τῶν Ἰουδαίων.<note type="textual">Ed.
                Thurn 2000</note>
-        <idno type="CTS-URN"/>
+        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote241-2" source="#bib241-2">
@@ -283,7 +283,7 @@
             odeum in <placeName>Caesarea of Palestine</placeName>, the size of a large theater. Its
             site too had previously been that of a Jewish synagogue.<note type="translation">Adapted
                from Jeffreys et al. 2017</note>
-        <idno type="CTS-URN"/>
+        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
       <listBibl>

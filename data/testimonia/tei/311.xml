@@ -314,7 +314,7 @@
                Iaffe.<note type="textual">Ed. Michelant and Raynaud 1882</note>
         <note type="textual">Paris, Bibliothèque Nationale, fr. 9082 (anc. supp. fr. 104, Noailles), folios
                343a-435a (Rome, dated May 1295)</note>
-        <idno type="CTS-URN"/>
+        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
         <ref target="https://archive.org/details/itinrairesajrus00parigoog/page/n129/mode/2up"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote311-2" source="#bib311-2">
@@ -360,7 +360,7 @@
             a cut rock, a bad place where bad people encamp from time to time to rob and to cut off
             the road to those going to Iaphe.<note type="translation">Adapted from Pringle
                2018</note>
-        <idno type="CTS-URN"/>
+        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
         <ref/>
       </ab>
       <listBibl>

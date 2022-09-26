@@ -273,14 +273,14 @@
         <anchor xml:id="testimonia-237.la.1" corresp="#testimonia-237.en.1"/>Item ab Ierusalem, sic: civitas Nicopoli mil. XXII civitas Lidda mil. X
             mutatio Antipatrida mil. X mutatio Batthar mil. X civitas <placeName>Caesarea</placeName> mil. XVI<note type="textual">Ed. Cuntz
                1929</note>
-        <idno type="CTS-URN"/>
+        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
         <ref/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote237-2" source="#bib237-2">
         <anchor xml:id="testimonia-237.en.1" corresp="#testimonia-237.la.1"/>Likewise from Jerusalem it goes: City: Nicopoli 22 miles City: Lidda
             10 miles Exchange: Antipatrida 10 miles Exchange: Matthar 10 miles City: <placeName>Caesarea</placeName> 16 miles<note type="translation">Trans. J. L.
                Rife</note>
-        <idno type="CTS-URN"/>
+        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
       <listBibl>
