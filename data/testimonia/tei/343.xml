@@ -293,7 +293,8 @@
             destruxerunt Bethsan, et plura casalia, et terram undique comburentes, hominum ac
             iumentorum magnam egerunt praedam. Eodem anno XXVI. Ianuarii Bendocdar cepit <placeName>Caesaream</placeName> per proditionem, cuius timore Ptolomenses turrim
             molendinorum prosternunt et ecclesiam Sancti Nicolai in cimiterio.<note type="textual">Ed. Bongars 1611</note>
-        <note type="discussion"/><note type="corrigenda">Minor corr. J. L. Rife</note>
+        <note type="discussion"/>
+        <note type="corrigenda">Minor corr. J. L. Rife</note>
         <idno type="CTS-URN"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote343-2" source="#bib343-2">
@@ -308,7 +309,9 @@
             humanity and livestock. In the same year on January 26 Bendocdar took <placeName>Caesarea</placeName> by treachery. Out of their fear of him the people of
             Acre tore down the tower of windmills and the Church of Saint Nicholas in the
                cemetery.<note type="translation">Adapted from Lock 2011</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
       <listBibl>
@@ -321,6 +324,49 @@
         <bibl xml:id="bib343-2">
           <ptr target="https://caesarea-maritima.org/bibl/46ITBHCT"/>
           <citedRange unit="p">351</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

@@ -295,7 +295,9 @@
                Stauffenberg (1931) added ἰδίοις ἀναλώμασιν (“at his own expense”) after λευκαῖς
                πλάκαις. J. L. Rife has omitted it here as an unnecessary interpolation from the
                Slavonic translation (10th/11th century) and John of Nikiu 66.2. </note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote133-2" source="#bib133-2">
@@ -306,7 +308,9 @@
             city formerly called Strato’s Tower, while Archaelaos, king and local ruler, named
             Caesarea in Cappadocia the city formerly called Mazaca.<note type="translation">Adapted
                from Jeffreys et al. 2017</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
          <listBibl>
@@ -326,6 +330,36 @@
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/ZV9XT3GX"/>
           <citedRange unit="p">8-9</citedRange>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
       <note type="related-texts">

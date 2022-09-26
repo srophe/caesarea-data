@@ -276,7 +276,9 @@
         <anchor xml:id="testimonia-266.grc.1" corresp="#testimonia-266.en.1"/>Τούτῳ τῷ ἔτει Μάξιμον τὸν Ἱεροσολύμων καθεῖλεν Ἀκάκιος ὁ <placeName>Καισαρείας</placeName> καὶ Πατρόφιλος ὁ Σκυθοπόλεως Ἀρειανοὶ ὄντες, καὶ
             ἀντεισήγαγον Κύριλλον δοκοῦντες ἔχειν αὐτὸν ὁμόφρονα.<note type="textual">Ed. de Boor
                1883</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote266-2" source="#bib266-2">
@@ -284,7 +286,9 @@
             Patrophilos of Scythopolis, being Arians, deposed Maximus of Jerusalem and replaced him
             with Cyril, whom they believed to be of their persuasion.<note type="translation">Rev.
                Mango, Scott, and Greatrex 1997</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
       <listBibl>
@@ -296,6 +300,49 @@
         <bibl xml:id="bib266-2">
           <ptr target="https://caesarea-maritima.org/bibl/9634RWJV"/>
           <citedRange unit="p">70</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

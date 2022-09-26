@@ -290,7 +290,9 @@
             Ἀμαντίῳ τῷ στρατηλάτῃ κατελθεῖν ἐν Παλαιστίνῃ καὶ τὸν φόνον τοῦ Στεφάνου ἐκζητῆσαι·
             ὅστις εὑρὼν τοὺς μὲν ἐφούρκισεν, τοὺς δὲ ἀπεκεφάλισεν, τοὺς δὲ ἠκρωτηρίασε καὶ
             ἐδήμευσεν. καὶ ἐγένετο φόβος μέγας ἐν πᾶσι τοῖς ἀνατολικοῖς μέρεσιν. <note type="textual">Ed. de Boor 1883</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote59-2" source="#bib59-2">
@@ -304,7 +306,9 @@
             Amantius, the magister militum, to go down to Palestine and investigate Stephen's
             murder. Having found the culprits, Amantius hanged some, beheaded some, mutilated some,
             and fined others. So great fear prevailed in all the eastern parts. <note type="translation">Trans. Mango, Scott, and Greatrex 1997</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
          <listBibl>
@@ -316,6 +320,49 @@
         <bibl xml:id="bib59-2">
           <ptr target="https://caesarea-maritima.org/bibl/9634RWJV"/>
           <citedRange unit="p">337-338</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
       <note type="related-texts">

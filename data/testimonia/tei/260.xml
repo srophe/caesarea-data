@@ -285,7 +285,8 @@
             nomine totius parti attributo. Septima Syria est alia Palestina: cuius metropolis est
             Bethsan, sita sub monte Gelboe iuxta Iordanem; quae Galilea et campus magnus
                Esdrelon.<note type="textual">Ed. Bongars 1611</note>
-        <note type="discussion"/><note type="corrigenda">Minor corr. J. L. Rife</note>
+        <note type="discussion"/>
+        <note type="corrigenda">Minor corr. J. L. Rife</note>
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -299,7 +300,9 @@
             being given to the whole. The Seventh Syria is the third Palestine. Its chief city is
             Beth Shan, located below Mount Gilboa near the Jordan. It contains Galilee and the great
             plain of Esdrelon.<note type="translation">Adapted from Lock 2011</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
       <listBibl>
@@ -312,6 +315,49 @@
         <bibl xml:id="bib260-2">
           <ptr target="https://caesarea-maritima.org/bibl/46ITBHCT"/>
           <citedRange unit="p">389</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

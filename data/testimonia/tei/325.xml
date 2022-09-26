@@ -297,7 +297,9 @@
             τούτου ὥσπερ μακρᾶς ὁδοιπορίας διασώζων ἡμᾶς, παραμειψάμενος τά τε ἄλλα καὶ τὴν Βηρυτόν,
             ἧς μάλιστα ⟨ἕνεκα⟩ ὁρμᾶν ἐνταῦθα ᾠήθημεν, ἐνταῦθα φέρων κατεστήσατο· πάντα ποιῶν καὶ
             κινῶν, ἕως πάσῃ μηχανῇ τῷ τῶν πολλῶν ἡμῖν ἀγαθῶν αἰτίῳ τούτῳ συνδήσεται.<note type="textual">Ed. Crouzel 1969</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote325-2" source="#bib325-2">
@@ -330,7 +332,9 @@
             adjusting all circumstances until by any means he might bind us to this man who was to
             be the source of all our blessings.<note type="translation">Adapted from Salmond
                1886</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref target="https://ccel.org/ccel/schaff/anf06/anf06.iii.iii.iv.v.html"/>
       </ab>
          <listBibl>
@@ -343,6 +347,49 @@
         <bibl xml:id="bib325-2">
           <ptr target="https://caesarea-maritima.org/bibl/RTCA5XRS"/>
           <citedRange unit="p">26</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
       <note type="related-texts">

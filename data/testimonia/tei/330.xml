@@ -294,7 +294,9 @@
             χρήσιμα ἐσόμενα εἰς τὴν τῶν ἱερῶν γραφῶν διήγησιν· ἵν’, ὅπερ φασὶ φιλοσόφων παῖδες περὶ
             γεωμετρίας καὶ μουσικῆς γραμματικῆς τε καὶ ῥητορικῆς καὶ ἀστρονομίας, ὡς συνερίθων
             φιλοσοφίᾳ, τοῦθ’ἡμεῖς εἴπωμεν καὶ περὶ αὐτῆς φιλοσοφίας πρὸς χριστιανισμόν.<note type="textual">Ed. Koetschau 1894</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref target="https://archive.org/details/desgregoriosthau00greg/page/40/mode/2up"/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote330-2" source="#bib330-2">
@@ -312,7 +314,9 @@
             rhetoric, and astronomy are ancillary to philosophy, we say that philosophy is ancillary
             to Christianity.<note type="translation">Trans. J. L. Rife with ref. to Menzies
                1899</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
          <listBibl>
@@ -325,6 +329,49 @@
         <bibl xml:id="bib330-2">
           <ptr target="https://caesarea-maritima.org/bibl/CIWLGVXY"/>
           <citedRange unit="p">295</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
       <note type="related-texts">

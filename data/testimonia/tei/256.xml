@@ -274,13 +274,17 @@
         <anchor xml:id="testimonia-256.la.1" corresp="#testimonia-256.en.1"/>Hec ergo via, que ab Achon per Nazareth et Samariam atque Neapolim
             Ierosolimam ducit, ‘superior’ vocatur, et illa que per <placeName>Cesaream</placeName> et Liddam ab Achon Ierosolimam tendit ‘Maritima’ appellatur.<note type="textual">Ed.
                Huygens 1994</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote256-2" source="#bib256-2">
         <anchor xml:id="testimonia-256.en.1" corresp="#testimonia-256.la.1"/>Now this road which leads from Accon through Nazareth, Samaria, and
             Neapolis to Jerusalem is called the High Road; and that which leads from Achon through <placeName>Caesarea</placeName> and Lidda to Jerusalem is called the Coastal Road.<note type="translation">Adapted from Stewart 1896</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
       <listBibl>
@@ -294,6 +298,49 @@
           <ptr target="https://caesarea-maritima.org/bibl/KZEMGJVT"/>
           <citedRange unit="p">58-59</citedRange>
           <citedRange unit="section">39</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

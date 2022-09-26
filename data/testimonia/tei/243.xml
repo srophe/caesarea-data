@@ -293,7 +293,8 @@
                not the medieval Slavonic translations or the parallel passages at Const. Porphyr. or
                the Eastern Chronicle 603.19-604.13; Thurn sets it apart thus with curly
                brackets.</note>
-        <note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote243-2" source="#bib243-2">
@@ -309,7 +310,8 @@
             military post, and confiscated the property of their wealthy. There was fear and peace.<note type="translation">Adapted from Jeffreys et al. 2017</note>
         <note type="discussion">J. L. Rife adapted the translation by Jeffreys, Jeffreys, and Scott
                in places to follow Thurn’s text.</note>
-        <note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
       <listBibl>
@@ -323,6 +325,49 @@
           <ptr target="https://caesarea-maritima.org/bibl/YYEJCD9W"/>
           <citedRange unit="bk">15.8</citedRange>
           <citedRange unit="p">212</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

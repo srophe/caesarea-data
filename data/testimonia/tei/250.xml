@@ -290,7 +290,9 @@
             δεσποίνης ἡμῶν τῆς θεοτόκου καὶ ἀειπαρθένου Μαρίας, ἀνανεώσας καὶ τὸν οἶκον τοῦ ἁγίου
             Προκοπίου, ποιήσας διάταξιν μὴ στρατεύεσθαι Σαμαρείτην, δημεύσας τοὺς εὐπόρους αὐτῶν.
             καὶ ἐγένετο φόβος καὶ εἰρήνη.<note type="textual">Ed. Dindorf 1832</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote250-2" source="#bib250-2">
@@ -308,7 +310,9 @@
             an edict that a Samaritan could not hold a military post, and confiscated the property
             of their wealthy. And there was fear and peace.<note type="translation">Rev. from Whitby
                and Whitby 1989</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
       <listBibl>
@@ -321,6 +325,49 @@
           <ptr target="https://caesarea-maritima.org/bibl/6IT6FWAK"/>
           <citedRange unit="p">95-96</citedRange>
           <citedRange unit="section">484</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

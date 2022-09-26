@@ -288,7 +288,9 @@
             Antichristum esse periturum unde Dominus ascendit ad caelos.<note type="textual">Ed.
                Glorie 1964</note>
         <note type="textual">Minor corr. J. L. Rife</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote323-2" source="#bib323-2">
@@ -308,7 +310,9 @@
             the Father—“and no one will be able to assist the Antichrist, as the Lord vents his fury
             against him.” Our school insists that the Antichrist will perish in that place from
             which the Lord ascended to heaven.<note type="translation">Rev. Archer 1958</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref target="http://www.tertullian.org/fathers/jerome_daniel_02_text.htm"/>
       </ab>
          <listBibl>
@@ -320,6 +324,49 @@
         </bibl>
         <bibl xml:id="bib323-2">
           <ptr target="https://caesarea-maritima.org/bibl/NKTKC9A9"/>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
       <note type="related-texts">

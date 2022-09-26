@@ -283,7 +283,8 @@
         <anchor xml:id="testimonia-303.la.1" corresp="#testimonia-303.en.1"/>In XXVII Caypha (de quo part. VI cap. III). In XXX Castrum Peregrinoum.
             In XL <placeName>Caesarea</placeName>. In XLVII Arsur sive Dora vel Antipatrida. In LII
                Iopen.<note type="textual">Ed. Bongars 1611</note>
-        <note type="discussion"/><note type="corrigenda">Minor corr. J. L. Rife</note>
+        <note type="discussion"/>
+        <note type="corrigenda">Minor corr. J. L. Rife</note>
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -291,7 +292,9 @@
         <anchor xml:id="testimonia-303.en.1" corresp="#testimonia-303.la.1"/>In (square) 27 is Caypha (see 3.6.3). In 30 is Pilgrims’ Castle. In
             40 is <placeName>Caesarea</placeName>. In 47 is Assur or Dora or Antipatris. In 52
                Joppa.<note type="translation">Adapted from Lock 2011</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
       <listBibl>
@@ -304,6 +307,49 @@
         <bibl xml:id="bib303-2">
           <ptr target="https://caesarea-maritima.org/bibl/46ITBHCT"/>
           <citedRange unit="p">398</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

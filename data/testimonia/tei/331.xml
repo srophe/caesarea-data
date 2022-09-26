@@ -292,7 +292,9 @@
             θεὸν διδάσκαλον ὑπηχοῦντα ἐν τῷ ἀδύτῳ τῆς ψυχῆς ἡμῶν παρεῖναι εὐχόμενοι, ἵνα τέλος λάβῃ
             ἡ τῆς διηγήσεως τοῦ κατὰ Ἰωάννην εὐαγγελίου οἰκοδομή.<note type="textual">Ed. Blanc 1970
                </note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref target="https://archive.org/details/desgregoriosthau00greg/page/40/mode/2up"/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote331-2" source="#bib331-2">
@@ -315,7 +317,9 @@
             that the building I have begun—the interpretation of the Gospel of John—may be
                finished.<note type="translation">Trans. J. L. Rife with ref. to Menzies
                1899</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
          <listBibl>
@@ -328,6 +332,49 @@
         <bibl xml:id="bib331-2">
           <ptr target="https://caesarea-maritima.org/bibl/D2P5ND4C"/>
           <citedRange unit="p">349-350</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
       <note type="related-texts">

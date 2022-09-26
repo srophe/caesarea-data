@@ -276,7 +276,9 @@
             vero Palestinae ab Ierusalem quamvis aliqua reperriantur angusta et brevia aspera loca,
             precipue tamen planities camporum interpositis olivetis. Distant autem LXX milibus
             passuum. <note type="textual">Ed. Fraipont 1965</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote309-2" source="#bib309-2">
@@ -287,7 +289,9 @@
             found rough spots over narrow, short stretches, by and large the plains are flat, with
             olive trees spread about. The distance is 75 miles.<note type="translation">Trans. J. L.
                Rife</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref/>
       </ab>
          <listBibl>
@@ -296,6 +300,49 @@
           <ptr target="https://caesarea-maritima.org/bibl/H7V4VYA2"/>
           <citedRange unit="ch">5</citedRange>
           <citedRange unit="section">1</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
       <note type="related-texts">

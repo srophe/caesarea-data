@@ -283,7 +283,9 @@
             δὲ τὸ πρὶν ὁ ἄθλιος· τυφθεὶς δὲ ὑπὸ Χριστιανῶν ἐν <placeName>Καισαρείᾳ τῆς
                Παλαιστίνης</placeName> κατ’ ὀργὴν μετῆλθεν εἰς τὸν ἑλληνισμόν, καὶ τότε γράψαι κατὰ
             τῆς ἀληθείας ὁ κύων ἐτόλμησεν.<note type="textual">Ed. de Boor 1883</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote267-2" source="#bib267-2">
@@ -291,7 +293,9 @@
             Tyrian by birth, a wretched fellow who had earlier been a Christian. He was beaten up by
             the Christians in <placeName>Caesarea Palestinae</placeName> and in anger converted to
             Hellenism (i.e. paganism), and then the dog dared to write an attack on the truth.<note type="translation">Rev. Mango, Scott, and Greatrex 1997</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
       <listBibl>
@@ -303,6 +307,49 @@
         <bibl xml:id="bib267-2">
           <ptr target="https://caesarea-maritima.org/bibl/9634RWJV"/>
           <citedRange unit="p">83</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

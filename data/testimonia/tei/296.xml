@@ -282,7 +282,9 @@
             Italica, religiosus et timens deum cum omni domo sua, faciens elemosynas multas plebi et
             orans deum semper.” (3) quidquid de illo dicitur hoc nomine commutato in Nebridio meo
                vindico.<note type="textual">Ed. Hilberg and Slovak 1996</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote296-2" source="#bib296-2">
@@ -302,7 +304,9 @@
             god-fearing, along with his whole house, who gave much alms to the poor and always
             prayed to God.” (3) All this that is said of him I claim — with a change of name only —
             for my dear Nebridius.<note type="translation">Adapted from Fremantle 1893</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref target="https://www.ccel.org/ccel/schaff/npnf206.v.LXXIX.html"/>
       </ab>
       <listBibl>
@@ -314,6 +318,49 @@
         </bibl>
         <bibl xml:id="bib296-2">
           <ptr target="https://caesarea-maritima.org/bibl/4KIJIT36"/>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

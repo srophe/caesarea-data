@@ -306,7 +306,9 @@
             petre, que fuerunt sua candelabra. (66) II miliario a <placeName>Cesarea</placeName> est
             parva capella, ubi domina nostra morari quandoque solebat. Haec de terra sancta
                sufficiant.<note type="textual">Ed. Laurent 1873</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote232-2" source="#bib232-2">
@@ -323,7 +325,9 @@
             Peter the apostle celebrated mass, and three other large stones were his candelabrum.
             (66) At the 2nd mile from <placeName>Caesarea</placeName> is a small chapel where our
             guide sometimes used to stop. This information about the Holy Land will suffice.<note type="translation">Trans. J. L. Rife</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
       <listBibl>
@@ -331,6 +335,49 @@
         <bibl xml:id="bib232-1">
           <ptr target="https://caesarea-maritima.org/bibl/CK7ZR5PR"/>
           <citedRange unit="ch">65-66</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

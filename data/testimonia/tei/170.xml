@@ -282,14 +282,18 @@
             <placeName>Καισάρεια</placeName>· μητρόπολις τῆς Καππαδοκίας, ἡ πρὶν Εὐσεβεία καὶ
             Μάζακα, ὡς Στράβων. ἔστι καὶ <placeName>Παλαιστίνης</placeName>. καὶ γʹ πρὸς τῇ Πανεάδι.
             τὸ ἐθνικὸν Καισαρεύς. εἰσὶ δὲ καὶ ἄλλαι τούτῳ τῷ ὀνόματι προσαγορευόμεναι.<note type="textual">Ed. Billerbeck 2014</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote170-2" source="#bib170-2">
         <anchor xml:id="testimonia-170.en.1" corresp="#testimonia-170.grc.1"/>Caesarea. Main city in Cappadocia, formerly Eusebeia and Mazaca, as
             Strabo (reports). There is also (Caesarea) Palestinae, and a third at Paneas. The ethnic
             designation is Caesarean. There are also other (cities) called by this name.<note type="translation">Trans. J. L. Rife with ref. to Billerbeck 2014</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref/>
       </ab>
          <listBibl>
@@ -298,6 +302,49 @@
           <ptr target="https://caesarea-maritima.org/bibl/QHA3QMZD"/>
           <citedRange unit="letter">Κ</citedRange>
           <citedRange unit="entry">16</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
       <note type="related-texts">

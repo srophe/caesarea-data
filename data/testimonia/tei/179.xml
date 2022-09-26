@@ -323,7 +323,9 @@
             aubergent males gens aucune ssois por tallier le chamin à ceaus qui vont à Iaphe.<note type="textual">Ed. Michelant and Raynaud 1882</note>
         <note type="textual">Bibliotheca
                Apostolica Vaticana 3136, folios 19-25</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref target="https://archive.org/details/itinrairesajrus00parigoog/page/n227/mode/2up"/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote179-2" source="#bib179-2">
@@ -370,7 +372,8 @@
         <note type="discussion">Pringle (2018, pp. 41, 211 n. 16) identifies the “baron of the
                kingdom” (baron dou roiaume) as John Laleman, who last held Caesarea before its fall
                to Baybars in 1265.</note>
-        <note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
          <listBibl>
@@ -390,6 +393,41 @@
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/KK3DKYG4"/>
           <citedRange unit="p">58-69</citedRange>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
       <note type="related-texts">

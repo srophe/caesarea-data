@@ -294,7 +294,8 @@
             in Franciam, legationis causam exponunt regi. Ille grate receptis nuntiis celeriter ait
             deliberatione praevia se nuntios expedire.<note type="textual">Ed. Bongars
                1611</note>
-        <note type="discussion"/><note type="corrigenda">Minor corr. J. L. Rife</note>
+        <note type="discussion"/>
+        <note type="corrigenda">Minor corr. J. L. Rife</note>
         <idno type="CTS-URN"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote339-2" source="#bib339-2">
@@ -309,7 +310,9 @@
             welcomed the ambassadors graciously, he quickly said that, according to earlier
             consultation, he would ready (his own) ambassadors.<note type="translation">Adapted from
                Lock 2011</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
       <listBibl>
@@ -322,6 +325,49 @@
         <bibl xml:id="bib339-2">
           <ptr target="https://caesarea-maritima.org/bibl/46ITBHCT"/>
           <citedRange unit="p">325</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

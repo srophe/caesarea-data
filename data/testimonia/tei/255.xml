@@ -295,7 +295,9 @@
             καὶ ἐχθρίαις καὶ πολέμοις καὶ μαχαίραις παραδιδόντες τοὺς ὀρθῶς πιστεύοντας. λύμην γὰρ
             οὐ μιᾷ πόλει καὶ χώρᾳ εἰργάσαντο, ἀλλὰ πολλαῖς.<note type="textual">Ed. Holl
                1933</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote255-2" source="#bib255-2">
@@ -312,7 +314,9 @@
             longer willing merely to refute Orthodox believers verbally, but subject them to feuds,
             violence, and murder. For they have wrought destruction not in one city and country but
             in many.<note type="translation">Rev. Williams 2013</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
       <listBibl>
@@ -326,6 +330,49 @@
           <ptr target="https://caesarea-maritima.org/bibl/JPPNQCCZ"/>
           <citedRange unit="bk">73.37.5-6</citedRange>
           <citedRange unit="p">482</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

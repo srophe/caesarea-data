@@ -280,7 +280,9 @@
             ᾽Αμβρόσιος παρεστήσατο: ναὶ μὴν καὶ ἐν τῇ περὶ τὰ θεῖα λόγια ἀσκήσει τε καὶ σπουδῇ
             προθυμίαν ἄφατον αὐτῷ συνεισέφερεν, ᾗ καὶ μάλιστα αὐτὸν προέτρεπεν ἐπὶ τὴν τῶν
             ὑπομνημάτων σύνταξιν. <note type="textual">Ed. Adler 1933</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref target="https://archive.org/details/adler-a.-suidae-lexicon-3 ./Adler%20A.%2C%20Suidae%20Lexicon%203%20%28%CE%9A-%CE%9F.%20%CE%A9%29/page/n315/mode/2up"/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote312-2" source="#bib312-2">
@@ -294,7 +296,9 @@
             own study of God’s pronouncements, and a zeal which gave Origen special encouragement in
             preparing his Commentaries. <note type="translation">Adapted from SOL (trans. P. Little
                et al., 2000-)</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref target="https://www.cs.uky.edu/~raphael/sol/sol-entries/omega/182"/>
       </ab>
          <listBibl>
@@ -306,8 +310,44 @@
         </bibl>
       </listBibl>
          <listBibl>
+        <head>Additional Bibliography</head>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/753625E4"/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
       <note type="related-texts">

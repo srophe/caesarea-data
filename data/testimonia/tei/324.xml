@@ -274,7 +274,9 @@
             qui Latine scripsit, aliqua commemorabo, ut intellegamus nos Epimenidis dormire somnum
             et studium, quod illi posuerunt in eruditione saecularium litterarum, in congregandis
             opibus ponere.<note type="textual">Ed. Hilberg and Slovak 1996</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote324-2" source="#bib324-2">
@@ -286,7 +288,9 @@
             us to understand that we are sleeping the sleep of Epimenides and devoting to the
             accrual of wealth the zeal that our predecessors gave to learning in secular
                literature.<note type="translation">Rev. Fremantle 1893</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
       <listBibl>
@@ -298,6 +302,49 @@
         </bibl>
         <bibl xml:id="bib324-2">
           <ptr target="https://caesarea-maritima.org/bibl/4KIJIT36"/>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

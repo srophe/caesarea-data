@@ -284,7 +284,9 @@
             κηʹ. ὑπ. Νέρωνος καὶ Κλάρου. Ἰνδ. δʹ. κθʹ. ὑπ. Μεσσάλα καὶ Κυρινίου. Ἡρώδης <placeName>Καισάρειαν</placeName> εἰς ὄνομα Καίσαρος Αὐγούστου ἔκτισεν, <placeName>Στράτωνος πύργον</placeName> τὸ πρὶν καλουμένην. ὁ αὐτὸς δὲ καὶ Ἀνθεδόνα
             ἐπικτίσας Ἀγρίππειαν ἐκάλεσεν, ἔτι δὲ καὶ Περσαβίνην εἰς ὄνομα Ἀντιπάτρου τοῦ ἰδίου
                πατρός.<note type="textual">Ed. Dindorf 1832</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote246-2" source="#bib246-2">
@@ -296,7 +298,9 @@
             previously called <placeName>Strato’s Tower</placeName>. The same man also refounded
             Anthedon and called it Agrippeia as well as Persabine in the name of his own father
                Antipater.<note type="translation">Trans. J. L. Rife</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
       <listBibl>
@@ -304,6 +308,49 @@
         <bibl xml:id="bib246-1">
           <ptr target="https://caesarea-maritima.org/bibl/4ICC3ERG"/>
           <citedRange unit="p">366.15-367.5</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

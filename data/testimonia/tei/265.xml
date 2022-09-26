@@ -282,7 +282,9 @@
             διάδοχον τοῦ θρόνου <placeName>Καισαρείας</placeName> ἐάσας, ἐλλόγιμον μὲν ἄνδρα, τὸν
             καὶ τὰ σύμμικτα συγγραψάμενον, τοῖς δὲ Ἀρειανοῖς λίαν συγκείμενον, δηλονότι τῇ πρὸς τὸν
             διδάσκαλον ὁμοφροσύνῃ.<note type="textual">Ed. de Boor 1883</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote265-2" source="#bib265-2">
@@ -291,7 +293,9 @@
             the Miscellany, but was closely associated with the Arians, and was clearly of one mind
             with his teacher.<note type="translation">Rev. Mango, Scott, and Greatrex
                1997</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
       <listBibl>
@@ -303,6 +307,49 @@
         <bibl xml:id="bib265-2">
           <ptr target="https://caesarea-maritima.org/bibl/9634RWJV"/>
           <citedRange unit="p">56</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

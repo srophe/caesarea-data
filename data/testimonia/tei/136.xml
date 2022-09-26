@@ -288,7 +288,9 @@
             Παῦλος ἔτη ιβʹ<lb/>αʹ ηʹ αʹ θʹ<lb/>Τούτῳ τῷ ἔτει παραλαμβάνει Μαυΐας <placeName>Καισάρειαν
                τῆς Παλαιστίνης</placeName> μετὰ ἑπταετίαν τῆς πολιορκίας αὐτῆς· καὶ κτένει ἐν αὐτῇ
             Ῥωμαίους χιλιάδας ἑπτά. <note type="textual">Ed. de Boor 1883</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote136-2" source="#bib136-2">
@@ -296,7 +298,9 @@
             months)<lb/>1st year Oumaros<lb/>8th year Paul, bishop of Constantinople (12 years), 1st
             year<lb/>Cyrus, 9th year<lb/>In this year Mauias takes <placeName>Caesarea
                Palestinae</placeName> after a seven-year siege and kills 7,000 Romans in it. <note type="translation">Rev. Mango, Scott, and Greatrex 1997</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
          <listBibl>
@@ -308,6 +312,49 @@
         <bibl xml:id="bib136-2">
           <ptr target="https://caesarea-maritima.org/bibl/9634RWJV"/>
           <citedRange unit="p">474-475</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
       <note type="related-texts">

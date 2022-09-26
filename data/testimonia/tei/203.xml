@@ -291,7 +291,9 @@
             usque ad mare Ioppes et Antipatridem et <placeName>Caesaream Palestine</placeName>, per
             totum quoque montem Effraym usque Ramathaym Sophim et ad Carmelum maris iuxta Accon. Et
             habundat fontibus et ortis et olivetis et bonis omnibus que requirit mundus iste.<note type="textual">Ed. Laurent 1873</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote203-2" source="#bib203-2">
@@ -305,7 +307,9 @@
             over the entire Mount Ephraim as far as Ramathaim Zophim, and to Carmel by the sea near
             Acre. It abounds with springs, gardens, olive groves, and all the good things that an
             honest man requires.<note type="translation">Adapted from Pringle 2018</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
          <listBibl>
@@ -319,6 +323,49 @@
           <ptr target="https://caesarea-maritima.org/bibl/JPPNQCCZ"/>
           <citedRange unit="ch">7.17</citedRange>
           <citedRange unit="p">277</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
       <note type="related-texts">

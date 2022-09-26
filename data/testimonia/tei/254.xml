@@ -292,7 +292,9 @@
             ἐπίσκοπος Λαρίσσης τῆς Συρίας Σέρας ἐπίσκοπος ἐκ Παραιτωνίου τῆς Λιβύης Παῦλος ἐπίσκοπος
             Ἐμίσης Εὐστάθιος ἐπίσκοπος Ἐπιφανίας Εἰρηναῖος ἐπίσκοπος Τριπόλεως τῆς Φοινίκης Εὐσέβιος
             ἐπίσκοπος Σελευκείας τῆς Συρίας …<note type="textual">Ed. Holl 1933</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote254-2" source="#bib254-2">
@@ -305,7 +307,9 @@
             Paul, bishop of Emisa Eustathius, bishop of Epiphania Ireneaus, bishop of Tripoli in
             Phoenicia Eusebius, bishop of Seleucia in Syria …<note type="translation">Adapted from
                Williams 2013</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
       <listBibl>
@@ -319,6 +323,49 @@
           <ptr target="https://caesarea-maritima.org/bibl/JPPNQCCZ"/>
           <citedRange unit="bk">73.25.10</citedRange>
           <citedRange unit="p">471</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

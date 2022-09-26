@@ -287,7 +287,9 @@
             συνόδου, ὡς ἀνωτέρω εἰρήκαμεν, φρονοῦντες χειροτονοῦσιν ἀνὰ τὴν ἁγίαν Ἀνάστασιν
             Θεοδόσιον, τὸν μάλιστα κυκήσαντα τὴν ἐν Καλχηδόνι σύνοδον, τὸν καὶ πρῶτον περὶ ταύτης
             αὐτοῖς ἀγγείλαντα.<note type="textual">Ed. Bidez and Parmentier 1898</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref target="https://babel.hathitrust.org/cgi/pt?id=hvd.ah3vvp&amp;view=1up&amp;seq=78"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote229-2" source="#bib229-2">
@@ -302,7 +304,8 @@
             into confusion, and was also the first to bring a report of it to them.<note type="translation">Rev. Whitby 2000</note>
         <note type="discussion">"[T]he emperor's
                city" means Caesarea Maritima.</note>
-        <note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
       <listBibl>
@@ -316,6 +319,49 @@
           <ptr target="https://caesarea-maritima.org/bibl/HENB53Y5"/>
           <citedRange unit="bk">2.5</citedRange>
           <citedRange unit="p">78</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

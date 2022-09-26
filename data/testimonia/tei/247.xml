@@ -275,7 +275,9 @@
             ὑπὸ Τιβερίου ἐκπέμπεται ιβʹ ἔτει τῆς βασιλείας αὐτοῦ, ὡς ἱστορεῖ Ἰώσηπος. Ἰνδ. ιδʹ. ιγʹ.
             ὑπ. Σιλανοῦ καὶ Νερούα. Ἰνδ. ιεʹ. ιδʹ. ὑπ. Γεμίνου καὶ Γεμίνου.<note type="textual">Ed.
                Dindorf 1832</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote247-2" source="#bib247-2">
@@ -283,7 +285,9 @@
             [26 C.E.] Indiction 13. Year 12. Consuls Crassus and Piso. [27 C.E.] Under these consuls
             Pontius Pilate was sent to be prοcurator of Judaea by Tiberius in the 12th year of his
             reign, as Josephus records. Indiction 14. Year 13. Consuls Silanus and Nerva. [28 C.E.]<note type="translation">Trans. J. L. Rife</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
       <listBibl>
@@ -291,6 +295,49 @@
         <bibl xml:id="bib247-1">
           <ptr target="https://caesarea-maritima.org/bibl/4ICC3ERG"/>
           <citedRange unit="p">389.4-11</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

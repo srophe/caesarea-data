@@ -288,7 +288,9 @@
             Τύρου, Σιλουανὸς ἐπίσκοπος Ἐμέσης, καὶ Σιλουανὸς ἐπίσκοπος Γάζης, Λουκιανὸς πρεσβύτερος
             Ἀντιοχείας, Ζηνόβιος πρεσβύτερος Σιδῶνος, Πάμφιλος πρεσβύτερος <placeName>Καισαρείας</placeName>, καὶ ἄλλοι ἀναρίθμητοι.<note type="textual">Ed. de
                Boor 1883</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote263-2" source="#bib263-2">
@@ -301,7 +303,9 @@
             in Egypt; Peleus and Nilus, bishops of Egypt; Anthimos, bishop of Nicomedia; Tyrannion,
             bishop of Tyre; Silvanus, bishop of Emesa; and Silvanus, bishop of Gaza; Lucian,
             presbyter of Antioch; Zenobius, presbyter of Sidon; Pamphilus, presbyter of <placeName>Caesarea</placeName>; and countless others.<note type="translation">Trans. Mango, Scott, and Greatrex 1997</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
       <listBibl>
@@ -313,6 +317,49 @@
         <bibl xml:id="bib263-2">
           <ptr target="https://caesarea-maritima.org/bibl/9634RWJV"/>
           <citedRange unit="p">19</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

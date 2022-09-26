@@ -290,7 +290,8 @@
             destruxit: Poyphyriam scilicet, et <placeName>Caesaream</placeName>, Iopen, Ascalonem,
             Gazam et Darum. Post haec rex Riccardus Iopen reaedificans sub munita fidaque custodia
             tutam reliquit.<note type="textual">Ed. Bongars 1611</note>
-        <note type="discussion"/><note type="corrigenda">Minor corr. J. L. Rife</note>
+        <note type="discussion"/>
+        <note type="corrigenda">Minor corr. J. L. Rife</note>
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -300,7 +301,9 @@
             select warriors there (Chapter 2 above). Losing hope that the other places could be
             protected, he destroyed the coastal towns, namely, Porphyria, <placeName>Caesarea</placeName>, Jaffa, Ascalon, Gaza, and Darus. After this King
             Richard rebuilt Jaffa and left it safe under strong and loyal guards.<note type="translation">Adapted from Lock 2011</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
       <listBibl>
@@ -313,6 +316,49 @@
         <bibl xml:id="bib336-2">
           <ptr target="https://caesarea-maritima.org/bibl/46ITBHCT"/>
           <citedRange unit="p">315</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

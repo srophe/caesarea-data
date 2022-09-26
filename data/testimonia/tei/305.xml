@@ -282,7 +282,9 @@
             ξε° γοʹ λβ° ιβʹ Ἰαμνιτῶν λιμήν ξε° λβ° Ἄζωτος ξε° δʹ λα° ͵γʹ Ἀσκαλών ξε° λα° γοʹ Γαζαίων
             λιμήν ξδ° ͵γιβʹ λα° ͵ʹ Ἀνθηδών ξδ° ͵γʹ λα° γοʹ <note type="textual">Ed. Stückelberger
                and Graßhoff 2006</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote305-2" source="#bib305-2">
@@ -296,7 +298,9 @@
             Ioppe 65° 40ʹ 32° 05ʹ Iamnia (port) 65° 32° Azotus 65° 15ʹ 31° 50ʹ Ascalon 65° 31° 40ʹ
             Gaza (port) 64° 55ʹ 31° 30ʹ Anthedon 64° 50ʹ 31° 40ʹ <note type="translation">Trans. J.
                L. Rife with ref. to Stevenson 1932 and Stückelberger and Graßhoff 2006</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref/>
       </ab>
          <listBibl>
@@ -309,6 +313,49 @@
         <bibl xml:id="bib305-2">
           <ptr target="https://caesarea-maritima.org/bibl/EUA7LHJK"/>
           <citedRange unit="p">128</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
       <note type="related-texts"/>

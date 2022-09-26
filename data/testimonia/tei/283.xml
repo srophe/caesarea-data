@@ -289,7 +289,9 @@
                Stratonis</placeName>, nunc <placeName>Cesarea</placeName> ad honorem Cesar est
             vocata. Caifa, primo Porfiria. Acon postea Ptolomaida.<note type="textual">Ed. Neumann
                1866</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote283-2" source="#bib283-2">
@@ -304,7 +306,9 @@
             at first Dor, later <placeName>Strato’s Tower</placeName>, and now it is called <placeName>Caesarea</placeName> in honor of Caesar. Caifa was at first Porphyria.
             Accon came after Ptolemaïs.<note type="translation">Adapted from Stewart
                1894</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
       <listBibl>
@@ -317,6 +321,49 @@
           <ptr target="https://caesarea-maritima.org/bibl/XFZD5DB4"/>
           <citedRange unit="p">35</citedRange>
           <citedRange unit="section">2.23</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

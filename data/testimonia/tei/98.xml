@@ -9,24 +9,17 @@
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
         <sponsor>Vanderbilt University</sponsor>
         <principal>Joseph L. Rife</principal>
-        <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife"
-          >Joseph L. Rife</editor>
-        <editor role="general"
-          ref="https://caesarea-maritima.org/documentation/editors.xml#plieberman">Phillip I.
+        <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
+        <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#plieberman">Phillip I.
           Lieberman</editor>
-        <editor role="technical"
-          ref="https://caesarea-maritima.org/documentation/editors.xml#dmichelson">David A.
+        <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#dmichelson">David A.
           Michelson</editor>
-        <editor role="technical"
-          ref="https://caesarea-maritima.org/documentation/editors.xml#dschwartz">Daniel L.
+        <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#dschwartz">Daniel L.
           Schwartz</editor>
-        <editor role="technical"
-          ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L.
+        <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L.
           Potter</editor>
-        <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife"
-          >Joseph L. Rife</editor>
-        <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter"
-          >William L. Potter</editor>
+        <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
+        <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</editor>
         <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L.
@@ -67,10 +60,8 @@
       </publicationStmt>
       <seriesStmt>
         <title level="s" xml:lang="en">Caesarea-Maritima.org: A Digital Archive</title>
-        <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife"
-          >Joseph L. Rife</editor>
-        <editor role="general"
-          ref="https://caesarea-maritima.org/documentation/editors.xml#plieberman">Phillip I.
+        <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
+        <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#plieberman">Phillip I.
           Lieberman</editor>
       </seriesStmt>
       <sourceDesc>
@@ -86,31 +77,16 @@
         <p>Geographic locations are identified with URIs from Pleiades: A Gazetteer of Past Places,
           see <ref target="https://pleiades.stoa.org/docs">https://pleiades.stoa.org/docs</ref>.</p>
         <p>When possible, textual works have been cited using URNs according to the Distributed Text
-          Services (DTS) system, see <ref
-            target="https://distributed-text-services.github.io/specifications"
-            >https://distributed-text-services.github.io/specifications</ref>. Additional
-          identifiers have been adopted from the systems used by the Perseus Digital Library (<ref
-            target="http://www.perseus.tufts.edu/hopper">http://www.perseus.tufts.edu/hopper</ref>),
+          Services (DTS) system, see <ref target="https://distributed-text-services.github.io/specifications">https://distributed-text-services.github.io/specifications</ref>. Additional
+          identifiers have been adopted from the systems used by the Perseus Digital Library (<ref target="http://www.perseus.tufts.edu/hopper">http://www.perseus.tufts.edu/hopper</ref>),
           Syriaca.org (<ref target="http://syriaca.org">http://syriaca.org</ref>), and other
-          relevant authority systems such as WorldCat Identities or OCLC numbers (<ref
-            target="https://www.worldcat.org">https://www.worldcat.org</ref>).</p>
+          relevant authority systems such as WorldCat Identities or OCLC numbers (<ref target="https://www.worldcat.org">https://www.worldcat.org</ref>).</p>
         <p>Bibliographic items are identified by a unique Caesarea-Maritima.org URI, which is
           linked, when possible, to OCLC numbers and other identifiers.</p>
-        <p>Dates have been encoded following the ISO 8601 standard, <ref
-            target="https://www.iso.org/iso-8601-date-and-time-format.html"
-            >https://www.iso.org/iso-8601-date-and-time-format.html</ref>, and the best practices
-          established for the Srophé App, see <ref target="http://srophe.app"
-            >http://srophe.app</ref>.</p>
-        <p>Languages have been encoded using ISO 639-1 (<ref
-            target="https://www.iso.org/standard/22109.html"
-            >https://www.iso.org/standard/22109.html</ref>), 639-2 (<ref
-            target="https://www.iso.org/standard/4767.html"
-            >https://www.iso.org/standard/4767.html</ref>), and 639-3 (<ref
-            target="https://www.iso.org/standard/39534.html"
-            >https://www.iso.org/standard/39534.html</ref>) codes, following best practices of the
-          TEI guidelines, see <ref
-            target="https://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html"
-            >https://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html</ref>.</p>
+        <p>Dates have been encoded following the ISO 8601 standard, <ref target="https://www.iso.org/iso-8601-date-and-time-format.html">https://www.iso.org/iso-8601-date-and-time-format.html</ref>, and the best practices
+          established for the Srophé App, see <ref target="http://srophe.app">http://srophe.app</ref>.</p>
+        <p>Languages have been encoded using ISO 639-1 (<ref target="https://www.iso.org/standard/22109.html">https://www.iso.org/standard/22109.html</ref>), 639-2 (<ref target="https://www.iso.org/standard/4767.html">https://www.iso.org/standard/4767.html</ref>), and 639-3 (<ref target="https://www.iso.org/standard/39534.html">https://www.iso.org/standard/39534.html</ref>) codes, following best practices of the
+          TEI guidelines, see <ref target="https://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html">https://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html</ref>.</p>
       </editorialDecl>
       <classDecl>
         <taxonomy xml:id="CM-NEAEH">
@@ -307,30 +283,24 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg002"
-          type="uniform" level="m">Ecclesiastical History</title>
-        <ref target="#bib98-1">5.23.3</ref> written by <persName ref="http://viaf.org/viaf/4929593"
-          role="author">Eusebius of Caesarea</persName> in <origDate period="#lateRoman #byzantine"
-          notBefore="0312" notAfter="0324">312 - 324 CE</origDate>. This work was likely written in
+      <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Ecclesiastical History</title>
+        <ref target="#bib98-1">5.23.3</ref> written by <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName> in <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate>. This work was likely written in
           <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</creation>
       <langUsage>
         <language ident="grc">Ancient Greek</language>
       </langUsage>
       <textClass>
         <classCode scheme="https://distributed-text-services.github.io/specifications">
-          <idno xml:base="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn="
-            type="CTS-URN">urn:cts:greekLit:tlg2018.tlg002:5.23.3</idno>
+          <idno xml:base="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=" type="CTS-URN">urn:cts:greekLit:tlg2018.tlg002:5.23.3</idno>
         </classCode>
         <catRef scheme="#CM-Testimonia-Type" target=""/>
         <catRef scheme="#CM-NEAEH" target=""/>
       </textClass>
     </profileDesc>
     <revisionDesc status="published">
-      <change who="https://caesarea-maritima.org/documentation/editors.xml#wpotter"
-        when="2020-04-29-05:00">ADDED: testimonium ID, URNs, URLs to edition and translation, and
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#wpotter" when="2020-04-29-05:00">ADDED: testimonium ID, URNs, URLs to edition and translation, and
         Bibl URIs</change>
-      <change who="https://caesarea-maritima.org/documentation/editors.xml#wpotter"
-        when="2020-04-29-05:00">CREATED: testimonium</change>
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#wpotter" when="2020-04-29-05:00">CREATED: testimonium</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -343,25 +313,20 @@
           <placeName xml:lang="grc">Καισαρείᾳ</placeName>
         </quote>, and <quote>
           <placeName xml:lang="en">the diocese of Caesarea</placeName>
-        </quote> are place names attested in <persName ref="http://viaf.org/viaf/4929593"
-          role="author">Eusebius of Caesarea</persName>'s <title xml:lang="en"
-          ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Ecclesiastical
-          History</title> 5.23.3. This testimonium was written circa <origDate
-          period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate>.
-        This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401"
-          >Caesarea</origPlace>.</desc><desc type="context"/>
+        </quote> are place names attested in <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Ecclesiastical
+          History</title> 5.23.3. This testimonium was written circa <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate>.
+        This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
+      <desc type="context"/>
       <ab type="edition" xml:lang="grc" xml:id="quote98-1" source="#bib98-1">
         <anchor xml:id="testimonia-98.grc.1" corresp="#testimonia-98.en.1"/>φέρεται δ᾿ εἰσέτι νῦν τῶν
-        κατὰ Παλαιστίνην τηνικάδε συγκεκροτημένων γραφὴ, ὧν προυτέτακτο Θεόφιλος τῆς ἐν <placeName
-          xml:lang="grc">Καισαρείᾳ</placeName> παροικίας ἐπίσκοπος καὶ Νάρκισσος τῆς ἐν
+        κατὰ Παλαιστίνην τηνικάδε συγκεκροτημένων γραφὴ, ὧν προυτέτακτο Θεόφιλος τῆς ἐν <placeName xml:lang="grc">Καισαρείᾳ</placeName> παροικίας ἐπίσκοπος καὶ Νάρκισσος τῆς ἐν
         Ἱεροσολύμοις· καὶ τῶν ἐπὶ ῾Ρώμης δὲ ὁμοίως ἄλλη περὶ τοῦ αὐτοῦ ζητήματος, ἐπίσκοπον Βίκτορα
         δηλοῦσα· τῶν τε κατὰ Πόντον ἐπισκόπων, ὧν Πάλμας ὡς ἀρχαιότατος προυτέτακτο, καὶ τῶν κατὰ
-        Γαλλίαν δὲ παροικιῶν, ἃς Εἰρήναιος ἐπεσκόπει ... <note type="textual"/><note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"
-          xml:base="https://scaife.perseus.org/reader/"
-          >urn:cts:greekLit:tlg2018.tlg002.1st1K-grc2:5.23.3</idno>
-        <ref
-          target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2018.tlg002.1st1K-grc2:5.23.3"
-        />
+        Γαλλίαν δὲ παροικιῶν, ἃς Εἰρήναιος ἐπεσκόπει ... <note type="textual"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg002.1st1K-grc2:5.23.3</idno>
+        <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2018.tlg002.1st1K-grc2:5.23.3"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote98-2" source="#bib98-2">
         <anchor xml:id="testimonia-98.en.1" corresp="#testimonia-98.grc.1"/>There is still extant a
@@ -369,14 +334,10 @@
           <placeName xml:lang="en">the diocese of Caesarea</placeName>, and Narcissus, bishop of
         Jerusalem; and there is similarly another from those in Rome on the same controversy, which
         gives Victor as bishop; and there is one of the bishops of Pontus over whom Palmas presided
-        as the oldest; and of the dioceses of Gaul, of which Irenaeus was bishop. <note
-          type="corrigenda">Inaccuracies found in the transcription of the electronic text compared
+        as the oldest; and of the dioceses of Gaul, of which Irenaeus was bishop. <note type="corrigenda">Inaccuracies found in the transcription of the electronic text compared
           to its printed source have been corrected.</note>
-        <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/"
-          >urn:cts:greekLit:tlg2018.tlg002.1st1K-eng1:5.23</idno>
-        <ref
-          target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2018.tlg002.1st1K-eng1:5.23"
-        />
+        <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg002.1st1K-eng1:5.23</idno>
+        <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2018.tlg002.1st1K-eng1:5.23"/>
       </ab>
       <listBibl>
         <head>Works Cited</head>
@@ -398,6 +359,36 @@
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/N73TPKH5"/>
           <citedRange unit="section">5.23</citedRange>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
       <note type="related-texts"/>

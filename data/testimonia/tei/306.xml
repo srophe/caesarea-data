@@ -279,7 +279,9 @@
             καὶ διέστηκεν Ἀλεξανδρείας πρὸς ἀνατολὰς μιᾶς ὥρας γιεʹ<lb/>(15) ἡ δὲ Ἀσκαλὼν ἔχει τὴν
             μεγίστην ἡμέραν ὡρῶν ῑδ ηʹ ἔγγιστα (ιδ ϛʹ), καὶ διέστηκεν Ἀλεξανδρείας πρὸς ἀνατολὰς
             μιᾶς ὥρας γʹ (γιβʹ)<note type="textual">Ed. Stückelberger and Graßhoff 2006</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote306-2" source="#bib306-2">
@@ -290,7 +292,9 @@
             of nearly 14⅛ hours (14⅙ hours), and it distance from Alexandria to the east is ⅓ hours
             (5/12 hours).<note type="translation">Trans. J. L. Rife with ref. to Stevenson 1932 and
                Stückelberger and Graßhoff 2006</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref/>
       </ab>
          <listBibl>
@@ -303,6 +307,49 @@
         <bibl xml:id="bib306-2">
           <ptr target="https://caesarea-maritima.org/bibl/EUA7LHJK"/>
           <citedRange unit="map">4</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
       <note type="related-texts"/>

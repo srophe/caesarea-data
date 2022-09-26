@@ -298,7 +298,9 @@
             ἐὰν ἐθέλωμεν.<note type="textual">Ed. Bartelink 1974</note>
         <note type="textual">Minor
                corr. J. L. Rife (extended direct quotation)</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote329-2" source="#bib329-2">
@@ -312,7 +314,9 @@
             the virtuous acts of these women as part of my plan, that we may know that it is
             possible to gain excellence in many ways, if we desire.<note type="translation">Rev.
                Clarke 1918</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref target="https://archive.org/details/lausiachistoryof002802mbp/page/n173/mode/2up"/>
       </ab>
          <listBibl>
@@ -335,6 +339,36 @@
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/J4B3ATLY"/>
           <citedRange unit="p">16-17</citedRange>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
       <note type="related-texts">

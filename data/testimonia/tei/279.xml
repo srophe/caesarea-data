@@ -279,7 +279,8 @@
             incensum (g) Alexandro Hierosolymarum episcopo aput <placeName>Caesariam
                Palestinae</placeName> ob martyrium interfecto et Antiochiae Babyla Mazabanus et
             Fabius episcopi constituuntur (h) Decius cum filio in Abryto occiditur<note type="textual">Ed. Helm 1956</note>
-        <note type="discussion"/><note type="corrigenda">Minor corr. J. L. Rife</note>
+        <note type="discussion"/>
+        <note type="corrigenda">Minor corr. J. L. Rife</note>
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -292,7 +293,9 @@
             Rome burned. (g) After Alexander, bishop of Jerusalem, was slain as a martyr at <placeName>Caesarea Palestine</placeName> and Babylas (likewise) at Antioch,
             Mazabanus and Fabius are appointed bishops. (h) Decius is killed with his son at
             Abrytus.<note type="translation">Trans. J. L. Rife with ref. to Pearse 2005</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref target="http://www.tertullian.org/fathers/jerome_chronicle_03_part2.htm"/>
       </ab>
       <listBibl>
@@ -303,6 +306,49 @@
         </bibl>
         <bibl xml:id="bib279-2">
           <ptr target="https://caesarea-maritima.org/bibl/7JSD2DS2"/>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

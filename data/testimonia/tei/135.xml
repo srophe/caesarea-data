@@ -279,7 +279,9 @@
             ἐμελέτουν. ὅθεν πρῶτος ἐπέμφθη κατ’ αὐτῶν χιλίαρχος ὀνόματι Φῆστος· καὶ ἐξ ἐκείνου
             ὄλεθρος αὐτοῖς ἐγένετο. καὶ ἄρχοντα γὰρ προεχειρίσατο αὐτοῖς ὁ αὐτὸς Κλαύδιος βασιλεὺς
             Φήλικα ὀνόματι, ταράσσοντα αὐτούς.<note type="textual">Ed. Thurn 2000</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote135-2" source="#bib135-2">
@@ -289,7 +291,9 @@
             that time destuction came upon them. The emperor Claudius also appointed a governor over
             them, named Felix, who harrassed them.<note type="translation">Adapted from Jeffreys et
                al. 2017</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
          <listBibl>
@@ -303,6 +307,49 @@
           <ptr target="https://caesarea-maritima.org/bibl/YYEJCD9W"/>
           <citedRange unit="bk">10.25</citedRange>
           <citedRange unit="p">187</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
       <note type="related-texts"/>

@@ -269,15 +269,21 @@
           <placeName xml:lang="grc">Καισαρείᾳ</placeName>
         </quote>, and <quote>
           <placeName xml:lang="en">Caesarea</placeName>
-        </quote> are place names attested in <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Ecclesiastical History</title> 6.19.16. This testimonium was written circa <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc><desc type="context"/>
+        </quote> are place names attested in <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Ecclesiastical History</title> 6.19.16. This testimonium was written circa <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
+      <desc type="context"/>
       <ab type="edition" xml:lang="grc" xml:id="quote103-1" source="#bib103-1">
         <anchor xml:id="testimonia-103.grc.1" corresp="#testimonia-103.en.1"/>χρόνου δὲ μεταξὺ διαγενομένου, οὐ σμικροῦ κατὰ τὴν πόλιν ἀναρριπισθέντος πολέμου, ὑπεξελθὼν τῆς Ἀλεξανδρείας, καὶ μηδὲ τὰς κατ’ Αἴγυπτον διατριβὰς ἀσφαλεῖς ἑαυτῷ ἡγούμενος, ἐλθὼν ἐπὶ Παλαιστίνης, ἐν <placeName xml:lang="grc">Καισαρείᾳ</placeName> τὰς διατριβὰς ἐποιεῖτο, ἔνθα καὶ διαλέγεσθαι τάς τε θείας ἑρμηνεύειν γραφὰς ἐπὶ τοῦ κοινοῦ τῆς ἐκκλησίας οἱ τῇδε ἐπίσκοποι, καίτοι τῆς τοῦ πρεσβυτερίου χειροτονίας οὐδέπω τετυχηκότα αὐτὸν ἠξίουν.
-        <note type="textual"/><note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg002.1st1K-grc2:6.19.16</idno>
+        <note type="textual"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg002.1st1K-grc2:6.19.16</idno>
         <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2018.tlg002.1st1K-grc2:6.19.16"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote103-2" source="#bib103-2">
         <anchor xml:id="testimonia-103.en.1" corresp="#testimonia-103.grc.1"/>But after the lapse of some time no small warfare broke out again in the city, and leaving Alexandria secretly he went to Palestine and abode at <placeName xml:lang="en">Caesarea</placeName>. And although he had not yet received ordination to the presbyterate, the bishops there requested him to discourse and expound the divine Scriptures publicly the church.
-        <note type="translation"/><note type="discussion"/><note type="corrigenda">Inaccuracies found in the transcription of the electronic text compared to its printed source have been corrected.</note>
+        <note type="translation"/>
+        <note type="discussion"/>
+        <note type="corrigenda">Inaccuracies found in the transcription of the electronic text compared to its printed source have been corrected.</note>
       <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg002.1st1K-eng1:6.19</idno>
         <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2018.tlg002.1st1K-eng1:6.19"/>
       </ab>
@@ -301,6 +307,36 @@
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/N73TPKH5"/>
           <citedRange unit="section">6.19</citedRange>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

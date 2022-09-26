@@ -299,7 +299,9 @@
             ἑαυτῶν οἰκημάτων. (4) Εἰ δὲ ἐν ταῖς στέγαις οἴνους ἢ ὄσπρια ἤ τι τοιοῦτον ἐν ὡρίοις
             ἀποτιθέασι, τῆς δοκώσεως διδόναι τοὺς ὑπερκειμένους τὸ δίμοιρον μέρος, τοῦ ὑποκειμένου
             παρέχοντος τὸ λοιπὸν τρίτον.<note type="textual">Ed. Saliou 1996</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote56-2" source="#bib56-2">
@@ -324,7 +326,8 @@
         <note type="discussion">J. L. Rife adopts the reading of ὑποκείμενον (Genausensis gr. 23)
                instead of ὑπερκείμενον (Vaticanus Ottobonianus gr. 440); cf. Saliou 1996, p.
                59.</note>
-        <note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref/>
       </ab>
          <listBibl>
@@ -341,6 +344,36 @@
         </bibl>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/H7VYQD5N"/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
       <note type="related-texts"/>

@@ -285,7 +285,9 @@
             ad orientem respiciens. quidam putant Accaron <placeName>turrim Stratonis</placeName>,
             postea <placeName>Casaream</placeName> nuncupatam.<note type="textual">Ed. Klosterman
                1904</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref target="urn:cts:greekLit:tlg2018.tlg011.opp-lat1:1"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote290-2" source="#bib290-2">
@@ -296,7 +298,9 @@
             Jews called Accaron between Azotus and Iamnia to the east. Some people think that
             Accaron is <placeName>Strato’s Tower</placeName>, later called <placeName>Caesarea</placeName>.<note type="translation">Trans. J. L.
                Rife</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
       <listBibl>
@@ -310,6 +314,41 @@
         <head>Additional Bibliography</head>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/66T989F7"/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

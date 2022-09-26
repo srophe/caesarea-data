@@ -274,13 +274,17 @@
         <anchor xml:id="testimonia-60.la.1" corresp="#testimonia-60.en.1"/>Inde Hierusalem mil. XII fit a <placeName>Caesarea Palestina</placeName>
             Hierusalem usque milia CXVI, mansiones IIII, mutationes IIII. <note type="textual">Ed.
                Cuntz 1929</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote60-2" source="#bib60-2">
         <anchor xml:id="testimonia-60.en.1" corresp="#testimonia-60.la.1"/>Then Jerusalem 12 miles Jerusalem is 116 miles from
                <placeName>Caesarea Palestina</placeName>, four overnights, four exchanges.<note type="translation">Trans. J. L. Rife</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
          <listBibl>
@@ -288,6 +292,49 @@
         <bibl xml:id="bib60-1">
           <ptr target="https://caesarea-maritima.org/bibl/4F6HPBGX"/>
           <citedRange unit="p">589.4-6</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
       <note type="related-texts">

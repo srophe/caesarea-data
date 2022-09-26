@@ -279,7 +279,9 @@
             bibliotheca sua prope triginta voluminum milia habuit. Hieronymus quoque atque Gennadius
             ecclesiasticos scriptores toto orbe quaerentes ordine persecuti sunt, eorumque studia in
             uno voluminis indiculo conprehenderunt.<note type="textual">Ed. Lindsay 1911</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote262-2" source="#bib262-2">
@@ -289,7 +291,9 @@
             searching all over the world for the writers of the Church, went through them in order
             and compiled their studies in a catalog of one volume.<note type="translation">Trans. J.
                L. Rife</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
       <listBibl>
@@ -307,6 +311,36 @@
         </bibl>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/AQ6CUTBN"/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

@@ -269,15 +269,22 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/175</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract175-1">Caesarea Maritima is indirectly attested in <persName ref="http://viaf.org/viaf/22143666 " role="author">Josephus </persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg001" type="uniform" level="m">Antiquities of the Jews</title> 15.7.3. This testimonium was written circa <origDate period="#nabateanKingdom #earlyRoman" notBefore="0093" notAfter="0094">93 - 94 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc><desc type="context"/>
+      <desc type="abstract" xml:id="abstract175-1">Caesarea Maritima is indirectly attested in <persName ref="http://viaf.org/viaf/22143666 " role="author">Josephus </persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg001" type="uniform" level="m">Antiquities of the Jews</title> 15.7.3. This testimonium was written circa <origDate period="#nabateanKingdom #earlyRoman" notBefore="0093" notAfter="0094">93 - 94 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+      <desc type="context"/>
       <ab type="edition" xml:lang="grc" xml:id="quote175-1" source="#bib175-1">
         <anchor xml:id="testimonia-175.grc.1" corresp="#testimonia-175.en.1"/>Συνιδοῦσαι δ᾽ οὕτως αὐτὸν ἔχοντα πρὸς τὴν Μαριάμμην ἥ τε ἀδελφὴ καὶ ἡ μήτηρ κάλλιστον ᾠήθησαν τὸν καιρὸν τοῦ πρὸς ἐκείνην μίσους εἰληφέναι καὶ διελάλουν οὐ μικρῶς παροξύνουσαι τὸν Ἡρώδην διαβολαῖς μῖσος ὁμοῦ καὶ ζηλοτυπίαν ἐμποιεῖν δυνησομέναις. ὁ δ᾽ οὔτε τῶν τοιούτων ἀηδῶς ἤκουσεν λόγων οὔτε δρᾶν τι κατὰ τῆς γυναικὸς ὡς πεπιστευκὼς ἀπεθάρρει, χεῖρον μέντοι πρὸς αὐτὴν εἶχεν ἀεὶ καὶ τὸ πάθος ἀντεξεκαίετο, τῆς μὲν οὐκ ἀποκρυπτομένης τὴν διάθεσιν, τοῦ δὲ τὸν ἔρωτα πρὸς ὀργὴν ἀεὶ μεταλαμβάνοντος. κἂν εὐθὺς ἐπράχθη τι τῶν ἀνηκέστων: νῦν δὲ Καίσαρος ἀγγελθέντος κρατεῖν τῷ πολέμῳ καὶ τεθνηκότων Ἀντωνίου καὶ Κλεοπάτρας ἔχειν Αἴγυπτον, ἐπειγόμενος εἰς τὸ Καίσαρι ἀπαντᾶν κατέλιπεν ὡς εἶχεν τὰ περὶ τὴν οἰκίαν. ἐξιόντι δὲ Μαριάμμη παραστησομένη τὸν Σόαιμον πολλήν τε χάριν τῆς ἐπιμελείας ὡμολόγει καὶ μεριδαρχίαν αὐτῷ παρὰ τοῦ βασιλέως ᾐτήσατο. κἀκεῖνος μὲν τυγχάνει τῆς τιμῆς. Ἡρώδης δὲ γενόμενος ἐν Αἰγύπτῳ Καίσαρί τε μετὰ πλείονος παρρησίας εἰς λόγους ἦλθεν ὡς ἤδη φίλος καὶ μεγίστων ἠξιώθη: τῶν τε γὰρ Κλεοπάτραν δορυφορούντων Γαλατῶν τετρακοσίοις αὐτὸν ἐδωρήσατο καὶ τὴν χώραν ἀπέδωκεν αὐτῷ πάλιν, ἣν δι᾽ ἐκείνης ἀφῃρέθη. προσέθηκεν δὲ καὶ τῇ βασιλείᾳ Γάδαρα καὶ Ἵππον καὶ Σαμάρειαν ἔτι δὲ τῆς παραλίου Γάζαν καὶ Ἀνθηδόνα καὶ Ἰόπην καὶ <placeName xml:lang="grc">Στράτωνος πύργον.</placeName>
-      <note type="textual"/><note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg0526.tlg001.perseus-grc1:15.7.3</idno>
+      <note type="textual"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg0526.tlg001.perseus-grc1:15.7.3</idno>
         <ref target="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg001.perseus-grc1:15.7.3"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote175-2" source="#bib175-2">
         <anchor xml:id="testimonia-175.en.1" corresp="#testimonia-175.grc.1"/>When Herod's sister and mother perceived that he was in this temper with regard to Mariamne they thought they had now gotten an excellent opportunity to exercise their hatred against her and provoked Herod to wrath by telling him, such long stories and calumnies about her, as might at once excite his hatred and his jealousy. Now, though he willingly enough heard their words, yet had not he courage enough to do any thing to her as if he believed them; but still he became worse and worse disposed to her, and these ill passions were more and more inflamed on both sides, while she did not hide her disposition towards him, and he turned his love to her into wrath against her. But when he was just going to put this matter past all remedy, he heard the news that Caesar was the victor in the war, and that Antony and Cleopatra were both dead, and that he had conquered Egypt; whereupon he made haste to go to meet Caesar, and left the affairs of his family in their present state. However, Mariamne recommended Sohemus to him, as he was setting out on his journey, and professed that she owed him thanks for the care he had taken of her, and asked of the king for him a place in the government; upon which an honorable employment was bestowed upon him accordingly. Now when <placeName xml:lang="en">Herod</placeName> was come into Egypt, he was introduced to Caesar with great freedom, as already a friend of his, and received very great favors from him; for he made him a present of those four hundred Galatians who had been Cleopatra's guards, and restored that country to him again, which, by her means, had been taken away from him. He also added to his kingdom Gadara, Hippos, and Samaria; and, besides those, the maritime cities, Gaza, and Anthedon, and Joppa, and <placeName xml:lang="en">Strato's Tower</placeName>.
-        <note type="translation"/><note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg0526.tlg001.perseus-eng1:15.7.3</idno>
+        <note type="translation"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg0526.tlg001.perseus-eng1:15.7.3</idno>
         <ref target="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg001.perseus-eng1:15.7.3"/>
       </ab>
       <listBibl>
@@ -300,6 +307,36 @@
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/8WGC55QX"/>
           <citedRange unit="section">15.7.3</citedRange>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

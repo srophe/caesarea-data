@@ -299,7 +299,9 @@
             αἱρετικῶν ἀκατηχήτων, τὸν υἱὸν λεγόντων οἱ μὲν ἐρυγήν, οἱ δὲ προβολὴν ἀγένητον. (5) καὶ
             τούτων τῶν ἀσεβ&lt;ει&gt;ῶν οὐδὲ ἀκοῦσαι δυνάμεθα, ἐὰν μυρίους θανάτους ἡμῖν ἐπαπειλῶσιν οἱ
             αἱρετικοί.<note type="textual">Ed. Holl 1933</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote252-2" source="#bib252-2">
@@ -320,7 +322,9 @@
             for the uneducated heretics Philogonius, Hellanicus, and Macarius, some of whom say that
             the Son is an eructation, and others an uncreated emanation. (5) And we cannot listen to
             these unholy men, even if the heretics threaten us with a thousand deaths.<note type="translation">Rev. Williams 2013</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
       <listBibl>
@@ -334,6 +338,49 @@
           <ptr target="https://caesarea-maritima.org/bibl/JPPNQCCZ"/>
           <citedRange unit="bk">69.6.1-5</citedRange>
           <citedRange unit="p">336</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

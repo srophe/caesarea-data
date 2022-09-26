@@ -293,7 +293,9 @@
             πλέον κατ’ αὐτῶν τοὺς διάγοντας στρατιώτας ἐξαγριοῦντες, ἵνα μήτε τοὺς τῶν βουλομένων
             λαϊκῶν ἐπιδέχεσθαι αὐτοὺς συγχωρῶσιν …<note type="textual">Ed. Malingrey and Leclerq
                1988</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote328-2" source="#bib328-2">
@@ -307,7 +309,9 @@
             sometimes using payments, sometimes threats, so that they did not even allow those of
             the laity who wished to do so to receive (the prisoners) in their homes …<note type="translation">Trans. J. L Rife with ref. to Moore 1921 and Malingrey and Leclerq
                1988 </note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref/>
       </ab>
          <listBibl>
@@ -319,6 +323,49 @@
         </bibl>
         <bibl xml:id="bib328-2">
           <ptr target="https://caesarea-maritima.org/bibl/UBFSAZDA"/>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
       <note type="related-texts">

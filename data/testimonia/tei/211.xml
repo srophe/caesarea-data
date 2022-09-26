@@ -289,7 +289,9 @@
             Cornelii centurionis, qui multas elymosynas faciebat. Inde est tertio miliario mons
             Syna, ubi fons est, in quem mulier si laverit, gravida fit.<note type="textual">Ed.
                Cuntz 1929</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote211-2" source="#bib211-2">
@@ -302,7 +304,9 @@
             exchanges, three overnights. Located there is the bath of the centurion Cornelius, who
             did many charitable acts. From there at the third milestone is located Mount Syna, where
             there is the spring where, if a woman bathes in it, she becomes pregnant. <note type="translation">Trans. J. L. Rife</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
          <listBibl>
@@ -316,6 +320,41 @@
         <head>Additional Bibliography</head>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/SSAVC63T"/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
       <note type="related-texts"/>

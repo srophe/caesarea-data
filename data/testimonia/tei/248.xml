@@ -283,7 +283,9 @@
                Καισάρειαν</placeName> Κορνήλιος σὺν ὅλῳ τῷ οἰκῷ αὐτοῦ δι’ ἐπιφανείας θείας, ὑπουργίᾳ
             δὲ Πέτρου τοῦ ἀποστόλου, τὴν εἰς Χριστὸν πίστιν κατεδέξατο.<note type="textual">Ed.
                Dindorf 1832</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote248-2" source="#bib248-2">
@@ -294,7 +296,9 @@
                Palestinae</placeName>, along with his entire household, through divine epiphany and
             with the helpful service of Peter the Apostle.<note type="translation">Trans. J. L.
                Rife</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
       <listBibl>
@@ -302,6 +306,49 @@
         <bibl xml:id="bib248-1">
           <ptr target="https://caesarea-maritima.org/bibl/4ICC3ERG"/>
           <citedRange unit="p">430.6-13</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

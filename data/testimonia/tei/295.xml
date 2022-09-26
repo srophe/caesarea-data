@@ -286,7 +286,9 @@
             psalmo proposuisti, qui esset “panis doloris” in eo, quod dicitur: “in vanum vobis est
             ante lucem surgere, surgere, postquam sederitis, qui manducatis panem doloris,”
             ostenderem me de Origenis commentariis, quid senserit, non habere.<note type="textual">Ed. Hilberg and Slovak 1996</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote295-2" source="#bib295-2">
@@ -309,7 +311,8 @@
         <note type="discussion">In
                translation we use B for "bread of sorrow", but the text has p ("phe") for "panis
                doloris".</note>
-        <note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
       <listBibl>
@@ -318,6 +321,49 @@
           <ptr target="https://caesarea-maritima.org/bibl/ZB5KVXMV"/>
           <citedRange unit="ch">34</citedRange>
           <citedRange unit="section">1</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

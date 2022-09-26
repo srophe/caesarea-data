@@ -303,7 +303,8 @@
           <placeName xml:lang="en">Cæsarea</placeName>
         </quote> are place names attested in <persName ref="http://viaf.org/viaf/100226923" role="author">Tacitus</persName>'s <title xml:lang="en" ref="urn:cts:latinLit:phi1351.phi004" type="uniform" level="m">The
           Histories</title> 2.82-2.83. This testimonium was written circa <origDate period="#nabateanKingdom #earlyRoman" notBefore="0100" notAfter="0110">100 - 110
-          CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc><desc type="context"/>
+          CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+      <desc type="context"/>
       <ab type="edition" xml:lang="la" xml:id="quote44-1" source="#bib44-1">
         <anchor xml:id="testimonia-44.la.1" corresp="#testimonia-44.en.1"/> haud dubia destinatione
         discessere Mucianus Antiochiam, Vespasianus <placeName xml:lang="la">Caesaream</placeName> :
@@ -312,7 +313,10 @@
         isque primus principatus dies in posterum celebratus, quamvis Iudaicus exercitus quinto
         nonas Iulias apud ipsum iurasset, eo ardore ut ne Titus quidem filius expectaretur, Syria
         remeans et consiliorum inter Mucianum ac patrem nuntius. cuncta impetu militum acta non
-        parata contione, non coniunctis legionibus.    <note type="textual"/><note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN" xml:base="">urn:cts:latinLit:phi1351.phi004.perseus-lat2:2.82-2.83</idno>
+        parata contione, non coniunctis legionibus.    <note type="textual"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN" xml:base="">urn:cts:latinLit:phi1351.phi004.perseus-lat2:2.82-2.83</idno>
         <ref target="urn:cts:latinLit:phi1351.phi004.perseus-lat2:2.82-2.83"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote44-2" source="#bib44-2">
@@ -325,7 +329,10 @@
         not wait for the return of his son Titus, who was then on his way back from Syria, acting as
         the medium between Mucianus and his father for the communication of their plans. All this
         was done by the impulsive action of the soldiers without the preliminary of a formal
-        harangue or any concentration of the legions.    <note type="translation"/><note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:latinLit:phi1351.phi004.perseus-eng1:2.79</idno>
+        harangue or any concentration of the legions.    <note type="translation"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:latinLit:phi1351.phi004.perseus-eng1:2.79</idno>
         <ref target="http://data.perseus.org/citations/urn:cts:latinLit:phi1351.phi004.perseus-eng1:2.79"/>
       </ab>
       <listBibl>
@@ -374,6 +381,36 @@
             <forename>Cornelius</forename>
             <surname>Tacitus</surname>
           </author>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

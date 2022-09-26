@@ -294,7 +294,9 @@
             τοῦ Λιβανίου κρατήσων, ἀπῄει νέος ὢν ἔτι· οἱ δὲ ἄνθρωποι, ὅσον σπουδαῖον ἐν αὐτοῖς,
             ἐθαύμαζον αὐτὸν ὥσπερ εἰς γῆρας ἀφιγμένον.<note type="textual">Ed. Giangrande
                1956</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote215-2" source="#bib215-2">
@@ -316,7 +318,9 @@
             reputation as the one who beat Libanius. He passed away when he was still young. And
             men, at least the studious ones, admired him as they would one who made it to old
                age.<note type="translation">Adapted from Wright 1921</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
       <listBibl>
@@ -333,6 +337,41 @@
         <head>Additional Bibliography</head>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/XB7YVZLP"/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

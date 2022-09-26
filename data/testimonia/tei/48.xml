@@ -269,16 +269,23 @@
           <placeName xml:lang="grc">Καισαρέων</placeName>
         </quote>,  and <quote>
           <placeName xml:lang="en">Caesarea</placeName>
-        </quote> are place names attested in <persName ref="http://viaf.org/viaf/25393339 " role="author">Apollonius of Tyana</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg0638.tlg001" type="uniform" level="m">Epistles</title> 11. This testimonium was written circa <origDate period="#nabateanKingdom #earlyRoman #herodian #middleNabatean" notBefore="0004" notAfter="0097">4 - 97 CE </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/648801">Tyana</origPlace>.</desc><desc type="context"/>
+        </quote> are place names attested in <persName ref="http://viaf.org/viaf/25393339 " role="author">Apollonius of Tyana</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg0638.tlg001" type="uniform" level="m">Epistles</title> 11. This testimonium was written circa <origDate period="#nabateanKingdom #earlyRoman #herodian #middleNabatean" notBefore="0004" notAfter="0097">4 - 97 CE </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/648801">Tyana</origPlace>.</desc>
+      <desc type="context"/>
       <ab type="edition" xml:lang="grc" xml:id="quote48-1" source="#bib48-1">
         <anchor xml:id="testimonia-48.grc.1" corresp="#testimonia-48.en.1"/>
         <placeName xml:lang="grc">Καισαρέων</placeName> προβούλοις. Πρῶτον εἰς πάντα θεῶν ἄνθρωποι δέονται καὶ περὶ παντός, ἔπειτα πόλεων, τιμητέον γὰρ δεύτερον πόλεις μετὰ θεοὺς καὶ τὰ πόλεως προκριτέον παντὶ νοῦν ἔχοντι. εἰ δὲ μὴ πόλις μόνον εἴη, ἀλλὰ καὶ μεγίστη τῆς Παλαιστίνης, ἀρίστη τε τῶν αὐτόθι μεγέθει καὶ νόμοις καὶ ἐπιτηδεύμασι, καὶ προγόνων κατὰ πόλεμον ἀρεταῖς, ἔτι τε ἤθεσι κατ᾿ εἰρήνην, καθάπερ ἡ ὑμετέρα πόλις, μάλιστα πασῶν τῶν ἄλλων ἐμοί τε θαυμαστέα τιμητέα τε καὶ ἄλλῳ δὲ ὁμοίως παντὶ νοῦν ἔχοντι. τοῦτο μὲν οὖν ἐκ λόγου κοινοῦ τὸ προκριτικὸν ἂν εἴη, τὸ κατὰ σύγκρισιν τῶν πολλῶν. ὅταν δὲ καὶ ἄρχῃ πόλις ποτὲ τῆς πρὸς ἕνα τιμῆς ἄνδρα, ποιοῦσα τοῦτον ἑαυτῆς ξένον καὶ ἄποθεν, τί ἢ τούτου τοῦ ἀνδρὸς πρὸς ἀμοιβὴν ἢ ὑμῶν πρὸς τίσιν ἄξιον εἴη; τοῦτο μόνον ἴσως, εἰ θεοφιλής τις ὢν τύχοι διά τινα φύσεως ἐπιτηδειότητα, τὸ εὔχεσθαι τῇ πόλει τὰ ἀγαθὰ τυγχάνειν τε τῆς εὐχῆς, ὅπερ ἂν διατελέσαιμι κἀγὼ πράττων ὑπὲρ ὑμῶν, ἐπείπερ ἥσθην ἤθεσιν Ἑλληνικοῖς φαίνουσι τὸ ἴδιον ἀγαθὸν καὶ διὰ γραμμάτων κοινῶν. Ἀπολλωνίδην δὲ τὸν Ἀφροδισίου, νεανίαν ἐρρωμενεστάτης φύσεως ἀξίας τε τοῦ ἡμετέρου ὀνόματος, πειράσομαι χρήσιμον ὑμῖν παρασκευάζειν εἰς ἕκαστα μετὰ καὶ τύχης τινὸς ἀγαθῆς.
-        <note type="textual"/><note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="textual"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref target="https://www-loebclassics-com.proxy.library.vanderbilt.edu/view/apollonius_tyana-letters/2006/pb_LCL458.17.xml?mainRsKey=Ti6YQQ&amp;result=1&amp;rskey=t5gvpn"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote48-2" source="#bib48-2">
         <anchor xml:id="testimonia-48.en.1" corresp="#testimonia-48.grc.1"/>Apollonius to the councilors of <placeName xml:lang="en">Caesarea</placeName> : Above all humans need gods, for every purpose and above every thing, and secondly they need cities, for cities should be honored next after the gods, and every sensible person must give priority to the affairs of his city. But if it is not just a city, but the greatest one in Palestine, and the best of those there in respect of size, laws, and customs, and in its ancestors’ bravery in war and their morals in peacetime as well, as your city is, then I must both admire and honor it above all others, and so also must every other sensible person. This then by common consent is the ground for preferring it—the comparison of it with the majority. But whenever a city actually takes the first step to honor a man, making him its own guest even from a distance, what would be a worthy return from such a man or a worthy payment to you? Perhaps only this: if he happens to have the gods’ favor because of a certain fitness of character, that he should pray for blessings on the city and have his prayer granted. That I could constantly do for you, since I was delighted by your Greek customs, which reveal your particular excellence by means of your public letter. As for Apollonides the son of Aphrodisius, a young man possessing a very firm nature and one worthy to share my name, I shall try to make him serviceable to you in every respect, with the help of some good fortune.
-        <note type="translation"/><note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="translation"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref target="https://www-loebclassics-com.proxy.library.vanderbilt.edu/view/apollonius_tyana-letters/2006/pb_LCL458.17.xml?mainRsKey=Ti6YQQ&amp;result=1&amp;rskey=t5gvpn"/>
       </ab>
       <listBibl>
@@ -301,6 +308,36 @@
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/USHKXM52"/>
           <citedRange unit="section">11</citedRange>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

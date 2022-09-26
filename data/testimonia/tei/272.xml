@@ -274,7 +274,8 @@
             aliam civitatem. XIII (173a) Pilatus procurator Iudaeae a Tiberio mittitur XIII XIIII
             (b) Votienus Montanus Narbonensis orator in Balearibus XIIII Insulis moritur illuc a
             Tiberio relegatus<note type="textual">Ed. Helm 1956</note>
-        <note type="discussion"/><note type="corrigenda">Minor corr. J. L. Rife</note>
+        <note type="discussion"/>
+        <note type="corrigenda">Minor corr. J. L. Rife</note>
         <idno type="CTS-URN"/>
         <ref/>
       </ab>
@@ -284,7 +285,9 @@
             Philippi, and (he named) another city Julias. [26 C.E.] 13 (173a) Pilatus is sent by
             Tiberius to be governor of Judaea. 13 [27 C.E.] 14 (b) Votienus Montanus of Narbonne, an
             orator banished 14 to the Balearic Islands by Tiberius, dies there.<note type="translation">Trans. J. L. Rife with ref. to Pearse 2005</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref target="http://www.tertullian.org/fathers/jerome_chronicle_03_part2.htm"/>
       </ab>
       <listBibl>
@@ -295,6 +298,49 @@
         </bibl>
         <bibl xml:id="bib272-2">
           <ptr target="https://caesarea-maritima.org/bibl/7JSD2DS2"/>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

@@ -296,7 +296,9 @@
                conscripsisse.<note type="textual">Ed. Migne 1883</note>
         <note type="textual">Checked
                against Lardet 1982</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref target="https://archive.org/details/patrologiaecurs01goog/page/n216/mode/2up"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote346-2" source="#bib346-2">
@@ -324,7 +326,9 @@
             loophole in claiming that Pamphilus wrote this work after the publication of Eusebius’
                books.<note type="translation">Adapted from Fremantle 1892 with ref. to Lardet
                1983</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref/>
       </ab>
       <listBibl>
@@ -353,6 +357,26 @@
         </bibl>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/MUU4ALR4"/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

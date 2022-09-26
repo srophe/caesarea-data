@@ -279,7 +279,8 @@
             Actibus, in quibus Paulo dicitur a tribuno: nonne tu es Aegyptus, qui ante hos dies
             concitasti et eduxisti in desertum IIII milia virorum ĪĪLXX XIV (e) Claudius moritur in
             Palatio anno aetatis LXIIII X<note type="textual">Ed. Helm 1956</note>
-        <note type="discussion"/><note type="corrigenda">Minor corr. J. L. Rife</note>
+        <note type="discussion"/>
+        <note type="corrigenda">Minor corr. J. L. Rife</note>
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -293,7 +294,9 @@
             men out into the desert?” [54 C.E.] 2070 14 (e) Claudius dies in the Palace at the age
             of 64. 10<note type="translation">Trans. J. L. Rife with ref. to Pearse
                2005</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref target="http://www.tertullian.org/fathers/jerome_chronicle_03_part2.htm"/>
       </ab>
       <listBibl>
@@ -304,6 +307,49 @@
         </bibl>
         <bibl xml:id="bib274-2">
           <ptr target="https://caesarea-maritima.org/bibl/7JSD2DS2"/>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

@@ -279,7 +279,9 @@
             propheta. Et inde veni <placeName>Cesaream</placeName>, deinde Assur, deinde Ioppen,
             deinde Rama, deinde Bethnopolin, deinde Ierusalem. Ubi intratur ad portam S. Stephani,
             ubi fuit lapidatus.<note type="textual">Ed. Neumann 1866</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote280-2" source="#bib280-2">
@@ -287,7 +289,9 @@
             the prophet lived. Then I came to <placeName>Caesarea</placeName>, Assur, Ioppe, Rama,
             Bethnopolis, and Jerusalem, which is entered through the Gate of St. Stephen, where he
             was stoned.<note type="translation">Adapted from Stewart 1896</note>
-        <note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/>
+        <note type="discussion"/>
+        <note type="corrigenda"/>
+        <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
       <listBibl>
@@ -300,6 +304,49 @@
           <ptr target="https://caesarea-maritima.org/bibl/XFZD5DB4"/>
           <citedRange unit="p">22</citedRange>
           <citedRange unit="section">1.1</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>
