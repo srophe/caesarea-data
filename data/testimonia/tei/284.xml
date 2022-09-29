@@ -1,6 +1,4 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -261,14 +259,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/284</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract284-1">
-        <quote>
-          <placeName>Cesaream</placeName>
-        </quote>, <quote>
-          <placeName>Cesarea</placeName>
-        </quote>,  and <quote>
-          <placeName>Caesarea</placeName>
-        </quote> are directly attested at <persName role="author">Anonymous X</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Itinerary of the Holy
+      <desc type="abstract" xml:id="abstract284-1"><quote><placeName>Cesaream</placeName></quote>, <quote><placeName>Cesarea</placeName></quote>,  and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author">Anonymous X</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Itinerary of the Holy
                Places</title> <ref target="#bib284-1">408</ref>. This passage was written circa <origDate notBefore="1229" notAfter="1239" period="#crusader">1229-1239 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
       <desc type="context">This brief guide for pilgrims to the Holy Land of unknown authorship
             is preserved in a manuscript in Milan that probably postdates composition by only a few

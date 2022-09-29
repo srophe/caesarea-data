@@ -1,6 +1,4 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -265,19 +263,8 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/204</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract204-1">
-        <quote>
-          <placeName>Cesarea</placeName>
-        </quote>, <quote>
-          <placeName>Pyrgus
-               Stratonis</placeName>
-        </quote>, <quote>
-          <placeName>Cesaream</placeName>
-        </quote>, <quote>
-          <placeName>Caesarea</placeName>
-        </quote>,  and <quote>
-          <placeName>Pyrgus Stratonis</placeName>
-        </quote> are directly attested at <persName ref="https://pleiades.stoa.org/places/687995" role="author">Burchard of Mt.
+         <desc type="abstract" xml:id="abstract204-1"><quote><placeName>Cesarea</placeName></quote>, <quote><placeName>Pyrgus
+               Stratonis</placeName></quote>, <quote><placeName>Cesaream</placeName></quote>, <quote><placeName>Caesarea</placeName></quote>,  and <quote><placeName>Pyrgus Stratonis</placeName></quote> are directly attested at <persName ref="https://pleiades.stoa.org/places/687995" role="author">Burchard of Mt.
                Sion</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Description of the Holy
                Land</title> <ref target="#bib204-1">10.1-5</ref>. This passage was written circa <origDate notBefore="1274" notAfter="1285" period="#crusader">1274-1285 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/1001939">Palestine</origPlace>.</desc>
          <desc type="context">Burchard of Mt. Sion was a Dominican friar from Magdeburg in Lower

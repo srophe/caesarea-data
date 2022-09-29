@@ -1,6 +1,4 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -264,12 +262,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/48</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract48-1">
-        <quote>
-          <placeName xml:lang="grc">Καισαρέων</placeName>
-        </quote>,  and <quote>
-          <placeName xml:lang="en">Caesarea</placeName>
-        </quote> are place names attested in <persName ref="http://viaf.org/viaf/25393339 " role="author">Apollonius of Tyana</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg0638.tlg001" type="uniform" level="m">Epistles</title> 11. This testimonium was written circa <origDate period="#nabateanKingdom #earlyRoman #herodian #middleNabatean" notBefore="0004" notAfter="0097">4 - 97 CE </origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/648801">Tyana</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract48-1"><quote><placeName xml:lang="grc">Καισαρέων</placeName></quote>,  and <quote><placeName xml:lang="en">Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/25393339 " role="author">Apollonius of Tyana</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg0638.tlg001" type="uniform" level="m">Epistles</title> <ref target="#bib48-1">11</ref>. This passage was written circa <origDate period="#nabateanKingdom #earlyRoman #herodian #middleNabatean" notBefore="0004" notAfter="0097">4 - 97 CE </origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/648801">Tyana</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote48-1" source="#bib48-1">
         <anchor xml:id="testimonia-48.grc.1" corresp="#testimonia-48.en.1"/>
         <placeName xml:lang="grc">Καισαρέων</placeName> προβούλοις. Πρῶτον εἰς πάντα θεῶν ἄνθρωποι δέονται καὶ περὶ παντός, ἔπειτα πόλεων, τιμητέον γὰρ δεύτερον πόλεις μετὰ θεοὺς καὶ τὰ πόλεως προκριτέον παντὶ νοῦν ἔχοντι. εἰ δὲ μὴ πόλις μόνον εἴη, ἀλλὰ καὶ μεγίστη τῆς Παλαιστίνης, ἀρίστη τε τῶν αὐτόθι μεγέθει καὶ νόμοις καὶ ἐπιτηδεύμασι, καὶ προγόνων κατὰ πόλεμον ἀρεταῖς, ἔτι τε ἤθεσι κατ᾿ εἰρήνην, καθάπερ ἡ ὑμετέρα πόλις, μάλιστα πασῶν τῶν ἄλλων ἐμοί τε θαυμαστέα τιμητέα τε καὶ ἄλλῳ δὲ ὁμοίως παντὶ νοῦν ἔχοντι. τοῦτο μὲν οὖν ἐκ λόγου κοινοῦ τὸ προκριτικὸν ἂν εἴη, τὸ κατὰ σύγκρισιν τῶν πολλῶν. ὅταν δὲ καὶ ἄρχῃ πόλις ποτὲ τῆς πρὸς ἕνα τιμῆς ἄνδρα, ποιοῦσα τοῦτον ἑαυτῆς ξένον καὶ ἄποθεν, τί ἢ τούτου τοῦ ἀνδρὸς πρὸς ἀμοιβὴν ἢ ὑμῶν πρὸς τίσιν ἄξιον εἴη; τοῦτο μόνον ἴσως, εἰ θεοφιλής τις ὢν τύχοι διά τινα φύσεως ἐπιτηδειότητα, τὸ εὔχεσθαι τῇ πόλει τὰ ἀγαθὰ τυγχάνειν τε τῆς εὐχῆς, ὅπερ ἂν διατελέσαιμι κἀγὼ πράττων ὑπὲρ ὑμῶν, ἐπείπερ ἥσθην ἤθεσιν Ἑλληνικοῖς φαίνουσι τὸ ἴδιον ἀγαθὸν καὶ διὰ γραμμάτων κοινῶν. Ἀπολλωνίδην δὲ τὸν Ἀφροδισίου, νεανίαν ἐρρωμενεστάτης φύσεως ἀξίας τε τοῦ ἡμετέρου ὀνόματος, πειράσομαι χρήσιμον ὑμῖν παρασκευάζειν εἰς ἕκαστα μετὰ καὶ τύχης τινὸς ἀγαθῆς.

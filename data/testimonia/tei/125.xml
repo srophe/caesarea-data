@@ -1,6 +1,4 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -264,7 +262,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/125</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract125-1">Caesarea Maritima is indirectly attested in <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg003" type="uniform" level="m">Martyrs of Palestine</title> 6.2. This testimonium was written circa <origDate period="#lateRoman" notBefore="0315" notAfter="0316">315 – 316 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract125-1"> is directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg003" type="uniform" level="m">Martyrs of Palestine</title> <ref target="#bib125-1">6.2</ref>. This passage was written circa <origDate period="#lateRoman" notBefore="0315" notAfter="0316">315 – 316 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote125-1" source="#bib125-1">
         <anchor xml:id="testimonia-125.grc.1" corresp="#testimonia-125.en.1"/>ἔθους τὸ πρὶν ὄντος ἐπὶ βασιλέων, εἰ καὶ ἄλλοτε, τὰς φιλοτίμους θέας πλείους τοῖς θεαταῖς ἐμπαρέχειν, θυμηδίας καινῶν καὶ ξένων τά τε συνήθη παραλλαττόντων τῶν θεαμάτων, ζῴων ἔσθ’ ὅπη τῶν ἐξ Ἰνδίας ἢ Αἰθιοπίας ἢ καὶ ἄλλοθεν εἰσκομιζομένων, ἢ καὶ ἀνδρῶν ἐντέχνοις τισὶ σωμασκίαις παραδόξους ψυχαγωγίας τοῖς ὁρῶσιν ἐνδεικνυμένων, πάντως που καὶ τότε, οἷα βασιλέως τὰς θέας παρέχοντος, πλέον τι καὶ παράδοξον χρῆν ὑπάρξαι ταῖς φιλοτιμίαις.
         <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg003.1st1K-grc1:6.2</idno>

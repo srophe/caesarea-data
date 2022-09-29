@@ -1,6 +1,4 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -264,10 +262,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/73</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract73-1">
-    <quote>
-          <placeName xml:lang="grc">Καισαρίαν</placeName>
-        </quote>, are place names attested in <persName ref="http://viaf.org/viaf/305863610" role="author">Luke the Evangelist</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg0031.tlg005" type="uniform" level="m">Acts</title> 18.22. This testimonium was written circa <origDate period="#nabateanKingdom #earlyRoman" notBefore="0080" notAfter="0090">80 – 90 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract73-1">and <quote><placeName xml:lang="grc">Καισαρίαν</placeName></quote> is directly attested at <persName ref="http://viaf.org/viaf/305863610" role="author">Luke the Evangelist</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg0031.tlg005" type="uniform" level="m">Acts</title> <ref target="#bib73-1">18.22</ref>. This passage was written circa <origDate period="#nabateanKingdom #earlyRoman" notBefore="0080" notAfter="0090">80 – 90 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote73-1" source="#bib73-1">
         <anchor xml:id="testimonia-73.grc.1" corresp="#testimonia-73.en.1"/>καὶ κατελθὼν εἰς <placeName xml:lang="grc">Καισαρίαν</placeName>, ἀναβὰς καὶ ἀσπασάμενος τὴν ἐκκλησίαν, κατέβη εἰς Ἀντιόχειαν, καὶ ποιήσας χρόνον τινὰ ἐξῆλθεν,
         <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg0031.tlg005.perseus-grc2:18.22</idno>

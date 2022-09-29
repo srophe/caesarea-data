@@ -1,6 +1,4 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -264,12 +262,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/140</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract140-1">
-        <quote>
-          <placeName xml:lang="la">Caesariensis ecclesiae in Palestina</placeName>
-        </quote>,  and <quote>
-          <placeName xml:lang="en">church of Cæsarea in Palestine,</placeName>
-        </quote> are place names attested in <persName ref="http://viaf.org/viaf/95147024 " role="author">Jerome</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg3389.tlg001" type="uniform" level="m">De viris illustribus</title> 98. This testimonium was written circa <origDate period="#byzantine" when="0392">392 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract140-1"><quote><placeName xml:lang="la">Caesariensis ecclesiae in Palestina</placeName></quote>,  and <quote><placeName xml:lang="en">church of Cæsarea in Palestine,</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/95147024 " role="author">Jerome</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg3389.tlg001" type="uniform" level="m">De viris illustribus</title> <ref target="#bib140-1">98</ref>. This passage was written circa <origDate period="#byzantine" when="0392">392 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote140-1" source="#bib140-1">
         <anchor xml:id="testimonia-140.la.1" corresp="#testimonia-140.en.1"/>Acacius quem, quia luscus erat, μονόφθαλμον nuncupabant, <placeName xml:lang="la">Caesariensis ecclesiae in Palestina</placeName> episcopus, elaborauit in ecclesiasten decem et Septem uolumina, et Συμμίκτων ζητημάτων sex, multos praeterea diuersosque tractatus. In tantum autem sub Constantio imperatore damit, ut in Liberii locum Romae Felicem episcopum constitueret.    <idno type="CTS-URN"/>
         <ref target="https://archive.org/details/hieronymusundge00berngoog/page/n109/mode/2up"/>

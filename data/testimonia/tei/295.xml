@@ -1,6 +1,4 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -259,12 +257,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/295</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract295-1">
-        <quote>
-          <placeName>Caesariensis</placeName>
-        </quote>,  and <quote>
-          <placeName>Caesariensi</placeName>
-        </quote> are directly attested at <persName ref="http://viaf.org/viaf/309472433" role="author">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Letters</title> <ref target="#bib295-1">34.1</ref>. This passage was written circa <origDate notBefore="0382" notAfter="0384" period="#byzantine">382-384 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract295-1"><quote><placeName>Caesariensis</placeName></quote>,  and <quote><placeName>Caesariensi</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/309472433" role="author">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Letters</title> <ref target="#bib295-1">34.1</ref>. This passage was written circa <origDate notBefore="0382" notAfter="0384" period="#byzantine">382-384 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
       <desc type="context">Among the voluminous correspondence of St. Jerome is this letter,
             written during the years when he served Pope Damasus I at Rome and attended the synod
             over the Antiochene schism. In it he addresses an exegetical query from Marcella, a

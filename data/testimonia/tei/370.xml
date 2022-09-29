@@ -1,6 +1,4 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -259,14 +257,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/370</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract370-1">
-        <quote>
-          <placeName>Caesarea</placeName>
-        </quote>, <quote>
-          <placeName>Caesariensem</placeName>
-        </quote>,  and <quote>
-          <placeName>Caesaream</placeName>
-        </quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/95147024">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Against John of Jerusalem</title> <ref target="#bib370-1">37.407a-b</ref>. This passage was written circa <origDate notBefore="" notAfter="" period="#">NaN CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract370-1"><quote><placeName>Caesarea</placeName></quote>, <quote><placeName>Caesariensem</placeName></quote>,  and <quote><placeName>Caesaream</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/95147024">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Against John of Jerusalem</title> <ref target="#bib370-1">37.407a-b</ref>. This passage was written circa <origDate notBefore="" notAfter="" period="#">NaN CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</desc>
       <desc type="context">During the mid-390s St. Jerome was embroiled in the Origenist
             controversy with leading figures of the Church in the East. Following the open hostility
             between the bishops Epiphanius of Salamis and John of Jerusalem, Jerome opposed his

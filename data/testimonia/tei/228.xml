@@ -1,6 +1,4 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -261,16 +259,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/228</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract228-1">
-        <quote>
-          <placeName>Καισάρεια</placeName>
-        </quote>, <quote>
-          <placeName>Καισαρείας</placeName>
-        </quote>, <quote>
-          <placeName>Kaisareia</placeName>
-        </quote>,  and <quote>
-          <placeName>Kaisareias</placeName>
-        </quote> are directly attested at <persName ref="http://viaf.org/viaf/34444948" role="author">George Choeroboscus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Prologue and Notes on
+      <desc type="abstract" xml:id="abstract228-1"><quote><placeName>Καισάρεια</placeName></quote>, <quote><placeName>Καισαρείας</placeName></quote>, <quote><placeName>Kaisareia</placeName></quote>,  and <quote><placeName>Kaisareias</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/34444948" role="author">George Choeroboscus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Prologue and Notes on
                Theodosius of Alexandria’s Introductory Rules</title> <ref target="#bib228-1">303.12-20</ref>. This passage was written circa <origDate notBefore="" notAfter="" period="#">NaN CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
       <desc type="context">Choeroboscus (“Swineherd”), whose posthumous reputation may have
             suffered from an association with iconoclasm, was a ranking official and teacher in the

@@ -1,6 +1,4 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -264,12 +262,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/197</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract197-1">
-        <quote>
-          <placeName xml:lang="grc">τὴν Καισάρειαν</placeName>
-        </quote>,  and <quote>
-          <placeName xml:lang="en">Cæsarea,</placeName>
-        </quote> are place names attested in <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg003" type="uniform" level="m">Martyrs of Palestine</title> 11.29. This testimonium was written circa <origDate period="#lateRoman" notBefore="0315" notAfter="0316">315 – 316 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract197-1"><quote><placeName xml:lang="grc">τὴν Καισάρειαν</placeName></quote>,  and <quote><placeName xml:lang="en">Cæsarea,</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg003" type="uniform" level="m">Martyrs of Palestine</title> <ref target="#bib197-1">11.29</ref>. This passage was written circa <origDate period="#lateRoman" notBefore="0315" notAfter="0316">315 – 316 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote197-1" source="#bib197-1">
         <anchor xml:id="testimonia-197.grc.1" corresp="#testimonia-197.en.1"/>ἔτι δὲ τῆς κατὰ τούτους κινήσεως ἀνὰ στόμα τοῖς πᾶσι λαλουμένης Ἀδριανὸς καὶ Εὔβουλος, ἀπὸ Μαγγαναίας οὕτω καλουμένης χώρας ὡς τοὺς λοιποὺς ὸμολογητὰς εἰς <placeName xml:lang="grc">τὴν Καισάρειαν</placeName> ἀφικόμενοι, πρὸς τῇ πύλῃ καὶ αὐτοὶ δι’ ἣν ἐληλύθασιν ἀνεκρίνοντο αἰτίαν· εἶτα ὁμολογήσαντες τἀληθὲς τῷ Φιρμιλλιανῷ προσάγονται. ὁ δ’ ὡς εἶχε, πάλιν μηδὲν ὑπερθέμενος, μετὰ πλείστας βασάνους ἅς κατὰ τῶν πλευρῶν αὐτοῖς ἐπιτέθεικε, θηρίων αὐτοὺς βορᾷ κατακρίνει.
         <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg003.1st1K-grc1:11.29</idno>

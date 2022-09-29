@@ -1,6 +1,4 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -261,12 +259,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/217</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract217-1">
-        <quote>
-          <placeName>Καισαρείᾳ</placeName>
-        </quote>,  and <quote>
-          <placeName>Caesarea</placeName>
-        </quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/13108540">Constantine
+      <desc type="abstract" xml:id="abstract217-1"><quote><placeName>Καισαρείᾳ</placeName></quote>,  and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/13108540">Constantine
                Porphyrogenitus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Plots</title> <ref target="#bib217-1">162.22-36</ref>. This passage was written circa <origDate notBefore="0930" notAfter="0955" period="#earlyIslamic">930-955 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
       <desc type="context">Constantine VII Flavius Porphyrogenitus (“born in the purple”) ruled
             the Byzantine emperor as a member of the Macedonian dynasty in 913-959 C.E. Beyond the

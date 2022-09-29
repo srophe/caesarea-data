@@ -1,6 +1,4 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -269,12 +267,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/120</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract120-1">
-        <quote>
-          <placeName xml:lang="grc">Καισαρέων</placeName>
-        </quote>,  and <quote>
-          <placeName xml:lang="en">Caesarea</placeName>
-        </quote> are place names attested in <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>'s <title ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Historia ecclesiastica</title> 8.13.6. This testimonium was written circa <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract120-1"><quote><placeName xml:lang="grc">Καισαρέων</placeName></quote>,  and <quote><placeName xml:lang="en">Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>, <title ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Historia ecclesiastica</title> <ref target="#bib120-1">8.13.6</ref>. This passage was written circa <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote120-1" source="#bib120-1">
         <anchor xml:id="testimonia-120.grc.1" corresp="#testimonia-120.en.1"/>καὶ τὸ μέγα δὲ κλέος τῆς <placeName xml:lang="grc">Καισαρέων</placeName> παροικίας ἐν τούτοις ἡμῖν μνημονευέσθω Πάμφιλος πρεσβύτερος, τῶν καθ’ ἡμᾶς θαυμασιώτατος, οὗ τῶν ἀνδραγαθημάτων τὴν ἀρετὴν κατὰ τὸν δέοντα καιρὸν ἀνεγράψαμεν.
         <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg002.1st1K-grc2:8.13.6</idno>

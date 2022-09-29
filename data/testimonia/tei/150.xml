@@ -1,6 +1,4 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -269,16 +267,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/150</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract150-1">
-        <quote>
-          <placeName xml:lang="grc">τὴν ἐπισκοπὴν Καισαρείας</placeName>
-        </quote>, <quote>
-          <placeName xml:lang="grc">τῆς ἐν Παλαιστίνῃ Καισαρείας</placeName>
-        </quote>, <quote>
-          <placeName xml:lang="en">Bishopric of Cæsarea.</placeName>
-        </quote>,  and <quote>
-          <placeName xml:lang="en">of Cæsarea in Palestine,</placeName>
-        </quote> are place names attested in <persName ref="https://viaf.org/viaf/55571017" role="author">Socrates Scholasticus </persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg2057.tlg002" type="uniform" level="m">Ecclesiastical History</title> 2.4. This testimonium was written circa <origDate period="#byzantine" when="0439">439 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract150-1"><quote><placeName xml:lang="grc">τὴν ἐπισκοπὴν Καισαρείας</placeName></quote>, <quote><placeName xml:lang="grc">τῆς ἐν Παλαιστίνῃ Καισαρείας</placeName></quote>, <quote><placeName xml:lang="en">Bishopric of Cæsarea.</placeName></quote>,  and <quote><placeName xml:lang="en">of Cæsarea in Palestine,</placeName></quote> are directly attested at <persName ref="https://viaf.org/viaf/55571017" role="author">Socrates Scholasticus </persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg2057.tlg002" type="uniform" level="m">Ecclesiastical History</title> <ref target="#bib150-1">2.4</ref>. This passage was written circa <origDate period="#byzantine" when="0439">439 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote150-1" source="#bib150-1">
         <anchor xml:id="testimonia-150.grc.1" corresp="#testimonia-150.en.1"/>Ὡς τελευτήσαντος Εὐσεβίου τοῦ Παμφίλου Ἀκάκιος <placeName xml:lang="grc">τὴν ἐπισκοπὴν Καισαρείας</placeName> διεδέξατο.Ἐν δὲ τῷδε τῷ χρόνῳ τελευτήσαντος Εὐσεβίου, ὃς <placeName xml:lang="grc">τῆς ἐν Παλαιστίνῃ Καισαρείας</placeName> ἐπίσκοπος ἦν καὶ τὴν Παμφίλου προσωνυμίαν ἐκέκτητο, Ἀκάκιος μαθητὴς αὐτοῦ τὴν ἐπισκοπὴν διαδέχεται: [*] ὃς ἄλλα μὲν βιβλία πολλὰ ἐξέθετο, καὶ εἰς τὸν βίον δὲ τοῦ διδασκάλου αὐτοῦ συνέγραψεν.    <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2057.tlg002.1st1K-grc1:2.4</idno>
         <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2057.tlg002.1st1K-grc1:2.4"/>

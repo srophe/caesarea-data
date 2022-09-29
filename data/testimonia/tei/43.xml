@@ -1,6 +1,4 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -280,20 +278,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/43</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract43-1">
-    <quote>
-          <placeName xml:lang="la">Stratonis Turris</placeName>
-        </quote>, <quote>
-          <placeName xml:lang="la">Caesarea</placeName>
-        </quote>, <quote>
-          <placeName xml:lang="la">colonia Prima Flavia</placeName>
-        </quote>, <quote>
-          <placeName xml:lang="en">Tower of Strato</placeName>
-        </quote>, <quote>
-          <placeName xml:lang="en">Cæsarea</placeName>
-        </quote>, and <quote>
-          <placeName xml:lang="en">Colony of Prima Flavia</placeName>
-        </quote> are place names attested in <persName ref="http://viaf.org/viaf/100219162" role="author">Pliny, the Elder</persName>'s <title xml:lang="en" ref="urn:cts:latinLit:phi0978.phi001" type="uniform" level="m">Natural History</title> 5.13. This testimonium was written circa <origDate period="#nabateanKingdom #earlyRoman" when="0077">77 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract43-1"><quote><placeName xml:lang="la">Stratonis Turris</placeName></quote>, <quote><placeName xml:lang="la">Caesarea</placeName></quote>, <quote><placeName xml:lang="la">colonia Prima Flavia</placeName></quote>, <quote><placeName xml:lang="en">Tower of Strato</placeName></quote>, <quote><placeName xml:lang="en">Cæsarea</placeName></quote>,  and <quote><placeName xml:lang="en">Colony of Prima Flavia</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/100219162" role="author">Pliny, the Elder</persName>, <title xml:lang="en" ref="urn:cts:latinLit:phi0978.phi001" type="uniform" level="m">Natural History</title> <ref target="#bib43-1">5.13</ref>. This passage was written circa <origDate period="#nabateanKingdom #earlyRoman" when="0077">77 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote43-1" source="#bib43-1">
         <anchor xml:id="testimonia-43.la.1" corresp="#testimonia-43.en.1"/>
         lope Phoenicum, antiquior terrarum inundatione, ut ferunt, insidet collem, praeiacente saxo, in quo vinculorum Andromedae vestigia ostendit. colitur illic fabulosa Ceto. inde Apollonia, <placeName xml:lang="la">Stratonis Turris</placeName>, eadem <placeName xml:lang="la">Caesarea</placeName> ab Herode rege condita, nunc <placeName xml:lang="la">colonia Prima Flavia</placeName> a Vespasiano Imperatore deducta, finis Palaestines, CLXXXVIIII p. a confinio Arabiae. dein Phoenice; intus autem Samariae oppida Neapolis, quod antea Mamortha dicebatur, Sebaste in monte, et altiore Gamala.

@@ -1,6 +1,4 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -279,7 +277,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/55</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract55-1"> are place names attested in <persName ref="http://viaf.org/viaf/100172302" role="author">Procopius</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg4029.tlg002" type="uniform" level="m">Secret History</title> 27.26-27.31. This testimonium was written circa <origDate period="#byzantine" notBefore="0550" notAfter="0558">550 - 558 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract55-1"> is directly attested at <persName ref="http://viaf.org/viaf/100172302" role="author">Procopius</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg4029.tlg002" type="uniform" level="m">Secret History</title> <ref target="#bib55-1">27.26-27.31</ref>. This passage was written circa <origDate period="#byzantine" notBefore="0550" notAfter="0558">550 - 558 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote55-1" source="#bib55-1">
         Φαυστῖνος ἦν τις, Παλαιστῖνος γένος, Σαμαρείτης μὲν γεγονὼς ἄνωθεν, ὀνόματος δὲ τοῦ Χριστιανῶν ἀντιλαμβανόμενος ἀνάγκῃ τοῦ νόμου. οὗτος ὁ Φαυστῖνος ἔς τε βουλῆς ἀξίωμα ἦλθε καὶ τῆς χώρας τὴν ἀρχὴν ἔσχεν, ἧσπερ αὐτὸν παραλυθέντα οὐ πολλῷ ὕστερον ἔς τε τὸ Βυζάντιον ἥκοντα τῶν τινες ἱερέων διέβαλλον ἐπενεγκάμενοι ὡς Σαμαρειτῶν νόμιμα περιστέλλει, καὶ Χριστιανοὺς δράσειε τοὺς ἐν Παλαιστίνῃ ᾠκημένους ἀνόσια ἔργα. Ἰουστινιανὸς δὲ ἀγριαίνεσθαί τε καὶ δεινὰ ποιεῖσθαι διὰ ταῦτα ἐδόκει, ὅτι δὴ αὐτοῦ τὴν Ῥωμαίων ἀρχὴν ἔχοντος τὸ τοῦ Χριστοῦ ὄνομα ὑφ̓ ὁτουοῦν διασύροιτο. οἱ μὲν οὖν ἐκ τῆς συγκλήτου βουλῆς τὴν διάγνωσιν πεποιημένοι τοῦ πράγματος φυγῇ τὸν Φαυστῖνον ἐζημίωσαν, βασιλέως ἐγκειμένου σφίσι. βασιλεὺς δὲ πρὸς αὐτοῦ χρήματα ὅσα ἐβούλετο κεκομισμένος ἀνάδικα εὐθὺς τὰ δεδικασμένα ἐποίησε. Φαυστῖνος δὲ αὖθις τὸ πρότερον ἀξίωμα ἔχων, βασιλεῖ τε ὡμίλει ἐπίτροπός τε καταστὰς τῶν ἐν Παλαιστίνῃ τε καὶ Φοινίκῃ βασιλικῶν χωρίων ἀδεέστερον ἅπαντα κατειργάζετο ὅσα οἱ αὐτῷ βουλομένῳ εἴη.
       <idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg4029.tlg002.perseus-grc1:27.26-27.31</idno>

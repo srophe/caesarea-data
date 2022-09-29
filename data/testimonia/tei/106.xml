@@ -1,6 +1,4 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -264,12 +262,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/106</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract106-1">
-    <quote>
-          <placeName xml:lang="grc">Καισάρειαν</placeName>
-        </quote>, and <quote>
-          <placeName xml:lang="en">Caesarea</placeName>
-        </quote> are place names attested in <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Ecclesiastical History</title> 6.27.1. This testimonium was written circa <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract106-1"><quote><placeName xml:lang="grc">Καισάρειαν</placeName></quote>,  and <quote><placeName xml:lang="en">Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Ecclesiastical History</title> <ref target="#bib106-1">6.27.1</ref>. This passage was written circa <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote106-1" source="#bib106-1">
         <anchor xml:id="testimonia-106.grc.1" corresp="#testimonia-106.en.1"/>τοσαύτην εἰσάγων περὶ τὸν Ὠριγένην σπουδὴν ὡς τοτὲ μὲν αὐτὸν ἀμφὶ τὰ κατ’ αὐτὸν κλίματα εἰς τὴν τῶν ἐκκλησιῶν ὠφέλειαν ἐκκαλεῖσθαι, τοτὲ δὲ ὡς αὐτὸν ἐπὶ τὴν Ἰουδαίαν στέλλεσθαι, καί τινας αὐτῷ συνδιατρίβειν χρόνους, τῆς εἰς τὰ θεῖα βελτιώσεως ἕνεκα. οὐ μὴν ἀλλὰ καὶ ὁ τῆς Ιεροσολύμων προεστὼς Ἀλέξανδρος, Θεόκτιστός τε ὁ κατὰ <placeName xml:lang="grc">Καισάρειαν</placeName>, τὸν πάντα χρόνον ὡς ἔπος εἰπεῖν προσανέχοντες αὐτῷ οἷα διδασκάλῳ μόνῳ, τὰ τῆς τῶν θείων γραφῶν ἑρμηνείας καὶ τὰ λοιπὰ τοῦ ἐκκλησιαστικοῦ λόγου πράττειν συνεχώρουν.
         <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg002.1st1K-grc2:6.27.1</idno>

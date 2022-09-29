@@ -1,6 +1,4 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -279,12 +277,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/35</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract35-1">
-    <quote>
-          <placeName xml:lang="grc">τῇ θαλάττῃ Καισάρειαν</placeName>
-        </quote>, and <quote>
-          <placeName xml:lang="en">that Cesarea which lay by the sea-side</placeName>
-        </quote> are place names attested in <persName ref="http://viaf.org/viaf/22143666" role="author">Josephus</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg004" type="uniform" level="m">The Jewish War</title> 7.20. This testimonium was written circa <origDate period="#nabateanKingdom #earlyRoman #herodian" notBefore="0070" notAfter="0090">70 - 90 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract35-1"><quote><placeName xml:lang="grc">τῇ θαλάττῃ Καισάρειαν</placeName></quote>,  and <quote><placeName xml:lang="en">that Cesarea which lay by the sea-side</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/22143666" role="author">Josephus</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg004" type="uniform" level="m">The Jewish War</title> <ref target="#bib35-1">7.20</ref>. This passage was written circa <origDate period="#nabateanKingdom #earlyRoman #herodian" notBefore="0070" notAfter="0090">70 - 90 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote35-1" source="#bib35-1">
         <anchor xml:id="testimonia-35.grc.1" corresp="#testimonia-35.en.1"/>
         καὶ καταβὰς ἅμα τῷ στρατῷ πρὸς τὴνἐπὶ <placeName xml:lang="grc">τῇ θαλάττῃ Καισάρειαν</placeName> εἰς ταύτην τό τεπλῆθος τῶν λαφύρων ἀπέθετο καὶ τοὺς αἰχμαλώτους προσέταξεν ἐν αὐτῇφυλάττεσθαι: τὸν γὰρ εἰς τὴν Ἰταλίαν πλοῦνὁ χειμὼν ἐκώλυε.

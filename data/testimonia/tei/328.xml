@@ -1,6 +1,4 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -265,7 +263,7 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/328</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract328-1">Caeasrea Maritima is indirectly attested at <persName role="author" ref="http://viaf.org/viaf/61550437">Palladius of
+         <desc type="abstract" xml:id="abstract328-1">and <quote><placeName>Καισαρείας τῆς Παλαιστίνης</placeName></quote> is directly attested at <persName role="author" ref="http://viaf.org/viaf/61550437">Palladius of
                Galatia</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Dialog on the Life of St. John
                Chrysostom</title> <ref target="#bib328-1">20.143-157</ref>. This passage was written circa <origDate notBefore="0405" notAfter="0408" period="#byzantine">405-408 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/511240">Helenopolis</origPlace>.</desc>
          <desc type="context">During an era of revolutionary religious practice and intense

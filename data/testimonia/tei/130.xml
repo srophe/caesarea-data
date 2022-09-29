@@ -1,6 +1,4 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -264,7 +262,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/130</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract130-1">Caesarea Maritima is indirectly attested in <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg020" type="uniform" level="m">Life of Constantine</title> 1.19. This testimonium was written circa <origDate period="#byzantine" when="0339">339 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract130-1"> is directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg020" type="uniform" level="m">Life of Constantine</title> <ref target="#bib130-1">1.19</ref>. This passage was written circa <origDate period="#byzantine" when="0339">339 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote130-1" source="#bib130-1">
         <anchor xml:id="testimonia-130.grc.1" corresp="#testimonia-130.en.1"/>Συνῆν μὲν γὰρ οὑτος τοῖς τῆς βασιλείας κοινωνοῖς, καὶ μέσοις αὐτοῖς, ὡς εἵρηται, κατ’ αὐτὸν ἐκεῖνον τὸν παλαιὸν τοῦ θεοῦ προφήτην τὰς διατριβὰς ἐποιεῖτο. ἤδη δ' ἐκ τοῦ παιδὸς ἐπὶ τὸν νεανίαν τιμῆς τῆς πρώτης παρ' αὐτοῖς ἡξιοῦτο. οἶον αὐτὸν καὶ ἡμεῖς ἔγνωμεν τὸ Παλαιστινῶν διερχόμενον ἔθνος σὺν τῷ πρεσβυτέρῳ τῶν βασιλέων, οὑ καὶ ἐπὶ δεξιὰ παρεστὼς περιφανέστατος ἦν τοῖς ἀρᾶν θέλουσιν, οἶός τε βασιλικοῦ φρονήματος ἐξ ἐκείνου τεκμήρια παρέχων. σώματος μὲν γὰρ εἰς κάλλους ὥραν μέγεθός τε ἡλικίας οὑδ' ἦν αὐτῷ παραβαλεῖν ἔτερον, ῥώμῃ δ' ἱσχύος τοσοῦτον ἐπλεονέκτει τοὺς ὁμήλικας ὡς καὶ φοβερὸν αὐτοῖς εἶναι, ταῖς δὲ κατὰ ψυχὴν ἀρεταῖς μᾶλλον ἢ τοῖς κατὰ τὸ σῶμα πλεονεκτήμασιν ἐνηβρύνετο, σωφροσύνῃ πρώτιστα τὴν ψυχὴν κοσμούμενος πάντων, κἄπειτα παιδεύσει λόγων φρονήσει τ' ἐμφύτῳ καὶ τῇ θεοσδότῳ σοφίᾳ διαφερόντως ἐκπρέπων.
         <note type="corrigenda">Inaccuracies found in the transcription of the electronic text compared to its printed source have been corrected.</note>

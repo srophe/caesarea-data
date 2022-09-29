@@ -1,6 +1,4 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -267,12 +265,7 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/214</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract214-1">
-        <quote>
-          <placeName>Καισάρεια</placeName>
-        </quote>,  and <quote>
-          <placeName>Kaisareia</placeName>
-        </quote> are directly attested at <persName ref="http://viaf.org/viaf/88626271" role="author">Aelius Herodian</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg0087.tlg011" type="uniform" level="m">Correct Spelling</title> <ref target="#bib214-1">2.2.4.127</ref>. This passage was written circa <origDate notBefore="0150" notAfter="0200" period="#lateRoman">150-200 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/727070">Alexandria</origPlace>.</desc>
+         <desc type="abstract" xml:id="abstract214-1"><quote><placeName>Καισάρεια</placeName></quote>,  and <quote><placeName>Kaisareia</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/88626271" role="author">Aelius Herodian</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg0087.tlg011" type="uniform" level="m">Correct Spelling</title> <ref target="#bib214-1">2.2.4.127</ref>. This passage was written circa <origDate notBefore="0150" notAfter="0200" period="#lateRoman">150-200 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/727070">Alexandria</origPlace>.</desc>
          <desc type="context">Aelius Herodian studied and taught language and literature (“grammar”)
             in Alexandria, the intellectual and cultural center of the Roman East, before moving to
             Rome as a celebrated scholar later in his career. In his grammatical treatise on

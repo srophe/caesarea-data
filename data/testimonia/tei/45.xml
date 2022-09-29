@@ -1,6 +1,4 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -269,13 +267,8 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/45</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract45-1">
-        <quote>
-          <placeName>Καισαρείας</placeName>
-        </quote>,  and <quote>
-          <placeName>Kaisareia</placeName>
-        </quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/3886149368839785980008">Pseudo-Aelius
-               Herodianus</persName>, <title xml:lang="en" type="uniform" level="m">Parsings</title> <ref target="#bib45-1">63</ref>. This passage was written circa <origDate notBefore="1100" notAfter="1400" period="#crusader# lateIslamic">1100-1400 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+         <desc type="abstract" xml:id="abstract45-1"><quote><placeName>Καισαρείας</placeName></quote>,  and <quote><placeName>Kaisareia</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/3886149368839785980008">Pseudo-Aelius
+               Herodianus</persName>, <title xml:lang="en" type="uniform" level="m">Parsings</title> <ref target="#bib45-1">63</ref>. This passage was written circa <origDate notBefore="1100" notAfter="1400" period="#crusader #lateIslamic">1100-1400 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
          <desc type="context">Although we do not know the authorship or date of the grammatical
             treatise Parsings (Ἐπιμερισμοί), its language points to the late phase of scholarship at
             Constantinople during the 12th to 14th centuries. The manuscripts falsely attributed it
