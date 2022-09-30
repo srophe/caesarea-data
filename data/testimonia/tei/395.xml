@@ -248,7 +248,7 @@
          </abstract>
          <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Book of Lands</title> <ref target="#bib395-1">115-116</ref> written by <persName role="author" ref="http://viaf.org/viaf/39629789">al-Yaʿqūbī</persName> in <origDate notBefore="0889" notAfter="0890" period="#earlyIslamic">889-890 CE</origDate>. This work was likely written in <origPlace/>.</creation>
          <langUsage>
-            <language ident="ar">Arabic</language>
+            <language ident="la">Latin</language>
          </langUsage>
          <textClass>
             <classCode scheme="https://distributed-text-services.github.io/specifications">
@@ -279,8 +279,8 @@
             in Khurasan, al-Yaʿqūbī reportedly wrote his history and compiled his geographic text
             after his tenure. In <title>Book of Lands</title>, al-Yaʿqūbī refers to Caesarea in the
             section on the military districts of Palestine.</desc>
-         <ab type="edition" xml:lang="lara" xml:id="quote395-1" source="#bib395-1">
-        <anchor xml:id="testimonia-395.ar.1" corresp="#testimonia-395.en.1"/>جند فلسطين: ومن جند الاردّن الى جند فلسطين ثلث مراحل ومدينة فلسطين
+         <ab type="edition" xml:lang="la" xml:id="quote395-1" source="#bib395-1">
+        <anchor xml:id="testimonia-395.la.1" corresp="#testimonia-395.en.1"/>جند فلسطين: ومن جند الاردّن الى جند فلسطين ثلث مراحل ومدينة فلسطين
             القديمة كانت مدينة يقال لها لدّ فلما ولى سليمان ابن عبد الملك الخلافة ابتنى مدينة فلسطين
             ولها نهر صغير منه شرب اهلها ونهر ابى فُطْتُس منها على اثنى عشر ميلًا وشرب اهل الرملة
             ايضاء من ماء الابار ومن صهاريج يجرى فيها ماء المطر واهل المدينة اخلاط من الناس من العرب
@@ -307,7 +307,7 @@
         <ref target="https://archive.org/details/kitabalbuldan00yaquuoft/page/37/mode/2up"/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote395-2" source="#bib395-2">
-        <anchor xml:id="testimonia-395.en.1" corresp="#testimonia-395.ar.1"/>Section on the military district of Palestine: From the military
+        <anchor xml:id="testimonia-395.en.1" corresp="#testimonia-395.la.1"/>Section on the military district of Palestine: From the military
             units of Jordan to the military units of Palestine is three stages. The old city of
             Palestine was a city called Ludd. When Sulaymān ibn ʿAbd al-Mālik became caliph, he
             erected the city of al-Ramla; he destroyed the city of Ludd and relocated its
