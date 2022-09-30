@@ -1,6 +1,4 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -268,12 +266,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/107</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract107-1">
-        <quote>
-          <placeName xml:lang="grc">Καισαρείᾳ</placeName>
-        </quote>,  and <quote>
-          <placeName xml:lang="en">Caesarea</placeName>
-        </quote> are directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Ecclesiastical History</title> <ref target="#bib107-1">6.28.1</ref>. This passage was written circa <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract107-1"><quote><placeName xml:lang="grc">Καισαρείᾳ</placeName></quote>, and <quote><placeName xml:lang="en">Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Ecclesiastical History</title> <ref target="#bib107-1">6.28.1</ref>. This passage was written ca. <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote107-1" source="#bib107-1">
         <anchor xml:id="testimonia-107.grc.1" corresp="#testimonia-107.en.1"/>Τόν γε μὴν Ῥωμαίων αὐτοκράτορα Ἀλέξανδρον τρισὶν ἐπὶ δέκα ἔτεσι τὴν ἀρχὴν διανύσαντα Μαξιμῖνος Καῖσαρ διαδέχεται, ὃς δὴ κατὰ κότον τὸν πρὸς τὸν Ἀλεξάνδρου οἶκον, ἐκ πλειόνων πιστῶν συνεστῶτα, διωγμὸν ἐγείρας, τοὺς τῶν ἐκκλησιῶν ἄρχοντας μόνους ὡς αἰτίους τῆς κατὰ τὸ εὐαγγέλιον διδασκαλίας ἀναιρεῖσθαι προστάττει. τότε καὶ Ὠριγένης τὸν περὶ μαρτυρίου συντάττει, Ἀμβροσίῳ καὶ Πρωτοκτήτῳ πρεσβυτέρῳ τῆς ἐν <placeName xml:lang="grc">Καισαρείᾳ</placeName> παροικίας ἀναθεὶς τὸ σύγγραμμα, ὅτι δὴ ἄμφω περίστασις οὐχ ἡ τυχοῦσα ἐν τῷ διωγμῷ κατειλήφει, ἐν ᾗ καὶ διαπρέψαι κατέχει λόγος ἐν ὁμολογίᾳ τοὺς ἄνδρας, οὐ πλείονος ἢ τριετοῦς χρόνου τῷ Μαξιμίνῳ διαγενομένου. σεσημείωται δὲ τουτονὶ τοῦ διωγμοῦ τὸν καιρὸν ἔν τε τῷ δευτέρῳ καὶ εἰκοστῷ τῶν εἰς τὸ κατὰ Ἰωάννην ἐξηγητικῶν καὶ ἐν διαφόροις ἐπιστολαῖς Ὠριγένης.
         <note type="corrigenda">Inaccuracies found in the transcription of the electronic text compared to its printed source have been corrected.</note>

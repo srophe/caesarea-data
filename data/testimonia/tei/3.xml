@@ -1,6 +1,4 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -272,16 +270,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/3</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract3-1">
-        <quote>
-          <placeName>Στράτωνος πύργον</placeName>
-        </quote>, <quote>
-          <placeName>Καισάρειαν</placeName>
-        </quote>, <quote>
-          <placeName>Strato's Tower</placeName>
-        </quote>,  and <quote>
-          <placeName>Cesarea</placeName>
-        </quote> are directly attested at <persName ref="http://viaf.org/viaf/22143666" role="author">Josephus</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg001" type="uniform" level="m">Antiquities of the Jews</title> <ref target="#bib3-1">15.293</ref>. This passage was written circa <origDate period="#nabateanKingdom #earlyRoman" notBefore="0093" notAfter="0094">93 – 94 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract3-1"><quote><placeName>Στράτωνος πύργον</placeName></quote>, <quote><placeName>Καισάρειαν</placeName></quote>, <quote><placeName>Strato's Tower</placeName></quote>, and <quote><placeName>Cesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/22143666" role="author">Josephus</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg001" type="uniform" level="m">Antiquities of the Jews</title> <ref target="#bib3-1">15.293</ref>. This passage was written ca. <origDate period="#nabateanKingdom #earlyRoman" notBefore="0093" notAfter="0094">93 – 94 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote3-1" source="#bib3-1">
         <anchor xml:id="testimonia-3.grc.1" corresp="#testimonia-3.en.1"/>
         οἰόμενος δὲ κατὰ τῆς χώρας οὐδὲν ἔλαττον ἰσχυροποιεῖν τὸν τόπον, ἀπέχοντα μὲν Ἱεροσολύμων μιᾶς ὁδὸν ἡμέρας, εὔχρηστον δ᾽ ὄντα καὶ κοινὸν ἐπί τε τοῖς ἐν τῇ πόλει καὶ τῇ χώρᾳ γενησόμενον. τῷ δὲ ἔθνει παντὶ φρούριον ἐνῳκοδόμησεν τὸ πάλαι μὲν καλούμενον <placeName>Στράτωνος πύργον</placeName>, <placeName>Καισάρειαν</placeName> δ᾽ ὑπ᾽ αὐτοῦ προσαγορευθέν.

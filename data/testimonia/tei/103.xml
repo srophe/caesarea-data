@@ -1,6 +1,4 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -268,12 +266,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/103</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract103-1">
-        <quote>
-          <placeName xml:lang="grc">Καισαρείᾳ</placeName>
-        </quote>,  and <quote>
-          <placeName xml:lang="en">Caesarea</placeName>
-        </quote> are directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Ecclesiastical History</title> <ref target="#bib103-1">6.19.16</ref>. This passage was written circa <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract103-1"><quote><placeName xml:lang="grc">Καισαρείᾳ</placeName></quote>, and <quote><placeName xml:lang="en">Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Ecclesiastical History</title> <ref target="#bib103-1">6.19.16</ref>. This passage was written ca. <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote103-1" source="#bib103-1">
         <anchor xml:id="testimonia-103.grc.1" corresp="#testimonia-103.en.1"/>χρόνου δὲ μεταξὺ διαγενομένου, οὐ σμικροῦ κατὰ τὴν πόλιν ἀναρριπισθέντος πολέμου, ὑπεξελθὼν τῆς Ἀλεξανδρείας, καὶ μηδὲ τὰς κατ’ Αἴγυπτον διατριβὰς ἀσφαλεῖς ἑαυτῷ ἡγούμενος, ἐλθὼν ἐπὶ Παλαιστίνης, ἐν <placeName xml:lang="grc">Καισαρείᾳ</placeName> τὰς διατριβὰς ἐποιεῖτο, ἔνθα καὶ διαλέγεσθαι τάς τε θείας ἑρμηνεύειν γραφὰς ἐπὶ τοῦ κοινοῦ τῆς ἐκκλησίας οἱ τῇδε ἐπίσκοποι, καίτοι τῆς τοῦ πρεσβυτερίου χειροτονίας οὐδέπω τετυχηκότα αὐτὸν ἠξίουν.
         <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg002.1st1K-grc2:6.19.16</idno>

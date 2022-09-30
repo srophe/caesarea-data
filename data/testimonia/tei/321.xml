@@ -1,6 +1,4 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -267,8 +265,8 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/321</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract321-1">Caeasrea Maritima is indirectly attested at <persName role="author" ref="http://viaf.org/viaf/89139709">Gelasius of
-               Cyzicus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Church History </title> <ref target="#bib321-1">3.3.6-3.4.6</ref>. This passage was written circa <origDate notBefore="0470" notAfter="0480" period="#byzantine">470-480 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/511218">Cyzicus</origPlace>.</desc>
+         <desc type="abstract" xml:id="abstract321-1">Caesarea Maritima is indirectly attested at <persName role="author" ref="http://viaf.org/viaf/89139709">Gelasius of
+               Cyzicus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Church History </title> <ref target="#bib321-1">3.3.6-3.4.6</ref>. This passage was written ca. <origDate notBefore="0470" notAfter="0480" period="#byzantine">470-480 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/511218">Cyzicus</origPlace>.</desc>
          <desc type="context">We know almost nothing about Gelasius, who tells his readers that he
             was the son of a priest in Cyzicus in Mysia. He wrote an ecclesiastical history in
             defense of Orthodoxy against Monophysitism that concentrated on the Constantinian era.

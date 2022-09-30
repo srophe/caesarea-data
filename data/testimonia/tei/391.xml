@@ -1,6 +1,4 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -267,8 +265,8 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/391</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract391-1">Caeasrea Maritima is indirectly attested at <persName role="author" ref=" http://viaf.org/viaf/103646160 ">Gregory of
-               Nyssa</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Life of Gregory the Miracle-Worker </title> <ref target="#bib391-1">905C-908D</ref>. This passage was written circa <origDate notBefore="0380" notAfter="0385" period="#byzantine">380-385 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/857287">Pontus</origPlace>.</desc>
+         <desc type="abstract" xml:id="abstract391-1">Caesarea Maritima is indirectly attested at <persName role="author" ref=" http://viaf.org/viaf/103646160 ">Gregory of
+               Nyssa</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Life of Gregory the Miracle-Worker </title> <ref target="#bib391-1">905C-908D</ref>. This passage was written ca. <origDate notBefore="0380" notAfter="0385" period="#byzantine">380-385 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/857287">Pontus</origPlace>.</desc>
          <desc type="context">Gregory of Nyssa was a learned theologian of the 4th century venerated
             as one of the so-called Cappadocian Fathers. Raised in a prominent Christian family in
             Pontus, he became bishop of Nyssa in Cappadocia in 372, while his famous brother Basil

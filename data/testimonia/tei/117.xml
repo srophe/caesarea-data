@@ -1,6 +1,4 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -273,12 +271,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/117</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract117-1">
-        <quote>
-          <placeName xml:lang="grc">Καισαρείας</placeName>
-        </quote>,  and <quote>
-          <placeName xml:lang="en">Caesarea</placeName>
-        </quote> are directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>, <title ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Historia ecclesiastica</title> <ref target="#bib117-1">7.32.21</ref>. This passage was written circa <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract117-1"><quote><placeName xml:lang="grc">Καισαρείας</placeName></quote>, and <quote><placeName xml:lang="en">Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>, <title ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Historia ecclesiastica</title> <ref target="#bib117-1">7.32.21</ref>. This passage was written ca. <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote117-1" source="#bib117-1">
         <anchor xml:id="testimonia-117.grc.1" corresp="#testimonia-117.en.1"/>τούτῳ πρῶτος ὁ τῆς Παλαιστινῶν <placeName xml:lang="grc">Καισαρείας</placeName> ἐπίσκοπος Θεότεκνος χεῖρας εἰς ἐπισκοπὴν ἐπιτέθεικε, διάδοχον ἑαυτοῦ μετὰ τελευτὴν ποριεῖσθαι τῇ ἰδίᾳ παροικίᾳ προμνώμενος. καὶ δὴ ἐπὶ σμικρόν τινα χρόνον ἄμφω τῆς αὐτῆς προύστησαν ἐκκλησίας, ἀλλὰ γὰρ ἐπὶ τὴν Ἀντιόχειαν τῆς κατὰ Παῦλον συνόδου καλούσης, τὴν Λαοδικέων πόλιν παριὼν πρὸς τῶν ἀδελφῶν αὐτόθι κοιμηθέντος Εὐσεβίου κεκράτηται·    <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg002.1st1K-grc2:7.32.21</idno>
         <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2018.tlg002.1st1K-grc2:7.32.21"/>

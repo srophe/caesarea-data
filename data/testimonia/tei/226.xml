@@ -1,6 +1,4 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -266,10 +264,8 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/226</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract226-1">and <quote>
-          <placeName>Caesarea</placeName>
-        </quote> is directly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Exhibit of the Whole World and its
-               Peoples</title> <ref target="#bib226-1">31</ref>. This passage was written circa <origDate notBefore="0500" notAfter="0600" period="#byzantine">500-600 CE</origDate> possibly in <origPlace/>.</desc>
+      <desc type="abstract" xml:id="abstract226-1">and <quote><placeName>Caesarea</placeName></quote> is directly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Exhibit of the Whole World and its
+               Peoples</title> <ref target="#bib226-1">31</ref>. This passage was written ca. <origDate notBefore="0500" notAfter="0600" period="#byzantine">500-600 CE</origDate> possibly in <origPlace/>.</desc>
       <desc type="context">Exhibit of the Whole World and its Peoples was composed by a learned
             resident of the eastern Roman Empire during the reign of Constantius II, probably during
             the late 350s in Syria-Phoenicia. It is a condensed geographical survey with annotations

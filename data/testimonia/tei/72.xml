@@ -1,6 +1,4 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -268,12 +266,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/72</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract72-1">
-        <quote>
-          <placeName xml:lang="grc">Καισαρίαν</placeName>
-        </quote>,  and <quote>
-          <placeName xml:lang="en">Caesarea</placeName>
-        </quote> are directly attested at <persName ref="http://viaf.org/viaf/305863610" role="author">Luke the Evangelist</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg0031.tlg005" type="uniform" level="m">Acts</title> <ref target="#bib72-1">12.19-12.23</ref>. This passage was written circa <origDate period="#nabateanKingdom #earlyRoman" notBefore="0080" notAfter="0090">80 – 90 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract72-1"><quote><placeName xml:lang="grc">Καισαρίαν</placeName></quote>, and <quote><placeName xml:lang="en">Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/305863610" role="author">Luke the Evangelist</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg0031.tlg005" type="uniform" level="m">Acts</title> <ref target="#bib72-1">12.19-12.23</ref>. This passage was written ca. <origDate period="#nabateanKingdom #earlyRoman" notBefore="0080" notAfter="0090">80 – 90 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote72-1" source="#bib72-1">
         <anchor xml:id="testimonia-72.grc.1" corresp="#testimonia-72.en.1"/>Ἡρῴδης δὲ ἐπιζητήσας αὐτὸν καὶ μὴ εὑρὼν ἀνακρίνας τοὺς φύλακας ἐκέλευσεν ἀπαχθῆναι, καὶ κατελθὼν ἀπὸ τῆς Ἰουδαίας εἰς <placeName xml:lang="grc">Καισαρίαν</placeName> διέτριβεν. Ἦν δὲ θυμομαχῶν Τυρίοις καὶ Σιδωνίοις· ὁμοθυμαδὸν δὲ παρῆσαν πρὸς αὐτόν, καὶ πείσαντες Βλάστον τὸν ἐπὶ τοῦ κοιτῶνος τοῦ βασιλέως ᾐτοῦντο εἰρήνην διὰ τὸ τρέφεσθαι αὐτῶν τὴν χώραν ἀπὸ τῆς βασιλικῆς. τακτῇ δὲ ἡμέρᾳ [ὁ] Ἡρῴδης ἐνδυσάμενος ἐσθῆτα βασιλικὴν καθίσας ἐπὶ τοῦ βήματος ἐδημηγόρει πρὸς αὐτούς· ὁ δὲ δῆμος ἐπεφώνει Θεοῦ φωνὴ καὶ οὐκ ἀνθρώπου. παραχρῆμα δὲ ἐπάταξεν αὐτὸν ἄγγελος Κυρίου ἀνθʼ ὧν οὐκ ἔδωκεν τὴν δόξαν τῷ θεῷ, καὶ γενόμενος σκωληκόβρωτος ἐξέψυξͅεν.
         <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg0031.tlg005.perseus-grc2:12.19-12.23</idno>

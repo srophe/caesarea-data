@@ -1,6 +1,4 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -268,12 +266,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/57</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract57-1">
-        <quote>
-          <placeName xml:lang="la">Caesariensis</placeName>
-        </quote>,  and <quote>
-          <placeName xml:lang="en">Caesarea</placeName>
-        </quote> are directly attested at <persName ref="https://viaf.org/viaf/88881722" role="author">Justinian I</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Digesta L</title> <ref target="#bib57-1">15.1.6</ref>. This passage was written circa <origDate period="#byzantine" notBefore="0530" notAfter="0533">530 - 533 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract57-1"><quote><placeName xml:lang="la">Caesariensis</placeName></quote>, and <quote><placeName xml:lang="en">Caesarea</placeName></quote> are directly attested at <persName ref="https://viaf.org/viaf/88881722" role="author">Justinian I</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Digesta L</title> <ref target="#bib57-1">15.1.6</ref>. This passage was written ca. <origDate period="#byzantine" notBefore="0530" notAfter="0533">530 - 533 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote57-1" source="#bib57-1">
         <anchor xml:id="testimonia-57.la.1" corresp="#testimonia-57.en.1"/>In Palaestina duae fuerunt coloniae, <placeName xml:lang="la">Caesariensis</placeName> et Aelia Capitolina, sed neutra ius Italicum habet.
         <idno type="CTS-URN"/>

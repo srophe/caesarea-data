@@ -1,6 +1,4 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -268,12 +266,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/97</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract97-1">
-        <quote>
-          <placeName xml:lang="grc">Καισαρείας δὲ τῆς ἐπὶ Παλαιστίνῃ</placeName>
-        </quote>,  and <quote>
-          <placeName xml:lang="en">Caesarea in Palestine</placeName>
-        </quote> are directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Ecclesiastical History</title> <ref target="#bib97-1">5.22.1</ref>. This passage was written circa <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract97-1"><quote><placeName xml:lang="grc">Καισαρείας δὲ τῆς ἐπὶ Παλαιστίνῃ</placeName></quote>, and <quote><placeName xml:lang="en">Caesarea in Palestine</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Ecclesiastical History</title> <ref target="#bib97-1">5.22.1</ref>. This passage was written ca. <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote97-1" source="#bib97-1">
         <anchor xml:id="testimonia-97.grc.1" corresp="#testimonia-97.en.1"/>Δεκάτῳ γε μὴν τῆς Κομόδου βασιλείας ἔτει δέκα πρὸς τρισὶν ἔτεσι τὴν ἐπισκοπὴν λελειτουργηκότα Ἐλεύθερον διαδέχεται Βίκτωρ· ἐν ᾧ καὶ Ἰουλιανοῦ δέκατον ἔτος ἀναπλήσαντος τῶν κατ’ Ἀλεξάνδρειαν παροικιῶν τὴν ἐγχειρίζεται Δημήτριος· καθ’ οὓς καὶ τῆς Ἀντιοχέων ἐκκλησίας ὄγδοος ἀπὸ τῶν ἀποστόλων ὁ πρόσθεν ἤδη δεδηλωμένος ἔτι τότε Σαραπίων ἐπίσκοπος ἐγνωρίζετο· <placeName xml:lang="grc">Καισαρείας δὲ τῆς ἐπὶ Παλαιστίνῃ</placeName> καθηγεῖτο Θεόφιλος. καὶ Νάρκισσος δὲ ὁμοίως, οὗ καὶ πρόσθεν ὁ λόγος μνήμην ἐποιήσατο, τῆς ἐν Ἱεροσολύμοις ἐκκλησίας ἔτι τότε τὴν λειτουργίαν εἶχεν. Κορίνθου δὲ τῆς καθ’ Ἑλλάδα κατὰ τοὺς αὐτοὺς χρόνους ἐπίσκοπος ἦν Βάκχυλλος, καὶ τῆς ἐν Ἐφέσω παροικίας Πολυκράτης, καὶ ἄλλοι δὲ, ὥς γε εἰκὸς, ἐπὶ τούτοις μυρίοι κατὰ τούσδε διέπρεπον. ὧν γε μὴν ἔγγραφος ἡ τῆς πίστεως εἰς ἡμὰς κατῆλθεν ὀρθοδοξία, τούτους εἰκότως ὀνομαστὶ κατελέξαμεν.
         <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg002.1st1K-grc2:5.22.1</idno>

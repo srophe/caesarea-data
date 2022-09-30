@@ -1,6 +1,4 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -265,18 +263,9 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/211</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract211-1">
-        <quote>
-          <placeName>Caesareae
-               Palestinae</placeName>
-        </quote>, <quote>
-          <placeName>Caesarea
-               Palestina</placeName>
-        </quote>, <quote>
-          <placeName>Caearea Palestinae</placeName>
-        </quote>,  and <quote>
-          <placeName>Caesarea Palestina</placeName>
-        </quote> are directly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Bordeaux Itinerary</title> <ref target="#bib211-1">584.1-586.2</ref>. This passage was written circa <origDate notBefore="0333" notAfter="0334" period="#byzantine">333-334 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
+         <desc type="abstract" xml:id="abstract211-1"><quote><placeName>Caesareae
+               Palestinae</placeName></quote>, <quote><placeName>Caesarea
+               Palestina</placeName></quote>, <quote><placeName>Caearea Palestinae</placeName></quote>, and <quote><placeName>Caesarea Palestina</placeName></quote> are directly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Bordeaux Itinerary</title> <ref target="#bib211-1">584.1-586.2</ref>. This passage was written ca. <origDate notBefore="0333" notAfter="0334" period="#byzantine">333-334 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
          <desc type="context">The earliest surviving firsthand account of Christian pilgrimage was
             written by an unknown man from Bordeaux in southwestern France (Roman Burdigala) who
             travelled overland to Syria and Palestine in 333-334 C.E. His account, organized as a

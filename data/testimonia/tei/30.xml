@@ -1,6 +1,4 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -272,14 +270,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/30</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract30-1">
-        <quote>
-          <placeName xml:lang="grc">Καισάρειαν</placeName>
-        </quote>, <quote>
-          <placeName xml:lang="grc">τῆς Καισαρείας</placeName>
-        </quote>,  and <quote>
-          <placeName xml:lang="en">Cesarea</placeName>
-        </quote> are directly attested at <persName ref="http://viaf.org/viaf/22143666" role="author">Josephus</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg004" type="uniform" level="m">The Jewish War</title> <ref target="#bib30-1">2.507-2.513</ref>. This passage was written circa <origDate period="#nabateanKingdom #earlyRoman #herodian" notBefore="0070" notAfter="0090">70 - 90 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract30-1"><quote><placeName xml:lang="grc">Καισάρειαν</placeName></quote>, <quote><placeName xml:lang="grc">τῆς Καισαρείας</placeName></quote>, and <quote><placeName xml:lang="en">Cesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/22143666" role="author">Josephus</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg004" type="uniform" level="m">The Jewish War</title> <ref target="#bib30-1">2.507-2.513</ref>. This passage was written ca. <origDate period="#nabateanKingdom #earlyRoman #herodian" notBefore="0070" notAfter="0090">70 - 90 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote30-1" source="#bib30-1">
         <anchor xml:id="testimonia-30.grc.1" corresp="#testimonia-30.en.1"/>
         Ὁ δὲ Κέστιος ἀναζεύξας ἀπὸ τῆς Πτολεμαΐδος αὐτὸς μὲν εἰς <placeName xml:lang="grc">Καισάρειαν</placeName> ἀφικνεῖται, μοῖραν δὲ τῆς στρατιᾶς προέπεμψεν εἰς Ἰόππην, προστάξας, εἰ μὲν καταλαβέσθαι δυνηθεῖεν τὴν πόλιν, φρουρεῖν, εἰ δὲ προαίσθοιντο τὴν ἔφοδον, περιμένειν αὐτόν τε καὶ τὴν ἄλλην δύναμιν. τῶν δὲ οἱ μὲν κατὰ θάλασσαν οἱ δὲ κατὰ γῆν ἐπειχθέντες ἀμφοτέρωθεν αἱροῦσιν τὴν πόλιν ῥᾳδίως: καὶ μηδὲ φυγεῖν φθασάντων τῶν οἰκητόρων, οὐχ ὅπως παρασκευάσασθαι πρὸς μάχην, ἐμπεσόντες ἅπαντας ἀνεῖλον σὺν ταῖς γενεαῖς καὶ τὴν πόλιν διαρπάσαντες ἐνέπρησαν: ὁ δὲ ἀριθμὸς τῶν φονευθέντων τετρακόσιοι πρὸς ὀκτακισχιλίοις. ὁμοίως δὲ καὶ εἰς τὴν ὅμορον <placeName xml:lang="grc">τῆς Καισαρείας</placeName> Ναρβατηνὴν τοπαρχίαν ἔπεμψεν συχνοὺς τῶν ἱππέων, οἳ τήν τε γῆν ἔτεμον καὶ πολὺ πλῆθος διέφθειραν τῶν ἐπιχωρίων τάς τε κτήσεις διήρπασαν καὶ τὰς κώμας κατέφλεξαν. Εἰς δὲ τὴν Γαλιλαίαν ἀπέστειλεν Καισέννιον Γάλλον ἡγεμόνα τοῦ δωδεκάτου τάγματος παραδοὺς δύναμιν ὅσην ἀρκέσειν πρὸς τὸ ἔθνος ὑπελάμβανεν. τοῦτον ἡ καρτερωτάτη τῆς Γαλιλαίας πόλις Σέπφωρις μετ᾽ εὐφημίας δέχεται, καὶ πρὸς τὴν ταύτης εὐβουλίαν αἱ λοιπαὶ πόλεις ἠρέμουν. τὸ δὲ στασιῶδες καὶ λῃστρικὸν πᾶν ἔφυγεν εἰς τὸ μεσαίτατον τῆς Γαλιλαίας ὄρος, ὃ κεῖται μὲν ἀντικρὺ τῆς Σεπφώρεως, καλεῖται δὲ Ἀσαμών. τούτοις ὁ Γάλλος ἐπῆγε τὴν δύναμιν. οἱ δὲ ἕως μὲν ἦσαν ὑπερδέξιοι, ῥᾳδίως τοὺς Ῥωμαίους ἠμύναντο προσιόντας καὶ πρὸς διακοσίους αὐτῶν ἀνεῖλον, περιελθόντων δὲ καὶ γενομένων ἐν τοῖς ὑψηλοτέροις ἡττῶντο ταχέως, καὶ οὔτε γυμνῆτες ὁπλίτας συστάδην ἔφερον οὔτε ἐν τῇ τροπῇ τοὺς ἱππεῖς ἐξέφευγον, ὥστε ὀλίγους μὲν ἐν ταῖς δυσχωρίαις διαλαθεῖν, ἀναιρεθῆναι δὲ ὑπὲρ δισχιλίους. Γάλλος μὲν οὖν ὡς οὐδὲν ἔτι ἑώρα κατὰ τὴν Γαλιλαίαν νεωτεριζόμενον, ὑπέστρεφεν μετὰ τῆς στρατιᾶς εἰς <placeName xml:lang="grc">Καισάρειαν</placeName> : Κέστιος δὲ μετὰ πάσης τῆς δυνάμεως ἀναζεύξας ἐνέβαλεν εἰς Ἀντιπατρίδα, καὶ πυθόμενος ἔν τινι πύργῳ Ἀφεκοῦ καλουμένῳ συνηθροῖσθαι Ἰουδαίων δύναμιν οὐκ ὀλίγην προέπεμπεν τοὺς συμβαλοῦντας.

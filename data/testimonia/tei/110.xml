@@ -1,6 +1,4 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -268,12 +266,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/110</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract110-1">
-        <quote>
-          <placeName xml:lang="grc">τῇ Καισαρείᾳ</placeName>
-        </quote>,  and <quote>
-          <placeName xml:lang="en">Caesarea</placeName>
-        </quote> are directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Ecclesiastical History</title> <ref target="#bib110-1">6.39</ref>. This passage was written circa <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract110-1"><quote><placeName xml:lang="grc">τῇ Καισαρείᾳ</placeName></quote>, and <quote><placeName xml:lang="en">Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Ecclesiastical History</title> <ref target="#bib110-1">6.39</ref>. This passage was written ca. <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote110-1" source="#bib110-1">
         <anchor xml:id="testimonia-110.grc.1" corresp="#testimonia-110.en.1"/>Ἀλλὰ γὰρ Φίλιππον ἔτεσιν ἑπτὰ βασιλεύσαντα διαδέχεται Δέκιος, ὃς δὴ τοῦ πρὸς Φίλιππον ἔχθους ἕνεκα κατὰ τόν ἐκκλησιῶν ἐγείρει, ἐν ᾧ Φαβιανοῦ ἐπὶ Ῥώμης μαρτυρίῳ τελειωθέντος Κορνήλιος τὴν ἐπισκοπὴν διαδέχεται. ἐπὶ δὲ Παλαιστίνης Ἀλέξανδρος ὁ τῆς Ἱεροσολύμων ἐκκλησίας ἐπίσκοπος, αὖθις διὰ Χριστὸν ἐν <placeName xml:lang="grc">τῇ Καισαρείᾳ</placeName> ἡγεμονικοῖς παραστὰς δικαστηρίοις, καὶ ἐπὶ δευτέρᾳ διαπρέψας ὁμολογίᾳ, δεσμωτηρίου πειρᾶται, λιπαρῷ γήρει καὶ σεμνῇ πολιᾷ κατεστεμμένος. τούτου δὲ μετὰ τὴν ἐν τοῖς ἡγεμονικοῖς δικαστηρίοις λαμπρὰν καὶ περιφανῆ μαρτυρίαν ἐπὶ τῆς εἱρκτῆς κοιμηθέντος, Μαζαβάνης διάδοχος τῆς ἐν Ἱεροσολύμοις ἐπισκοπῆς ἀναδείκυται. τῷ δ᾿ Ἀλεξάνδρῳ παραπλησίως ἐν Ἀντιοχείᾳ τοῦ Βαβύλα μετὰ τὴν ὁμολογίαν ἐν δεσμωτηρίῳ μεταλλάξαντος Φάβιος τῆς αὐτόθι προΐσταται ἐκκλησίας. τὰ μὲν οὖν Ὠριγένει κατὰ τὸν διωγμὸν συμβάντα οἷα καὶ ὅσα, καὶ ὁποίας ἔτυχε τελευτῆς, τοῦ πονηροῦ δαίμονος ἐφαμίλλως τῷ ἀνδρὶ πανστρατιᾷ παραταξαμένου, πάσῃ τε μηχανῇ καὶ δυνάμει κατ᾿ αὐτοῦ στρατηγήσαντος, παρὰ πάντας τε τοὺς τηνικάδε πολεμηθέντας διαφερόντως ἐπισκήψαντος αὐτῷ, οἷά τε καὶ ὅσα διὰ τὸν Χριστοῦ λόγον ὁ ἀνὴρ ὑπέμεινε δεσμὰ καὶ βασάνους τὰς κατὰ τοῦ σώματος, τάς τε ὑπὸ σιδηρῷ κλοιῷ καὶ μυχοῖς εἱρκτῆς τιμωρίας, καὶ ὡς ἐπὶ πλείσταις ἡμέραις τοὺς πόδας ὑπὸ τέσσαρα τοῦ κολαστηρίου ξύλου παραταθεὶς διαστήματα κατασπώμενος πυρός τε ἀπειλὰς καὶ ὅσα ἄλλα πρὸς τῶν ἐχθρῶν ἐπενεχθέντα καρτερῶς ἤνεγκεν, οἵου τε τὰ κατ᾿ αὐτὸν ἔτυχε τέλους, μηδαμῶς αὐτὸν ἀνελεῖν παντὶ σθένει τοῦ δικαστοῦ φιλονείκως ἐνστάντος, ὁποίας τε μετὰ ταύτα καταλείπει φωνὰς, καὶ αὐτὰς πλήρεις τοῖς ἀναλήψεως δεομένοις ὠφελείας, πλεῖσται ὅσαι τἀνδρὸς ἐπιστολαὶ τἀληθὲς ὁμοῦ καὶ ἀκριβὲς περιέχουσι.
         <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg002.1st1K-grc2:6.39</idno>

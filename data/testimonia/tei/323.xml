@@ -1,6 +1,4 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -265,9 +263,7 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/323</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract323-1">and <quote>
-          <placeName>Caesarea</placeName>
-        </quote> is directly attested at <persName ref=" http://viaf.org/viaf/175367750" role="author">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Commentary on Daniel</title> <ref target="#bib323-1">11.44-45.425-445</ref>. This passage was written circa <origDate notBefore="" notAfter="" period="#">NaN CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</desc>
+         <desc type="abstract" xml:id="abstract323-1">and <quote><placeName>Caesarea</placeName></quote> is directly attested at <persName ref=" http://viaf.org/viaf/175367750" role="author">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Commentary on Daniel</title> <ref target="#bib323-1">11.44-45.425-445</ref>. This passage was written ca. <origDate notBefore="" notAfter="" period="#">NaN CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</desc>
          <desc type="context">In the years after completing his Latin translation of the Bible
             (Vulgata), St. Jerome devoted himself to scriptural exegesis, whether in response to his
             theological forebears or in original research. One of his most influential works is the

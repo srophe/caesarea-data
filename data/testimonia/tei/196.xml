@@ -1,6 +1,4 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -268,12 +266,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/196</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract196-1">
-        <quote>
-          <placeName xml:lang="grc">τῶν κατὰ Καισάρειαν πυλῶν</placeName>
-        </quote>,  and <quote>
-          <placeName xml:lang="en">gates of Cæsarea,</placeName>
-        </quote> are directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg003" type="uniform" level="m">Martyrs of Palestine</title> <ref target="#bib196-1">11.6</ref>. This passage was written circa <origDate period="#lateRoman" notBefore="0315" notAfter="0316">315 – 316 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract196-1"><quote><placeName xml:lang="grc">τῶν κατὰ Καισάρειαν πυλῶν</placeName></quote>, and <quote><placeName xml:lang="en">gates of Cæsarea,</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg003" type="uniform" level="m">Martyrs of Palestine</title> <ref target="#bib196-1">11.6</ref>. This passage was written ca. <origDate period="#lateRoman" notBefore="0315" notAfter="0316">315 – 316 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote196-1" source="#bib196-1">
         <anchor xml:id="testimonia-196.grc.1" corresp="#testimonia-196.en.1"/>τοὺς κατὰ Κιλικίαν οὗτοι μέχρι τῶν αὐτόθι μετάλλων ὁμολογητὰς προπέμψαντες ἐπαλινόστουν ἐπὶ τὰ οἰκεῖα· ὁμοίως δῆτα καὶ αὐτοὶπρὸς αὐταῖς εἰσόδοις <placeName xml:lang="grc">τῶν κατὰ Καισάρειαν πυλῶν</placeName>, τίνες τε εἶεν καὶ ὁπόθεν ἀφικνούμενοι πρὸς τῶν φυλάκων βάρβαροι δέ τινες ὑπῆρχον οὗτοι τὸν τρόπον) ἀνερωτηθέντες, καὶ μηδὲν τῆς ἀληθείας ἀποκρυψάμενοι, οἷα κακοῦργοι ἐπ’ αὐτοφώρῳ λη φθέντες συνείχοντο· πέντε δ’ ἦσαν οὗτοι τὸν    <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg003.1st1K-grc1:11.6</idno>
         <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2018.tlg003.1st1K-grc1:11.6"/>
