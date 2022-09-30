@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
@@ -82,7 +81,7 @@
             <catDesc>Upper Acheulean, 498050-148050 BP</catDesc>
           </category>
           <category xml:id="acheulean">
-            <catDesc>Acheulean  , 298050-148050 BP</catDesc>
+            <catDesc>Acheulean, 298050-148050 BP</catDesc>
           </category>
           <category xml:id="middlePaleolithic">
             <catDesc>Middle Paleolithic, 119999-44999 BCE</catDesc>
@@ -94,7 +93,7 @@
             <catDesc>Upper Paleolithic, 44999-17999 BCE</catDesc>
           </category>
           <category xml:id="kebaran">
-            <catDesc>Kebaran , 18050-13050 BP</catDesc>
+            <catDesc>Kebaran, 18050-13050 BP</catDesc>
           </category>
           <category xml:id="epipaleolithic">
             <catDesc>Epipaleolithic, 17999-8299 BCE</catDesc>
@@ -103,7 +102,7 @@
             <catDesc>Geometric Kebaran, 12499-10899 BCE</catDesc>
           </category>
           <category xml:id="natufianCulture">
-            <catDesc>Natufian culture, 10799-8499 BCE</catDesc>
+            <catDesc>Natufian Culture, 10799-8499 BCE</catDesc>
           </category>
           <category xml:id="pre-potteryNeolithic">
             <catDesc>Pre-Pottery Neolithic, 8299-5499 BCE</catDesc>
@@ -174,8 +173,11 @@
           <category xml:id="babylonianAndPersian">
             <catDesc>Babylonian and Persian Periods, 585-331 BCE</catDesc>
           </category>
+          <category xml:id="classicalPeriod">
+            <catDesc>Classical Period, 480-336 BCE</catDesc>
+          </category>
           <category xml:id="earlyHellenistic">
-            <catDesc>Early Hellenistic period, 331-166 BCE</catDesc>
+            <catDesc>Early Hellenistic Period, 331-166 BCE</catDesc>
           </category>
           <category xml:id="hellenistic">
             <catDesc>Hellenistic Period, 331-36 BCE</catDesc>
@@ -184,40 +186,40 @@
             <catDesc>Early Nabatean Period, 331-36 BCE</catDesc>
           </category>
           <category xml:id="nabateanKingdom">
-            <catDesc>Nabatean kingdom, 167 BCE-106 CE</catDesc>
+            <catDesc>Nabatean Kingdom, 167 BCE-106 CE</catDesc>
           </category>
           <category xml:id="lateHellenistic">
-            <catDesc>Late Hellenistic period, 166-36 BCE</catDesc>
+            <catDesc>Late Hellenistic Period, 166-36 BCE</catDesc>
           </category>
           <category xml:id="earlyRoman">
-            <catDesc>Early Roman period, 36 BCE-132 CE</catDesc>
+            <catDesc>Early Roman Period, 36 BCE-132 CE</catDesc>
           </category>
           <category xml:id="herodian">
-            <catDesc>Herodian period, 36 BCE-70 CE</catDesc>
+            <catDesc>Herodian Period, 36 BCE-70 CE</catDesc>
           </category>
           <category xml:id="middleNabatean">
             <catDesc>Middle Nabatean Period, 24 BCE-50 CE</catDesc>
           </category>
           <category xml:id="lateRoman">
-            <catDesc>Late Roman period, 132-324 CE</catDesc>
+            <catDesc>Late Roman Period, 132-324 CE</catDesc>
           </category>
           <category xml:id="byzantine">
-            <catDesc>Byzantine period, 324-638 CE</catDesc>
+            <catDesc>Byzantine Period, 324-638 CE</catDesc>
           </category>
           <category xml:id="earlyIslamic">
             <catDesc>Early Islamic Period, 638-1099 CE</catDesc>
           </category>
           <category xml:id="crusader">
-            <catDesc>Crusader period, 1099-1291 CE</catDesc>
+            <catDesc>Crusader Period, 1099-1291 CE</catDesc>
           </category>
           <category xml:id="lateIslamic">
-            <catDesc>Late Islamic period, 1291-1516 CE</catDesc>
+            <catDesc>Late Islamic Period, 1291-1516 CE</catDesc>
           </category>
           <category xml:id="ottoman">
             <catDesc>Ottoman period, 1516-1917 CE</catDesc>
           </category>
           <category xml:id="britishTerritorialAdministration">
-            <catDesc>British Territorial Administration Period, 1917-1920 CE</catDesc>
+            <catDesc>British Territorial Administration, 1917-1920 CE</catDesc>
           </category>
           <category xml:id="britishMandate">
             <catDesc>British Mandate Period, 1920-1948 CE</catDesc>
@@ -270,7 +272,13 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/395</idno>
          </ab>
          <desc type="abstract" xml:id="abstract395-1">
-        <quote><placeName>قَيسارية</placeName></quote>, <quote><placeName>قيسارية</placeName></quote>, and <quote><placeName>Qaysāriyya</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/39629789">al-Yaʿqūbī</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Book of Lands</title> <ref target="#bib395-1">115-116</ref>. This passage was written ca. <origDate notBefore="0889" notAfter="0890" period="#earlyIslamic">889-890 CE</origDate> possibly in <origPlace/>.</desc>
+        <quote>
+          <placeName>قَيسارية</placeName>
+        </quote>, <quote>
+          <placeName>قيسارية</placeName>
+        </quote>, and <quote>
+          <placeName>Qaysāriyya</placeName>
+        </quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/39629789">al-Yaʿqūbī</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Book of Lands</title> <ref target="#bib395-1">115-116</ref>. This passage was written ca. <origDate notBefore="0889" notAfter="0890" period="#earlyIslamic">889-890 CE</origDate> possibly in <origPlace/>.</desc>
          <desc type="context">Aḥmad b. Isḥāq (Abī Yaʿqūb) bin Jaʿfar bin Wahb bin Wāḍiḥ al-Yaʿqūbī
             (died Egypt, ca. 284 AH/897 CE), or al-Yaʿqūbī, was a Arab historian and geographer of
             the 9th century who wrote <title>Tāʾrīkh Ibn Wāḍiḥ</title> (<title>History of Ibn Wāḍiḥ</title>) and <title>Kitāb al-Buldān</title> (<title>Book of Lands</title>). While much of his early life is difficult to

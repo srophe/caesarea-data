@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -63,22 +65,15 @@
       <classDecl>
         <taxonomy xml:id="CM-NEAEH">
           <desc>
-            <title>Caesarea-Maritima.org Chronology</title>: This chronology is adapted from the chronology used in<bibl>
-              <title level="m">The New Encyclopedia of Archaeological Excavations in the Holy Land</title>
+            <title>Caesarea-Maritima.org Chronology</title>: This chronology is adapted from
+                  the chronology used in <bibl>
+              <title>The New Encyclopedia of Archaeological Excavations in the Holy
+                        Land</title>
               <ptr target="https://caesarea-maritima.org/bibl/HG492LV3"/>
-            <editor>
-                <forename>Ephraim</forename>
-                <surname>Stern</surname>
-              </editor>
-              <editor>
-                <forename>Ayelet</forename>
-                <surname>Levinzon-Gilbo'a</surname>
-              </editor>
-              <editor>
-                <forename>J.</forename>
-                <surname>Aviram</surname>
-              </editor>
-            </bibl>.  This taxonomy is used in the<gi>catRef</gi>encoding to classify the testimonia according to the time period(s) of the events described, rather than the date of composition of the testimonium. For example, Josephus may describe events occuring well before the period of his writing.</desc>
+            </bibl>. This taxonomy is used in the <gi>catRef</gi> encoding to classify the
+                  testimonia according to the time period(s) of the events described, rather than
+                  the date of composition of the testimonium. For example, Josephus may describe
+                  events occuring well before the period of his writing.</desc>
           <category xml:id="lowerPaleolithic">
             <catDesc>Lower Paleolithic, 999999-119999 BCE</catDesc>
           </category>
@@ -88,17 +83,17 @@
           <category xml:id="acheulean">
             <catDesc>Acheulean, 298050-148050 BP</catDesc>
           </category>
-          <category xml:id="mousterian">
-            <catDesc>Mousterian, 138050-38050 BP</catDesc>
-          </category>
           <category xml:id="middlePaleolithic">
             <catDesc>Middle Paleolithic, 119999-44999 BCE</catDesc>
+          </category>
+          <category xml:id="mousterian">
+            <catDesc>Mousterian, 118050-38050 BCE</catDesc>
           </category>
           <category xml:id="upperPaleolithic">
             <catDesc>Upper Paleolithic, 44999-17999 BCE</catDesc>
           </category>
           <category xml:id="kebaran">
-            <catDesc>Kebaran , 18050-13050 BP</catDesc>
+            <catDesc>Kebaran, 18050-13050 BP</catDesc>
           </category>
           <category xml:id="epipaleolithic">
             <catDesc>Epipaleolithic, 17999-8299 BCE</catDesc>
@@ -119,7 +114,7 @@
             <catDesc>Chalcolithic, 4499-3299 BCE</catDesc>
           </category>
           <category xml:id="earlyBronzeAge">
-            <catDesc>Early Bronze Age, 3299-2199 BCE</catDesc>
+            <catDesc>Early Bronze Age , 3299-2199 BCE</catDesc>
           </category>
           <category xml:id="bronzeAge">
             <catDesc>Bronze Age, 3299-1199 BCE</catDesc>
@@ -179,7 +174,7 @@
             <catDesc>Babylonian and Persian Periods, 585-331 BCE</catDesc>
           </category>
           <category xml:id="classicalPeriod">
-              <catDesc>Classical Period, 480-336 BCE</catDesc>
+            <catDesc>Classical Period, 480-336 BCE</catDesc>
           </category>
           <category xml:id="earlyHellenistic">
             <catDesc>Early Hellenistic Period, 331-166 BCE</catDesc>
@@ -221,7 +216,7 @@
             <catDesc>Late Islamic Period, 1291-1516 CE</catDesc>
           </category>
           <category xml:id="ottoman">
-            <catDesc>Ottoman Period, 1516-1917 CE</catDesc>
+            <catDesc>Ottoman period, 1516-1917 CE</catDesc>
           </category>
           <category xml:id="britishTerritorialAdministration">
             <catDesc>British Territorial Administration, 1917-1920 CE</catDesc>
@@ -277,7 +272,16 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/12</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract12-1"><quote><placeName xml:lang="grc">Καισάρειαν</placeName></quote>, <quote><placeName xml:lang="grc">Στράτωνος πύργος</placeName></quote>, <quote><placeName xml:lang="en">Cesarea</placeName></quote>,  and <quote><placeName xml:lang="en">Strato's Tower</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/22143666" role="author">Josephus</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg001" type="uniform" level="m">Antiquities of the Jews</title> <ref target="#bib12-1">19.343-19.352</ref>. This passage was written circa <origDate period="#nabateanKingdom #earlyRoman" notBefore="0093" notAfter="0094">93 - 94 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract12-1">
+        <quote>
+          <placeName xml:lang="grc">Καισάρειαν</placeName>
+        </quote>, <quote>
+          <placeName xml:lang="grc">Στράτωνος πύργος</placeName>
+        </quote>, <quote>
+          <placeName xml:lang="en">Cesarea</placeName>
+        </quote>,  and <quote>
+          <placeName xml:lang="en">Strato's Tower</placeName>
+        </quote> are directly attested at <persName ref="http://viaf.org/viaf/22143666" role="author">Josephus</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg001" type="uniform" level="m">Antiquities of the Jews</title> <ref target="#bib12-1">19.343-19.352</ref>. This passage was written circa <origDate period="#nabateanKingdom #earlyRoman" notBefore="0093" notAfter="0094">93 - 94 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote12-1" source="#bib12-1">
         <anchor xml:id="testimonia-12.grc.1" corresp="#testimonia-12.en.1"/>
         "Τρίτον δὲ ἔτος αὐτῷ βασιλεύοντι τῆς ὅλης Ἰουδαίας πεπλήρωτο, καὶ παρῆν εἰς πόλιν <placeName xml:lang="grc">Καισάρειαν</placeName>, ἣ τὸ πρότερον <placeName xml:lang="grc">Στράτωνος πύργος</placeName> ἐκαλεῖτο. συνετέλει δ᾽ ἐνταῦθα θεωρίας εἰς τὴν Καίσαρος τιμὴν ὑπὲρ τῆς ἐκείνου σωτηρίας ἑορτήν τινα ταύτην ἐπιστάμενος, καὶ παρ᾽ αὐτὴν ἤθροιστο τῶν κατὰ τὴν ἐπαρχίαν ἐν τέλει καὶ προβεβηκότων εἰς ἀξίαν πλῆθος. δευτέρᾳ δὴ τῶν θεωριῶν ἡμέρᾳ στολὴν ἐνδὺς ἐξ ἀργύρου πεποιημένην πᾶσαν, ὡς θαυμάσιον ὑφὴν εἶναι, παρῆλθεν εἰς τὸ θέατρον ἀρχομένης ἡμέρας. ἔνθα ταῖς πρώταις τῶν ἡλιακῶν ἀκτίνων ἐπιβολαῖς ὁ ἄργυρος καταυγασθεὶς θαυμασίως ἀπέστιλβε μαρμαίρων τι φοβερὸν καὶ τοῖς εἰς αὐτὸν ἀτενίζουσι φρικῶδες. εὐθὺς δὲ οἱ κόλακες τὰς οὐδὲ ἐκείνῳ πρὸς ἀγαθοῦ ἄλλος ἄλλοθεν φωνὰς ἀνεβόων, θεὸν προσαγορεύοντες εὐμενής τε εἴης ἐπιλέγοντες, ‘εἰ καὶ μέχρι νῦν ὡς ἄνθρωπον ἐφοβήθημεν, ’ ἀλλὰ τοὐντεῦθεν κρείττονά σε θνητῆς φύσεως ὁμολογοῦμεν.’ οὐκ ἐπέπληξεν τούτοις ὁ βασιλεὺς οὐδὲ τὴν κολακείαν ἀσεβοῦσαν ἀπετρίψατο. ἀνακύψας δ᾽ οὖν μετ᾽ ὀλίγον τὸν βουβῶνα τῆς ἑαυτοῦ κεφαλῆς ὑπερκαθιζόμενον εἶδεν ἐπὶ σχοινίου τινός. ἄγγελον τοῦτον εὐθὺς ἐνόησεν κακῶν εἶναι τὸν καί ποτε τῶν ἀγαθῶν γενόμενον, καὶ διακάρδιον ἔσχεν ὀδύνην, ἄθρουν δ᾽ αὐτῷ τῆς κοιλίας προσέφυσεν ἄλγημα μετὰ σφοδρότητος ἀρξάμενον. ἀναθορὼν οὖν πρὸς τοὺς φίλους, ‘ὁ θεὸς ὑμῖν ἐγώ, φησίν, ἤδη καταστρέφειν ἐπιτάττομαι τὸν βίον, παραχρῆμα τῆς εἱμαρμένης τὰς ἄρτι μου κατεψευσμένας φωνὰς ἐλεγχούσης: ὁ κληθεὶς ἀθάνατος ὑφ᾽ ὑμῶν ἤδη θανεῖν ἀπάγομαι. δεκτέον δὲ τὴν πεπρωμένην, ᾗ θεὸς βεβούληται: καὶ γὰρ βεβιώκαμεν οὐδαμῇ φαύλως, ἀλλ᾽ ἐπὶ τῆς μακαριζομένης λαμπρότητος.’ ταῦθ᾽ ἅμα λέγων ἐπιτάσει τῆς ὀδύνης κατεπονεῖτο: μετὰ σπουδῆς οὖν εἰς τὸ βασίλειον ἐκομίσθη καὶ διῇξε λόγος εἰς πάντας, ὡς ἔχοι τοῦ τεθνάναι παντάπασι μετ᾽ ὀλίγον. ἡ πληθὺς δ᾽ αὐτίκα σὺν γυναιξὶν καὶ παισὶν ἐπὶ σάκκων καθεσθεῖσα τῷ πατρίῳ νόμῳ τὸν θεὸν ἱκέτευεν ὑπὲρ τοῦ βασιλέως, οἰμωγῆς δὲ πάντ᾽ ἦν ἀνάπλεα καὶ θρήνων. ἐν ὑψηλῷ δ᾽ ὁ βασιλεὺς δωματίῳ κατακείμενος καὶ κάτω βλέπων αὐτοὺς πρηνεῖς καταπίπτοντας ἄδακρυς οὐδ᾽ αὐτὸς διέμενεν. συνεχεῖς δ᾽ ἐφ᾽ ἡμέρας πέντε τῷ τῆς γαστρὸς ἀλγήματι διεργασθεὶς τὸν βίον κατέστρεψεν, ἀπὸ γενέσεως ἄγων πεντηκοστὸν ἔτος καὶ τέταρτον, τῆς βασιλείας δ᾽ ἕβδομον. τέτταρας μὲν οὖν ἐπὶ Γαΐου Καίσαρος ἐβασίλευσεν ἐνιαυτοὺς τῆς Φιλίππου μὲν τετραρχίας εἰς τριετίαν ἄρξας, τῷ τετάρτῳ δὲ καὶ τὴν Ἡρώδου προσειληφώς, τρεῖς δ᾽ ἐπιλαβὼν τῆς Κλαυδίου Καίσαρος αὐτοκρατορίας, ἐν οἷς τῶν τε προειρημένων ἐβασίλευσεν καὶ τὴν Ἰουδαίαν προσέλαβεν Σαμάρειάν τε καὶ <placeName xml:lang="grc">Καισάρειαν</placeName>. προσωδεύσατο δ᾽ ὅτι πλείστας αὐτῶν προσφορὰς διακοσίας ἐπὶ χιλίαις μυριάδας, πολλὰ μέντοι προσεδανείσατο: τῷ γὰρ φιλόδωρος εἶναι δαψιλέστερα τῶν προσιόντων ἀνήλισκεν, ἦν δὲ ἀφειδὲς αὐτοῦ τὸ φιλότιμον.

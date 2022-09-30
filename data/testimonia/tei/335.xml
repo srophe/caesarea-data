@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -61,10 +63,15 @@
       <classDecl>
         <taxonomy xml:id="CM-NEAEH">
           <desc>
-            <title>Caesarea-Maritima.org Chronology</title>: This chronology is adapted from the chronology used in<bibl>
-              <title>The New Encyclopedia of Archaeological Excavations in the Holy Land</title>
+            <title>Caesarea-Maritima.org Chronology</title>: This chronology is adapted from
+                  the chronology used in <bibl>
+              <title>The New Encyclopedia of Archaeological Excavations in the Holy
+                        Land</title>
               <ptr target="https://caesarea-maritima.org/bibl/HG492LV3"/>
-            </bibl>.  This taxonomy is used in the<gi>catRef</gi>encoding to classify the testimonia according to the time period(s) of the events described, rather than the date of composition of the testimonium. For example, Josephus may describe events occuring well before the period of his writing.</desc>
+            </bibl>. This taxonomy is used in the <gi>catRef</gi> encoding to classify the
+                  testimonia according to the time period(s) of the events described, rather than
+                  the date of composition of the testimonium. For example, Josephus may describe
+                  events occuring well before the period of his writing.</desc>
           <category xml:id="lowerPaleolithic">
             <catDesc>Lower Paleolithic, 999999-119999 BCE</catDesc>
           </category>
@@ -74,17 +81,17 @@
           <category xml:id="acheulean">
             <catDesc>Acheulean, 298050-148050 BP</catDesc>
           </category>
-          <category xml:id="mousterian">
-            <catDesc>Mousterian, 138050-38050 BP</catDesc>
-          </category>
           <category xml:id="middlePaleolithic">
             <catDesc>Middle Paleolithic, 119999-44999 BCE</catDesc>
+          </category>
+          <category xml:id="mousterian">
+            <catDesc>Mousterian, 118050-38050 BCE</catDesc>
           </category>
           <category xml:id="upperPaleolithic">
             <catDesc>Upper Paleolithic, 44999-17999 BCE</catDesc>
           </category>
           <category xml:id="kebaran">
-            <catDesc>Kebaran , 18050-13050 BP</catDesc>
+            <catDesc>Kebaran, 18050-13050 BP</catDesc>
           </category>
           <category xml:id="epipaleolithic">
             <catDesc>Epipaleolithic, 17999-8299 BCE</catDesc>
@@ -105,7 +112,7 @@
             <catDesc>Chalcolithic, 4499-3299 BCE</catDesc>
           </category>
           <category xml:id="earlyBronzeAge">
-            <catDesc>Early Bronze Age, 3299-2199 BCE</catDesc>
+            <catDesc>Early Bronze Age , 3299-2199 BCE</catDesc>
           </category>
           <category xml:id="bronzeAge">
             <catDesc>Bronze Age, 3299-1199 BCE</catDesc>
@@ -207,13 +214,13 @@
             <catDesc>Late Islamic Period, 1291-1516 CE</catDesc>
           </category>
           <category xml:id="ottoman">
-            <catDesc>Ottoman Period, 1516-1917 CE</catDesc>
+            <catDesc>Ottoman period, 1516-1917 CE</catDesc>
           </category>
           <category xml:id="britishTerritorialAdministration">
             <catDesc>British Territorial Administration, 1917-1920 CE</catDesc>
           </category>
           <category xml:id="britishMandate">
-            <catDesc>British Mandate Period, 1820-1948 CE</catDesc>
+            <catDesc>British Mandate Period, 1920-1948 CE</catDesc>
           </category>
           <category xml:id="modernState">
             <catDesc>Modern State, 1948- CE</catDesc>
@@ -261,8 +268,10 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/335</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract335-1">and <quote><placeName>Caesarea
-               Palestinae</placeName></quote> is directly attested at <persName role="author" ref="http://viaf.org/viaf/1018158675954427500005">Marino Sanudo
+      <desc type="abstract" xml:id="abstract335-1">and <quote>
+          <placeName>Caesarea
+               Palestinae</placeName>
+        </quote> is directly attested at <persName role="author" ref="http://viaf.org/viaf/1018158675954427500005">Marino Sanudo
                the Elder</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Secrets for Those Faithful to the
                Cross</title> <ref target="#bib335-1">3.6.18</ref>. This passage was written circa <origDate notBefore="1306" notAfter="1321" period="#lateIslamic">1306-1321 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/560221">Aegean Greece</origPlace>.</desc>
       <desc type="context">Marino Sanudo the Elder of Torcello, from a wealthy and powerful

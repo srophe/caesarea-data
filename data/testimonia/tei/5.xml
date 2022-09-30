@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -63,22 +65,15 @@
       <classDecl>
         <taxonomy xml:id="CM-NEAEH">
           <desc>
-            <title>Caesarea-Maritima.org Chronology</title>: This chronology is adapted from the chronology used in<bibl>
-              <title level="m">The New Encyclopedia of Archaeological Excavations in the Holy Land</title>
+            <title>Caesarea-Maritima.org Chronology</title>: This chronology is adapted from
+                  the chronology used in <bibl>
+              <title>The New Encyclopedia of Archaeological Excavations in the Holy
+                        Land</title>
               <ptr target="https://caesarea-maritima.org/bibl/HG492LV3"/>
-            <editor>
-                <forename>Ephraim</forename>
-                <surname>Stern</surname>
-              </editor>
-              <editor>
-                <forename>Ayelet</forename>
-                <surname>Levinzon-Gilbo'a</surname>
-              </editor>
-              <editor>
-                <forename>J.</forename>
-                <surname>Aviram</surname>
-              </editor>
-            </bibl>.  This taxonomy is used in the<gi>catRef</gi>encoding to classify the testimonia according to the time period(s) of the events described, rather than the date of composition of the testimonium. For example, Josephus may describe events occuring well before the period of his writing.</desc>
+            </bibl>. This taxonomy is used in the <gi>catRef</gi> encoding to classify the
+                  testimonia according to the time period(s) of the events described, rather than
+                  the date of composition of the testimonium. For example, Josephus may describe
+                  events occuring well before the period of his writing.</desc>
           <category xml:id="lowerPaleolithic">
             <catDesc>Lower Paleolithic, 999999-119999 BCE</catDesc>
           </category>
@@ -88,17 +83,17 @@
           <category xml:id="acheulean">
             <catDesc>Acheulean, 298050-148050 BP</catDesc>
           </category>
-          <category xml:id="mousterian">
-            <catDesc>Mousterian, 138050-38050 BP</catDesc>
-          </category>
           <category xml:id="middlePaleolithic">
             <catDesc>Middle Paleolithic, 119999-44999 BCE</catDesc>
+          </category>
+          <category xml:id="mousterian">
+            <catDesc>Mousterian, 118050-38050 BCE</catDesc>
           </category>
           <category xml:id="upperPaleolithic">
             <catDesc>Upper Paleolithic, 44999-17999 BCE</catDesc>
           </category>
           <category xml:id="kebaran">
-            <catDesc>Kebaran , 18050-13050 BP</catDesc>
+            <catDesc>Kebaran, 18050-13050 BP</catDesc>
           </category>
           <category xml:id="epipaleolithic">
             <catDesc>Epipaleolithic, 17999-8299 BCE</catDesc>
@@ -119,7 +114,7 @@
             <catDesc>Chalcolithic, 4499-3299 BCE</catDesc>
           </category>
           <category xml:id="earlyBronzeAge">
-            <catDesc>Early Bronze Age, 3299-2199 BCE</catDesc>
+            <catDesc>Early Bronze Age , 3299-2199 BCE</catDesc>
           </category>
           <category xml:id="bronzeAge">
             <catDesc>Bronze Age, 3299-1199 BCE</catDesc>
@@ -179,7 +174,7 @@
             <catDesc>Babylonian and Persian Periods, 585-331 BCE</catDesc>
           </category>
           <category xml:id="classicalPeriod">
-              <catDesc>Classical Period, 480-336 BCE</catDesc>
+            <catDesc>Classical Period, 480-336 BCE</catDesc>
           </category>
           <category xml:id="earlyHellenistic">
             <catDesc>Early Hellenistic Period, 331-166 BCE</catDesc>
@@ -221,7 +216,7 @@
             <catDesc>Late Islamic Period, 1291-1516 CE</catDesc>
           </category>
           <category xml:id="ottoman">
-            <catDesc>Ottoman Period, 1516-1917 CE</catDesc>
+            <catDesc>Ottoman period, 1516-1917 CE</catDesc>
           </category>
           <category xml:id="britishTerritorialAdministration">
             <catDesc>British Territorial Administration, 1917-1920 CE</catDesc>
@@ -277,7 +272,16 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/5</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract5-1"><quote><placeName xml:lang="grc">τῇ Σεβαστῇ</placeName></quote>, <quote><placeName xml:lang="grc">Καισαρείᾳ</placeName></quote>, <quote><placeName xml:lang="en">Sebaste</placeName></quote>,  and <quote><placeName xml:lang="en">Cesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/22143666" role="author">Josephus</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg001" type="uniform" level="m">Antiquities of the Jews</title> <ref target="#bib5-1">16.13</ref>. This passage was written circa <origDate period="#nabateanKingdom #earlyRoman" notBefore="0093" notAfter="0094">93 - 94 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract5-1">
+        <quote>
+          <placeName xml:lang="grc">τῇ Σεβαστῇ</placeName>
+        </quote>, <quote>
+          <placeName xml:lang="grc">Καισαρείᾳ</placeName>
+        </quote>, <quote>
+          <placeName xml:lang="en">Sebaste</placeName>
+        </quote>,  and <quote>
+          <placeName xml:lang="en">Cesarea</placeName>
+        </quote> are directly attested at <persName ref="http://viaf.org/viaf/22143666" role="author">Josephus</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg001" type="uniform" level="m">Antiquities of the Jews</title> <ref target="#bib5-1">16.13</ref>. This passage was written circa <origDate period="#nabateanKingdom #earlyRoman" notBefore="0093" notAfter="0094">93 - 94 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote5-1" source="#bib5-1">
         <anchor xml:id="testimonia-5.grc.1" corresp="#testimonia-5.en.1"/>
         κἀκεῖνος μὲν εἴξας λιπαρῶς ἐγκειμένου ἧκεν εἰς τὴν Ἰουδαίαν, Ἡρώδης δὲ οὐδὲν ἀρεσκείας ἀπέλιπεν ἔν τε ταῖς νεοκτίστοις πόλεσιν ὑποδεχόμενος αὐτὸν καὶ μετὰ τοῦ τὰς κατασκευὰς ἐπιδεικνύναι πᾶσαν ἀπόλαυσιν διαίτης καὶ πολυτελείας ἐξαλλάττων αὐτῷ καὶ τοῖς φίλοις ἔν τε <placeName xml:lang="grc">τῇ Σεβαστῇ</placeName> καὶ <placeName xml:lang="grc">Καισαρείᾳ</placeName> περὶ τὸν λιμένα τὸν ὑπ᾽ αὐτοῦ κατεσκευασμένον κἀν τοῖς ἐρύμασιν, ἃ πολλαῖς δαπάναις ἐξῳκοδόμησεν, τό τε Ἀλεξάνδρειον καὶ Ἡρώδειον καὶ τὴν Ὑρκανίαν.
