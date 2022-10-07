@@ -244,7 +244,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Prayer</title> <ref target="#bib88-1">27.12</ref> written by <persName role="author" ref="http://viaf.org/viaf/95155322">Origen</persName> in <origDate notBefore="0232" notAfter="0235" period="#lateRoman">232-235 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Prayer</title> <ref n="a" target="#bib88-1">27.12</ref> written by <persName role="author" ref="http://viaf.org/viaf/95155322">Origen</persName> in <origDate notBefore="0232" notAfter="0235" period="#lateRoman">232-235 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</creation>
          <langUsage>
             <language ident="grc">Ancient Greek</language>
          </langUsage>
@@ -265,7 +265,7 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/88</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract88-1"><quote><placeName>Καισαρείᾳ</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/95155322">Origen</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Prayer</title> <ref target="#bib88-1">27.12</ref>. This passage was written ca. <origDate notBefore="0232" notAfter="0235" period="#lateRoman">232-235 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</desc>
+         <desc type="abstract" xml:id="abstract88-1"><quote><placeName>Καισαρείᾳ</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/95155322">Origen</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Prayer</title> <ref n="a" target="#bib88-1">27.12</ref>. This passage was written ca. <origDate notBefore="0232" notAfter="0235" period="#lateRoman">232-235 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</desc>
          <desc type="context">The great scholar Origen moved from Alexandria to Caeasarea in 231
             C.E. There he was ordained, he opened a school, and he devoted himself to voluminous
             writing, including his monumental polyglot edition of the Old Testament. In the first

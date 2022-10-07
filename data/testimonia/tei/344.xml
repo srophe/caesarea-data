@@ -244,7 +244,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Letter</title> <ref target="#bib344-1">87</ref> written by <persName role="author" ref="http://viaf.org/viaf/305214868">John Chrysostom</persName> in <origDate notBefore="" notAfter="" period="#">NaN CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/629013">Kokousos</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Letter</title> <ref n="a" target="#bib344-1">87</ref> written by <persName role="author" ref="http://viaf.org/viaf/305214868">John Chrysostom</persName> in <origDate notBefore="" notAfter="" period="#">NaN CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/629013">Kokousos</origPlace>.</creation>
          <langUsage>
             <language ident="grc">Ancient Greek</language>
          </langUsage>
@@ -265,7 +265,7 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/344</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract344-1">Caesarea Maritima is indirectly attested at <persName role="author" ref="http://viaf.org/viaf/305214868">John Chrysostom</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Letter</title> <ref target="#bib344-1">87</ref>. This passage was written ca. <origDate notBefore="" notAfter="" period="#">NaN CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/629013">Kokousos</origPlace>.</desc>
+         <desc type="abstract" xml:id="abstract344-1">Caesarea Maritima is indirectly attested at <persName role="author" ref="http://viaf.org/viaf/305214868">John Chrysostom</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Letter</title> <ref n="a" target="#bib344-1">87</ref>. This passage was written ca. <origDate notBefore="" notAfter="" period="#">NaN CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/629013">Kokousos</origPlace>.</desc>
          <desc type="context">John Chrysostom was the archbishop of Constantinople over the turn of
             the 4th to 5th centuries celebrated for his keen intellect and masterful oratory. He met
             with great opposition for his theological arguments and criticism of Imperial authority,

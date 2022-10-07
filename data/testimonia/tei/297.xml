@@ -243,7 +243,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Letters</title> <ref target="#bib297-1">92.1</ref> written by <persName role="author" ref="http://viaf.org/viaf/309472433">Jerome</persName> in <origDate notBefore="" notAfter="" period="#">NaN CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Letters</title> <ref n="e" target="#bib297-1">92.1</ref> written by <persName role="author" ref="http://viaf.org/viaf/309472433">Jerome</persName> in <origDate notBefore="" notAfter="" period="#">NaN CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</creation>
       <langUsage>
         <language ident="la">Latin</language>
       </langUsage>
@@ -264,7 +264,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/297</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract297-1">Caesarea Maritima is indirectly attested at <persName role="author" ref="http://viaf.org/viaf/309472433">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Letters</title> <ref target="#bib297-1">92.1</ref>. This passage was written ca. <origDate notBefore="" notAfter="" period="#">NaN CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract297-1">Caesarea Maritima is indirectly attested at <persName role="author" ref="http://viaf.org/viaf/309472433">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Letters</title> <ref n="e" target="#bib297-1">92.1</ref>. This passage was written ca. <origDate notBefore="" notAfter="" period="#">NaN CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</desc>
       <desc type="context">Among the voluminous correspondence of St. Jerome is this letter, his
             translation into Latin of a Greek original written by Theophilus, Patriarch of
             Alexandria, in 400 C.E. The letter addresses the bishops of Palestine and Cyprus

@@ -244,7 +244,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Dictionary of Place Names</title> <ref target="#bib129-1">78</ref> written by <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius</persName> in <origDate notBefore="0290" notAfter="0325" period="#lateRoman #byzantine">290-325 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Dictionary of Place Names</title> <ref n="a" target="#bib129-1">78</ref> written by <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius</persName> in <origDate notBefore="0290" notAfter="0325" period="#lateRoman #byzantine">290-325 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</creation>
          <langUsage>
             <language ident="grc">Ancient Greek</language>
          </langUsage>
@@ -265,7 +265,7 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/129</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract129-1"><quote><placeName>Καισάρειαν τῆς Παλαιστίνης</placeName></quote>, and <quote><placeName>Caesarea Palestinae</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Dictionary of Place Names</title> <ref target="#bib129-1">78</ref>. This passage was written ca. <origDate notBefore="0290" notAfter="0325" period="#lateRoman #byzantine">290-325 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</desc>
+         <desc type="abstract" xml:id="abstract129-1"><quote><placeName>Καισάρειαν τῆς Παλαιστίνης</placeName></quote>, and <quote><placeName>Caesarea Palestinae</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Dictionary of Place Names</title> <ref n="a" target="#bib129-1">78</ref>. This passage was written ca. <origDate notBefore="0290" notAfter="0325" period="#lateRoman #byzantine">290-325 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote129-1" source="#bib129-1">
         <anchor xml:id="testimonia-129.grc.1" corresp="#testimonia-129.en.1"/>Δῶρ τοῦ Ναφάθ. Σʹ Δὼρ “τῆς παραλίας”, αὕτη ἐστὶ Δῶρα ἡ πρὸς
                <placeName>Καισάρειαν τῆς Παλαιστίνης</placeName> ἀπὸ σημείων θʹ ἀπιόντων Τυρὸν, νῦν

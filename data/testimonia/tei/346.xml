@@ -243,7 +243,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Apology Against Rufinus</title> <ref target="#bib346-1">1.9-10</ref> written by <persName role="author" ref="http://viaf.org/viaf/95147024">Jerome</persName> in <origDate notBefore="" notAfter="" period="#">NaN CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Apology Against Rufinus</title> <ref n="a" target="#bib346-1">1.9-10</ref> written by <persName role="author" ref="http://viaf.org/viaf/95147024">Jerome</persName> in <origDate notBefore="" notAfter="" period="#">NaN CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</creation>
       <langUsage>
         <language ident="la">Latin</language>
       </langUsage>
@@ -264,7 +264,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/346</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract346-1">Caesarea Maritima is indirectly attested at <persName role="author" ref="http://viaf.org/viaf/95147024">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Apology Against Rufinus</title> <ref target="#bib346-1">1.9-10</ref>. This passage was written ca. <origDate notBefore="" notAfter="" period="#">NaN CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract346-1">Caesarea Maritima is indirectly attested at <persName role="author" ref="http://viaf.org/viaf/95147024">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Apology Against Rufinus</title> <ref n="a" target="#bib346-1">1.9-10</ref>. This passage was written ca. <origDate notBefore="" notAfter="" period="#">NaN CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</desc>
       <desc type="context">In a long letter he wrote to his associates Pammachius and Marcella in
             401, Jerome struck at first a defensive and then an offensive stance in the ongoing
             Origenist controversy that had embroiled the episcopate of Jerusalem since the early

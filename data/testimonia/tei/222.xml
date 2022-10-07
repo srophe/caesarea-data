@@ -245,7 +245,7 @@
         <p/>
       </abstract>
       <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Circumnavigation of the Inhabited
-               World</title> <ref target="#bib222-1">104</ref> written by <persName role="author" ref="http://viaf.org/viaf/291988135">Pseudo-Scylax</persName> in <origDate notBefore="0338" notAfter="0337" period="#byzantine">338-337 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/579885">Athens</origPlace>.</creation>
+               World</title> <ref n="a" target="#bib222-1">104</ref> written by <persName role="author" ref="http://viaf.org/viaf/291988135">Pseudo-Scylax</persName> in <origDate notBefore="0338" notAfter="0337" period="#byzantine">338-337 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/579885">Athens</origPlace>.</creation>
       <langUsage>
         <language ident="grc">Ancient Greek</language>
       </langUsage>

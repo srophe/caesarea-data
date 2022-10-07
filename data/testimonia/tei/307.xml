@@ -244,7 +244,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Holy Places</title> <ref target="#bib307-1">1.20</ref> written by <persName role="author" ref="http://viaf.org/viaf/79068112">Adomnán</persName> in <origDate notBefore="0695" notAfter="0698" period="#earlyIslamic">695-698 CE</origDate>. This work was likely written in <origPlace>Iona</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Holy Places</title> <ref n="a" target="#bib307-1">1.20</ref> written by <persName role="author" ref="http://viaf.org/viaf/79068112">Adomnán</persName> in <origDate notBefore="0695" notAfter="0698" period="#earlyIslamic">695-698 CE</origDate>. This work was likely written in <origPlace>Iona</origPlace>.</creation>
          <langUsage>
             <language ident="la">Latin</language>
          </langUsage>

@@ -249,7 +249,7 @@
         <p/>
       </abstract>
       <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg001" type="uniform" level="m">Antiquities of the Jews</title>
-        <ref target="#bib16-1">20.176</ref> written by <persName ref="http://viaf.org/viaf/22143666" role="author">Josephus</persName> in <origDate period="#nabateanKingdom #earlyRoman" notBefore="0093" notAfter="0094">93 - 94 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</creation>
+        <ref n="q" target="#bib16-1">20.176</ref> written by <persName ref="http://viaf.org/viaf/22143666" role="author">Josephus</persName> in <origDate period="#nabateanKingdom #earlyRoman" notBefore="0093" notAfter="0094">93 - 94 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</creation>
       <langUsage>
         <language ident="grc">Ancient Greek</language>
       </langUsage>
@@ -273,7 +273,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/16</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract16-1"><quote><placeName xml:lang="grc">Καισαρεῖς εἶναι</placeName></quote>, <quote><placeName xml:lang="grc">Σεβαστηνοὺς</placeName></quote>, <quote><placeName xml:lang="en">Cesarea</placeName></quote>, and <quote><placeName xml:lang="en">Sebaste</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/22143666" role="author">Josephus</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg001" type="uniform" level="m">Antiquities of the Jews</title> <ref target="#bib16-1">20.176</ref>. This passage was written ca. <origDate period="#nabateanKingdom #earlyRoman" notBefore="0093" notAfter="0094">93 - 94 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract16-1"><quote><placeName xml:lang="grc">Καισαρεῖς εἶναι</placeName></quote>, <quote><placeName xml:lang="grc">Σεβαστηνοὺς</placeName></quote>, <quote><placeName xml:lang="en">Cesarea</placeName></quote>, and <quote><placeName xml:lang="en">Sebaste</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/22143666" role="author">Josephus</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg001" type="uniform" level="m">Antiquities of the Jews</title> <ref n="q" target="#bib16-1">20.176</ref>. This passage was written ca. <origDate period="#nabateanKingdom #earlyRoman" notBefore="0093" notAfter="0094">93 - 94 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote16-1" source="#bib16-1">
         <anchor xml:id="testimonia-16.grc.1" corresp="#testimonia-16.en.1"/>
         οἱ δὲ χρήμασιν μὲν ἡττώμενοι, μέγα δὲφρονοῦντες ἐπὶ τῷ τοὺς πλείστους τῶν ὑπὸῬωμαίοις ἐκεῖ στρατευομένων <placeName xml:lang="grc">Καισαρεῖς εἶναι</placeName> καὶ <placeName xml:lang="grc">Σεβαστηνοὺς</placeName> μέχρι μέν τινος καὶαὐτοὶ τοὺς Ἰουδαίους λόγῳ ὕβριζον, εἶταλίθοις ἀλλήλους ἔβαλλον, ἕως πολλοὺς παρ᾽ἀμφότερα τρωθῆναί τε καὶ πεσεῖν συνέβη: νικῶσί γε μὴν Ἰουδαῖοι.

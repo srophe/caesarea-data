@@ -244,7 +244,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Plots</title> <ref target="#bib218-1">173.13-29</ref> written by <persName role="author" ref="http://viaf.org/viaf/13108540">Constantine
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Plots</title> <ref n="b" target="#bib218-1">173.13-29</ref> written by <persName role="author" ref="http://viaf.org/viaf/13108540">Constantine
                Porphyrogenitus</persName> in <origDate notBefore="0930" notAfter="0955" period="#earlyIslamic">930-955 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
       <langUsage>
         <language ident="grc">Ancient Greek</language>
@@ -267,7 +267,7 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/218</idno>
       </ab>
       <desc type="abstract" xml:id="abstract218-1"><quote><placeName>Καισαρείᾳ τῆς Παλαιστίνης</placeName></quote>, <quote><placeName>Καισαρείᾳ</placeName></quote>, <quote><placeName>Caesarea of Palestine</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/13108540">Constantine
-               Porphyrogenitus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Plots</title> <ref target="#bib218-1">173.13-29</ref>. This passage was written ca. <origDate notBefore="0930" notAfter="0955" period="#earlyIslamic">930-955 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+               Porphyrogenitus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Plots</title> <ref n="b" target="#bib218-1">173.13-29</ref>. This passage was written ca. <origDate notBefore="0930" notAfter="0955" period="#earlyIslamic">930-955 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
       <desc type="context">Constantine VII Flavius Porphyrogenitus (“born in the purple”) ruled
             the Byzantine emperor as a member of the Macedonian dynasty in 913-959 C.E. Beyond the
             challenges he faced in managing Imperial authority and international relations

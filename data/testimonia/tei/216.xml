@@ -243,7 +243,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Apocryphal Acts of Peter</title> <ref target="#bib216-1">49.20-50.10</ref> written by <persName ref="" role="author">Unknown</persName> in <origDate notBefore="0200" notAfter="0400" period="#lateRoman #byzantine">200-400 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/1052">Italy</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Apocryphal Acts of Peter</title> <ref n="a" target="#bib216-1">49.20-50.10</ref> written by <persName ref="" role="author">Unknown</persName> in <origDate notBefore="0200" notAfter="0400" period="#lateRoman #byzantine">200-400 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/1052">Italy</origPlace>.</creation>
       <langUsage>
         <language ident="la">Latin</language>
       </langUsage>
@@ -264,7 +264,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/216</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract216-1"><quote><placeName>Caesaream</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="" role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Apocryphal Acts of Peter</title> <ref target="#bib216-1">49.20-50.10</ref>. This passage was written ca. <origDate notBefore="0200" notAfter="0400" period="#lateRoman #byzantine">200-400 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/1052">Italy</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract216-1"><quote><placeName>Caesaream</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="" role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Apocryphal Acts of Peter</title> <ref n="a" target="#bib216-1">49.20-50.10</ref>. This passage was written ca. <origDate notBefore="0200" notAfter="0400" period="#lateRoman #byzantine">200-400 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/1052">Italy</origPlace>.</desc>
       <desc type="context">The Greek account of Peter's apostolic career survives only in a Late
             Roman Latin translation in a single manuscript. This Acts of the Apostle Peter, perhaps
             entitled Πράξεις Πέτρου τοῦ ἀποστόλου, was written circa 180-190 C.E. possibly in Asia

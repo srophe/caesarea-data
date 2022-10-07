@@ -243,7 +243,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Dictionary of Place Names</title> <ref target="#bib258-1">136</ref> written by <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius</persName> in <origDate notBefore="0290" notAfter="0325" period="#lateRoman #byzantine">290-325 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Dictionary of Place Names</title> <ref n="c" target="#bib258-1">136</ref> written by <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius</persName> in <origDate notBefore="0290" notAfter="0325" period="#lateRoman #byzantine">290-325 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</creation>
       <langUsage>
         <language ident="grc">Ancient Greek</language>
       </langUsage>
@@ -264,7 +264,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/258</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract258-1"><quote><placeName>Καισαρείας</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Dictionary of Place Names</title> <ref target="#bib258-1">136</ref>. This passage was written ca. <origDate notBefore="0290" notAfter="0325" period="#lateRoman #byzantine">290-325 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract258-1"><quote><placeName>Καισαρείας</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Dictionary of Place Names</title> <ref n="c" target="#bib258-1">136</ref>. This passage was written ca. <origDate notBefore="0290" notAfter="0325" period="#lateRoman #byzantine">290-325 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</desc>
       <desc type="context">In his lexicon of place names in Hebrew Scripture, Eusebius wrote that
             Naphethdor named at Joshua 11:2 was located near Caesarea Maritima, repeating his lemma
             under Dor of Nafath (78). He also cited the Greek translation by Symmachus in the late

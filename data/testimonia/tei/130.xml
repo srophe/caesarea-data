@@ -246,7 +246,7 @@
         <p/>
       </abstract>
       <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg020" type="uniform" level="m">Life of Constantine</title>
-        <ref target="#bib130-1">1.19</ref> written by <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName> in <origDate period="#byzantine" when="0339">339 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</creation>
+        <ref n="a" target="#bib130-1">1.19</ref> written by <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName> in <origDate period="#byzantine" when="0339">339 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</creation>
       <langUsage>
         <language ident="grc">Ancient Greek</language>
       </langUsage>

@@ -244,7 +244,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Homily on 1 Samuel</title> <ref target="#bib332-1">1.1</ref> written by <persName role="author">Origen</persName> in <origDate notBefore="0243" notAfter="0253" period="#lateRoman">243-253 CE</origDate>. This work was likely written in <origPlace>Caesarea</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Homily on 1 Samuel</title> <ref n="a" target="#bib332-1">1.1</ref> written by <persName role="author">Origen</persName> in <origDate notBefore="0243" notAfter="0253" period="#lateRoman">243-253 CE</origDate>. This work was likely written in <origPlace>Caesarea</origPlace>.</creation>
          <langUsage>
             <language ident="grc">Ancient Greek</language>
          </langUsage>
@@ -265,7 +265,7 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/332</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract332-1">Caesarea Maritima is indirectly attested at <persName role="author">Origen</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Homily on 1 Samuel</title> <ref target="#bib332-1">1.1</ref>. This passage was written ca. <origDate notBefore="0243" notAfter="0253" period="#lateRoman">243-253 CE</origDate> possibly in <origPlace>Caesarea</origPlace>.</desc>
+         <desc type="abstract" xml:id="abstract332-1">Caesarea Maritima is indirectly attested at <persName role="author">Origen</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Homily on 1 Samuel</title> <ref n="a" target="#bib332-1">1.1</ref>. This passage was written ca. <origDate notBefore="0243" notAfter="0253" period="#lateRoman">243-253 CE</origDate> possibly in <origPlace>Caesarea</origPlace>.</desc>
          <desc type="context">Origen was an intellectual luminary and influential theologian of the
             Church during the first half to middle of the 3rd century. From his voluminous output of
             exegeses, treatises, and letters spanning from his early career in Alexandria to his

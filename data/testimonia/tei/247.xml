@@ -243,7 +243,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Easter Chronicle</title> <ref target="#bib247-1">389.4-11</ref> written by <persName role="author">Unknown</persName> in <origDate notBefore="" notAfter="" period="#">NaN CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Easter Chronicle</title> <ref n="c" target="#bib247-1">389.4-11</ref> written by <persName role="author">Unknown</persName> in <origDate notBefore="" notAfter="" period="#">NaN CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
       <langUsage>
         <language ident="grc">Ancient Greek</language>
       </langUsage>
@@ -264,7 +264,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/247</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract247-1">Caesarea Maritima is indirectly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Easter Chronicle</title> <ref target="#bib247-1">389.4-11</ref>. This passage was written ca. <origDate notBefore="" notAfter="" period="#">NaN CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract247-1">Caesarea Maritima is indirectly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Easter Chronicle</title> <ref n="c" target="#bib247-1">389.4-11</ref>. This passage was written ca. <origDate notBefore="" notAfter="" period="#">NaN CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
       <desc type="context">The so-called Easter Chronicle (Chronicon Paschale) is a universal
             history from the Creation down to the later reign of Heraclius, when it was composed,
             based an amalgam of biblical, Christian, and secular sources. While the work shows a

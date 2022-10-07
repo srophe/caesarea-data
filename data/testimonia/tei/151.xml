@@ -251,7 +251,7 @@
         <p/>
       </abstract>
       <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:greekLit:tlg2057.tlg002" type="uniform" level="m">Ecclesiastical History</title>
-        <ref target="#bib151-1">4.4</ref> written by <persName ref="https://viaf.org/viaf/55571017" role="author">Socrates Scholasticus </persName> in <origDate period="#byzantine" when="0439">439 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
+        <ref n="b" target="#bib151-1">4.4</ref> written by <persName ref="https://viaf.org/viaf/55571017" role="author">Socrates Scholasticus </persName> in <origDate period="#byzantine" when="0439">439 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
       <langUsage>
         <language ident="grc">Ancient Greek</language>
       </langUsage>

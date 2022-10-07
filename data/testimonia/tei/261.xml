@@ -243,7 +243,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Etymologies</title> <ref target="#bib261-1">5.1.75</ref> written by <persName role="author" ref="http://viaf.org/viaf/803890">Isidore</persName> in <origDate notBefore="0610" notAfter="0636" period="#byzantine">610-636 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/256210 ">Seville</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Etymologies</title> <ref n="a" target="#bib261-1">5.1.75</ref> written by <persName role="author" ref="http://viaf.org/viaf/803890">Isidore</persName> in <origDate notBefore="0610" notAfter="0636" period="#byzantine">610-636 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/256210 ">Seville</origPlace>.</creation>
       <langUsage>
         <language ident="la">Latin</language>
       </langUsage>
@@ -264,7 +264,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/261</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract261-1"><quote><placeName>Caesaream</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/803890">Isidore</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Etymologies</title> <ref target="#bib261-1">5.1.75</ref>. This passage was written ca. <origDate notBefore="0610" notAfter="0636" period="#byzantine">610-636 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/256210 ">Seville</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract261-1"><quote><placeName>Caesaream</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/803890">Isidore</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Etymologies</title> <ref n="a" target="#bib261-1">5.1.75</ref>. This passage was written ca. <origDate notBefore="0610" notAfter="0636" period="#byzantine">610-636 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/256210 ">Seville</origPlace>.</desc>
       <desc type="context">Isidore, born to an aristocratic family in Cartagena, was an
             influential scholar and Archbishop of Seville at the dawn of the Middle Ages. Beyond his
             bold ecclesiastical leadership in the old Roman province and his program to integrate

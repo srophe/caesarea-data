@@ -249,7 +249,7 @@
         <p/>
       </abstract>
       <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg004" type="uniform" level="m">The Jewish War</title>
-        <ref target="#bib36-1">7.23</ref> written by <persName ref="http://viaf.org/viaf/22143666" role="author">Josephus</persName> in <origDate period="#nabateanKingdom #earlyRoman #herodian" notBefore="0070" notAfter="0090">70 - 90 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</creation>
+        <ref n="u" target="#bib36-1">7.23</ref> written by <persName ref="http://viaf.org/viaf/22143666" role="author">Josephus</persName> in <origDate period="#nabateanKingdom #earlyRoman #herodian" notBefore="0070" notAfter="0090">70 - 90 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</creation>
       <langUsage>
         <language ident="grc">Ancient Greek</language>
       </langUsage>
@@ -273,7 +273,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/36</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract36-1"><quote><placeName xml:lang="grc">τῆς ἐπὶ θαλάττῃ Καισαρείας</placeName></quote>, and <quote><placeName xml:lang="en">Cesarea which lay by the sea-side</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/22143666" role="author">Josephus</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg004" type="uniform" level="m">The Jewish War</title> <ref target="#bib36-1">7.23</ref>. This passage was written ca. <origDate period="#nabateanKingdom #earlyRoman #herodian" notBefore="0070" notAfter="0090">70 - 90 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract36-1"><quote><placeName xml:lang="grc">τῆς ἐπὶ θαλάττῃ Καισαρείας</placeName></quote>, and <quote><placeName xml:lang="en">Cesarea which lay by the sea-side</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/22143666" role="author">Josephus</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg004" type="uniform" level="m">The Jewish War</title> <ref n="u" target="#bib36-1">7.23</ref>. This passage was written ca. <origDate period="#nabateanKingdom #earlyRoman #herodian" notBefore="0070" notAfter="0090">70 - 90 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote36-1" source="#bib36-1">
         <anchor xml:id="testimonia-36.grc.1" corresp="#testimonia-36.en.1"/>
         Τίτος δὲ ἀπὸ <placeName xml:lang="grc">τῆς ἐπὶ θαλάττῃ Καισαρείας</placeName> ἀναζεύξας εἰς τὴν Φιλίππουκαλουμένην Καισάρειαν ἧκε συχνόν

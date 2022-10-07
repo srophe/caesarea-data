@@ -245,7 +245,7 @@
         <p/>
       </abstract>
       <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Itinerary of the Holy
-               Places</title> <ref target="#bib284-1">408</ref> written by <persName role="author">Anonymous X</persName> in <origDate notBefore="1229" notAfter="1239" period="#crusader">1229-1239 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</creation>
+               Places</title> <ref n="a" target="#bib284-1">408</ref> written by <persName role="author">Anonymous X</persName> in <origDate notBefore="1229" notAfter="1239" period="#crusader">1229-1239 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</creation>
       <langUsage>
         <language ident="la">Latin</language>
       </langUsage>
@@ -267,7 +267,7 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/284</idno>
       </ab>
       <desc type="abstract" xml:id="abstract284-1"><quote><placeName>Cesaream</placeName></quote>, <quote><placeName>Cesarea</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author">Anonymous X</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Itinerary of the Holy
-               Places</title> <ref target="#bib284-1">408</ref>. This passage was written ca. <origDate notBefore="1229" notAfter="1239" period="#crusader">1229-1239 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
+               Places</title> <ref n="a" target="#bib284-1">408</ref>. This passage was written ca. <origDate notBefore="1229" notAfter="1239" period="#crusader">1229-1239 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
       <desc type="context">This brief guide for pilgrims to the Holy Land of unknown authorship
             is preserved in a manuscript in Milan that probably postdates composition by only a few
             decades. It displays the familiar features of the genre, though all geographic and

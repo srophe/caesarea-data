@@ -248,7 +248,7 @@
             <p/>
          </abstract>
          <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Journey in the Holy Land <hi rend="italic">Book of Pilgrimage </hi>
-        </title> <ref target="#bib209-1">28</ref> written by <persName role="author" ref="http://viaf.org/viaf/89288448 ">Ludolf von
+        </title> <ref n="a" target="#bib209-1">28</ref> written by <persName role="author" ref="http://viaf.org/viaf/89288448 ">Ludolf von
                Sudheim<ptr/>
         </persName> in <origDate notBefore="1336" notAfter="1345" period="#lateIslamic">1336-1345 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</creation>
          <langUsage>
@@ -274,7 +274,7 @@
          <desc type="abstract" xml:id="abstract209-1"><quote><placeName>Caesaream Palestinam</placeName></quote>, <quote><placeName>Caesarea</placeName></quote>, and <quote><placeName>Caesarea of Palestine</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/89288448 ">Ludolf von
                Sudheim<ptr/>
         </persName>, <title xml:lang="en" ref="" type="uniform" level="m">Journey in the Holy Land <hi rend="italic">Book of Pilgrimage </hi>
-        </title> <ref target="#bib209-1">28</ref>. This passage was written ca. <origDate notBefore="1336" notAfter="1345" period="#lateIslamic">1336-1345 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
+        </title> <ref n="a" target="#bib209-1">28</ref>. This passage was written ca. <origDate notBefore="1336" notAfter="1345" period="#lateIslamic">1336-1345 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
          <desc type="context">Ludolf von Sudheim, a cleric in Westphalia during the early 14th
             century, travelled extensively in the Eastern Mediterranean in the coterie of a knight
             who served the Armenian king. The account of his pilgrimage to the Holy Land in

@@ -249,7 +249,7 @@
         <p/>
       </abstract>
       <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg002" type="uniform" level="m">The Life of Josephus</title>
-        <ref target="#bib41-1">52-61</ref> written by <persName ref="http://viaf.org/viaf/22143666" role="author">Josephus</persName> in <origDate period="#nabateanKingdom #earlyRoman" notBefore="0094" notAfter="0099">94 - 99 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</creation>
+        <ref n="a" target="#bib41-1">52-61</ref> written by <persName ref="http://viaf.org/viaf/22143666" role="author">Josephus</persName> in <origDate period="#nabateanKingdom #earlyRoman" notBefore="0094" notAfter="0099">94 - 99 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</creation>
       <langUsage>
         <language ident="grc">Ancient Greek</language>
       </langUsage>

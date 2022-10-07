@@ -244,7 +244,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Short History</title> <ref target="#bib52-1">7.10.3</ref> written by <persName role="author" ref="http://viaf.org/viaf/25396473">Eutropius</persName> in <origDate notBefore="0367" notAfter="0369" period="#byzantine">367-369 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Short History</title> <ref n="a" target="#bib52-1">7.10.3</ref> written by <persName role="author" ref="http://viaf.org/viaf/25396473">Eutropius</persName> in <origDate notBefore="0367" notAfter="0369" period="#byzantine">367-369 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
          <langUsage>
             <language ident="la">Latin</language>
          </langUsage>
@@ -265,7 +265,7 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/52</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract52-1"><quote><placeName>Caesareas</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/25396473">Eutropius</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Short History</title> <ref target="#bib52-1">7.10.3</ref>. This passage was written ca. <origDate notBefore="0367" notAfter="0369" period="#byzantine">367-369 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+         <desc type="abstract" xml:id="abstract52-1"><quote><placeName>Caesareas</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/25396473">Eutropius</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Short History</title> <ref n="a" target="#bib52-1">7.10.3</ref>. This passage was written ca. <origDate notBefore="0367" notAfter="0369" period="#byzantine">367-369 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
          <desc type="context">Eutropius was a scholar of uncertain origin (Italy or Asia Minor?) who
             served the Imperial court in Constantinople during the second half of the 4th century.
             During the reign of Valens he wrote a condensed survey of Roman history (Breviarium)

@@ -243,7 +243,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Book of Places</title> <ref target="#bib291-1">79</ref> written by <persName ref="http://viaf.org/viaf/95147024" role="author">Jerome</persName> in <origDate notBefore="0390" notAfter="0420" period="#byzantine">390-420 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Book of Places</title> <ref n="b" target="#bib291-1">79</ref> written by <persName ref="http://viaf.org/viaf/95147024" role="author">Jerome</persName> in <origDate notBefore="0390" notAfter="0420" period="#byzantine">390-420 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</creation>
       <langUsage>
         <language ident="la">Latin</language>
       </langUsage>
@@ -264,7 +264,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/291</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract291-1"><quote><placeName>Caesareae Palaestinae</placeName></quote>, and <quote><placeName>Caesarea Palestinae</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/95147024" role="author">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Book of Places</title> <ref target="#bib291-1">79</ref>. This passage was written ca. <origDate notBefore="0390" notAfter="0420" period="#byzantine">390-420 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract291-1"><quote><placeName>Caesareae Palaestinae</placeName></quote>, and <quote><placeName>Caesarea Palestinae</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/95147024" role="author">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Book of Places</title> <ref n="b" target="#bib291-1">79</ref>. This passage was written ca. <origDate notBefore="0390" notAfter="0420" period="#byzantine">390-420 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</desc>
       <desc type="context">In his lexicon of place names in Hebrew Scripture, Jerome wrote that
             Dor Nafeth named at Joshua 11:12 was located near Caesarea Maritima on the road to Tyre,
             which his lemma under Nafeddor repeats (137). The same information is recorded in the

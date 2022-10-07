@@ -246,7 +246,7 @@
         <p/>
       </abstract>
       <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg003" type="uniform" level="m">Martyrs of Palestine</title>
-        <ref target="#bib181-1">6.1</ref> written by <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName> in <origDate period="#lateRoman" notBefore="0315" notAfter="0316">315 – 316 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</creation>
+        <ref n="i" target="#bib181-1">6.1</ref> written by <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName> in <origDate period="#lateRoman" notBefore="0315" notAfter="0316">315 – 316 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</creation>
       <langUsage>
         <language ident="grc">Ancient Greek</language>
       </langUsage>
@@ -268,7 +268,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/181</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract181-1"><quote><placeName xml:lang="grc">Καισάρειαν</placeName></quote>, and <quote><placeName xml:lang="en">city of Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg003" type="uniform" level="m">Martyrs of Palestine</title> <ref target="#bib181-1">6.1</ref>. This passage was written ca. <origDate period="#lateRoman" notBefore="0315" notAfter="0316">315 – 316 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract181-1"><quote><placeName xml:lang="grc">Καισάρειαν</placeName></quote>, and <quote><placeName xml:lang="en">city of Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg003" type="uniform" level="m">Martyrs of Palestine</title> <ref n="i" target="#bib181-1">6.1</ref>. This passage was written ca. <origDate period="#lateRoman" notBefore="0315" notAfter="0316">315 – 316 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote181-1" source="#bib181-1">
         <anchor xml:id="testimonia-181.grc.1" corresp="#testimonia-181.en.1"/>Τετάρτῳ γε μὴν τοῦ καθ’ ἡμῶν ἔτει διωγμοῦ, πρὸ δώδεκα Καλανδῶν Δεκεμβρίων, ἣ γένοιτ’ ἂν μηνὸς Δίου εἰκάδι, προσαββάτου ἡμέρᾳ, κατὰ τὴν αὐτὴν <placeName xml:lang="grc">Καισάρειαν</placeName>, γραφῆς ὡς ἀληθῶς ἄξιον, αὐτοῦ δὴ τοῦ τυράννου Μαξιμίνου παρόντος καὶ θέας τοῖς πλήθεσι φιλοτιμουμένου κατὰ τὴν λεγομένην αὐτοῦ γενέθλιον ἡμέραν, ἀπετελέσθη τοιοῦτον
         <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg003.1st1K-grc1:6.1-6.2</idno>

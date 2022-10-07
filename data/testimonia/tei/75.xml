@@ -246,7 +246,7 @@
         <p/>
       </abstract>
       <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:greekLit:tlg0031.tlg005" type="uniform" level="m">Acts</title>
-        <ref target="#bib75-1">21.16</ref> written by <persName ref="http://viaf.org/viaf/305863610" role="author">Luke the Evangelist</persName> in <origDate period="#nabateanKingdom #earlyRoman" notBefore="0080" notAfter="0090">80 – 90 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</creation>
+        <ref n="k" target="#bib75-1">21.16</ref> written by <persName ref="http://viaf.org/viaf/305863610" role="author">Luke the Evangelist</persName> in <origDate period="#nabateanKingdom #earlyRoman" notBefore="0080" notAfter="0090">80 – 90 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</creation>
       <langUsage>
         <language ident="grc">Ancient Greek</language>
       </langUsage>
@@ -268,7 +268,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/75</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract75-1"><quote><placeName xml:lang="grc">Καισαρίας</placeName></quote>, and <quote><placeName xml:lang="en">Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/305863610" role="author">Luke the Evangelist</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg0031.tlg005" type="uniform" level="m">Acts</title> <ref target="#bib75-1">21.16</ref>. This passage was written ca. <origDate period="#nabateanKingdom #earlyRoman" notBefore="0080" notAfter="0090">80 – 90 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract75-1"><quote><placeName xml:lang="grc">Καισαρίας</placeName></quote>, and <quote><placeName xml:lang="en">Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/305863610" role="author">Luke the Evangelist</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg0031.tlg005" type="uniform" level="m">Acts</title> <ref n="k" target="#bib75-1">21.16</ref>. This passage was written ca. <origDate period="#nabateanKingdom #earlyRoman" notBefore="0080" notAfter="0090">80 – 90 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote75-1" source="#bib75-1">
         <anchor xml:id="testimonia-75.grc.1" corresp="#testimonia-75.en.1"/>συνῆλθον δὲ καὶ τῶν μαθητῶν ἀπὸ <placeName xml:lang="grc">Καισαρίας</placeName> σὺν ἡμῖν, ἄγοντες παρʼ ᾧ ξενισθῶμεν Μνάσωνί τινι Κυπρίῳ, ἀρχαίῳ μαθητῇ.
         <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg0031.tlg005.perseus-grc2:21.16</idno>
