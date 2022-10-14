@@ -244,7 +244,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Commentary on the Gospel of John </title> <ref target="#bib331-1">6.2.8-10</ref> written by <persName ref="http://viaf.org/viaf/95155322" role="author">Origen</persName> in <origDate notBefore="0231" notAfter="0233" period="#lateRoman">231-233 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Commentary on the Gospel of John </title> <ref n="a" target="#bib331-1">6.2.8-10</ref> written by <persName ref="http://viaf.org/viaf/95155322" role="author">Origen</persName> in <origDate notBefore="0231" notAfter="0233" period="#lateRoman">231-233 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</creation>
          <langUsage>
             <language ident="grc">Ancient Greek</language>
          </langUsage>
@@ -265,7 +265,7 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/331</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract331-1">Caesarea Maritima is indirectly attested at <persName ref="http://viaf.org/viaf/95155322" role="author">Origen</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Commentary on the Gospel of John </title> <ref target="#bib331-1">6.2.8-10</ref>. This passage was written ca. <origDate notBefore="0231" notAfter="0233" period="#lateRoman">231-233 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</desc>
+         <desc type="abstract" xml:id="abstract331-1">Caesarea Maritima is indirectly attested at <persName ref="http://viaf.org/viaf/95155322" role="author">Origen</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Commentary on the Gospel of John </title> <ref n="a" target="#bib331-1">6.2.8-10</ref>. This passage was written ca. <origDate notBefore="0231" notAfter="0233" period="#lateRoman">231-233 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</desc>
          <desc type="context">Among Origen’s vast output is his Commentary on the Gospel of John.
             This enormous work, which originally filled more than 30 volumes but of which only parts
             survive, is a systematic and erudite exegesis that in part refuted the Valentinian

@@ -250,7 +250,7 @@
             <p/>
          </abstract>
          <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Best Divisions for Knowledge of the
-               Regions</title> <ref target="#bib394-1">54</ref> written by <persName role="author" ref="http://viaf.org/viaf/69158767">Al-Muqaddasī</persName> in <origDate notBefore="0985" notAfter="" period="#earlyIslamic">985 CE</origDate>. This work was likely written in <origPlace/>.</creation>
+               Regions</title> <ref n="b" target="#bib394-1">54</ref> written by <persName role="author" ref="http://viaf.org/viaf/69158767">Al-Muqaddasī</persName> in <origDate notBefore="0985" notAfter="" period="#earlyIslamic">985 CE</origDate>. This work was likely written in <origPlace/>.</creation>
          <langUsage>
             <language ident="ar">Arabic</language>
          </langUsage>
@@ -274,7 +274,7 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/394</idno>
          </ab>
          <desc type="abstract" xml:id="abstract394-1"><quote><placeName>قيساريَّة</placeName></quote>, and <quote><placeName>Qaysāriyya</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/69158767">Al-Muqaddasī</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Best Divisions for Knowledge of the
-               Regions</title> <ref target="#bib394-1">54</ref>. This passage was written ca. <origDate notBefore="0985" notAfter="" period="#earlyIslamic">985 CE</origDate> possibly in <origPlace/>.</desc>
+               Regions</title> <ref n="b" target="#bib394-1">54</ref>. This passage was written ca. <origDate notBefore="0985" notAfter="" period="#earlyIslamic">985 CE</origDate> possibly in <origPlace/>.</desc>
          <desc type="context">Shams al-Dīn Abū ʿAbd Allāh Muḥammad ibn Aḥmad al-Muqaddasī (334-390
             AH/945-1000 CE) was an Arab geographer and traveler during the mid- to late 10th
             century. Born in Jerusalem, al-Muqaddasī began studying history, jurisprudence, and

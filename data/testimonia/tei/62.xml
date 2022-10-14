@@ -244,7 +244,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Piacenza Itinerary</title> <ref target="#bib62-1">46</ref> written by <persName ref="" role="author">Unknown</persName> in <origDate notBefore="0570" notAfter="0580" period="#byzantine">570-580 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/383741">Piacenza</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Piacenza Itinerary</title> <ref n="a" target="#bib62-1">46</ref> written by <persName ref="" role="author">Unknown</persName> in <origDate notBefore="0570" notAfter="0580" period="#byzantine">570-580 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/383741">Piacenza</origPlace>.</creation>
          <langUsage>
             <language ident="la">Latin</language>
          </langUsage>
@@ -267,7 +267,7 @@
          </ab>
          <desc type="abstract" xml:id="abstract62-1"><quote><placeName>turris Stratonis</placeName></quote>, <quote><placeName>Caesarea
                Palaestinae</placeName></quote>, <quote><placeName>Strato’s Tower</placeName></quote>, and <quote><placeName>Caesarea of
-               Palestine</placeName></quote> are directly attested at <persName ref="" role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Piacenza Itinerary</title> <ref target="#bib62-1">46</ref>. This passage was written ca. <origDate notBefore="0570" notAfter="0580" period="#byzantine">570-580 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/383741">Piacenza</origPlace>.</desc>
+               Palestine</placeName></quote> are directly attested at <persName ref="" role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Piacenza Itinerary</title> <ref n="a" target="#bib62-1">46</ref>. This passage was written ca. <origDate notBefore="0570" notAfter="0580" period="#byzantine">570-580 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/383741">Piacenza</origPlace>.</desc>
          <desc type="context">A pilgrim from Piacenza in northern central Italy (Roman Placentia)
             wrote an account of his travels in Egypt, Palestine, Syria during the 570s. This passage
             from the itinerary refers to stopping over at Caesarea Maritima on the road between

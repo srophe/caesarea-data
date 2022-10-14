@@ -246,7 +246,7 @@
         <p/>
       </abstract>
       <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:greekLit:tlg3389.tlg001" type="uniform" level="m">De viris illustribus</title>
-        <ref target="#bib142-1">113</ref> written by <persName ref="http://viaf.org/viaf/95147024 " role="author">Jerome</persName> in <origDate period="#byzantine" when="0392">392 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</creation>
+        <ref n="c" target="#bib142-1">113</ref> written by <persName ref="http://viaf.org/viaf/95147024 " role="author">Jerome</persName> in <origDate period="#byzantine" when="0392">392 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</creation>
       <langUsage>
         <language ident="la">Latin</language>
       </langUsage>
@@ -268,7 +268,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/142</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract142-1"><quote><placeName xml:lang="la">Caesareae</placeName></quote>, and <quote><placeName xml:lang="en">at Cæsarea,</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/95147024 " role="author">Jerome</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg3389.tlg001" type="uniform" level="m">De viris illustribus</title> <ref target="#bib142-1">113</ref>. This passage was written ca. <origDate period="#byzantine" when="0392">392 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract142-1"><quote><placeName xml:lang="la">Caesareae</placeName></quote>, and <quote><placeName xml:lang="en">at Cæsarea,</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/95147024 " role="author">Jerome</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg3389.tlg001" type="uniform" level="m">De viris illustribus</title> <ref n="c" target="#bib142-1">113</ref>. This passage was written ca. <origDate period="#byzantine" when="0392">392 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote142-1" source="#bib142-1">
         <anchor xml:id="testimonia-142.la.1" corresp="#testimonia-142.en.1"/>Euzoius apud Thespesium rhetorem cum Gregorio, Nazianzeno episcopo, adulescens <placeName xml:lang="la">Caesareae</placeName> eruditus est, et eiusdem postea urbis episcopus plurimo labore corruptam iam bibliothecam Origenis et Pampbili in membranis instaurare conatus ad extremum sub Tbeodosio principe ecclesia pulsus est. Feruntur eius uarii multiplicesque tractatus, quos nosse perfacile est.    <idno type="CTS-URN"/>
         <ref target="https://archive.org/details/hieronymusundge00berngoog/page/n113/mode/2up"/>

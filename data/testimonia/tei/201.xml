@@ -246,7 +246,7 @@
         <p/>
       </abstract>
       <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:greekLit:tlg4029.tlg002" type="uniform" level="m">Secret History</title>
-        <ref target="#bib201-1">30.18</ref> written by <persName ref="http://viaf.org/viaf/100172302" role="author">Procopius</persName> in <origDate period="#byzantine" notBefore="0550" notAfter="0558">550 - 558 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
+        <ref n="e" target="#bib201-1">30.18</ref> written by <persName ref="http://viaf.org/viaf/100172302" role="author">Procopius</persName> in <origDate period="#byzantine" notBefore="0550" notAfter="0558">550 - 558 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
       <langUsage>
         <language ident="grc">Ancient Greek</language>
       </langUsage>
@@ -268,7 +268,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/201</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract201-1"><quote><placeName xml:lang="grc">ἐν Καισαρείᾳ</placeName></quote>, and <quote><placeName xml:lang="en">at Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/100172302" role="author">Procopius</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg4029.tlg002" type="uniform" level="m">Secret History</title> <ref target="#bib201-1">30.18</ref>. This passage was written ca. <origDate period="#byzantine" notBefore="0550" notAfter="0558">550 - 558 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract201-1"><quote><placeName xml:lang="grc">ἐν Καισαρείᾳ</placeName></quote>, and <quote><placeName xml:lang="en">at Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/100172302" role="author">Procopius</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg4029.tlg002" type="uniform" level="m">Secret History</title> <ref n="e" target="#bib201-1">30.18</ref>. This passage was written ca. <origDate period="#byzantine" notBefore="0550" notAfter="0558">550 - 558 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote201-1" source="#bib201-1">
         <anchor xml:id="testimonia-201.grc.1" corresp="#testimonia-201.en.1"/>τῶν <placeName xml:lang="grc">ἐν Καισαρείᾳ</placeName> ῥητόρων Εὐάγγελός τις ἦν οὐκ ἄσημος ἀνὴρ, ὅσπερ ἐπιφόρου οἱ τοῦ τῆς τύχης πνεύματος γενομένου χρημάτων τε ἄλλων καὶ χώρας πολλῆς κύριος γέγονεν.
         <idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg4029.tlg002.perseus-grc1:30.18</idno>

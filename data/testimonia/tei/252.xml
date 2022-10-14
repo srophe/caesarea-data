@@ -245,7 +245,7 @@
         <p/>
       </abstract>
       <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Medicine Cabinet, or Against
-               Heresies</title> <ref target="#bib252-1">69.6.1-5</ref> written by <persName ref="http://viaf.org/viaf/13651211" role="author">Epiphanius</persName> in <origDate notBefore="0374" notAfter="0377" period="#byzantine">374-377 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/707617">Cypriot Salamis</origPlace>.</creation>
+               Heresies</title> <ref n="b" target="#bib252-1">69.6.1-5</ref> written by <persName ref="http://viaf.org/viaf/13651211" role="author">Epiphanius</persName> in <origDate notBefore="0374" notAfter="0377" period="#byzantine">374-377 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/707617">Cypriot Salamis</origPlace>.</creation>
       <langUsage>
         <language ident="grc">Ancient Greek</language>
       </langUsage>
@@ -267,7 +267,7 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/252</idno>
       </ab>
       <desc type="abstract" xml:id="abstract252-1"><quote><placeName>Καισαρείᾳ</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/13651211" role="author">Epiphanius</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Medicine Cabinet, or Against
-               Heresies</title> <ref target="#bib252-1">69.6.1-5</ref>. This passage was written ca. <origDate notBefore="0374" notAfter="0377" period="#byzantine">374-377 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/707617">Cypriot Salamis</origPlace>.</desc>
+               Heresies</title> <ref n="b" target="#bib252-1">69.6.1-5</ref>. This passage was written ca. <origDate notBefore="0374" notAfter="0377" period="#byzantine">374-377 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/707617">Cypriot Salamis</origPlace>.</desc>
       <desc type="context">Epiphanius, who spent his early life and career as a student and monk
             in southern Palestine and Egypt, was appointed bishop of Salamis on Cyprus in ca.
             365-367 C.E., a post he held until his death in 403 C.E. He became a formidable champion

@@ -245,7 +245,7 @@
         <p/>
       </abstract>
       <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Prologue and Notes on
-               Theodosius of Alexandria’s Introductory Rules</title> <ref target="#bib228-1">303.12-20</ref> written by <persName ref="http://viaf.org/viaf/34444948" role="author">George Choeroboscus</persName> in <origDate notBefore="" notAfter="" period="#">NaN CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
+               Theodosius of Alexandria’s Introductory Rules</title> <ref n="a" target="#bib228-1">303.12-20</ref> written by <persName ref="http://viaf.org/viaf/34444948" role="author">George Choeroboscus</persName> in <origDate notBefore="" notAfter="" period="#">NaN CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
       <langUsage>
         <language ident="grc">Ancient Greek</language>
       </langUsage>
@@ -267,7 +267,7 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/228</idno>
       </ab>
       <desc type="abstract" xml:id="abstract228-1"><quote><placeName>Καισάρεια</placeName></quote>, <quote><placeName>Καισαρείας</placeName></quote>, <quote><placeName>Kaisareia</placeName></quote>, and <quote><placeName>Kaisareias</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/34444948" role="author">George Choeroboscus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Prologue and Notes on
-               Theodosius of Alexandria’s Introductory Rules</title> <ref target="#bib228-1">303.12-20</ref>. This passage was written ca. <origDate notBefore="" notAfter="" period="#">NaN CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+               Theodosius of Alexandria’s Introductory Rules</title> <ref n="a" target="#bib228-1">303.12-20</ref>. This passage was written ca. <origDate notBefore="" notAfter="" period="#">NaN CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
       <desc type="context">Choeroboscus (“Swineherd”), whose posthumous reputation may have
             suffered from an association with iconoclasm, was a ranking official and teacher in the
             Patriarchate of Constantinople during the early 9th century. He played an important part

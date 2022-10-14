@@ -244,7 +244,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Holy Places</title> <ref target="#bib309-1">5.1</ref> written by <persName role="author" ref="http://viaf.org/viaf/90775767">Peter the Deacon</persName> in <origDate notBefore="1131" notAfter="1160" period="#crusader">1131-1160 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/65661952">Monte Cassino</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Holy Places</title> <ref n="a" target="#bib309-1">5.1</ref> written by <persName role="author" ref="http://viaf.org/viaf/90775767">Peter the Deacon</persName> in <origDate notBefore="1131" notAfter="1160" period="#crusader">1131-1160 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/65661952">Monte Cassino</origPlace>.</creation>
          <langUsage>
             <language ident="la">Latin</language>
          </langUsage>

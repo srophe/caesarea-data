@@ -251,7 +251,7 @@
         <p/>
       </abstract>
       <creation>This entry is taken from <title ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Historia ecclesiastica</title>
-        <ref target="#bib118-1">7.32.24</ref> written by <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName> in <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</creation>
+        <ref n="g" target="#bib118-1">7.32.24</ref> written by <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName> in <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</creation>
       <langUsage>
         <language ident="grc">Ancient Greek</language>
       </langUsage>
@@ -273,7 +273,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/118</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract118-1"><quote><placeName xml:lang="grc">Καισαρείᾳ</placeName></quote>, and <quote><placeName xml:lang="en">Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>, <title ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Historia ecclesiastica</title> <ref target="#bib118-1">7.32.24</ref>. This passage was written ca. <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract118-1"><quote><placeName xml:lang="grc">Καισαρείᾳ</placeName></quote>, and <quote><placeName xml:lang="en">Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>, <title ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Historia ecclesiastica</title> <ref n="g" target="#bib118-1">7.32.24</ref>. This passage was written ca. <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote118-1" source="#bib118-1">
         <anchor xml:id="testimonia-118.grc.1" corresp="#testimonia-118.en.1"/>ἐν <placeName xml:lang="grc">Καισαρείᾳ</placeName> δὲ τῆς Παλαιστίνης Θεότεκνον σπουδαιότατα τὴν ἐπισκοπὴν διελθόντα Ἀγάπιος διαδέχεται, ὃν καὶ πολλὰ καμεῖν, γνησιωτάτην τε πρόνοιαν τῆς τοῦ λαοῦ προστασίας ἴσμεν πεποιημένον, πλουσίᾳ τε χειρὶ πάντων μάλιστα πενήτων ἐπιμεμελημένον
         <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg002.1st1K-grc2:7.32.24</idno>

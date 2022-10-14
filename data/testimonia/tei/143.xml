@@ -246,7 +246,7 @@
         <p/>
       </abstract>
       <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:greekLit:tlg3389.tlg001" type="uniform" level="m">De viris illustribus</title>
-        <ref target="#bib143-1">130</ref> written by <persName ref="http://viaf.org/viaf/95147024 " role="author">Jerome</persName> in <origDate period="#byzantine" when="0392">392 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</creation>
+        <ref n="d" target="#bib143-1">130</ref> written by <persName ref="http://viaf.org/viaf/95147024 " role="author">Jerome</persName> in <origDate period="#byzantine" when="0392">392 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</creation>
       <langUsage>
         <language ident="la">Latin</language>
       </langUsage>
@@ -268,7 +268,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/143</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract143-1"><quote><placeName xml:lang="la">Caesareae Palestinae</placeName></quote>, and <quote><placeName xml:lang="en">Cæsarea in Palestine</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/95147024 " role="author">Jerome</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg3389.tlg001" type="uniform" level="m">De viris illustribus</title> <ref target="#bib143-1">130</ref>. This passage was written ca. <origDate period="#byzantine" when="0392">392 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract143-1"><quote><placeName xml:lang="la">Caesareae Palestinae</placeName></quote>, and <quote><placeName xml:lang="en">Cæsarea in Palestine</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/95147024 " role="author">Jerome</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg3389.tlg001" type="uniform" level="m">De viris illustribus</title> <ref n="d" target="#bib143-1">130</ref>. This passage was written ca. <origDate period="#byzantine" when="0392">392 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote143-1" source="#bib143-1">
         <anchor xml:id="testimonia-143.la.1" corresp="#testimonia-143.en.1"/>Gelasius, <placeName xml:lang="la">Caesareae Palestinae</placeName> post Euzoium episcopus, accurati limatique sermonis fertur quaedam scribere, sed celare.    <idno type="CTS-URN"/>
         <ref target="https://archive.org/details/hieronymusundge00berngoog/page/n117/mode/2up"/>

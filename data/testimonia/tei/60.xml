@@ -244,7 +244,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Bordeaux Itinerary</title> <ref target="#bib60-1">589.4-6</ref> written by <persName role="author">Unknown</persName> in <origDate notBefore="0333" notAfter="0334" period="#byzantine">333-334 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Bordeaux Itinerary</title> <ref n="b" target="#bib60-1">589.4-6</ref> written by <persName role="author">Unknown</persName> in <origDate notBefore="0333" notAfter="0334" period="#byzantine">333-334 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</creation>
          <langUsage>
             <language ident="la">Latin</language>
          </langUsage>
@@ -265,7 +265,7 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/60</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract60-1">and <quote><placeName>Caesarea Palestina</placeName></quote> is directly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Bordeaux Itinerary</title> <ref target="#bib60-1">589.4-6</ref>. This passage was written ca. <origDate notBefore="0333" notAfter="0334" period="#byzantine">333-334 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
+         <desc type="abstract" xml:id="abstract60-1">and <quote><placeName>Caesarea Palestina</placeName></quote> is directly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Bordeaux Itinerary</title> <ref n="b" target="#bib60-1">589.4-6</ref>. This passage was written ca. <origDate notBefore="0333" notAfter="0334" period="#byzantine">333-334 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
          <desc type="context">The earliest firsthand account of Christian pilgrimage that survives
             was written by an unknown man from Bordeaux in southwestern France (Roman Burdigala) who
             travelled overland to Syria and Palestine in 333-334 C.E. His account, which is

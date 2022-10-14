@@ -244,7 +244,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Church History</title> <ref target="#bib229-1">2.25</ref> written by <persName role="author" ref="http://viaf.org/viaf/8181546">Evagrius
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Church History</title> <ref n="a" target="#bib229-1">2.25</ref> written by <persName role="author" ref="http://viaf.org/viaf/8181546">Evagrius
                Scholasticus</persName> in <origDate notBefore="0593" notAfter="0598" period="#byzantine">593-598 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/661385">Antioch on the
                Orontes</origPlace>.</creation>
       <langUsage>
@@ -268,7 +268,7 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/229</idno>
       </ab>
       <desc type="abstract" xml:id="abstract229-1">Caesarea Maritima is indirectly attested at <persName role="author" ref="http://viaf.org/viaf/8181546">Evagrius
-               Scholasticus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Church History</title> <ref target="#bib229-1">2.25</ref>. This passage was written ca. <origDate notBefore="0593" notAfter="0598" period="#byzantine">593-598 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/661385">Antioch on the
+               Scholasticus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Church History</title> <ref n="a" target="#bib229-1">2.25</ref>. This passage was written ca. <origDate notBefore="0593" notAfter="0598" period="#byzantine">593-598 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/661385">Antioch on the
                Orontes</origPlace>.</desc>
       <desc type="context">Evagrius Scholasticus came from a background of wealth and education
             in Syria and rose to prominence in the circles of power in the early Byzantine empire

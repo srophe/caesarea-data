@@ -248,7 +248,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Book of Lands</title> <ref target="#bib395-1">115-116</ref> written by <persName role="author" ref="http://viaf.org/viaf/39629789">al-Yaʿqūbī</persName> in <origDate notBefore="0889" notAfter="0890" period="#earlyIslamic">889-890 CE</origDate>. This work was likely written in <origPlace/>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Book of Lands</title> <ref n="a" target="#bib395-1">115-116</ref> written by <persName role="author" ref="http://viaf.org/viaf/39629789">al-Yaʿqūbī</persName> in <origDate notBefore="0889" notAfter="0890" period="#earlyIslamic">889-890 CE</origDate>. This work was likely written in <origPlace/>.</creation>
          <langUsage>
             <language ident="ar">Arabic</language>
          </langUsage>
@@ -271,7 +271,7 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/395</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract395-1"><quote><placeName>قَيسارية</placeName></quote>, <quote><placeName>قيسارية</placeName></quote>, and <quote><placeName>Qaysāriyya</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/39629789">al-Yaʿqūbī</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Book of Lands</title> <ref target="#bib395-1">115-116</ref>. This passage was written ca. <origDate notBefore="0889" notAfter="0890" period="#earlyIslamic">889-890 CE</origDate> possibly in <origPlace/>.</desc>
+         <desc type="abstract" xml:id="abstract395-1"><quote><placeName>قَيسارية</placeName></quote>, <quote><placeName>قيسارية</placeName></quote>, and <quote><placeName>Qaysāriyya</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/39629789">al-Yaʿqūbī</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Book of Lands</title> <ref n="a" target="#bib395-1">115-116</ref>. This passage was written ca. <origDate notBefore="0889" notAfter="0890" period="#earlyIslamic">889-890 CE</origDate> possibly in <origPlace/>.</desc>
          <desc type="context">Aḥmad b. Isḥāq (Abī Yaʿqūb) bin Jaʿfar bin Wahb bin Wāḍiḥ al-Yaʿqūbī
             (died Egypt, ca. 284 AH/897 CE), or al-Yaʿqūbī, was a Arab historian and geographer of
             the 9th century who wrote <title>Tāʾrīkh Ibn Wāḍiḥ</title> (<title>History of Ibn Wāḍiḥ</title>) and <title>Kitāb al-Buldān</title> (<title>Book of Lands</title>). While much of his early life is difficult to

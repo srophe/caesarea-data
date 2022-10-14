@@ -249,7 +249,7 @@
         <p/>
       </abstract>
       <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:greekLit:tlg4029.tlg002" type="uniform" level="m">Secret History</title>
-        <ref target="#bib53-1">11.25</ref> written by <persName ref="http://viaf.org/viaf/100172302" role="author">Procopius</persName> in <origDate period="#byzantine" notBefore="0550" notAfter="0558">550 - 558 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
+        <ref n="a" target="#bib53-1">11.25</ref> written by <persName ref="http://viaf.org/viaf/100172302" role="author">Procopius</persName> in <origDate period="#byzantine" notBefore="0550" notAfter="0558">550 - 558 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
       <langUsage>
         <language ident="grc">Ancient Greek</language>
       </langUsage>
@@ -272,7 +272,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/53</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract53-1">and <quote><placeName xml:lang="grc">Καισαρείᾳ</placeName></quote> is directly attested at <persName ref="http://viaf.org/viaf/100172302" role="author">Procopius</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg4029.tlg002" type="uniform" level="m">Secret History</title> <ref target="#bib53-1">11.25</ref>. This passage was written ca. <origDate period="#byzantine" notBefore="0550" notAfter="0558">550 - 558 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract53-1">and <quote><placeName xml:lang="grc">Καισαρείᾳ</placeName></quote> is directly attested at <persName ref="http://viaf.org/viaf/100172302" role="author">Procopius</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg4029.tlg002" type="uniform" level="m">Secret History</title> <ref n="a" target="#bib53-1">11.25</ref>. This passage was written ca. <origDate period="#byzantine" notBefore="0550" notAfter="0558">550 - 558 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote53-1" source="#bib53-1">
         ὅσοι μὲν οὖν ἔν τε <placeName xml:lang="grc">Καισαρείᾳ</placeName> τῇ ἐμῇ κὰν ταῖς ἄλλαις πόλεσιν ᾤκουν, παρὰ φαῦλον ἡγησάμενοι κακοπάθειάν τινα ὑπὲρ ἀνοήτου φέρεσθαιδόγματος, ὄνομα Χριστιανῶν τοῦ σφίσι παρόντος ἀνταλλαξάμενοι τῷπροσχήματι τούτῳ τὸν ἐκ τοῦ νόμου ἀποσείσασθαι κίνδυνον ἴσχυσαν.
       <idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg4029.tlg002.perseus-grc1:11.25</idno>
