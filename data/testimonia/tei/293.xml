@@ -278,7 +278,7 @@
         <idno type="CTS-URN"/>
         <ref target="urn:cts:greekLit:tlg2018.tlg011.opp-lat1:13"/>
       </ab>
-      <ab type="translation" xml:lang="en" xml:id="quote293-2" source="#bib293-2">
+      <ab type="translation" xml:lang="en" xml:id="quote293-2">
         <anchor xml:id="testimonia-293.en.1" corresp="#testimonia-293.la.1"/>Nefeddor, which Symmachus translates Maritima. Dor is a city now
             deserted at milestone 9 for those travelling from <placeName>Caesarea</placeName> to
                Ptolemaïs.<note type="translation">Trans. J. L. Rife</note>

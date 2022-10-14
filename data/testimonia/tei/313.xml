@@ -296,7 +296,7 @@
         <idno type="CTS-URN"/>
         <ref target="https://archive.org/details/adler-a.-suidae-lexicon-3 ./Adler%20A.%2C%20Suidae%20Lexicon%203%20%28%CE%9A-%CE%9F.%20%CE%A9%29/page/n315/mode/2up"/>
       </ab>
-         <ab type="translation" xml:lang="en" xml:id="quote313-2" source="#bib313-2">
+         <ab type="translation" xml:lang="en" xml:id="quote313-2">
         <anchor xml:id="testimonia-313.en.1" corresp="#testimonia-313.grc.1"/>Moreover, Origen possessed such diligence for the Divine Scriptures
             that he made a thorough study of Hebrew, contrary to his age and natural inclination.
             Alongside the translation by the Seventy he compiled other editions (of the Bible) into

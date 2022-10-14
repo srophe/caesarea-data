@@ -278,7 +278,7 @@
         <idno type="CTS-URN"/>
         <ref target="urn:cts:greekLit:tlg2018.tlg011.opp-lat1:9"/>
       </ab>
-      <ab type="translation" xml:lang="en" xml:id="quote292-2" source="#bib292-2">
+      <ab type="translation" xml:lang="en" xml:id="quote292-2">
         <anchor xml:id="testimonia-292.en.1" corresp="#testimonia-292.la.1"/>Iafthie in the tribe of Zebulon. Until now it is called Ioppe, the
             Ascent of Iafo. It is also the town Sycaminus by name for those traveling from <placeName>Caesarea</placeName> to Ptolemais, on the sea beside Mount Carmel, called
                Efa.<note type="translation">Trans. J. L. Rife</note>

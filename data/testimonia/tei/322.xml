@@ -286,7 +286,7 @@
         <idno type="CTS-URN">https://archive.org/details/adler-a.-suidae-lexicon-3
                ./Adler%20A.%2C%20Suidae%20Lexicon%203%20%28%CE%9A-%CE%9F.%20%CE%A9%29/page/n315/mode/2up</idno>
       </ab>
-         <ab type="translation" xml:lang="en" xml:id="quote322-2" source="#bib322-2">
+         <ab type="translation" xml:lang="en" xml:id="quote322-2">
         <anchor xml:id="testimonia-322.en.1" corresp="#testimonia-322.grc.1"/>While Origen was in the course of his usual tasks at Caesarea, not
             only did many locals approach him (for instruction), but also thousands of foreign
             students, leaving their homelands; especially renown among them we note Theodorus, who

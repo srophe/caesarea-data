@@ -288,7 +288,7 @@
         <idno type="CTS-URN"/>
         <ref target="urn:cts:greekLit:tlg0087.tlg011.1st1K-grc1:2.2.4.127"/>
       </ab>
-      <ab type="translation" xml:lang="en" xml:id="quote228-2" source="#bib228-2">
+      <ab type="translation" xml:lang="en" xml:id="quote228-2">
         <anchor xml:id="testimonia-228.en.1" corresp="#testimonia-228.grc.1"/>As for feminine nouns ending -a, if they have pure -a (i.e., no
             preceding consonant), r before -a, or long -a, it persists also in the genitive, I mean
             the -a, and by addition of -s makes the genitive. Take these examples of the rule: pure

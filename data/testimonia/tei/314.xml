@@ -291,7 +291,7 @@
         <idno type="CTS-URN">https://archive.org/details/adler-a.-suidae-lexicon-3
                ./Adler%20A.%2C%20Suidae%20Lexicon%203%20%28%CE%9A-%CE%9F.%20%CE%A9%29/page/n315/mode/2up</idno>
       </ab>
-         <ab type="translation" xml:lang="en" xml:id="quote314-2" source="#bib314-2">
+         <ab type="translation" xml:lang="en" xml:id="quote314-2">
         <anchor xml:id="testimonia-314.en.1" corresp="#testimonia-314.grc.1"/>Having examined canonical scripture as a whole, he left behind such
             vast and innumerable writings that all subsequent teachings of the Church would take
             them as a starting point. And so the theologian Gregory (of Nazianzus) claims, “Origen
