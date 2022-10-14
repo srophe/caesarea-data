@@ -282,7 +282,7 @@
             topographic detail, Beyond the usual mention of Peter, Cornelius, and Philip, he notes
             the identifications of the site of Paul’s prison and of a rocky suburban locale, then in
             the countryside, as Peter’s first church.</desc>
-      <ab type="edition" xml:lang="la" xml:id="quote232-1" source="#bib232-1">
+      <ab type="edition" xml:lang="la" xml:id="quote232-1">
         <anchor xml:id="testimonia-232.la.1" corresp="#testimonia-232.en.1"/>(65) XXIIII miliario a Ioppe est Cesarea civitas, metropolis Palestine,
             sita super litus maris. Que qιιondam vocabatur Dor, sed nunc est destructa. Hanc
             civitatem Herodes, rex Iudee, ampliavit et ad honorum Augusti Cesaris <placeName>Cesaream</placeName> vocavit. Et regio Palestina incipit. In hac civitate
@@ -297,10 +297,7 @@
             cathedra, super quam beatus Petrus apostolus missam celebravit. Et alie tres grosse
             petre, que fuerunt sua candelabra. (66) II miliario a <placeName>Cesarea</placeName> est
             parva capella, ubi domina nostra morari quandoque solebat. Haec de terra sancta
-               sufficiant.<note type="textual">Ed. Laurent 1873</note>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
+               sufficiant.<ab type="source" source="#bib232-1"/><idno type="CTS-URN"/><ref target=""/><note type="textual">Ed. Laurent 1873</note></ab>
       <ab type="translation" xml:lang="en" xml:id="quote232-2">
         <anchor xml:id="testimonia-232.en.1" corresp="#testimonia-232.la.1"/>(12) At the 24th mile from Joppa is the city <placeName>Caesarea</placeName>, capital of Palestine, located on the seashore. It
             was once called Dor but now is in ruin. Herodes, king of Judaea, expanded this city and

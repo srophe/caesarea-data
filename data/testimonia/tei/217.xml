@@ -277,7 +277,7 @@
             leadership. In this passage from the book on plots against the government (de insidiis),
             the emperor paraphrases the earlier accounts of John Malalas and the Easter Chronicle on
             the Samaritan uprising in 484 C.E.</desc>
-      <ab type="edition" xml:lang="grc" xml:id="quote217-1" source="#bib217-1">
+      <ab type="edition" xml:lang="grc" xml:id="quote217-1">
         <anchor xml:id="testimonia-217.grc.1" corresp="#testimonia-217.en.1"/>Ὅτι ἐπὶ τῆς βασιλείας Ζήνωνος πρόφασιν λαβόντες οἱ ἐκ τοῦ ἔθνους τῶν
             Σαμαρειτῶν ἐτυράννησαν καὶ ἔστεψαν λῄσταρχον ὄνομα Ἰουστάσαν Σαμαρείτην. καὶ εἰσῆλθεν ἐν <placeName>Καισαρείᾳ</placeName> καὶ ἐθεώρησεν ἱππικὸν καὶ ἐφόνευσε πολλούς,
             ἡγεμονεύοντος τῆς πρώτης Παλαιστίνης Πορφυρίου. ἔκαυσε δὲ καὶ τὸν ἅγιον Προκόπιον ὁ
@@ -287,10 +287,7 @@
             αὐτοῦ μετὰ τοῦ διαδήματος τῷ βασιλεῖ Ζήνωνι· καὶ εὐθέως ὁ Ζήνων ἐποίησε τὴν συναγωγὴν
             αὐτῶν τὴν οὖσαν εἰς τὸ Γαργαρίζη ὄρος εὐκτήριον οἶκον τῆς ἁγίας θεοτόκου, ἀνανεώσας καὶ
             τὸν ἅγιον Προκόπιον, ποιήσας διάταξιν μὴ στρατεύεσθαι Σαμαρείτην, δημεύσας τοὺς εὐπόρους
-            αὐτῶν. καὶ ἐγένετο φόβος καὶ εἰρήνη.<note type="textual">Ed. de Boor 1905</note>
-        <idno type="CTS-URN"/>
-        <ref/>
-      </ab>
+            αὐτῶν. καὶ ἐγένετο φόβος καὶ εἰρήνη.<ab type="source" source="#bib217-1"/><idno type="CTS-URN"/><ref/><note type="textual">Ed. de Boor 1905</note></ab>
       <ab type="translation" xml:lang="en" xml:id="quote217-2">
         <anchor xml:id="testimonia-217.en.1" corresp="#testimonia-217.grc.1"/>It happened during the reign of Zeno that the people of the
             Samaritan race seized a pretext and rebelled, and crowned a bandit chief, the Samaritan

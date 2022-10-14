@@ -271,18 +271,15 @@
             pairs Varro and Origen (Chalcenterus) as paragons of scholarly productivity, and
             criticizes a declining enthusiasm for classical learning (saeculares litterae). Origen
             flourished as a scholar and teacher at Caesarea Maritima.</desc>
-      <ab type="edition" xml:lang="la" xml:id="quote324-1" source="#bib324-1">
+      <ab type="edition" xml:lang="la" xml:id="quote324-1">
         <anchor xml:id="testimonia-324.la.1" corresp="#testimonia-324.en.1"/>Marcum Terentium Varronem miratur antiquitas, quod apud Latinos tam
             innumerabiles libros scripserit. Graeci Chalcenterum miris efferunt laudibus, quod
             tantos libros conposuerit, quantos quivis nostrum alienos sua manu describere non
             potest, et quia nunc otiosum est apud Latinos Graecorum voluminum indicem texere, de eo,
             qui Latine scripsit, aliqua commemorabo, ut intellegamus nos Epimenidis dormire somnum
             et studium, quod illi posuerunt in eruditione saecularium litterarum, in congregandis
-            opibus ponere.<note type="textual">Ed. Hilberg and Slovak 1996</note>
-        <idno type="CTS-URN"/>
-        <ref/>
-      </ab>
-      <ab type="translation" xml:lang="en" xml:id="quote324-2" source="#bib324-2">
+            opibus ponere.<ab type="source" source="#bib324-1"/><idno type="CTS-URN"/><ref/><note type="textual">Ed. Hilberg and Slovak 1996</note></ab>
+      <ab type="translation" xml:lang="en" xml:id="quote324-2">
         <anchor xml:id="testimonia-324.en.1" corresp="#testimonia-324.la.1"/>Antiquity marvels at Marcus Terentius Varro, because of the
             countless books which he wrote for Latin readers. Greek writers are extravagant in their
             praise of Brass-Guts, because he has written more works than one of us could so much as
@@ -290,10 +287,7 @@
             writings, I shall confine myself to the one (sc. Varro) who wrote in Latin. I intend for
             us to understand that we are sleeping the sleep of Epimenides and devoting to the
             accrual of wealth the zeal that our predecessors gave to learning in secular
-               literature.<note type="translation">Rev. Fremantle 1893</note>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
+               literature.<ab type="source" source="#bib324-2"/><idno type="CTS-URN"/><ref target=""/><note type="translation">Rev. Fremantle 1893</note></ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib324-1">

@@ -273,7 +273,7 @@
             passage, Peter sees a vision of Christ and travels from Jerusalem to Caesarea Maritima,
             where he embarks on a ship to Rome captained by the hospitable Theon. The scene contains
             interesting details of passengers launching out of the harbor.</desc>
-      <ab type="edition" xml:lang="la" xml:id="quote216-1" source="#bib216-1">
+      <ab type="edition" xml:lang="la" xml:id="quote216-1">
         <anchor xml:id="testimonia-216.la.1" corresp="#testimonia-216.en.1"/>Lugentibus autem eis et jejunantibus, iam instruebat deus in futurum
             Petrum in Hierosolymis, adimpletis duodecim annis quod illi praeceperat dominus,
             Christus ostendit illi visionem talem, dicens ei, “Petre, quem tu ejecisti de Iudea
@@ -289,17 +289,12 @@
             nostra, si suscipiamus hominem similem nobis in incerto casu, et non omnia quae habemus
             nos, communicamus tecum? sed tantum nos feliciter navigemus.” Petrus autem oblationi
             illius gratias agens, ipse autem in navi jejunabat, lugens animo et iterum comfortans
-            se, quod deus dignum eum habuisset in ministerio suo ministrum.<note type="textual">Ed.
-               Lipsius 1891</note>
-        <note type="discussion">Codex Vercellensis 158, Capitulary Library
-               (probably Italy, 3rd/4th century)</note>
-        <note type="corrigenda">epimenia ("provisions
+            se, quod deus dignum eum habuisset in ministerio suo ministrum.<ab type="source" source="#bib216-1"/><idno type="CTS-URN"/><ref target=""/><note type="textual">Ed.
+               Lipsius 1891</note><note type="discussion">Codex Vercellensis 158, Capitulary Library
+               (probably Italy, 3rd/4th century)</note><note type="corrigenda">epimenia ("provisions
                for a month") instead of manuscript reading epsimenia (Latin transliteration of Greek
-               ἡψημένα, "boiled foods"?).</note>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
-      <ab type="translation" xml:lang="en" xml:id="quote216-2" source="#bib216-2">
+               ἡψημένα, "boiled foods"?).</note></ab>
+      <ab type="translation" xml:lang="en" xml:id="quote216-2">
         <anchor xml:id="testimonia-216.en.1" corresp="#testimonia-216.la.1"/>While they were grieving and fasting, God was already preparing
             Peter at Jerusalem for what was to come. After the twelve years had passed which the
             Lord had enjoined on him, Christ showed to him the following vision, saying, “Peter,
@@ -315,11 +310,8 @@
             ourselves, if we receive a man like ourselves in difficult circumstances, and do not
             share with you everything we have? Let us have a safe voyage.” Peter thanked him for his
             offer. And he fasted in the ship, being dejected in his mind and yet again comforting
-            himself, because God considered him to be a worthy servant in his service.<note type="translation">Adapted from Schneemelcher and Wilson 1992 and Elliott
-               1993</note>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
+            himself, because God considered him to be a worthy servant in his service.<ab type="source" source="#bib216-2"/><idno type="CTS-URN"/><ref target=""/><note type="translation">Adapted from Schneemelcher and Wilson 1992 and Elliott
+               1993</note></ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib216-1">

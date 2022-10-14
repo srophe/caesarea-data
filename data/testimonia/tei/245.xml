@@ -272,7 +272,7 @@
             historical and geographic information. After recounting the early geneaology of the Old
             Testament in the early part of the chronicle, the unknown author reviews the peoples and
             cities of the world, including this passage on North Africa to the Middle East.</desc>
-      <ab type="edition" xml:lang="grc" xml:id="quote245-1" source="#bib245-1">
+      <ab type="edition" xml:lang="grc" xml:id="quote245-1">
         <anchor xml:id="testimonia-245.grc.1" corresp="#testimonia-245.en.1"/>Ἔδοξέ μοι καὶ τὰς ἐπισήμους πόλεις τῶν ἑπτὰ κλιμάτων ἐξειπεῖν. Αʹ.
             Κλίματος πρώτου Λιβύης τῆς ἐν τῇ Αἰγύπτῳ, Νίγρης μητρόπολις Αἰθιοπίας τῆς ἐν τῇ αὐτῇ
             Αἰγύπτῳ, αʹ Μερόη, βʹ Πτολεμαΐς, γʹ Ἀραβία, δʹ Μοῦζα. Βʹ. Κλίματος δευτέρου Αἰγύπτου
@@ -281,10 +281,7 @@
             Ἀπολλωνία, Κυρήνη· Αἰγύπτου, Παρατόνιον, Ἀλεξάνδρεια μεγάλη, Πηλούσιον, Μέμφις,
             Πτολεμαῒς Ἑρμείου· Συρίας Ἰουδαίας <placeName>Καισάρεια</placeName>, Ἀσκαλών, Τιβεριάς,
             Νεάπολις, Σεβαστή, Σκυθόπολις, Αἰλία· Ἀραβίας Πετραίας Πέτρα, Μήδαβα, Βόστρα· Βαβυλῶνος
-               Τερηδών.<note type="textual">Ed. Dindorf 1832</note>
-        <idno type="CTS-URN"/>
-        <ref/>
-      </ab>
+               Τερηδών.<ab type="source" source="#bib245-1"/><idno type="CTS-URN"/><ref/><note type="textual">Ed. Dindorf 1832</note></ab>
       <ab type="translation" xml:lang="en" xml:id="quote245-2">
         <anchor xml:id="testimonia-245.en.1" corresp="#testimonia-245.grc.1"/>It is also worth recounting the distinguished cities of the seven
             geographic regions. I. The first region. Libya in Egypt, Nigres the capital of Ethiopia

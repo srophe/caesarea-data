@@ -279,7 +279,7 @@
             summarized the outcome of the Holy Synod at Constantinople, or the Second Ecumenical
             Council, which was actually held in 381, including the condemnation of Acacius, the
             Arian bishop of Caesarea.</desc>
-         <ab type="edition" xml:lang="grc" xml:id="quote389-1" source="#bib389-1">
+         <ab type="edition" xml:lang="grc" xml:id="quote389-1">
         <anchor xml:id="testimonia-389.grc.1" corresp="#testimonia-389.en.1"/> ἡ δὲ ἁγία καὶ οἰκουμενικὴ σύνοδος τὸ ὁμοούσιον ἐκύρωσεν, προσέθηκε δὲ
             τῷ συμβόλῳ καὶ τὴν θεολογίαν τοῦ πνεύματος. ἐξέθετο δὲ καὶ κανόνας, ἐν οἷς τῷ θρόνῳ
             Κωνσταντινουπόλεως τὰ πρεσβεῖα νέας Ῥώμης ἀπένειμεν. τότε Γρηγόριος ὁ Νύσης καὶ Πελάγιος
@@ -287,11 +287,8 @@
             Γρηγορίῳ καὶ τοῖς προρρηθεῖσιν. ἡ δὲ ἁγία σύνοδος Ἄρειόν τε καὶ Εὐσέβιον τὸν
             Νικομηδείας, Εὐζώϊόν τε καὶ Ἀκάκιον, Θεόγνιν καὶ Εὐφρόνιον καὶ τοὺς λοιποὺς
             ἀνεθεμάτισεν, πρὸς τούτοις δὲ καὶ Μακεδόνιον τὸν πνευματομάχον, Εὐδόξιόν τε καὶ Ἀέτιον
-            καὶ Εὐνόμιον ἀπεκήρυξεν. <note type="textual">Ed. de Boor 1883 </note>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
-         <ab type="translation" xml:lang="en" xml:id="quote389-2" source="#bib389-2">
+            καὶ Εὐνόμιον ἀπεκήρυξεν.<ab type="source" source="#bib389-1"/><idno type="CTS-URN"/><ref target=""/><note type="textual">Ed. de Boor 1883 </note></ab>
+         <ab type="translation" xml:lang="en" xml:id="quote389-2">
         <anchor xml:id="testimonia-389.en.1" corresp="#testimonia-389.grc.1"/>[A.M. 5876=383/4 C.E.] The holy ecumenical synod validated the
             consubstantial and added the doctrine of the Spirit to the creed. It also published
             canons in which it assigned the privileges of New Rome to the see of Constantinople.
@@ -299,10 +296,7 @@
             shown brightly at this synod together with Gregory the Great and those previously
             mentioned. The holy synod anathematized Arius and Eusebius of Nicomedia, Euzoius and
             Acacius, Theognis and Euphronius and the others, and in addition to these it condemned
-            Macedonius, the enemy of the Spirit, Eudoxius, Aëtius, and Eunomius.<note type="translation">Rev. Mango, Scott, and Greatrex 1997</note>
-        <idno type="CTS-URN"/>
-        <ref/>
-      </ab>
+            Macedonius, the enemy of the Spirit, Eudoxius, Aëtius, and Eunomius.<ab type="source" source="#bib389-2"/><idno type="CTS-URN"/><ref/><note type="translation">Rev. Mango, Scott, and Greatrex 1997</note></ab>
          <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib389-1">

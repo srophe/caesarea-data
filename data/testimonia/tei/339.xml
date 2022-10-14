@@ -283,7 +283,7 @@
             of the Holy Land relates how in 1208 a congress of leaders sought advice from Philip II
             of France on the marriage of the young Maria of Montferrat to secure the Kingdom of
             Jerusalem. Among the ambassadors was Aymar, the Lord of Caesarea.</desc>
-      <ab type="edition" xml:lang="la" xml:id="quote339-1" source="#bib339-1">
+      <ab type="edition" xml:lang="la" xml:id="quote339-1">
         <anchor xml:id="testimonia-339.la.1" corresp="#testimonia-339.en.1"/>Demum videntes barones regni Ierusalem Mariam puellam iam nubilem,
             convenientes cum Ierosolymitano Patriarcha ceterisque prelatis ac militibus, coeperunt
             de sponso perquirere qui sciret et posset regni iura tueri. Et tandem communiter
@@ -292,12 +292,9 @@
             quoque sollemnes ad hoc mittuntur episcopus Ptolomensis et Aymarus qui ratione uxoris
             dominus erat <placeName>Caesareae</placeName> MCCVIII. Per Massiliam igitur transeuntes
             in Franciam, legationis causam exponunt regi. Ille grate receptis nuntiis celeriter ait
-            deliberatione praevia se nuntios expedire.<note type="textual">Ed. Bongars
-               1611</note>
-        <note type="corrigenda">Minor corr. J. L. Rife</note>
-        <idno type="CTS-URN"/>
-      </ab>
-      <ab type="translation" xml:lang="en" xml:id="quote339-2" source="#bib339-2">
+            deliberatione praevia se nuntios expedire.<ab type="source" source="#bib339-1"/><idno type="CTS-URN"/><note type="textual">Ed. Bongars
+               1611</note><note type="corrigenda">Minor corr. J. L. Rife</note></ab>
+      <ab type="translation" xml:lang="en" xml:id="quote339-2">
         <anchor xml:id="testimonia-339.en.1" corresp="#testimonia-339.la.1"/>At last the barons of the Kingdom of Jerusalem, seeing that the girl
             Maria was now ready for marriage, meeting with the Patriarch of Jerusalem and other
             prelates and knights, began to search prudently for a husband with the knowledge and
@@ -307,11 +304,8 @@
             official ambassadors, were the Bishop of Ptolomayda and Aymar, who was Lord of <placeName>Caesarea</placeName> by his wife, in 1208. Therefore, crossing into France
             through Massilia, they explained to the King the reason for their mission. When he had
             welcomed the ambassadors graciously, he quickly said that, according to earlier
-            consultation, he would ready (his own) ambassadors.<note type="translation">Adapted from
-               Lock 2011</note>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
+            consultation, he would ready (his own) ambassadors.<ab type="source" source="#bib339-2"/><idno type="CTS-URN"/><ref target=""/><note type="translation">Adapted from
+               Lock 2011</note></ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib339-1">

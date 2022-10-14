@@ -274,7 +274,7 @@
             describes how Ambrose provided Origen with many resources, including a full scribal
             staff, for his biblical research at Caesarea in the early 3rd century. Here the author
             depends on the account of Eusebius written roughly 650 year earlier.</desc>
-         <ab type="edition" xml:lang="grc" xml:id="quote312-1" source="#bib312-1">
+         <ab type="edition" xml:lang="grc" xml:id="quote312-1">
         <anchor xml:id="testimonia-312.grc.1" corresp="#testimonia-312.en.1"/>ἐξ ἐκείνου δὲ τοῦ χρόνου τῶν εἰς τὰς θείας γραφὰς ὑπομνημάτων ἐγένετο
             ἀρχή, ᾽Αμβροσίου εἰς τὰ μάλιστα παρορμῶντος αὐτὸν μυρίαις ὅσαις οὐ προτροπαῖς ταῖς διὰ
             λόγων καὶ παρακλήσεσιν αὐτοῦ μόνον, ἀλλὰ καὶ ἀφθονωτάταις τῶν ἐπιτηδείων χορηγίαις.
@@ -283,10 +283,7 @@
             καλλιγραφεῖν ἠσκημέναις: ὧν ἁπάντων τὴν δέουσαν τῶν ἐπιτηδείων ἄφθονον χορηγίαν ὁ
             ᾽Αμβρόσιος παρεστήσατο: ναὶ μὴν καὶ ἐν τῇ περὶ τὰ θεῖα λόγια ἀσκήσει τε καὶ σπουδῇ
             προθυμίαν ἄφατον αὐτῷ συνεισέφερεν, ᾗ καὶ μάλιστα αὐτὸν προέτρεπεν ἐπὶ τὴν τῶν
-            ὑπομνημάτων σύνταξιν. <note type="textual">Ed. Adler 1933</note>
-        <idno type="CTS-URN"/>
-        <ref target="https://archive.org/details/adler-a.-suidae-lexicon-3 ./Adler%20A.%2C%20Suidae%20Lexicon%203%20%28%CE%9A-%CE%9F.%20%CE%A9%29/page/n315/mode/2up"/>
-      </ab>
+            ὑπομνημάτων σύνταξιν.<ab type="source" source="#bib312-1"/><idno type="CTS-URN"/><ref target="https://archive.org/details/adler-a.-suidae-lexicon-3 ./Adler%20A.%2C%20Suidae%20Lexicon%203%20%28%CE%9A-%CE%9F.%20%CE%A9%29/page/n315/mode/2up"/><note type="textual">Ed. Adler 1933</note></ab>
          <ab type="translation" xml:lang="en" xml:id="quote312-2">
         <anchor xml:id="testimonia-312.en.1" corresp="#testimonia-312.grc.1"/>The start of his Commentaries on the Divine Scriptures dates to that
             time, after Ambrose in particular urged him to undertake this project not only through

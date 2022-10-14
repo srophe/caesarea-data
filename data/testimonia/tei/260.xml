@@ -281,7 +281,7 @@
             as well as maps, and presented different versions of it to popes Clement V (in 1307) and
             John XXII (in 1321). His account of the Holy Land begins by surveying the regional
             divisions of “Syria” from Cappadocia and Cilicia to Mesopotamia to Egypt.</desc>
-      <ab type="edition" xml:lang="la" xml:id="quote260-1" source="#bib260-1">
+      <ab type="edition" xml:lang="la" xml:id="quote260-1">
         <anchor xml:id="testimonia-260.la.1" corresp="#testimonia-260.en.1"/>Dicuntur etiam Syriae, tres Palestinae: unde quinta Syria est Palestina,
             quae proprie Philistim nominatur: cuius metropolis est Caesarea, incipiens a Castro
             Pereginorum et tendens versus meridiem supra mare Mediterraneum contra austrum usque
@@ -289,12 +289,8 @@
             montanis usque ad Mare Mortuum et usque desertum Cadesbarne; haec stricte Iudaea dicitur
             nomine totius parti attributo. Septima Syria est alia Palestina: cuius metropolis est
             Bethsan, sita sub monte Gelboe iuxta Iordanem; quae Galilea et campus magnus
-               Esdrelon.<note type="textual">Ed. Bongars 1611</note>
-        <note type="corrigenda">Minor corr. J. L. Rife</note>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
-      <ab type="translation" xml:lang="en" xml:id="quote260-2" source="#bib260-2">
+               Esdrelon.<ab type="source" source="#bib260-1"/><idno type="CTS-URN"/><ref target=""/><note type="textual">Ed. Bongars 1611</note><note type="corrigenda">Minor corr. J. L. Rife</note></ab>
+      <ab type="translation" xml:lang="en" xml:id="quote260-2">
         <anchor xml:id="testimonia-260.en.1" corresp="#testimonia-260.la.1"/>Also, the three parts of Palestine are called the Syrias, of which
             the fifth Syria is that Palestine which is properly called Philistim. Its chief city is
             Caesarea, and it begins at Pilgrims’ Castle and extends south along the coast of the
@@ -303,10 +299,7 @@
             wilderness of Kadesh Barnea. Strictly this country is called Judaea, the name of a part
             being given to the whole. The Seventh Syria is the third Palestine. Its chief city is
             Beth Shan, located below Mount Gilboa near the Jordan. It contains Galilee and the great
-            plain of Esdrelon.<note type="translation">Adapted from Lock 2011</note>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
+            plain of Esdrelon.<ab type="source" source="#bib260-2"/><idno type="CTS-URN"/><ref target=""/><note type="translation">Adapted from Lock 2011</note></ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib260-1">

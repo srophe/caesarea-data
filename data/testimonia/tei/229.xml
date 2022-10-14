@@ -282,7 +282,7 @@
             know from other accounts (see Related Texts), a mob of anti-Chalcedonian monks were
             agitating outside the city; thereafter they ensured the election of Theodosius to occupy
             the vacated throne at Jerusalem.</desc>
-      <ab type="edition" xml:lang="grc" xml:id="quote229-1" source="#bib229-1">
+      <ab type="edition" xml:lang="grc" xml:id="quote229-1">
         <anchor xml:id="testimonia-229.grc.1" corresp="#testimonia-229.en.1"/>Ἀλλ’ οὐδὲ τὰ κατὰ τὴν ἔρημον τὴν πρὸς τὰ Ἱεροσόλυμα τὴν ἠρεμίαν εἶχεν.
             Ἔνιοι γὰρ τῶν μοναχῶν τῶν ἀνὰ τὴν σύνοδον εὑρεθέντων καὶ τἀναντία ταύτης βουληθέντων
             φρονεῖν πρὸς τὴν Παλαιστίνην ἀφικνοῦνται· καὶ προδοσίαν τῆς πίστεως ὀδυρόμενοι τὸ
@@ -291,11 +291,8 @@
             ἀναθεματίσαι κατὰ τὴν βασιλέως πόλιν ἀνέδραμεν, ἁλισθέντες οἱ τἀναντία τῆς ἐν Καλχηδόνι
             συνόδου, ὡς ἀνωτέρω εἰρήκαμεν, φρονοῦντες χειροτονοῦσιν ἀνὰ τὴν ἁγίαν Ἀνάστασιν
             Θεοδόσιον, τὸν μάλιστα κυκήσαντα τὴν ἐν Καλχηδόνι σύνοδον, τὸν καὶ πρῶτον περὶ ταύτης
-            αὐτοῖς ἀγγείλαντα.<note type="textual">Ed. Bidez and Parmentier 1898</note>
-        <idno type="CTS-URN"/>
-        <ref target="https://babel.hathitrust.org/cgi/pt?id=hvd.ah3vvp&amp;view=1up&amp;seq=78"/>
-      </ab>
-      <ab type="translation" xml:lang="en" xml:id="quote229-2" source="#bib229-2">
+            αὐτοῖς ἀγγείλαντα.<ab type="source" source="#bib229-1"/><idno type="CTS-URN"/><ref target="https://babel.hathitrust.org/cgi/pt?id=hvd.ah3vvp&amp;view=1up&amp;seq=78"/><note type="textual">Ed. Bidez and Parmentier 1898</note></ab>
+      <ab type="translation" xml:lang="en" xml:id="quote229-2">
         <anchor xml:id="testimonia-229.en.1" corresp="#testimonia-229.grc.1"/>But the desert areas near Jerusalem did not even maintain
             tranquility. For some of the monks who had been present at the Synod but wished to hold
             different opinions from it came to Palestine; and lamenting the betrayal of the faith,
@@ -304,12 +301,8 @@
             raving men, he took refuge in the emperor’s city, while those who, as we mentioned
             above, held different opinions from the Synod of Chalcedon assembled in the Church of
             the Resurrection and elected Theodosius. He in particular threw the Synod at Chalcedon
-            into confusion, and was also the first to bring a report of it to them.<note type="translation">Rev. Whitby 2000</note>
-        <note type="discussion">"[T]he emperor's
-               city" means Caesarea Maritima.</note>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
+            into confusion, and was also the first to bring a report of it to them.<ab type="source" source="#bib229-2"/><idno type="CTS-URN"/><ref target=""/><note type="translation">Rev. Whitby 2000</note><note type="discussion">"[T]he emperor's
+               city" means Caesarea Maritima.</note></ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib229-1">

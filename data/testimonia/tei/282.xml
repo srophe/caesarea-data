@@ -274,21 +274,15 @@
             a survey of the region’s ethnography, religions, and environment. This passage
             summarizes the ecclesiastical hierarchy in the Patriarchate of Jerusalem, including the
             Archbishop of Caesarea.</desc>
-      <ab type="edition" xml:lang="la" xml:id="quote282-1" source="#bib282-1">
+      <ab type="edition" xml:lang="la" xml:id="quote282-1">
         <anchor xml:id="testimonia-282.la.1" corresp="#testimonia-282.en.1"/>Preterea iste civitates sunt, que non habent episcopos: Scalona, que est
             sub episcopo Bethlehemitano; Ioppen, que est sub canonicis Dominici Sepulcri; Neapolis,
-            que est sub Abbate Templi, Caifa sub Archepiscopo <placeName>Cesariense</placeName>.<note type="textual">Ed. Neumann 1866</note>
-        <idno type="CTS-URN"/>
-        <ref/>
-      </ab>
-      <ab type="translation" xml:lang="en" xml:id="quote282-2" source="#bib282-2">
+            que est sub Abbate Templi, Caifa sub Archepiscopo <placeName>Cesariense</placeName>.<ab type="source" source="#bib282-1"/><idno type="CTS-URN"/><ref/><note type="textual">Ed. Neumann 1866</note></ab>
+      <ab type="translation" xml:lang="en" xml:id="quote282-2">
         <anchor xml:id="testimonia-282.en.1" corresp="#testimonia-282.la.1"/>Furthermore, there are these cities that do not have bishops:
             Ascalon, which is subject to the Bishop of Bethlehem; Ioppe, which is subject to the
             canons of the Lord’s Sepulcher; Neapolis, which is subject to the Abbot of the Temple;
-            and Caifa, subject to the Archbishop of <placeName>Caesarea</placeName>.<note type="translation">Adapted from Stewart 1894</note>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
+            and Caifa, subject to the Archbishop of <placeName>Caesarea</placeName>.<ab type="source" source="#bib282-2"/><idno type="CTS-URN"/><ref target=""/><note type="translation">Adapted from Stewart 1894</note></ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib282-1">

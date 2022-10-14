@@ -281,7 +281,7 @@
             Caesarea Maritima, Gregory of Nyssa highlights Firmilian’s key role as Gregory’s
             companion in spiritual instruction, and places Gregory’s commitment to God before his
             tutelage under Origen.</desc>
-         <ab type="edition" xml:lang="grc" xml:id="quote391-1" source="#bib391-1">
+         <ab type="edition" xml:lang="grc" xml:id="quote391-1">
         <anchor xml:id="testimonia-391.grc.1" corresp="#testimonia-391.en.1"/>Ἀλλὰ τὸ μὲν προοίμιον τοῦ βίου, τοιοῦτον. Αὐτὸς δὲ ὁ βίος τίς; Ἐπειδὴ
             πᾶσαν παίδευσιν τῆς ἔξω σοφίας ἐπιδραμὼν, ἐνέτυχε Φιρμιλιανῷ τινι τῶν εὐπατριδῶν
             Καππαδόκῃ, ὁμοιοτρόπῳ κατὰ τὸ ἦθος, ὡς ἔδειξεν ἐκεῖνος τῷ μετὰ ταῦτα βίῳ, κόσμος τῆς
@@ -297,13 +297,9 @@
             ἀξιούντων μένειν, πάντων προτιμοτέραν τὴν ἐνεγκοῦσαν αὐτὸν ποιησάμενος, ἐπὶ τὴν πατρίδα
             πάλιν ἐπάνεισιν, τὸν παντοδαπὸν πλοῦτον τῆς σοφίας τε καὶ τῆς γνώσεως ἐπαγόμενος, ὃν
             καθάπερ τις ἔμπορος ἐν ταῖς ἔξω σπουδαῖς πᾶσι καθομιλῶν τοῖς εὐδοκίμοις
-               ἐνεπορεύσατο.<note type="textual">Ed. Migne 1863</note>
-        <note type="textual">Rev. Heil
-               1990</note>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
-         <ab type="translation" xml:lang="en" xml:id="quote391-2" source="#bib391-2">
+               ἐνεπορεύσατο.<ab type="source" source="#bib391-1"/><idno type="CTS-URN"/><ref target=""/><note type="textual">Ed. Migne 1863</note><note type="textual">Rev. Heil
+               1990</note></ab>
+         <ab type="translation" xml:lang="en" xml:id="quote391-2">
         <anchor xml:id="testimonia-391.en.1" corresp="#testimonia-391.grc.1"/>But such is the prologue to his life. What of the life itself? After
             having dashed through the entire curriculum of worldly wisdom, he met a certain
             Firmilian from the elite in Cappadocia, a man of comparable character, as he
@@ -320,11 +316,8 @@
             good idea (for him) to stay with them, he decided that he preferred the land that bore
             him above all others, and returned home. He brought in his manifold wealth and
             knowledge, which he imported like a merchant in all world pursuits who conducts business
-            with a celebrated clientele.<note type="translation">Adapted from Slusser
-               1998</note>
-        <idno type="CTS-URN"/>
-        <ref/>
-      </ab>
+            with a celebrated clientele.<ab type="source" source="#bib391-2"/><idno type="CTS-URN"/><ref/><note type="translation">Adapted from Slusser
+               1998</note></ab>
          <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib391-1">

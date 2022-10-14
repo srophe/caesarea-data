@@ -279,7 +279,7 @@
             the martyr and giant of Caesarean scholarship. Here Jerome impugns the integrity of
             Rufinus on the grounds that he had misrepresented the authorship of the Apology for
             Origen.</desc>
-      <ab type="edition" xml:lang="la" xml:id="quote346-1" source="#bib346-1">
+      <ab type="edition" xml:lang="la" xml:id="quote346-1">
         <anchor xml:id="testimonia-346.la.1" corresp="#testimonia-346.en.1"/>(9) Quid tibi animi fuisse dicam, amice simplicissime? Tene potuisse
             haeretici hominis libro martyris nomen imponere, et ignaros, sub auctoritate testis
             Christi, Origenis facere defensores? Pro eruditione qua polles et inclytus συγγραφεὺς in
@@ -298,13 +298,9 @@
             versabatur.”<lb/>(10) Defensor Origenis et laudator Pamphili dicit Pamphilum nihil omnino
             scripsisse, nec proprii quidquam condidisse sermonis; et hoc dicit iam Pamphilo martyrio
             coronato, ne habeas suffugium post editos ab Eusebio libros hoc Pamphilum
-               conscripsisse.<note type="textual">Ed. Migne 1883</note>
-        <note type="textual">Checked
-               against Lardet 1982</note>
-        <idno type="CTS-URN"/>
-        <ref target="https://archive.org/details/patrologiaecurs01goog/page/n216/mode/2up"/>
-      </ab>
-      <ab type="translation" xml:lang="en" xml:id="quote346-2" source="#bib346-2">
+               conscripsisse.<ab type="source" source="#bib346-1"/><idno type="CTS-URN"/><ref target="https://archive.org/details/patrologiaecurs01goog/page/n216/mode/2up"/><note type="textual">Ed. Migne 1883</note><note type="textual">Checked
+               against Lardet 1982</note></ab>
+      <ab type="translation" xml:lang="en" xml:id="quote346-2">
         <anchor xml:id="testimonia-346.en.1" corresp="#testimonia-346.la.1"/>(9) Shall I say what your intention was, my most simple-minded
             friend? Surely you could not have placed the name of a marytr (sc. Pamphilus) on the
             book of a heretic (sc. Origen) and thus, under the guarantee of Christ’s witness, made
@@ -327,11 +323,8 @@
             Pamphilus says that Pamphilus wrote nothing at all and composed no text; and he says
             this when Pamphilus had already received the crown of martyrdom, to deprive you of the
             loophole in claiming that Pamphilus wrote this work after the publication of Eusebius’
-               books.<note type="translation">Adapted from Fremantle 1892 with ref. to Lardet
-               1983</note>
-        <idno type="CTS-URN"/>
-        <ref/>
-      </ab>
+               books.<ab type="source" source="#bib346-2"/><idno type="CTS-URN"/><ref/><note type="translation">Adapted from Fremantle 1892 with ref. to Lardet
+               1983</note></ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib346-1">

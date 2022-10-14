@@ -271,7 +271,7 @@
             from Varro to Origen, whom he praises as a great and productive scholar, despite his
             condemnation on theological grounds and the jealousy his intellectual brilliance
             attracts. Origen flourished as a scholar and teacher at Caesarea Maritima.</desc>
-      <ab type="edition" xml:lang="la" xml:id="quote333-1" source="#bib333-1">
+      <ab type="edition" xml:lang="la" xml:id="quote333-1">
         <anchor xml:id="testimonia-333.la.1" corresp="#testimonia-333.en.1"/>(4) Quorsum Varronis et Chalcenteri mentio facta sit, quaeritis?
             Videlicet, ut ad Adamantium nostrum nostrumque Chalcenterum veniamus, qui tanto in
             Sanctarum Scripturarum commentariis sudore laboravit, ut iuste Adamantis nomen
@@ -284,11 +284,8 @@
             rabidi canes simulant, sed quia gloriam eloquentiae eius et scientiae ferre non poterant
             et illo dicente omnes muti putabantur. (6) Haec quare scripserim et ad pauperis lucernae
             igniculum cito, sed non cauto sermone dictaverim, potestis intellegere, si Epicuros et
-            Aristippos cogitetis.<note type="textual">Ed. Hilberg and Slovak 1996</note>
-        <idno type="CTS-URN"/>
-        <ref/>
-      </ab>
-      <ab type="translation" xml:lang="en" xml:id="quote333-2" source="#bib333-2">
+            Aristippos cogitetis.<ab type="source" source="#bib333-1"/><idno type="CTS-URN"/><ref/><note type="textual">Ed. Hilberg and Slovak 1996</note></ab>
+      <ab type="translation" xml:lang="en" xml:id="quote333-2">
         <anchor xml:id="testimonia-333.en.1" corresp="#testimonia-333.la.1"/>(4) But to what end, you ask, have I mentioned Varro and Brass-Guts?
             Simply to bring to your attention the Christian Brass-Guts, or Man of Steel, who has
             labored with so much sweat over his commentaries on the Sacred Writings that he has
@@ -303,10 +300,7 @@
             men could not tolerate the glory of his eloquence and knowledge, and they thought that
             all others were voiceless when he spoke. (6) I have written these things quickly by the
             light of a meager lamp and I have expressed them incautiously. You will understand why
-            if you consider the adherents of Epicurus and Aristippus.<note type="translation">Trans. J. L. rife with ref. to Fremantle 1893</note>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
+            if you consider the adherents of Epicurus and Aristippus.<ab type="source" source="#bib333-2"/><idno type="CTS-URN"/><ref target=""/><note type="translation">Trans. J. L. rife with ref. to Fremantle 1893</note></ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib333-1">

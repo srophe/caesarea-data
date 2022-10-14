@@ -281,7 +281,7 @@
             his chapter on the Semi-Arians, Epiphanius names the various bishops who succeeded Arius
             during the mid- to late 4th century, the Homoiousians, among whom was Euzoeus, bishop of
             Caesarea.</desc>
-      <ab type="edition" xml:lang="grc" xml:id="quote255-1" source="#bib255-1">
+      <ab type="edition" xml:lang="grc" xml:id="quote255-1">
         <anchor xml:id="testimonia-255.grc.1" corresp="#testimonia-255.en.1"/>(5) ἐξ αὐτῶν γὰρ Εὐζώϊος ὁ ἐν <placeName>Καισαρείᾳ</placeName>, μαθητὴς
             ἐκείνων ὑπάρχων, ὃς καὶ τὸν Ἀκάκιον διεδέξατο μετὰ κατάστασιν Φιλουμένου τοῦ ὑπὸ
             Κυρίλλου τοῦ Ἱεροσολυμίτου κατασταθέντος καὶ μετὰ κατάστασιν Κυρίλλου τοῦ γέροντος τοῦ
@@ -293,12 +293,9 @@
             ἀπειραγαθήσαντες, οὐ μόνον τὰ Ἀρείου διδάσκουσιν, ἀλλ’ ὑπερμαχοῦσι τῆς αὐτῶν αἱρέσεως
             καὶ τοὺς τὴν ἀλήθειαν διδάσκοντας διώκουσιν, οὐκέτι λόγοις βουλόμενοι ἀνατρέπειν, ἀλλὰ
             καὶ ἐχθρίαις καὶ πολέμοις καὶ μαχαίραις παραδιδόντες τοὺς ὀρθῶς πιστεύοντας. λύμην γὰρ
-            οὐ μιᾷ πόλει καὶ χώρᾳ εἰργάσαντο, ἀλλὰ πολλαῖς.<note type="textual">Ed. Holl
-               1933</note>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
-      <ab type="translation" xml:lang="en" xml:id="quote255-2" source="#bib255-2">
+            οὐ μιᾷ πόλει καὶ χώρᾳ εἰργάσαντο, ἀλλὰ πολλαῖς.<ab type="source" source="#bib255-1"/><idno type="CTS-URN"/><ref target=""/><note type="textual">Ed. Holl
+               1933</note></ab>
+      <ab type="translation" xml:lang="en" xml:id="quote255-2">
         <anchor xml:id="testimonia-255.en.1" corresp="#testimonia-255.grc.1"/>(5) One of them is Euzoeus of <placeName>Caesarea</placeName>, their
             disciple, who succeeded Acacius after the consecration of Philoumen, who was consecrated
             by Cyril of Jerusalem, and the consecration of the elderly Cyril, who was consecrated by
@@ -311,10 +308,7 @@
             do battle for their heresy, and they persecute those who teach the truth. They are no
             longer willing merely to refute Orthodox believers verbally, but subject them to feuds,
             violence, and murder. For they have wrought destruction not in one city and country but
-            in many.<note type="translation">Rev. Williams 2013</note>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
+            in many.<ab type="source" source="#bib255-2"/><idno type="CTS-URN"/><ref target=""/><note type="translation">Rev. Williams 2013</note></ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib255-1">

@@ -283,26 +283,19 @@
             of the Holy Land describes Saladin’s destruction of the coastal cities, including
             Caesarea, in the aftermath of the disastrous conclusion of the siege of Acre in
             midsummer of 1191.</desc>
-      <ab type="edition" xml:lang="la" xml:id="quote336-1" source="#bib336-1">
+      <ab type="edition" xml:lang="la" xml:id="quote336-1">
         <anchor xml:id="testimonia-336.la.1" corresp="#testimonia-336.en.1"/>Cernens tortuosus coluber Saladinus captam civitatem Ptolomaydam et
             pugnatorum suorum multitudinem interemptam consternatus est animo. Nam electos ibi
             locaverat pugnatores (II. cap. supra) et diffidens cetera posse tueri, maritima loca
             destruxit: Poyphyriam scilicet, et <placeName>Caesaream</placeName>, Iopen, Ascalonem,
             Gazam et Darum. Post haec rex Riccardus Iopen reaedificans sub munita fidaque custodia
-            tutam reliquit.<note type="textual">Ed. Bongars 1611</note>
-        <note type="corrigenda">Minor corr. J. L. Rife</note>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
-      <ab type="translation" xml:lang="en" xml:id="quote336-2" source="#bib336-2">
+            tutam reliquit.<ab type="source" source="#bib336-1"/><idno type="CTS-URN"/><ref target=""/><note type="textual">Ed. Bongars 1611</note><note type="corrigenda">Minor corr. J. L. Rife</note></ab>
+      <ab type="translation" xml:lang="en" xml:id="quote336-2">
         <anchor xml:id="testimonia-336.en.1" corresp="#testimonia-336.la.1"/>Saladin, the slippery snake, observing that the city Ptolomayda was
             captured and many of his warriors killed, was dispirited, for he had stationed his
             select warriors there (Chapter 2 above). Losing hope that the other places could be
             protected, he destroyed the coastal towns, namely, Porphyria, <placeName>Caesarea</placeName>, Jaffa, Ascalon, Gaza, and Darus. After this King
-            Richard rebuilt Jaffa and left it safe under strong and loyal guards.<note type="translation">Adapted from Lock 2011</note>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
+            Richard rebuilt Jaffa and left it safe under strong and loyal guards.<ab type="source" source="#bib336-2"/><idno type="CTS-URN"/><ref target=""/><note type="translation">Adapted from Lock 2011</note></ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib336-1">

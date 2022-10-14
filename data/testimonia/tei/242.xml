@@ -274,20 +274,14 @@
             Justinian, with a distinct focus on events in the eastern Mediterranean. In his passage
             on the reign of Antoninus Pius, John records the emperor’s construction of public baths
             at Caesarea.</desc>
-      <ab type="edition" xml:lang="grc" xml:id="quote242-1" source="#bib242-1">
+      <ab type="edition" xml:lang="grc" xml:id="quote242-1">
         <anchor xml:id="testimonia-242.grc.1" corresp="#testimonia-242.en.1"/>Ἔκτισε δὲ καὶ ἐν <placeName>Καισαρείᾳ τῆς Παλαιστίνης</placeName> λουτρόν, καὶ ἐν Νικομηδείᾳ τῆς Βιθυνίας καὶ ἐν Ἐφέσῳ τῆς Ἀσίας· ἅπερ δημόσια λουτρὰ εἰς
-            τὸ ἴδιον ἐπεκάλεσεν ὄνομα.<note type="textual">Ed. Thurn 2000</note>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
-      <ab type="translation" xml:lang="en" xml:id="quote242-2" source="#bib242-2">
+            τὸ ἴδιον ἐπεκάλεσεν ὄνομα.<ab type="source" source="#bib242-1"/><idno type="CTS-URN"/><ref target=""/><note type="textual">Ed. Thurn 2000</note></ab>
+      <ab type="translation" xml:lang="en" xml:id="quote242-2">
         <anchor xml:id="testimonia-242.en.1" corresp="#testimonia-242.grc.1"/>He (sc. Antoninus Pius) also built baths at <placeName>Caesarea of
                Palestine</placeName> and at Nicomedia of Bithynia and at Ephesus in Asia. These
-            public baths he named after himself.<note type="translation">Adapted from Jeffreys et
-               al. 2017</note>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
+            public baths he named after himself.<ab type="source" source="#bib242-2"/><idno type="CTS-URN"/><ref target=""/><note type="translation">Adapted from Jeffreys et
+               al. 2017</note></ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib242-1">

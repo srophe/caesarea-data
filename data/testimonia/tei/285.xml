@@ -271,29 +271,23 @@
             of 135 men, many leaders in the early Church. In his life of Matthew the evangelist, he
             discusses the Hebrew version of the gospel, which was available in the ecclesiastical
             library at Caesarea.</desc>
-      <ab type="edition" xml:lang="la" xml:id="quote285-1" source="#bib285-1">
+      <ab type="edition" xml:lang="la" xml:id="quote285-1">
         <anchor xml:id="testimonia-285.la.1" corresp="#testimonia-285.en.1"/>Mattheus qui et Levi, ex publicano apostolus, primus in Iudea propter
             eos qui ex circumcisione crediderunt evangelium Christi hebreis litteris verbisque
             conposuit; quod quis postea in graecum transtulerit, non satis certum est. Porro ipsum
             hebraicum habetur usque hodie in <placeName>Caesariensi</placeName> bibliotheca, quam
             Pamphilus martyr studiosissime confecit. Mihi quoque a Nazareis qui in Veria, urbe
-            Syriae, hoc volumine utuntur, describendi facultas fuit.<note type="textual">Ed.
-               Bernoulli 1895</note>
-        <idno type="CTS-URN"/>
-        <ref target="https://archive.org/details/devirisinlustri00jerogoog/page/n67/mode/2up"/>
-      </ab>
-      <ab type="translation" xml:lang="en" xml:id="quote285-2" source="#bib285-2">
+            Syriae, hoc volumine utuntur, describendi facultas fuit.<ab type="source" source="#bib285-1"/><idno type="CTS-URN"/><ref target="https://archive.org/details/devirisinlustri00jerogoog/page/n67/mode/2up"/><note type="textual">Ed.
+               Bernoulli 1895</note></ab>
+      <ab type="translation" xml:lang="en" xml:id="quote285-2">
         <anchor xml:id="testimonia-285.en.1" corresp="#testimonia-285.la.1"/>Matthew, also known as Levi, a tax-farmer who became an apostle,
             wrote the gospel of Christ at first published in Judaea in Hebrew for the sake of
             circumcised believers; someone later translated it into Greek, but the authorship is
             uncertain. Moreover, the Hebrew itself has been preserved until the present day in the
             Library at <placeName>Caesarea</placeName> which Pamphilus the Martyr so diligently
             assembled. I have also been able to have the book described to me by the Nazarenes in
-            Beroea, a city in Syria, who use it.<note type="translation">Adapted from Schaff 1892
-               and Halton 1999</note>
-        <idno type="CTS-URN"/>
-        <ref/>
-      </ab>
+            Beroea, a city in Syria, who use it.<ab type="source" source="#bib285-2"/><idno type="CTS-URN"/><ref/><note type="translation">Adapted from Schaff 1892
+               and Halton 1999</note></ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib285-1">

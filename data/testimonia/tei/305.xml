@@ -275,7 +275,7 @@
             latitude (degrees of arc from the equator). In the book on Asia, Ptolemy defined the
             limits of Palestine-Judaea and plotted the settlements along the coast, including
             “Caesarea Stratonis.”</desc>
-         <ab type="edition" xml:lang="grc" xml:id="quote305-1" source="#bib305-1">
+         <ab type="edition" xml:lang="grc" xml:id="quote305-1">
         <anchor xml:id="testimonia-305.grc.1" corresp="#testimonia-305.en.1"/>(1) Ἡ Παλαιστίνη, ἥτις καὶ Ἰουδαία καλεῖται, περιορίζεται ἀπὸ μὲν ἄρκτων
             καὶ ἀνατολῶν Συρίᾳ κατὰ τὴν ἐκτεθειμένην γραμμήν, ἀπὸ δὲ [ἀνατολῶν καὶ] μεσημβρίας
             Ἀραβίᾳ Πετραίᾳ κατὰ γραμμὴν τὴν ἀπὸ τοῦ πρὸς τῇ Συρίᾳ ἑωθινοῦ ὁρίου μέχρι τοῦ πρὸς τῇ
@@ -284,12 +284,9 @@
             ὁρίου τῆς Συρίας κατὰ περιγραφὴν τοιαύτην· (2) Μετὰ τὰς τοῦ Χορσέου ποταμοῦ ἐκβολάς·
                <placeName>Καισάρεια Στράτωνος</placeName> ξϛ° δʹ λβ° ͵ʹ Ἀπολλωνία ξϛ° λβ° δʹ Ἰόππη
             ξε° γοʹ λβ° ιβʹ Ἰαμνιτῶν λιμήν ξε° λβ° Ἄζωτος ξε° δʹ λα° ͵γʹ Ἀσκαλών ξε° λα° γοʹ Γαζαίων
-            λιμήν ξδ° ͵γιβʹ λα° ͵ʹ Ἀνθηδών ξδ° ͵γʹ λα° γοʹ <note type="textual">Ed. Stückelberger
-               and Graßhoff 2006</note>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
-         <ab type="translation" xml:lang="en" xml:id="quote305-2" source="#bib305-2">
+            λιμήν ξδ° ͵γιβʹ λα° ͵ʹ Ἀνθηδών ξδ° ͵γʹ λα° γοʹ<ab type="source" source="#bib305-1"/><idno type="CTS-URN"/><ref target=""/><note type="textual">Ed. Stückelberger
+               and Graßhoff 2006</note></ab>
+         <ab type="translation" xml:lang="en" xml:id="quote305-2">
         <anchor xml:id="testimonia-305.en.1" corresp="#testimonia-305.grc.1"/>1) Palestine, which is also called Judaea, is bordered on the north
             and the east by Syria along the line mentioned above. On the east and south it is
             bordered by Arabia Petraea along a line drawn from the southeastern border of Syria to
@@ -298,11 +295,8 @@
             adjacent sea to the border of Syria according to the following description: 2) After the
             mouth of the river Chorseas: Caesarea Stratonis 66° 15ʹ 32° 30ʹ Apollonia 66° 32° 15ʹ
             Ioppe 65° 40ʹ 32° 05ʹ Iamnia (port) 65° 32° Azotus 65° 15ʹ 31° 50ʹ Ascalon 65° 31° 40ʹ
-            Gaza (port) 64° 55ʹ 31° 30ʹ Anthedon 64° 50ʹ 31° 40ʹ <note type="translation">Trans. J.
-               L. Rife with ref. to Stevenson 1932 and Stückelberger and Graßhoff 2006</note>
-        <idno type="CTS-URN"/>
-        <ref/>
-      </ab>
+            Gaza (port) 64° 55ʹ 31° 30ʹ Anthedon 64° 50ʹ 31° 40ʹ<ab type="source" source="#bib305-2"/><idno type="CTS-URN"/><ref/><note type="translation">Trans. J.
+               L. Rife with ref. to Stevenson 1932 and Stückelberger and Graßhoff 2006</note></ab>
          <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib305-1">

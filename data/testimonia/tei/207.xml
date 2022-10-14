@@ -280,15 +280,12 @@
             The same quotation appears at Stephanus of Byzantium, Book of Nations Δ 150, written six
             to seven centuries after Artemidorus’ work and two to three centuries after Marcianus’s
             work.</desc>
-         <ab type="edition" xml:lang="grc" xml:id="quote207-1" source="#bib207-1">
+         <ab type="edition" xml:lang="grc" xml:id="quote207-1">
         <anchor xml:id="testimonia-207.grc.1" corresp="#testimonia-207.en.1"/>ΑΣΙΑ. Βιβλ. θʹ. Δῶρος, πόλις Φοινίκης. Ἑκαταῖος Ἀσίᾳ· “Μετὰ δὲ ἡ πάλαι
             Δῶρος, νῦν δὲ Δῶρα καλεῖται.” Καὶ Ἀρτεμίδωρος Δῶρα τὴν πόλιν οἶδεν ἐν Ἐπιτομῇ τῶν ιαʹ·
             “Συνεχῶς δʼ ἐστὶ <placeName>Στράτωνος πύργος</placeName>, εἶτα ἔνι Δῶρα, ἐπὶ
             χερσονησοειδοῦς τόπου κείμενον πολισμάτιον, ἀρχομένου τοῦ ὄρους τοῦ Καρμήλου.” Καὶ ἐν θʹ
-            Γεωγραφουμένων τὸ αὐτό.<note type="textual">Ed. Müller 1855</note>
-        <idno type="CTS-URN"/>
-        <ref/>
-      </ab>
+            Γεωγραφουμένων τὸ αὐτό.<ab type="source" source="#bib207-1"/><idno type="CTS-URN"/><ref/><note type="textual">Ed. Müller 1855</note></ab>
          <ab type="translation" xml:lang="en" xml:id="quote207-2">
         <anchor xml:id="testimonia-207.en.1" corresp="#testimonia-207.grc.1"/>ASIA. Book 9. Doros, a city in Phoenicia. Hecataeus in [his book on]
             Asia: “After that is the city called Doros in the old times but today Dora.” And

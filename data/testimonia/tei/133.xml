@@ -282,21 +282,17 @@
             death of Justinian, with a distinct focus on events in the eastern Mediterranean. In his
             long passage on the activities of Augustus in the East, John cites the renaming of
             Straton’s Tower as Caesarea.</desc>
-         <ab type="edition" xml:lang="grc" xml:id="quote133-1" source="#bib133-1">
+         <ab type="edition" xml:lang="grc" xml:id="quote133-1">
         <anchor xml:id="testimonia-133.grc.1" corresp="#testimonia-133.en.1"/>ὁ μὲν Ἡρώδης βασιλεὺς τῆς Ἰουδαίας πρὸς τιμὴν αὐτοῦ ἐποίησε καὶ τὴν
             ὁδοστρωσίαν τὴν ἔξω τῆς πόλεως Ἀντιοχείας τῆς μεγάλης, ἦν γὰρ δύσβατος, στρώσας αὐτὴν
             λευκαῖς πλάκαις. ἐκάλεσαν δὲ ἐμφότεροι τοπάρχαι τὰς μητροπόλεις αὐτῶν πρὸς τὴν αὐτοῦ εἰς
             ὄνομα τοῦ Καίσαρος· ὁ μὲν Ἡρώδης βασιλεὺς καὶ τοπάρχης ἐκάλεσε <placeName>Καισάρειαν
                Παλαιστίνης,</placeName> τὴν πρῴην λεγομένην <placeName>Στράτωνος Πύργον</placeName>,
             ὁ δὲ Ἀρχέλαος βασιλεὺς καὶ τοπάρχης ἐκάλεσε Καισάρειαν Καππαδοκίας τὴν πρῴην λεγομένην
-               Μάζακαν.<note type="textual">Ed. Thurn 2000</note>
-        <note type="textual">Von
+               Μάζακαν.<ab type="source" source="#bib133-1"/><idno type="CTS-URN"/><ref target=""/><note type="textual">Ed. Thurn 2000</note><note type="textual">Von
                Stauffenberg (1931) added ἰδίοις ἀναλώμασιν (“at his own expense”) after λευκαῖς
                πλάκαις. J. L. Rife has omitted it here as an unnecessary interpolation from the
-               Slavonic translation (10th/11th century) and John of Nikiu 66.2. </note>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
+               Slavonic translation (10th/11th century) and John of Nikiu 66.2. </note></ab>
          <ab type="translation" xml:lang="en" xml:id="quote133-2">
         <anchor xml:id="testimonia-133.en.1" corresp="#testimonia-133.grc.1"/>Ηerod the king of Judaea made the paved highway outside the city of
             Antioch the Great in his (sc. Augustus’) honor, for it used to be a rough passage,

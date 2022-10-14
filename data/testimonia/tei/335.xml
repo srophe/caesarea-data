@@ -283,26 +283,19 @@
             Clement V (in 1307) and John XXII (in 1321). This passage from his account of the Holy
             Land discusses the glories of the Kings of Jerusalem and surveys the region’s historical
             topography, including its coastal sites.</desc>
-      <ab type="edition" xml:lang="la" xml:id="quote335-1" source="#bib335-1">
+      <ab type="edition" xml:lang="la" xml:id="quote335-1">
         <anchor xml:id="testimonia-335.la.1" corresp="#testimonia-335.en.1"/>Post praedictas autem quinque civitates Palestinorum sequuntur aliae
             civitates et munitiones: Iopen scilicet, Arsur, <placeName>Caesarea
                Palestinae</placeName>, Cayphas, Ptolomayda, Tyrus, de quibus omnibus, supra IV. et
             V. capit. dictum est. Postea Sarepta quam frequentabat Elyas: ibi iuxta portam civitatis
-            modicam capellam aedificaverunt Christiani, ubi filium viduae suscitavit.<note type="textual">Ed. Bongars 1611</note>
-        <note type="corrigenda">Minor corr. J. L. Rife</note>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
-      <ab type="translation" xml:lang="en" xml:id="quote335-2" source="#bib335-2">
+            modicam capellam aedificaverunt Christiani, ubi filium viduae suscitavit.<ab type="source" source="#bib335-1"/><idno type="CTS-URN"/><ref target=""/><note type="textual">Ed. Bongars 1611</note><note type="corrigenda">Minor corr. J. L. Rife</note></ab>
+      <ab type="translation" xml:lang="en" xml:id="quote335-2">
         <anchor xml:id="testimonia-335.en.1" corresp="#testimonia-335.la.1"/>After the aforementioned five cities of the Palestinians other
             cities and fortifications follow: namely, Iope, Arsur, <placeName>Caesarea
                Palestinae</placeName>, Cayphas, Ptolomayda, Tyre (all these are discussed above,
             Chapters 4 and 5). After these is Sarepta where Elias lived. There next to the city gate
             the Christians have built a small chapel on the spot where he revived the son of the
-               widow.<note type="translation">Adapted from Lock 2011</note>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
+               widow.<ab type="source" source="#bib335-2"/><idno type="CTS-URN"/><ref target=""/><note type="translation">Adapted from Lock 2011</note></ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib335-1">

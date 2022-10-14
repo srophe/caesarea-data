@@ -276,7 +276,7 @@
             biblical text. Here the author repeats the chronicle of George the Monk, written roughly
             one century earlier; and this account is repeated by Constantine II
             Porphyrogenitus.</desc>
-         <ab type="edition" xml:lang="grc" xml:id="quote315-1" source="#bib315-1">
+         <ab type="edition" xml:lang="grc" xml:id="quote315-1">
         <anchor xml:id="testimonia-315.grc.1" corresp="#testimonia-315.en.1"/>πολλῆς οὖν φήμης περὶ αὐτοῦ τρεχούσης, καὶ πολλῶν μακρόθεν πρὸς αὐτὸν
             συρρεόντων, οὐ μόνον Ἕλληνας καὶ φιλοσόφους καὶ αἱρετικοὺς ἐλλογίμους πρὸς τὴν εὐσέβειαν
             εἵλκυσεν, ἀλλὰ καὶ τοὺς ὄντας Χριστιανοὺς μᾶλλον στοιχειώσας ἐπεβεβαίωσεν. ὃν ὁ
@@ -297,9 +297,7 @@
             δεκάτης ὥρας: πάντες γὰρ οἱ θέλοντες φιλοπονεῖν τοὺς καιροὺς ἐκείνους τῇ ἐξετάσει τῶν
             θείων λογίων καὶ ταῖς ἀναγνώσεσιν ἀνατιθέασι. πᾶσαν τοίνυν ἡρμήνευσε τὴν θείαν γραφήν.
             κατὰ γὰρ τοὺς χρόνους τούτους ἐν Ἱεριχῷ ἔν τινι πίθῳ περιτυχὼν τὴν Παλαιὰν εὐφυῶς μάλα
-            καὶ ἐπιστημόνως ταύτην κατεσκεύασεν.<note type="textual">Ed. Adler 1933</note>
-        <idno type="CTS-URN">https://archive.org/details/adler-a.-suidae-lexicon-3-./Adler%20A.%2C%20Suidae%20Lexicon%203%20%28%CE%9A-%CE%9F.%20%CE%A9%29/page/n317/mode/2up</idno>
-      </ab>
+            καὶ ἐπιστημόνως ταύτην κατεσκεύασεν.<ab type="source" source="#bib315-1"/><idno type="CTS-URN">https://archive.org/details/adler-a.-suidae-lexicon-3-./Adler%20A.%2C%20Suidae%20Lexicon%203%20%28%CE%9A-%CE%9F.%20%CE%A9%29/page/n317/mode/2up</idno><note type="textual">Ed. Adler 1933</note></ab>
          <ab type="translation" xml:lang="en" xml:id="quote315-2">
         <anchor xml:id="testimonia-315.en.1" corresp="#testimonia-315.grc.1"/>With many reports flying about him and many flowing to him from
             afar, not only did (Origen) draw to proper worship famous Greeks, both philosophers and

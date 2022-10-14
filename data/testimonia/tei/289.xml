@@ -272,7 +272,7 @@
             Origen’s scholarship and teaching, including his critical edition of the Hebrew Bible
             (the Hexapla with its supplements), produced at the ecclesiastical library in
             Caesarea.</desc>
-      <ab type="edition" xml:lang="la" xml:id="quote289-1" source="#bib289-1">
+      <ab type="edition" xml:lang="la" xml:id="quote289-1">
         <anchor xml:id="testimonia-289.la.1" corresp="#testimonia-289.en.1"/>Quis autem ignorat, quod tantum habuerit in scripturis sanctis studii,
             ut etiam Hebream linguam contra aetatis gentisque suae naturam edisceret et exceptis
             Septuaginta interpraetibus alias quoque editiones in unum congregaret? Aquilae scilicet
@@ -286,13 +286,9 @@
             grammaticam et rhetoricam omniumque philosophorum sectas ita didicit, ut studiosos
             quoque saecularium litterarum sectatores haberet et interpraetaretur eis cottidie,
             concursusque ad eum miri fierent. Quos ille propterea recipiebat, ut sub occasione
-            saecularis litteraturae in fide eos Christi institueret.<note type="textual">Ed.
-               Bernoulli 1895</note>
-        <note type="corrigenda">Minor corr. J. L. Rife</note>
-        <idno type="CTS-URN"/>
-        <ref target="https://archive.org/details/devirisinlustri00jerogoog/page/n91/mode/2up"/>
-      </ab>
-      <ab type="translation" xml:lang="en" xml:id="quote289-2" source="#bib289-2">
+            saecularis litteraturae in fide eos Christi institueret.<ab type="source" source="#bib289-1"/><idno type="CTS-URN"/><ref target="https://archive.org/details/devirisinlustri00jerogoog/page/n91/mode/2up"/><note type="textual">Ed.
+               Bernoulli 1895</note><note type="corrigenda">Minor corr. J. L. Rife</note></ab>
+      <ab type="translation" xml:lang="en" xml:id="quote289-2">
         <anchor xml:id="testimonia-289.en.1" corresp="#testimonia-289.la.1"/>Who does not also know that he was so assiduous in the study of the
             Holy Scriptures that, contrary to the spirit of his era and his people, he learned the
             Hebrew language, and, after he had collected the Septuagint translations, he gathered
@@ -308,10 +304,7 @@
             rhetoric, and all schools of philosophy so well that he had also had diligent students
             of secular literature, he gave instruction daily, and incredible crowds flocked to him.
             These he received with the goal that, under the pretext of an opportunity (to learn)
-            about secular literature, he might establish them in the faith of Christ.<note type="translation">Adapted from Schaff 1892 and Halton 1999</note>
-        <idno type="CTS-URN"/>
-        <ref/>
-      </ab>
+            about secular literature, he might establish them in the faith of Christ.<ab type="source" source="#bib289-2"/><idno type="CTS-URN"/><ref/><note type="translation">Adapted from Schaff 1892 and Halton 1999</note></ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib289-1">

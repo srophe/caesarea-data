@@ -281,7 +281,7 @@
             as well as maps, and presented different versions of it to popes Clement V (in 1307) and
             John XXII (in 1321). This passage describes the soldiers provided in service to the King
             by each barony, county, see, or other unit.</desc>
-      <ab type="edition" xml:lang="la" xml:id="quote240-1" source="#bib240-1">
+      <ab type="edition" xml:lang="la" xml:id="quote240-1">
         <anchor xml:id="testimonia-240.la.1" corresp="#testimonia-240.en.1"/>Quartus principatus est Ierosolymitanus, de quo supra dictum est.
             Servibant autem regi: Ierusalem, de militibus XLI et armigeris vC; Baroniae de Iopen,
             Ascalona, Rama, Maribel, et Ibelyn, de militibus centum; Baronia principatus Galileae,
@@ -303,13 +303,9 @@
             regi ad talia se submitterent, ut requirenti regi in necessitatis articulo, in pluri
             possent succurrere. Ducebant praeterea barones gratis, ultra ea quae taxata praemisimus,
             quando cum rege procedebant ad bella, decentem, iuxta possibilitatem ac statum suum,
-            armatorum militum comitivam.<note type="textual">Ed. Bongars 1611</note>
-        <note type="corrigenda">Minor corr. J. L.
-               Rife</note>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
-      <ab type="translation" xml:lang="en" xml:id="quote240-2" source="#bib240-2">
+            armatorum militum comitivam.<ab type="source" source="#bib240-1"/><idno type="CTS-URN"/><ref target=""/><note type="textual">Ed. Bongars 1611</note><note type="corrigenda">Minor corr. J. L.
+               Rife</note></ab>
+      <ab type="translation" xml:lang="en" xml:id="quote240-2">
         <anchor xml:id="testimonia-240.en.1" corresp="#testimonia-240.la.1"/>The fourth principality is Jerusalem, which is discussed above. They
             serve the King as follows: Jerusalem, 41 knights and 500 squires; the barony of Jaffa,
             Ascalon, Rama, Mirabel, and Ibelin, 100 knights; the barony of the principality of
@@ -331,10 +327,7 @@
             that they could help the King at a time of crisis when he asked, or in many [things]. In
             particular, beyond what we have listed before, the barons freely led a decent body of
             armed soldiers according to their ability and status whenever they went to war with the
-            King.<note type="translation">Adapted from Lock 2011</note>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
+            King.<ab type="source" source="#bib240-2"/><idno type="CTS-URN"/><ref target=""/><note type="translation">Adapted from Lock 2011</note></ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib240-1">

@@ -273,15 +273,12 @@
             vivid details of geography, religion, history, and local legend, focused on Jerusalem
             but extends outward into Mesopotamia, Syria, and Asia Minor. His itinerary advances west
             from Jerusalem to the coast, north to Caesarea, and northeast into the Galilee.</desc>
-         <ab type="edition" xml:lang="la" xml:id="quote390-1" source="#bib390-1">
+         <ab type="edition" xml:lang="la" xml:id="quote390-1">
         <anchor xml:id="testimonia-390.la.1" corresp="#testimonia-390.en.1"/>De Diospoli in Ioppen milia XII, ubi sanctus Petrus resuscitavit sanctam
             Tabitham; ubi et cetus iactavit se victo Ionam. De Ioppe ad <placeName>Caesaream
                Palaestinae</placeName> milia XXX; ibi baptizatus est domnus Cornelius a domno Petro
             et martyrizatus est. De <placeName>Caesarea</placeName> usque in Diocaesarea milia XXX;
-            inde fuit Symon magus. De Diocaesarea usque in Canan Galilaea milia V.<note type="textual">Ed. Geyer 1965</note>
-        <idno type="CTS-URN"/>
-        <ref/>
-      </ab>
+            inde fuit Symon magus. De Diocaesarea usque in Canan Galilaea milia V.<ab type="source" source="#bib390-1"/><idno type="CTS-URN"/><ref/><note type="textual">Ed. Geyer 1965</note></ab>
          <ab type="translation" xml:lang="en" xml:id="quote390-2">
         <anchor xml:id="testimonia-390.en.1" corresp="#testimonia-390.la.1"/>It is 12 miles from Diospolis to Joppa, where St. Peter brought St.
             Tabitha back to life; that is also where the defeated whale threw out Jonah. It is 30

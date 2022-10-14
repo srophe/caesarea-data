@@ -289,7 +289,7 @@
             the work’s end, the author narrates how those bishops aligned with Theophilus, patriarch
             of Alexandria, against the Johannine faction persecuted his followers, among whom
             Eulogius, bishop of Caesarea, is named as especially cruel.</desc>
-         <ab type="edition" xml:lang="grc" xml:id="quote328-1" source="#bib328-1">
+         <ab type="edition" xml:lang="grc" xml:id="quote328-1">
         <anchor xml:id="testimonia-328.grc.1" corresp="#testimonia-328.en.1"/>Εἰς τοσοῦτον δὲ ὠμότητος οἱ κατὰ τόπον ἤκμασαν ἐπίσκοποι τῶν κοινωνικῶν
             Θεοφίλου κατὰ τὴν ἀνατολὴν πᾶσαν, ὡς ἔλεγεν ὁ ἐλθὼν ἀσκητής, ὥς τινας αὐτῶν οὐχὶ μόνον
             μὴ ἐνδείξασθαι τὴν ὀφειλομένην σωφροσύνην ἀλλὰ καὶ μετὰ δώρων πείθειν τοὺς ἐπαρχικοὺς
@@ -297,12 +297,9 @@
             Ἀντιοχείας καὶ Εὐλόγιος ὁ <placeName>Καισαρείας τῆς Παλαιστίνης</placeName>, ὅ τε
             Ἀγκύρας πρὸ πάντων καὶ Ἀμμώνιος ὁ τοῦ Πηλουσίου, τοῦτο μὲν δόμασι, τοῦτο δὲ ἀπειλαῖς
             πλέον κατ’ αὐτῶν τοὺς διάγοντας στρατιώτας ἐξαγριοῦντες, ἵνα μήτε τοὺς τῶν βουλομένων
-            λαϊκῶν ἐπιδέχεσθαι αὐτοὺς συγχωρῶσιν …<note type="textual">Ed. Malingrey and Leclerq
-               1988</note>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
-         <ab type="translation" xml:lang="en" xml:id="quote328-2" source="#bib328-2">
+            λαϊκῶν ἐπιδέχεσθαι αὐτοὺς συγχωρῶσιν …<ab type="source" source="#bib328-1"/><idno type="CTS-URN"/><ref target=""/><note type="textual">Ed. Malingrey and Leclerq
+               1988</note></ab>
+         <ab type="translation" xml:lang="en" xml:id="quote328-2">
         <anchor xml:id="testimonia-328.en.1" corresp="#testimonia-328.grc.1"/>The local bishops in communion with Theophilus throughout the East
             reached such a level of savage cruelty that, according to a monk who came (from there),
             some of them not only failed to show the necessary moderation, but they even bribed the
@@ -311,11 +308,8 @@
             Caesarea in Palestine, and above all the Bishop of Ancyra and Ammonius, Bishop of
             Pelusium. They made the soldiers in charge (of the prisoners) more savage towards them,
             sometimes using payments, sometimes threats, so that they did not even allow those of
-            the laity who wished to do so to receive (the prisoners) in their homes …<note type="translation">Trans. J. L Rife with ref. to Moore 1921 and Malingrey and Leclerq
-               1988 </note>
-        <idno type="CTS-URN"/>
-        <ref/>
-      </ab>
+            the laity who wished to do so to receive (the prisoners) in their homes …<ab type="source" source="#bib328-2"/><idno type="CTS-URN"/><ref/><note type="translation">Trans. J. L Rife with ref. to Moore 1921 and Malingrey and Leclerq
+               1988 </note></ab>
          <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib328-1">

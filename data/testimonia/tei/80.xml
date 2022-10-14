@@ -280,7 +280,7 @@
             narrates the victory of the Arabs over the Byzantines at Caesarea and the famous
             celestial harbinger of the Arab conquest, an episode that several Syriac sources also
             recount.</desc>
-         <ab type="edition" xml:lang="grc" xml:id="quote80-1" source="#bib80-1">
+         <ab type="edition" xml:lang="grc" xml:id="quote80-1">
         <anchor xml:id="testimonia-80.grc.1" corresp="#testimonia-80.en.1"/>Κόσμου ἔτη ͵ϛρκδʹ<lb/>Τῆς θείας σαρκώσεως ἔτη χκδʹ<lb/>Ῥωμαίων βασιλεὺς
             Ἡράκλειος ἔτη λαʹ<lb/>κγʹ. Ἀράβων ἀρχηγὸς Ἀβουβάχαρος ἔτη γʹ<lb/>βʹ. Κωνσταντ(ινουπόλεως)
             ἐπίσκοπος Σέργιος ἔτη κθʹ<lb/>κδʹ. Ἱεροσολύμων ἐπίσκοπος Μόδεστος ἔτη βʹ. βʹ<lb/>Ἀλεξανδρείας ἐπίσκοπος Γεώργιος ἔτη ιδʹ. ιδʹ<lb/>Τούτῳ τῷ ἔτει ἔπεμψεν Ἀβουβάχαρος
@@ -291,12 +291,9 @@
             λαβόντες καὶ λάφυρα πολλὰ ὑπέστρεψαν μετὰ λαμπρᾶς νίκης. Αὐτῷ δὲ τῷ χρόνῳ σεισμὸς
             ἐγένετο κατὰ τὴν Παλαιστίνην· καὶ ἐφάνη σημεῖον ἐν τῷ οὐρανῷ κατὰ μεσημβρίαν, ὁ
             λεγόμενος δοκίτης, προμηνύων τὴν τῶν Ἀράβων ἐπικράτησιν· ἔμεινε δὲ ἡμέρας λʹ διατείνων
-            ἀπὸ μεσημβρίας ἕως ἄρκτου. ἦν δὲ ξιφοειδής. <note type="textual">Ed. de Boor
-               1883</note>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
-         <ab type="translation" xml:lang="en" xml:id="quote80-2" source="#bib80-2">
+            ἀπὸ μεσημβρίας ἕως ἄρκτου. ἦν δὲ ξιφοειδής.<ab type="source" source="#bib80-1"/><idno type="CTS-URN"/><ref target=""/><note type="textual">Ed. de Boor
+               1883</note></ab>
+         <ab type="translation" xml:lang="en" xml:id="quote80-2">
         <anchor xml:id="testimonia-80.en.1" corresp="#testimonia-80.grc.1"/>Year of the World 6124 [=631/2 C.E.]<lb/>Year of the Divine
             Incarnation 624<lb/>Heraclius, Emperor of the Romans, 23rd year<lb/>Aboubacharos, Leader of
             the Arabs, 2nd year<lb/>Sergius, Bishop of Constantinople, 24th year<lb/>Modestus, Bishop of
@@ -309,13 +306,9 @@
             victory.<lb/>At the same time an earthquake occurred in Palestine, and there appeared a
             sign in the heavens to the south, the so-called shooting star, foreboding the Arab
             conquest. It remained for thirty days, moving from south to north, and was shaped like a
-            sword. <note type="translation">Adapted from Mango, Scott, and Greatrex 1997</note>
-        <note type="discussion">The unusual word δοκίτης refers to a shooting star or meteor
+            sword.<ab type="source" source="#bib80-2"/><idno type="CTS-URN"/><ref target=""/><note type="translation">Adapted from Mango, Scott, and Greatrex 1997</note><note type="discussion">The unusual word δοκίτης refers to a shooting star or meteor
                already in Late Antiquity (John Lydus, Signs 10b) and continuing in common usage into
-               Late Byzantine and katharevousa.</note>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
+               Late Byzantine and katharevousa.</note></ab>
          <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib80-1">

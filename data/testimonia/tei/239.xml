@@ -281,7 +281,7 @@
             as well as maps, and presented different versions of it to popes Clement V (in 1307) and
             John XXII (in 1321). This passage describes the organization of rule over the Kingdom of
             Jerusalem.</desc>
-      <ab type="edition" xml:lang="la" xml:id="quote239-1" source="#bib239-1">
+      <ab type="edition" xml:lang="la" xml:id="quote239-1">
         <anchor xml:id="testimonia-239.la.1" corresp="#testimonia-239.en.1"/>Ierosolymitarum regum explicata gloria de regni baronibus persequamur.
             Pro ipsius enim regni tutela, inter principes et barones, ut assolet, est divisum, qui
             terram sub rege custodirent ac defenderent, retenta regi parte digniori ac meliori:
@@ -291,12 +291,8 @@
             sacramento, cum certo militum numero, regio servitio obligati fuerunt: comes videlicet
             Tripolitanus; dominus Beriti; dominus Sydonis; dominus Cayphae; dominus <placeName>Caesareae</placeName>; princeps Galileae, qui et dominus Tyberiadis; comes
             Iopen et Ascalonae; dominus Montis Regalis et totius terrae trans Iordanem; dominus
-            Arsur; et dominus Ibelyn, cum quibusdam aliis; sed hii aliis praeminebant.<note type="textual">Ed. Bongars 1611</note>
-        <note type="corrigenda">Minor corr. J. L. Rife</note>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
-      <ab type="translation" xml:lang="en" xml:id="quote239-2" source="#bib239-2">
+            Arsur; et dominus Ibelyn, cum quibusdam aliis; sed hii aliis praeminebant.<ab type="source" source="#bib239-1"/><idno type="CTS-URN"/><ref target=""/><note type="textual">Ed. Bongars 1611</note><note type="corrigenda">Minor corr. J. L. Rife</note></ab>
+      <ab type="translation" xml:lang="en" xml:id="quote239-2">
         <anchor xml:id="testimonia-239.en.1" corresp="#testimonia-239.la.1"/>Let us go over the clear glory of the Kings of Jerusalem from the
             point of view of the barons of the kingdom. For the safety of the kingdom, as was
             typical, it was divided between princes and barons who guarded and defended the land
@@ -309,10 +305,7 @@
             Lord of Caesarea, the Prince of Galilee, who was also the Lord of Tiberias, the Count of
             Iope and Ascalon, the Lord of Mount Royal and of all the land across the Jordan, the
             Lord of Arsur, and the Lord of Ibelyn with various others; but these were more important
-            than the others.<note type="translation">Adapted from Lock 2011</note>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
+            than the others.<ab type="source" source="#bib239-2"/><idno type="CTS-URN"/><ref target=""/><note type="translation">Adapted from Lock 2011</note></ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib239-1">

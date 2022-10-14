@@ -282,16 +282,13 @@
             it emulated in its encyclopedic format and technical scope. The work examined
             sound-clusters in the spelling of Byzantine Greek words. In this passage, the author
             cited the place name Kaisareia among other words containing the element kai.</desc>
-         <ab type="edition" xml:lang="grc" xml:id="quote45-1" source="#bib45-1">
+         <ab type="edition" xml:lang="grc" xml:id="quote45-1">
         <anchor xml:id="testimonia-45.grc.1" corresp="#testimonia-45.en.1"/>Πλὴν τοῦ καὶ, συνδεσμοῦ· καινὸν, τὸ νέον καὶ παράδοξον, ὅθεν καινοτομία,
             ἡ νέα πράξις ἢ ἡ παράδοξος· καινοτομῶ, τὸ νεοπραγῶ· Καίσαρ, Καίσαρος· Καισάρεια πόλις,
             καὶ Καισαρεὺς ὁ ἀπὸ <placeName>Καισαρείας</placeName>· καιρὸς ὁ χρόνος, ὅθεν καὶ
             καίριον, τὸ ἔγκαιριον· καιροφυλακῶ· καιροσκοπῶ· καιρία πληγὴ, ὁ θανάσιμος· καικίας,
             ἄνεμος· Καινεὺς, κύριον, καὶ κλίνεται Καινέως· καίω, ῥῆμα, τὸ φλογίζω· καὶ καίνω, τὸ
-            κόπτω, ὅθεν καὶ καινὶς, ἡ μάχαιρα.<note type="textual">Ed. Boissonade 1819</note>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
+            κόπτω, ὅθεν καὶ καινὶς, ἡ μάχαιρα.<ab type="source" source="#bib45-1"/><idno type="CTS-URN"/><ref target=""/><note type="textual">Ed. Boissonade 1819</note></ab>
          <ab type="translation" xml:lang="en" xml:id="quote45-2">
         <anchor xml:id="testimonia-45.en.1" corresp="#testimonia-45.grc.1"/>Besides kai, conjunction: kainon, the new and incredible, from which
             we also get kainotomia, a new practice or paradox; kainotomo, verb “to render new”;

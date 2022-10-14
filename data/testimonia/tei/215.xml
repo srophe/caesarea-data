@@ -278,7 +278,7 @@
             rhetorical brilliance and rivalry with the younger Libanius during the mid-4th century.
             We learn from Libanius’ writings (see below) that Acacius came from an academic family
             in Phoenicia, taught in Antioch, and finished his career in Palestine.</desc>
-      <ab type="edition" xml:lang="grc" xml:id="quote215-1" source="#bib215-1">
+      <ab type="edition" xml:lang="grc" xml:id="quote215-1">
         <anchor xml:id="testimonia-215.grc.1" corresp="#testimonia-215.en.1"/>(1) ἈΚΑΚΙΟΣ. <placeName>Παλαιστίνης Καισάρεια</placeName> τὸν Ἀκάκιον
             ἤνεγκεν, καὶ ἦν συνανασχὼν τῷ Λιβανίῳ κατὰ τοὺς αὐτοὺς χρόνους· τόνου δὲ σοφιστικοῦ καὶ
             πνεύματος, εἴπερ τις ἄλλος, γέμων, καὶ ἡ λέξις μετὰ κρότου πρὸς τὸν ἀρχαῖον ἐπέστρεφε
@@ -292,12 +292,9 @@
             καλοῖς καὶ ἐρασμίοις σώμασιν, οὐ πάντες τὸ αὐτὸ θαυμάζουσιν, ὁ δὲ ἁλοὺς οὐκ οἶδεν ὅθεν
             εἴληπται. ὁ μὲν οὖν Ἀκάκιος ἐς τὸ ἄριστον ἀναδραμών, καὶ πολλὴν ἑαυτῷ παρασχὼν δόξαν ὡς
             τοῦ Λιβανίου κρατήσων, ἀπῄει νέος ὢν ἔτι· οἱ δὲ ἄνθρωποι, ὅσον σπουδαῖον ἐν αὐτοῖς,
-            ἐθαύμαζον αὐτὸν ὥσπερ εἰς γῆρας ἀφιγμένον.<note type="textual">Ed. Giangrande
-               1956</note>
-        <idno type="CTS-URN"/>
-        <ref/>
-      </ab>
-      <ab type="translation" xml:lang="en" xml:id="quote215-2" source="#bib215-2">
+            ἐθαύμαζον αὐτὸν ὥσπερ εἰς γῆρας ἀφιγμένον.<ab type="source" source="#bib215-1"/><idno type="CTS-URN"/><ref/><note type="textual">Ed. Giangrande
+               1956</note></ab>
+      <ab type="translation" xml:lang="en" xml:id="quote215-2">
         <anchor xml:id="testimonia-215.en.1" corresp="#testimonia-215.grc.1"/>(1) ACACIUS. <placeName>Caesarea Palestinae</placeName> produced
             Acacius, and he emerged at the same time as Libanius. No one else was so full of
             sophistic force and inspiration, and his sonorous diction was inclined to classical
@@ -315,10 +312,7 @@
             gaze. So Acacius rose through the ranks to excellence, and he acquired a great
             reputation as the one who beat Libanius. He passed away when he was still young. And
             men, at least the studious ones, admired him as they would one who made it to old
-               age.<note type="translation">Adapted from Wright 1921</note>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
+               age.<ab type="source" source="#bib215-2"/><idno type="CTS-URN"/><ref target=""/><note type="translation">Adapted from Wright 1921</note></ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib215-1">

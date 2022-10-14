@@ -276,27 +276,20 @@
             from Syrian Antioch down the Phoenician coast to Acre, and from there to Galilee, the
             Jordan Valley, Judaea, and eventually the coastal route north past Caesarea to Mount
             Carmel. Here he has blatantly confused Caesarea Philippi with Caesarea Maritima.</desc>
-      <ab type="edition" xml:lang="grc" xml:id="quote298-1" source="#bib298-1">
+      <ab type="edition" xml:lang="grc" xml:id="quote298-1">
         <anchor xml:id="testimonia-298.grc.1" corresp="#testimonia-298.en.1"/>Μετὰ τήv χώραν ταύτην ἐστιν ἡ Πιλίππου <placeName>Καισάρεια</placeName>,
             πόλις μεγάλη καὶ πολυάνθρωπος, ἥτις περὶ τὸ χεῖλος τῆς θαλάσσης ἴδρυται, ἐν ᾗ καὶ λιμὴν
             ὑπάρχει πάνυ θαυμάσιος, τέχνῃ γεγονὼς ἀνθρωπίνῃ, δαψιλείᾳ χρημάτων ἡ τοῦ Ἡρώδου
             ἐπαρκέσασα χεὶρ τῇ τούτου κατασκεύῃ. ἐν ταύτῃ Χρίστος τοὺς ἀποστόλους ἠρώτα, “Τίνα με
             λέγουσιν οἱ ἄνθρωποι τὸν υἱὸν τοῦ ἀνθρώπου;” καὶ ὁ Πέτρος “σὺ εἶ ὁ Χριστὸς ὁ υἱὸς τοῦ
-            θεοῦ” πρὸς αὐτὸν ἀπεκρίντο, τὸ τῆς ἀγάπης ἐντεῦθεν διάπυρον ἐνδεικνύμενος.<note type="textual">Ed. Allatius 1875</note>
-        <note type="discussion">Bibliotheca
-               Vallicelliana Romae 158 (Chios, 15th century)</note>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
-      <ab type="translation" xml:lang="en" xml:id="quote298-2" source="#bib298-2">
+            θεοῦ” πρὸς αὐτὸν ἀπεκρίντο, τὸ τῆς ἀγάπης ἐντεῦθεν διάπυρον ἐνδεικνύμενος.<ab type="source" source="#bib298-1"/><idno type="CTS-URN"/><ref target=""/><note type="textual">Ed. Allatius 1875</note><note type="discussion">Bibliotheca
+               Vallicelliana Romae 158 (Chios, 15th century)</note></ab>
+      <ab type="translation" xml:lang="en" xml:id="quote298-2">
         <anchor xml:id="testimonia-298.en.1" corresp="#testimonia-298.grc.1"/>Beyond this region (sc. around Ramla) is <placeName>Caesarea</placeName> Philippi, a large and populous city, founded on the
             seashore. In it is a most wondrous harbor, a product of human skill, an enormous
             expenditure having been incurred by Herod for its construction. Here Christ asked the
             Apostles, “ Whom do people say that I, the Son of man, am?” And Peter answered him, “You
-            are the Christ, the Son of God,” demonstrating thereby the fervor of his love.<note type="translation">Adapted from Stewart 1896</note>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
+            are the Christ, the Son of God,” demonstrating thereby the fervor of his love.<ab type="source" source="#bib298-2"/><idno type="CTS-URN"/><ref target=""/><note type="translation">Adapted from Stewart 1896</note></ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib298-1">

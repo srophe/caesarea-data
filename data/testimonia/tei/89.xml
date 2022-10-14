@@ -281,17 +281,14 @@
             chart, that recorded sailing distances in stades (σταδιασμός) out from base locations
             and brief observations on coastlines, prevailing winds, and water sources. This passage
             records the distances out from Rhodes, including the voyage to Caesarea.</desc>
-         <ab type="edition" xml:lang="la" xml:id="quote89-1" source="#bib89-1">
+         <ab type="edition" xml:lang="la" xml:id="quote89-1">
         <anchor xml:id="testimonia-89.la.1" corresp="#testimonia-89.en.1"/>Ἐκ Ῥόδου εἰς Ἀλεξάνδρειαν στάδιοι ͵δφʹ· ἐκ Ῥόδου εἰς &lt;Ἀσ&gt;κάλωνα
             στάδιοι ͵γχʹ· ἐκ Ῥόδου εἰς <placeName>Καισάρειαν</placeName> στάδιοι ͵γχʹ· ἐκ Ῥόδου εἰς
             Βηρυτὸν στάδιοι ͵γχʹ· ἐκ Ῥόδου εἰς Σιδῶνα στάδιοι ͵γχʹ· ἐκ Ῥόδου εἰς Βύβλον στάδιοι
             ͵γχʹ· ἐκ Ῥόδου εἰς Τρίπολιν στάδιοι ͵γχʹ· ἐκ Ῥόδου εἰς Σελευκείαν στάδιοι ͵γχʹ· ἐκ Ῥόδου
             εἰς Κιλικίαν στάδιοι ͵αφʹ· ἐκ Ῥόδου εἰς Κώρυκον στάδιοι ͵α· ἐκ Ῥόδου εἰς Κώρυκον στάδιοι
             ͵α· ἐκ Ῥόδου δὲ ἐπὶ τὴν Κύπρον ἐπὶ τὴν ἑσπερίαν τὴν ἐπ’ ἀνατολὰς τοῦ κριοῦ οὐριώτα⟨τα⟩
-            ζεφύρῳ στάδιοι ͵βωʹ …<note type="textual">Ed. Helm 1955</note>
-        <idno type="CTS-URN"/>
-        <ref/>
-      </ab>
+            ζεφύρῳ στάδιοι ͵βωʹ …<ab type="source" source="#bib89-1"/><idno type="CTS-URN"/><ref/><note type="textual">Ed. Helm 1955</note></ab>
          <ab type="translation" xml:lang="en" xml:id="quote89-2">
         <anchor xml:id="testimonia-89.en.1" corresp="#testimonia-89.la.1"/>From Rhodes to Alexandria, 4,500 stades. From Rhodes to Ashkelon,
             3,600 stades. From Rhodes to <placeName>Caesarea</placeName>, 3,600 stades. From Rhodes

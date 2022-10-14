@@ -275,28 +275,22 @@
             travelled on a pilgrimage to the Holy Land under the Kingdom of Jerusalem. In his
             itinerary south from Mount Carmel he describes Caesarea as a city associated with the
             early Church and Herod’s building programs.</desc>
-      <ab type="edition" xml:lang="la" xml:id="quote236-1" source="#bib236-1">
+      <ab type="edition" xml:lang="la" xml:id="quote236-1">
         <anchor xml:id="testimonia-236.la.1" corresp="#testimonia-236.en.1"/>Sextodecimo miliario a monte Carmeli contra meridiem <placeName>Cesarea
                Palaestina</placeName> metropolis, ex qua Cornelius centurio, quem in ea baptizavit
             beatus Petrus et creavit episcopum. In qua et <placeName>Turris Strathonis</placeName>,
             in qua Herodes contra adventum Augusti Cesaris construxit de albo marmore portum. Ipse
             Herodes turrim, quae Ierosolimam supereminet, quae et Turris David dicitur, Iosepho
-            attestante fabricavit eamque Antoniam vocavit.<note type="textual">Ed. Huygens
-               1994</note>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
-      <ab type="translation" xml:lang="en" xml:id="quote236-2" source="#bib236-2">
+            attestante fabricavit eamque Antoniam vocavit.<ab type="source" source="#bib236-1"/><idno type="CTS-URN"/><ref target=""/><note type="textual">Ed. Huygens
+               1994</note></ab>
+      <ab type="translation" xml:lang="en" xml:id="quote236-2">
         <anchor xml:id="testimonia-236.en.1" corresp="#testimonia-236.la.1"/>Sixteen miles from Mount Carmel southward is <placeName>Caesarea
                Palaestina</placeName>, the metropolis, the city of Cornelius the centurion, whom the
             blessed Peter baptized there and made a bishop. Here also is <placeName>Strato’s
                Tower</placeName>, where Herod built a harbor out of white marble against the coming
             of Augustus Caesar. Herod himself built the tower that dominates Jerusalem, also called
             the Tower of David. Josephus tells us that he built this Tower and called it
-               Antonia.<note type="translation">Adapted from Stewart 1896</note>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
+               Antonia.<ab type="source" source="#bib236-2"/><idno type="CTS-URN"/><ref target=""/><note type="translation">Adapted from Stewart 1896</note></ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib236-1">

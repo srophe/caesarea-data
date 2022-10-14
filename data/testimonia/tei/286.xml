@@ -271,25 +271,19 @@
             of 135 men, many leaders in the early Church. In his life of St. Paul, he summarizes the
             events of his captivity under the governor Festus at Caesarea and delivery to
             Rome.</desc>
-      <ab type="edition" xml:lang="la" xml:id="quote286-1" source="#bib286-1">
+      <ab type="edition" xml:lang="la" xml:id="quote286-1">
         <anchor xml:id="testimonia-286.la.1" corresp="#testimonia-286.en.1"/>Et quia in Actis Apostolorum plenissime de eius conversatione scriptum
             est, hoc tantum dicam, quod post passionem Domini vicesimo quinto anno, id est, secundo
             Neronis eo tempore quo Festus, procurator Iudeae, successit Felici, Romam vinctus
             mittitur et biennium in libera manens custodia adversum Iudeos de adventu Christi
-            cottidie disputavit.<note type="textual">Ed. Bernoulli 1895</note>
-        <idno type="CTS-URN"/>
-        <ref target="https://archive.org/details/devirisinlustri00jerogoog/page/n67/mode/2up"/>
-      </ab>
-      <ab type="translation" xml:lang="en" xml:id="quote286-2" source="#bib286-2">
+            cottidie disputavit.<ab type="source" source="#bib286-1"/><idno type="CTS-URN"/><ref target="https://archive.org/details/devirisinlustri00jerogoog/page/n67/mode/2up"/><note type="textual">Ed. Bernoulli 1895</note></ab>
+      <ab type="translation" xml:lang="en" xml:id="quote286-2">
         <anchor xml:id="testimonia-286.en.1" corresp="#testimonia-286.la.1"/>And because there is a full account of his conduct in the Acts of
             the Apostles, I will only say this: in the twenty-fifth year after our Lord’s Passion,
             that is, in the second of Nero [56 C.E.], at the time when when Festus succeeded Felix
             as governor of Judaea, (Paul) was sent to Rome in chains. Remaining there for two years
             in open custody, he carried on daily debates against the Jews concerning the coming of
-               Christ.<note type="translation">Adapted from Schaff 1892 and Halton 1999</note>
-        <idno type="CTS-URN"/>
-        <ref/>
-      </ab>
+               Christ.<ab type="source" source="#bib286-2"/><idno type="CTS-URN"/><ref/><note type="translation">Adapted from Schaff 1892 and Halton 1999</note></ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib286-1">

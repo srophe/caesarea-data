@@ -276,19 +276,15 @@
             compendium for the years 327-378 C.E. This passage from Jerome’s translation of Eusebius
             records the careers of bishops in the East during the reign of Severus Alexander,
             including Origen’s move from Alexandria to Caesarea.</desc>
-      <ab type="edition" xml:lang="la" xml:id="quote278-1" source="#bib278-1">
+      <ab type="edition" xml:lang="la" xml:id="quote278-1">
         <anchor xml:id="testimonia-278.la.1" corresp="#testimonia-278.en.1"/>Romanorum CCLII Olymp(ias) VII (215f) Antiochiae XI constituitur
             episcopus Zebennus VIII (g) Origenes Alexandriae clarus habetur VIIII (h) Alexandrinae
             ecclesiae XII episcopus ordinatur Heraclas ann(is) XVI X (i) Alexander in matrem
             Mammaeam unice pius fuit et ob id omnibus amabilis. CCLIII Olymp(ias) XI (216a) Origenes
             de Alexandria ad <placeName>Caesariam Palaestinae</placeName> transit IICCL XII (b)
             Romanae ecclesiae XVII episcopatum suscipit Pontianus ann(is) V XIII (c) Alexander
-            occiditur Mogontiaci tumultu militari.<note type="textual">Ed. Helm 1956</note>
-        <note type="corrigenda">Minor corr. J. L. Rife</note>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
-      <ab type="translation" xml:lang="en" xml:id="quote278-2" source="#bib278-2">
+            occiditur Mogontiaci tumultu militari.<ab type="source" source="#bib278-1"/><idno type="CTS-URN"/><ref target=""/><note type="textual">Ed. Helm 1956</note><note type="corrigenda">Minor corr. J. L. Rife</note></ab>
+      <ab type="translation" xml:lang="en" xml:id="quote278-2">
         <anchor xml:id="testimonia-278.en.1" corresp="#testimonia-278.la.1"/>Year of the Romans 252nd Olympiad [229 C.E.] 7 (215f) Zebennus is
             appointed the eleventh bishop of Antioch [230 C.E.] 8 (g) Origen gains renown at
             Alexandria. [231 C.E.] 9 (h) Heraclas is ordained the twelfth bishop of the Church of
@@ -297,11 +293,8 @@
             [233 C.E.] 11 (216a) Origen moves from Alexandria to <placeName>Caesarea
                Maritima</placeName>. [234 C.E.] 2050 12 (b) Pontianus takes up the seventeenth
             episcopate of the Church of Rome for four years. [235 C.E.] 13 (c) Alexander is killed
-            at Moguntiacum in a military uprising.<note type="translation">Trans. J. L. Rife with
-               ref. to Pearse 2005</note>
-        <idno type="CTS-URN"/>
-        <ref target="http://www.tertullian.org/fathers/jerome_chronicle_03_part2.htm"/>
-      </ab>
+            at Moguntiacum in a military uprising.<ab type="source" source="#bib278-2"/><idno type="CTS-URN"/><ref target="http://www.tertullian.org/fathers/jerome_chronicle_03_part2.htm"/><note type="translation">Trans. J. L. Rife with
+               ref. to Pearse 2005</note></ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib278-1">

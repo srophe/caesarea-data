@@ -281,7 +281,7 @@
             likely patron. In this passage, Evagrius recounts the self-maiming by the wife of
             Arcesilaus and the miraculous intercession by Zosimas and John of Choziba, bishop of
             Caesarea (ca. 516 C.E.).</desc>
-      <ab type="edition" xml:lang="grc" xml:id="quote230-1" source="#bib230-1">
+      <ab type="edition" xml:lang="grc" xml:id="quote230-1">
         <anchor xml:id="testimonia-230.grc.1" corresp="#testimonia-230.en.1"/>Διὰ τούτου πολλαί τε καὶ ἕτεραι θεοσημεῖαι γεγόνασιν, ὧν τὸ πλῆθος
             παρείς, ἐπεὶ καὶ κρείττονος εἰπεῖν ἀριθμοῦ τυγχάνουσιν οὖσαι, ἔνια λέξω. Συνήκμαζε τῷ
             Ζωσιμᾷ ἀνήρ, Ἰωάννης τοὔνομα, ταῖς ἀρεταῖς παραπλήσιος, ἐν Χουζιβᾷ τῇ μάνδρᾳ—κεῖται δὲ
@@ -304,11 +304,8 @@
             πρὸς Ἀρκεσίλαον ἔλεγε τὴν χεῖρα καταψήχων· Ἄπιθι χαίρων, ἄπιθι· ἡ χάρις τῷ Χουζιβίτῃ
             δέδοται. Ἰάθη σου τὸ γύναιον, ἄμφω τὼ ὀφθαλμὼ ἔχει, οὐδὲν ἰσχυσάσης τῆς συμφορᾶς
             ἀφελέσθαι, οὕτω τοῦ Χουζιβίτου βουληθέντος. Ὅπερ καὶ γέγονεν ἀμφοῖντοῖν δικαίοιν κατὰ
-            ταὐτὸ θαυματουργησάντοιν.<note type="textual">Ed. Bidez and Parmentier 1898</note>
-        <idno type="CTS-URN"/>
-        <ref target="https://babel.hathitrust.org/cgi/pt?id=hvd.ah3vvp&amp;view=1up&amp;seq=182"/>
-      </ab>
-      <ab type="translation" xml:lang="en" xml:id="quote230-2" source="#bib230-2">
+            ταὐτὸ θαυματουργησάντοιν.<ab type="source" source="#bib230-1"/><idno type="CTS-URN"/><ref target="https://babel.hathitrust.org/cgi/pt?id=hvd.ah3vvp&amp;view=1up&amp;seq=182"/><note type="textual">Ed. Bidez and Parmentier 1898</note></ab>
+      <ab type="translation" xml:lang="en" xml:id="quote230-2">
         <anchor xml:id="testimonia-230.en.1" corresp="#testimonia-230.grc.1"/>Through him many other miracles occurred; omitting the majority,
             because they are of too great a number to recount, I will relate a few. At the same time
             as Zosimas there flourished a man named John, who was similar in his virtues. He had
@@ -333,10 +330,7 @@
             has been granted to the Chozibite. Your wife is cured, she has both her eyes, and the
             misfortune cannot deprive her of anything, because such was the will of the
             Chorizibite.” This indeed happened because the two just men had worked wonders for the
-            same purpose.<note type="translation">Rev. Whitby 2000</note>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
+            same purpose.<ab type="source" source="#bib230-2"/><idno type="CTS-URN"/><ref target=""/><note type="translation">Rev. Whitby 2000</note></ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib230-1">

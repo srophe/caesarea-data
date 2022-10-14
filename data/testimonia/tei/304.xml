@@ -281,25 +281,18 @@
             as well as maps, and presented different versions of it to popes Clement V (in 1307) and
             John XXII (in 1321). This passage from his account of the Holy Land lists the region’s
             bodies of water.</desc>
-      <ab type="edition" xml:lang="la" xml:id="quote304-1" source="#bib304-1">
+      <ab type="edition" xml:lang="la" xml:id="quote304-1">
         <anchor xml:id="testimonia-304.la.1" corresp="#testimonia-304.en.1"/>Deinde iuxta Ptolomaidam intrat fluvius de propre venies forte ad
             millaria quinque. Deinde torrens Cyson de quo immediate supra. Deinde venit aqua de
             prope Sycelec et inter Caesaream et Assur intrat mare. Deinde ex loco medio inter domum
             Zachariae et Emaus per vallem Raphaim transit fluvius iuxta Ramatha et prope Iopen
-            intrat mare.<note type="textual">Ed. Bongars 1611</note>
-        <note type="corrigenda">Minor corr. J. L. Rife</note>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
-      <ab type="translation" xml:lang="en" xml:id="quote304-2" source="#bib304-2">
+            intrat mare.<ab type="source" source="#bib304-1"/><idno type="CTS-URN"/><ref target=""/><note type="textual">Ed. Bongars 1611</note><note type="corrigenda">Minor corr. J. L. Rife</note></ab>
+      <ab type="translation" xml:lang="en" xml:id="quote304-2">
         <anchor xml:id="testimonia-304.en.1" corresp="#testimonia-304.la.1"/>Then near Ptolemaïs a river flows into the sea that comes from some
             five miles away. Next the stream Kishon, described just above. Then the stream from near
             Sycelec enters the sea between Caesarea and Assur. Next a river from midway between the
             house of Zachariah and Emmaus flows through the Valley of Rephaim, past Ramatha, and
-            enters the sea near Joppa.<note type="translation">Adapted from Lock 2011</note>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
+            enters the sea near Joppa.<ab type="source" source="#bib304-2"/><idno type="CTS-URN"/><ref target=""/><note type="translation">Adapted from Lock 2011</note></ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib304-1">

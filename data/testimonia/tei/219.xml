@@ -282,7 +282,7 @@
             centuries before Stephanus’s work, and Marcian of Heraclea, Epitome of Artemidorus’
             Geography 576.19-27, written roughly one to two centuries before Stephanus’s
             work.</desc>
-      <ab type="edition" xml:lang="grc" xml:id="quote219-1" source="#bib219-1">
+      <ab type="edition" xml:lang="grc" xml:id="quote219-1">
         <anchor xml:id="testimonia-219.grc.1" corresp="#testimonia-219.en.1"/>Δῶρος· πόλις Φοινίκης. Ἑκαταῖος Ἀσίᾳ “μετὰ δὲ ἡ πάλαι Δῶρος, νῦν δὲ Δῶρα
             καλεῖται.” καὶ οὕτως Ἰώσηπος αὐτὴν καλεῖ ἐν εʹ τῆς Ἰουδαϊκῆς ἱστορίας “ἀπὸ μέν Ἰορδάνου
             μέχρι Δώρων πόλεως.” καὶ πάλιν “Ἀζώτῳ καὶ Δώροις ὁριζόμενοι.” καὶ ἐν ϛʹ “εἶναί τι
@@ -299,10 +299,7 @@
             ἀρχομένου τοῦ ὄρους τοῦ Καρμήλου.” καὶ ἐν θʹ Γεωγραφουμένων τὸ αὐτό. Ἀπολλόδωρος δὲ
             Δῶρον καλεῖ ἐν Χρονικῶν δʹ “εἰς Δῶρον οὖσαν ἐπιθαλάττιον πόλιν.” καὶ Ἀλέξανδρος ἐν Ἀσίᾳ·
             “Δῶρός τ’ ἀγχίαλος τ’ Ἰόπη προύχουσα θαλάσσης.” καὶ Χάραξ ιαʹ “Τρύφων ἐν Δώρῳ τῆς κοίλης
-            Συρίας πόλει πολιορκούμενος ὑπ’ Ἀντιόχου ἔφυγεν εἰς Πτολεμαΐδα τὴν Ἄκην λεγομένην.”<note type="textual">Ed. Billerbeck and Zubler 2011</note>
-        <idno type="CTS-URN"/>
-        <ref/>
-      </ab>
+            Συρίας πόλει πολιορκούμενος ὑπ’ Ἀντιόχου ἔφυγεν εἰς Πτολεμαΐδα τὴν Ἄκην λεγομένην.”<ab type="source" source="#bib219-1"/><idno type="CTS-URN"/><ref/><note type="textual">Ed. Billerbeck and Zubler 2011</note></ab>
       <ab type="translation" xml:lang="en" xml:id="quote219-2">
         <anchor xml:id="testimonia-219.en.1" corresp="#testimonia-219.grc.1"/>Doros. City in Phoenicia. Hecataeus in [his book on] Asia: “After
             that is the city called Doros in the old times but today Dora.” So Josephus called it

@@ -274,7 +274,7 @@
             describes how many students flocked to him at Caesarea from near and far during the
             early 3rd century. Here the author depends largely on the account of Eusebius written
             roughly 650 year earlier.</desc>
-         <ab type="edition" xml:lang="grc" xml:id="quote322-1" source="#bib322-1">
+         <ab type="edition" xml:lang="grc" xml:id="quote322-1">
         <anchor xml:id="testimonia-322.grc.1" corresp="#testimonia-322.en.1"/>τῷ δὲ ᾽Ωριγένει ἐπὶ τῆς Καισαρείας τὰ συνήθη πράττοντι πολλοὶ προσῄεσαν
             οὐ μόνον τῶν ἐπιχωρίων, ἀλλὰ καὶ τῆς ἀλλοδαπῆς μυρίοι φοιτηταὶ τὰς πατρίδας
             ἀπολείποντες: ὧν ἐπισήμους μάλιστα ἔγνωμεν Θεόδωρον, ὃς ἦν αὐτὸς οὗτος ὁ καθ’ ἡμᾶς
@@ -282,10 +282,8 @@
             τὰ ῾Ελλήνων καὶ ῾Ρωμαίων μαθήματα δεινῶς ἐπτοημένοις φιλοσοφίας εἰς ἔρωτα τῆς προτέρας
             σπουδῆς τὴν θείαν ἄσκησιν ἀντικαταλλάξασθαι προετρέψατο. πέντε δὲ ὅλοις ἔτεσιν αὐτῷ
             συγγενόμενοι τοσαύτην ἀπηνέγκαντο περὶ τὰ θεῖα βελτίωσιν, ὡς ἔτι νέους ἄμφω ἐπισκοπῆς
-            τῶν κατὰ Πόντον ἐκκλησιῶν ἀξιωθῆναι.<note type="textual">Ed. Adler 1933</note>
-        <idno type="CTS-URN">https://archive.org/details/adler-a.-suidae-lexicon-3
-               ./Adler%20A.%2C%20Suidae%20Lexicon%203%20%28%CE%9A-%CE%9F.%20%CE%A9%29/page/n315/mode/2up</idno>
-      </ab>
+            τῶν κατὰ Πόντον ἐκκλησιῶν ἀξιωθῆναι.<ab type="source" source="#bib322-1"/><idno type="CTS-URN">https://archive.org/details/adler-a.-suidae-lexicon-3
+               ./Adler%20A.%2C%20Suidae%20Lexicon%203%20%28%CE%9A-%CE%9F.%20%CE%A9%29/page/n315/mode/2up</idno><note type="textual">Ed. Adler 1933</note></ab>
          <ab type="translation" xml:lang="en" xml:id="quote322-2">
         <anchor xml:id="testimonia-322.en.1" corresp="#testimonia-322.grc.1"/>While Origen was in the course of his usual tasks at Caesarea, not
             only did many locals approach him (for instruction), but also thousands of foreign

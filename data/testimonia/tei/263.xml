@@ -277,7 +277,7 @@
             style and format of Byzantine chronography. In his entry for the year 304/5 C.E. he
             records martydoms under Maximinus Daza, including Pamphilus of Caesarea, following the
             listing by Eusebius in his Church History (see Related Texts).</desc>
-      <ab type="edition" xml:lang="grc" xml:id="quote263-1" source="#bib263-1">
+      <ab type="edition" xml:lang="grc" xml:id="quote263-1">
         <anchor xml:id="testimonia-263.grc.1" corresp="#testimonia-263.en.1"/>Τῷ δ’ αὐτῷ ἔτει Πέτρος, ὁ ἐπίσκοπος Ἀλεξανδρείας, ἐν τῇ φυλακῇ ὑπάρχων
             προστάγματι Μαξιμιανοῦ τοῦ Γαλλερίου καὶ Μαξιμίνου, τοῦ υἱοῦ αὐτοῦ, τὴν κεφαλὴν
             ἀποτμηθεὶς ἐνδόξως ἐμαρτύρησεν· ὅστις τὸν Ἄρειον διάκονον ὄντα τῆς αὐτοῦ ἐκκλησίας
@@ -286,12 +286,9 @@
             μαρτυρικὸν στέφανον ἀνεδήσαντο, ὧν εἰσι Φιλέας ἐπίσκοπος Θμούεως τῆς Αἰγύπτου, Πηλεὺς
             καὶ Νεῖλος ἐπίσκοποι τῆς Αἰγύπτου, Ἄνθιμος ἐπίσκοπος Νικομηδείας, Τυραννίων ἐπίσκοπος
             Τύρου, Σιλουανὸς ἐπίσκοπος Ἐμέσης, καὶ Σιλουανὸς ἐπίσκοπος Γάζης, Λουκιανὸς πρεσβύτερος
-            Ἀντιοχείας, Ζηνόβιος πρεσβύτερος Σιδῶνος, Πάμφιλος πρεσβύτερος <placeName>Καισαρείας</placeName>, καὶ ἄλλοι ἀναρίθμητοι.<note type="textual">Ed. de
-               Boor 1883</note>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
-      <ab type="translation" xml:lang="en" xml:id="quote263-2" source="#bib263-2">
+            Ἀντιοχείας, Ζηνόβιος πρεσβύτερος Σιδῶνος, Πάμφιλος πρεσβύτερος <placeName>Καισαρείας</placeName>, καὶ ἄλλοι ἀναρίθμητοι.<ab type="source" source="#bib263-1"/><idno type="CTS-URN"/><ref target=""/><note type="textual">Ed. de
+               Boor 1883</note></ab>
+      <ab type="translation" xml:lang="en" xml:id="quote263-2">
         <anchor xml:id="testimonia-263.en.1" corresp="#testimonia-263.grc.1"/>[A.M. 5797=304/5 C.E.] In the same year Peter, bishop of Alexandria,
             who had been imprisoned by order of Maximianus Galerius and his son Maximinus, was
             beheaded and underwent martyrdom gloriously. It was he who excommunicated Arius, who was
@@ -300,10 +297,7 @@
             martyrs’ crown at the hands of these tyrants. Among them are Phileas, bishop of Thmouis
             in Egypt; Peleus and Nilus, bishops of Egypt; Anthimos, bishop of Nicomedia; Tyrannion,
             bishop of Tyre; Silvanus, bishop of Emesa; and Silvanus, bishop of Gaza; Lucian,
-            presbyter of Antioch; Zenobius, presbyter of Sidon; Pamphilus, presbyter of <placeName>Caesarea</placeName>; and countless others.<note type="translation">Trans. Mango, Scott, and Greatrex 1997</note>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
+            presbyter of Antioch; Zenobius, presbyter of Sidon; Pamphilus, presbyter of <placeName>Caesarea</placeName>; and countless others.<ab type="source" source="#bib263-2"/><idno type="CTS-URN"/><ref target=""/><note type="translation">Trans. Mango, Scott, and Greatrex 1997</note></ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib263-1">

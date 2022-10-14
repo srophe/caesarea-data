@@ -273,7 +273,7 @@
             phrases in Psalm 127 (Vulgata 126), Jerome starts by discussing the history and
             condition of the ecclesiastical library at Caesarea, and the absence of Origen’s
             relevant work from the collection.</desc>
-      <ab type="edition" xml:lang="la" xml:id="quote295-1" source="#bib295-1">
+      <ab type="edition" xml:lang="la" xml:id="quote295-1">
         <anchor xml:id="testimonia-295.la.1" corresp="#testimonia-295.en.1"/>Beatus Pamphilus martyr, cuius vitam Eusebius <placeName>Caesariensis</placeName> episcopus tribus ferme voluminibus explicavit,
             cum Demetrium Phalereum et Pisistratum in sacrae bibliothecae studio vellet aequare
             imaginesque ingeniorum, quae vera sunt et aeterna monumenta, toto orbe perquireret, tunc
@@ -285,10 +285,7 @@
             posteriorum ad nostram usque memoriam non durarit. hoc ideo ut, quia mihi de eodem
             psalmo proposuisti, qui esset “panis doloris” in eo, quod dicitur: “in vanum vobis est
             ante lucem surgere, surgere, postquam sederitis, qui manducatis panem doloris,”
-            ostenderem me de Origenis commentariis, quid senserit, non habere.<note type="textual">Ed. Hilberg and Slovak 1996</note>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
+            ostenderem me de Origenis commentariis, quid senserit, non habere.<ab type="source" source="#bib295-1"/><idno type="CTS-URN"/><ref target=""/><note type="textual">Ed. Hilberg and Slovak 1996</note></ab>
       <ab type="translation" xml:lang="en" xml:id="quote295-2">
         <anchor xml:id="testimonia-295.en.1" corresp="#testimonia-295.la.1"/>The blessed martyr Pamphilus, whose life the bishop Eusebius of
             Caesarea composed ferme in three volumes, when he wished to match Demetrius of Phalerum

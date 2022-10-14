@@ -271,7 +271,7 @@
             of 135 men, many leaders in the early Church. In his life of Origen, he portrays the
             early career of Origen at Alexandria, including his work in the catechetical program and
             visit to Caesarea in 216 C.E.</desc>
-      <ab type="edition" xml:lang="la" xml:id="quote287-1" source="#bib287-1">
+      <ab type="edition" xml:lang="la" xml:id="quote287-1">
         <anchor xml:id="testimonia-287.la.1" corresp="#testimonia-287.en.1"/>Origenes, qui et Adamantius, decimo Severi Pertinacis anno adversum
             Christianos persecutione commota, a Leonide patre Christi martyrio coronato cum sex
             fratribus et matre vidua pauper relinquitur annos natus circiter decem et septem; rem
@@ -285,12 +285,8 @@
             debacchatus insania est, ut per totum orbem super nomine eius scriberet. Constat eum,
             antequam Caesaream migraret, fuisse Romae sub Zepherino episcopo, et statim Alexandriam
             reversum Heraclam presbyterum, qui in habitu philosophi perseverabat, adiutorem sibi
-            fecisse κατηχήσεων qui quidem et post Demetrium Alexandrinam tenuit ecclesiam.<note type="textual">Ed. Bernoulli 1895</note>
-        <note type="corrigenda">Minor corr. J. L. Rife</note>
-        <idno type="CTS-URN"/>
-        <ref target="https://archive.org/details/devirisinlustri00jerogoog/page/n91/mode/2up"/>
-      </ab>
-      <ab type="translation" xml:lang="en" xml:id="quote287-2" source="#bib287-2">
+            fecisse κατηχήσεων qui quidem et post Demetrium Alexandrinam tenuit ecclesiam.<ab type="source" source="#bib287-1"/><idno type="CTS-URN"/><ref target="https://archive.org/details/devirisinlustri00jerogoog/page/n91/mode/2up"/><note type="textual">Ed. Bernoulli 1895</note><note type="corrigenda">Minor corr. J. L. Rife</note></ab>
+      <ab type="translation" xml:lang="en" xml:id="quote287-2">
         <anchor xml:id="testimonia-287.en.1" corresp="#testimonia-287.la.1"/>Origen, also known as Adamantius [Man of Steel], when a persecution
             was raised against the Christians in the tenth year of Severus Pertinax [203/4 C.E.],
             was left in poverty around the age of 17 with six brothers and a widowed mother by his
@@ -307,14 +303,10 @@
             before he went to Caesarea, (Origen) had been at Rome under the bishop Zephyrinus.
             Immediately on his return to Alexandria he made the presbyter Heraclas, who continued to
             wear his philosopher’s garb, his assistant at the Catechetical School. (Heraclas) is the
-            one who led the Church of Alexandria after Demetrius.<note type="translation">Adapted
-               from Schaff 1892 and Halton 1999</note>
-        <note type="discussion">κατηχήσεων (syntax
+            one who led the Church of Alexandria after Demetrius.<ab type="source" source="#bib287-2"/><idno type="CTS-URN"/><ref/><note type="translation">Adapted
+               from Schaff 1892 and Halton 1999</note><note type="discussion">κατηχήσεων (syntax
                requires genitive of κατηχήσεις) refers to the Church’s educational program,
-               catechesis.</note>
-        <idno type="CTS-URN"/>
-        <ref/>
-      </ab>
+               catechesis.</note></ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib287-1">

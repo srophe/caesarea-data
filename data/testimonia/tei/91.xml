@@ -279,7 +279,7 @@
             and the disciples fishing on the Sea of Galilee. Eusebius cites the prosperity of the
             Churchs of Caesarea, Antioch, and Rome as proof of St. Peter’s success as a fisher of
             men.</desc>
-         <ab type="edition" xml:lang="grc" xml:id="quote91-1" source="#bib91-1">
+         <ab type="edition" xml:lang="grc" xml:id="quote91-1">
         <anchor xml:id="testimonia-91.grc.1" corresp="#testimonia-91.en.1"/>ὁ γοῦν ἀμφιβολεὺς ἐκεῖνος, ὁ ἁλιεύς, ὁ Σύρος ἀντὶ τῆς τῶν ἰχθύων θήρας
             ὅσας ἀνθρώπων ἐσαγήνευσε μυριάδας λόγων ἀπορρήτων δικτύοις θεικῇ δυνάμει πλακεῖσιν, οὐκ
             ἕστιν ἀριθμῷ περιλαβεῖν δυνατόν. ὄψις δ ἀδήλων τὰ φαινόμενα. ἃ γὰρ ὁ μακρὸς αἰὼν τοῦ
@@ -295,13 +295,9 @@
             αὐτὴν τὴν Ἀλεξάνδρειαν πάλιν αὐτός, οὐ μὴν δι’ αὑτοῦ, διὰ δὲ Μάρκου τοῦ μαθητευθέντος
             αὑτῷ κατεστήσατο. αὐτὸς μὲν γὰρ ἀμφὶ τὴν Ἰταλίαν καὶ πάντα τὰ ἀμφὶ ταύτην ἔθνη
             ἐσχόλαζεν, τὸν δ’ αὐτοῦ φοιτητὴν Μάρκον τῶν κατ’ Αἴγυπτον διδάσκαλον καὶ σαγηνευτὴν
-            ἀποδέδειχεν. <note type="textual">Ed. Gressmann 1904</note>
-        <note type="textual">Checked
-               against Gressmand and Laminski 1992</note>
-            <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg010.1st1K-grc1</idno>
-            <ref target="https://scaife.perseus.org/reader/urn:cts:greekLit:tlg2018.tlg010.1st1K-grc1:6"/>
-      </ab>
-         <ab type="translation" xml:lang="en" xml:id="quote91-2" source="#bib91-2">
+            ἀποδέδειχεν.<ab type="source" source="#bib91-1"/><idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg010.1st1K-grc1</idno><ref target="https://scaife.perseus.org/reader/urn:cts:greekLit:tlg2018.tlg010.1st1K-grc1:6"/><note type="textual">Ed. Gressmann 1904</note><note type="textual">Checked
+               against Gressmand and Laminski 1992</note></ab>
+         <ab type="translation" xml:lang="en" xml:id="quote91-2">
         <anchor xml:id="testimonia-91.en.1" corresp="#testimonia-91.grc.1"/>In any case, it is not possible to comprehend in number how many
             thousands of men instead of fish that netcaster, the fisherman, the Syrian (sc. Simon
             Peter) caught in nets of mysterious Words woven by divine power. The visual perception
@@ -318,11 +314,8 @@
             those around them. And again he established the Churches in Egypt, in Alexandria itself,
             not on his own but through Mark, his disciple. For while he pursued his devotion around
             Italy and all neighboring nations, he appointed his student Mark to be teacher and
-            netcaster in Egypt.<note type="translation">Trans. J. L. Rife with ref. to Lee
-               1843</note>
-        <idno type="CTS-URN"/>
-        <ref target="http://www.tertullian.org/fathers/eusebius_theophania_05book4.htm"/>
-      </ab>
+            netcaster in Egypt.<ab type="source" source="#bib91-2"/><idno type="CTS-URN"/><ref target="http://www.tertullian.org/fathers/eusebius_theophania_05book4.htm"/><note type="translation">Trans. J. L. Rife with ref. to Lee
+               1843</note></ab>
          <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib91-1">

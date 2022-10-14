@@ -280,7 +280,7 @@
             in Khurasan, al-Yaʿqūbī reportedly wrote his history and compiled his geographic text
             after his tenure. In <title>Book of Lands</title>, al-Yaʿqūbī refers to Caesarea in the
             section on the military districts of Palestine.</desc>
-         <ab type="edition" xml:lang="lara" xml:id="quote395-1" source="#bib395-1">
+         <ab type="edition" xml:lang="lara" xml:id="quote395-1">
         <anchor xml:id="testimonia-395.ar.1" corresp="#testimonia-395.en.1"/>جند فلسطين: ومن جند الاردّن الى جند فلسطين ثلث مراحل ومدينة فلسطين
             القديمة كانت مدينة يقال لها لدّ فلما ولى سليمان ابن عبد الملك الخلافة ابتنى مدينة فلسطين
             ولها نهر صغير منه شرب اهلها ونهر ابى فُطْتُس منها على اثنى عشر ميلًا وشرب اهل الرملة
@@ -302,12 +302,9 @@
             عليها ابو عبيدة بن الجرّاح معوية بن ابى سفين فافتتحها سنة ثمان عشرة، ومبلغ خراج جند
             فلسطين مع ما صار في الضياع يبلغ ثلثمائة الف دينار. ومَنْ اراد ان يسلك من الشام على
             فلسطين الى مكة سلك جبالا خَشِنَة حزنةً حتّى يصير الى أيْلَة ثم ال مَدْيَن ثم يستمّر به
-            الطريق مع اهل مصر والمغرب.<note type="textual">ed. Juynboll and de Goeje
-               1892</note>
-        <idno type="CTS-URN"/>
-        <ref target="https://archive.org/details/kitabalbuldan00yaquuoft/page/37/mode/2up"/>
-      </ab>
-         <ab type="translation" xml:lang="en" xml:id="quote395-2" source="#bib395-2">
+            الطريق مع اهل مصر والمغرب.<ab type="source" source="#bib395-1"/><idno type="CTS-URN"/><ref target="https://archive.org/details/kitabalbuldan00yaquuoft/page/37/mode/2up"/><note type="textual">ed. Juynboll and de Goeje
+               1892</note></ab>
+         <ab type="translation" xml:lang="en" xml:id="quote395-2">
         <anchor xml:id="testimonia-395.en.1" corresp="#testimonia-395.ar.1"/>Section on the military district of Palestine: From the military
             units of Jordan to the military units of Palestine is three stages. The old city of
             Palestine was a city called Ludd. When Sulaymān ibn ʿAbd al-Mālik became caliph, he
@@ -344,10 +341,7 @@
             land tax of the military district of Palestine, with what came from the land estates,
             amounts to 300,000 dinars. Whoever wants to travel from al-Shām by way of Palestine to
             Mecca travels along a rugged, crude mountain area until he reaches Ayla and then Maydan.
-            He then continues on the road to the inhabitants of Egypt and North Africa. <note type="translation">Trans. T. Marashi with ref. to Gordon et al. 2018</note>
-        <idno type="CTS-URN"/>
-        <ref/>
-      </ab>
+            He then continues on the road to the inhabitants of Egypt and North Africa.<ab type="source" source="#bib395-2"/><idno type="CTS-URN"/><ref/><note type="translation">Trans. T. Marashi with ref. to Gordon et al. 2018</note></ab>
          <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib395-1">

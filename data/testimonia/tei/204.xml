@@ -282,7 +282,7 @@
             upon personal experience, research into ancient writings and earlier itineraries, and
             close study of scripture. In this passage, Burchard describes the historical geography
             and sites between Haifa and Arsuf.</desc>
-         <ab type="edition" xml:lang="la" xml:id="quote204-1" source="#bib204-1">
+         <ab type="edition" xml:lang="la" xml:id="quote204-1">
         <anchor xml:id="testimonia-204.la.1" corresp="#testimonia-204.en.1"/>(1) Ρrima divisio quarte australis incipit ab Accon, sicut omnes alie.
             In quo primo IIII leucis de Acco occurrit civitas Cayphas sub pede montis Carmeli. (2)
             De Caypha III leucis contra austrum est Castrum Peregrinorum, fratrum milicie templi,
@@ -305,11 +305,8 @@
             (5) De <placeName>Cesarea</placeName> ΙΙΙ leucis contra austrum est villa Αssur dicta:
             quondam tamen Antipatrida dicebatur ab Antipatre, patre Herodis Magni. Que fuit fratrum
             de hospitali sancti Iohannis, qui licet eam perdiderunt, tamen solvunt domino de Assur
-            et heredibus eius XXVIII milia bysantinorum aureorum singulis annis.<note type="textual">Ed. Laurent 1873</note>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
-         <ab type="translation" xml:lang="en" xml:id="quote204-2" source="#bib204-2">
+            et heredibus eius XXVIII milia bysantinorum aureorum singulis annis.<ab type="source" source="#bib204-1"/><idno type="CTS-URN"/><ref target=""/><note type="textual">Ed. Laurent 1873</note></ab>
+         <ab type="translation" xml:lang="en" xml:id="quote204-2">
         <anchor xml:id="testimonia-204.en.1" corresp="#testimonia-204.la.1"/>(1) The first division of the southern quarter begins from Acre,
             like all the others. First, four leagues from Acre comes the city of Cayphas at the foot
             of Mount Carmel. (2) Three leagues southward from Cayphas is Pilgrims’ Castle belonging
@@ -333,11 +330,8 @@
             south of <placeName>Caesarea</placeName> is a town called Assur, but once it was called
             Antipatris after Antipater, Herod the Great's father. It belonged to the brothers of the
             Hospital of St. John, who, although they have lost it, still pay 28,000 gold bezants a
-            year to the Lord of Assur and his heirs.<note type="translation">Adapted from Pringle
-               2018</note>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
+            year to the Lord of Assur and his heirs.<ab type="source" source="#bib204-2"/><idno type="CTS-URN"/><ref target=""/><note type="translation">Adapted from Pringle
+               2018</note></ab>
          <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib204-1">

@@ -276,23 +276,16 @@
             compendium for the years 327-378 C.E. This passage from Jerome’s translation of Eusebius
             covers the start of Nero’s reign, including events in the governorship of Judaea, which
             was headquartered in Caesarea, and in the life of St. Paul.</desc>
-      <ab type="edition" xml:lang="la" xml:id="quote276-1" source="#bib276-1">
+      <ab type="edition" xml:lang="la" xml:id="quote276-1">
         <anchor xml:id="testimonia-276.la.1" corresp="#testimonia-276.en.1"/>Romanorum Judaeorum II (b) Festus succedit Felici, aput quem praesente
             Agrippa XII rege Paulus apostolus, religionis suae rationem exponens, vinctus et Romam
-            mittitur (c) Probus Berytius eruditissimus grammaticorum Romae adnoscitur.<note type="textual">Ed. Helm 1956</note>
-        <note type="corrigenda">Minor corr. J. L. Rife</note>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
-      <ab type="translation" xml:lang="en" xml:id="quote276-2" source="#bib276-2">
+            mittitur (c) Probus Berytius eruditissimus grammaticorum Romae adnoscitur.<ab type="source" source="#bib276-1"/><idno type="CTS-URN"/><ref target=""/><note type="textual">Ed. Helm 1956</note><note type="corrigenda">Minor corr. J. L. Rife</note></ab>
+      <ab type="translation" xml:lang="en" xml:id="quote276-2">
         <anchor xml:id="testimonia-276.en.1" corresp="#testimonia-276.la.1"/>Year of the Romans Year of the Jews [56 C.E.] 2 (b) Festus succeeds
             Felix. Before him, in the 12 presence of king Agrippa, Paul the apostle explains the
             doctrine of his religion and is sent to Rome in chains. (c) Probus of Berytus, most
-            learned of grammarians, famous at Rome.<note type="translation">Trans. J. L. Rife with
-               ref. to Pearse 2005</note>
-        <idno type="CTS-URN"/>
-        <ref target="http://www.tertullian.org/fathers/jerome_chronicle_03_part2.htm"/>
-      </ab>
+            learned of grammarians, famous at Rome.<ab type="source" source="#bib276-2"/><idno type="CTS-URN"/><ref target="http://www.tertullian.org/fathers/jerome_chronicle_03_part2.htm"/><note type="translation">Trans. J. L. Rife with
+               ref. to Pearse 2005</note></ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib276-1">

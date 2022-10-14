@@ -277,21 +277,15 @@
             style and format of Byzantine chronography. In his entry for the year 354/5 C.E. he
             cites the installation of Cyril in the see of Jerusalem with the support of
             Arians.</desc>
-      <ab type="edition" xml:lang="grc" xml:id="quote266-1" source="#bib266-1">
+      <ab type="edition" xml:lang="grc" xml:id="quote266-1">
         <anchor xml:id="testimonia-266.grc.1" corresp="#testimonia-266.en.1"/>Τούτῳ τῷ ἔτει Μάξιμον τὸν Ἱεροσολύμων καθεῖλεν Ἀκάκιος ὁ <placeName>Καισαρείας</placeName> καὶ Πατρόφιλος ὁ Σκυθοπόλεως Ἀρειανοὶ ὄντες, καὶ
-            ἀντεισήγαγον Κύριλλον δοκοῦντες ἔχειν αὐτὸν ὁμόφρονα.<note type="textual">Ed. de Boor
-               1883</note>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
-      <ab type="translation" xml:lang="en" xml:id="quote266-2" source="#bib266-2">
+            ἀντεισήγαγον Κύριλλον δοκοῦντες ἔχειν αὐτὸν ὁμόφρονα.<ab type="source" source="#bib266-1"/><idno type="CTS-URN"/><ref target=""/><note type="textual">Ed. de Boor
+               1883</note></ab>
+      <ab type="translation" xml:lang="en" xml:id="quote266-2">
         <anchor xml:id="testimonia-266.en.1" corresp="#testimonia-266.grc.1"/>In this year Acacius of <placeName>Caesarea</placeName> and
             Patrophilos of Scythopolis, being Arians, deposed Maximus of Jerusalem and replaced him
-            with Cyril, whom they believed to be of their persuasion.<note type="translation">Rev.
-               Mango, Scott, and Greatrex 1997</note>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
+            with Cyril, whom they believed to be of their persuasion.<ab type="source" source="#bib266-2"/><idno type="CTS-URN"/><ref target=""/><note type="translation">Rev.
+               Mango, Scott, and Greatrex 1997</note></ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib266-1">

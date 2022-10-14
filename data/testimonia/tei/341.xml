@@ -283,7 +283,7 @@
             of the Holy Land records events early in the Fifth Crusade, in particular the costly
             departure of Andrew II from Tripoli back to Hungary in January of 1218 and the
             subsequent capture of Caesarea and refortification of Athlit.</desc>
-      <ab type="edition" xml:lang="la" xml:id="quote341-1" source="#bib341-1">
+      <ab type="edition" xml:lang="la" xml:id="quote341-1">
         <anchor xml:id="testimonia-341.la.1" corresp="#testimonia-341.en.1"/>Post haec exercitus Domini quadrifariam dividitur. Reges enim Ungariae
             et Cypri Tripolim profecti sunt. Ibique rex Ungariae tempore immoratus cum magno damno
             Terrae Promissionis abscessi, peregrinos, dextarios, iumenta, et arma cum galeis secum
@@ -292,11 +292,8 @@
             Ierusalem et dux Austriae cum Hospitalariis Sancti Iohannis et praedictis prelatis ac
             quibusdam aliis celeriter et utiliter castrum <placeName>Caesareae</placeName> firmaverunt. Templarii vero auxiliantibus peregrinis et Hospitali de domo Theotonicorum
             castrum quod prius dicibatur Filii Dei reaedificaverunt Peregrinorum vocant. Ibi in
-            fossionibus ignota moneta inventa est, peregrinorum labores et sumptus allevians.<note type="textual">Ed. Bongars 1611</note>
-        <note type="corrigenda">Minor corr. J. L. Rife</note>
-        <idno type="CTS-URN"/>
-      </ab>
-      <ab type="translation" xml:lang="en" xml:id="quote341-2" source="#bib341-2">
+            fossionibus ignota moneta inventa est, peregrinorum labores et sumptus allevians.<ab type="source" source="#bib341-1"/><idno type="CTS-URN"/><note type="textual">Ed. Bongars 1611</note><note type="corrigenda">Minor corr. J. L. Rife</note></ab>
+      <ab type="translation" xml:lang="en" xml:id="quote341-2">
         <anchor xml:id="testimonia-341.en.1" corresp="#testimonia-341.la.1"/>After this the army of the Lord was split into four parts. The Kings
             of Hungary and Cyprus (sc. Andrew II and Hugh I) proceeded to Tripoli. There the King of
             Hungary after a short delay departed with great damage to the Promised Land, taking in
@@ -310,11 +307,8 @@
             with the help of the pilgrims and the Hospital of the House of the Germans rebuilt the
             castle which formerly was called the Castle of the Son of God and they called it the
             Castle of the Pilgrims. There in the ditches money was found unexpectedly, lightening
-            the hard work and expenses of the pilgrims.<note type="translation">Adapted from Lock
-               2011</note>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
+            the hard work and expenses of the pilgrims.<ab type="source" source="#bib341-2"/><idno type="CTS-URN"/><ref target=""/><note type="translation">Adapted from Lock
+               2011</note></ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib341-1">

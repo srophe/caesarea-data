@@ -274,14 +274,11 @@
             classical writings, which he often quoted or paraphrased. In this passage from the book
             on buildings and fields (de aedificiis et agris), Isidore discusses the refounding of
             Strato’s Tower as Caesarea.</desc>
-         <ab type="edition" xml:lang="la" xml:id="quote149-1" source="#bib149-1">
+         <ab type="edition" xml:lang="la" xml:id="quote149-1">
         <anchor xml:id="testimonia-149.la.1" corresp="#testimonia-149.en.1"/>Dor urbs fuit quondam potentissima; et versa vice Stratonis turris,
             postea ab Herode, rege Iudaeae, in honorem Caesaris Augusti
                <placeName>Caesarea</placeName> nuncupata. In qua Corneli domum Christi vidit
-            Ecclesia, et Philippi aediculas, et cubiculum quattuor virginum prophetarum.<note type="textual">Ed. Lindsay 1911</note>
-        <idno type="CTS-URN"/>
-        <ref/>
-      </ab>
+            Ecclesia, et Philippi aediculas, et cubiculum quattuor virginum prophetarum.<ab type="source" source="#bib149-1"/><idno type="CTS-URN"/><ref/><note type="textual">Ed. Lindsay 1911</note></ab>
          <ab type="translation" xml:lang="en" xml:id="quote149-2">
         <anchor xml:id="testimonia-149.en.1" corresp="#testimonia-149.la.1"/>The city of Dor was once very powerful; it was opposite Strato’s
             Tower, which was later named <placeName>Caesarea</placeName> by Herod, king of Judaea,

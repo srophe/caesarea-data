@@ -277,7 +277,7 @@
             leadership. In this passage from the book on plots against the government (de insidiis),
             the emperor paraphrases the earlier accounts of John Malalas and the Easter Chronicle on
             the Samaritan uprising of 556 C.E.</desc>
-      <ab type="edition" xml:lang="grc" xml:id="quote218-1" source="#bib218-1">
+      <ab type="edition" xml:lang="grc" xml:id="quote218-1">
         <anchor xml:id="testimonia-218.grc.1" corresp="#testimonia-218.en.1"/>Ὅτι ἐπὶ τοῦ αὐτοῦ βασιλέως Ἰουστινιανοῦ ἐστασίασαν οἱ Σαμαρεῖται καὶ οἱ
             Ἰουδαῖοι ἐν <placeName>Καισαρείᾳ τῆς Παλαιστίνης</placeName> ποιήσαντες τὸ ἓν ὡς ἐν
             τάξει πρασινοβενέτων, καὶ ἐπῆλθον τοῖς χριστιανοῖς τῆς αὐτῆς πόλεως καὶ κατέκοψαν
@@ -289,11 +289,8 @@
             Ἀμαντίῳ τῷ στρατηλάτῃ ὄντι τότε ἐν τῇ ἀνατολῇ τῷ κατὰ Ζίμαρχον ἀπελθεῖν καὶ ἐκζητῆσαι
             τὸν φόνον τοῦ Στεφάνου. ὁ δὲ Ἀμάντιος ἐλθὼν ἐν <placeName>Καισαρείᾳ</placeName> ἤρξατο
             ζητεῖν τοὺς πεποιηκότας τὸν φόνον, καὶ εὑρὼν τοὺς μὲν ἐφούρκισε, τοὺς δὲ ἀπεκεφάλισεν,
-            ἑτέρους δὲ ἐχειροκόπησε, τοὺς δὲ ἐδήμευσε· καὶ ἐγένετο φόβος μέγας ἐν <placeName>Καισαρείᾳ τῆς Παλαιστίνης</placeName>.<note type="textual">Ed. de Boor
-               1905</note>
-        <idno type="CTS-URN"/>
-        <ref/>
-      </ab>
+            ἑτέρους δὲ ἐχειροκόπησε, τοὺς δὲ ἐδήμευσε· καὶ ἐγένετο φόβος μέγας ἐν <placeName>Καισαρείᾳ τῆς Παλαιστίνης</placeName>.<ab type="source" source="#bib218-1"/><idno type="CTS-URN"/><ref/><note type="textual">Ed. de Boor
+               1905</note></ab>
       <ab type="translation" xml:lang="en" xml:id="quote218-2">
         <anchor xml:id="testimonia-218.en.1" corresp="#testimonia-218.grc.1"/>It happened during the reign of the emperor Justinian that the
             Samaritans and Jews in <placeName>Caesarea of Palestine</placeName> staged a revolt.

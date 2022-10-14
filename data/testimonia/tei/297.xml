@@ -281,16 +281,13 @@
             He joined in vehement debate over the spiritual and corporeal nature of the divine with
             his neighbors John, the bishop of Jerusalem, and Tyrannius Rufinus, the learned monk at
             the Mount of Olives (see Related Texts).</desc>
-      <ab type="edition" xml:lang="la" xml:id="quote297-1" source="#bib297-1">
+      <ab type="edition" xml:lang="la" xml:id="quote297-1">
         <anchor xml:id="testimonia-297.la.1" corresp="#testimonia-297.en.1"/>Haec epistula uniformis ad Palaestinos et ad Cyprios episcopos missa
             est. utriusque principia tulimus. Ad Palaestinos: Dominis dilectissimis, fratribus et
             coepiscopis Eulogio, Iohanni, Zebinno, Auxentio, Dionysio, Gennadio, Zenoni, Theudosio,
             Dictenio, Porphyrio, Saturnino, Alani, Paulo, Ammonio, Heliano, alteri Paulo, Eusebio et
             omnibus, qui in Aeliae encaeniis congregati sunt, catholicis episcopis Theophilus in
-            domino salutem dicit.<note type="textual">Ed. Hilberg and Slovak 1996</note>
-        <idno type="CTS-URN"/>
-        <ref/>
-      </ab>
+            domino salutem dicit.<ab type="source" source="#bib297-1"/><idno type="CTS-URN"/><ref/><note type="textual">Ed. Hilberg and Slovak 1996</note></ab>
       <ab type="translation" xml:lang="en" xml:id="quote297-2">
         <anchor xml:id="testimonia-297.en.1" corresp="#testimonia-297.la.1"/>This letter has been sent in identical copies to the Palestinian and
             Cypriot bishops. We give the first lines of both copies. To the Palestinian bishops: To

@@ -282,7 +282,7 @@
             assume that this gap reflects the non-existence of Strato’s Tower in the late second
             third of the 4th century B.C., if not also the author’s decision to omit an existing
             settlement e.g. at Apollonia (Arsuf).</desc>
-      <ab type="edition" xml:lang="grc" xml:id="quote222-1" source="#bib222-1">
+      <ab type="edition" xml:lang="grc" xml:id="quote222-1">
         <anchor xml:id="testimonia-222.grc.1" corresp="#testimonia-222.en.1"/>{Συρίας καὶ Φοινίκη.} Ἔστι μετὰ Κιλικίαν ἔθνος Σύροι. Ἐν δὲ τῇ Συρίᾳ
             οἰκοῦσι τὰ παρὰ θάλατταν Φοίνικες ἔθνος, ἐπὶ στενὸν ἔλαττον ἢ ἐπὶ τετταράκοντα σταδίους
             ἀπὸ θαλάττης, ἐνιαχῆ δὲ οὐδὲ ἐπὶ σταδίους ιʹ τὸ πλάτος. Ἀπὸ δὲ Θαψάκου ποταμοῦ ἐστὶ
@@ -298,11 +298,8 @@
             Σιδωνίων. [Μάγδολος πόλις] καὶ ποταμὸς Τυρίων. Δῶρος πόλις Σιδωνίων, κ[αὶ Ἰόππη πόλις·
             ἐκτε]θῆναί φασιν ἐνταῦθα τὴν Ἀνδρομ[έδαν τῷ κήτει. Ἀσκά]λων πόλις Τυρίων καὶ βασίλεια.
             Ἐνταῦ[θα ὅρος ἐστὶ τῆς Κοίλης] Συρίας. Παράπλους Κοίλης Συρίας [ἀπὸ Θαψάκου ποταμοῦ
-            μέχρι] Ἀσκάλωνος στάδια ͵βψʹ.<note type="textual">Ed. Shipley 2020</note>
-        <idno type="CTS-URN"/>
-        <ref target="https://archive.org/details/chroniquedernoul00ernouoft/page/112/mode/2up"/>
-      </ab>
-      <ab type="translation" xml:lang="en" xml:id="quote222-2" source="#bib222-2">
+            μέχρι] Ἀσκάλωνος στάδια ͵βψʹ.<ab type="source" source="#bib222-1"/><idno type="CTS-URN"/><ref target="https://archive.org/details/chroniquedernoul00ernouoft/page/112/mode/2up"/><note type="textual">Ed. Shipley 2020</note></ab>
+      <ab type="translation" xml:lang="en" xml:id="quote222-2">
         <anchor xml:id="testimonia-222.en.1" corresp="#testimonia-222.grc.1"/>{Syria and Phoenicia.} There is after Cilicia the community of the
             Syroi. And in Syria there live, in the seaward part, the Phoinikes, a community, on a
             narrow plain less than up to 40 stades from the sea, and in some places not even up to
@@ -322,13 +319,9 @@
             Tyrioi. Doros, a city of the Sidonioi. ⟨Ioppe, a city;⟩ they say it was here that
             Androm⟨eda⟩ was ⟨ex⟩posed ⟨to the sea monster. Aska⟩lon, a city of the Tyrioi and a
             royal seat. Her⟨e is the border of Koile⟩ Syria. Coastal voyage down Koile Syria ⟨from
-            the River Thrapsakos as far as⟩ Askalon: 2,700 stades.<note type="translation">Rev.
-               Shipley 2020</note>
-        <note type="discussion">Bostrenos is a toponym suggested by Müller
-               (1855, p. cxxxviii) and given by Shipley (2020, pp. 81, 187).</note>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
+            the River Thrapsakos as far as⟩ Askalon: 2,700 stades.<ab type="source" source="#bib222-2"/><idno type="CTS-URN"/><ref target=""/><note type="translation">Rev.
+               Shipley 2020</note><note type="discussion">Bostrenos is a toponym suggested by Müller
+               (1855, p. cxxxviii) and given by Shipley (2020, pp. 81, 187).</note></ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib222-1">

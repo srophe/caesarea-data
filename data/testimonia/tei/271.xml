@@ -273,19 +273,15 @@
             compendium for the years 327-378 C.E. This passage from Jerome’s translation of Eusebius
             covers events in the middle years of the reign of Augustus, including Herod’s program to
             found cities and to build across the region.</desc>
-      <ab type="edition" xml:lang="la" xml:id="quote271-1" source="#bib271-1">
+      <ab type="edition" xml:lang="la" xml:id="quote271-1">
         <anchor xml:id="testimonia-271.la.1" corresp="#testimonia-271.en.1"/>Romanorum Iudaeorum CXCII Olymp(ias) XXXII (167c) Augustus a senatu
             pontifex maximus appellatur XXII (d) Herodes <placeName>Caesaream</placeName> in nomine
             Caesaris condidit, quae prius <placeName>Turris Stratonis</placeName> vocabatur XXXIII
             (e) Herodes Anthidonam condidit et Antipatridam atque XXIII Herodionem in honorem patris
             Antipatri et suum exstruxit. Innumerabilia quoque opera in singulis Syriarum urbibus,
             quas regebat, solertissime aedificavit XXXIIII (f) Tiberius Caesar de captis Pannoniis
-            triumphavit<note type="textual">Ed. Helm 1956</note>
-        <note type="corrigenda">Minor corr. J. L. Rife</note>
-        <idno type="CTS-URN"/>
-        <ref/>
-      </ab>
-      <ab type="translation" xml:lang="en" xml:id="quote271-2" source="#bib271-2">
+            triumphavit<ab type="source" source="#bib271-1"/><idno type="CTS-URN"/><ref/><note type="textual">Ed. Helm 1956</note><note type="corrigenda">Minor corr. J. L. Rife</note></ab>
+      <ab type="translation" xml:lang="en" xml:id="quote271-2">
         <anchor xml:id="testimonia-271.en.1" corresp="#testimonia-271.la.1"/>Year of the Romans Year of the Jews 192nd Olympiad [12 B.C.E.] 32
             (167c) Augustus is granted the title pontifex maximus 22 by the Senate. (d) Herod
             founded <placeName>Caesarea</placeName> in the name of Caesar, (the city) which was
@@ -293,11 +289,8 @@
             Anthedon and Antipatris, and built 23 Herodium in honor of his father Antipater and
             himself. He also erected countless structures with the utmost skill in the Syrian cities
             he ruled. [10 B.C.E.] 34 (f) Tiberius Caesarea celebrated a triumph for the conquest 24
-            of the Pannonias.<note type="translation">Trans. J. L. Rife with ref. to Pearse
-               2005</note>
-        <idno type="CTS-URN">http://www.tertullian.org/fathers/jerome_chronicle_03_part2.htm</idno>
-        <ref target="http://www.tertullian.org/fathers/eusebius_theophania_05book4.htm"/>
-      </ab>
+            of the Pannonias.<ab type="source" source="#bib271-2"/><idno type="CTS-URN">http://www.tertullian.org/fathers/jerome_chronicle_03_part2.htm</idno><ref target="http://www.tertullian.org/fathers/eusebius_theophania_05book4.htm"/><note type="translation">Trans. J. L. Rife with ref. to Pearse
+               2005</note></ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib271-1">

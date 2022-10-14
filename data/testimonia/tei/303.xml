@@ -282,21 +282,14 @@
             John XXII (in 1321). This passage from his account of the Holy Land he lists the
             location of sites within a grid system applied to the whole region, not unlike longitude
             and latitude.</desc>
-      <ab type="edition" xml:lang="la" xml:id="quote303-1" source="#bib303-1">
+      <ab type="edition" xml:lang="la" xml:id="quote303-1">
         <anchor xml:id="testimonia-303.la.1" corresp="#testimonia-303.en.1"/>In XXVII Caypha (de quo part. VI cap. III). In XXX Castrum Peregrinoum.
             In XL <placeName>Caesarea</placeName>. In XLVII Arsur sive Dora vel Antipatrida. In LII
-               Iopen.<note type="textual">Ed. Bongars 1611</note>
-        <note type="corrigenda">Minor corr. J. L. Rife</note>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
-      <ab type="translation" xml:lang="en" xml:id="quote303-2" source="#bib303-2">
+               Iopen.<ab type="source" source="#bib303-1"/><idno type="CTS-URN"/><ref target=""/><note type="textual">Ed. Bongars 1611</note><note type="corrigenda">Minor corr. J. L. Rife</note></ab>
+      <ab type="translation" xml:lang="en" xml:id="quote303-2">
         <anchor xml:id="testimonia-303.en.1" corresp="#testimonia-303.la.1"/>In (square) 27 is Caypha (see 3.6.3). In 30 is Pilgrims’ Castle. In
             40 is <placeName>Caesarea</placeName>. In 47 is Assur or Dora or Antipatris. In 52
-               Joppa.<note type="translation">Adapted from Lock 2011</note>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
+               Joppa.<ab type="source" source="#bib303-2"/><idno type="CTS-URN"/><ref target=""/><note type="translation">Adapted from Lock 2011</note></ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib303-1">

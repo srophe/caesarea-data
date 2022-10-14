@@ -274,7 +274,7 @@
             a survey of the region’s ethnography, religions, and environment. This passage
             summarizes the ecclesiastical hierarchy in the Patriarchate of Jerusalem, including the
             Archbishop of Caesarea.</desc>
-      <ab type="edition" xml:lang="la" xml:id="quote281-1" source="#bib281-1">
+      <ab type="edition" xml:lang="la" xml:id="quote281-1">
         <anchor xml:id="testimonia-281.la.1" corresp="#testimonia-281.en.1"/>Preterea et ipsa terra Ierosolymitana Patriarcham habet, qui est pater
             fidei et Christianorum et vicarius Ihesu Christi. Qui habet IIII archiepiscopos. Unum in
             provincia Palestina scilicet <placeName>Cesariensem</placeName>. Alium in provincia
@@ -283,11 +283,8 @@
             ubi sepultus fuit Iohannes baptista et Eliseus et Abdias propheta. Tirensis ΙΙΙΙ habet
             suffraganeos: Acconensem, Sidonensem, Beritensem, et illum Bleinas, que est Cesarea
             Philippi. Nazarensis habet I Tiberiadensem, Ponacensis vero nullum Latinum, Grecum vero
-            habet unum in monte Sina.<note type="textual">Ed. Neumann 1866</note>
-        <idno type="CTS-URN"/>
-        <ref/>
-      </ab>
-      <ab type="translation" xml:lang="en" xml:id="quote281-2" source="#bib281-2">
+            habet unum in monte Sina.<ab type="source" source="#bib281-1"/><idno type="CTS-URN"/><ref/><note type="textual">Ed. Neumann 1866</note></ab>
+      <ab type="translation" xml:lang="en" xml:id="quote281-2">
         <anchor xml:id="testimonia-281.en.1" corresp="#testimonia-281.la.1"/>Furthermore, the land of Jerusalem has a Patriarch, who is the
             father of the faith and Christians and is the vicar of Christ. He has four archbishops:
             one in the province of Palestine, namely, the Archbishop of <placeName>Caesarea</placeName>; the second in the province of Phoenicia, namely, the
@@ -298,10 +295,7 @@
             Archbishop of Tyre has four suffragans: the bishops of Acre, Sidon, Beirut, and Bleinas,
             which is Caesarea Philippi. The Archbishop of Nazareth has one suffragan, the bishop of
             Tiberias, while the Archbishop of Petra has no Latin suffragan but a Greek one on Mount
-               Sinai.<note type="translation">Adapted from Stewart 1894</note>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
+               Sinai.<ab type="source" source="#bib281-2"/><idno type="CTS-URN"/><ref target=""/><note type="translation">Adapted from Stewart 1894</note></ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib281-1">

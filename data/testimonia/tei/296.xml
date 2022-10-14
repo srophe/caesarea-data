@@ -271,7 +271,7 @@
             Constantinople under Theodosius I, had suffered an untimely death. Jerome praised his
             devotion, chastity, and charity, comparing him to Cornelius, the famous centurion at
             Caesarea whom St. Peter converted.</desc>
-      <ab type="edition" xml:lang="la" xml:id="quote296-1" source="#bib296-1">
+      <ab type="edition" xml:lang="la" xml:id="quote296-1">
         <anchor xml:id="testimonia-296.la.1" corresp="#testimonia-296.en.1"/>(1) Alius forsitan laudet Nebridium, quod de sorore generatus Augustae
             et in materterae nutritus sinu invictissimo principi ita carus fuit, ut ei coniugem
             nobilissimam quaereret et bellis civilibus Africam dissidentem hac velut obside sibi
@@ -284,11 +284,8 @@
             gentium dedicavit. scriptum que est de eo: “erat vir quidam in <placeName>Caesarea</placeName> nomine Cornelius, centurio cohortis, quae dicitur
             Italica, religiosus et timens deum cum omni domo sua, faciens elemosynas multas plebi et
             orans deum semper.” (3) quidquid de illo dicitur hoc nomine commutato in Nebridio meo
-               vindico.<note type="textual">Ed. Hilberg and Slovak 1996</note>
-        <idno type="CTS-URN"/>
-        <ref/>
-      </ab>
-      <ab type="translation" xml:lang="en" xml:id="quote296-2" source="#bib296-2">
+               vindico.<ab type="source" source="#bib296-1"/><idno type="CTS-URN"/><ref/><note type="textual">Ed. Hilberg and Slovak 1996</note></ab>
+      <ab type="translation" xml:lang="en" xml:id="quote296-2">
         <anchor xml:id="testimonia-296.en.1" corresp="#testimonia-296.la.1"/>(1) Perhaps another would praise Nebridius because, born to the
             sister of the Empress and brought up in the bosom of his aunt, he was so dear to the
             unconquered emperor (Theodosius) that he sought out for (Nebridius) a wife of the
@@ -304,10 +301,7 @@
             And about him it is written: “There was a certain man in <placeName>Caesarea</placeName> by the name of Cornelius, a centurion of the cohort named the Italian, a devote man and
             god-fearing, along with his whole house, who gave much alms to the poor and always
             prayed to God.” (3) All this that is said of him I claim — with a change of name only —
-            for my dear Nebridius.<note type="translation">Adapted from Fremantle 1893</note>
-        <idno type="CTS-URN"/>
-        <ref target="https://www.ccel.org/ccel/schaff/npnf206.v.LXXIX.html"/>
-      </ab>
+            for my dear Nebridius.<ab type="source" source="#bib296-2"/><idno type="CTS-URN"/><ref target="https://www.ccel.org/ccel/schaff/npnf206.v.LXXIX.html"/><note type="translation">Adapted from Fremantle 1893</note></ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib296-1">

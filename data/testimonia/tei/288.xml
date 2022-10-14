@@ -271,18 +271,15 @@
             of 135 men, many leaders in the early Church. In his life of Origen, he discusses
             Origen’s interactions with the Cappadocian Church and the Imperial family from his base
             at Caesarea in the 230s C.E.</desc>
-      <ab type="edition" xml:lang="la" xml:id="quote288-1" source="#bib288-1">
+      <ab type="edition" xml:lang="la" xml:id="quote288-1">
         <anchor xml:id="testimonia-288.la.1" corresp="#testimonia-288.en.1"/>Quantae autem gloriae fuerit, hinc apparet, quod Firmillianus, Caesareae
             episcopus, cum omni Cappadocia eum invitavit et diu tenuit et postea sub occasione
             sanctorum locorum Palestinam veniens diu Caesareae ab eo in sanctis scripturis eruditus
             est; sed et illud quod ad Mameam, matrem Alexandri imperatoris, religiosam feminam
             rogatus venit Antiochiam et summo honore habitus est, et ad Philippum imperatorem, qui
             primus de regibus Romanis Christianus fuit, et ad matrem eius litteras fecit quae usque
-            hodie extant.<note type="textual">Ed. Bernoulli 1895</note>
-        <idno type="CTS-URN"/>
-        <ref target="https://archive.org/details/devirisinlustri00jerogoog/page/n67/mode/2up"/>
-      </ab>
-      <ab type="translation" xml:lang="en" xml:id="quote288-2" source="#bib288-2">
+            hodie extant.<ab type="source" source="#bib288-1"/><idno type="CTS-URN"/><ref target="https://archive.org/details/devirisinlustri00jerogoog/page/n67/mode/2up"/><note type="textual">Ed. Bernoulli 1895</note></ab>
+      <ab type="translation" xml:lang="en" xml:id="quote288-2">
         <anchor xml:id="testimonia-288.en.1" corresp="#testimonia-288.la.1"/>One can see how great Origen’s glory was from the fact that
             Firmillianus, bishop of Caesarea, with all the Cappadocian bishops invited and hosted
             him for a long stay; and later, when (Firmillianus) was travelling to Palestine to visit
@@ -291,11 +288,8 @@
             request of Mamea, mother of the emperor Alexander and a woman of religious devotion, and
             he was treated with the highest regard. And he sent letters to the emperor Philip, who
             was the first Christian among the Roman rulers, and to his mother, letters which still
-            exist today.<note type="translation">Adapted from Schaff 1892 and Halton
-               1999</note>
-        <idno type="CTS-URN"/>
-        <ref/>
-      </ab>
+            exist today.<ab type="source" source="#bib288-2"/><idno type="CTS-URN"/><ref/><note type="translation">Adapted from Schaff 1892 and Halton
+               1999</note></ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib288-1">

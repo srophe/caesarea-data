@@ -281,7 +281,7 @@
             idealistic and one as pragmatic. Either John overlooked the political machinations of
             his worldly foes from a position of moral superiority, or he aimed to soften his
             detractor in hopes of mitigating the pain of his brethren.</desc>
-         <ab type="edition" xml:lang="grc" xml:id="quote344-1" source="#bib344-1">
+         <ab type="edition" xml:lang="grc" xml:id="quote344-1">
         <anchor xml:id="testimonia-344.grc.1" corresp="#testimonia-344.en.1"/>Ἡμεῖς κἂν πρὸς αὐτὰς ἀφικώμεθα τῆς οἰκουμένης τὰς ἐσχατιὰς, ἐπιλαθέσθαι
             σου τῆς ἀγάπης οὐ δυνάμεθα, ἀλλὰ πανταχοῦ περιφέροντες ἄπιμεν· οὕτως ἡμᾶς εἷλες καὶ
             ἐχειρώσω, δέσποτά μου τιμιώτατε καὶ εὐλαβέστατε, ἐπεὶ καὶ νῦν ἐν Κουκουσῷ καθήμενοι, τῷ
@@ -301,12 +301,8 @@
             πάντες οἱ κατὰ τὴν Παλαιστίνην κύριοί μου τιμιώτατοι καὶ εὐλαβέστατοι ἐπίσκοποι ἕψονταί
             σου τοῖς ἴχνεσιν, οὐδὲν οἶμαι δεῖν ἀμφιβάλλειν. Οἶδα γὰρ σαφῶς ὅτι ἐν τοῖς τοιούτοις
             κατορθώμασιν ὥσπερ σῶμα συνεχὲς κεφαλῇ, οὕτως αὐτοὺς τῇ γλυκύτητί σου τῆς ἀγάπης συνῆψας
-            καὶ συνδεδέσθαι παρεσκεύασας, ὅπερ καὶ τοῦτο μέγιστον δεῖγμα τῆς σῆς ἀρετῆς. <note type="textual">Ed. Migne 1859</note>
-        <note type="textual">Minor corr. J. L. Rife
-               (punctuation)</note>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
+            καὶ συνδεδέσθαι παρεσκεύασας, ὅπερ καὶ τοῦτο μέγιστον δεῖγμα τῆς σῆς ἀρετῆς.<ab type="source" source="#bib344-1"/><idno type="CTS-URN"/><ref target=""/><note type="textual">Ed. Migne 1859</note><note type="textual">Minor corr. J. L. Rife
+               (punctuation)</note></ab>
          <ab type="translation" xml:lang="en" xml:id="quote344-2">
         <anchor xml:id="testimonia-344.en.1" corresp="#testimonia-344.grc.1"/>Even if we have arrived at the outer reaches of the inhabited world,
             we are unable to forget your love, carrying it around with us everywhere we go. You have

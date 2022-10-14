@@ -274,15 +274,12 @@
             after—the Easter Chronicle is organized annalistically with successive entries by year.
             In this passage the author cites Herod’s building activities at Jerusalem and Caesarea
             Maritima.</desc>
-      <ab type="edition" xml:lang="grc" xml:id="quote246-1" source="#bib246-1">
+      <ab type="edition" xml:lang="grc" xml:id="quote246-1">
         <anchor xml:id="testimonia-246.grc.1" corresp="#testimonia-246.en.1"/>Ἰνδ. αʹ. κϛʹ. ὑπ. Λίβωνος καὶ Πίσωνος. Ἡρώδης ἐν Ἱεροσολύμοις νεὼν λύσας
             μείζονα οἰκοδόμησεν. ρϟαʹ Ὀλυμπιάς. Ἰνδ. βʹ. κζʹ. ὑπ. Κράσσου καὶ Λεντούλου. Ἰνδ. γʹ.
             κηʹ. ὑπ. Νέρωνος καὶ Κλάρου. Ἰνδ. δʹ. κθʹ. ὑπ. Μεσσάλα καὶ Κυρινίου. Ἡρώδης <placeName>Καισάρειαν</placeName> εἰς ὄνομα Καίσαρος Αὐγούστου ἔκτισεν, <placeName>Στράτωνος πύργον</placeName> τὸ πρὶν καλουμένην. ὁ αὐτὸς δὲ καὶ Ἀνθεδόνα
             ἐπικτίσας Ἀγρίππειαν ἐκάλεσεν, ἔτι δὲ καὶ Περσαβίνην εἰς ὄνομα Ἀντιπάτρου τοῦ ἰδίου
-               πατρός.<note type="textual">Ed. Dindorf 1832</note>
-        <idno type="CTS-URN"/>
-        <ref/>
-      </ab>
+               πατρός.<ab type="source" source="#bib246-1"/><idno type="CTS-URN"/><ref/><note type="textual">Ed. Dindorf 1832</note></ab>
       <ab type="translation" xml:lang="en" xml:id="quote246-2">
         <anchor xml:id="testimonia-246.en.1" corresp="#testimonia-246.grc.1"/>Indiction 1. Year 25. Consuls Libo and Piso. [15 B.C.] Herod
             demolished the Temple in Jerusalem and built it bigger. Olympiad 192 Indiction 2. Year

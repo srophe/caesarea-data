@@ -278,16 +278,13 @@
             on spelling, Herodian cited the toponym Caesarea (Καισάρεια) as an example of a
             particular word-formation. George Choeroboscus, the Early Byzantine grammarian,
             paraphrased this passage over six centuries later (Prologue and Notes 303.12-20).</desc>
-         <ab type="edition" xml:lang="grc" xml:id="quote46-1" source="#bib46-1">
+         <ab type="edition" xml:lang="grc" xml:id="quote46-1">
         <anchor xml:id="testimonia-46.grc.1" corresp="#testimonia-46.en.1"/>τὰ εἰς -α λήγοντα θηλυκά, ἐὰν μὲν ἔχῃ τὸ -α καθαρόν, τουτέστι μὴ
             προηγουμένου συμφώνου, ἢ πρὸ τοῦ -α τὸ ρ, ἢ μακρόν, φυλάττει καὶ ἐν τῇ γενικῇ, φημὶ δὴ
             τὸ -α, καὶ προσθέσει τοῦ ς ποιεῖ τὴν γενικήν. ἔστω δὲ παραδείγματα τοῦ κανόνος ταῦτα· τὸ
             ᾱ μὲν καθαρὸν οἷον μαῖα μαίας, γραῖα γραίας, γαῖα γαίας, Μήδεια Μηδείας (τὸ γὰρ “Μηδείης
             ὑπ᾿ ἔρωτι” Ἰωνικόν ἐστι), Κράτεια Κρατείας, Ἀλεξάνδρεια Ἀλεξανδρείας,
-               <placeName>Καισάρεια</placeName> Καισαρείας, Ἀντιόχεια Ἀντιοχείας.<note type="textual">Ed. Lentz 1868</note>
-            <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg0087.tlg011.1st1K-grc1:2.2.4.127</idno>
-            <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg0087.tlg011.1st1K-grc1:2.2.4.127"/>
-      </ab>
+               <placeName>Καισάρεια</placeName> Καισαρείας, Ἀντιόχεια Ἀντιοχείας.<ab type="source" source="#bib46-1"/><idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg0087.tlg011.1st1K-grc1:2.2.4.127</idno><ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg0087.tlg011.1st1K-grc1:2.2.4.127"/><note type="textual">Ed. Lentz 1868</note></ab>
          <ab type="translation" xml:lang="en" xml:id="quote46-2">
         <anchor xml:id="testimonia-46.en.1" corresp="#testimonia-46.grc.1"/>As for feminine nouns ending -a, if they have pure -a (i.e., no
             preceding consonant), r before -a, or long -a, it persists also in the genitive, I mean

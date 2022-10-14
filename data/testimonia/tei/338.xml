@@ -275,7 +275,7 @@
             complete, earlier Syriac version and a fragmentary, later Greek version. In this passage
             from the Greek version on the reign of Decius, Epiphanius discusses the career of
             Origen.</desc>
-         <ab type="edition" xml:lang="grc" xml:id="quote338-1" source="#bib338-1">
+         <ab type="edition" xml:lang="grc" xml:id="quote338-1">
         <anchor xml:id="testimonia-338.grc.1" corresp="#testimonia-338.en.1"/>Τοῦτον διεδέξατο Δέκιος καὶ ἐβασίλευσεν ἐνιαυτὸν ἕνα καὶ μῆνας γʹ. Ἐν
             τοῖς χρόνοις Δεκίου Ὠριγένης ἐγνωρίζετο ἀπὸ χρόνων Δεκίου ἀκμάσας ἕως χρόνων Γαλιήνου
             καὶ Οὐολουσιανοῦ καὶ ἐπέκεινα. Ἐπὶ δὲ τοῦ διωγμοῦ τοῦ προειρημένου Δεκίου γεγονότος
@@ -285,11 +285,8 @@
             εἰς Ἱεροσόλυμα χρόνον ὀλίγον, εἶτα ἐλθὼν εἰς Τύρον ἐπὶ ἔτη κηʹ, ὡς ὁ λόγος ἔχει, τὴν μὲν
             πολιτείαν ἐνησκεῖτο, τὰς δὲ γραφὰς ἡρμήνευσεν, ὅτε καὶ τὰ ἑξαπλᾶ καὶ τὰς δύο τῶν
             ἑβραϊκῶν σελίδας ἄντικρυ ἐκ παραλλήλου μιᾶς ἑρμηνείας πρὸς τὴν ἑτέραν συνέθηκεν ἑξαπλᾶ
-            τὰς βίβλους ὀνομάσας, καθ’ ἅπερ ἄνω διὰ πλάτους εἴρηται.<note type="textual">Ed.
-               Moutsoulas 1973</note>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
+            τὰς βίβλους ὀνομάσας, καθ’ ἅπερ ἄνω διὰ πλάτους εἴρηται.<ab type="source" source="#bib338-1"/><idno type="CTS-URN"/><ref target=""/><note type="textual">Ed.
+               Moutsoulas 1973</note></ab>
          <ab type="translation" xml:lang="en" xml:id="quote338-2">
         <anchor xml:id="testimonia-338.en.1" corresp="#testimonia-338.grc.1"/>Decius succeeded this one (sc. Philip the Arab) and ruled for one
             year and three months. In the time of Decius Origen grew famous, flourishing from the

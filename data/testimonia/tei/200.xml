@@ -269,15 +269,10 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/200</idno>
       </ab>
       <desc type="abstract" xml:id="abstract200-1"><quote><placeName xml:lang="grc">Καισαρέων</placeName></quote>, and <quote><placeName xml:lang="en">Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/100172302" role="author">Procopius </persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg4029.tlg002" type="uniform" level="m">Secret History</title> <ref n="d" target="#bib200-1">29.17-29.18</ref>. This passage was written ca. <origDate period="#byzantine" notBefore="0550" notAfter="0558">550 - 558 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
-      <ab type="edition" xml:lang="grc" xml:id="quote200-1" source="#bib200-1">
-        <anchor xml:id="testimonia-200.grc.1" corresp="#testimonia-200.en.1"/>Ἀνατόλιός τις ἦν ἐν Ἀσκαλωνιτῶν τῷ λευκώματι τὰ πρωτεῖα ἔχων. τούτου τὴν παῖδα γαμετὴν γυναῖκα τῶν τις <placeName xml:lang="grc">Καισαρέων</placeName> πεποίηται, Μαμιλιανὸς ὄνομα, οἰκίας ἐπιφανοῦς ἄγαν.
-        <idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg4029.tlg002.perseus-grc1:29.17</idno>
-        <ref target="http://data.perseus.org/citations/urn:cts:greekLit:tlg4029.tlg002.perseus-grc1:29.17"/>
-      </ab>
-      <ab type="translation" xml:lang="en" xml:id="quote200-2" source="#bib200-2">
-        <anchor xml:id="testimonia-200.en.1" corresp="#testimonia-200.grc.1"/>One Anatolius was foremost in the Senate of Ascalon. His daughter was married to a citizen of <placeName xml:lang="en">Caesarea</placeName> by the name of Mamilian, of illustrious family.    <idno type="CTS-URN"/>
-        <ref target="https://sourcebooks.fordham.edu/basis/procop-anec.asp#atwater"/>
-      </ab>
+      <ab type="edition" xml:lang="grc" xml:id="quote200-1">
+        <anchor xml:id="testimonia-200.grc.1" corresp="#testimonia-200.en.1"/>Ἀνατόλιός τις ἦν ἐν Ἀσκαλωνιτῶν τῷ λευκώματι τὰ πρωτεῖα ἔχων. τούτου τὴν παῖδα γαμετὴν γυναῖκα τῶν τις <placeName xml:lang="grc">Καισαρέων</placeName> πεποίηται, Μαμιλιανὸς ὄνομα, οἰκίας ἐπιφανοῦς ἄγαν.<ab type="source" source="#bib200-1"/><idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg4029.tlg002.perseus-grc1:29.17</idno><ref target="http://data.perseus.org/citations/urn:cts:greekLit:tlg4029.tlg002.perseus-grc1:29.17"/></ab>
+      <ab type="translation" xml:lang="en" xml:id="quote200-2">
+        <anchor xml:id="testimonia-200.en.1" corresp="#testimonia-200.grc.1"/>One Anatolius was foremost in the Senate of Ascalon. His daughter was married to a citizen of <placeName xml:lang="en">Caesarea</placeName> by the name of Mamilian, of illustrious family.<ab type="source" source="#bib200-2"/><idno type="CTS-URN"/><ref target="https://sourcebooks.fordham.edu/basis/procop-anec.asp#atwater"/></ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib200-1">

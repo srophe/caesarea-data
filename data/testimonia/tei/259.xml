@@ -270,13 +270,10 @@
             called Saronas, one between Caesarea and Joppa. The same information is recorded in the
             parallel passage at Jerome, Book of Places 163, written roughly one century after
             Eusebius’ work.</desc>
-      <ab type="edition" xml:lang="grc" xml:id="quote259-1" source="#bib259-1">
+      <ab type="edition" xml:lang="grc" xml:id="quote259-1">
         <anchor xml:id="testimonia-259.grc.1" corresp="#testimonia-259.en.1"/>Σαρῶν. Ἠσαΐας· “ἓλη ἐγένετο ὁ Σαρών”. καὶ νῦν δὲ καλεῖται Σαρωνᾶς ἡ ἀπὸ
-            τοῦ ὄρους Θαβὼρ ἐπὶ τὴν Τιβεριάδα λίμνην χώρα. καὶ ἄλλος ἐστὶ Σαρωνᾶς ἡ ἀπὸ <placeName>Καισαρείας</placeName> εἰς Ἰόππην χώρα.<note>Ed. Klosterman 1904 [cited by
-               page]</note>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
+            τοῦ ὄρους Θαβὼρ ἐπὶ τὴν Τιβεριάδα λίμνην χώρα. καὶ ἄλλος ἐστὶ Σαρωνᾶς ἡ ἀπὸ <placeName>Καισαρείας</placeName> εἰς Ἰόππην χώρα.<ab type="source" source="#bib259-1"/><idno type="CTS-URN"/><ref target=""/><note>Ed. Klosterman 1904 [cited by
+               page]</note></ab>
       <ab type="translation" xml:lang="en" xml:id="quote259-2">
         <anchor xml:id="testimonia-259.en.1" corresp="#testimonia-259.grc.1"/>Saron. Isaiah: “Saron became marshland.” Today the land from Mount
             Thabor to Lake Tiberias is called Saronas. A second Saronas is the land from <placeName>Caesarea</placeName> to Joppa.<note type="translation">Trans. J. L.

@@ -285,7 +285,7 @@
             historical toponymy. This story of the Cave of the Virgin along the coastal road between
             Caesarea and Athlit, undoubtedly a local folk tradition, is uniquely attested
             here.</desc>
-      <ab type="edition" xml:lang="la" xml:id="quote233-1" source="#bib233-1">
+      <ab type="edition" xml:lang="la" xml:id="quote233-1">
         <anchor xml:id="testimonia-233.la.1" corresp="#testimonia-233.en.1"/>(23) Redeuntes inde venimus iuxta Ramam, civitatem Ioseph, qui sepelivit
             Christum. (24) Et inde iuxta decem miliaria <placeName>Cesaream</placeName> Philippi,
             que est super mare. (25) Inde viginti miliaria ad Cacho castellum. (26) et inde
@@ -295,10 +295,7 @@
             iuxta in via, que venit de <placeName>Cesarea</placeName> Philippi, et quiesceret super
             lapidem, lapis quasi liquatus et per semet ipsum lectum et concavum se faciens
             occultavit puerum et Mariam et Ioseph, ut non viderent eos quidam insequentes et
-            volentes eos ledere, ut dicunt.<note type="textual">Ed. Laurent 1873</note>
-        <idno type="CTS-URN"/>
-        <ref target="https://babel.hathitrust.org/cgi/pt?id=hvd.32044019846799&amp;view=1up&amp;seq=125"/>
-      </ab>
+            volentes eos ledere, ut dicunt.<ab type="source" source="#bib233-1"/><idno type="CTS-URN"/><ref target="https://babel.hathitrust.org/cgi/pt?id=hvd.32044019846799&amp;view=1up&amp;seq=125"/><note type="textual">Ed. Laurent 1873</note></ab>
       <ab type="translation" xml:lang="en" xml:id="quote233-2">
         <anchor xml:id="testimonia-233.en.1" corresp="#testimonia-233.la.1"/>(23) Starting again from there (sc. Emmaus) we came to Rama, city of
             Joseph, who buried Christ. (24) And then after close to 10 miles (we came) to <placeName>Caesarea</placeName> Philippi, which is on the sea. (25) From there after

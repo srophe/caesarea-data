@@ -274,7 +274,7 @@
             voluminous writings at the Ecclesiastical Library in Caesarea during the 4th century.
             Here the author depends on the universal history written by Hesychius of Miletus roughly
             400 years earlier.</desc>
-         <ab type="edition" xml:lang="grc" xml:id="quote318-1" source="#bib318-1">
+         <ab type="edition" xml:lang="grc" xml:id="quote318-1">
         <anchor xml:id="testimonia-318.grc.1" corresp="#testimonia-318.en.1"/>Εὐσέβιος, ὁ Παμφίλου, προσκείμενος τῇ Ἀρειανικῇ αἱρέσει, ἐπίσκοπος
                <placeName>Καισαρείας τῆς Παλαιστίνης</placeName>, σπουδαῖος ἐν ταῖς θείαις γραφαῖς
             καὶ τῆς θείας βιβλιοθήκης ἅμα Παμφίλῳ τῷ μάρτυρι ἐπιμελέστατος ἀνιχνευτής. ἐξέδωκε πολλὰ
@@ -289,10 +289,8 @@
             Εὐσέβιος ὁ Παμφίλου: οὗτος ὁ Εὐσέβιος ἔγραψε καὶ πρὸς Μαρῖνον, ἐν ᾧ λέγει, ὅτι ἡ Χριστοῦ
             ἐκκλησία δύο βίους νομοθετεῖ καὶ τρόπους: τὸν μὲν ὑπερφυᾶ καὶ τῆς ἀνθρωπίνης πολιτείας
             ἐπέκεινα, οἷος ἐστὶν ὁ μοναδικός: τὸν δὲ ὑποβεβηκότα καὶ ἀνθρωπινώτερον, ὃς καὶ γάμοις
-            ὑποτίθεται συγκοινωνεῖν.<note type="textual">Ed. Adler 1931</note>
-        <idno type="CTS-URN">https://archive.org/details/adler-a.-suidae-lexicon-3-./Adler%20A.%2C%20Suidae%20Lexicon%202%20%28%CE%94-%CE%98%29/page/472/mode/2up
-            </idno>
-      </ab>
+            ὑποτίθεται συγκοινωνεῖν.<ab type="source" source="#bib318-1"/><idno type="CTS-URN">https://archive.org/details/adler-a.-suidae-lexicon-3-./Adler%20A.%2C%20Suidae%20Lexicon%202%20%28%CE%94-%CE%98%29/page/472/mode/2up
+            </idno><note type="textual">Ed. Adler 1931</note></ab>
          <ab type="translation" xml:lang="en" xml:id="quote318-2">
         <anchor xml:id="testimonia-318.en.1" corresp="#testimonia-318.grc.1"/>Eusebius, (called) son of Pamphilus, inclined to the Arian heresy,
             bishop of Caesarea Palestinae, zealous in the Divine Scriptures, and diligent researcher

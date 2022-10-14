@@ -322,7 +322,7 @@
             against mistreatment by the bishop Demetrius and his supporters, which Rufinus had
             quoted but misrepresented and misconstrued. This testimony sheds light on the
             controversial transition of Origen from Alexandria to Caesarea around 231 C.E.</desc>
-         <ab type="edition" xml:lang="la" xml:id="quote392-1" source="#bib392-1">
+         <ab type="edition" xml:lang="la" xml:id="quote392-1">
         <anchor xml:id="testimonia-392.la.1" corresp="#testimonia-392.en.1"/>Praemissa falsatione ab haereticis apostolorum et utriusque Clementis
             atque Dionysii, venit ad Origenem, et his verbis loquitur: “Ipsius hoc conquerentis et
             deplorantis scriptis ac vocibus probavimus. Quid enim ipse, cum adhuc esset in carne
@@ -333,12 +333,9 @@
             interpretans ut habetur in Graeco, nec id Latinis insinuans, quod ipse in suis litteris
             profitetur. Cumque ille tota epistula Demetrium Alexandrinae urbis pontificem laceret,
             et in totius orbis episcopos et clericos invehatur,et frustra ab Ecclesiis
-            excommunicatum esse se dicat, nec velle in maledictis referre vicem …<note type="textual">Ed. Migne 1883 </note>
-        <note type="textual">Ref. Lardet
-               1982</note>
-        <idno type="CTS-URN">https://archive.org/details/patrologiaecurs01goog/page/n236/mode/2up</idno>
-      </ab>
-         <ab type="translation" xml:lang="en" xml:id="quote392-2" source="#bib392-2">
+            excommunicatum esse se dicat, nec velle in maledictis referre vicem …<ab type="source" source="#bib392-1"/><idno type="CTS-URN">https://archive.org/details/patrologiaecurs01goog/page/n236/mode/2up</idno><note type="textual">Ed. Migne 1883 </note><note type="textual">Ref. Lardet
+               1982</note></ab>
+         <ab type="translation" xml:lang="en" xml:id="quote392-2">
         <anchor xml:id="testimonia-392.en.1" corresp="#testimonia-392.la.1"/>After this preface as to the falsification by heretics of the
             apostles, of both Clements, and of Dionysius, (Rufinus) comes to Origen. These are his
             words: “I have shown from (Origen’s) own writings and words how he himself complains of
@@ -351,10 +348,7 @@
             nor does he convey in Latin what Origen states in his own writing. The object of the
             whole letter is to savage Demetrius the pontiff of Alexandria, and to inveigh against
             bishops and clerics throughout the world, and to tell them that their excommunication of
-            him is invalid; and he says he does not wish to respond to their evil speech …<note type="translation">Adapted from Fremantle 1892 with ref. to Lardet 1983</note>
-        <idno type="CTS-URN"/>
-        <ref/>
-      </ab>
+            him is invalid; and he says he does not wish to respond to their evil speech …<ab type="source" source="#bib392-2"/><idno type="CTS-URN"/><ref/><note type="translation">Adapted from Fremantle 1892 with ref. to Lardet 1983</note></ab>
          <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib392-1">

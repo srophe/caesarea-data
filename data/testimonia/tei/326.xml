@@ -278,30 +278,24 @@
             at the end of which he delivered an eloquent valedictory lauding the integration of
             classical and Christian intellectualism. In this passage he describes in poetic terms
             how Origen captivated him and his brother and drew them under his tutelage.</desc>
-         <ab type="edition" xml:lang="grc" xml:id="quote326-1" source="#bib326-1">
+         <ab type="edition" xml:lang="grc" xml:id="quote326-1">
         <anchor xml:id="testimonia-326.grc.1" corresp="#testimonia-326.en.1"/>Ὁ δ’ ὑποδεξάμενος ἐξ ἡμέρας τῆς πρώτης, τῆς ὄντως ἐμοὶ πρώτης, τῆς
             τιμιωτάτης πασῶν, εἰ δεῖ λέγειν, ἡμερῶν, ὅτε μοι πρῶτον ὁ ἀληθινὸς ἀνατέλλειν ἥλιος
             ἤρξατο, πρῶτον μέν, ὥσπερ θῆράς τινας ἀγρίους ἢ ἰχθύας ἤ τινας ὄρνεις, ἐμπεσόντας μὲν
             εἰς τὰς ἄρκυς ἢ εἰς τὰς σαγήνας, ἐξολισθαίνειν δὲ καὶ ἀποδιδράσκειν πειρωμένους,
             ἀναχωρεῖν τε ἀπ’ αὐτοῦ βουλομένους ἐπὶ τὴν Βηρυτὸν ἢ ἐπὶ τὴν πατρίδα, συνδήσασθαι πάντα
             τρόπον ἐμηχανήσατο· πάντας λόγους στρέφων καὶ πάντα κάλων (τοῦτο δὴ τὸ τοῦ λόγου) κινῶν
-            καὶ πάσας τὰς δυνάμεις αὐτοῦ προχειριζόμενος … <note type="textual">Ed. Crouzel
-               1969</note>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
-         <ab type="translation" xml:lang="en" xml:id="quote326-2" source="#bib326-2">
+            καὶ πάσας τὰς δυνάμεις αὐτοῦ προχειριζόμενος …<ab type="source" source="#bib326-1"/><idno type="CTS-URN"/><ref target=""/><note type="textual">Ed. Crouzel
+               1969</note></ab>
+         <ab type="translation" xml:lang="en" xml:id="quote326-2">
         <anchor xml:id="testimonia-326.en.1" corresp="#testimonia-326.grc.1"/>And from the very first day (Origen) received us—which was truly my
             first day, the most precious of all days, if I may say, whereas then for the first time
             the true Sun began to rise upon me—at the start we, like some wild creatures of the
             field or fish or some birds that had fallen into the traps or nets, attempting to slip
             out again and escape, wanted to leave him for Beirut or our homeland. But he maneuvered
             in every way to tie us to him, contriving all kinds of arguments and moving all the
-            ropes (as the saying goes) and applying all his powers …<note type="translation">Adapted
-               from Salmond 1886</note>
-        <idno type="CTS-URN"/>
-        <ref target="https://ccel.org/ccel/schaff/anf06/anf06.iii.iii.iv.vi.html"/>
-      </ab>
+            ropes (as the saying goes) and applying all his powers …<ab type="source" source="#bib326-2"/><idno type="CTS-URN"/><ref target="https://ccel.org/ccel/schaff/anf06/anf06.iii.iii.iv.vi.html"/><note type="translation">Adapted
+               from Salmond 1886</note></ab>
          <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib326-1">

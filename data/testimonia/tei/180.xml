@@ -278,7 +278,7 @@
             manuscript in Norman French copied in England during the 15th century, provides copious
             detail concerning the sites between Acco and Ioppa. The passage on Caesarea describes
             sites in the city’s hinterland as well as in its immediate vicinity or interior.</desc>
-         <ab type="edition" xml:lang="fro" xml:id="quote180-1" source="#bib180-1">
+         <ab type="edition" xml:lang="fro" xml:id="quote180-1">
         <anchor xml:id="testimonia-180.fro.1" corresp="#testimonia-180.en.1"/>(1) Ki dritement veut aler en Ierusalem, primérement deit aler de Acre à
             Caïphas, en quel chemin à mayn senestre est la Montaigne de seynte Margarete de Carme,
             ki est à .iiij. liues de Acre. En l’un chef de la montagne est Franche vile, où seynt
@@ -329,14 +329,9 @@
             après de <placeName>Sesaire</placeName> l’om vet à Asur, un chastel le quel si est sur
             un tertre de roche un poi en sus de la mer, sur le sablum à nef liues de Sesaire. En sus
             ausi vers la montaigne est un liu mult perillus, ke l’om apele Roche talie, kar la
-            repeirent larrons e grant mal funt à pilrins e as autres.<note type="textual">Ed.
-               Michelant and Raynaud 1882</note>
-        <note type="discussion">Cambridge University Library, Gg VI, 28, folios 52a-57a</note>
-        <note type="corrigenda">Minor corr. J. L. Rife</note>
-        <idno type="CTS-URN"/>
-        <ref target="https://archive.org/details/itinrairesajrus00parigoog/page/n237/mode/2up"/>
-      </ab>
-         <ab type="translation" xml:lang="en" xml:id="quote180-2" source="#bib180-2">
+            repeirent larrons e grant mal funt à pilrins e as autres.<ab type="source" source="#bib180-1"/><idno type="CTS-URN"/><ref target="https://archive.org/details/itinrairesajrus00parigoog/page/n237/mode/2up"/><note type="textual">Ed.
+               Michelant and Raynaud 1882</note><note type="discussion">Cambridge University Library, Gg VI, 28, folios 52a-57a</note><note type="corrigenda">Minor corr. J. L. Rife</note></ab>
+         <ab type="translation" xml:lang="en" xml:id="quote180-2">
         <anchor xml:id="testimonia-180.en.1" corresp="#testimonia-180.fro.1"/>(1) Whoever wants to go to Jerusalem properly must first go from
             Acre to Caïphas. ON the road on the left is the mountain of St. Margaret of Carmel,
             which is 4 leagues from Acre. On one summit of the mountain is Freetown (Franche vile),
@@ -391,10 +386,7 @@
             Asur, a castle that stands on a rocky knoll a little above the sea, on the beach 9
             leagues from Caesarea. Up from there toward the mountain there is also a very dangerous
             place called Cut Rock (Roche talie), for there thieves convene and cause much harm to
-            pilgrims and others. <note type="translation">Rev. Pringle 2018</note>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
+            pilgrims and others.<ab type="source" source="#bib180-2"/><idno type="CTS-URN"/><ref target=""/><note type="translation">Rev. Pringle 2018</note></ab>
          <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib180-1">

@@ -280,7 +280,7 @@
             extended passage on Caesarea is noteworthy for Rorgo’s portrayal of a prosperous Early
             Islamic city, redolent with spices, and his digression on the ecology of crocodiles,
             insects, and snakes in the hinterland.</desc>
-      <ab type="edition" xml:lang="la" xml:id="quote310-1" source="#bib310-1">
+      <ab type="edition" xml:lang="la" xml:id="quote310-1">
         <anchor xml:id="testimonia-310.la.1" corresp="#testimonia-310.en.1"/>Vigesimo miliario ab Assur cοntra orientem Dor: ipsa est quam in honore
             Augusti Caesaris <placeName>Caesaream</placeName> nominavit Herodes, ubi et construxit
             albo de marmore portum, in qua Petrus baptizavit Cornelium, dοmο eius mutata in
@@ -314,14 +314,9 @@
             praedictis in fluminibus habere posset, a fratre suo, qui temporibus aestivis fluminea
             frequentabat balnea, forsitan perituro, regno suo permitteretur. Quod sic revera
             contigit, sicque solus maior regnavit.<lb/>Decimo miliario a <placeName>Caesarea</placeName> contra orientem Scariathias, a quo Iudas traditor
-            cognominatus est Scarioth.<note type="textual">Ed. de Vogüé 1860</note>
-        <note type="textual">Bibliothèque impériale, fonds Latin, 5129 (Paris, dated
-               1151-1157)</note>
-        <note type="discussion">Minor corr. J. L. Rife</note>
-        <idno type="CTS-URN"/>
-        <ref/>
-      </ab>
-      <ab type="translation" xml:lang="en" xml:id="quote310-2" source="#bib310-2">
+            cognominatus est Scarioth.<ab type="source" source="#bib310-1"/><idno type="CTS-URN"/><ref/><note type="textual">Ed. de Vogüé 1860</note><note type="textual">Bibliothèque impériale, fonds Latin, 5129 (Paris, dated
+               1151-1157)</note><note type="discussion">Minor corr. J. L. Rife</note></ab>
+      <ab type="translation" xml:lang="en" xml:id="quote310-2">
         <anchor xml:id="testimonia-310.en.1" corresp="#testimonia-310.la.1"/>Twenty miles from Assur toward the east is Dor, which Herod called <placeName>Caesarea</placeName> in honor Augustus Caesar. Here he also built a harbor
             out of white marble in which Peter baptized Cornelius and, when his house was changed
             into a church, ordained him bishop. Here rest four virgins prophetesses. They say that
@@ -356,11 +351,8 @@
             from the Νile for the rivers mentioned before, his brother, who regularly visited the
             river to bathe in the summertime, would perhaps be killed, and that he would obtain the
             kingdom. This very thing actually happened, and so the older brother became sole ruler.<lb/>Ten miles from <placeName>Caesarea</placeName> toward the east is Scariathias, from
-            which Judas the traitor was nicknamed Scarioth.<note type="translation">Trans. J. L.
-               Rife with ref. to MacPherson 1896</note>
-        <idno type="CTS-URN"/>
-        <ref/>
-      </ab>
+            which Judas the traitor was nicknamed Scarioth.<ab type="source" source="#bib310-2"/><idno type="CTS-URN"/><ref/><note type="translation">Trans. J. L.
+               Rife with ref. to MacPherson 1896</note></ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib310-1">

@@ -279,7 +279,7 @@
             journey east from Acre to the Sea of Galilee, then back to the coast, and south to
             Caesarea, Arsuf, Jaffa, and Ramla. He mixes observations on both the early Christian
             associations and the contemporary state of these communities.</desc>
-         <ab type="edition" xml:lang="la" xml:id="quote51-1" source="#bib51-1">
+         <ab type="edition" xml:lang="la" xml:id="quote51-1">
         <anchor xml:id="testimonia-51.la.1" corresp="#testimonia-51.en.1"/>(2) Et relinquentes ad sinistram Sareptam Iudae, ad cuius differentiam
             altera Sarepta, de qua vos supra expedivi, Sydoniorum est appellata, veniumus
                <placeName>Cesaream</placeName>. Haec non est Cesarea Philippi, sed
@@ -303,12 +303,9 @@
             nostris pace a paganis eis indulta inhabitari consuevit. Et distat a
                <placeName>Cesarea</placeName> unam dietam. (3) Illic ducatu nobis concesso
             relinquentes maritimam et incedentes versus meridiem transivimus terram verissime lacte
-            et melle fluentem, et peragravimus Rammam.<note type="textual">Ed. Pringle
-               2012</note>
-        <idno type="CTS-URN"/>
-        <ref/>
-      </ab>
-         <ab type="translation" xml:lang="en" xml:id="quote51-2" source="#bib51-2">
+            et melle fluentem, et peragravimus Rammam.<ab type="source" source="#bib51-1"/><idno type="CTS-URN"/><ref/><note type="textual">Ed. Pringle
+               2012</note></ab>
+         <ab type="translation" xml:lang="en" xml:id="quote51-2">
         <anchor xml:id="testimonia-51.en.1" corresp="#testimonia-51.la.1"/>Leaving to the left Sarepta of Judaea, which in distinction from the
             other Sarepta (I addressed it above) is called of the Sidonians, we came to
                <placeName>Caesarea</placeName>. This is not the Caesarea of Philip but the one of
@@ -335,11 +332,8 @@
             our people through a favor extended to them by those pagans. It is one day’s journey
             from <placeName>Caesarea</placeName>. (3) From there, after a guide was assigned to us,
             leaving the coast and advancing southwards, we passed over a land truly flowing with
-            milk and honey, and we wandered through Ramma.<note type="translation">Rev. Pringle
-               2018</note>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
+            milk and honey, and we wandered through Ramma.<ab type="source" source="#bib51-2"/><idno type="CTS-URN"/><ref target=""/><note type="translation">Rev. Pringle
+               2018</note></ab>
          <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib51-1">

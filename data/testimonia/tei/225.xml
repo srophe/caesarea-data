@@ -276,15 +276,12 @@
             century, one (A) longer and presumably closer to the original, and the other apparently
             an abbreviation (B). This important passage within the description of greater Syria
             attests to a magnificent Tetrapylon at Caesarea Maritima.</desc>
-      <ab type="edition" xml:lang="la" xml:id="quote225-1" source="#bib225-1">
+      <ab type="edition" xml:lang="la" xml:id="quote225-1">
         <anchor xml:id="testimonia-225.la.1" corresp="#testimonia-225.en.1"/>A) Iam etiam <placeName>Caesarea</placeName> civitas est similiter
             deliciosior et abundans omnibus et dispositione civitatis in multa eminens. Tetrapylon
             enim eius nominatur ubique, quod unum et novum aliquod spectaculum. B) Similiter et <placeName>Caesarea</placeName>, civitas deliciosissima, cuius tertrapilum nominatur
-            ubique, quod unum et novum spectaculum praebet.<note type="textual">Ed. Rougé
-               1966</note>
-        <idno type="CTS-URN"/>
-        <ref/>
-      </ab>
+            ubique, quod unum et novum spectaculum praebet.<ab type="source" source="#bib225-1"/><idno type="CTS-URN"/><ref/><note type="textual">Ed. Rougé
+               1966</note></ab>
       <ab type="translation" xml:lang="en" xml:id="quote225-2">
         <anchor xml:id="testimonia-225.en.1" corresp="#testimonia-225.la.1"/>A) Then there is <placeName>Caesarea</placeName>. It is more
             enjoyable and more prosperous than all other (cities), and in layout exceptional in many

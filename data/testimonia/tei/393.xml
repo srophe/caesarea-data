@@ -288,19 +288,16 @@
             experiences and observations after 20 years of traveling across the Abbasid empire and
             beyond. This passage from early in the treatise includes Caesarea among those cities he
             considers the best for living.</desc>
-         <ab type="edition" xml:lang="ar" xml:id="quote393-1" source="#bib393-1">
+         <ab type="edition" xml:lang="ar" xml:id="quote393-1">
         <anchor xml:id="testimonia-393.ar.1" corresp="#testimonia-393.en.1"/> فان سأل سائل اىّ البلدان أطيب نُظر فان كان ممَّن يطلب الدارين قيل له
             بيت المقدس وان كان مخلصَّا آمنا من الطمع قيل مكّة وان كان ممّن يطلب النعمة والحيازة
             والرخص والفواكه قيل له كلُّ بلد أجزاك والّا فعليك بخمسة أمصار دمشق والبصرة والرىّ وبخارا
             وبلخ أو بخمس مدائن <placeName>قيساريَّة</placeName> وباعيناثا وخجندة والدينور ونوقان أو
             بخمس نواح الصغد والصغانيان ونهاوند وجزيرة ابن عمر وسابور فاختر ما شئتَ منها فإنها
             مَنَازِه الإسلام، وامَّا الأندلس فيقال انها جنّات ومستفاض جنَّات الدنيا اربع غوطة دمشق
-            ونهر الأبلَّة وروضة الصغد وشعب بوَّان. <note type="textual">ed. de Goeje
-               1906</note>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
-         <ab type="translation" xml:lang="en" xml:id="quote393-2" source="#bib393-2">
+            ونهر الأبلَّة وروضة الصغد وشعب بوَّان.<ab type="source" source="#bib393-1"/><idno type="CTS-URN"/><ref target=""/><note type="textual">ed. de Goeje
+               1906</note></ab>
+         <ab type="translation" xml:lang="en" xml:id="quote393-2">
         <anchor xml:id="testimonia-393.en.1" corresp="#testimonia-393.ar.1"/>If someone asked, which land is the best? One responds, if he seeks
             two homes, then he should say Bayt al-Maqdis. If he is more virtuous than greedy, then
             he should say Makka. If he is one seeking blessings and possessions, cheapness and
@@ -310,11 +307,8 @@
             districts—Ṣughd, Ṣaghāniyān, Nahāwand, Jazīrat Ibn ʿUmar, and Sābūr. Choose any of these
             places, for they are beautiful lands of Islam. As for al-Andalus, one says that it is a
             paradise. But the abundant paradises of the world are four: the Ghūṭa of Dimashq, the
-            river of Ubulla, the meadows of Ṣughd, and the valley of Bawwān. <note type="translation">Trans. T. Marashi with ref. to Ranking and Azoo 1906 and Collins
-               1994 </note>
-        <idno type="CTS-URN"/>
-        <ref/>
-      </ab>
+            river of Ubulla, the meadows of Ṣughd, and the valley of Bawwān.<ab type="source" source="#bib393-2"/><idno type="CTS-URN"/><ref/><note type="translation">Trans. T. Marashi with ref. to Ranking and Azoo 1906 and Collins
+               1994 </note></ab>
          <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib393-1">

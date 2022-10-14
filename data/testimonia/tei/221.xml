@@ -274,7 +274,7 @@
             and the second describing pious visits to churches and hospices in Acre that can reduce
             the Christian’s soul’s stay in purgatory (i.e., indulgences). The work begins abruptly
             with this passage on the coastal route from Acre to Jaffa.</desc>
-      <ab type="edition" xml:lang="fro" xml:id="quote221-1" source="#bib221-1">
+      <ab type="edition" xml:lang="fro" xml:id="quote221-1">
         <anchor xml:id="testimonia-221.fro.1" corresp="#testimonia-221.en.1"/>Ces sunt le pelrinages communes, que crestiens fount en la Seinre Terre.
             De la vyle de Acres à Seym Elye: iiij. liwes; de cele terre, e de la Cave Seynt Elye à
             la Carme, .j. liwe; e de la Carme à Seint Iohan de Tyr .i. liwe. Là yl y a une vile de
@@ -284,14 +284,10 @@
             fitz, pur doute des Gyws. E de ileqe à Nostre Dame de Marreis .iij. liwes: là Nostre
             Dame se reposa. E d’yleoque à <placeName>Cesarie</placeName>.j. liwe. E de yleqe à
             Iaphet .xij. liwes: là est un peron qe wn apele le Peroun Seint Iak, e une chapele où
-            seint Abakuc soleint meindre.<note type="textual">Ed. Michelant and Raynaud
-               1882</note>
-        <note type="textual">British Library, Harl. 2253, folios
-               68b-70b</note>
-        <idno type="CTS-URN"/>
-        <ref target="https://archive.org/details/itinrairesjrusa00michgoog/page/n251/mode/2up"/>
-      </ab>
-      <ab type="translation" xml:lang="en" xml:id="quote221-2" source="#bib221-2">
+            seint Abakuc soleint meindre.<ab type="source" source="#bib221-1"/><idno type="CTS-URN"/><ref target="https://archive.org/details/itinrairesjrusa00michgoog/page/n251/mode/2up"/><note type="textual">Ed. Michelant and Raynaud
+               1882</note><note type="textual">British Library, Harl. 2253, folios
+               68b-70b</note></ab>
+      <ab type="translation" xml:lang="en" xml:id="quote221-2">
         <anchor xml:id="testimonia-221.en.1" corresp="#testimonia-221.fro.1"/>These are the common pilgrimages that Christians make in the Holy
             Land. From the town of Acre to St. Elias is four leages; from that place and from the
             Cave of St. Elias to the Carmel(ite Monastery) is one league; and from the Carmel(ite
@@ -302,10 +298,7 @@
             Jews. And from there to Our Lady of the Marsh is three Leagues; there Our Lady rested.
             And from there to <placeName>Caesarea</placeName> is one league. And from ther to Iaphet
             is twelve leagues: there is a stone called the Stone of St. James, and a chapel where
-            Habukkuk used to live.<note type="translation">Adapted from Pringle 2018</note>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
+            Habukkuk used to live.<ab type="source" source="#bib221-2"/><idno type="CTS-URN"/><ref target=""/><note type="translation">Adapted from Pringle 2018</note></ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib221-1">

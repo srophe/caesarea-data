@@ -272,29 +272,23 @@
             Staatsbibliothek, Vienna 3529 and Bell Library, University of Minnesota 1424/Co. In this
             passage Dietrich describes his itinerary south down the old Palestinian coast, providing
             characteristic details of the settled landscape.</desc>
-      <ab type="edition" xml:lang="la" xml:id="quote224-1" source="#bib224-1">
+      <ab type="edition" xml:lang="la" xml:id="quote224-1">
         <anchor xml:id="testimonia-224.la.1" corresp="#testimonia-224.en.1"/>Sequitur ultra quatuor miliaria Accaron sive Ptolemaida et postea
             Cayphas nova atque vetusta ultra miliaria tria. Deinde etiam ultra miliaria sex <placeName>Cesarea Palestine</placeName>, ab Herode rege cum adiacente portu
             insigniter exstructa, itemque ultra XIIII miliaria Ioppe sive Iafis cum portu propter
             australis venti flatum naufragoso, post hec nichilominus in ordine Gaza sive Gazara et
             civitas munitissima Ascalona, de quibus omnibus supradictum est: hee omnes civitates
-            maritime sunt et omnes magne atque murate sunt.<note type="textual">Ed. Huygens
-               1994</note>
-        <idno type="CTS-URN"/>
-        <ref/>
-      </ab>
-      <ab type="translation" xml:lang="en" xml:id="quote224-2" source="#bib224-2">
+            maritime sunt et omnes magne atque murate sunt.<ab type="source" source="#bib224-1"/><idno type="CTS-URN"/><ref/><note type="textual">Ed. Huygens
+               1994</note></ab>
+      <ab type="translation" xml:lang="en" xml:id="quote224-2">
         <anchor xml:id="testimonia-224.en.1" corresp="#testimonia-224.la.1"/>Four miles further comes Accaron or Ptolemaïs, and three miles
             further Old and New Cayphas. Then sixteen miles further is <placeName>Caesarea
                Palestinae</placeName>, splendidly built by King Herod along with the adjoining
             harbor. And fourteen miles further is Joppa or Jafis, with a harbor full of shipwrecks
             because of southerly gales. After these in order are Gaza or Gazara and the very strong
             fortress of Ascalona, all of which have been described already. All these cities are on
-            the sea coast, and all are large and enclosed by walls.<note type="translation">Adapted
-               from Stewart 1896</note>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
+            the sea coast, and all are large and enclosed by walls.<ab type="source" source="#bib224-2"/><idno type="CTS-URN"/><ref target=""/><note type="translation">Adapted
+               from Stewart 1896</note></ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib224-1">

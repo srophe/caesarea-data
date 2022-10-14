@@ -278,7 +278,7 @@
             manuscript in Old Provençal copied during the 14th century, provides copious detail
             concerning the sites between Acco and Ioppa. The passage on Caesarea describes sites in
             the city’s hinterland as well as in its immediate vicinity or interior.</desc>
-         <ab type="edition" xml:lang="fro" xml:id="quote179-1" source="#bib179-1">
+         <ab type="edition" xml:lang="fro" xml:id="quote179-1">
         <anchor xml:id="testimonia-179.fro.1" corresp="#testimonia-179.en.1"/>Ces ssont les chamins qui droytament vuet aler de la cité d’Acre en
             Iherusalem e les pelerinarges de los sains e les luoqs qui sont en la droyte vie. (1)
             Qui droytemenc vuet aler en Iherusalem, ci voie en tele manieyra come ilh est en cest
@@ -317,13 +317,9 @@
                <placeName>Sezaire</placeName> ad Arssuf y a .ij. lieuas, le quel chastieu sét .j.
             petit près de la mer ssur .j. tertre de ssablon, lequel chastieu est de l’Ospital, au
             quel chamin par sessus ssiét Roche talliée &amp; .j. mauvays pays, &amp; là sse
-            aubergent males gens aucune ssois por tallier le chamin à ceaus qui vont à Iaphe.<note type="textual">Ed. Michelant and Raynaud 1882</note>
-        <note type="textual">Bibliotheca
-               Apostolica Vaticana 3136, folios 19-25</note>
-        <idno type="CTS-URN"/>
-        <ref target="https://archive.org/details/itinrairesajrus00parigoog/page/n227/mode/2up"/>
-      </ab>
-         <ab type="translation" xml:lang="en" xml:id="quote179-2" source="#bib179-2">
+            aubergent males gens aucune ssois por tallier le chamin à ceaus qui vont à Iaphe.<ab type="source" source="#bib179-1"/><idno type="CTS-URN"/><ref target="https://archive.org/details/itinrairesajrus00parigoog/page/n227/mode/2up"/><note type="textual">Ed. Michelant and Raynaud 1882</note><note type="textual">Bibliotheca
+               Apostolica Vaticana 3136, folios 19-25</note></ab>
+         <ab type="translation" xml:lang="en" xml:id="quote179-2">
         <anchor xml:id="testimonia-179.en.1" corresp="#testimonia-179.fro.1"/>These are the ways that should rightly lead from Acre to Jerusalem
             and the pilgrimages of the saints and the places that are on the right road. (1) Whoever
             wants to go to Jerusalem will see how to here, as it is set out in this document. First
@@ -363,13 +359,9 @@
                <placeName>Caesarea</placeName> to Arssuf is 2 leagues. The castle stands close to
             the sea on a sandy knoll and belongs to the Hospital. On the road above stands Cut Rock
             (Roche talliée), a bad place where evil people encamp from time to time to cut off the
-            road to those going to Iaphe.<note type="translation">Rev. Pringle 2018</note>
-        <note type="discussion">Pringle (2018, pp. 41, 211 n. 16) identifies the “baron of the
+            road to those going to Iaphe.<ab type="source" source="#bib179-2"/><idno type="CTS-URN"/><ref target=""/><note type="translation">Rev. Pringle 2018</note><note type="discussion">Pringle (2018, pp. 41, 211 n. 16) identifies the “baron of the
                kingdom” (baron dou roiaume) as John Laleman, who last held Caesarea before its fall
-               to Baybars in 1265.</note>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
+               to Baybars in 1265.</note></ab>
          <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib179-1">

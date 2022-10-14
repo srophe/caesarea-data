@@ -275,7 +275,7 @@
             In this passage the author records the persecutions of Decius and ends with death of
             Decius and his son at Abirtus (250/1 C.E.), noting in particular the martyrdoms of
             Pionius at Smyrna and Alexander of Jerusalem at Caesarea.</desc>
-      <ab type="edition" xml:lang="grc" xml:id="quote249-1" source="#bib249-1">
+      <ab type="edition" xml:lang="grc" xml:id="quote249-1">
         <anchor xml:id="testimonia-249.grc.1" corresp="#testimonia-249.en.1"/>Καὶ ἐν Σμύρνῃ τῆς Ἀσίας Πιόνιος σὺν ἄλλοις πολλοῖς ἐμαρτύρησεν, ἀνὴρ
             λόγιος καὶ τῶν ἐν μαθήμασιν τοῦ χριστιανῶν λόγου διαπρεπόντων γνωριζόμενος, ἐπὶ Πρόκλου
             Κυϊντιλλιανοῦ ἀνθυπάτου τῆς Ἀσίας πρὸ δʹ ἰδῶν μαρτίων, ὅ ἐστι κατὰ Ἀσιανοὺς μηνὶ ἕκτῳ
@@ -287,10 +287,7 @@
             Κιρκησίου κάστρου, πρὸς τὸ ποιῆσαι γενεάν, διὰ τοὺς βαρβάρους Σαρακηνούς. ὁμοίως δὲ ἀπὸ
             τῆς ξηρᾶς Λιβύης ἤγαγεν ἑρπετὰ ἰοβόλα καὶ φοβερὰ ἀῤῥενοθήλεα, καὶ ἀπέλυσεν εἰς τὸ τῆς
             Αἰγύπτου λίμιτον διὰ τοὺς Νομάδας καὶ Βλεμμύας Βαρβάρους· καὶ διὰ τοῦτο γράφουσιν αὐτὸν
-            ἑστῶτα μεταξὺ λεόντων καὶ ἀσπίδων.<note type="textual">Ed. Dindorf 1832</note>
-        <idno type="CTS-URN"/>
-        <ref/>
-      </ab>
+            ἑστῶτα μεταξὺ λεόντων καὶ ἀσπίδων.<ab type="source" source="#bib249-1"/><idno type="CTS-URN"/><ref/><note type="textual">Ed. Dindorf 1832</note></ab>
       <ab type="translation" xml:lang="en" xml:id="quote249-2">
         <anchor xml:id="testimonia-249.en.1" corresp="#testimonia-249.grc.1"/>And in Smyrna in Asia, Pionius along with many others died as a
             martyr, a man of the Word and one recognized among those distinguished in the Christian

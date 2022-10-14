@@ -277,16 +277,13 @@
             Rome as a celebrated scholar later in his career. In his grammatical treatise on
             spelling, Herodian cited the toponym Caesarea (Καισάρεια) as an example of a particular
             word-formation, as he does elsewhere.</desc>
-         <ab type="edition" xml:lang="grc" xml:id="quote214-1" source="#bib214-1">
+         <ab type="edition" xml:lang="grc" xml:id="quote214-1">
         <anchor xml:id="testimonia-214.grc.1" corresp="#testimonia-214.en.1"/>Τὰ διὰ τοῦ -εια ἐπὶ πόλεων προπαροξύτονα θηλυκὰ δίφθογγον ἔχει οἷον
             Ἀλεξάνδρεια, Ἀπάμεια, <placeName>Καισάρεια</placeName>, Ἀντιόχεια, Θέσπεια· τὸ δὲ
             ὀξυτόνως λεγόμενον Θεσπιά διὰ τοῦ -ι· τὰ δὲ ἐπὶ χώρας ὄντα διὰ τοῦ -ι γράφεται καὶ
             παροξύνεται, Λυκία, Πισιδία, Κιλικία, Σικελία, Παφλαγονία, Ἀρμενία, Συρία, Καππαδοκία,
-            Ἰταλία, Ἀσία, Θεσσαλία, Βοιωτία, Βιθυνία, Ἰτουρία.<note>Ed. Lentz 1868 [cited by
-               page-line]</note>
-            <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg0087.tlg011.1st1K-grc1:2.2.4.127</idno>
-            <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg0087.tlg011.1st1K-grc1:2.2.4.127"/>
-      </ab>
+            Ἰταλία, Ἀσία, Θεσσαλία, Βοιωτία, Βιθυνία, Ἰτουρία.<ab type="source" source="#bib214-1"/><idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg0087.tlg011.1st1K-grc1:2.2.4.127</idno><ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg0087.tlg011.1st1K-grc1:2.2.4.127"/><note>Ed. Lentz 1868 [cited by
+               page-line]</note></ab>
          <ab type="translation" xml:lang="en" xml:id="quote214-2">
         <anchor xml:id="testimonia-214.en.1" corresp="#testimonia-214.grc.1"/>Feminine proparoxytone nouns for cities in -eia have a diphthong,
             e.g., Alexandreia, Apameia, <placeName>Kaisareia</placeName>, Antiocheia, Thespeia.

@@ -277,7 +277,7 @@
             an abbreviation (B). This passage explains the sources of entertainment (delectabile) in
             different cities across greater Syria, including chariot racing and pantomimes at
             Caesarea Maritima.</desc>
-      <ab type="edition" xml:lang="la" xml:id="quote227-1" source="#bib227-1">
+      <ab type="edition" xml:lang="la" xml:id="quote227-1">
         <anchor xml:id="testimonia-227.la.1" corresp="#testimonia-227.en.1"/>A) Quoniam autem oportet et singula earum describere, quid ad singulas
             civitates delectabile esse potest, et hoc dicere necessarium est. Habes ergo Antiochiam
             quidem in omnibus delectabilibus abundantem, maxime autem circensibus. Omnia autem
@@ -290,10 +290,7 @@
             quibus loquimur habeant delectabile. Habes ergo Antiochiam in ludis circensibus
             eminentem, similiter et Laodiciam et Tyrum et Berytum et <placeName>Caesaream</placeName>. Et Laodicia mittit aliis civitatibus agitatores
             optimos, Tyrus et Berytus mimarios, <placeName>Caesarea</placeName> pantomimos,
-            Heliopolis choraulas, Gaza pammacarios, Ascalon athletas luctatores, Castabala pyctas.<note type="textual">Ed. Rougé 1966</note>
-        <idno type="CTS-URN"/>
-        <ref/>
-      </ab>
+            Heliopolis choraulas, Gaza pammacarios, Ascalon athletas luctatores, Castabala pyctas.<ab type="source" source="#bib227-1"/><idno type="CTS-URN"/><ref/><note type="textual">Ed. Rougé 1966</note></ab>
       <ab type="translation" xml:lang="en" xml:id="quote227-2">
         <anchor xml:id="testimonia-227.en.1" corresp="#testimonia-227.la.1"/>A) Since we should also describe their peculiarities, it is
             necessary also to say what there is for entertainment in individual cities. So you have

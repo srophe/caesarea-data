@@ -286,7 +286,7 @@
             letter, Origen encapsulates the program of his school at Caesarea. He exhorts Gregory to
             study Greek philosophy, music, literature, oratory, and science in order to perfect his
             understanding of Christian thought and scripture.</desc>
-         <ab type="edition" xml:lang="grc" xml:id="quote330-1" source="#bib330-1">
+         <ab type="edition" xml:lang="grc" xml:id="quote330-1">
         <anchor xml:id="testimonia-330.grc.1" corresp="#testimonia-330.en.1"/>Χαῖρε ἐν θεῷ, κύριέ μου σπουδαιότατε καὶ αἰδεσιμώτατε υἱὲ Γρηγόριε, παρὰ
             Ὠριγένους.<lb/>Ἡ εἰς σύνεσιν, ὡς οἶσθα, εὐφυΐα ἔργον φέρειν δύναται ἄσκησιν προσλαβοῦσα,
             ἄγον ἐπὶ τὸ κατὰ τὸ ἐνδεχόμενον, ἵν’ οὕτως ὀνομάσω, τέλος ἐκείνου, ὅπερ ἀσκεῖν τις
@@ -297,11 +297,8 @@
             γενέσθαι ἐγκύκλια μαθήματα ἢ προπαιδεύματα, καὶ τὰ ἀπὸ γεωμετρίας καὶ ἀστρονομίας
             χρήσιμα ἐσόμενα εἰς τὴν τῶν ἱερῶν γραφῶν διήγησιν· ἵν’, ὅπερ φασὶ φιλοσόφων παῖδες περὶ
             γεωμετρίας καὶ μουσικῆς γραμματικῆς τε καὶ ῥητορικῆς καὶ ἀστρονομίας, ὡς συνερίθων
-            φιλοσοφίᾳ, τοῦθ’ἡμεῖς εἴπωμεν καὶ περὶ αὐτῆς φιλοσοφίας πρὸς χριστιανισμόν.<note type="textual">Ed. Koetschau 1894</note>
-        <idno type="CTS-URN"/>
-        <ref target="https://archive.org/details/desgregoriosthau00greg/page/40/mode/2up"/>
-      </ab>
-         <ab type="translation" xml:lang="en" xml:id="quote330-2" source="#bib330-2">
+            φιλοσοφίᾳ, τοῦθ’ἡμεῖς εἴπωμεν καὶ περὶ αὐτῆς φιλοσοφίας πρὸς χριστιανισμόν.<ab type="source" source="#bib330-1"/><idno type="CTS-URN"/><ref target="https://archive.org/details/desgregoriosthau00greg/page/40/mode/2up"/><note type="textual">Ed. Koetschau 1894</note></ab>
+         <ab type="translation" xml:lang="en" xml:id="quote330-2">
         <anchor xml:id="testimonia-330.en.1" corresp="#testimonia-330.grc.1"/>Greetings in God, most excellent and reverend lord, son Gregory,
             from Origen.<lb/>A natural talent for understanding, as you know, bestows on one the
             ability, through diligent practice, to pursue activity that leads to the fullest
@@ -314,11 +311,8 @@
             geometry and astronomy that would be useful for interpreting the Holy Scriptures. And
             so, just as the children of philosophers say that geometry and music, grammar and
             rhetoric, and astronomy are ancillary to philosophy, we say that philosophy is ancillary
-            to Christianity.<note type="translation">Trans. J. L. Rife with ref. to Menzies
-               1899</note>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
+            to Christianity.<ab type="source" source="#bib330-2"/><idno type="CTS-URN"/><ref target=""/><note type="translation">Trans. J. L. Rife with ref. to Menzies
+               1899</note></ab>
          <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib330-1">

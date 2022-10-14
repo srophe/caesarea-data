@@ -276,7 +276,7 @@
             inhabitants, alongside usual observations concerning the historical landscape. In this
             passage that concludes the work, he outlines the episcopal structure of the Patriarchate
             of Jerusalem, noting the jurisdiction of the archbishopric of Caesarea.</desc>
-      <ab type="edition" xml:lang="la" xml:id="quote269-1" source="#bib269-1">
+      <ab type="edition" xml:lang="la" xml:id="quote269-1">
         <anchor xml:id="testimonia-269.la.1" corresp="#testimonia-269.en.1"/>(11) Patriarche sunt quatuor: primus Constantinopolitanus, secundus
             Alexandrinus, tsertius Antiochenus, quartus Iherosolomitanus. (12) Item patriarcha
             Jerosolimitanus quatuor sub se habet archiepiscopos: primum in provincia Palestina: <placeName>Cesariensem</placeName>, (13) qui supra modum pinguis, cum vidi eum. (14)
@@ -286,13 +286,9 @@
             (19) Tirrenus quatuor habet suffraganeos: Acconensem, Sydoniensem, Beritensem, et illum,
             qui est de Cesarea Philippi. (20) Nazarenus unum habet suffraganeum: episcopum
             Tyberiensem. (21) Habet eciam patriarcha istos episcopos, nullo mediante:
-            Bethleemitanum, Liddeum et illum de Ebron.<note type="textual">Ed. Laurent
-               1873</note>
-        <note type="textual">Codex Hamburgensis 143b</note>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
-      <ab type="translation" xml:lang="en" xml:id="quote269-2" source="#bib269-2">
+            Bethleemitanum, Liddeum et illum de Ebron.<ab type="source" source="#bib269-1"/><idno type="CTS-URN"/><ref target=""/><note type="textual">Ed. Laurent
+               1873</note><note type="textual">Codex Hamburgensis 143b</note></ab>
+      <ab type="translation" xml:lang="en" xml:id="quote269-2">
         <anchor xml:id="testimonia-269.en.1" corresp="#testimonia-269.la.1"/>(11) There are four patriarchs: first that of Constantinople, second
             that of Alexandria, third that of Antioch, fourth that of Jerusalem. (12) Likewise the
             patriarch of Jerusalem has under him four archbishops: first in the province of
@@ -303,10 +299,7 @@
             St. John the Baptist is buried. (19) The archbishop of Tyre has four suffragans: the
             bishops of Acco, Sydon, Beritus, and Caesarea Philippi. (20) The archbishop of Nazareth
             has one suffragan: the bishop of Tyberias. (21) The patriarch also has the following
-            bishops, with no intermediary: those of Bethlehem, Lidda, and Hebron.<note type="translation">Rev. from Pringle 2018</note>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
+            bishops, with no intermediary: those of Bethlehem, Lidda, and Hebron.<ab type="source" source="#bib269-2"/><idno type="CTS-URN"/><ref target=""/><note type="translation">Rev. from Pringle 2018</note></ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib269-1">

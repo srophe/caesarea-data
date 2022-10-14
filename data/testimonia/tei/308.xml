@@ -276,16 +276,13 @@
             fully on the account of Adomnán, the abbot of Iona who had visited his monastery a few
             years earlier, and this passage was copied by Peter the Deacon, who wrote his Holy Place
             some 450 years later.</desc>
-         <ab type="edition" xml:lang="la" xml:id="quote308-1" source="#bib308-1">
+         <ab type="edition" xml:lang="la" xml:id="quote308-1">
         <anchor xml:id="testimonia-308.la.1" corresp="#testimonia-308.en.1"/>Circa Hierusalem aspera ac montuosa cernuntur loca. Hinc quoque
             septemtrionem versus usque Arimathiam terra petrosa et aspera per intervalla quaedam
             monstratur, valles quoque spinosae usque ad Thamnicam regionem patentes. Ad
                <placeName>Caesaream vero Palestinae</placeName> ab Aelia quamvis aliqua reperriantur
             angusta et brevia aspera loca, praecipue tamen planities camporum interpositis olivetis.
-            Distant autem LXXV milibus passuum. <note type="textual">Ed. Fraipont 1965</note>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
+            Distant autem LXXV milibus passuum.<ab type="source" source="#bib308-1"/><idno type="CTS-URN"/><ref target=""/><note type="textual">Ed. Fraipont 1965</note></ab>
          <ab type="translation" xml:lang="en" xml:id="quote308-2">
         <anchor xml:id="testimonia-308.en.1" corresp="#testimonia-308.la.1"/>Around Jerusalem one sees that the land is rough and mountainous.
             From there to the north up to Arimathia the terrain proves to be rocky and rough in

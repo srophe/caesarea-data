@@ -270,15 +270,12 @@
             called Saronas, one between Caesarea and Joppa. The same information is recorded in the
             parallel passage at Eusebius, Dictionary of Place Names 162, written roughly one century
             before Jerome’s work.</desc>
-      <ab type="edition" xml:lang="la" xml:id="quote294-1" source="#bib294-1">
+      <ab type="edition" xml:lang="la" xml:id="quote294-1">
         <anchor xml:id="testimonia-294.la.1" corresp="#testimonia-294.en.1"/>Saron, cuius et Esaias meminit dicens “in paludes versus est Saron.”
             usque in praesentem autem diem regio inter montem Thabor et stagnum Tiberiadis Saronas
             appellatur. sed et a <placeName>Caesarea Palaestinae</placeName> usque ad oppidum Ioppe
-            omnis terra quae cernitur, dicitur Saronas.<note type="textual">Ed. Klosterman
-               1904</note>
-        <idno type="CTS-URN"/>
-        <ref target="urn:cts:greekLit:tlg2018.tlg011.opp-lat1:18"/>
-      </ab>
+            omnis terra quae cernitur, dicitur Saronas.<ab type="source" source="#bib294-1"/><idno type="CTS-URN"/><ref target="urn:cts:greekLit:tlg2018.tlg011.opp-lat1:18"/><note type="textual">Ed. Klosterman
+               1904</note></ab>
       <ab type="translation" xml:lang="en" xml:id="quote294-2">
         <anchor xml:id="testimonia-294.en.1" corresp="#testimonia-294.la.1"/>Saron, which Isaiah also mentioned, saying, “Saron turned into
             swamp.” Even up to the present day the region between Mount Thabor and Lake Tiberias is

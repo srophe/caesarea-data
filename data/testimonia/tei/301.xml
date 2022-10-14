@@ -276,7 +276,7 @@
             Jaffa to Constantinople, where it ends abruptly. In this remarkable passage, Saewulf
             tells how the three ships transporting him and other pilgrims to Cyprus from Jaffa were
             threatened by an Arab flotilla in the waters off Haifa and Akko on May 20, 1103.</desc>
-      <ab type="edition" xml:lang="la" xml:id="quote301-1" source="#bib301-1">
+      <ab type="edition" xml:lang="la" xml:id="quote301-1">
         <anchor xml:id="testimonia-301.la.1" corresp="#testimonia-301.en.1"/>Perscrutatis etenim singulis Ierosolimitane urbis finiumque suarum
             sanctuariis pro posse nostro atque adoratis, die Pentecostes repatriandi causa Ioppen
             navim ascendimus, sed Sarracenorum metu per altum pelagus Adriatici maris, ut venimus,
@@ -303,12 +303,9 @@
             petierunt maris: sic illa die ab inimicis sui gratia eripuit nos dominus. Nostrates
             autem de Ioppen postea de eisdem navibus tres detinuerunt et spoliis illorum divites
             facti sunt. Nos etenim, iuxta Syriam Palestinam prout potuimus velificantes, post octo
-            dies ad Portum Sancti Andreae in insula Cipros appulimus …<note type="textual">Ed.
-               Huygens 1994</note>
-        <idno type="CTS-URN"/>
-        <ref/>
-      </ab>
-      <ab type="translation" xml:lang="en" xml:id="quote301-2" source="#bib301-2">
+            dies ad Portum Sancti Andreae in insula Cipros appulimus …<ab type="source" source="#bib301-1"/><idno type="CTS-URN"/><ref/><note type="textual">Ed.
+               Huygens 1994</note></ab>
+      <ab type="translation" xml:lang="en" xml:id="quote301-2">
         <anchor xml:id="testimonia-301.en.1" corresp="#testimonia-301.la.1"/>After we had thoroughly investigated every one of the sanctuaries of
             the city of Jerusalem and its confines as far as we could, and we had paid our
             devotions, we boarded a ship at Joppa on the day of Pentecost to return home. Out of
@@ -337,10 +334,7 @@
             Lord by His grace deliver us that day from our enemies. But our people from Joppa
             afterwards captured three of those same ships and enriched themselves with their spoil.
             We sailed as close as we could along the coast of Syria and Palestine, and after eight
-            days they landed at the Port of St. Andrew on the island of Cyprus …<note type="translation">Rev. from Clifton 1896</note>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
+            days they landed at the Port of St. Andrew on the island of Cyprus …<ab type="source" source="#bib301-2"/><idno type="CTS-URN"/><ref target=""/><note type="translation">Rev. from Clifton 1896</note></ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib301-1">

@@ -277,7 +277,7 @@
             chronicle (810-814 C.E.), by the major Syriac historians (end of the 8th and late 12th
             centuries), and by Constantine VII Porphyrogenitus in his historical excerpts on
             political plots (ca. 930-955 C.E.).</desc>
-      <ab type="edition" xml:lang="grc" xml:id="quote244-1" source="#bib244-1">
+      <ab type="edition" xml:lang="grc" xml:id="quote244-1">
         <anchor xml:id="testimonia-244.grc.1" corresp="#testimonia-244.en.1"/>Μηνὶ Ἰουλίῳ ἰνδικτιῶνος δʹ στασιάσαντες οἱ Σαμαρεῖται καὶ οἱ Ἰουδαῖοι ἐν
             Καισαρείᾳ Παλαιστίνης, ποιήσαντες τὸ ἓν εἰς ἀλλήλους ὡς ἐν τάξει μερικῶν ἐπῆλθον τοῖς
             χριστιανοῖς τῆς αὐτῆς πόλεως καὶ πολλοὺς κατέσφαξαν τῶν χριστιανῶν. ἐπῆλθον δὲ καὶ
@@ -289,15 +289,11 @@
             γενόμενα καὶ τὸν φόνον τοῦ αὐτοῦ Στεφάνου. ὅστις Ἀμάντιος δεξάμενος ἀποκρίσεις βασιλικὰς
             καὶ ἀπελθὼν ἐν Καισαρείᾳ, καὶ ἀναζητήσας τοὺς πεποιηκότας τοὺς φόνους καὶ εὑρών, τοὺς
             μὲν ἐφούρκισεν, ἑτέρους δὲ ἀπεκεφάλισε καὶ ἄλλους ἐδεξιοκόπησε καί τινας ἐδήμευσε· καὶ
-            ἐγένετο φόβος μέγας ἐν τῇ πόλει Καισαρείας καὶ ἐν τοῖς ἀνατολικοῖς μέρεσι.<note type="textual">Ed. Thurn 2000</note>
-        <note type="textual">Thurn’s text of this passage
+            ἐγένετο φόβος μέγας ἐν τῇ πόλει Καισαρείας καὶ ἐν τοῖς ἀνατολικοῖς μέρεσι.<ab type="source" source="#bib244-1"/><idno type="CTS-URN"/><ref target=""/><note type="textual">Ed. Thurn 2000</note><note type="textual">Thurn’s text of this passage
                gives the reading of Codex Boccianus 182 at Oxford (12th century), which varies
                throughout from the parallel passage at Constantine Porphyrogenitus, Plots
-               173.13-29.</note>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
-      <ab type="translation" xml:lang="en" xml:id="quote244-2" source="#bib244-2">
+               173.13-29.</note></ab>
+      <ab type="translation" xml:lang="en" xml:id="quote244-2">
         <anchor xml:id="testimonia-244.en.1" corresp="#testimonia-244.grc.1"/>In the month of July of the fourth indication, the Samaritans and
             Jews in Caesarea of Palestine staged a revolt. Combining into a faction, they attacked
             the Christians of the city and killed many of them. They attacked and plundered the
@@ -310,10 +306,7 @@
             Caesarea, Amantios searched for and found those who had committed the murders. He hanged
             some, beheaded others, cut off the right hands of others, and confiscated the property
             of others. And there was great fear in the city of Caesarea and the eastern
-               regions.<note type="translation">Adapted from Jeffreys et al. 2017</note>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
+               regions.<ab type="source" source="#bib244-2"/><idno type="CTS-URN"/><ref target=""/><note type="translation">Adapted from Jeffreys et al. 2017</note></ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib244-1">
