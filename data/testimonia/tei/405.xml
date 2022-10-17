@@ -244,6 +244,15 @@
                     <catDesc>A "toponymic testimonium" contains a toponymic epithet related to the conceptual place Caeseara Maritima or its environs. When a "direct testimonium" also contain a "toponymic testimonium", the testimonium is marked as belonging to both types. These two types do not always overlap and thus our data set also includes "toponymic testimonia" which are not "direct testimonia".</catDesc>
                 </category> 
             </taxonomy>
+           <taxonomy xml:id="CM-Language-Usage">
+             <desc>The <title>Caesarea-Maritima.org Language Usage</title> taxonomy describes how language codes applied to individual testimonia records should be interpreted. These are used in the <att>ana</att> attributes in the elements found in the <gi>langUsage</gi>.</desc>
+             <category xml:id="caesarea-language-of-original">
+               <catDesc>The original language of a testimonia's composition, which may differ from the linguistic expression recorded in the testimonia record. For example, Severus of Antioch's Letters were originally composed in Greek but survive only in an ancient Syriac translation. The testimonia representing the Syriac version of Severus's Letters would use this category to record the original language, Greek</catDesc>
+             </category>
+             <category xml:id="caesarea-language-of-testimonia">
+               <catDesc>The linguistic expression recorded in this particular testimonia record, which may differ from the original language of composition. For example, Severus of Antioch's Letters were originally composed in Greek but survive only in an ancient Syriac translation. The testimonia representing the Syriac version of Severus's Letters would use this category to record the language, Syriac</catDesc>
+             </category>
+           </taxonomy>
          </classDecl>
       </encodingDesc>
       <profileDesc>
@@ -252,9 +261,10 @@
          </abstract>
          <creation>This entry is taken from <title xml:lang="en" type="uniform" level="m">Letter to Stephen the Reader</title> <ref n="a" target="#bib405-1">8.1 [Book 7, Letter 392]</ref> written by <persName ref="https://viaf.org/viaf/31142837/" role="author">Severus of
                Antioch</persName> in <origDate notBefore="0513" notAfter="0518" period="#byzantine">513-518 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/658381">Antioch</origPlace>.</creation>
-         <langUsage>
-            <language ident="grc">Ancient Greek</language>
-         </langUsage>
+        <langUsage>
+          <language ana="#caesarea-language-of-testimonia" ident="syr">Syriac</language>
+          <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>
+        </langUsage>
          <textClass>
             <classCode scheme="https://distributed-text-services.github.io/specifications">
                <idno type="CTS-URN"/>
