@@ -284,14 +284,14 @@
             Stephen who inquired about the practice of public reading of lives of the saints.
             Severus mentions a number of hagiographic texts and current locations where such texts are received
             and read by churches within the miaphysite or Non-Chalcedonian communion. The reading of <title>The Life of Pamphilus of Caesarea</title> in <foreign>Caesarea Maritima</foreign> is mentioned as one example. Although not specified in the text, this life may be the lost <title>Vita</title> written by Eusebius of Caesarea.</desc>
-         <ab type="edition" xml:lang="grc" xml:id="quote405-1">
-        <anchor xml:id="testimonia-405.grc.1" corresp="#testimonia-405.en.1"/>ܕܡܬ̣ܩܪܝܢ ܕܝܢ ܐܦ ܒܥܕ̈ܬܐ ܩܘ̈ܠܣܐ ܗ̇ܢܘܢ ܕܩܕܝ̈ܫ܆ ܣܗ̇ܕ ܡ̇ܢ ܡܐܡܪܗ ܕܚܟܝܡܐ ܒܣܝܠܝܘܣ ܗ̇ܘ ܕܥܠ ܐܪ̈ܒܥܝܢ ܣܗ̈ܕܐ܇ ܕܡܬܩܪܐ ܠܥܡܐ ܒܗ̇ܝ ܕܒܪ̈ܘܛܐܝܐ܆ ܐܦ ܗ̇ܘ ܕܝܢ ܕܩܕܝܫܐ ܦܐܡܦܝܠܘܣ܇ ܘܒܗ̇ ܘܒ<placeName>ܗ̇ܝ ܕܩܣܪ̈ܝܐ܇ ܗ̇ܝ ܕܐܝܬܝܗ̇ ܡܝܛܪܦܘܠܝܣ ܕܦܠܝܣܛܝܢܐ ܗ̇ܝ ܩܕܡܝܬܐ</placeName>.<ab type="source" source="#bib405-1"/><idno type="CTS-URN"/><ref target=""/><note type="discussion">The numbering of Severus's <title>Letters</title> remains to be untangled by
+         <ab type="edition" xml:lang="syr" xml:id="quote405-1">
+        <anchor xml:id="testimonia-405.syr.1" corresp="#testimonia-405.en.1"/>ܕܡܬ̣ܩܪܝܢ ܕܝܢ ܐܦ ܒܥܕ̈ܬܐ ܩܘ̈ܠܣܐ ܗ̇ܢܘܢ ܕܩܕܝ̈ܫ܆ ܣܗ̇ܕ ܡ̇ܢ ܡܐܡܪܗ ܕܚܟܝܡܐ ܒܣܝܠܝܘܣ ܗ̇ܘ ܕܥܠ ܐܪ̈ܒܥܝܢ ܣܗ̈ܕܐ܇ ܕܡܬܩܪܐ ܠܥܡܐ ܒܗ̇ܝ ܕܒܪ̈ܘܛܐܝܐ܆ ܐܦ ܗ̇ܘ ܕܝܢ ܕܩܕܝܫܐ ܦܐܡܦܝܠܘܣ܇ ܘܒܗ̇ ܘܒ<placeName>ܗ̇ܝ ܕܩܣܪ̈ܝܐ܇ ܗ̇ܝ ܕܐܝܬܝܗ̇ ܡܝܛܪܦܘܠܝܣ ܕܦܠܝܣܛܝܢܐ ܗ̇ܝ ܩܕܡܝܬܐ</placeName>.<ab type="source" source="#bib405-1"/><idno type="CTS-URN"/><ref target=""/><note type="discussion">The numbering of Severus's <title>Letters</title> remains to be untangled by
                scholars. This letter is the first letter of section VIII in the Syriac translation.
                The Syriac text mentions that the letter was previously "the 392nd letter from the
                7th book" likely referring to the Greek collection. The dating of this letter to
                Severus' episcopacy is also from a note found in the Syriac translation.</note></ab>
          <ab type="translation" xml:lang="en" xml:id="quote405-2">
-        <anchor xml:id="testimonia-405.en.1" corresp="#testimonia-405.grc.1"/>That the praises of the saints are also read in churches is
+        <anchor xml:id="testimonia-405.en.1" corresp="#testimonia-405.syr.1"/>That the praises of the saints are also read in churches is
             witnessed by the discourse of the wise Basil on the forty martyrs, which is read to the
             people in the [city] of the people of Berytus. Also that [<foreign>vita</foreign>] of
             the holy Pamphilus [is read], both there and in <placeName>the [city] of the Caesareans,
