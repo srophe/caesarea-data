@@ -240,7 +240,13 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Weights and Measures</title> <ref target="#bib338-1">18.506-518</ref> written by <persName ref="http://viaf.org/viaf/13651211" role="author">Epiphanius</persName> in <origDate notBefore="" notAfter="" period="#">NaN CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m"
+               >Weights and Measures</title>
+            <ref target="#bib338-1">18.506-518</ref> written by <persName
+               ref="http://viaf.org/viaf/13651211" role="author">Epiphanius</persName> in <origDate
+               notBefore="" notAfter="" period="#">0392 CE</origDate>. This work was likely written
+            in <origPlace ref="https://pleiades.stoa.org/places/520998"
+            >Constantinople</origPlace>.</creation>
          <langUsage>
             <language ident="grc">Ancient Greek</language>
          </langUsage>
@@ -267,45 +273,47 @@
             365-367 C.E., a post he held until his death in 403 C.E. Apart from his staunch defense
             of Orthodoxy, he was also a renowned scholar. At the invitation of the emperors he wrote
             a compendium of linguistic, historical, metrological, geographical knowledge that was
-            later entitled On Weights and Measures (Περὶ μέτρων καὶ στάθμων). It survives in a
-            complete, earlier Syriac version and a fragmentary, later Greek version. In this passage
-            from the Greek version on the reign of Decius, Epiphanius discusses the career of
-            Origen.</desc>
+            later entitled <title>On Weights and Measures</title> (Περὶ μέτρων καὶ στάθμων). It
+            survives in a complete, earlier Syriac version and a fragmentary, later Greek version.
+            In this passage from the Greek version on the reign of Decius, Epiphanius discusses the
+            career of Origen.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote338-1" source="#bib338-1">
-        <anchor xml:id="testimonia-338.grc.1" corresp="#testimonia-338.en.1"/>Τοῦτον διεδέξατο Δέκιος καὶ ἐβασίλευσεν ἐνιαυτὸν ἕνα καὶ μῆνας γʹ. Ἐν
-            τοῖς χρόνοις Δεκίου Ὠριγένης ἐγνωρίζετο ἀπὸ χρόνων Δεκίου ἀκμάσας ἕως χρόνων Γαλιήνου
-            καὶ Οὐολουσιανοῦ καὶ ἐπέκεινα. Ἐπὶ δὲ τοῦ διωγμοῦ τοῦ προειρημένου Δεκίου γεγονότος
-            ἐμαρτύρησε Βαβύλας μὲν ἐν Ἀντιοχείᾳ, Φλαβιανὸς δὲ ἐπὶ Ῥώμης, Ἀλέξανδρος ἐπίσκοπος
-            Ἱεροσολύμων ἐν Καισαρείᾳ. Καὶ αὐτὸς δὲ Ὠριγένης ὁ καὶ Ἀδαμάντιος κληθεὶς πολλὰ πεπονθὼς
-            εἰς τέλος τοῦ μαρτυρίου οὐκ ἔφθασεν. Ἐλθὼν δὲ εἰς Καισάρειαν τὴν Στράτωνος καὶ διατρίψας
-            εἰς Ἱεροσόλυμα χρόνον ὀλίγον, εἶτα ἐλθὼν εἰς Τύρον ἐπὶ ἔτη κηʹ, ὡς ὁ λόγος ἔχει, τὴν μὲν
-            πολιτείαν ἐνησκεῖτο, τὰς δὲ γραφὰς ἡρμήνευσεν, ὅτε καὶ τὰ ἑξαπλᾶ καὶ τὰς δύο τῶν
-            ἑβραϊκῶν σελίδας ἄντικρυ ἐκ παραλλήλου μιᾶς ἑρμηνείας πρὸς τὴν ἑτέραν συνέθηκεν ἑξαπλᾶ
-            τὰς βίβλους ὀνομάσας, καθ’ ἅπερ ἄνω διὰ πλάτους εἴρηται.<note type="textual">Ed.
-               Moutsoulas 1973</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
+            <anchor xml:id="testimonia-338.grc.1" corresp="#testimonia-338.en.1"/>Τοῦτον διεδέξατο
+            Δέκιος καὶ ἐβασίλευσεν ἐνιαυτὸν ἕνα καὶ μῆνας γʹ. Ἐν τοῖς χρόνοις Δεκίου Ὠριγένης
+            ἐγνωρίζετο ἀπὸ χρόνων Δεκίου ἀκμάσας ἕως χρόνων Γαλιήνου καὶ Οὐολουσιανοῦ καὶ ἐπέκεινα.
+            Ἐπὶ δὲ τοῦ διωγμοῦ τοῦ προειρημένου Δεκίου γεγονότος ἐμαρτύρησε Βαβύλας μὲν ἐν
+            Ἀντιοχείᾳ, Φλαβιανὸς δὲ ἐπὶ Ῥώμης, Ἀλέξανδρος ἐπίσκοπος Ἱεροσολύμων ἐν
+               <placeName>Καισαρείᾳ</placeName>. Καὶ αὐτὸς δὲ Ὠριγένης ὁ καὶ Ἀδαμάντιος κληθεὶς
+            πολλὰ πεπονθὼς εἰς τέλος τοῦ μαρτυρίου οὐκ ἔφθασεν. Ἐλθὼν δὲ εἰς <placeName>Καισάρειαν
+               τὴν Στράτωνος</placeName> καὶ διατρίψας εἰς Ἱεροσόλυμα χρόνον ὀλίγον, εἶτα ἐλθὼν εἰς
+            Τύρον ἐπὶ ἔτη κηʹ, ὡς ὁ λόγος ἔχει, τὴν μὲν πολιτείαν ἐνησκεῖτο, τὰς δὲ γραφὰς
+            ἡρμήνευσεν, ὅτε καὶ τὰ ἑξαπλᾶ καὶ τὰς δύο τῶν ἑβραϊκῶν σελίδας ἄντικρυ ἐκ παραλλήλου
+            μιᾶς ἑρμηνείας πρὸς τὴν ἑτέραν συνέθηκεν ἑξαπλᾶ τὰς βίβλους ὀνομάσας, καθ’ ἅπερ ἄνω διὰ
+            πλάτους εἴρηται.<note type="textual">Ed. Moutsoulas 1973</note>
+            <note type="discussion"/>
+            <note type="corrigenda"/>
+            <idno type="CTS-URN"/>
+            <ref target=""/>
+         </ab>
          <ab type="translation" xml:lang="en" xml:id="quote338-2" source="#bib338-2">
-        <anchor xml:id="testimonia-338.en.1" corresp="#testimonia-338.grc.1"/>Decius succeeded this one (sc. Philip the Arab) and ruled for one
-            year and three months. In the time of Decius Origen grew famous, flourishing from the
-            reign of Decius until the reigns of Gallienus and Volusianus and their successors.
-            During the persecution of the aforementioned Decius, Babylas was martyred in Antioch,
-            Flavianus in Rome, and Alexander the bishop of Jerusalem in Caesarea. Origen himself,
-            called the Man of Steel, suffered many things but did not reach the end of his life in
-            martyrdom. After he came to Straton’s Caesarea and spent a short time in Jerusalem, he
-            went to Tyre. For 28 years, so the story goes, he devoted himself to an ascetic regimen
-            and translated the Scriptures. He compiled six columns (of Greek text) opposite two
-            columns of Hebrew (text), one translation facing opposite the other, calling the books
-            Hexapla, just as has been fully related above.<note type="translation">Trans. J. L.
-               Rife</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
+            <anchor xml:id="testimonia-338.en.1" corresp="#testimonia-338.grc.1"/>Decius succeeded
+            this one (sc. Philip the Arab) and ruled for one year and three months. In the time of
+            Decius Origen grew famous, flourishing from the reign of Decius until the reigns of
+            Gallienus and Volusianus and their successors. During the persecution of the
+            aforementioned Decius, Babylas was martyred in Antioch, Flavianus in Rome, and Alexander
+            the bishop of Jerusalem in <placeName>Caesarea</placeName>. Origen himself, called the
+            Man of Steel, suffered many things but did not reach the end of his life in martyrdom.
+            After he came to <placeName>Straton’s Caesarea</placeName> and spent a short time in
+            Jerusalem, he went to Tyre. For 28 years, so the story goes, he devoted himself to an
+            ascetic regimen and translated the Scriptures. He compiled six columns (of Greek text)
+            opposite two columns of Hebrew (text), one translation facing opposite the other,
+            calling the books <placeName>Hexapla</placeName>, just as has been fully related
+               above.<note type="translation">Trans. J. L. Rife</note>
+            <note type="discussion"/>
+            <note type="corrigenda"/>
+            <idno type="CTS-URN"/>
+            <ref target=""/>
+         </ab>
          <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib338-1">

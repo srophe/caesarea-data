@@ -247,7 +247,7 @@
           <idno type="CTS-URN"/>
         </classCode>
         <catRef scheme="#CM-Testimonia-Type" target="#direct"/>
-        <catRef scheme="#CM-NEAEH" target="#earlyRoman #herodian #lateRoman #byzantine"/>
+        <catRef scheme="#CM-NEAEH" target="#earlyRoman #lateRoman #byzantine"/>
       </textClass>
     </profileDesc>
     <revisionDesc status="draft">
@@ -285,14 +285,14 @@
         <ref target="https://archive.org/details/devirisinlustri00jerogoog/page/n67/mode/2up"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote285-2" source="#bib285-2">
-        <anchor xml:id="testimonia-285.en.1" corresp="#testimonia-285.la.1"/>Matthew, also known as Levi, a tax-farmer who became an apostle,
-            wrote the gospel of Christ at first published in Judaea in Hebrew for the sake of
-            circumcised believers; someone later translated it into Greek, but the authorship is
-            uncertain. Moreover, the Hebrew itself has been preserved until the present day in the
-            Library at <placeName>Caesarea</placeName> which Pamphilus the Martyr so diligently
-            assembled. I have also been able to have the book described to me by the Nazarenes in
-            Beroea, a city in Syria, who use it.<note type="translation">Adapted from Schaff 1892
-               and Halton 1999</note>
+        <anchor xml:id="testimonia-285.en.1" corresp="#testimonia-285.la.1"/>Matthew, also known as
+        Levi, a tax-farmer who became an Apostle, wrote the gospel of Christ at first published in
+        Judaea in Hebrew for the sake of circumcised believers; someone later translated it into
+        Greek, but the authorship is uncertain. Moreover, the Hebrew itself has been preserved until
+        the present day in the Library at <placeName>Caesarea</placeName> which Pamphilus the Martyr
+        so diligently assembled. I have also been able to have the book described to me by the
+        Nazarenes in Beroea, a city in Syria, who use it.<note type="translation">Adapted from
+          Schaff 1892 and Halton 1999</note>
         <note type="discussion"/>
         <note type="corrigenda"/>
         <idno type="CTS-URN"/>

@@ -238,7 +238,12 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Letters</title> <ref target="#bib299-1">119.6</ref> written by <persName role="author" ref="http://viaf.org/viaf/309472433">Jerome</persName> in <origDate notBefore="" notAfter="" period="#">NaN CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m"
+          >Letters</title>
+        <ref target="#bib299-1">119.6</ref> written by <persName role="author"
+          ref="http://viaf.org/viaf/309472433">Jerome</persName> in <origDate notBefore=""
+          notAfter="" period="#">0406</origDate>. This work was likely written in <origPlace
+          ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</creation>
       <langUsage>
         <language ident="la">Latin</language>
       </langUsage>
@@ -265,32 +270,35 @@
         </quote>,  and <quote>
           <placeName>Caesarea</placeName>
         </quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/309472433">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Letters</title> <ref target="#bib299-1">119.6</ref>. This passage was written circa <origDate notBefore="" notAfter="" period="#">NaN CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</desc>
-      <desc type="context">Among the voluminous correspondence of St. Jerome is this letter,
-            which he wrote to Minervius and Alexander, two monks in Toulouse (Roman Tolosa). They
-            had asked him to analyze several scriptural passages and he replied with commentary on
-            two, the first being I Corinthians 15:51. On the topic Jerome quotes from Acacius, the
-            controversial bishop of Caesarea during the mid-4th century.</desc>
+      <desc type="context">Among the voluminous correspondence of St. Jerome is this letter, which
+        he wrote to Minervius and Alexander, two monks in Toulouse (Roman
+        <foreign>Tolosa</foreign>). They had asked him to analyze several scriptural passages and he
+        replied with commentary on two, the first being <title>I Corinthians</title> 15:51. On the
+        topic Jerome quotes from Acacius, the controversial bishop of Caesarea during the mid-4th
+        century.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote299-1" source="#bib299-1">
-        <anchor xml:id="testimonia-299.la.1" corresp="#testimonia-299.en.1"/>Acacius, <placeName>Caesareae</placeName>, quae prius Turris Stratonis
-            vocabatur, post Eusebium Pamphili episcopus, in quarto Συμμίκτων ζητημάτων libro
-            proponens sibi hanc eandem quaestionem latius disputavit et utrumque suscipiens, quod
-            inter se videtur esse contrarium, post principium, quod omisimus, sic locutus est:
-            “dicamus primum de eo, quod magis in plurimis codicibus invenitur: ecce mysterium dico
-            vobis: omnes quidem dormiemus, non omnes autem inmutabimur. …”<note type="textual">Ed.
-               Hilberg and Slovak 1996</note>
+        <anchor xml:id="testimonia-299.la.1" corresp="#testimonia-299.en.1"/>Acacius,
+          <placeName>Caesareae</placeName>, quae prius <placeName>Turris Stratonis</placeName>
+        vocabatur, post Eusebium Pamphili episcopus, in quarto Συμμίκτων ζητημάτων libro proponens
+        sibi hanc eandem quaestionem latius disputavit et utrumque suscipiens, quod inter se videtur
+        esse contrarium, post principium, quod omisimus, sic locutus est: “dicamus primum de eo,
+        quod magis in plurimis codicibus invenitur: ecce mysterium dico vobis: omnes quidem
+        dormiemus, non omnes autem inmutabimur. …”<note type="textual">Ed. Hilberg and Slovak
+          1996</note>
         <note type="discussion"/>
         <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote299-2" source="#bib299-2">
-        <anchor xml:id="testimonia-299.en.1" corresp="#testimonia-299.la.1"/>Acacius, who after Eusebius Pamphili was bishop of <placeName>Caesarea</placeName>, which was formerly called Strato’s Tower, in
-            Miscellaneous Questions 4 posed this same question to himself and debated it rather
-            extensively. Looking unfavorably on both options, which he considered opposites, after
-            the first part, which we have left out, he spoke as follows: “Let’s talk first about the
-            subject found in many books: Behold I speak to you of a mystery! Indeed we shall all
-            sleep, but we shall not all be changed. …"<note type="translation">Trans. J. L.
-               Rife</note>
+        <anchor xml:id="testimonia-299.en.1" corresp="#testimonia-299.la.1"/>Acacius, who after
+        Eusebius Pamphili was bishop of <placeName>Caesarea</placeName>, which was formerly called
+          <placeName>Strato’s Tower</placeName>, in <title>Miscellaneous Questions</title> 4 posed
+        this same question to himself and debated it rather extensively. Looking unfavorably on both
+        options, which he considered opposites, after the first part, which we have left out, he
+        spoke as follows: “Let’s talk first about the subject found in many books: Behold I speak to
+        you of a mystery! Indeed we shall all sleep, but we shall not all be changed. …"<note
+          type="translation">Trans. J. L. Rife</note>
         <note type="discussion"/>
         <note type="corrigenda"/>
         <idno type="CTS-URN"/>

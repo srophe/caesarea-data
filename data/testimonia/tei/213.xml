@@ -273,19 +273,20 @@
          <desc type="context">Matthew Paris was an English historian, cartographer, and Benedictine
             monk who lived at St. Albans Abbey in Hertfordshire from 1217 until his death in ca.
             1259. He wrote a massive history of the world from the Creation to his own lifetime in
-            three volumes (Chronica maiora), continuing his predecessor’s work at the Abbey. In the
-            front of the volumes he inserted pairs of facing foldout maps that were essentially
-            similar but with slight variations. Each left map shows the trip from England to
-            southern Italy, while each right map shows the Holy Land with a large central scene of
-            Acre. The maps, which Matthew apparently created himself, contain vivid illustrations
-            and detailed captions with historical and geographic information in medieval French and
-            Latin. The double map from volumes I-III surives in four versions (A-D): A (London BL MS
-            Landsdowne 253, fols. 230v-231r) is a later copy of B; B (London BL MS Roy. 14.C.vii,
-            fols. 4v-5r) comes from an original volume III; C (Cambridge, Corpus Christi MS 26,
-            fols. 3v-4r) comes from an original volume I; and D (Cambridge, Corpus Christi MS 16,
-            fols. 2v-5r) comes from an original volume II. The maps in volumes I and III show a
-            small a castle with corner towers identified as Caesarea (“Cesaire”) in a line of
-            fortified cities along the coast between Haifa and Damietta.</desc>
+            three volumes (<title>Chronica maiora</title>), continuing his predecessor’s work at the
+            Abbey. In the front of the volumes he inserted pairs of facing foldout maps that were
+            essentially similar but with slight variations. Each left map shows the trip from
+            England to southern Italy, while each right map shows the Holy Land with a large central
+            scene of Acre. The maps, which Matthew apparently created himself, contain vivid
+            illustrations and detailed captions with historical and geographic information in
+            medieval French and Latin. The double map from volumes I-III surives in four versions
+            (A-D): A (London BL MS Landsdowne 253, fols. 230v-231r) is a later copy of B; B (London
+            BL MS Roy. 14.C.vii, fols. 4v-5r) comes from an original volume III; C (Cambridge,
+            Corpus Christi MS 26, fols. 3v-4r) comes from an original volume I; and D (Cambridge,
+            Corpus Christi MS 16, fols. 2v-5r) comes from an original volume II. The maps in volumes
+            I and III show a small a castle with corner towers identified as "Caesarea"
+               (<foreign>Cesaire</foreign>) in a line of fortified cities along the coast between
+            Haifa and Damietta.</desc>
          <ab type="edition" xml:lang="fro" xml:id="quote213-1" source="#bib213-1">
         <anchor xml:id="testimonia-213.fro.1" corresp="#testimonia-213.en.1"/>A-B: Kaifas—Chastel Pelerin—<placeName>Cesaire</placeName>—Iafes: a le
             chemin de Iafes à Ierusalem—Escaloine—Le Darun—Damiette C: Kaifas—Chastel

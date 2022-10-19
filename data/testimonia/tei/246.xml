@@ -238,7 +238,12 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Easter Chronicle</title> <ref target="#bib246-1">366.15-367.5</ref> written by <persName role="author">Unknown</persName> in <origDate notBefore="" notAfter="" period="#">NaN CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Easter
+          Chronicle</title>
+        <ref target="#bib246-1">366.15-367.5</ref> written by <persName role="author"
+          >Unknown</persName> in <origDate notBefore="" notAfter="" period="#">0630</origDate>. This
+        work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998"
+          >Constantinople</origPlace>.</creation>
       <langUsage>
         <language ident="grc">Ancient Greek</language>
       </langUsage>
@@ -247,7 +252,7 @@
           <idno type="CTS-URN"/>
         </classCode>
         <catRef scheme="#CM-Testimonia-Type" target="#direct"/>
-        <catRef scheme="#CM-NEAEH" target="#earlyRoman #herodian #byzantine"/>
+        <catRef scheme="#CM-NEAEH" target="#earlyRoman #herodian"/>
       </textClass>
     </profileDesc>
     <revisionDesc status="draft">
@@ -269,15 +274,15 @@
         </quote>,  and <quote>
           <placeName>Strato’s Tower</placeName>
         </quote> are directly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Easter Chronicle</title> <ref target="#bib246-1">366.15-367.5</ref>. This passage was written circa <origDate notBefore="" notAfter="" period="#">NaN CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
-      <desc type="context">The so-called Easter Chronicle (Chronicon Paschale) is a universal
-            history from the Creation down to the later reign of Heraclius, when it was composed,
-            based an amalgam of biblical, Christian, and secular sources. While the work shows a
-            particular interest in the dating of religious festivals, it contains a wealth of
-            historical and geographic information. Like other chronographic works in the Byzantine
-            tradition—John Malalas before and Theophanes the Confessor and George Syncellus
-            after—the Easter Chronicle is organized annalistically with successive entries by year.
-            In this passage the author cites Herod’s building activities at Jerusalem and Caesarea
-            Maritima.</desc>
+      <desc type="context">The so-called <title>Easter Chronicle</title> (<title>Chronicon
+          paschale</title>) is a universal history from the Creation down to the later reign of
+        Heraclius, when it was composed, based on an amalgam of biblical, Christian, and secular
+        sources. While the work shows a particular interest in the dating of religious festivals, it
+        contains a wealth of historical and geographic information. Like other chronographic works
+        in the Byzantine tradition—John Malalas before and Theophanes the Confessor and George
+        Syncellus after—the <title>Easter Chronicle</title> is organized annalistically with
+        successive entries by year. In this passage the author cites Herod’s building activities at
+        Jerusalem and Caesarea Maritima.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote246-1" source="#bib246-1">
         <anchor xml:id="testimonia-246.grc.1" corresp="#testimonia-246.en.1"/>Ἰνδ. αʹ. κϛʹ. ὑπ. Λίβωνος καὶ Πίσωνος. Ἡρώδης ἐν Ἱεροσολύμοις νεὼν λύσας
             μείζονα οἰκοδόμησεν. ρϟαʹ Ὀλυμπιάς. Ἰνδ. βʹ. κζʹ. ὑπ. Κράσσου καὶ Λεντούλου. Ἰνδ. γʹ.
@@ -290,14 +295,14 @@
         <ref/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote246-2" source="#bib246-2">
-        <anchor xml:id="testimonia-246.en.1" corresp="#testimonia-246.grc.1"/>Indiction 1. Year 25. Consuls Libo and Piso. [15 B.C.] Herod
-            demolished the Temple in Jerusalem and built it bigger. Olympiad 192 Indiction 2. Year
-            26. Consuls Crassus and Lentulus. [14 B.C.] Indiction 3. Year 27. Consuls Nero and
-            Clarus. [13 B.C.] Indiction 4. Year 29. Consulship of Messala and Quirinius. [12 B.C.]
-            Herod founded <placeName>Caesarea</placeName> in the name of Caesar Augustus, the place
-            previously called <placeName>Strato’s Tower</placeName>. The same man also refounded
-            Anthedon and called it Agrippeia as well as Persabine in the name of his own father
-               Antipater.<note type="translation">Trans. J. L. Rife</note>
+        <anchor xml:id="testimonia-246.en.1" corresp="#testimonia-246.grc.1"/>Indiction 1. Year 25.
+        Consuls Libo and Piso. [15 B.C.] Herod demolished the Temple in Jerusalem and built it
+        bigger. Olympiad 192 Indiction 2. Year 26. Consuls Crassus and Lentulus. [14 B.C.] Indiction
+        3. Year 27. Consuls Nero and Clarus. [13 B.C.] Indiction 4. Year 29. Consulship of Messala
+        and Quirinius. [12 B.C.] Herod founded <placeName>Caesarea</placeName> in the name of Caesar
+        Augustus, the place previously called <placeName>Strato’s Tower</placeName>. The same man
+        also refounded Anthedon and called it Agrippeia as well as Persabine in the name of his own
+        father Antipater.<note type="translation">Trans. J. L. Rife</note>
         <note type="discussion"/>
         <note type="corrigenda"/>
         <idno type="CTS-URN"/>

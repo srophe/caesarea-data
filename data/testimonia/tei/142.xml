@@ -241,8 +241,12 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:greekLit:tlg3389.tlg001" type="uniform" level="m">De viris illustribus</title>
-        <ref target="#bib142-1">113</ref> written by <persName ref="http://viaf.org/viaf/95147024 " role="author">Jerome</persName> in <origDate period="#byzantine" when="0392">392 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:greekLit:tlg3389.tlg001"
+          type="uniform" level="m">Illustrious Men</title>
+        <ref target="#bib142-1">113</ref> written by <persName ref="http://viaf.org/viaf/95147024 "
+          role="author">Jerome</persName> in <origDate period="#byzantine" when="0392">0392
+          0393</origDate>. This work was likely written in <origPlace
+          ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</creation>
       <langUsage>
         <language ident="la">Latin</language>
       </langUsage>
@@ -251,12 +255,13 @@
           <idno xml:base="" type="CTS-URN">urn:cts:greekLit:tlg3389.tlg001:113</idno>
         </classCode>
         <catRef scheme="#CM-Testimonia-Type" target=""/>
-        <catRef scheme="#CM-NEAEH" target=""/>
+        <catRef scheme="#CM-NEAEH" target="#byzantine"/>
       </textClass>
     </profileDesc>
     <revisionDesc status="published">
-      <change who="https://caesarea-maritima.org/documentation/editors.xml#wpotter" when="2020-06-10-05:00">ADDED: testimonium ID, URNs, URLs to edition and translation, and Bibl URIs</change>
-      <change who="https://caesarea-maritima.org/documentation/editors.xml#wpotter" when="2020-06-10-05:00">CREATED: testimonium</change>
+      <change who="jrife" when="2020-06-10-05:00">ADDED: testimonium ID, URNs, URLs to edition and
+        translation, and Bibl URIs</change>
+      <change who="jrife" when="2020-06-10-05:00">CREATED: testimonium</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -270,42 +275,56 @@
         </quote>,  and <quote>
           <placeName xml:lang="en">at Cæsarea,</placeName>
         </quote> are place names attested in <persName ref="http://viaf.org/viaf/95147024 " role="author">Jerome</persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg3389.tlg001" type="uniform" level="m">De viris illustribus</title> 113. This testimonium was written circa <origDate period="#byzantine" when="0392">392 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</desc>
-      <desc type="context"/>
-      <ab type="edition" xml:lang="la" xml:id="quote142-1" source="#bib142-1">
-        <anchor xml:id="testimonia-142.la.1" corresp="#testimonia-142.en.1"/>Euzoius apud Thespesium rhetorem cum Gregorio, Nazianzeno episcopo, adulescens <placeName xml:lang="la">Caesareae</placeName> eruditus est, et eiusdem postea urbis episcopus plurimo labore corruptam iam bibliothecam Origenis et Pampbili in membranis instaurare conatus ad extremum sub Tbeodosio principe ecclesia pulsus est. Feruntur eius uarii multiplicesque tractatus, quos nosse perfacile est.    <note type="textual"/>
+      <desc type="context">Among his many works, St. Jerome wrote a catalog of renowned thinkers of
+        the Roman world during the first years after his move from Rome to Bethlehem. In mostly
+        brief sketches he describes the intellectual achievements, particularly writings, of 135
+        men, many leaders in the early Church. He portrays five figures from Caesarea Maritima,
+        including in this passage Euzoius (4th century).</desc>
+      <ab type="edition" xml:lang="la" xml:id="quote142-1" source="#bib142-1">Euzoius, apud
+        Thespesium rhetorem, cum Gregorio Nazianzeno episcopo adolescens
+          <placeName>Caesareae</placeName> eruditus est, et eiusdem postea urbis episcopus, plurimo
+        labore, corruptam iam bibliothecam Origenis et Pamphili in membranis instaurare conatus est.
+        Ad extremum sub Theodosio principe ecclesia pulsus est. Feruntur eius varii multiplicesque
+        tractatus, quos nosse perfacile est.<note type="textual">Ed. Bernoulli 1895</note>
         <note type="discussion"/>
         <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target="https://archive.org/details/hieronymusundge00berngoog/page/n113/mode/2up"/>
       </ab>
-      <ab type="translation" xml:lang="en" xml:id="quote142-2" source="#bib142-2">
-        <anchor xml:id="testimonia-142.en.1" corresp="#testimonia-142.la.1"/>Euzoius, as a young man, together with Gregory, bishop of Nazianzan, was educated by Thespesius the rhetorician <placeName xml:lang="en">at Cæsarea,</placeName> and afterwards when bishop of the same city, with great pains attempted to restore the library, collected by Origen and Pamphilus, which had already suffered injury. At last, in the reign of the Emperor Theodosian, he was expelled from the church. Many and various treatises of his are in circulation, and one may easily become acquainted with them.
-        <note type="translation"/>
+      <ab type="translation" xml:lang="en" xml:id="quote142-2" source="#bib142-2">Euzoius as a young
+        man was educated at Caesarea at the school of Thespesius, together with bishop Gregory of
+        Nazianzus. Later, when he was bishop of the same city, he tried with great effort to restore
+        on parchment pages the library of Origen and Pamphilus, which had already deteriorated. In
+        the end, during the reign of the emperor Theodosius, he was expelled from the Church. Many
+        varied treatises of his are in circulation, and one may very easily become acquainted with
+          them.<note type="translation">Adapted from Schaff 1892 and Halton 1999 </note>
         <note type="discussion"/>
         <note type="corrigenda"/>
         <idno type="CTS-URN"/>
-        <ref target="https://ccel.org/ccel/schaff/npnf203/npnf203.v.iii.cxv.html"/>
+        <ref target="https://ccel.org/ccel/schaff/npnf203/npnf203/Page_382.html"/>
       </ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib142-1">
-          <ptr target="https://caesarea-maritima.org/bibl/8RKM3CGG"/>
+          <ptr
+            target="https://www.zotero.org/groups/2320447/caesarea-maritima/search/bernou/titleCreatorYear/items/7HULZ7VN/item-list"/>
           <citedRange unit="section">113</citedRange>
         </bibl>
         <bibl xml:id="bib142-2">
-          <ptr target="https://caesarea-maritima.org/bibl/YYEJCD9W"/>
-          <citedRange unit="section">113</citedRange>
+          <ptr
+            target="https://www.zotero.org/groups/2320447/caesarea-maritima/search/schaff/titleCreatorYear/items/R8Y9YB8L/item-list"/>
+          <citedRange unit="p">382</citedRange>
         </bibl>
       </listBibl>
       <listBibl>
         <head>Additional Bibliography</head>
         <bibl>
-          <ptr target="https://caesarea-maritima.org/bibl/7HULZ7VN"/>
-          <citedRange unit="section">113</citedRange>
+          <ptr target="https://www.zotero.org/groups/2320447/items/UFDQ7288"/>
+          <citedRange unit="p">147</citedRange>
         </bibl>
         <bibl>
-          <ptr target="https://caesarea-maritima.org/bibl/R8Y9YB8L"/>
-          <citedRange unit="section">113</citedRange>
+          <ptr/>
+          <citedRange unit="section"/>
         </bibl>
         <bibl>
           <ptr target=""/>
@@ -338,10 +357,22 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-    <note type="related-texts"/>
+    <note type="related-texts">
+        <p>Jerome, Letters 34.1</p>
+      </note>
       <note type="geography"/>
-      <note type="prosopography"/>
-      <note type="themes"/>
+      <note type="prosopography">
+        <p>Gregory of Nazianzus</p>
+        <p>Origen</p>
+        <p>Pamphilus</p>
+        <p>Theodosius I, emperor</p>
+      </note>
+      <note type="themes">
+        <p>Christianity</p>
+        <p>Urban Topography</p>
+        <p>Education (secular)</p>
+        <p>Society and Culture</p>
+      </note>
     </body>
   </text>
 </TEI>

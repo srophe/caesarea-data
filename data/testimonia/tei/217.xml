@@ -268,15 +268,15 @@
           <placeName>Caesarea</placeName>
         </quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/13108540">Constantine
                Porphyrogenitus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Plots</title> <ref target="#bib217-1">162.22-36</ref>. This passage was written circa <origDate notBefore="0930" notAfter="0955" period="#earlyIslamic">930-955 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
-      <desc type="context">Constantine VII Flavius Porphyrogenitus (“born in the purple”) ruled
-            the Byzantine emperor as a member of the Macedonian dynasty in 913-959 C.E. Beyond the
-            challenges he faced in managing Imperial authority and international relations
-            throughout his reign, Constantine VII devoted considerable energy to his scholarly
-            pursuits. Among his many writings is the collection Excerpts from Historians, in which
-            he quotes or epitomizes earlier writers on topics chiefly of relevance to statecraft and
-            leadership. In this passage from the book on plots against the government (de insidiis),
-            the emperor paraphrases the earlier accounts of John Malalas and the Easter Chronicle on
-            the Samaritan uprising in 484 C.E.</desc>
+      <desc type="context">Constantine VII Flavius Porphyrogenitus (“born in the purple”) ruled the
+        Byzantine emperor as a member of the Macedonian dynasty in 913-959 C.E. Beyond the
+        challenges he faced in managing Imperial authority and international relations throughout
+        his reign, Constantine VII devoted considerable energy to his scholarly pursuits. Among his
+        many writings is the collection Excerpts from Historians, in which he quotes or epitomizes
+        earlier writers on topics chiefly of relevance to statecraft and leadership. In this passage
+        from the book on plots against the government (<foreign>de insidiis</foreign>), the emperor
+        paraphrases the earlier accounts of John Malalas and the <title>Easter Chronicle</title> on
+        the Samaritan uprising in 484 C.E.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote217-1" source="#bib217-1">
         <anchor xml:id="testimonia-217.grc.1" corresp="#testimonia-217.en.1"/>Ὅτι ἐπὶ τῆς βασιλείας Ζήνωνος πρόφασιν λαβόντες οἱ ἐκ τοῦ ἔθνους τῶν
             Σαμαρειτῶν ἐτυράννησαν καὶ ἔστεψαν λῄσταρχον ὄνομα Ἰουστάσαν Σαμαρείτην. καὶ εἰσῆλθεν ἐν <placeName>Καισαρείᾳ</placeName> καὶ ἐθεώρησεν ἱππικὸν καὶ ἐφόνευσε πολλούς,
@@ -294,18 +294,19 @@
         <ref/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote217-2" source="#bib217-2">
-        <anchor xml:id="testimonia-217.en.1" corresp="#testimonia-217.grc.1"/>It happened during the reign of Zeno that the people of the
-            Samaritan race seized a pretext and rebelled, and crowned a bandit chief, the Samaritan
-            named Justasas. And he came to <placeName>Caesarea</placeName> and watched chariot races
-            and murdered many people when Porphyrios was governor of Palestine I. The same Justasas
-            also burned the Church of St. Procopius. And immediately Asclepiades, dux Palestinae,
-            came with his forces and the bandit-hunter Regis, a dignitary. Setting out against them
-            with their forces, they engaged with him and captured him and beheaded him, and his head
-            was sent along with his diadem to the emperor Zeno. Immediately the emperor Zeno made
-            their synagoge on Mount Garizim into a a house of prayer for the Holy Mother of God. He
-            also renovated (the Church of) St. Procopius, issued an edict that a Samaritan could not
-            hold a military post, and confiscated the property of their wealthy. And there was fear
-            and peace.<note type="translation">Trans. J. L. Rife</note>
+        <anchor xml:id="testimonia-217.en.1" corresp="#testimonia-217.grc.1"/>It happened during the
+        reign of Zeno that the people of the Samaritan race seized a pretext and rebelled, and
+        crowned a bandit chief, the Samaritan named Justasas. And he came to
+          <placeName>Caesarea</placeName> and watched chariot races and murdered many people when
+        Porphyrios was governor of Palestine I. The same Justasas also burned the Church of St.
+        Procopius. And immediately Asclepiades, <foreign>dux Palestinae</foreign>, came with his
+        forces and the bandit-hunter Regis, a dignitary. Setting out against them with their forces,
+        they engaged with him and captured him and beheaded him, and his head was sent along with
+        his diadem to the emperor Zeno. Immediately the emperor Zeno made their synagoge on Mount
+        Garizim into a a house of prayer for the Holy Mother of God. He also renovated (the Church
+        of) St. Procopius, issued an edict that a Samaritan could not hold a military post, and
+        confiscated the property of their wealthy. And there was fear and peace.<note
+          type="translation">Trans. J. L. Rife</note>
         <note type="discussion"/>
         <note type="corrigenda"/>
         <idno type="CTS-URN"/>

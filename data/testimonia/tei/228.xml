@@ -239,8 +239,13 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Prologue and Notes on
-               Theodosius of Alexandria’s Introductory Rules</title> <ref target="#bib228-1">303.12-20</ref> written by <persName ref="http://viaf.org/viaf/34444948" role="author">George Choeroboscus</persName> in <origDate notBefore="" notAfter="" period="#">NaN CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m"
+          >Prologue and Notes on Theodosius of Alexandria’s Introductory Rules</title>
+        <ref target="#bib228-1">303.12-20</ref> written by <persName
+          ref="http://viaf.org/viaf/34444948" role="author">George Choeroboscus</persName> in
+          <origDate notBefore="" notAfter="" period="#">0815 0845</origDate>. This work was likely
+        written in <origPlace ref="https://pleiades.stoa.org/places/520998"
+          >Constantinople</origPlace>.</creation>
       <langUsage>
         <language ident="grc">Ancient Greek</language>
       </langUsage>
@@ -272,15 +277,15 @@
           <placeName>Kaisareias</placeName>
         </quote> are directly attested at <persName ref="http://viaf.org/viaf/34444948" role="author">George Choeroboscus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Prologue and Notes on
                Theodosius of Alexandria’s Introductory Rules</title> <ref target="#bib228-1">303.12-20</ref>. This passage was written circa <origDate notBefore="" notAfter="" period="#">NaN CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
-      <desc type="context">Choeroboscus (“Swineherd”), whose posthumous reputation may have
-            suffered from an association with iconoclasm, was a ranking official and teacher in the
-            Patriarchate of Constantinople during the early 9th century. He played an important part
-            in the transmission of ancient grammatical research to Byzantine scholarship. His wrote
-            a commentary on the Introductory Rules for the Declension of Nouns by Theodosius of
-            Alexandria, dated to circa 390-410 C.E., which also depended on other sources of the
-            Roman era. This passage paraphrasing Aelius Herodianus (Declension of Nouns 751.25-33),
-            who wrote over six centuries before Choeroboscus, cited the toponym Caesarea (Καισάρεια)
-            as an example of a particular word-formation.</desc>
+      <desc type="context">Choeroboscus (“Swineherd”), whose posthumous reputation may have suffered
+        from an association with iconoclasm, was a ranking official and teacher in the Patriarchate
+        of Constantinople during the early 9th century. He played an important part in the
+        transmission of ancient grammatical research to Byzantine scholarship. His wrote a
+        commentary on the <title>Introductory Rules for the Declension of Nouns</title> by
+        Theodosius of Alexandria, dated to circa 390-410 C.E., which also depended on other sources
+        of the Roman era. This passage paraphrasing Aelius Herodianus (<title>Declension of Nouns
+        </title>751.25-33), who wrote over six centuries before Choeroboscus, cited the toponym
+        "Caesarea" (Καισάρεια) as an example of a particular word-formation.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote228-1" source="#bib228-1">
         <anchor xml:id="testimonia-228.grc.1" corresp="#testimonia-228.en.1"/>τὰ εἰς -α λήγοντα θηλυκά, ἐὰν μὲν ἔχῃ τὸ -α καθαρόν, τουτέστι μὴ
             προηγουμένου συμφώνου, ἢ πρὸ τοῦ -α τὸ ρ, ἢ μακρόν, φυλάττει καὶ ἐν τῇ γενικῇ, φημὶ δὴ
@@ -296,14 +301,20 @@
         <ref target="urn:cts:greekLit:tlg0087.tlg011.1st1K-grc1:2.2.4.127"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote228-2" source="#bib228-2">
-        <anchor xml:id="testimonia-228.en.1" corresp="#testimonia-228.grc.1"/>As for feminine nouns ending -a, if they have pure -a (i.e., no
-            preceding consonant), r before -a, or long -a, it persists also in the genitive, I mean
-            the -a, and by addition of -s makes the genitive. Take these examples of the rule: pure
-            -a, e.g., maia-maias, graia-graias, gaia-gaias, Medeia-Medeias (since “Medeies hyp’
-            eroti” is Ionic dialect), Krateia-Krateias, Alexandreia-Alexandreias, <placeName>Kaisareia</placeName> - <placeName>Kaisareias</placeName>,
-               Antiocheia-Antiocheias.<note type="translation">Trans. J. L. Rife</note>
-        <note type="discussion">“Medeies hyp’ eroti” is quoted from Apollonius of Rhodes, Voyage of
-               the Argo 3.31.</note>
+        <anchor xml:id="testimonia-228.en.1" corresp="#testimonia-228.grc.1"/>As for feminine nouns
+        ending -a, if they have pure -a (i.e., no preceding consonant), r before -a, or long -a, it
+        persists also in the genitive, I mean the -a, and by addition of -s makes the genitive. Take
+        these examples of the rule: pure -a, e.g., <foreign>maia-maias</foreign>,
+          <foreign>graia-graias</foreign>, <foreign>gaia-gaias</foreign>,
+          <foreign>Medeia-Medeias</foreign> (since “<foreign>Medeies hyp’ eroti</foreign>” is Ionic
+        dialect), K<foreign>rateia-Krateias</foreign>, <foreign>Alexandreia-Alexandreias</foreign>,
+            <foreign><placeName>Kaisareia</placeName> - <placeName>Kaisareias</placeName></foreign>,
+          <foreign>Antiocheia-Antiocheias</foreign>.<note type="translation">Trans. J. L.
+          Rife</note>
+        <note type="discussion">“<foreign>Medeies hyp’ eroti</foreign>” is quoted from Apollonius of
+          Rhodes, <title>
+            <title>Voyage of the Argo</title>
+          </title> 3.31.</note>
         <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>

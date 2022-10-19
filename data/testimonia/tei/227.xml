@@ -268,58 +268,61 @@
           <placeName>Caesaream</placeName>
         </quote> are directly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Exhibit of the Whole World and its
                Peoples</title> <ref target="#bib227-1">32</ref>. This passage was written circa <origDate notBefore="0500" notAfter="0600" period="#byzantine">500-600 CE</origDate> possibly in <origPlace/>.</desc>
-      <desc type="context">Exhibit of the Whole World and its Peoples was composed by a learned
-            resident of the eastern Roman Empire during the reign of Constantius II, probably during
-            the late 350s in Syria-Phoenicia. It is a condensed geographical survey with annotations
-            on culture and trade, divided into three books on the unknown east and the lands and
-            islands within the Imperial borders. The work survives in two Latin versions of the 6th
-            century, one (A) longer and presumably closer to the original, and the other apparently
-            an abbreviation (B). This passage explains the sources of entertainment (delectabile) in
-            different cities across greater Syria, including chariot racing and pantomimes at
-            Caesarea Maritima.</desc>
+      <desc type="context"><title>Exhibit of the Whole World and its Peoples</title> was composed by
+        a learned resident of the eastern Roman Empire during the reign of Constantius II, probably
+        during the late 350s in Syria-Phoenicia. It is a condensed geographical survey with
+        annotations on culture and trade, divided into three books on the unknown east and the lands
+        and islands within the Imperial borders. The work survives in two Latin versions of the 6th
+        century, one (A) longer and presumably closer to the original, and the other apparently an
+        abbreviation (B). This passage explains the sources of "entertainment"
+          (<foreign>delectabile</foreign>) in different cities across greater Syria, including
+        chariot racing and pantomimes at Caesarea Maritima.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote227-1" source="#bib227-1">
-        <anchor xml:id="testimonia-227.la.1" corresp="#testimonia-227.en.1"/>A) Quoniam autem oportet et singula earum describere, quid ad singulas
-            civitates delectabile esse potest, et hoc dicere necessarium est. Habes ergo Antiochiam
-            quidem in omnibus delectabilibus abundantem, maxime autem circensibus. Omnia autem
-            quare? Quoniam ibi imperator sedet, necesse est omnia propter eum. Ecce similiter
-            Laodicia circenses et Tyrus et Berytus et <placeName>Caesarea</placeName>; sed Laodicia
-            mittit aliis civitatibus agitatores optimos, Tyrus et Berytus mimarios, <placeName>Caesarea</placeName> pantomimos, Heliopolis choraulas, maxime quod a
-            Libano Musae illis inspirent divinitatem dicendi. Aliquando autem et Gaza habet bonos
-            auditores; dicitur autem habere eam et pammacharios, Ascalon athletas luctatores,
-            Castabala calopectas. B) Iam nunc dicendum est quid etiam in se singulae civitates de
-            quibus loquimur habeant delectabile. Habes ergo Antiochiam in ludis circensibus
-            eminentem, similiter et Laodiciam et Tyrum et Berytum et <placeName>Caesaream</placeName>. Et Laodicia mittit aliis civitatibus agitatores
-            optimos, Tyrus et Berytus mimarios, <placeName>Caesarea</placeName> pantomimos,
-            Heliopolis choraulas, Gaza pammacarios, Ascalon athletas luctatores, Castabala pyctas.<note type="textual">Ed. Rougé 1966</note>
+        <anchor xml:id="testimonia-227.la.1" corresp="#testimonia-227.en.1"/>A) Quoniam autem
+        oportet et singula earum describere, quid ad singulas civitates delectabile esse potest, et
+        hoc dicere necessarium est. Habes ergo Antiochiam quidem in omnibus delectabilibus
+        abundantem, maxime autem circensibus. Omnia autem quare? Quoniam ibi imperator sedet,
+        necesse est omnia propter eum. Ecce similiter Laodicia circenses et Tyrus et Berytus et
+          <placeName>Caesarea</placeName>; sed Laodicia mittit aliis civitatibus agitatores optimos,
+        Tyrus et Berytus mimarios, <placeName>Caesarea</placeName> pantomimos, Heliopolis choraulas,
+        maxime quod a Libano Musae illis inspirent divinitatem dicendi. Aliquando autem et Gaza
+        habet bonos auditores; dicitur autem habere eam et pammacharios, Ascalon athletas
+        luctatores, Castabala calopectas. |  | B) Iam nunc dicendum est quid etiam in se singulae
+        civitates de quibus loquimur habeant delectabile. Habes ergo Antiochiam in ludis circensibus
+        eminentem, similiter et Laodiciam et Tyrum et Berytum et <placeName>Caesaream</placeName>.
+        Et Laodicia mittit aliis civitatibus agitatores optimos, Tyrus et Berytus mimarios,
+          <placeName>Caesarea</placeName> pantomimos, Heliopolis choraulas, Gaza pammacarios,
+        Ascalon athletas luctatores, Castabala pyctas.<note type="textual">Ed. Rougé 1966</note>
         <note type="discussion"/>
         <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote227-2" source="#bib227-2">
-        <anchor xml:id="testimonia-227.en.1" corresp="#testimonia-227.la.1"/>A) Since we should also describe their peculiarities, it is
-            necessary also to say what there is for entertainment in individual cities. So you have
-            Antioch, indeed rich in all kinds of amenities but especially race courses. But why all
-            this? Because the emperor resides there, all this is necessary on his account. Note
-            besides that Laodicea, Tyre, Beirut, and <placeName>Caesarea</placeName> have race
-            courses. And yet Laodicea sends the best charioteers to other cities, Tyre and Beirut
-            mimes, <placeName>Caesarea</placeName> pantomimes, Heliopolis flute-accompanists, most
-            of all because the Muses of Lebanon inspire in them divine vocal skill. Furthermore,
-            Gaza has good lecturers; it is said that it also has atheletes in the pancration,
-            Ascalon has athletes in wrestling, Castabala has acrobats. B) Now we must say what the
-            individual cities we are discussing have for entertainment. So you have Antioch, which
-            stands for the games at its race courses, as well Laodicea, Tyre, Beirut, and <placeName>Caesarea</placeName>. And Laodicea sends the best charioteers to other
-            cities, Tyre and Beirut mimes, <placeName>Caesarea</placeName> pantomimes, Heliopolis
-            flute-accompanists, Gaza atheletes in the pancration, Ascalon athletes in wrestling,
-            Castabala players.<note type="translation">Trans. J. L. Rife with reference to Rougé
-               1966</note>
-        <note type="discussion">Latin choraula (A, B) transliterating Greek
-               χοραύλης refers to a player on a reed pipe who accompanies dancers. Unless the word
-               has an otherwise unattested meaning of “choral singer” (cf. Rougé 1966, p. 255 n. 10
-               “chanteurs,” “choristes”), the author seems to mean that playing the flute was a kind
-               of vocal expression. Latin calopecta (A) transliterating Greek καλοπαίκτης refers to
-               an acrobat. Latin pycta (B) transliterating Greek παίκτης refers generically to a
-               performer or “player.”</note>
+        <anchor xml:id="testimonia-227.en.1" corresp="#testimonia-227.la.1"/>A) Since we should also
+        describe their peculiarities, it is necessary also to say what there is for entertainment in
+        individual cities. So you have Antioch, indeed rich in all kinds of amenities but especially
+        race courses. But why all this? Because the emperor resides there, all this is necessary on
+        his account. Note besides that Laodicea, Tyre, Beirut, and <placeName>Caesarea</placeName>
+        have race courses. And yet Laodicea sends the best charioteers to other cities, Tyre and
+        Beirut mimes, <placeName>Caesarea</placeName> pantomimes, Heliopolis flute-accompanists,
+        most of all because the Muses of Lebanon inspire in them divine vocal skill. Furthermore,
+        Gaza has good lecturers; it is said that it also has atheletes in the pancration, Ascalon
+        has athletes in wrestling, Castabala has acrobats. |  | B) Now we must say what the
+        individual cities we are discussing have for entertainment. So you have Antioch, which
+        stands for the games at its race courses, as well Laodicea, Tyre, Beirut, and
+          <placeName>Caesarea</placeName>. And Laodicea sends the best charioteers to other cities,
+        Tyre and Beirut mimes, <placeName>Caesarea</placeName> pantomimes, Heliopolis
+        flute-accompanists, Gaza atheletes in the pancration, Ascalon athletes in wrestling,
+        Castabala players.<note type="translation">Trans. J. L. Rife with reference to Rougé
+          1966</note>
+        <note type="discussion">Latin <foreign>choraula</foreign> (A, B) transliterating Greek
+          χοραύλης refers to a player on a reed pipe who accompanies dancers. Unless the word has an
+          otherwise unattested meaning of “choral singer” (cf. Rougé 1966, p. 255 n. 10 “chanteurs,”
+          “choristes”), the author seems to mean that playing the flute was a kind of vocal
+          expression. Latin <foreign>calopecta</foreign> (A) transliterating Greek καλοπαίκτης
+          refers to an acrobat. Latin <foreign>pycta</foreign> (B) transliterating Greek παίκτης
+          refers generically to a performer or “player.”</note>
         <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>

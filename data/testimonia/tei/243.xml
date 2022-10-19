@@ -262,37 +262,37 @@
       </ab>
       <desc type="abstract" xml:id="abstract243-1">Caeasrea Maritima is indirectly attested at <persName role="author" ref="http://viaf.org/viaf/88969561">John Malalas</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref target="#bib243-1">15.18</ref>. This passage was written circa <origDate notBefore="0530" notAfter="0532" period="#byzantine">530-532 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/658381">Antioch on the
                Orontes</origPlace>.</desc>
-      <desc type="context">John Malalas, a moniker probably derived from Aramaic malolo meaning
-            “orator”, was an educated Syrian who moved from Antioch to Constantinople early in the
-            reign of Justinian I. His only known work is a historical chronicle in 18 books,
-            apparently composed in two editions, spanning from early times probably to the death of
-            Justinian, with a distinct focus on events in the eastern Mediterranean. In this
-            passage, John conflates two Samaritan revolts, one in 484 C.E. under Zeno concentrated
-            at Neapolis and one in 556 C.E. under Justinian concentrated at Caesarea Maritima. His
-            testimony is repeated in the Easter Chronicle (ca. 630 C.E.) and in the historical
-            excerpts on political plots by Constantine VII Porphyrogenitus (ca. 930-955
-            C.E.).</desc>
+      <desc type="context">John Malalas, a moniker probably derived from Aramaic
+          <foreign>malolo</foreign> meaning “orator”, was an educated Syrian who moved from Antioch
+        to Constantinople early in the reign of Justinian I. His only known work is a historical
+        chronicle in 18 books, apparently composed in two editions, spanning from early times
+        probably to the death of Justinian, with a distinct focus on events in the eastern
+        Mediterranean. In this passage, John conflates two Samaritan revolts, one in 484 C.E. under
+        Zeno concentrated at Neapolis and one in 556 C.E. under Justinian concentrated at Caesarea
+        Maritima. His testimony is repeated in the <title>Easter Chronicle</title> (ca. 630 C.E.)
+        and in the historical excerpts on political plots by Constantine VII Porphyrogenitus (ca.
+        930-955 C.E.).</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote243-1" source="#bib243-1">
-        <anchor xml:id="testimonia-243.grc.1" corresp="#testimonia-243.en.1"/>Ἐπὶ δὲ τῆς Ζήνωνος βασιλείας πρόφασιν λαβόντες οἱ ἐκ τοῦ ἔθνους τῶν
-            Σαμαρειτῶν ἐτυράννήσαν καὶ ἔστεψαν λῄσταρχον ὀνόματι Ἰουστασὰν Σαμαρείτην· καὶ εἰσῆλθεν
-            ἐν <placeName>Καισαρείᾳ</placeName> καὶ ἐθεώρησεν ἱππικὸν καὶ ἐφόνευσε πολλοὺς
-            {χριστιανοὺς} ἡγεμονεύοντος τῆς πρώτης Παλαιστίνης Πορφυρίου. ὁ δὲ αὐτὸς Ἰουστασὰς
-            ἔκαυσε τὸν ἅγιον Προκόπιον ἐπὶ Τιμοθέου ἐπισκόπου <placeName>Καισαρείας</placeName>. καὶ
-            ἐλθὼν ὁ δοὺξ Παλαιστίνης Ἀσκληπιάδης μετὰ τῆς αὐτοῦ βοηθείας καὶ ὁ λῃστοδιώκτης Ῥήγης ὁ
-            ἀξιωματικὸς <placeName>Καισαρείας</placeName> μετὰ τῶν Ἀρκαδιακῶν, ὁρμήσαντες κατ’ αὐτοῦ
-            συνέβαλον αὐτῷ καὶ παρέλαβον αὐτόν· καὶ ἀπεκεφάλισαν τὸν αὐτὸν Ἰουστασάν, καὶ ἐπέμφθη ἡ
-            κεφαλὴ αὐτοῦ μετὰ τοῦ διαδήματος τῷ βασιλεῖ Ζήνωνι. καὶ εὐθέως ὁ βασιλεὺς Ζήνων ἐποίησε
-            τὴν συναγωγὴν αὐτῶν τὴν οὖσαν εἰς τὸ Γαργαζὶ ὄρος εὐκτήριον οἶκον τῆς ἁγίας θεοτόκου
-            Μαρίας, ἀνανεώσας καὶ τὸν ἅγιον Προκόπιον, ποιήσας διάταξιν μὴ στρατεύεσθαι Σαμαρείτην,
-            δημεύσας καὶ τοὺς εὐπόρους αὐτῶν· καὶ ἐγένετο φόβος καὶ εἰρήνη.<note type="textual">Ed.
-               Thurn 2000</note>
-        <note type="textual">Thurn’s text of this passage follows the
-               parallel passage at Constantine Porphygenitus, Plots 162.22-36 where it diverges from
-               the text of the Codex Barrocianus 182 (Oxford, 12th century).</note>
+        <anchor xml:id="testimonia-243.grc.1" corresp="#testimonia-243.en.1"/>Ἐπὶ δὲ τῆς Ζήνωνος
+        βασιλείας πρόφασιν λαβόντες οἱ ἐκ τοῦ ἔθνους τῶν Σαμαρειτῶν ἐτυράννήσαν καὶ ἔστεψαν
+        λῄσταρχον ὀνόματι Ἰουστασὰν Σαμαρείτην· καὶ εἰσῆλθεν ἐν <placeName>Καισαρείᾳ</placeName> καὶ
+        ἐθεώρησεν ἱππικὸν καὶ ἐφόνευσε πολλοὺς {χριστιανοὺς} ἡγεμονεύοντος τῆς πρώτης Παλαιστίνης
+        Πορφυρίου. ὁ δὲ αὐτὸς Ἰουστασὰς ἔκαυσε τὸν ἅγιον Προκόπιον ἐπὶ Τιμοθέου ἐπισκόπου
+          <placeName>Καισαρείας</placeName>. καὶ ἐλθὼν ὁ δοὺξ Παλαιστίνης Ἀσκληπιάδης μετὰ τῆς αὐτοῦ
+        βοηθείας καὶ ὁ λῃστοδιώκτης Ῥήγης ὁ ἀξιωματικὸς <placeName>Καισαρείας</placeName> μετὰ τῶν
+        Ἀρκαδιακῶν, ὁρμήσαντες κατ’ αὐτοῦ συνέβαλον αὐτῷ καὶ παρέλαβον αὐτόν· καὶ ἀπεκεφάλισαν τὸν
+        αὐτὸν Ἰουστασάν, καὶ ἐπέμφθη ἡ κεφαλὴ αὐτοῦ μετὰ τοῦ διαδήματος τῷ βασιλεῖ Ζήνωνι. καὶ
+        εὐθέως ὁ βασιλεὺς Ζήνων ἐποίησε τὴν συναγωγὴν αὐτῶν τὴν οὖσαν εἰς τὸ Γαργαζὶ ὄρος εὐκτήριον
+        οἶκον τῆς ἁγίας θεοτόκου Μαρίας, ἀνανεώσας καὶ τὸν ἅγιον Προκόπιον, ποιήσας διάταξιν μὴ
+        στρατεύεσθαι Σαμαρείτην, δημεύσας καὶ τοὺς εὐπόρους αὐτῶν· καὶ ἐγένετο φόβος καὶ
+          εἰρήνη.<note type="textual">Ed. Thurn 2000</note>
+        <note type="textual">Thurn’s text of this passage follows the parallel passage at
+          Constantine Porphygenitus, <title>Plots</title> 162.22-36 where it diverges from the text
+          of the Codex Barrocianus 182 (Oxford, 12th century).</note>
         <note type="discussion">The noun χριστιανοὺς (“Christians”) appears in the Cod. Barroc. but
-               not the medieval Slavonic translations or the parallel passages at Const. Porphyr. or
-               the Eastern Chronicle 603.19-604.13; Thurn sets it apart thus with curly
-               brackets.</note>
+          not the medieval Slavonic translations or the parallel passages at Const. Porphyr. or the
+            <title>Eastern Chronicle</title> 603.19-604.13; Thurn sets it apart thus with {
+          }.</note>
         <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>

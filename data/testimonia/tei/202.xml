@@ -276,7 +276,7 @@
          <desc type="context">Burchard of Mt. Sion was a Dominican friar from Magdeburg in Lower
             Saxony who wrote the the most important description of the Holy Land from the 13th
             century. The earliest and longest account of his pilgrimage, which grew particularly
-            popular during the 14th-18th centuries, described his long trip from northern Germany to
+            popular during the 14th-18th centuries, described his journey from northern Germany to
             the Levant, where he stayed from 1274 to 1284, shortly before the fall of Acre, the last
             Crusader stronghold in the Holy Land, in 1291. The content of his description is based
             upon personal experience, research into ancient writings and earlier itineraries, and
@@ -284,21 +284,22 @@
             outlines the regional designations of Palestine, amalgamating Biblical, Roman, and
             contemporary conceptions of space.</desc>
          <ab type="edition" xml:lang="la" xml:id="quote202-1" source="#bib202-1">
-        <anchor xml:id="testimonia-202.la.1" corresp="#testimonia-202.en.1"/>Post istam quartam Syriam, scilicet Syriam Phenicis, sequitur Palestina,
-            que Philistiim proprie nιιncupatur, quia tres sunt, ut sequitur, Palestine, que tamen
-            omnes sunt Syrie magne partes. Prima Palestina est, cuius metropolis est Jerusalem, cum
-            omnibus montanis suis usque ad mare mortuum et usque ad desertum et Cades Barne;
-            secunda, cuius metropolis est <placeName>Cesarea Palestine </placeName> sive
-               <placeName>Cesarea maritima</placeName>, cum tota terra Philistiim, incipiens a
-            predicta Petra Incisa sive Castro Peregrinorum, et se extendens usque Basan contra
-            austrum. Tercia est, cuius metropolis est Bethsan, sita sub monte Gelboe iuxta Iordanem.
-            Hec quondam Scythopolis dicebatur. Ista Palestina dicitur proprie Galilea sive campus
-            magnus Esdraelon.<note type="textual">Laurent 1873</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
+            <anchor xml:id="testimonia-202.la.1" corresp="#testimonia-202.en.1"/>Post istam quartam
+            Syriam, scilicet Syriam Phenicis, sequitur Palestina, que Philistiim proprie
+            nιιncupatur, quia tres sunt, ut sequitur, Palestine, que tamen omnes sunt Syrie magne
+            partes. Prima Palestina est, cuius metropolis est Jerusalem, cum omnibus montanis suis
+            usque ad mare mortuum et usque ad desertum et Cades Barne; secunda, cuius metropolis est
+               <placeName>Cesarea Palestine</placeName> sive <placeName>Cesarea
+            maritima</placeName>, cum tota terra Philistiim, incipiens a predicta Petra Incisa sive
+            Castro Peregrinorum, et se extendens usque Basan contra austrum. Tercia est, cuius
+            metropolis est Bethsan, sita sub monte Gelboe iuxta Iordanem. Hec quondam Scythopolis
+            dicebatur. Ista Palestina dicitur proprie Galilea sive campus magnus Esdraelon.<note
+               type="textual">Laurent 1873</note>
+            <note type="discussion"/>
+            <note type="corrigenda"/>
+            <idno type="CTS-URN"/>
+            <ref target=""/>
+         </ab>
          <ab type="translation" xml:lang="en" xml:id="quote202-2" source="#bib202-2">
         <anchor xml:id="testimonia-202.en.1" corresp="#testimonia-202.la.1"/>After this fourth Syria, i.e., Syria of Phoenicia, comes Palestine,
             which should properly be called Philistim, because there are three Palestines as

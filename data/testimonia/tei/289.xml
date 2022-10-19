@@ -260,13 +260,13 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/289</idno>
       </ab>
       <desc type="abstract" xml:id="abstract289-1">Caeasrea Maritima is indirectly attested at <persName role="author" ref="http://viaf.org/viaf/95147024">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Illustrious Men</title> <ref target="#bib289-1">54.32-51</ref>. This passage was written circa <origDate notBefore="0392" notAfter="0393" period="#byzantine">392-393 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</desc>
-      <desc type="context">Among his many works, St. Jerome wrote a catalog of renowned thinkers
-            of the Roman world during the first years after his move from Rome to Bethlehem. In
-            mostly brief sketches he describes the intellectual achievements, particularly writings,
-            of 135 men, many leaders in the early Church. In his life of Origen, he portrays
-            Origen’s scholarship and teaching, including his critical edition of the Hebrew Bible
-            (the Hexapla with its supplements), produced at the ecclesiastical library in
-            Caesarea.</desc>
+      <desc type="context">Among his many works, St. Jerome wrote a catalog of renowned thinkers of
+        the Roman world during the first years after his move from Rome to Bethlehem. In mostly
+        brief sketches he describes the intellectual achievements, particularly writings, of 135
+        men, many leaders in the early Church. In his life of Origen, he portrays Origen’s
+        scholarship and teaching, including his critical edition of the Hebrew Bible (the
+          <title>Hexapla</title> with its supplements), produced at the ecclesiastical library in
+        Caesarea.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote289-1" source="#bib289-1">
         <anchor xml:id="testimonia-289.la.1" corresp="#testimonia-289.en.1"/>Quis autem ignorat, quod tantum habuerit in scripturis sanctis studii,
             ut etiam Hebream linguam contra aetatis gentisque suae naturam edisceret et exceptis
@@ -289,22 +289,23 @@
         <ref target="https://archive.org/details/devirisinlustri00jerogoog/page/n91/mode/2up"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote289-2" source="#bib289-2">
-        <anchor xml:id="testimonia-289.en.1" corresp="#testimonia-289.la.1"/>Who does not also know that he was so assiduous in the study of the
-            Holy Scriptures that, contrary to the spirit of his era and his people, he learned the
-            Hebrew language, and, after he had collected the Septuagint translations, he gathered
-            into a single work the other translations also? I am referring to those by Aquila, the
-            proselyte of Pontus, by Theodotion the Ebionite, and by Symmachus, an adherent of the
-            same teaching who also wrote Commentaries on the Gospel according to Matthew, from which
-            he tried to establish his doctrine. Besides these, with astonishing effort he discovered
-            a fifth, sixth, and seventh translation, which we also have from his library, and he
-            compared [them] with the other translations. And since I have given a list of his works
-            in the collection of letters I wrote to Paula, in a letter where I drew a comparison
-            with the works of Varro, I leave it out now. I will not, however, leave this out about
-            his immortal genius: that he taught dialectics and geometry, arithmetic, music, grammar,
-            rhetoric, and all schools of philosophy so well that he had also had diligent students
-            of secular literature, he gave instruction daily, and incredible crowds flocked to him.
-            These he received with the goal that, under the pretext of an opportunity (to learn)
-            about secular literature, he might establish them in the faith of Christ.<note type="translation">Adapted from Schaff 1892 and Halton 1999</note>
+        <anchor xml:id="testimonia-289.en.1" corresp="#testimonia-289.la.1"/>Who does not also know
+        that he was so assiduous in the study of the Holy Scriptures that, contrary to the spirit of
+        his era and his people, he learned the Hebrew language, and, after he had collected the
+        Septuagint translations, he gathered into a single work the other translations also? I am
+        referring to those by Aquila, the proselyte of Pontus, by Theodotion the Ebionite, and by
+        Symmachus, an adherent of the same teaching who also wrote <title>Commentaries on the
+          Gospel</title> according to Matthew, from which he tried to establish his doctrine.
+        Besides these, with astonishing effort he discovered a fifth, sixth, and seventh
+        translation, which we also have from his library, and he compared [them] with the other
+        translations. And since I have given a list of his works in the collection of letters I
+        wrote to Paula, in a letter where I drew a comparison with the works of Varro, I leave it
+        out now. I will not, however, leave this out about his immortal genius: that he taught
+        dialectics and geometry, arithmetic, music, grammar, rhetoric, and all schools of philosophy
+        so well that he had also had diligent students of secular literature, he gave instruction
+        daily, and incredible crowds flocked to him. These he received with the goal that, under the
+        pretext of an opportunity (to learn) about secular literature, he might establish them in
+        the faith of Christ.<note type="translation">Adapted from Schaff 1892 and Halton 1999</note>
         <note type="discussion"/>
         <note type="corrigenda"/>
         <idno type="CTS-URN"/>

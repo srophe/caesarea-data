@@ -271,12 +271,12 @@
         </quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/1679057">Stephanus of
                Byzantium</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Book of Nations</title> <ref target="#bib170-1">Κ 16</ref>. This passage was written circa <origDate notBefore="0530" notAfter="0560" period="#byzantine">530-560 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
          <desc type="context">Stephanus of Byzantium was a polymath who compiled the magnificent
-            Book of Nations (Ἐθνικά) in the eastern capital during the age of prosperity under the
-            emperor Justinian I. This geographical dictionary was a treasury of geographical,
-            literary, and historical data collected from myriad ancient works, which Stephanus often
-            directly cited. Consequently, Stephanus has been greatly valued by scholars from
-            medieval to modern times. The short entry under “Caesarea” lists three prominent cities
-            that shared that named.</desc>
+               <title>Book of Nations</title> (Ἐθνικά) in the eastern capital during the age of
+            prosperity under the emperor Justinian I. This geographical dictionary was a treasury of
+            geographical, literary, and historical data collected from myriad ancient works, which
+            Stephanus often directly cited. Consequently, Stephanus has been greatly valued by
+            scholars from medieval to modern times. The short entry under “Caesarea” lists three
+            prominent cities that shared that named.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote170-1" source="#bib170-1">
         <anchor xml:id="testimonia-170.grc.1" corresp="#testimonia-170.en.1"/>
             <placeName>Καισάρεια</placeName>· μητρόπολις τῆς Καππαδοκίας, ἡ πρὶν Εὐσεβεία καὶ
@@ -288,14 +288,16 @@
         <ref target=""/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote170-2" source="#bib170-2">
-        <anchor xml:id="testimonia-170.en.1" corresp="#testimonia-170.grc.1"/>Caesarea. Main city in Cappadocia, formerly Eusebeia and Mazaca, as
-            Strabo (reports). There is also (Caesarea) Palestinae, and a third at Paneas. The ethnic
-            designation is Caesarean. There are also other (cities) called by this name.<note type="translation">Trans. J. L. Rife with ref. to Billerbeck 2014</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
-        <idno type="CTS-URN"/>
-        <ref/>
-      </ab>
+            <anchor xml:id="testimonia-170.en.1" corresp="#testimonia-170.grc.1"/>Caesarea. Main
+            city in Cappadocia, formerly Eusebeia and Mazaca, as Strabo (reports). There is also
+               <placeName>(Caesarea) Palestinae</placeName>, and a third at Paneas. The ethnic
+            designation is Caesarean. There are also other (cities) called by this name.<note
+               type="translation">Trans. J. L. Rife with ref. to Billerbeck 2014</note>
+            <note type="discussion"/>
+            <note type="corrigenda"/>
+            <idno type="CTS-URN"/>
+            <ref/>
+         </ab>
          <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib170-1">

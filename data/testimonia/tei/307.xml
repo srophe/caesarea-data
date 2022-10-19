@@ -268,33 +268,36 @@
             is an account of the Holy Land based largely on the itinerary of Arculf, the Frankish
             bishop who purportedly told the story of his pilgrimage in ca. 680 to his host Adomnán
             after wrecking on Iona. This passage from the first book on Jerusalem and its environs
-            describes the natural terrain from the Judaean Hills west to the coast as far as
+            describes the natural terrain from the Judaean hills west to the coast as far as
             Caesarea.</desc>
          <ab type="edition" xml:lang="la" xml:id="quote307-1" source="#bib307-1">
-        <anchor xml:id="testimonia-307.la.1" corresp="#testimonia-307.en.1"/>Ab Helia septemtrionem versus usque ad Samuhelis civitatem, quae
-            Armathem nominatur, terra petrosa et aspera per quaedam monstratur intervalla; valles
-            quoque spinosae usque ad Tamniticam regionem patentes. Aliter vero a supradicta Helia et
-            monte Sion qualitas regionum monstratur usque ad Cesaream Palestinae occasum versus. Nam
-            quamvis aliqua reperriantur angusta et brevia aspera loca interposita, praecipue tamen
-            latiores plani monstrantur campi interpositis laetiores olivetis.<note type="textual">Ed. Bieler 1965</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
+            <anchor xml:id="testimonia-307.la.1" corresp="#testimonia-307.en.1"/>Ab Helia
+            septemtrionem versus usque ad Samuhelis civitatem, quae Armathem nominatur, terra
+            petrosa et aspera per quaedam monstratur intervalla; valles quoque spinosae usque ad
+            Tamniticam regionem patentes. Aliter vero a supradicta Helia et monte Sion qualitas
+            regionum monstratur usque ad <placeName>Cesaream Palestinae</placeName> occasum versus.
+            Nam quamvis aliqua reperriantur angusta et brevia aspera loca interposita, praecipue
+            tamen latiores plani monstrantur campi interpositis laetiores olivetis.<note
+               type="textual">Ed. Bieler 1965</note>
+            <note type="discussion"/>
+            <note type="corrigenda"/>
+            <idno type="CTS-URN"/>
+            <ref target=""/>
+         </ab>
          <ab type="translation" xml:lang="en" xml:id="quote307-2" source="#bib307-2">
-        <anchor xml:id="testimonia-307.en.1" corresp="#testimonia-307.la.1"/>North from Helia up to the city of Samuel, which is called Armathes,
-            the terrain proves to be rocky and rough in certain areas, and the valleys extending as
-            far as the Tamnitic region are full of thorny vegetation. But from the aforementioned
-            Helia and Mount Sion to the west as far as Caesarea Palestinae the regional character is
-            different. For, although here and there can be found rough spots over narrow, short
-            stretches, by and large the wide open, flat plains prove to be very pleasant, with olive
-            trees spread about.<note type="translation">Trans. J. L. Rife </note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
-        <idno type="CTS-URN"/>
-        <ref/>
-      </ab>
+            <anchor xml:id="testimonia-307.en.1" corresp="#testimonia-307.la.1"/>North from Helia up
+            to the city of Samuel, which is called Armathes, the terrain proves to be rocky and
+            rough in certain areas, and the valleys extending as far as the Tamnitic region are full
+            of thorny vegetation. But from the aforementioned Helia and Mount Sion to the west as
+            far as <placeName>Caesarea Palestinae</placeName> the regional character is different.
+            For, although here and there can be found rough spots over narrow, short stretches, by
+            and large the wide open, flat plains prove to be very pleasant, with olive trees spread
+               about.<note type="translation">Trans. J. L. Rife </note>
+            <note type="discussion"/>
+            <note type="corrigenda"/>
+            <idno type="CTS-URN"/>
+            <ref/>
+         </ab>
          <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib307-1">

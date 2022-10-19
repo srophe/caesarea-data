@@ -275,17 +275,17 @@
         </quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/1679057 ">Stephanus of
                Byzantium</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Book of Nations</title> <ref target="#bib219-1">Δ 150</ref>. This passage was written circa <origDate notBefore="0530" notAfter="0560" period="#byzantine">530-560 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
       <desc type="context">Stephanus of Byzantium was a polymath who compiled the magnificent
-            Book of Nations (Ἐθνικά) in the eastern capital during the age of prosperity under the
-            emperor Justinian I. This geographical dictionary was a treasury of geographical,
-            literary, and historical data collected from myriad ancient works, which Stephanus often
-            directly cited. Consequently, Stephanus has been greatly valued by scholars from
-            medieval to modern times. The long entry under “Doros”, rich with quotations from
-            Classical to Late Roman sources, attests to the Phoenician settlement and natural
-            environment of the area around Dor. The passage on Strato’s Tower derives from
-            Artemidorus of Ephesus, Geographical Description fr. 111, written roughly six to seven
-            centuries before Stephanus’s work, and Marcian of Heraclea, Epitome of Artemidorus’
-            Geography 576.19-27, written roughly one to two centuries before Stephanus’s
-            work.</desc>
+          <title>Book of Nations</title> (Ἐθνικά) in the eastern capital during the age of
+        prosperity under the emperor Justinian I. This geographical dictionary was a treasury of
+        geographical, literary, and historical data collected from myriad ancient works, which
+        Stephanus often directly cited. Consequently, Stephanus has been greatly valued by scholars
+        from medieval to modern times. The long entry under “Doros”, rich with quotations from
+        Classical to Late Roman sources, attests to the Phoenician settlement and natural
+        environment of the area around Dor. The passage on Strato’s Tower derives from Artemidorus
+        of Ephesus, <title>Geographical Description</title> fr. 111, written roughly six to seven
+        centuries before Stephanus’s work, and Marcian of Heraclea, <title>Epitome of Artemidorus’
+          Geography</title> 576.19-27, written roughly one to two centuries before Stephanus’s
+        work.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote219-1" source="#bib219-1">
         <anchor xml:id="testimonia-219.grc.1" corresp="#testimonia-219.en.1"/>Δῶρος· πόλις Φοινίκης. Ἑκαταῖος Ἀσίᾳ “μετὰ δὲ ἡ πάλαι Δῶρος, νῦν δὲ Δῶρα
             καλεῖται.” καὶ οὕτως Ἰώσηπος αὐτὴν καλεῖ ἐν εʹ τῆς Ἰουδαϊκῆς ἱστορίας “ἀπὸ μέν Ἰορδάνου
@@ -310,24 +310,27 @@
         <ref/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote219-2" source="#bib219-2">
-        <anchor xml:id="testimonia-219.en.1" corresp="#testimonia-219.grc.1"/>Doros. City in Phoenicia. Hecataeus in [his book on] Asia: “After
-            that is the city called Doros in the old times but today Dora.” So Josephus called it
-            this in Jewish Antiquities 5: “from the Jordan to the city Doros”; and “bordered by
-            Azotos and Doros”; and in Jewish Antiquities 6: “there is a woman in the city Doros”;
-            and “when he came to Doros.” Claudius Iolaus in Phoenicica 3: “Behind <placeName>Caesarea</placeName> is located Dor, a small settlement. Phoenicians
-            inhabit it who, because of the rocky seabed and the fertile conditions for purple-dye
-            shellfish, came together and built huts for themselves and erected a palisade all
-            around. When the fruits of their labor brought them success, quarrying the bedrock, they
-            founded walls out of the extracted stones and established a breakwater for good mooring,
-            as safe as possible. They gave it an eponymous name, Dor, in the language of their
-            homeland, but the Greeks just called the city Dora for easy pronunciation. And some
-            report that Doros the son of Poseidon was the city’s founder.” Artemidorus knows the
-            city Dora in Epitome of 11 books: “Continuing on is <placeName>Straton’s
-               Tower</placeName>, and then Dora, a town situated on the peninsula where Mount Carmel
-            begins.” Τhe same thing in Geography 9. But Apollodoros calls it Doros in Chronicle 4:
-            “to Doros, a coastal city.” Alexander in [his book on] Asia: “both Doros and waterside
-            Iope projecting into the sea.” And Charax [in book] 11: “Tryphon, beseiged by Antiochus
-            at Dor, a city in Koile Syria, fled to Ptolemaïs, also called Ake.”<note type="translation">Trans. J. L. Rife with ref. to Billerbeck and Zubler 2011</note>
+        <anchor xml:id="testimonia-219.en.1" corresp="#testimonia-219.grc.1"/>Doros. City in
+        Phoenicia. Hecataeus in [his book on] Asia: “After that is the city called Doros in the old
+        times but today Dora.” So Josephus called it this in <title>Jewish Antiquities</title> 5:
+        “from the Jordan to the city Doros”; and “bordered by Azotos and Doros”; and in
+          <title>Jewish Antiquities</title> 6: “there is a woman in the city Doros”; and “when he
+        came to Doros.” Claudius Iolaus in <title>Phoenicica</title> 3: “Behind
+          <placeName>Caesarea</placeName> is located Dor, a small settlement. Phoenicians inhabit it
+        who, because of the rocky seabed and the fertile conditions for purple-dye shellfish, came
+        together and built huts for themselves and erected a palisade all around. When the fruits of
+        their labor brought them success, quarrying the bedrock, they founded walls out of the
+        extracted stones and established a breakwater for good mooring, as safe as possible. They
+        gave it an eponymous name, Dor, in the language of their homeland, but the Greeks just
+        called the city Dora for easy pronunciation. And some report that Doros the son of Poseidon
+        was the city’s founder.” Artemidorus knows the city Dora in <title>Epitome</title> of 11
+        books: “Continuing on is <placeName>Straton’s Tower</placeName>, and then Dora, a town
+        situated on the peninsula where Mount Carmel begins.” Τhe same thing in
+          <title>Geography</title> 9. But Apollodoros calls it Doros in Chronicle 4: “to Doros, a
+        coastal city.” Alexander in [his book on] Asia: “both Doros and waterside Iope projecting
+        into the sea.” And Charax [in book] 11: “Tryphon, beseiged by Antiochus at Dor, a city in
+        Koile Syria, fled to Ptolemaïs, also called Ake.”<note type="translation">Trans. J. L. Rife
+          with ref. to Billerbeck and Zubler 2011</note>
         <note type="discussion"/>
         <note type="corrigenda"/>
         <idno type="CTS-URN"/>

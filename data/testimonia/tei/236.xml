@@ -249,7 +249,7 @@
           <idno type="CTS-URN"/>
         </classCode>
         <catRef scheme="#CM-Testimonia-Type" target="#direct"/>
-        <catRef scheme="#CM-NEAEH" target="#crusader"/>
+        <catRef scheme="#CM-NEAEH" target="#earlyRoman #herodian #crusader"/>
       </textClass>
     </profileDesc>
     <revisionDesc status="draft">
@@ -276,9 +276,9 @@
         </quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/306432747">John of Würzburg</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Description of the Holy
                Land</title> <ref target="#bib236-1">489-495</ref>. This passage was written circa <origDate notBefore="" notAfter="" period="#">NaN CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
       <desc type="context">John was a cleric in Würzburg in Bavaria during the 12th century who
-            travelled on a pilgrimage to the Holy Land under the Kingdom of Jerusalem. In his
-            itinerary south from Mount Carmel he describes Caesarea as a city associated with the
-            early Church and Herod’s building programs.</desc>
+        travelled on a pilgrimage to the Holy Land under the Kingdom of Jerusalem. In his itinerary
+        south from Mount Carmel, he describes Caesarea as a city associated with the early Church
+        and Herod’s building programs.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote236-1" source="#bib236-1">
         <anchor xml:id="testimonia-236.la.1" corresp="#testimonia-236.en.1"/>Sextodecimo miliario a monte Carmeli contra meridiem <placeName>Cesarea
                Palaestina</placeName> metropolis, ex qua Cornelius centurio, quem in ea baptizavit

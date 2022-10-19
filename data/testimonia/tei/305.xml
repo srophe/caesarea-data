@@ -265,12 +265,12 @@
          <desc type="context">Claudius Ptolemy was a learned Greek scholar, apparently of
             Greco-Egyptian descent and Roman citizenship, who conducted research in the fields of
             astronomy, mathematics, and geography during the 2nd century C.E. Apart from the
-            Almagest, his famous astronomical treatise, his most influential work was a detailed
-            survey of the world containing a gazetteer of places plotted in coordinates, his version
-            of longitude (degrees of arc from a notional meridian through the Blessed Isles) and
-            latitude (degrees of arc from the equator). In the book on Asia, Ptolemy defined the
-            limits of Palestine-Judaea and plotted the settlements along the coast, including
-            “Caesarea Stratonis.”</desc>
+               <title>Almagest</title>, his famous astronomical treatise, his most influential work
+            was a detailed survey of the world containing a gazetteer of places plotted in
+            coordinates, his version of longitude (degrees of arc from a notional meridian through
+            the Blessed Isles) and latitude (degrees of arc from the equator). In the book on Asia,
+            Ptolemy defined the limits of Palestine-Judaea and plotted the settlements along the
+            coast, including “Caesarea Stratonis.”</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote305-1" source="#bib305-1">
         <anchor xml:id="testimonia-305.grc.1" corresp="#testimonia-305.en.1"/>(1) Ἡ Παλαιστίνη, ἥτις καὶ Ἰουδαία καλεῖται, περιορίζεται ἀπὸ μὲν ἄρκτων
             καὶ ἀνατολῶν Συρίᾳ κατὰ τὴν ἐκτεθειμένην γραμμήν, ἀπὸ δὲ [ἀνατολῶν καὶ] μεσημβρίας
@@ -288,21 +288,22 @@
         <ref target=""/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote305-2" source="#bib305-2">
-        <anchor xml:id="testimonia-305.en.1" corresp="#testimonia-305.grc.1"/>1) Palestine, which is also called Judaea, is bordered on the north
-            and the east by Syria along the line mentioned above. On the east and south it is
-            bordered by Arabia Petraea along a line drawn from the southeastern border of Syria to
-            its terminus at Egypt, The location of that terminus is, as stated, 64° 15ʹ 30° 40ʹ. On
-            the west it is bordered by the part of Egypt extending from there to the sea, and by the
-            adjacent sea to the border of Syria according to the following description: 2) After the
-            mouth of the river Chorseas: Caesarea Stratonis 66° 15ʹ 32° 30ʹ Apollonia 66° 32° 15ʹ
-            Ioppe 65° 40ʹ 32° 05ʹ Iamnia (port) 65° 32° Azotus 65° 15ʹ 31° 50ʹ Ascalon 65° 31° 40ʹ
-            Gaza (port) 64° 55ʹ 31° 30ʹ Anthedon 64° 50ʹ 31° 40ʹ <note type="translation">Trans. J.
-               L. Rife with ref. to Stevenson 1932 and Stückelberger and Graßhoff 2006</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
-        <idno type="CTS-URN"/>
-        <ref/>
-      </ab>
+            <anchor xml:id="testimonia-305.en.1" corresp="#testimonia-305.grc.1"/>1) Palestine,
+            which is also called Judaea, is bordered on the north and the east by Syria along the
+            line mentioned above. On the east and south it is bordered by Arabia Petraea along a
+            line drawn from the southeastern border of Syria to its terminus at Egypt, The location
+            of that terminus is, as stated, 64° 15ʹ 30° 40ʹ. On the west it is bordered by the part
+            of Egypt extending from there to the sea, and by the adjacent sea to the border of Syria
+            according to the following description: 2) After the mouth of the river Chorseas:
+               <placeName>Caesarea Stratonis</placeName> 66° 15ʹ 32° 30ʹ Apollonia 66° 32° 15ʹ Ioppe
+            65° 40ʹ 32° 05ʹ Iamnia (port) 65° 32° Azotus 65° 15ʹ 31° 50ʹ Ascalon 65° 31° 40ʹ Gaza
+            (port) 64° 55ʹ 31° 30ʹ Anthedon 64° 50ʹ 31° 40ʹ <note type="translation">Trans. J. L.
+               Rife with ref. to Stevenson 1932 and Stückelberger and Graßhoff 2006</note>
+            <note type="discussion"/>
+            <note type="corrigenda"/>
+            <idno type="CTS-URN"/>
+            <ref/>
+         </ab>
          <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib305-1">

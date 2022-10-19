@@ -266,14 +266,15 @@
           <placeName>Caesarea</placeName>
         </quote> are directly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Pilgrimages to Jerusalem</title> <ref target="#bib311-1">1-4</ref>. This passage was written circa <origDate notBefore="1250" notAfter="1295" period="#crusader# lateIslamic">1250-1295 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
       <desc type="context">A late-13th-century guide for pilgrims to Jerusalem and Galilee of
-            unknown authorship survives under the title Les pelerinaiges por aler en Iherusalem. It
-            appears at the end of a French translation and continuation of the chronicle by William
-            of Tyre in a manuscript written at Rome in May of 1295, and an expanded version appears
-            in a 14th-century French compilation. The work parallels the content of Ways and
-            Pilgrimages of the Holy Land A but exhibits enough variation to indicate that, while
-            both works most likely belong to the same general era, they descend from a common
-            source. In the passage on the sites between Acre and Ioppa, the author describes locales
-            in the hinterland of Caesarea as well as in its immediate vicinity or interior.</desc>
+        unknown authorship survives under the title <title>Les pelerinaiges por aler en
+          Iherusalem</title>. It appears at the end of a French translation and continuation of the
+        chronicle by William of Tyre in a manuscript written at Rome in May of 1295, and an expanded
+        version appears in a 14th-century French compilation. The work parallels the content of
+          <title>Ways and Pilgrimages of the Holy Land</title> A but exhibits enough variation to
+        indicate that, while both works most likely belong to the same general era, they descend
+        from a common source. In the passage on the sites between Acre and Ioppa, the author
+        describes locales in the hinterland of Caesarea as well as in its immediate vicinity or
+        interior.</desc>
       <ab type="edition" xml:lang="fro" xml:id="quote311-1" source="#bib311-1">
         <anchor xml:id="testimonia-311.fro.1" corresp="#testimonia-311.en.1"/>(1) Premierement l’en va d’Acres à Cayfas où il a .iiij. lieues. Après
             d’iqui est la montaigne du Carme où monseignor saint Denis est, qui fu nés à une ville

@@ -246,8 +246,8 @@
         <classCode scheme="https://distributed-text-services.github.io/specifications">
           <idno type="CTS-URN"/>
         </classCode>
-        <catRef scheme="#CM-Testimonia-Type" target="#direct"/>
-        <catRef scheme="#CM-NEAEH" target="#earlyRoman #herodian #byzantine"/>
+        <catRef scheme="#CM-Testimonia-Type" target="#indirect"/>
+        <catRef scheme="#CM-NEAEH" target="#earlyRoman #herodian"/>
       </textClass>
     </profileDesc>
     <revisionDesc status="draft">

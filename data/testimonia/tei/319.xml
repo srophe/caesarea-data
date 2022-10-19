@@ -265,12 +265,13 @@
           <placeName>Καισαρείας
                Παλαιστίνης</placeName>
         </quote> is directly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Suda</title> <ref target="#bib319-1">ι 401</ref>. This passage was written circa <origDate notBefore="0976" notAfter="0990" period="#earlyIslamic">976-990 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
-         <desc type="context">The Suda (“Stronghold”) is an encyclopedic lexicon written by an
-            unknown scholar during the late 10th century. It compiles copious information in
-            alphabetical entries for use by the learned philologist, in particular on grammar,
-            history, and biography, referring to a broad range of sources from Classical Antiquity
-            to the Early Byzantine period. This passage from the end of the lemma on Jovian (s.v.
-            Ἰοβιανός) mentions Acacius, the orthodox bishop of Caesarea in the 360s.</desc>
+         <desc type="context">The <title>Suda</title> (“Stronghold”) is an encyclopedic lexicon
+            written by an unknown scholar during the late 10th century. It compiles copious
+            information in alphabetical entries for use by the learned philologist, in particular on
+            grammar, history, and biography, referring to a broad range of sources from Classical
+            Antiquity to the Early Byzantine period. This passage from the end of the lemma on
+            Jovian (s.v. Ἰοβιανός) mentions Acacius, the orthodox bishop of Caesarea in the
+            360s.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote319-1" source="#bib319-1">
         <anchor xml:id="testimonia-319.grc.1" corresp="#testimonia-319.en.1"/>ὅτι ἐπὶ Ἰοβιανοῦ ἦν Ἀκάκιος ἐπίσκοπος <placeName>Καισαρείας
                Παλαιστίνης</placeName>, ὃς λίβελλον ἔγραψε περὶ ὀρθοδόξου πίστεως, ἀποδεχόμενος τὴν
@@ -280,13 +281,15 @@
         <idno type="CTS-URN">https://archive.org/details/adler-a.-suidae-lexicon-3-./Adler%20A.%2C%20Suidae%20Lexicon%202%20%28%CE%94-%CE%98%29/page/638/mode/2up</idno>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote319-2" source="#bib319-2">
-        <anchor xml:id="testimonia-319.en.1" corresp="#testimonia-319.grc.1"/>In the reign of Jovian, Acacius, who wrote a pamphlet about orthodox
-            faith and accepted the synod at Nicaea, was bishop of Caesarea Palestinae.<note type="translation">Rev. SOL (trans. A. Ring et al., 2004-)</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
-        <idno type="CTS-URN"/>
-        <ref target="http://www.cs.uky.edu/~raphael/sol/sol-entries/iota/401"/>
-      </ab>
+            <anchor xml:id="testimonia-319.en.1" corresp="#testimonia-319.grc.1"/>In the reign of
+            Jovian, Acacius, who wrote a pamphlet about orthodox faith and accepted the synod at
+            Nicaea, was bishop of <placeName>Caesarea Palestinae</placeName>.<note
+               type="translation">Rev. SOL (trans. A. Ring et al., 2004-)</note>
+            <note type="discussion"/>
+            <note type="corrigenda"/>
+            <idno type="CTS-URN"/>
+            <ref target="http://www.cs.uky.edu/~raphael/sol/sol-entries/iota/401"/>
+         </ab>
          <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib319-1">

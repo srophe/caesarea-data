@@ -241,8 +241,13 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Medicine Cabinet, or Against
-               Heresies</title> <ref target="#bib153-1">69.4.3-5</ref> written by <persName ref="http://viaf.org/viaf/13651211" role="author">Epiphanius</persName> in <origDate notBefore="0374" notAfter="0377" period="#byzantine">374-377 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/707617">Cypriot Salamis</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m"
+               >Medicine Cabinet, or Against Heresies</title>
+            <ref target="#bib153-1">69.4.3-5</ref> written by <persName
+               ref="http://viaf.org/viaf/13651211" role="author">Epiphanius</persName> in <origDate
+               notBefore="0374" notAfter="0377" period="#byzantine">0374 0377</origDate>. This work
+            was likely written in <origPlace ref="https://pleiades.stoa.org/places/707617">Cypriot
+               Salamis</origPlace>.</creation>
          <langUsage>
             <language ident="grc">Ancient Greek</language>
          </langUsage>
@@ -269,49 +274,53 @@
             in southern Palestine and Egypt, was appointed bishop of Salamis on Cyprus in ca.
             365-367 C.E., a post he held until his death in 403 C.E. He became a formidable champion
             of Orthodoxy, repeatedly entering into bitter controversy with the sees at Jerusalem and
-            Alexandria. His Medicine Cabinet (πανάριον, κιβώτιον, panarion, arcula), or Against
-            Heresies (κατὰ αἱρέσεων, adversus haereses), was a long compendium of portraits of
-            wayward sectarianism, stretching from the Greek philosophers and Judaism up to his own,
-            that meant to give theological and rhetorical antidotes to heresy. It has great
-            historical value for its detailed information on figures of the eastern Church,
-            frequently paraphrasing or quoting from earlier works or otherwise lost documents. In
-            his chapter on the Arians, Epiphanius records how Alexander, bishop of Alexandria,
-            circulated letters to the Palestinian, Phoenician, and Syrian bishops exhorting them to
-            rebuke and to refuse quarter to Arius, whom Alexander had exiled from Egypt during the
-            tense times before the First Ecumenical Council at Nicaea in 325 C.E.</desc>
+            Alexandria. His <title>Medicine Cabinet</title> (πανάριον, κιβώτιον,
+               <foreign>panarion</foreign>, <foreign>arcula</foreign>), or <title>Against
+               Heresies</title> (κατὰ αἱρέσεων, <foreign>adversus haereses</foreign>), was a long
+            compendium of portraits of wayward sectarianism, stretching from the Greek philosophers
+            and Judaism up to his own time, intended to give theological and rhetorical antidotes to
+            heresy. It has great historical value for its detailed information on figures of the
+            eastern Church, frequently paraphrasing or quoting from earlier works or otherwise lost
+            documents. In his chapter on the Arians, Epiphanius records how Alexander, bishop of
+            Alexandria, circulated letters to the Palestinian, Phoenician, and Syrian bishops
+            exhorting them to rebuke and to refuse quarter to Arius, whom Alexander had exiled from
+            Egypt during the tense times before the First Ecumenical Council at Nicaea in 325
+            C.E.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote153-1" source="#bib153-1">
-        <anchor xml:id="testimonia-153.grc.1" corresp="#testimonia-153.en.1"/>μετέπειτα δὲ εἰς ὦτα ἔρχεται τοῦ ἐπισκόπου Ἀλεξάνδρου καὶ γράφει
-            ἐπιστολὰς ἐγκυκλίους, αἵτινες παρὰ φιλοκάλοις ἔτι σῴζονται, ὡς τὸν ἀριθμὸν ἑβδομήκοντα,
-            τῶν ἐπισκόπων ἑκάστῳ, Εὐσεβίῳ εὐθὺς τῷ ἐν Καισαρείᾳ (περιῆν γάρ), καὶ Μακαρίῳ
-            Ἱεροσολύμων, Ἀσκληπιῷ ἐν Γάζῃ, Λογγίνῳ ἐν Ἀσκάλωνι, Μακρίνῳ τῷ ἐν Ἰαμνίᾳ καὶ ἄλλοις, ἔν
-            τε τῇ Φοινίκῃ Ζήνωνί τινι ἀρχαίῳ ἐν Τύρῳ καὶ ἄλλοις, ἅμα καὶ &lt;τοῖς&gt; ἐν τῇ Κοίλῃ
-            Συρίᾳ. ὡς οὖν ἀπεστάλησαν αἱ ἐπιστολαί, μεμφόμεναι τοὺς αὐτὸν ὑποδεξαμένους, ἕκαστος
-            ἀντέγραψε τῷ μακαρίῳ Ἀλεξάνδρῳ ἀπολογούμενος. καὶ οἱ μὲν εἰρωνείᾳ γεγράφασιν, ἄλλοι δὲ
-            ἐν ἀληθείᾳ, οἱ μὲν λέγοντες μὴ ὑπο- δέχεσθαι τοῦτον, ἄλλοι δὲ κατὰ ἄγνοιαν ὑποδέχεσθαι,
-            ἕτεροι δὲ φάσκοντες, ὡς διὰ τῆς ὑποδοχῆς κερδῆσαι αὐτόν, ἀπολογούμενοι. καὶ πολλή τίς
-            ἐστιν ἡ περὶ τούτων ὑπόθεσις. <note type="textual">Ed. Holl 1933</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
+            <anchor xml:id="testimonia-153.grc.1" corresp="#testimonia-153.en.1"/>μετέπειτα δὲ εἰς
+            ὦτα ἔρχεται τοῦ ἐπισκόπου Ἀλεξάνδρου καὶ γράφει ἐπιστολὰς ἐγκυκλίους, αἵτινες παρὰ
+            φιλοκάλοις ἔτι σῴζονται, ὡς τὸν ἀριθμὸν ἑβδομήκοντα, τῶν ἐπισκόπων ἑκάστῳ, Εὐσεβίῳ εὐθὺς
+            τῷ ἐν <placeName>Καισαρείᾳ</placeName> (περιῆν γάρ), καὶ Μακαρίῳ Ἱεροσολύμων, Ἀσκληπιῷ
+            ἐν Γάζῃ, Λογγίνῳ ἐν Ἀσκάλωνι, Μακρίνῳ τῷ ἐν Ἰαμνίᾳ καὶ ἄλλοις, ἔν τε τῇ Φοινίκῃ Ζήνωνί
+            τινι ἀρχαίῳ ἐν Τύρῳ καὶ ἄλλοις, ἅμα καὶ &lt;τοῖς&gt; ἐν τῇ Κοίλῃ Συρίᾳ. ὡς οὖν
+            ἀπεστάλησαν αἱ ἐπιστολαί, μεμφόμεναι τοὺς αὐτὸν ὑποδεξαμένους, ἕκαστος ἀντέγραψε τῷ
+            μακαρίῳ Ἀλεξάνδρῳ ἀπολογούμενος. καὶ οἱ μὲν εἰρωνείᾳ γεγράφασιν, ἄλλοι δὲ ἐν ἀληθείᾳ, οἱ
+            μὲν λέγοντες μὴ ὑπο- δέχεσθαι τοῦτον, ἄλλοι δὲ κατὰ ἄγνοιαν ὑποδέχεσθαι, ἕτεροι δὲ
+            φάσκοντες, ὡς διὰ τῆς ὑποδοχῆς κερδῆσαι αὐτόν, ἀπολογούμενοι. καὶ πολλή τίς ἐστιν ἡ περὶ
+            τούτων ὑπόθεσις. <note type="textual">Ed. Holl 1933</note>
+            <note type="discussion"/>
+            <note type="corrigenda"/>
+            <idno type="CTS-URN"/>
+            <ref target=""/>
+         </ab>
          <ab type="translation" xml:lang="en" xml:id="quote153-2" source="#bib153-2">
-        <anchor xml:id="testimonia-153.en.1" corresp="#testimonia-153.grc.1"/>(3) Afterwards this came to the ears of the bishop Alexander, and he
-            wrote to each bishop encyclical letters, around 70 altogether, which are still preserved
-            by scholars. He wrote immediately to Eusebius in Caesarea—he was alive—and to Macarius
+            <anchor xml:id="testimonia-153.en.1" corresp="#testimonia-153.grc.1"/>(3) Afterwards
+            this came to the ears of the bishop Alexander, and he wrote to each bishop encyclical
+            letters, around 70 altogether, which are still preserved by scholars. He wrote
+            immediately to Eusebius in <placeName>Caesarea</placeName>—he was alive—and to Macarius
             in Jerusalem, Asclepius in Gaza, Longinus in Ascalon, Macrinus in Iamnia, and others;
-            and in Phoenicia to Zeno, a senior bishop in Tyre, and others, along with [the bishops]
+            and in Phoenicia to Zeno, a senior bishop in Tyre, and others, along with (the bishops)
             in Coele Syria. (4) When the letters had been sent reproving those who had received
             (Arius), each bishop replied to the blessed Alexander with his defense. (5) And some
             wrote deceitfully, others truthfully, some explaining that they had not received him,
             others that they had received him in ignorance, and others claiming in self-defense that
             they had won him over by hospitality. And the story about these matters is a long
                one.<note type="translation">Rev. Williams 2013</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
+            <note type="discussion"/>
+            <note type="corrigenda"/>
+            <idno type="CTS-URN"/>
+            <ref target=""/>
+         </ab>
          <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib153-1">

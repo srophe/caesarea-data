@@ -262,14 +262,14 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/314</idno>
          </ab>
          <desc type="abstract" xml:id="abstract314-1">Caeasrea Maritima is indirectly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Suda</title> <ref target="#bib314-1">ω 182.618.36-619.14</ref>. This passage was written circa <origDate notBefore="0976" notAfter="0990" period="#earlyIslamic">976-990 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
-         <desc type="context">The Suda (“Stronghold”) is an encyclopedic lexicon written by an
-            unknown scholar during the late 10th century. It compiles copious information in
-            alphabetical entries for use by the learned philologist, in particular on grammar,
-            history, and biography, referring to a broad range of sources from Classical Antiquity
-            to the Early Byzantine period. This passage from the lemma on Origen (s.v. Ὠριγένης)
-            addresses the impact of his biblical exegesis as well as his philosophical program as a
-            teacher and scholar at Caesarea in the early 3rd century. Here the author depends
-            chiefly on the account of Eusebius written roughly 650 year earlier.</desc>
+         <desc type="context">The <title>Suda</title> (“Stronghold”) is an encyclopedic lexicon
+            written by an unknown scholar during the late 10th century. It compiles copious
+            information in alphabetical entries for use by the learned philologist, in particular on
+            grammar, history, and biography, referring to a broad range of sources from Classical
+            Antiquity to the Early Byzantine period. This passage from the lemma on Origen (s.v.
+            Ὠριγένης) addresses the impact of his biblical exegesis as well as his philosophical
+            program as a teacher and scholar at Caesarea in the early 3rd century. Here the author
+            depends chiefly on the account of Eusebius written roughly 650 year earlier.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote314-1" source="#bib314-1">
         <anchor xml:id="testimonia-314.grc.1" corresp="#testimonia-314.en.1"/>καὶ ἁπλῶς πᾶσαν γραφὴν ὑποσημηνάμενος ἐκκλησιαστικὴν πλεῖστα καὶ
             ἀναρίθμητα καταλέλοιπεν, ὡς ἐξ ἐκείνου πάντας τοὺς μετέπειτα τῆς ἐκκλησίας διδασκάλους

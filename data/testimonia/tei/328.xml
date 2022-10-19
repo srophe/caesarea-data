@@ -4,10 +4,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="en" level="a">Palladius of
-               Galatia, <title level="m">Dialog on the Life of St. John
-               Chrysostom</title> 20.143-157</title>
-        <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
+            <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
             <sponsor>Vanderbilt University</sponsor>
             <principal>Joseph L. Rife</principal>
             <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
@@ -16,40 +13,34 @@
             <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
             <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</editor>
             <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
+            <!-- Static metadata -->
             <respStmt>
-          <resp>TEI encoding by</resp>
-          <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
-        </respStmt>
-        <respStmt>
-          <resp>Electronic text added by</resp>
-          <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
-        </respStmt>
-        <respStmt>
                <resp>Testimonia identified by</resp>
                <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
-            </respStmt>
+            </respStmt><!-- Static metadata -->
          </titleStmt>
          <editionStmt>
             <edition n="1.0"/>
-         </editionStmt>
+         </editionStmt><!-- Static metadata -->
          <publicationStmt>
-            <authority>Caesarea City and Port Exploration Project</authority>
-            <idno type="URI">https://caesarea-maritima.org/testimonia/328/tei</idno>
+            <authority>Caesarea City and Port Exploration Project</authority><!-- Static metadata -->
+            <idno type="URI">328</idno><!-- Just need numerical sequence -->
             <availability>
                <licence target="http://creativecommons.org/licenses/by/4.0">
                   <p>Except for materials quoted from other sources, this entry is copyright 2021 by the contributors (Joseph L. Rife, et al.) and the Caesarea City and Port Exploration Project. It is licensed under the Attribution 4.0 International (CC BY 4.0) license.</p> <p>Some texts quoted in this entry may be in the public domain in the United States. No copyright is asserted for these quotations.</p> <p>Some texts quoted in this entry may have copyright restrictions and are reused under Section 107 of the Copyright Act of 1976 (Title 17 of the United States Code) which permits “fair use” of copyrighted materials for purposes such as criticism, comment, scholarship, and research. These texts remain under copyright of their owners. No copyright infringement is intended.</p>
                </licence>
             </availability>
-            <date>2021-08-09-04:00</date>
+            <date/><!-- add via post-processing -->
          </publicationStmt>
          <seriesStmt>
             <title level="s" xml:lang="en">Caesarea-Maritima.org: A Digital Archive</title>
             <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
             <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#plieberman">Phillip I. Lieberman</editor>
-         </seriesStmt>
+            <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#dmichelson">David A. Michelson</editor>
+         </seriesStmt><!-- Static metadata -->
          <sourceDesc>
             <p>Born digital.</p>
-         </sourceDesc>
+         </sourceDesc><!-- Static metadata -->
       </fileDesc>
       <encodingDesc>
          <editorialDecl>
@@ -59,169 +50,8 @@
             <p>Bibliographic items are identified by a unique Caesarea-Maritima.org URI, which is linked, when possible, to OCLC numbers and other identifiers.</p>
             <p>Dates have been encoded following the ISO 8601 standard, <ref target="https://www.iso.org/iso-8601-date-and-time-format.html">https://www.iso.org/iso-8601-date-and-time-format.html</ref>, and the best practices established for the Srophé App, see <ref target="http://srophe.app">http://srophe.app</ref>.</p>
             <p>Languages have been encoded using ISO 639-1 (<ref target="https://www.iso.org/standard/22109.html">https://www.iso.org/standard/22109.html</ref>), 639-2 (<ref target="https://www.iso.org/standard/4767.html">https://www.iso.org/standard/4767.html</ref>), and 639-3 (<ref target="https://www.iso.org/standard/39534.html">https://www.iso.org/standard/39534.html</ref>) codes, following best practices of the TEI guidelines, see <ref target="https://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html">https://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html</ref>.</p>
-         </editorialDecl>
+         </editorialDecl><!-- Static metadata -->
          <classDecl>
-            <taxonomy xml:id="CM-NEAEH">
-               <desc>
-                  <title>Caesarea-Maritima.org Chronology</title>: This chronology is adapted from the chronology used in <bibl>
-                     <title>The New Encyclopedia of Archaeological Excavations in the Holy Land</title>
-                     <ptr target="https://caesarea-maritima.org/bibl/HG492LV3"/>
-                  </bibl>.  This taxonomy is used in the <gi>catRef</gi> encoding to classify the testimonia according to the time period(s) of the events described, rather than the date of composition of the testimonium. For example, Josephus may describe events occuring well before the period of his writing.
-               </desc>
-               <category xml:id="lowerPaleolithic">
-                  <catDesc>Lower Paleolithic, 999999-119999 BCE</catDesc>
-               </category>
-               <category xml:id="upperAcheulean">
-                  <catDesc>Upper Acheulean, 498050-148050 BP</catDesc>
-               </category>
-               <category xml:id="acheulean">
-                  <catDesc>Acheulean, 298050-148050 BP</catDesc>
-               </category>
-               <category xml:id="mousterian">
-                  <catDesc>Mousterian, 138050-38050 BP</catDesc>
-               </category>
-               <category xml:id="middlePaleolithic">
-                  <catDesc>Middle Paleolithic, 119999-44999 BCE</catDesc>
-               </category>
-               <category xml:id="upperPaleolithic">
-                  <catDesc>Upper Paleolithic, 44999-17999 BCE</catDesc>
-               </category>
-               <category xml:id="kebaran">
-                  <catDesc>Kebaran , 18050-13050 BP</catDesc>
-               </category>
-               <category xml:id="epipaleolithic">
-                  <catDesc>Epipaleolithic, 17999-8299 BCE</catDesc>
-               </category>
-               <category xml:id="geometricKebaran">
-                  <catDesc>Geometric Kebaran, 12499-10899 BCE</catDesc>
-               </category>
-               <category xml:id="natufianCulture">
-                  <catDesc>Natufian Culture, 10799-8499 BCE</catDesc>
-               </category>
-               <category xml:id="pre-potteryNeolithic">
-                  <catDesc>Pre-Pottery Neolithic, 8299-5499 BCE</catDesc>
-               </category>
-               <category xml:id="potteryNeolithic">
-                  <catDesc>Pottery Neolithic, 5499-4499 BCE</catDesc>
-               </category>
-               <category xml:id="chalcolithic">
-                  <catDesc>Chalcolithic, 4499-3299 BCE</catDesc>
-               </category>
-               <category xml:id="earlyBronzeAge">
-                  <catDesc>Early Bronze Age, 3299-2199 BCE</catDesc>
-               </category>
-               <category xml:id="bronzeAge">
-                  <catDesc>Bronze Age, 3299-1199 BCE</catDesc>
-               </category>
-               <category xml:id="earlyBronzeAgeIa-b">
-                  <catDesc>Early Bronze Age IA-B, 3299-2999 BCE</catDesc>
-               </category>
-               <category xml:id="earlyBronzeAgeIi">
-                  <catDesc>Early Bronze Age II, 2999-2699 BCE</catDesc>
-               </category>
-               <category xml:id="earlyBronzeAgeIii">
-                  <catDesc>Early Bronze Age III, 2699-2199 BCE</catDesc>
-               </category>
-               <category xml:id="middleBronzeAge">
-                  <catDesc>Middle Bronze Age, 2199-1549 BCE</catDesc>
-               </category>
-               <category xml:id="middleBronzeAgeI">
-                  <catDesc>Middle Bronze Age I, 2199-1999 BCE</catDesc>
-               </category>
-               <category xml:id="middleBronzeAgeIia">
-                  <catDesc>Middle Bronze Age IIA, 1999-1749 BCE</catDesc>
-               </category>
-               <category xml:id="middleBronzeAgeIib">
-                  <catDesc>Middle Bronze Age IIB, 1749-1549 BCE</catDesc>
-               </category>
-               <category xml:id="lateBronzeAge">
-                  <catDesc>Late Bronze Age, 1599-1200 BCE</catDesc>
-               </category>
-               <category xml:id="lateBronzeAgeI">
-                  <catDesc>Late Bronze Age I, 1549-1399 BCE</catDesc>
-               </category>
-               <category xml:id="lateBronzeAgeIia">
-                  <catDesc>Late Bronze Age IIA, 1399-1299 BCE</catDesc>
-               </category>
-               <category xml:id="lateBronzeAgeIib">
-                  <catDesc>Late Bronze Age IIB, 1299-1199 BCE</catDesc>
-               </category>
-               <category xml:id="ironAge">
-                  <catDesc>Iron Age, 1199-585 BCE</catDesc>
-               </category>
-               <category xml:id="ironAgeIa">
-                  <catDesc>Iron Age IA, 1199-1149 BCE</catDesc>
-               </category>
-               <category xml:id="ironAgeIb">
-                  <catDesc>Iron Age IB, 1149-999 BCE</catDesc>
-               </category>
-               <category xml:id="ironAgeIia">
-                  <catDesc>Iron Age IIA, 999-899 BCE</catDesc>
-               </category>
-               <category xml:id="ironAgeIib">
-                  <catDesc>Iron Age IIB, 899-699 BCE</catDesc>
-               </category>
-               <category xml:id="ironAgeIic">
-                  <catDesc>Iron Age IIC, 699-585 BCE</catDesc>
-               </category>
-               <category xml:id="babylonianAndPersian">
-                  <catDesc>Babylonian and Persian Periods, 585-331 BCE</catDesc>
-               </category>
-               <category xml:id="classicalPeriod">
-                   <catDesc>Classical Period, 480-336 BCE</catDesc>
-               </category>
-               <category xml:id="earlyHellenistic">
-                  <catDesc>Early Hellenistic Period, 331-166 BCE</catDesc>
-               </category>
-               <category xml:id="hellenistic">
-                  <catDesc>Hellenistic Period, 331-36 BCE</catDesc>
-               </category>
-               <category xml:id="earlyNabatean">
-                  <catDesc>Early Nabatean Period, 331-36 BCE</catDesc>
-               </category>
-               <category xml:id="nabateanKingdom">
-                  <catDesc>Nabatean Kingdom, 167 BCE-106 CE</catDesc>
-               </category>
-               <category xml:id="lateHellenistic">
-                  <catDesc>Late Hellenistic Period, 166-36 BCE</catDesc>
-               </category>
-               <category xml:id="earlyRoman">
-                  <catDesc>Early Roman Period, 36 BCE-132 CE</catDesc>
-               </category>
-               <category xml:id="herodian">
-                  <catDesc>Herodian Period, 36 BCE-70 CE</catDesc>
-               </category>
-               <category xml:id="middleNabatean">
-                  <catDesc>Middle Nabatean Period, 24 BCE-50 CE</catDesc>
-               </category>
-               <category xml:id="lateRoman">
-                  <catDesc>Late Roman Period, 132-324 CE</catDesc>
-               </category>
-               <category xml:id="byzantine">
-                  <catDesc>Byzantine Period, 324-638 CE</catDesc>
-               </category>
-               <category xml:id="earlyIslamic">
-                  <catDesc>Early Islamic Period, 638-1099 CE</catDesc>
-               </category>
-               <category xml:id="crusader">
-                  <catDesc>Crusader Period, 1099-1291 CE</catDesc>
-               </category>
-               <category xml:id="lateIslamic">
-                  <catDesc>Late Islamic Period, 1291-1516 CE</catDesc>
-               </category>
-               <category xml:id="ottoman">
-                  <catDesc>Ottoman Period, 1516-1917 CE</catDesc>
-               </category>
-               <category xml:id="britishTerritorialAdministration">
-                  <catDesc>British Territorial Administration, 1917-1920 CE</catDesc>
-               </category>
-               <category xml:id="britishMandate">
-                  <catDesc>British Mandate Period, 1920-1948 CE</catDesc>
-               </category>
-               <category xml:id="modernState">
-                  <catDesc>Modern State, 1948- CE</catDesc>
-               </category>
-            </taxonomy>
             <taxonomy xml:id="CM-Testimonia-Type">
                 <desc>
                 <title>Caesarea-Maritima.org Testimonia Typology</title>: This typology defines three subsets of testimonia employed by the project and is used in the <gi>catRef</gi> below to further categorize a given testimonia record.
@@ -242,152 +72,190 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Dialog on the Life of St. John
-               Chrysostom</title> <ref target="#bib328-1">20.143-157</ref> written by <persName role="author" ref="http://viaf.org/viaf/61550437">Palladius of
-               Galatia</persName> in <origDate notBefore="0405" notAfter="0408" period="#byzantine">405-408 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/511240">Helenopolis</origPlace>.</creation>
+         <creation>
+            <title xml:lang="en" ref="urn:cts:greekLit:tlg2111.tlg001" type="uniform" level="m"
+               >History for Lausus</title>
+            <ref>70</ref>
+            <persName ref="http://viaf.org/viaf/61550437" role="author">Palladius of
+               Galatia</persName>
+            <origDate/>
+            <origPlace ref="https://pleiades.stoa.org/places/619161">Aspuna</origPlace>
+         </creation>
          <langUsage>
-            <language ident="grc">Ancient Greek</language>
+            <language ident="grc"/>
          </langUsage>
          <textClass>
             <classCode scheme="https://distributed-text-services.github.io/specifications">
                <idno type="CTS-URN"/>
             </classCode>
-            <catRef scheme="#CM-Testimonia-Type"/>
+            <catRef scheme="#CM-Testimonia-Type" target="#direct"/>
             <catRef scheme="#CM-NEAEH" target="#byzantine"/>
          </textClass>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
+         <change who="jrife" when="">ADDED: testimonium ID, URNs, URLs to edition and translation,
+            and Bibl URIs</change>
+         <change who="jrife" when="">CREATED: testimonium</change>
       </revisionDesc>
    </teiHeader>
    <text>
       <body>
          <ab type="identifier">
-            <idno type="URI">https://caesarea-maritima.org/testimonia/328</idno>
+            <idno type="URI"/>
          </ab>
-         <desc type="abstract" xml:id="abstract328-1">Caeasrea Maritima is indirectly attested at <persName role="author" ref="http://viaf.org/viaf/61550437">Palladius of
-               Galatia</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Dialog on the Life of St. John
-               Chrysostom</title> <ref target="#bib328-1">20.143-157</ref>. This passage was written circa <origDate notBefore="0405" notAfter="0408" period="#byzantine">405-408 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/511240">Helenopolis</origPlace>.</desc>
+         <desc type="abstract"/>
          <desc type="context">During an era of revolutionary religious practice and intense
-            theological debate, Palladius is most famous as the author of one of the most
-            influential works of Late Antiquity, the collection of biographies of holy persons in
-            his History for Lausus. Palladius of Galatia entered the monastic life in the late 4th
-            century, travelled to Alexandria and Nitria (where he stayed for nine years among the
-            Desert Fathers), and after a sojourn in Palestine returned to Asia Minor in 400 as
-            bishop of Bithynian Helenopolis. In the years immediately following he served as a
-            staunch advocate of John Chrysostom, who had fallen into deep controversy among the
-            ecclesiastical hierarchs and the Imperial circle in his see at Constantinople. The
-            Dialog on the Life of St. John Chrysostom, which is fashioned as a discourse in
-            political and moral philosophy between Palladius and Theodorus, deacon at Rome, was most
-            likely written by Palladius in the wake of John’s second expulsion. In this passage near
-            the work’s end, the author narrates how those bishops aligned with Theophilus, patriarch
-            of Alexandria, against the Johannine faction persecuted his followers, among whom
-            Eulogius, bishop of Caesarea, is named as especially cruel.</desc>
-         <ab type="edition" xml:lang="grc" xml:id="quote328-1" source="#bib328-1">
-        <anchor xml:id="testimonia-328.grc.1" corresp="#testimonia-328.en.1"/>Εἰς τοσοῦτον δὲ ὠμότητος οἱ κατὰ τόπον ἤκμασαν ἐπίσκοποι τῶν κοινωνικῶν
-            Θεοφίλου κατὰ τὴν ἀνατολὴν πᾶσαν, ὡς ἔλεγεν ὁ ἐλθὼν ἀσκητής, ὥς τινας αὐτῶν οὐχὶ μόνον
-            μὴ ἐνδείξασθαι τὴν ὀφειλομένην σωφροσύνην ἀλλὰ καὶ μετὰ δώρων πείθειν τοὺς ἐπαρχικοὺς
-            τάχιον ἐξελαύνειν τῶν πόλεων. Εἰσὶ δὲ οἱ μάλιστα τοῦτο πεποιηκότες, ὁ Ταρσοῦ καὶ ὁ
-            Ἀντιοχείας καὶ Εὐλόγιος ὁ <placeName>Καισαρείας τῆς Παλαιστίνης</placeName>, ὅ τε
-            Ἀγκύρας πρὸ πάντων καὶ Ἀμμώνιος ὁ τοῦ Πηλουσίου, τοῦτο μὲν δόμασι, τοῦτο δὲ ἀπειλαῖς
-            πλέον κατ’ αὐτῶν τοὺς διάγοντας στρατιώτας ἐξαγριοῦντες, ἵνα μήτε τοὺς τῶν βουλομένων
-            λαϊκῶν ἐπιδέχεσθαι αὐτοὺς συγχωρῶσιν …<note type="textual">Ed. Malingrey and Leclerq
-               1988</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
-         <ab type="translation" xml:lang="en" xml:id="quote328-2" source="#bib328-2">
-        <anchor xml:id="testimonia-328.en.1" corresp="#testimonia-328.grc.1"/>The local bishops in communion with Theophilus throughout the East
-            reached such a level of savage cruelty that, according to a monk who came (from there),
-            some of them not only failed to show the necessary moderation, but they even bribed the
-            provincial officials to remove (their prisoners) more quickly from the cities. The prime
-            offenders in this regard were the Bishops of Tarsus and Antioch, Eulogius, Bishop of
-            Caesarea in Palestine, and above all the Bishop of Ancyra and Ammonius, Bishop of
-            Pelusium. They made the soldiers in charge (of the prisoners) more savage towards them,
-            sometimes using payments, sometimes threats, so that they did not even allow those of
-            the laity who wished to do so to receive (the prisoners) in their homes …<note type="translation">Trans. J. L Rife with ref. to Moore 1921 and Malingrey and Leclerq
-               1988 </note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
-        <idno type="CTS-URN"/>
-        <ref/>
-      </ab>
+            theological debate, Palladius wrote one of the most influential works of Late Antiquity:
+            a collection of biographies of holy persons, his <title>History for Lausus</title>.
+            Palladius of Galatia entered the monastic life in the late 4th century, travelled to
+            Alexandria and Nitria (where he stayed for nine years among the Desert Fathers), and,
+            after a sojourn in Palestine, returned to Asia Minor in 400 as bishop of Bithynian
+            Helenopolis. He wrote his religious history for Lausus, chamberlain in the court of
+            Theodosius II (<title>historia Lausiaca</title>), later in his career, after a period of
+            controversy and further stays in Egypt and Palestine. This passage portrays a legal and
+            spiritual controversy involving the daughter of a presbyter in Caesarea, who was
+            impregnated by an assailant, a wrongfully accused reader in the local congregation, the
+            Bishop (of Caesarea?), and a nearby convent.</desc>
+         <ab type="edition">(1) Πρεσβυτέρου τινὸς θυγάτηρ ἐν <placeName>Καισαρείᾳ τῆς
+               Παλαιστίνης</placeName> ἐκπεσοῦσα παρθένος παρὰ τοῦ ταύτην φθείραντος ἐδιδάχθη
+            ἀναγνώστην τινὰ τῆς πόλεως συκοφαντῆσαι. Καὶ γενονυίας ἤδη ἐγκύου, ἐξεταζομένη παρὰ τοῦ
+            πατρὸς κατεῖπε τοῦ ἀναγνώστου. Ὁ δὲ πρεσβύτερος θαρσῶν ἀνήνεγκε τῷ ἐπισκόπῳ. Ὁ δὲ
+            ἐπίσκοπος συνερότησε τὸ ἱερατεῖον καὶ ἐποίησε κληθῆναι τὸν ἀναγνώστην. Ἐβασανίζετο ἡ
+            ὑπόθεσις· ἐρωτώμενος παρὰ τοῦ ἐπισκόπου ὁ ἀναγνώστης οὐχ ὡμολόγει· τὸ γὰρ μὴ γενόμενον
+            πῶς καὶ ἐνῆν ῥηθῆναι; (2) Ἀγανακτῶν ὁ ἐπίσκοπος ἐμβριθῶς ἔλεγε αὐτῷ· “Οὐχ ὁμολογεῖς,
+            ἄθλιε καὶ ταλαίπωρε, καὶ ἀκαθαρσίας μεστέ;” Ἀπεκρίνατο ὁ ἀναγνώστης· “Ἐγὼ τὸ ὂν εἶπον,
+            ὅτι οὐκ ἔχω πρᾶγμα· ἀναίτιος γάρ εἰμι καὶ τῆς ἐννοίας τῆς πρὸς ἐκείνην. Εἰ δὲ θέλεις τὸ
+            μὴ ὂν ἀκοῦσαι, πέπραχα.” Τοῦτο αὐτοῦ εἰρηκότος καθεῖλε τὸν ἀναγνώστην. Τότε προσελθὼν
+            παρακαλεῖ τὸν ἐπίσκοπον καὶ λέγει αὐτῷ· “Οὐκοῦν ἐπειδὴ ἔπταισα κέλευσόν μοι αὐτὴν εἰς
+            γυναῖκα δοθῆναι· οὔτε γὰρ ἐγὼ κληρικὸς λοιπὸν οὔτε ἐκείνη παρθένος.” (3) Ἔκδοτον οὖν
+            αὐτὴν δέδωκε τῷ ἀναγνώστῃ, προσδοκήσας διακεῖσθαι τὸν νεώτερον περὶ αὐτὴν καὶ ἄλλως μὴ
+            δύνασθαι ἀποκοπῆναι τὴν πρὸς αὐτὴν συνήθειαν. Λαβὼν οὖν αὐτὴν ὁ νεώτερος καὶ παρὰ τοῦ
+            ἐπισκόπου καὶ παρὰ τοῦ πατρός, παρατίθεται μοναστηρίῳ γυναικῶν καὶ παρακαλεῖ τὴν αὐτόθι
+            διάκονον τῆς ἀδελφότητος μέχρι τοῦ τοκετοῦ αὐτῆς ἀνέχεσθαι. Ἐντὸς οὖν ὀλίγου χρόνου
+            ἐπληρώθησαν αἱ ἡμέραι τοῦ τεκεῖν· παρέστη ἡ κρισίμη ὥρα, στεναγμοί, ὠδῖνες, πόνοι,
+            καταχθονίων ὁράσεις· καὶ τὸ βρέφος οὐκ ἐξήρχετο. (4) Παρῆλθεν ἡ πρώτη ἡμέρα, ἡ δευτέρα,
+            ἡ τρίτη, ἡ ἑβδόμη· ἡ γυνὴ ἀπὸ τῆς ὀδύνης τῷ ᾅδῃ προσομιλοῦσα οὐκ ἔφαγεν, οὐκ ἔπιεν, οὐκ
+            ἐκαθεύδησεν, ἀλλ’ ἐβόα λέγουσα· “Οἴμοι τῇ ἀθλίᾳ, κινδυνεύω συκοφαντήσασα τόνδε τὸν
+            ἀναγνώστην.” Ἀπελθοῦσαι λέγουσι τῷ πατρί. Ὁ πατὴρ φοβούμενος τὸ καταγνωσθῆναι ὡς
+            συκοφαντήσας, ἡσυχάζει ἄλλας δύο ἡμέρας. Ἡ κόρη οὔτε ἐτελεύτα οὔτε ἐγέννα. Ὡς οὖν τὰς
+            βοὰς αὐτῆς οὐκ ἔφερον αἱ ἀσκήτριαι δραμοῦσαι ἀπήγγειλαν τῷ ἐπισκόπῳ ὅτι “Ἐξομολογεῖται
+            βοῶσα ἡ δεῖνα ἀπὸ ἡμερῶν ὅτι ἐσυκοφάντησε τὸν ἀναγνώστην.” Τότε πέμπει πρὸς αὐτὸν
+            διακόνους καὶ δηλοῖ αὐτῷ· “Εὖξαι ἵνα γεννήσῃ ἡ συκοφαντήσασά σε.” (5) Αὐτὸς δὲ οὐκ
+            ἔδωκεν αὐτοῖς ἀπόκρισιν οὔτε ἤνοιξε τὴν ἑαυτοῦ θύραν ἀφ’ ἧς ἡμέρας εἰσῆλθε δεόμενος τοῦ
+            θεοῦ. Ἀπέρχεται πάλιν ὁ πατὴρ πρὸς τὸν ἐπίσκοπον· γίνεται εὐχὴ ἐν τῇ ἐκκλησίᾳ· καὶ οὐδὲ
+            οὕτως ἐγέννησε. Τότε ἀναστὰς ὁ ἐπίσκοπος ἀπῆλθε πρὸς τὸν ἀναγνώστην, καὶ πλήξας τὴν
+            θύραν εἰσῆλθεν πρὸς αὐτὸν καὶ λέγει αὐτῷ· “Εὐστάθιε, ἀνάστα, λῦσον ὃ ἔδησας.” Παραχρῆμα
+            δὲ τοῦ ἀναγνώστου κλίναντος γόνυ σὺν τῷ ἐπισκόπῳ ἐγέννησεν ἡ γυνή. Ἴσχυσε δὲ ἡ τούτου
+            δέησις καὶ ἡ παραμονὴ τῆς προσευχῆς ἀναδεῖξαι καὶ τὴν συκοφαντίαν καὶ παιδεῦσαι καὶ τὴν
+            συκοφαντήσασαν· ἵνα μάθωμεν προσκαρτερεῖν ταῖς προσευχαῖς καὶ εἰδέναι αὐτῶν τὴν
+               δύναμιν.<note type="textual">Ed. Bartelink 1974</note><note type="textual"/><note
+               type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/><ref target=""
+            /></ab>
+         <ab type="translation">(1) A virgin once fell, the daughter of a certain presbyter in
+               <placeName>Caesarea Palestinae</placeName>, and was taught by her seducer to accuse a
+            certain reader in that city. When she had become pregnant, as she was being interrogated
+            by her father, she denounced the reader. The presbyter confidently referred the matter
+            to the bishop, and the bishop called his clergy together and had the reader summoned.
+            The case was investigated. The reader was questioned by the bishop but would not
+            confess. For how could that be told which had not happened? (2) The bishop was angry and
+            said to him sternly, “Do you not confess, you miserable and wretched man, full of
+            uncleanness?” The reader answered, “I said the truth, that it is no concern of mine. For
+            I am guiltless even of thinking about her. But if you wish to hear what is not true,
+            then I have done it.” When he said this, the bishop deposed the reader. Then he
+            approached the bishop and entreated him, and said to him, “Well then, since I have
+            fallen, bid her to be given me as wife. For neither am I a cleric any more nor is she a
+            virgin.” (3) So he gave her over to the reader, expecting that the young man would live
+            with her, and that otherwise his intercourse with her could not be interrupted. Now the
+            young man, having taken her both from the bishop and her father, handed her over to a
+            nunnery and exhorted the deaconness of the sisterhood there to support her until the
+            childbirth. So within a short timem the schedule of her pregnancy was completed. The
+            critical hour came—groans, pangs, labors, visions of hell—but the baby was not
+            delivered. (4) The first day passed, the second, third, seventh. The woman being in hell
+            with the pain did not eat, drink, or sleep, but cried out, saying, “Woe is me, miserable
+            woman that I am, I am in peril because I accused this reader falsely.” The nuns go off
+            and tell the father. The father, fearing to be condemned as a false accuser, keeps
+            silence two more days. The young woman neither died nor gave birth. So when the nuns
+            could no longer endure her cries, they ran and told the bishop, “So-and-so has confessed
+            in her cries days ago that she accused the reader falsely.” Then [the bishop] sends
+            deacons to [the reader] and tells him, “Pray that she who accused you falsely may give
+            birth.” (5) But [the reader] gave them no answer nor opened his door, but from the day
+            he entered his house he had been praying to God. The father went away again to the
+            bishop; prayers were said in the church, and not even then did she give birth. Then the
+            bishop arose and went to the reader, and knocking at the door went in and said to him,
+            “Eustathius, arise, loose what you have fastened.” And immediately the reader knelt down
+            with the bishop and the woman gave birth. Now his pleading and the persistence of his
+            prayer were strong enough both to reveal the false accusation and to chastise the false
+            accuser, that we may learn to persevere in prayers and to know their power.<note
+               type="translation">Rev. Clarke 1918</note><note type="discussion"/><note
+               type="corrigenda"/><idno type="CTS-URN"/><ref
+               target="https://archive.org/details/lausiachistoryof002802mbp/page/n173/mode/2up"
+            /></ab>
          <listBibl>
-        <head>Works Cited</head>
-        <bibl xml:id="bib328-1">
-          <ptr target="https://caesarea-maritima.org/bibl/U2MC8WZI"/>
-          <citedRange unit="ch">20</citedRange>
-          <citedRange unit="line">143-157</citedRange>
-        </bibl>
-        <bibl xml:id="bib328-2">
-          <ptr target="https://caesarea-maritima.org/bibl/UBFSAZDA"/>
-        </bibl>
-      </listBibl>
-      <listBibl>
-        <head>Additional Bibliography</head>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-        <bibl>
-          <ptr target=""/>
-          <citedRange unit=""/>
-          <citedRange unit=""/>
-        </bibl>
-      </listBibl>
-      <note type="related-texts">
-        <p>John Chrysostom, Letter 87</p>
-      </note>
-      <note type="geography">
-        <p>Ancyra</p>
-        <p>Antioch on the Orontes</p>
-        <p>Pelusium</p>
-        <p>Tarsus</p>
-      </note>
-      <note type="prosopography">
-        <p>Ammonius, bishop</p>
-        <p>Eulogius, bishop</p>
-        <p>Theophilus of Alexandria</p>
-      </note>
-      <note type="themes">
-        <p>Christianity</p>
-        <p>Government and Law</p>
-        <p>Military</p>
-        <p>Roman History</p>
-      </note>
-    </body>
+            <head>Works Cited</head>
+            <bibl>
+               <ptr target="https://www.zotero.org/groups/2320447/items/Y6G5L3X3"/>
+               <citedRange unit="ch">70</citedRange>
+               <citedRange unit=""/>
+            </bibl>
+            <bibl>
+               <ptr target="https://www.zotero.org/groups/2320447/items/5MAJXY7B"/>
+               <citedRange unit="p">176-178</citedRange>
+               <citedRange unit=""/>
+            </bibl>
+         </listBibl>
+         <listBibl>
+            <head>Additional Bibliography</head>
+            <bibl>
+               <ptr target=""/>
+               <citedRange unit=""/>
+               <citedRange unit=""/>
+            </bibl>
+            <bibl>
+               <ptr target=""/>
+               <citedRange unit=""/>
+               <citedRange unit=""/>
+            </bibl>
+            <bibl>
+               <ptr target=""/>
+               <citedRange unit=""/>
+               <citedRange unit=""/>
+            </bibl>
+            <bibl>
+               <ptr target=""/>
+               <citedRange unit=""/>
+               <citedRange unit=""/>
+            </bibl>
+            <bibl>
+               <ptr target=""/>
+               <citedRange unit=""/>
+               <citedRange unit=""/>
+            </bibl>
+            <bibl>
+               <ptr target=""/>
+               <citedRange unit=""/>
+               <citedRange unit=""/>
+            </bibl>
+            <bibl>
+               <ptr target=""/>
+               <citedRange unit=""/>
+               <citedRange unit=""/>
+            </bibl>
+            <bibl>
+               <ptr target=""/>
+               <citedRange unit=""/>
+               <citedRange unit=""/>
+            </bibl>
+         </listBibl>
+         <note type="related-texts"/>
+         <note type="geography"/>
+         <note type="prosopography"/>
+         <note type="themes">
+            <p>Christianity</p>
+            <p>Education (sacred)</p>
+            <p>Family</p>
+            <p>Gender and Sexuality</p>
+            <p>Government and Law</p>
+         </note>
+      </body>
    </text>
 </TEI>

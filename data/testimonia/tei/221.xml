@@ -242,7 +242,7 @@
       <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Pilgrimages and Pardons of
                Acre</title> <ref target="#bib221-1">1.1</ref> written by <persName role="author">Unknown</persName> in <origDate notBefore="1258" notAfter="1263" period="#crusader">1258-1263 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</creation>
       <langUsage>
-        <language ident="fro">Old French</language>
+        <language ident="xno">Old French</language>
       </langUsage>
       <textClass>
         <classCode scheme="https://distributed-text-services.github.io/specifications">
@@ -269,11 +269,11 @@
         </quote> are directly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Pilgrimages and Pardons of
                Acre</title> <ref target="#bib221-1">1.1</ref>. This passage was written circa <origDate notBefore="1258" notAfter="1263" period="#crusader">1258-1263 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
       <desc type="context">The work written by an unknown pilgrim during the third quarter of the
-            13th century survives in one manuscript in Anglo-Norman French of the 14th century. It
-            has two parts, the first describing an itinerary that abbreviates Ways and Pilgrimages,
-            and the second describing pious visits to churches and hospices in Acre that can reduce
-            the Christian’s soul’s stay in purgatory (i.e., indulgences). The work begins abruptly
-            with this passage on the coastal route from Acre to Jaffa.</desc>
+        13th century survives in one manuscript in Anglo-Norman French of the 14th century. It has
+        two parts, the first describing an itinerary that abbreviates <title>Ways and
+          Pilgrimages</title>, and the second describing pious visits to churches and hospices in
+        Acre that can reduce the Christian’s soul’s stay in purgatory (i.e., indulgences). The work
+        begins abruptly with this passage on the coastal route from Acre to Jaffa.</desc>
       <ab type="edition" xml:lang="fro" xml:id="quote221-1" source="#bib221-1">
         <anchor xml:id="testimonia-221.fro.1" corresp="#testimonia-221.en.1"/>Ces sunt le pelrinages communes, que crestiens fount en la Seinre Terre.
             De la vyle de Acres à Seym Elye: iiij. liwes; de cele terre, e de la Cave Seynt Elye à

@@ -247,7 +247,7 @@
           <idno type="CTS-URN"/>
         </classCode>
         <catRef scheme="#CM-Testimonia-Type" target="#indirect"/>
-        <catRef scheme="#CM-NEAEH" target="#earlyRoman #herodian #byzantine"/>
+        <catRef scheme="#CM-NEAEH" target="#earlyRoman"/>
       </textClass>
     </profileDesc>
     <revisionDesc status="draft">
@@ -278,12 +278,13 @@
         <ref target="https://archive.org/details/devirisinlustri00jerogoog/page/n67/mode/2up"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote286-2" source="#bib286-2">
-        <anchor xml:id="testimonia-286.en.1" corresp="#testimonia-286.la.1"/>And because there is a full account of his conduct in the Acts of
-            the Apostles, I will only say this: in the twenty-fifth year after our Lord’s Passion,
-            that is, in the second of Nero [56 C.E.], at the time when when Festus succeeded Felix
-            as governor of Judaea, (Paul) was sent to Rome in chains. Remaining there for two years
-            in open custody, he carried on daily debates against the Jews concerning the coming of
-               Christ.<note type="translation">Adapted from Schaff 1892 and Halton 1999</note>
+        <anchor xml:id="testimonia-286.en.1" corresp="#testimonia-286.la.1"/>And because there is a
+        full account of his conduct in the <title>Acts of the Apostles</title>, I will only say
+        this: in the twenty-fifth year after our Lord’s Passion, that is, in the second of Nero [56
+        C.E.], at the time when when Festus succeeded Felix as governor of Judaea, (Paul) was sent
+        to Rome in chains. Remaining there for two years in open custody, he carried on daily
+        debates against the Jews concerning the coming of Christ.<note type="translation">Adapted
+          from Schaff 1892 and Halton 1999</note>
         <note type="discussion"/>
         <note type="corrigenda"/>
         <idno type="CTS-URN"/>

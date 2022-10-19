@@ -267,13 +267,13 @@
          <desc type="context">The “venerable” Bede was one of the great historians of the Early
             Middle Ages. Descended from an Anglo-Saxon family of status, he was a Benedictine monk
             at the monasteries of St. Peter and Paul in Northumbria, in what is today northeastern
-            England. Besides his magnum opus, Church History of the English People, his diverse and
-            erudite literary production included the short account of the Holy Land, an early work
-            of Bede’s written during his priesthood at Hexham. This passage describes the natural
-            terrain from the Judaean Hills west to the coast as far as Caesarea. Here Bede depends
-            fully on the account of Adomnán, the abbot of Iona who had visited his monastery a few
-            years earlier, and this passage was copied by Peter the Deacon, who wrote his Holy Place
-            some 450 years later.</desc>
+            England. Besides his magnum opus, <title>Church History of the English People</title>,
+            his diverse and erudite literary production included the short account of the Holy Land,
+            an early work of Bede’s written during his priesthood at Hexham. This passage describes
+            the natural terrain from the Judaean hills west to the coast as far as Caesarea. Here
+            Bede depends fully on the account of Adomnán, the abbot of Iona who had visited his
+            monastery a few years earlier, and this passage was copied by Peter the Deacon, who
+            wrote his <title>Holy Places</title> some 450 years later.</desc>
          <ab type="edition" xml:lang="la" xml:id="quote308-1" source="#bib308-1">
         <anchor xml:id="testimonia-308.la.1" corresp="#testimonia-308.en.1"/>Circa Hierusalem aspera ac montuosa cernuntur loca. Hinc quoque
             septemtrionem versus usque Arimathiam terra petrosa et aspera per intervalla quaedam

@@ -238,7 +238,12 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Easter Chronicle</title> <ref target="#bib245-1">62.8-19</ref> written by <persName role="author">Unknown</persName> in <origDate notBefore="" notAfter="" period="#">NaN CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Easter
+          Chronicle</title>
+        <ref target="#bib245-1">62.8-19</ref> written by <persName role="author">Unknown</persName>
+        in <origDate notBefore="" notAfter="" period="#">0630</origDate>. This work was likely
+        written in <origPlace ref="https://pleiades.stoa.org/places/520998"
+          >Constantinople</origPlace>.</creation>
       <langUsage>
         <language ident="grc">Ancient Greek</language>
       </langUsage>
@@ -265,13 +270,14 @@
         </quote>,  and <quote>
           <placeName>Caesarea</placeName>
         </quote> are directly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Easter Chronicle</title> <ref target="#bib245-1">62.8-19</ref>. This passage was written circa <origDate notBefore="" notAfter="" period="#">NaN CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
-      <desc type="context">The so-called Easter Chronicle (Chronicon Paschale) is a universal
-            history from the Creation down to the later reign of Heraclius, when it was composed,
-            based an amalgam of biblical, Christian, and secular sources. While the work shows a
-            particular interest in the dating of religious festivals, it contains a wealth of
-            historical and geographic information. After recounting the early geneaology of the Old
-            Testament in the early part of the chronicle, the unknown author reviews the peoples and
-            cities of the world, including this passage on North Africa to the Middle East.</desc>
+      <desc type="context">The so-called <title>Easter Chronicle</title> (<title>Chronicon
+          paschale</title>) is a universal history from the Creation down to the later reign of
+        Heraclius, when it was composed, based on an amalgam of biblical, Christian, and secular
+        sources. While the work shows a particular interest in the dating of religious festivals, it
+        contains a wealth of historical and geographic information. After recounting the early
+        geneaology of the Old Testament in the early part of the chronicle, the unknown author
+        reviews the peoples and cities of the world, including this passage on North Africa to the
+        Middle East.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote245-1" source="#bib245-1">
         <anchor xml:id="testimonia-245.grc.1" corresp="#testimonia-245.en.1"/>Ἔδοξέ μοι καὶ τὰς ἐπισήμους πόλεις τῶν ἑπτὰ κλιμάτων ἐξειπεῖν. Αʹ.
             Κλίματος πρώτου Λιβύης τῆς ἐν τῇ Αἰγύπτῳ, Νίγρης μητρόπολις Αἰθιοπίας τῆς ἐν τῇ αὐτῇ

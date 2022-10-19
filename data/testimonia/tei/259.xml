@@ -238,7 +238,13 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Dictionary of Place Names</title> <ref target="#bib259-1">162</ref> written by <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius</persName> in <origDate notBefore="0290" notAfter="0325" period="#lateRoman #byzantine">290-325 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m"
+          >Dictionary of Place Names</title>
+        <ref target="#bib259-1">162</ref> written by <persName ref="http://viaf.org/viaf/4929593"
+          role="author">Eusebius of Caesarea</persName> in <origDate notBefore="0290"
+          notAfter="0325" period="#lateRoman #byzantine">290-325 CE</origDate>. This work was likely
+        written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea
+          Maritima</origPlace>.</creation>
       <langUsage>
         <language ident="grc">Ancient Greek</language>
       </langUsage>
@@ -247,7 +253,7 @@
           <idno type="CTS-URN"/>
         </classCode>
         <catRef scheme="#CM-Testimonia-Type" target="#direct"/>
-        <catRef scheme="#CM-NEAEH" target="#lateRoman"/>
+        <catRef scheme="#CM-NEAEH" target="#ironAgeIib #ironAgeIic #lateRoman"/>
       </textClass>
     </profileDesc>
     <revisionDesc status="draft">
@@ -266,10 +272,10 @@
           <placeName>Caesarea</placeName>
         </quote> are directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Dictionary of Place Names</title> <ref target="#bib259-1">162</ref>. This passage was written circa <origDate notBefore="0290" notAfter="0325" period="#lateRoman# byzantine">290-325 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</desc>
       <desc type="context">In his lexicon of place names in Hebrew Scripture, Eusebius wrote
-            concerning marshy Saron named at Isaiah 33:9 that in his time there were two regions
-            called Saronas, one between Caesarea and Joppa. The same information is recorded in the
-            parallel passage at Jerome, Book of Places 163, written roughly one century after
-            Eusebius’ work.</desc>
+        concerning marshy Saron, named at <title>Isaiah</title> 33:9, that in his time there were
+        two regions called Saronas, one between Caesarea and Joppa. The same information is recorded
+        in the parallel passage at Jerome, <title>Book of Places</title> 163, written roughly one
+        century after Eusebius’ work.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote259-1" source="#bib259-1">
         <anchor xml:id="testimonia-259.grc.1" corresp="#testimonia-259.en.1"/>Σαρῶν. Ἠσαΐας· “ἓλη ἐγένετο ὁ Σαρών”. καὶ νῦν δὲ καλεῖται Σαρωνᾶς ἡ ἀπὸ
             τοῦ ὄρους Θαβὼρ ἐπὶ τὴν Τιβεριάδα λίμνην χώρα. καὶ ἄλλος ἐστὶ Σαρωνᾶς ἡ ἀπὸ <placeName>Καισαρείας</placeName> εἰς Ἰόππην χώρα.<note>Ed. Klosterman 1904 [cited by

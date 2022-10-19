@@ -267,7 +267,11 @@
         </quote>,  and <quote>
           <placeName>Caesarea Palestinae</placeName>
         </quote> are directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Dictionary of Place Names</title> <ref target="#bib129-1">78</ref>. This passage was written circa <origDate notBefore="0290" notAfter="0325" period="#lateRoman# byzantine">290-325 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</desc>
-      <desc type="context"/>
+      <desc type="context">In his lexicon of place names in Hebrew Scripture, Eusebius wrote that
+            Dor of Nafath named at <title>Joshua</title> 11:12 is located near Caesarea Maritima. He
+            also cited the Greek translation of by Symmachus in the late 2nd century C.E. The same
+            information is recorded in the parallel passage at Jerome, <title>Book of Places</title>
+            79, written roughly one century after Eusebius’ work.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote129-1" source="#bib129-1">
         <anchor xml:id="testimonia-129.grc.1" corresp="#testimonia-129.en.1"/>Δῶρ τοῦ Ναφάθ. Σʹ Δὼρ “τῆς παραλίας”, αὕτη ἐστὶ Δῶρα ἡ πρὸς
                <placeName>Καισάρειαν τῆς Παλαιστίνης</placeName> ἀπὸ σημείων θʹ ἀπιόντων Τυρὸν, νῦν

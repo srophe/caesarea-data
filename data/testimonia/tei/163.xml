@@ -255,8 +255,13 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:greekLit:tlg2733.tlg001" type="uniform" level="m">Ecclesiastical History</title>
-        <ref target="#bib163-1">4.7</ref> written by <persName ref="https://viaf.org/viaf/8181546" role="author">Evagrius Scholasticus </persName> in <origDate period="#byzantine" when="0593">593 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/658381">Antioch</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" type="uniform" level="m">Church
+          History</title>
+        <ref target="#bib163-1">4.7a</ref> written by <persName ref="https://viaf.org/viaf/8181546"
+          role="author">Evagrius Scholasticus </persName> in <origDate period="#byzantine"
+          when="0593">0593 0598</origDate>. This work was likely written in <origPlace
+          ref="https://pleiades.stoa.org/places/658381">Antioch on the
+        Orontes</origPlace>.</creation>
       <langUsage>
         <language ident="grc">Ancient Greek</language>
       </langUsage>
@@ -264,12 +269,12 @@
         <classCode scheme="https://distributed-text-services.github.io/specifications">
           <idno xml:base="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=" type="CTS-URN">urn:cts:greekLit:tlg2733.tlg001:4.7</idno>
         </classCode>
-        <catRef scheme="#CM-Testimonia-Type" target=""/>
-        <catRef scheme="#CM-NEAEH" target=""/>
+        <catRef scheme="#CM-Testimonia-Type" target="#direct"/>
+        <catRef scheme="#CM-NEAEH" target="#byzantine"/>
       </textClass>
     </profileDesc>
     <revisionDesc status="published">
-      <change who="https://caesarea-maritima.org/documentation/editors.xml#wpotter" when="2020-06-10-05:00">CREATED: testimonium</change>
+      <change who="jrife" when="2020-06-10-05:00">CREATED: testimonium</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -306,44 +311,80 @@
         </quote> are place names attested in <persName ref="https://viaf.org/viaf/8181546" role="author">Evagrius Scholasticus </persName>'s
           <title xml:lang="en" ref="urn:cts:greekLit:tlg2733.tlg001" type="uniform" level="m">Ecclesiastical History</title> 4.7. This testimonium was written circa <origDate period="#byzantine" when="0593">593 CE</origDate>. This work was likely written in
         <origPlace ref="https://pleiades.stoa.org/places/658381 ">Antioch</origPlace>.</desc>
-      <desc type="context"/>
-      <ab type="edition" xml:lang="grc" xml:id="quote163-1" source="#bib163-1">
-        <anchor xml:id="testimonia-163.grc.1" corresp="#testimonia-163.en.1"/>Ἀλλ̓ ἐπεὶ τῶν εἰρημένων ἐμνήσθημεν παθημάτων, [*] φέρε καὶ ἕτερα ἄττα τῶν ἀξιολόγων τῷ παρόντι προσθῶμεν [*] πόνῳ, ἅπερ εἰς ἡμᾶς ἐκ τῶν ἱστορησάντων ἐνηνέκται. Ζωσιμᾶς ἀνήρ, γένος Φοῖνιξ, τῆς λεγομένης παραλίας, κώμην Σίνδην πατρίδα κληρωσάμενος διέχουσαν τῆς τῶν Τυρίων οὔτι σταδίους εἴκοσι, τὸν μονήρη διαθλεύων βίον,οὕτως ταῖς τε ἀφέξεσι καὶ μεθέξεσι τῶν τροφῶν καὶ ταῖς ἄλλαις ἀρεταῖς τοῦ βίου τὸν θεὸν εἰσοικισάμενος ὡς μὴ μόνον διορᾶν τὰ μέλλοντα, ἀλλὰ καὶ πάσης ἀπαθείας χάριν λαβεῖν, συνῆν τῶν τινι ἐπισήμων ἀνὰ <placeName xml:lang="grc">τὴν Καίσαρος πόλιν,</placeName> ἣ μιᾶς τῶν Παλαιστινῶν ἡγεῖται: ἦν δὲ ἄρα οὗτος Ἀρκεσίλαος, ἀνὴρ εὐπατρίδης τε καὶ λόγιμος, εὖ τε ἀξιωμάτων καὶ τῶν λοιπῶν τῶν κοσμούντων ἀνδρὸς βίον ἥκων. Οὗτος ὁ Ζωσιμᾶς ἐν τῷ ἀκαρεῖ τῆς Ἀντιόχου πτώσεως ἀθρόον ἐπιστυγνάσας ὀλοφυρόμενός τε καὶ μύχιον ἀνοιμώξας, δάκρυά τε τοσαῦτα σπείσας ὡς καὶ τὴν γῆν ἐπιβρέξαι, θυμιατήριον ἐξῃτήσατο, καὶ πάντα τὸν χῶρον ἐν ᾧ καθειστήκεισαν ἐπιθυμιάσας ἐπὶ γῆς ἑαυτὸν ῥίπτει, προσευχαῖς τε καὶ λιταῖς τὸν θεὸν ἱλεούμενος. Εἶτα πυνθανομένου τοῦ Ἀρκεσιλάου τί ἄρα τὸ οὕτω διαταράξαν εἴη, διαρρήδην εἶπε τὴν ἠχὴν τῆς Ἀντιόχου πτώσεως αὐτίκα τὰ ὦτά οἱ περιβομβῆσαι. Ὥστε τὸν Ἀρκεσίλαον καὶ τοὺς παρατετυχηκότας ἐκπεπληγμένους ἀναγράψαι τὴν ὥραν, εὑρεῖν τε ἐς ὕστερον οὕτως ὡς ὁ Ζωσιμᾶς ἀπεφήνατο. Διὰ τούτου πολλαί τε καὶ ἕτεραι θεοσημεῖαι γεγόνασιν, ὧν τὸ πλῆθος παρείς, ἐπεὶ καὶ κρείττονος εἰπεῖν ἀριθμοῦ τυγχάνουσιν οὖσαι, ἔνια λέξω. Συνήκμαζε τῷ Ζωσιμᾷ ἀνήρ, Ἰωάννης τοὔνομα, ταῖς ἀρεταῖς παραπλήσιος, ἐν Χουζιβᾷ τῇ μάνδρᾳ — κεῖται δὲ πρὸς τῇ ἐσχατιᾷ τῆς χαράδρας ἀνὰ τὸ ἀρκτῷον μέρος τῆς λεωφόρου τῆς φερούσης τοὺς διαπορευομένους ἐξ Ἱεροσολύμων ἐπὶ τὴν Ἱεριχουντίων πόλιν — τὸν μονήρη τε καὶ ἄϋλον διαπαλαίσας βίον, ἐπισκοπήσας δὲ τὴν εἰρημένην μοι <placeName xml:lang="grc">Καίσαρος πόλιν.</placeName> Οὗτος ὁ Ἰωάννης ὁ Χουζιβίτης, ἐπεὶ τὴν Ἀρκεσιλάου τοῦ λελεγμένου μοι γυναῖκα ἠκηκόει θάτερον τοῖν ὀφθαλμοῖν ὑπὸ κερκίδος ἐκκοπέντα, δρομαίως ᾔει πρὸς αὐτὴν τὸ πάθος ἐπισκεψόμενος. Ὡς δ̓ οὖν ἐθεάσατο τήν τε κόρην ἐκπεσοῦσαν τέλεόν τε τὸν ὀφθαλμὸν διαρρυέντα, σπόγγον ἐπιτάττει τῶν τινι παρεφομαρτούντων ἰατρῶν ἐνεγκεῖν, εἰσαγαγεῖν τε τὸ διαρρυὲν ὡς ἂν δύναιτο, καὶ τὸν σπόγγον περιθέντα τελαμῶσιν ἀναδῆσαι, οὔτι παρόντος Ἀρκεσιλάου. Ἔτυχε γὰρ τῷ Ζωσιμᾷ παρὼν ἐν τῷ κατ̓ αὐτὸν φροντιστηρίῳ, ὅπερ ἐπὶ τῆς Σινδηνῶν ἔκειτο κώμης, διεστώσης <placeName xml:lang="grc">τῆς Καίσαρος</placeName> σταδίους μάλιστα πεντακοσίους. Δρομαῖοιτοίνυν παρὰ τὸν Ἀρκεσίλαον ἐκτρέχουσίν οἱ ταῦτα διαγγέλλοντες. Καθῆστο δὲ πρὸς Ζωσιμᾷ ὁ Ἀρκεσίλαος τὰς διαλέξεις ποιούμενος: ὅπερ ἐπειδὴ διέγνω, διωλύγιον ἀνεκώκυε, καὶ τὰς τρίχας ἐκτίλλων καὶ διασπῶν εἰς οὐρανὸν ἀνέπεμπε. Τοῦ δὲ Ζωσιμᾶ πυνθανομένουτὴν αἰτίαν, τὸ συμβὰν ὁ Ἀρκεσίλαος ἔλεγε ταῖς οἰμωγαῖς καὶ τοῖς δάκρυσι συχνὰ διακοπτόμενος. Ἀφεὶς οὖν τοῦτον ὁ Ζωσιμᾶς αὐτὸς καθ̓ ἑαυτὸν εἴς τι δωμάτιον ἐστρέχει ἔνθα τῷ θεῷ, ὡς θεμιτὸν τοῖς τοιούτοις, ἐνετύγχανεν. Μετὰ δ̓ αὖ τινα καιρὸν προσελθὼν ἔχαιρέν τεκαὶ σεμνὰ μειδιῶν πρὸς Ἀρκεσίλαον ἔλεγε τὴν χεῖρα καταψήχων: Ἄπιθι χαίρων, ἄπιθι: ἡ χάρις τῷ Χουζιβίτῃ δέδοται. Ἰάθη σου τὸ γύναιον, ἄμφω τὼ ὀφθαλμὼ ἔχει, οὐδὲν ἰσχυσάσης τῆς συμφορᾶς ἀφελέσθαι, οὕτω τοῦ Χουζιβίτου βουληθέντος. Ὅπερ καὶ γέγονεν ἀμφοῖντοῖν δικαίοιν κατὰ ταὐτὸ θαυματουργησάντοιν. Τούτῳ τῷ Ζωσιμᾷ καί ποτε ἐπὶ τὴν <placeName xml:lang="grc">Καίσαρος</placeName> ἰόντι ὀνάριόν τε παρασυρομένῳ ἐν ᾧ τῶν τινά οἱ ἐπιτηδείων ἐπεβέβλητο, λέων ἔπεισι καὶ τὸν ὄνον ἁρπάσας ἀπῄει. Ὁ δὲ Ζωσιμᾶς ἀνὰ τὴν ὕλην εἵπετο μέχρις ὅτου διακορὴσὁ λέων ἐκ τῆς θοίνης τοῦ ζῴου γέγονε: πρὸς ὃν ἐπιγελάσας ὁ Ζωσιμᾶς φησιν: Ἀλλὰ γάρ, ὦ ἑταῖρε, τὰ τῆς πορείας ἐμοὶ διακέκοπται πάχητί τε ὄντι πόρρω τε τῆς ἡλικίας ἀφιγμένῳ, καὶ μὴ δυναμένῳ νωτοφορεῖν τὰ ἐπὶ τοῦ ζῴου σεσαγμένα. Ἀχθοφορεῖν οὖν ἀνάγκη σεπαρὰ τὸν θεσμὸν τῆς φύσεως, εἴπερ ἐθέλεις τῶν ἐντεῦθεν τὸν Ζωσιμᾶν ἀπαλλάττεσθαι καὶ θηρίον αὖθις εἶναι. Ὁ δὲ τοῦ θυμοῦ καθάπαξ ἐπιλελησμένος ὑπέσαινε καὶ τῷ Ζωσιμᾷ προσέτρεχε πράως εὐθύς, καὶ διὰ τοῦ σχήματος ἐβόα τὸ πειθήνιον. Ὧι περιθεὶς ὁ Ζωσιμᾶς τοῦ ὄνου τὸ φορτίον μέχρι <placeName xml:lang="grc">τῶν πυλῶν τῆς Καίσαρος</placeName> ἤγαγε, δεικνὺς τοῦ θεοῦ τὴν δύναμιν καὶ ὡς ἅπαντα τοῖς ἀνθρώποις δοῦλά τε καὶ πειθήνια, ὅταν αὐτῷ ζῶμεν καὶ τὴν δεδομένην ἡμῖν χάριν οὐ παραχαράττομεν. Ἀλλ̓ ἵνα μὴ τοῖς πλείοσι τὴν ἱστορίαν παραμηκύνωμεν, ἐπάνειμι ὅθεν τὴν ἐκβολὴν ἐποιησάμην.
-        <note type="textual"/>
+      <desc type="context">Evagrius Scholasticus came from a background of wealth and education in
+        Syria. He rose to prominence in the circles of power in the early Byzantine empire and
+        church, as legal advisor to the Patriarchate of Antioch and honorary officeholder under
+        Maurice and Tiberius II. His <title>Church History</title> from the First Council of Ephesus
+        to the middle reign of Maurice (431-593/4 C.E.) provides especially rich evidence for the
+        history of Late Antique Syria. His famous portrait of Zosimas of Synda reveals the holy
+        man’s close connection to Caesarea, in particular his association with the otherwise unknown
+        grandee Arcesilaus, who became the venerable monk’s discussant and likely patron. In this
+        passage, Evagrius introduces Zosimas and Arcesilaus, and recounts the monk’s simultaneous
+        reaction to the earthquake that struck Antioch in May of 526 C.E.</desc>
+      <ab type="edition" xml:lang="grc" xml:id="quote163-1" source="#bib163-1"> Ἀλλ’ ἐπεὶ τῶν
+        εἰρημένων ἐμνήσθημεν παθημάτων, φέρε καὶ ἕτερα ἄττα τῶν ἀξιολόγων τῷ παρόντι προσθῶμεν πόνῳ,
+        ἅπερ εἰς ἡμᾶς ἐκ τῶν ἱστορησάντων ἐνηνέκται. Ζωσιμᾶς ἀνήρ, γένος Φοῖνιξ, τῆς λεγομένης
+        παραλίας, κώμην Σίνδην πατρίδα κληρωσάμενος διέχουσαν τῆς τῶν Τυρίων οὔτι σταδίους εἴκοσι,
+        τὸν μονήρη διαθλεύων βίον, οὕτως ταῖς τε ἀφέξεσι καὶ μεθέξεσι τῶν τροφῶν καὶ ταῖς ἄλλαις
+        ἀρεταῖς τοῦ βίου τὸν θεὸν εἰσοικισάμενος ὡς μὴ μόνον διορᾶν τὰ μέλλοντα, ἀλλὰ καὶ πάσης
+        ἀπαθείας χάριν λαβεῖν, συνῆν τῶν τινι ἐπισήμων ἀνὰ <placeName>τὴν Καίσαρος
+        πόλιν</placeName>, ἣ μιᾶς τῶν Παλαιστινῶν ἡγεῖται: ἦν δὲ ἄρα οὗτος Ἀρκεσίλαος, ἀνὴρ
+        εὐπατρίδης τε καὶ λόγιμος, εὖ τε ἀξιωμάτων καὶ τῶν λοιπῶν τῶν κοσμούντων ἀνδρὸς βίον ἥκων.
+        Οὗτος ὁ Ζωσιμᾶς ἐν τῷ ἀκαρεῖ τῆς Ἀντιόχου πτώσεως ἀθρόον ἐπιστυγνάσας ὀλοφυρόμενός τε καὶ
+        μύχιον ἀνοιμώξας, δάκρυά τε τοσαῦτα σπείσας ὡς καὶ τὴν γῆν ἐπιβρέξαι, θυμιατήριον ἐξῃτήσατο,
+        καὶ πάντα τὸν χῶρον ἐν ᾧ καθειστήκεισαν ἐπιθυμιάσας ἐπὶ γῆς ἑαυτὸν ῥίπτει, προσευχαῖς τε καὶ
+        λιταῖς τὸν θεὸν ἱλεούμενος. Εἶτα πυνθανομένου τοῦ Ἀρκεσιλάου τί ἄρα τὸ οὕτω διαταράξαν εἴη,
+        διαρρήδην εἶπε τὴν ἠχὴν τῆς Ἀντιόχου πτώσεως αὐτίκα τὰ ὦτά οἱ περιβομβῆσαι.<note
+          type="textual">Ed. Bidez and Parmentier 1898</note>
         <note type="discussion"/>
         <note type="corrigenda"/>
-        <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2733.tlg001.1st1K-grc1:4.7</idno>
-        <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2733.tlg001.1st1K-grc1:4.7"/>
+        <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/"/>
+        <ref target="https://babel.hathitrust.org/cgi/pt?id=hvd.ah3vvp&amp;view=1up&amp;seq=182"/>
       </ab>
-      <ab type="translation" xml:lang="en" xml:id="quote163-2" source="#bib163-2">
-        <anchor xml:id="testimonia-163.en.1" corresp="#testimonia-163.grc.1"/>"Now that I have recorded the above-mentioned calamities, let me also add to the present narrative some other circumstances worthy of record, and which have been transmitted to us from those who have made them a subject of notice. Zosimas was a native of Sinde, a village of Phoenicia Maritima, distant from Tyre about twenty stadia, and pursued the monastic discipline. He, by means both of abstinence and use of food, having attained to such a union with God as not only to discern forthcoming events, but also to possess the grace of perfect freedom from passion, was in company with a distinguished person <placeName xml:lang="en">from Caesarea,</placeName> the capital of one of the Palestines. This was Arcesilaus, a man of good family, accomplished, and high in dignities and whatever gives lustre to life. Zosimas, at the very moment of the overthrow of Antioch, suddenly became troubled, uttered lamentations and deep sighs, and then shedding such a profusion of tears as to bedew the ground, called for a censer, and having fumed the whole place where they were standing, throws himself upon the ground, propitiating God with prayers and supplications. Upon Arcesilaus asking the reason of all this trouble, he distinctly replied, that the sound of the overthrow of Antioch was at that instant ringing in his ears. This led Arcesilaus and the rest of the astonished company to note down the hour; and they afterwards found that it was as Zosimas had said. By his hand many other miracles were performed: but omitting the greater part of them, since they are too numerous to detail, I shall mention a few. Contemporary with Zosimas, and endued with equal virtues, was a man named John, who had practised the endurance of the solitary and immaterial life in the cloister called Chuzibas, situated at the extremity of the glen at the northern part of the highway leading from Jerusalem to Jericho, and was now bishop of the before-named <placeName xml:lang="en">Caesarea.</placeName> This John, the Chuzibite, having heard that the wife of Arcesilaus had lost one of her eyes by a stroke of a spindle, runs immediately to her to see the accident; and when he finds that the pupil is gone and the eye altogether lacerated, he commands one of the physicians in attendance to bring a sponge, and, having replaced as well as he could the lacerated parts, to apply and secure the sponge with bandages. Arcesilaus was absent, for he happened to be with Zosimas in his monastery at Sinde, distant from
-          <placeName xml:lang="en">Caesarea</placeName> full five hundred stadia. Accordingly, messengers proceeded with all haste to Arcesilaus, whom they found sitting in conversation with Zosimas. When informed of the circumstance, he uttered a piercing cry, tore his hair and cast it towards heaven. Upon Zosimas asking him the reason, he told him what had happened, interrupting his account with frequent wailings and tears. Whereupon Zosimas, leaving him alone, goes to his chamber, where he used to make his addresses to God according to the rule of such persons, and after some interval he approaches Arcesilaus with a solemnly joyous countenance, and gently pressing his hand, said : "Depart with joy, depart. Grace is given to the Chuzibite. Your wife is cured, and is in possession of both her eyes ; for the accident has had no power to deprive her of them, since such was the desire of the Chuzibite." This was brought about by the united wonder-working of both the just men. Again, as the same Zosimas was going <placeName xml:lang="en">to Caesarea</placeName>, and leading an ass laden with certain necessaries, a lion encountered him and carried off the ass. Zosimas follows into the wood, reaches the place where the lion was, satiated with his meal upon the beast, and smiling says, "Come, my friend; my journey is interrupted, since I am heavy and far advanced in years, and not able to carry on my back the ass's load. You must therefore carry it, though contrary to your nature, if you wish Zosimas to get out of this place and yourself to be a wild beast again." All at once the lion, forgetting his ferocity, fawned on him, and by his gestures plainly manifested obedience. Zosimas then put the ass's load upon him, and led him to the <placeName xml:lang="en">gates of Caesarea,</placeName> showing the power of God, and how all things are subservient to man if we live to Him and do not pervert the grace given to us. But that I may not render my history prolix by more circumstances of the kind, I will return to the point whence I digressed."
-        <note type="translation"/>
+      <ab type="translation" xml:lang="en" xml:id="quote163-2" source="#bib163-2">But since we have
+        mentioned the said misfortunes, come now, let us add to the present work some other
+        memorable events, which have been conveyed to us by those who have told the story. There was
+        a man Zosimas, a Phoenician by birth from the part called Maritima, who had been allotted as
+        his fatherland the village of Sinde, which is not 20 stadia distant from the city of Tyre.
+        He was a contender in the solitary life, and had to such an extent brought God into his
+        person through his abstinence from and partaking of food, and by the other virtues of his
+        life, that not only was he able to foresee future events, but also had the gift of complete
+        serenity. He was in the company of one of the distinguished men of the city of
+          <placeName>Caesarea</placeName>, which is the chief city of one of the Palestines. The man
+        indeed was Arcesilaus, a man of good birth and famous, who was well provided with honors and
+        the other things which decorate the life of man. This Zosimas, at the very moment of the
+        collapse of the city of Antioch, suddenly had a gloomy appearance, and lamented and groaned
+        inwardly, pouring forth so many tears that he actually soaked the earth. He requested a
+        censer, and after fumigating the whole place where they stood, he threw him on the ground
+        and appeased God with prayers and entreaties. Next, when Arcesilaus inquired what indeed it
+        was that was so distressing, he clearly said that the cry of the fall of the city of
+        Antiochus had just then echoed around his ears.<note type="translation">Rev. Whitby
+          2000</note>
         <note type="discussion"/>
-        <note type="corrigenda">Inaccuracies found in the transcription of the electronic text compared to its printed source have been corrected.</note>
+        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
-        <ref target="http://www.tertullian.org/fathers/evagrius_4_book4.htm"/>
+        <ref/>
       </ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib163-1">
-          <ptr target="https://caesarea-maritima.org/bibl/E9TN96M3"/>
-          <citedRange unit="section">4.7</citedRange>
+          <ptr target="https://www.zotero.org/groups/2320447/items/HJ8KVICN"/>
+          <citedRange unit="section">4.7a</citedRange>
         </bibl>
         <bibl xml:id="bib163-2">
-          <ptr target="https://caesarea-maritima.org/bibl/YPFYVCF6"/>
-          <citedRange unit="section">4.7</citedRange>
+          <ptr target="https://caesarea-maritima.org/bibl/MZDGW83Y"/>
+          <citedRange unit="p">205-206</citedRange>
         </bibl>
       </listBibl>
       <listBibl>
         <head>Additional Bibliography</head>
         <bibl>
-          <ptr target="https://caesarea-maritima.org/bibl/MZDGW83Y"/>
-          <citedRange unit="section">4.7</citedRange>
+          <ptr/>
+          <citedRange unit="section"/>
         </bibl>
         <bibl>
-          <ptr target="https://caesarea-maritima.org/bibl/7J8TATQA"/>
-          <citedRange unit="section">4.7</citedRange>
+          <ptr/>
+          <citedRange unit="section"/>
         </bibl>
         <bibl>
           <ptr target=""/>
@@ -376,10 +417,33 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-    <note type="related-texts"/>
-      <note type="geography"/>
-      <note type="prosopography"/>
-      <note type="themes"/>
+    <note type="related-texts">
+        <list type="simple">
+          <item>Nicephorus Callistus Xanthopoulos 17.4</item>
+        </list>
+      </note>
+      <note type="geography">
+        <list type="simple">
+          <item>Antioch on the Orontes</item>
+          <item>Phoenice Prima or Maritima</item>
+          <item>Sinde</item>
+          <item>Tyre</item>
+          <item>Palestina I</item>
+        </list>
+      </note>
+      <note type="prosopography">
+        <list type="simple">
+          <item>Zosimas of Synda, monk</item>
+          <item>Archelaus</item>
+        </list>
+      </note>
+      <note type="themes">
+        <p>Roman History</p>
+        <p>Christianity</p>
+        <p>Geography</p>
+        <p>Natural Environment</p>
+        <p>Government and Law</p>
+      </note>
     </body>
   </text>
 </TEI>

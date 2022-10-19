@@ -265,16 +265,16 @@
         </quote>,  and <quote>
           <placeName>Caesarea</placeName>
         </quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/9212160667777103560005">Ernoul</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref target="#bib223-1">10.13</ref>. This passage was written circa <origDate notBefore="" notAfter="" period="#">NaN CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
-      <desc type="context">This Chronicle is a pastiche of accounts of the Kingdom of Jerusalem
-            built around a core narrative written in Old French by one Ernoul (Ernoldus), squire to
-            Balian of Ibelin, that focused on events up to 1187; separate versions of the same text
-            with additions continued the historical narrative down to 1229 and 1231. The middle part
-            of the Chronicle is filled with geographical data and biblical references that appear
-            from their incongruity with the historal narrative to be interpolations. The detailed
-            chapter (10) on Nablus, however, most likely includes content by the hand of Ernoul, who
-            stayed over there in the retinue of Balian during his embassy from King Guy of Jerusalem
-            to Count Raymond III of Tripoli in 1187. Here the author notes the situation of Nablus
-            relative to Nazareth, Caesarea, and Jerusalem.</desc>
+      <desc type="context">This <title>Chronicle</title> is a pastiche of accounts of the Kingdom of
+        Jerusalem built around a core narrative written in Old French by one Ernoul (Ernoldus),
+        squire to Balian of Ibelin, that focused on events up to 1187; separate versions of the same
+        text with additions continued the historical narrative down to 1229 and 1231. The middle
+        part of the <title>Chronicle</title> is filled with geographical data and biblical
+        references that appear from their incongruity with the historal narrative to be
+        interpolations. The detailed chapter (10) on Nablus, however, most likely includes content
+        by the hand of Ernoul, who stayed over there in the retinue of Balian during his embassy
+        from King Guy of Jerusalem to Count Raymond III of Tripoli in 1187. Here the author notes
+        the situation of Nablus relative to Nazareth, Caesarea, and Jerusalem.</desc>
       <ab type="edition" xml:lang="fro" xml:id="quote223-1" source="#bib223-1">
         <anchor xml:id="testimonia-223.fro.1" corresp="#testimonia-223.en.1"/>Il a de Naples en Jherusalem XII liues, et de Naples en Nazareth XII
             liues; et si est Naples en mi voies de Nazareth et de Jherusalem. Or a de Naples à <placeName>Cesaire</placeName> sour mer XII liues, et de Naples au flun Jourdain V

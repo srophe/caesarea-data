@@ -276,43 +276,45 @@
           <placeName>Στράτωνος Πύργον</placeName>
         </quote> are directly attested at <persName ref="http://viaf.org/viaf/88969561" role="author">John Malalas</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref target="#bib133-1">9.17</ref>. This passage was written circa <origDate notBefore="0530" notAfter="0532" period="#byzantine">530-532 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/658381">Antioch on the
                Orontes</origPlace>.</desc>
-         <desc type="context">John Malalas, a moniker probably derived from Aramaic malolo ( ܡܰܠܳܠܰܐ
-            ) meaning “orator”, was an educated Syrian who moved from Antioch to Constantinople
-            early in the reign of Justinian I. His only known work is a historical chronicle in 18
-            books, apparently composed in two editions, spanning from early times probably to the
-            death of Justinian, with a distinct focus on events in the eastern Mediterranean. In his
-            long passage on the activities of Augustus in the East, John cites the renaming of
-            Straton’s Tower as Caesarea.</desc>
+         <desc type="context">John Malalas, a moniker probably derived from Aramaic
+               <foreign>malolo</foreign> meaning “orator”, was an educated Syrian who moved from
+            Antioch to Constantinople early in the reign of Justinian I. His only known work is a
+            historical chronicle in 18 books, apparently composed in two editions, spanning from
+            early times probably to the death of Justinian, with a distinct focus on events in the
+            eastern Mediterranean. In his long passage on the activities of Augustus in the East,
+            John cites the renaming of Straton’s Tower as Caesarea.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote133-1" source="#bib133-1">
-        <anchor xml:id="testimonia-133.grc.1" corresp="#testimonia-133.en.1"/>ὁ μὲν Ἡρώδης βασιλεὺς τῆς Ἰουδαίας πρὸς τιμὴν αὐτοῦ ἐποίησε καὶ τὴν
-            ὁδοστρωσίαν τὴν ἔξω τῆς πόλεως Ἀντιοχείας τῆς μεγάλης, ἦν γὰρ δύσβατος, στρώσας αὐτὴν
-            λευκαῖς πλάκαις. ἐκάλεσαν δὲ ἐμφότεροι τοπάρχαι τὰς μητροπόλεις αὐτῶν πρὸς τὴν αὐτοῦ εἰς
-            ὄνομα τοῦ Καίσαρος· ὁ μὲν Ἡρώδης βασιλεὺς καὶ τοπάρχης ἐκάλεσε <placeName>Καισάρειαν
-               Παλαιστίνης,</placeName> τὴν πρῴην λεγομένην <placeName>Στράτωνος Πύργον</placeName>,
-            ὁ δὲ Ἀρχέλαος βασιλεὺς καὶ τοπάρχης ἐκάλεσε Καισάρειαν Καππαδοκίας τὴν πρῴην λεγομένην
-               Μάζακαν.<note type="textual">Ed. Thurn 2000</note>
-        <note type="textual">Von
-               Stauffenberg (1931) added ἰδίοις ἀναλώμασιν (“at his own expense”) after λευκαῖς
-               πλάκαις. J. L. Rife has omitted it here as an unnecessary interpolation from the
-               Slavonic translation (10th/11th century) and John of Nikiu 66.2. </note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
+            <anchor xml:id="testimonia-133.grc.1" corresp="#testimonia-133.en.1"/>ὁ μὲν Ἡρώδης
+            βασιλεὺς τῆς Ἰουδαίας πρὸς τιμὴν αὐτοῦ ἐποίησε καὶ τὴν ὁδοστρωσίαν τὴν ἔξω τῆς πόλεως
+            Ἀντιοχείας τῆς μεγάλης, ἦν γὰρ δύσβατος, στρώσας αὐτὴν λευκαῖς πλάκαις. ἐκάλεσαν δὲ
+            ἐμφότεροι τοπάρχαι τὰς μητροπόλεις αὐτῶν πρὸς τὴν αὐτοῦ εἰς ὄνομα τοῦ Καίσαρος· ὁ μὲν
+            Ἡρώδης βασιλεὺς καὶ τοπάρχης ἐκάλεσε <placeName>Καισάρειαν Παλαιστίνης,</placeName> τὴν
+            πρῴην λεγομένην <placeName>Στράτωνος Πύργον</placeName>, ὁ δὲ Ἀρχέλαος βασιλεὺς καὶ
+            τοπάρχης ἐκάλεσε Καισάρειαν Καππαδοκίας τὴν πρῴην λεγομένην Μάζακαν.<note type="textual"
+               >Ed. Thurn 2000</note>
+            <note type="textual">Von Stauffenberg (1931) added ἰδίοις ἀναλώμασιν (“at his own
+               expense”) after λευκαῖς πλάκαις. J. L. Rife has omitted it here as an unnecessary
+               interpolation from the Slavonic translation (10th/11th century) and John of Nikiu
+               66.2. </note>
+            <note type="discussion"/>
+            <note type="corrigenda"/>
+            <idno type="CTS-URN"/>
+            <ref target=""/>
+         </ab>
          <ab type="translation" xml:lang="en" xml:id="quote133-2" source="#bib133-2">
-        <anchor xml:id="testimonia-133.en.1" corresp="#testimonia-133.grc.1"/>Ηerod the king of Judaea made the paved highway outside the city of
-            Antioch the Great in his (sc. Augustus’) honor, for it used to be a rough passage,
-            paving it with white slabs. Both local rulers named their metropoleis after Caesar
-            (Augustus) to honor him. Herod, king and local ruler, named Caesarea of Palestine the
-            city formerly called Strato’s Tower, while Archaelaos, king and local ruler, named
+            <anchor xml:id="testimonia-133.en.1" corresp="#testimonia-133.grc.1"/>Ηerod the king of
+            Judaea made the paved highway outside the city of Antioch the Great in (Augustus’s)
+            honor, for it used to be a rough passage, paving it with white slabs. Both local rulers
+            named their metropoleis after Caesar (Augustus) to honor him. Herod, king and local
+            ruler, named <placeName>Caesarea Palestinae</placeName> the city formerly called
+               <placeName>Strato’s Tower</placeName>, while Archaelaos, king and local ruler, named
             Caesarea in Cappadocia the city formerly called Mazaca.<note type="translation">Adapted
                from Jeffreys et al. 2017</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
+            <note type="discussion"/>
+            <note type="corrigenda"/>
+            <idno type="CTS-URN"/>
+            <ref target=""/>
+         </ab>
          <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib133-1">

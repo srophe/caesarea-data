@@ -262,13 +262,13 @@
       </ab>
       <desc type="abstract" xml:id="abstract242-1">Caeasrea Maritima is indirectly attested at <persName role="author" ref="http://viaf.org/viaf/88969561">John Malalas</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref target="#bib242-1">11.25</ref>. This passage was written circa <origDate notBefore="0530" notAfter="0532" period="#byzantine">530-532 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/658381">Antioch on the
                Orontes</origPlace>.</desc>
-      <desc type="context">John Malalas, a moniker probably derived from Aramaic malolo meaning
-            “orator”, was an educated Syrian who moved from Antioch to Constantinople early in the
-            reign of Justinian I. His only known work is a historical chronicle in 18 books,
-            apparently composed in two editions, spanning from early times probably to the death of
-            Justinian, with a distinct focus on events in the eastern Mediterranean. In his passage
-            on the reign of Antoninus Pius, John records the emperor’s construction of public baths
-            at Caesarea.</desc>
+      <desc type="context">John Malalas, a moniker probably derived from Aramaic
+          <foreign>malolo</foreign> meaning “orator”, was an educated Syrian who moved from Antioch
+        to Constantinople early in the reign of Justinian I. His only known work is a historical
+        chronicle in 18 books, apparently composed in two editions, spanning from early times
+        probably to the death of Justinian, with a distinct focus on events in the eastern
+        Mediterranean. In his passage on the reign of Antoninus Pius, John records the emperor’s
+        construction of public baths at Caesarea.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote242-1" source="#bib242-1">
         <anchor xml:id="testimonia-242.grc.1" corresp="#testimonia-242.en.1"/>Ἔκτισε δὲ καὶ ἐν <placeName>Καισαρείᾳ τῆς Παλαιστίνης</placeName> λουτρόν, καὶ ἐν Νικομηδείᾳ τῆς Βιθυνίας καὶ ἐν Ἐφέσῳ τῆς Ἀσίας· ἅπερ δημόσια λουτρὰ εἰς
             τὸ ἴδιον ἐπεκάλεσεν ὄνομα.<note type="textual">Ed. Thurn 2000</note>
@@ -278,10 +278,10 @@
         <ref target=""/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote242-2" source="#bib242-2">
-        <anchor xml:id="testimonia-242.en.1" corresp="#testimonia-242.grc.1"/>He (sc. Antoninus Pius) also built baths at <placeName>Caesarea of
-               Palestine</placeName> and at Nicomedia of Bithynia and at Ephesus in Asia. These
-            public baths he named after himself.<note type="translation">Adapted from Jeffreys et
-               al. 2017</note>
+        <anchor xml:id="testimonia-242.en.1" corresp="#testimonia-242.grc.1"/>(Antoninus Pius) also
+        built baths at <placeName>Caesarea Palestinae</placeName> and at Nicomedia of Bithynia and
+        at Ephesus in Asia. These public baths he named after himself.<note type="translation"
+          >Adapted from Jeffreys et al. 2017</note>
         <note type="discussion"/>
         <note type="corrigenda"/>
         <idno type="CTS-URN"/>

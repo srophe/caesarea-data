@@ -265,14 +265,14 @@
           <placeName>Καισάρειαν τὴν τῆς
                Παλαιστίνης</placeName>
         </quote> is directly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Suda</title> <ref target="#bib317-1">γ 452</ref>. This passage was written circa <origDate notBefore="0976" notAfter="0990" period="#earlyIslamic">976-990 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
-         <desc type="context">The Suda (“Stronghold”) is an encyclopedic lexicon written by an
-            unknown scholar during the late 10th century. It compiles copious information in
-            alphabetical entries for use by the learned philologist, in particular on grammar,
-            history, and biography, referring to a broad range of sources from Classical Antiquity
-            to the Early Byzantine period. This lemma on Gregory the Miracle-Worker (s.v. Γρηγόριος)
-            describes his career, including his study under Origen at Caesarea during the early 3rd
-            century. The author depends perhaps on the original writings of Gregory but largely on
-            the lexicon by Hesychius of Alexandria written some 350-450 years earlier. </desc>
+         <desc type="context">The <title>Suda</title> (“Stronghold”) is an encyclopedic lexicon
+            written by an unknown scholar during the late 10th century. It compiles copious
+            information in alphabetical entries for use by the learned philologist, in particular on
+            grammar, history, and biography, referring to a broad range of sources from Classical
+            Antiquity to the Early Byzantine period. This lemma on Gregory the Miracle-Worker (s.v.
+            Γρηγόριος) describes his career, including his study under Origen at Caesarea during the
+            early 3rd century. The author depends perhaps on the original writings of Gregory but
+            largely on the lexicon by Hesychius of Alexandria written some 350-450 years earlier. </desc>
          <ab type="edition" xml:lang="grc" xml:id="quote317-1" source="#bib317-1">
         <anchor xml:id="testimonia-317.grc.1" corresp="#testimonia-317.en.1"/>Γρηγόριος, ὁ καὶ Θεόδωρος, ὁ Θαυματουργὸς, Νεοκαισαρείας τῆς ἐν τῷ Πόντῳ
             ἐπίσκοπος, νέος κομιδῇ διὰ τὴν παίδευσιν Ἑλληνικῶν τε καὶ Ῥωμαϊκῶν γραμμάτων ἀπὸ τῆς
@@ -294,25 +294,26 @@
             </idno>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote317-2" source="#bib317-2">
-        <anchor xml:id="testimonia-317.en.1" corresp="#testimonia-317.grc.1"/>Gregory, also called Theodore, the Miracle-Worker, bishop of
-            Neocaesarea in Pontus. As a young man he went from Cappadocia to Beirut for education in
-            Greek and Roman literature, and from there to Caesarea Palestinae, with his brother
-            Athenodorus. They became personal devotees of Origen, who was partly responsible for
-            introducing them to the Christian faith. After studying with him for five years, they
-            were sent back to their homeland. For this reason, while Gregory was away from home he
-            wrote a panegyric of thanksgiving to Origen, and summoning all his countrymen, in the
-            presence of Origen himself, he recited this speech, which exists up to the present time.
-            He also wrote a Paraphrase of Ecclesiastes, a very short but very marvelous work. And he
-            composed many other letters and discourses of various kinds, as well as performing signs
-            and miracles beyond human power when he became bishop. He died in the reign of Aurelian.
-            Gregory and Athenodorus were relatives, one a miracle-worker, the other a sophist. He
-            also wrote a discourse on incarnation and faith.<note type="translation">Rev. SOL
-               (trans. C. Roth et al., 2002-)</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
-        <idno type="CTS-URN"/>
-        <ref target="https://www.cs.uky.edu/~raphael/sol/sol-entries/gamma/452"/>
-      </ab>
+            <anchor xml:id="testimonia-317.en.1" corresp="#testimonia-317.grc.1"/>Gregory, also
+            called Theodore, the Miracle-Worker, bishop of Neocaesarea in Pontus. As a young man he
+            went from Cappadocia to Beirut for education in Greek and Roman literature, and from
+            there to Caesarea Palestinae, with his brother Athenodorus. They became personal
+            devotees of Origen, who was partly responsible for introducing them to the Christian
+            faith. After studying with him for five years, they were sent back to their homeland.
+            For this reason, while Gregory was away from home he wrote a panegyric of thanksgiving
+            to Origen, and summoning all his countrymen, in the presence of Origen himself, he
+            recited this speech, which exists up to the present time. He also wrote a
+               <title>Paraphrase of Ecclesiastes</title>, a very short but very marvelous work. And
+            he composed many other letters and discourses of various kinds, as well as performing
+            signs and miracles beyond human power when he became bishop. He died in the reign of
+            Aurelian. Gregory and Athenodorus were relatives, one a miracle-worker, the other a
+            sophist. He also wrote a discourse on incarnation and faith.<note type="translation"
+               >Rev. SOL (trans. C. Roth et al., 2002-)</note>
+            <note type="discussion"/>
+            <note type="corrigenda"/>
+            <idno type="CTS-URN"/>
+            <ref target="https://www.cs.uky.edu/~raphael/sol/sol-entries/gamma/452"/>
+         </ab>
          <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib317-1">

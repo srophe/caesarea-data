@@ -269,13 +269,14 @@
           <placeName>Caesarea of Palestine</placeName>
         </quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/88969561">John Malalas</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref target="#bib134-1">10.2</ref>. This passage was written circa <origDate notBefore="0530" notAfter="0532" period="#byzantine">530-532 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/658381">Antioch on the
                Orontes</origPlace>.</desc>
-         <desc type="context">John Malalas, a moniker probably derived from Aramaic malolo meaning
-            “orator”, was an educated Syrian who moved from Antioch to Constantinople early in the
-            reign of Justinian I. His only known work is a historical chronicle in 18 books,
-            apparently composed in two editions, spanning from early times probably to the death of
-            Justinian, with a distinct focus on events in the eastern Mediterranean. In his long
-            passage on the activities of Augustus in the East, John discusses the chronology of the
-            birth of Christ and cites Eusebius of Caesarea as a learned authority.</desc>
+         <desc type="context">John Malalas, a moniker probably derived from Aramaic
+               <foreign>malolo</foreign> meaning “orator”, was an educated Syrian who moved from
+            Antioch to Constantinople early in the reign of Justinian I. His only known work is a
+            historical chronicle in 18 books, apparently composed in two editions, spanning from
+            early times probably to the death of Justinian, with a distinct focus on events in the
+            eastern Mediterranean. In his long passage on the activities of Augustus in the East,
+            John discusses the chronology of the birth of Christ and cites Eusebius of Caesarea as a
+            learned authority.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote134-1" source="#bib134-1">
         <anchor xml:id="testimonia-134.grc.1" corresp="#testimonia-134.en.1"/>τῇ δὲ ἕκτῃ ἡμέρᾳ, ὡς προεῖπεν ἡ γραφή, ἔπλασεν ὁ θεὸς τὸν ἄνθρωπον, καὶ
             ὑπέπεσε τῇ ἁμαρτίᾳ ὁ ἄνθρωπος· ὡς δῆλον εἶναι ὅτι οὕτω καὶ τῇ ἕκτῃ ἡμέρᾳ τῆς χιλιάδος

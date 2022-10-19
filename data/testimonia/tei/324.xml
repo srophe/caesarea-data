@@ -238,7 +238,12 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Letters</title> <ref target="#bib324-1">33.1</ref> written by <persName role="author" ref="http://viaf.org/viaf/309472433">Jerome</persName> in <origDate notBefore="" notAfter="" period="#">NaN CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m"
+          >Letters</title>
+        <ref target="#bib324-1">33.1</ref> written by <persName role="author"
+          ref="http://viaf.org/viaf/309472433">Jerome</persName> in <origDate notBefore=""
+          notAfter="" period="#">0384</origDate>. This work was likely written in <origPlace
+          ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</creation>
       <langUsage>
         <language ident="la">Latin</language>
       </langUsage>
@@ -260,12 +265,12 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/324</idno>
       </ab>
       <desc type="abstract" xml:id="abstract324-1">Caeasrea Maritima is indirectly attested at <persName role="author" ref="http://viaf.org/viaf/309472433">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Letters</title> <ref target="#bib324-1">33.1</ref>. This passage was written circa <origDate notBefore="" notAfter="" period="#">NaN CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
-      <desc type="context">Among the voluminous correspondence of St. Jerome is this letter,
-            written at the end of his service to Pope Damasus I at Rome and addressed to Paula, a
-            wealthy widow who belonged to his circle in the Imperial capital. At the opening he
-            pairs Varro and Origen (Chalcenterus) as paragons of scholarly productivity, and
-            criticizes a declining enthusiasm for classical learning (saeculares litterae). Origen
-            flourished as a scholar and teacher at Caesarea Maritima.</desc>
+      <desc type="context">Among the voluminous correspondence of St. Jerome is this letter, written
+        at the end of his service to Pope Damasus I at Rome and addressed to Paula, a wealthy widow
+        who belonged to his circle in the Imperial capital. At the opening he pairs Varro and Origen
+          (<foreign>Chalcenterus</foreign>) as paragons of scholarly productivity, and criticizes a
+        declining enthusiasm for classical learning (<foreign>saeculares litterae</foreign>). Origen
+        flourished as a scholar and teacher at Caesarea.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote324-1" source="#bib324-1">
         <anchor xml:id="testimonia-324.la.1" corresp="#testimonia-324.en.1"/>Marcum Terentium Varronem miratur antiquitas, quod apud Latinos tam
             innumerabiles libros scripserit. Graeci Chalcenterum miris efferunt laudibus, quod

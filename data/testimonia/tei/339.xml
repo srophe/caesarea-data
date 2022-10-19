@@ -271,18 +271,18 @@
         </quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/1018158675954427500005">Marino Sanudo
                the Elder</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Secrets for Those Faithful to the
                Cross</title> <ref target="#bib339-1">3.11.3</ref>. This passage was written circa <origDate notBefore="1306" notAfter="1321" period="#lateIslamic">1306-1321 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/560221">Aegean Greece</origPlace>.</desc>
-      <desc type="context">Marino Sanudo the Elder of Torcello, from a wealthy and powerful
-            Venetian family, was a statesman and geographer who spent much of his career from the
-            late 13th century until his death in 1338 living and travelling abroad, particularly in
-            the Peloponnese and Aegean islands, Cyprus and Cilicia, Constantinople, the Levant, and
-            Egypt, but also in western and northern Europe. A learned and eloquent advocate for a
-            new crusade to the Holy Land, he wrote the voluminous Secrets for Those Faithful to the
-            Cross (Secreta fidelium Crucis), a strategic manual full of economic, military, and
-            geographic detail as well as maps, and presented different versions of it to popes
-            Clement V (in 1307) and John XXII (in 1321). This passage from Marino Sanudo’s account
-            of the Holy Land relates how in 1208 a congress of leaders sought advice from Philip II
-            of France on the marriage of the young Maria of Montferrat to secure the Kingdom of
-            Jerusalem. Among the ambassadors was Aymar, the Lord of Caesarea.</desc>
+      <desc type="context">Marino Sanudo the Elder of Torcello, from a wealthy and powerful Venetian
+        family, was a statesman and geographer who spent much of his career from the late 13th
+        century until his death in 1338 living and travelling abroad, particularly in the
+        Peloponnese and Aegean islands, Cyprus and Cilicia, Constantinople, the Levant, and Egypt,
+        but also in western and northern Europe. A learned and eloquent advocate for a new crusade
+        to the Holy Land, he wrote the voluminous <title>Secrets for Those Faithful to the
+          Cross</title> (<title>Secreta fidelium Crucis</title>), a strategic manual full of
+        economic, military, and geographic detail as well as maps, and presented different versions
+        of it to popes Clement V (in 1307) and John XXII (in 1321). This passage from Marino
+        Sanudo’s account of the Holy Land relates how in 1208 a congress of leaders sought advice
+        from Philip II of France on the marriage of the young Maria of Montferrat to secure the
+        Kingdom of Jerusalem. Among the ambassadors was Aymar, the Lord of Caesarea.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote339-1" source="#bib339-1">
         <anchor xml:id="testimonia-339.la.1" corresp="#testimonia-339.en.1"/>Demum videntes barones regni Ierusalem Mariam puellam iam nubilem,
             convenientes cum Ierosolymitano Patriarcha ceterisque prelatis ac militibus, coeperunt

@@ -277,12 +277,13 @@
         </quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/3886149368839785980008">Pseudo-Aelius
                Herodianus</persName>, <title xml:lang="en" type="uniform" level="m">Parsings</title> <ref target="#bib45-1">63</ref>. This passage was written circa <origDate notBefore="1100" notAfter="1400" period="#crusader# lateIslamic">1100-1400 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
          <desc type="context">Although we do not know the authorship or date of the grammatical
-            treatise Parsings (Ἐπιμερισμοί), its language points to the late phase of scholarship at
-            Constantinople during the 12th to 14th centuries. The manuscripts falsely attributed it
-            to the great Greek grammarian of the High Roman Empire, Aelius Herodianus, whose model
-            it emulated in its encyclopedic format and technical scope. The work examined
-            sound-clusters in the spelling of Byzantine Greek words. In this passage, the author
-            cited the place name Kaisareia among other words containing the element kai.</desc>
+            treatise <title>Parsings </title>(Ἐπιμερισμοί), its language points to the late phase of
+            scholarship at Constantinople during the 12th to 14th centuries. The manuscripts falsely
+            attributed it to the great Greek grammarian of the High Roman Empire, Aelius Herodianus,
+            whose model it emulated in its encyclopedic format and technical scope. The work
+            examined sound-clusters in the spelling of Byzantine Greek words. In this passage, the
+            author cited the place name <foreign>Kaisareia</foreign> among other words containing
+            the element <foreign>kai</foreign>.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote45-1" source="#bib45-1">
         <anchor xml:id="testimonia-45.grc.1" corresp="#testimonia-45.en.1"/>Πλὴν τοῦ καὶ, συνδεσμοῦ· καινὸν, τὸ νέον καὶ παράδοξον, ὅθεν καινοτομία,
             ἡ νέα πράξις ἢ ἡ παράδοξος· καινοτομῶ, τὸ νεοπραγῶ· Καίσαρ, Καίσαρος· Καισάρεια πόλις,
@@ -296,19 +297,25 @@
         <ref target=""/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote45-2" source="#bib45-2">
-        <anchor xml:id="testimonia-45.en.1" corresp="#testimonia-45.grc.1"/>Besides kai, conjunction: kainon, the new and incredible, from which
-            we also get kainotomia, a new practice or paradox; kainotomo, verb “to render new”;
-            Kaisar, Kaisaros; <placeName>Kaisareia</placeName> the city, and Kaisareus, the man from
-               <placeName>Kaisareia</placeName>; kairos, the time, from which we also get kairion,
-            engkairion; kairophylako; kairoskopo; kairia plege, the death-blow; kaikias, wind;
-            Kaineus, proper noun, declined Kaineos; kaio, verb, “to set afire”; and kaino, verb “to
-            cut”, from which we also get kainis, knife.<note type="translation">Trans. J. L.
-               Rife</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
+            <anchor xml:id="testimonia-45.en.1" corresp="#testimonia-45.grc.1"/>Besides
+               <foreign>kai</foreign>, conjunction: <foreign>kainon</foreign>, the new and
+            incredible, from which we also get <foreign>kainotomia</foreign>, a new practice or
+            paradox; <foreign>kainotomo</foreign>, verb “to render new”; <foreign>Kaisar,
+               Kaisaros</foreign>; <foreign><placeName>Kaisareia</placeName></foreign> the city, and
+               <foreign>Kaisareus</foreign>, the man from
+               <foreign><placeName>Kaisareia</placeName></foreign>; <foreign>kairos</foreign>, the
+            time, from which we also get <foreign>kairion</foreign>, <foreign>engkairion</foreign>;
+               <foreign>kairophylako</foreign>; <foreign>kairoskopo</foreign>; <foreign>kairia
+               plege</foreign>, the death-blow; <foreign>kaikias</foreign>, wind;
+               <foreign>Kaineus</foreign>, proper noun, declined <foreign>Kaineos</foreign>;
+               <foreign>kaio</foreign>, verb, “to set afire”; and <foreign>kaino</foreign>, verb “to
+            cut”, from which we also get <foreign>kainis</foreign>, knife.<note type="translation"
+               >Trans. J. L. Rife</note>
+            <note type="discussion"/>
+            <note type="corrigenda"/>
+            <idno type="CTS-URN"/>
+            <ref target=""/>
+         </ab>
          <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib45-1">

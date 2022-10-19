@@ -266,11 +266,11 @@
           <placeName>Caesarea</placeName>
         </quote> are directly attested at <persName ref="http://viaf.org/viaf/95147024" role="author">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Book of Places</title> <ref target="#bib293-1">137</ref>. This passage was written circa <origDate notBefore="0390" notAfter="0420" period="#byzantine">390-420 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</desc>
       <desc type="context">In his lexicon of place names in Hebrew Scripture, Jerome wrote that
-            Nafeddor named at Joshua 11:12 was located near Caesarea Maritima on the road to
-            Ptolemais (Akko), repeating his lemma under Dor Nafeth (79). He also cited the Greek
-            translation of Hebrew Scripture by Symmachus in the late 2nd century C.E. The same
-            information is recorded in the parallel passage at Eusebius, Dictionary of Place Names
-            136, written roughly one century before Jerome’s work.</desc>
+        Nafeddor, named at <title>Joshua</title> 11:12, was located near Caesarea on the road to
+        Ptolemaïs (Akko), repeating his lemma under Dor Nafeth (79). He also cited the Greek
+        translation of Hebrew Scripture by Symmachus in the late 2nd century C.E. The same
+        information is recorded in the parallel passage at Eusebius, <title>Dictionary of Place
+          Names</title> 136, written roughly one century before Jerome’s work.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote293-1" source="#bib293-1">
         <anchor xml:id="testimonia-293.la.1" corresp="#testimonia-293.en.1"/>Nefeddor, quod Symmachus interpretatur Maritimam. Dor autem est oppidum
             iam desertum in nono miliario <placeName>Caesareae</placeName> pergentibus

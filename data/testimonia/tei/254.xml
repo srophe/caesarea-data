@@ -268,21 +268,22 @@
           <placeName>Caesarea</placeName>
         </quote> are directly attested at <persName ref="http://viaf.org/viaf/13651211" role="author">Epiphanius</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Medicine Cabinet, or Against
                Heresies</title> <ref target="#bib254-1">73.25.10</ref>. This passage was written circa <origDate notBefore="0374" notAfter="0377" period="#byzantine">374-377 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/707617">Cypriot Salamis</origPlace>.</desc>
-      <desc type="context">Epiphanius, who spent his early life and career as a student and monk
-            in southern Palestine and Egypt, was appointed bishop of Salamis on Cyprus in ca.
-            365-367 C.E., a post he held until his death in 403 C.E. He became a formidable champion
-            of Orthodoxy, repeatedly entering into bitter controversy with the sees at Jerusalem and
-            Alexandria. His Medicine Cabinet (πανάριον, κιβώτιον, panarion, arcula), or Against
-            Heresies (κατὰ αἱρέσεων, adversus haereses), was a long compendium of portraits in
-            wayward sectarianism, stretching from the Greek philosophers and Judaism up to his own
-            time. The aim was to furnish theological and rhetorical antidotes to heresy. It has
-            great historical value for its detailed information on figures of the eastern Church,
-            frequently paraphrasing or quoting from earlier works or otherwise lost documents. In
-            his chapter on the Semi-Arians, Epiphanius cites the text of the Synodical Letter of the
-            Council of Seleuceia called by Constantius II in late September of 359 in order to
-            reconcile the pro-Nicene and anti-Nicene bishops. Acacius of Caesarea and his
-            influential party, who would not join the majority in compromise, were summarily
-            deposed, and he swiftly departed for Constantinople to plead before the emperor.</desc>
+      <desc type="context">Epiphanius, who spent his early life and career as a student and monk in
+        southern Palestine and Egypt, was appointed bishop of Salamis on Cyprus in ca. 365-367 C.E.,
+        a post he held until his death in 403 C.E. He became a formidable champion of Orthodoxy,
+        repeatedly entering into bitter controversy with the sees at Jerusalem and Alexandria. His
+          <title>Medicine Cabinet</title> (πανάριον, κιβώτιον, <foreign>panarion</foreign>,
+          <foreign>arcula</foreign>), or <title>Against Heresies</title> (κατὰ αἱρέσεων,
+          <foreign>adversus haereses</foreign>), was a long compendium of portraits in wayward
+        sectarianism, stretching from the Greek philosophers and Judaism up to his own time. The aim
+        was to furnish theological and rhetorical antidotes to heresy. It has great historical value
+        for its detailed information on figures of the eastern Church, frequently paraphrasing or
+        quoting from earlier works or otherwise lost documents. In his chapter on the Semi-Arians,
+        Epiphanius cites the text of the Synodical Letter of the Council of Seleuceia called by
+        Constantius II in late September of 359 in order to reconcile the pro-Nicene and anti-Nicene
+        bishops. Acacius of Caesarea and his influential party, who would not join the majority in
+        compromise, were summarily deposed, and he swiftly departed for Constantinople to plead
+        before the emperor.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote254-1" source="#bib254-1">
         <anchor xml:id="testimonia-254.grc.1" corresp="#testimonia-254.en.1"/>Τῇ πίστει ὑπέγραψαν οἱ παρόντες· Βασίλειος, Μάρκος καὶ Γεώργιος ὁ τῆς
             Ἀλεξανδρείας ἐπίσκοπος, Παγκράτιος καὶ Ὑπατιανὸς καὶ οἱ πλεῖστοι ἐπίσκοποι τῆς δύσεως.

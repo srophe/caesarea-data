@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="en" level="a">Eusebius, <title level="m">Dictionary of Place Names</title> 136</title>
+        <title xml:lang="en" level="a">Eusebius, <title level="m">Dictionary of Place Names</title> 108</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
         <sponsor>Vanderbilt University</sponsor>
         <principal>Joseph L. Rife</principal>
@@ -32,7 +32,7 @@
       </editionStmt>
       <publicationStmt>
         <authority>Caesarea City and Port Exploration Project</authority>
-        <idno type="URI">https://caesarea-maritima.org/testimonia/258/tei</idno>
+        <idno type="URI">https://caesarea-maritima.org/testimonia/257/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/4.0">
             <p>Except for materials quoted from other sources, this entry is copyright 2021 by the contributors (Joseph L. Rife, et al.) and the Caesarea City and Port Exploration Project. It is licensed under the Attribution 4.0 International (CC BY 4.0) license.</p> <p>Some texts quoted in this entry may be in the public domain in the United States. No copyright is asserted for these quotations.</p> <p>Some texts quoted in this entry may have copyright restrictions and are reused under Section 107 of the Copyright Act of 1976 (Title 17 of the United States Code) which permits “fair use” of copyrighted materials for purposes such as criticism, comment, scholarship, and research. These texts remain under copyright of their owners. No copyright infringement is intended.</p>
@@ -238,7 +238,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Dictionary of Place Names</title> <ref target="#bib258-1">136</ref> written by <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius</persName> in <origDate notBefore="0290" notAfter="0325" period="#lateRoman #byzantine">290-325 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Dictionary of Place Names</title> <ref target="#bib257-1">108</ref> written by <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius</persName> in <origDate notBefore="0290" notAfter="0325" period="#lateRoman #byzantine">290-325 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</creation>
       <langUsage>
         <language ident="grc">Ancient Greek</language>
       </langUsage>
@@ -257,31 +257,33 @@
   <text>
     <body>
       <ab type="identifier">
-        <idno type="URI">https://caesarea-maritima.org/testimonia/258</idno>
+        <idno type="URI">https://caesarea-maritima.org/testimonia/257</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract258-1">
+      <desc type="abstract" xml:id="abstract257-1">
         <quote>
           <placeName>Καισαρείας</placeName>
         </quote>,  and <quote>
           <placeName>Caesarea</placeName>
-        </quote> are directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Dictionary of Place Names</title> <ref target="#bib258-1">136</ref>. This passage was written circa <origDate notBefore="0290" notAfter="0325" period="#lateRoman# byzantine">290-325 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</desc>
+        </quote> are directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Dictionary of Place Names</title> <ref target="#bib257-1">108</ref>. This passage was written circa <origDate notBefore="0290" notAfter="0325" period="#lateRoman# byzantine">290-325 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</desc>
       <desc type="context">In his lexicon of place names in Hebrew Scripture, Eusebius wrote that
-            Naphethdor named at Joshua 11:2 was located near Caesarea Maritima, repeating his lemma
-            under Dor of Nafath (78). He also cited the Greek translation by Symmachus in the late
-            2nd century C.E. The same information is recorded in the parallel passage at Jerome,
-            Book of Places 137, written roughly one century after Eusebius’ work.</desc>
-      <ab type="edition" xml:lang="grc" xml:id="quote258-1" source="#bib258-1">
-        <anchor xml:id="testimonia-258.grc.1" corresp="#testimonia-258.en.1"/>Ναφεθδώρ. Σʹ ἐν τῇ παραλίᾳ Δώρᾳ. αὕτη ἐστὶν ἀπὸ θʹ σημείων <placeName>Καισαρείας</placeName>.<note>Ed. Klosterman 1904 [cited by
-               page]</note>
+        Iapheth, named at <title>Joshua</title> 19:12, was in his time a coastal village called
+        Ioppe, Sykaminos, or Efa (Haifa) on the road from Caesarea to Ptolemaïs (Akko). The same
+        information is recorded in the parallel passage at Jerome, <title>Book of Places</title>
+        109, written roughly one century after Eusebius’ work.</desc>
+      <ab type="edition" xml:lang="grc" xml:id="quote257-1" source="#bib257-1">
+        <anchor xml:id="testimonia-257.grc.1" corresp="#testimonia-257.en.1"/>Ἰάφεθ. κλήρου Ζαβουλών ἀνάβασίς, καλεῖται καὶ Ἰόππη. καὶ ἡ Συκάμινος δὲ
+            ἀπιόντων εἰς Πτολεμαίδα ἀπὸ <placeName>Καισαρείας</placeName>, κώμη πάραλος πλησίον τοῦ
+            Καρμήλου, Ἡφὰ λέγεται.<note>Ed. Klosterman 1904 [cited by page]</note>
         <note type="textual"/>
         <note type="discussion"/>
         <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
-      <ab type="translation" xml:lang="en" xml:id="quote258-2" source="#bib258-2">
-        <anchor xml:id="testimonia-258.en.1" corresp="#testimonia-258.grc.1"/>Nafethdor. Symmachus for Dora “by the Sea”. This is nine milestones
-            from <placeName>Caesarea</placeName>.<note type="translation">Trans. J. L.
+      <ab type="translation" xml:lang="en" xml:id="quote257-2" source="#bib257-2">
+        <anchor xml:id="testimonia-257.en.1" corresp="#testimonia-257.grc.1"/>Iapheth. The Ascent of the Plot of Zebulon, also called Ioppe. It is
+            also Sykaminos for those traveling to Ptolemais from <placeName>Caesarea</placeName>, a
+            coastal village near Carmel, called Hepha.<note type="translation">Trans. J. L.
                Rife</note>
         <note type="discussion"/>
         <note type="corrigenda"/>
@@ -290,9 +292,9 @@
       </ab>
       <listBibl>
         <head>Works Cited</head>
-        <bibl xml:id="bib258-1">
+        <bibl xml:id="bib257-1">
           <ptr target="https://caesarea-maritima.org/bibl/ARSF2XBM"/>
-          <citedRange unit="p">136</citedRange>
+          <citedRange unit="p">108</citedRange>
         </bibl>
       </listBibl>
       <listBibl>
@@ -339,16 +341,17 @@
         </bibl>
       </listBibl>
     <note type="related-texts">
-        <p>Jerome, Book of Places 137</p>
-        <p>Joshua 11:12</p>
+        <p>Jerome, Book of Places 109</p>
+        <p>Joshua 9:12</p>
       </note>
       <note type="geography">
-        <p>Dor (Dor of Nafath, Dor Nafeth, Nafethdor, Nefeddor, Doros, Doroi, Dora, Dora Maritima, Tel Dor, Dor Tantura)</p>
+        <p>Carmel, Mount (Karmelos, Har HaKarmel, Jabal Mar Elyas)</p>
+        <p>Efa (Haifa)</p>
+        <p>Ioppe near Carmel</p>
         <p>Ptolemaïs (Acco, Accho, Acre, Akko)</p>
+        <p>Sykaminos (Sycaminus)</p>
       </note>
-      <note type="prosopography">
-        <p>Symmachus</p>
-      </note>
+      <note type="prosopography"/>
       <note type="themes">
         <p>Geography</p>
         <p>Hebrew Bible</p>

@@ -238,7 +238,12 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Easter Chronicle</title> <ref target="#bib250-1">603.19-604.14</ref> written by <persName role="author">Unknown</persName> in <origDate notBefore="" notAfter="" period="#">NaN CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Easter
+          Chronicle</title>
+        <ref target="#bib250-1">603.19-604.14</ref> written by <persName role="author"
+          >Unknown</persName> in <origDate notBefore="" notAfter="" period="#">0630</origDate>. This
+        work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998"
+          >Constantinople</origPlace>.</creation>
       <langUsage>
         <language ident="grc">Ancient Greek</language>
       </langUsage>
@@ -267,16 +272,16 @@
         </quote>,  and <quote>
           <placeName>Caesarea</placeName>
         </quote> are directly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Easter Chronicle</title> <ref target="#bib250-1">603.19-604.14</ref>. This passage was written circa <origDate notBefore="" notAfter="" period="#">NaN CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
-      <desc type="context">The so-called Easter Chronicle (Chronicon Paschale) is a universal
-            history from the Creation down to the later reign of Heraclius, when it was composed,
-            based an amalgam of biblical, Christian, and secular sources. While the work shows a
-            particular interest in the dating of religious festivals, it contains a wealth of
-            historical and geographic information. Like other chronographic works in the Byzantine
-            tradition—John Malalas before and Theophanes the Confessor and George Syncellus
-            after—the Easter Chronicle is organized annalistically with successive entries by year.
-            In this passage, the author conflates two Samaritan revolts, one in 484 C.E. under Zeno
-            concentrated at Neapolis and one in 556 C.E. under Justinian concentrated at Caesarea
-            Maritima.</desc>
+      <desc type="context">The so-called <title>Easter Chronicle</title> (<title>Chronicon
+          paschale</title>) is a universal history from the Creation down to the later reign of
+        Heraclius, when it was composed, based on an amalgam of biblical, Christian, and secular
+        sources. While the work shows a particular interest in the dating of religious festivals, it
+        contains a wealth of historical and geographic information. Like other chronographic works
+        in the Byzantine tradition—John Malalas before and Theophanes the Confessor and George
+        Syncellus after—the <title>Easter Chronicle</title> is organized annalistically with
+        successive entries by year. In this passage, the author conflates two Samaritan revolts, one
+        in 484 C.E. under Zeno concentrated at Neapolis and one in 556 C.E. under Justinian
+        concentrated at Caesarea Maritima.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote250-1" source="#bib250-1">
         <anchor xml:id="testimonia-250.grc.1" corresp="#testimonia-250.en.1"/>Ἐν τοῖς χρόνοις τούτοις πρόφασιν λαβόντες οἱ ἐκ τοῦ ἔθνους τῶν
             Σαμαρειτῶν ἐν Παλαιστίνῃ ἐτυράννησαν, καὶ ἔστεψαν λῄσταρχον, ὀνόματι Ἰουστασᾶν,

@@ -241,8 +241,12 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title ref="" type="uniform" level="m">Apostolicae constitutiones</title>
-        <ref target="#bib90-1">46</ref> written by <persName ref="" role="author">Unknown</persName> in <origDate period="#byzantine" notBefore="0350" notAfter="0380">350 - 380 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/981550">Syria</origPlace>.</creation>
+      <creation>This entry is taken from <title ref="" type="uniform" level="m">Apostolic
+          Constitutions</title>
+        <ref target="#bib90-1">7.46.1-5</ref> written by <persName ref="" role="author"
+          >Unknown</persName> in <origDate period="#byzantine" notBefore="0350" notAfter="0380">0375
+          0380</origDate>. This work was likely written in <origPlace
+          ref="https://pleiades.stoa.org/places/658381">Antioch</origPlace>.</creation>
       <langUsage>
         <language ident="grc">Ancient Greek</language>
       </langUsage>
@@ -250,13 +254,14 @@
         <classCode scheme="https://distributed-text-services.github.io/specifications">
           <idno xml:base="" type="CTS-URN"/>
         </classCode>
-        <catRef scheme="#CM-Testimonia-Type" target=""/>
-        <catRef scheme="#CM-NEAEH" target=""/>
+        <catRef scheme="#CM-Testimonia-Type" target="#direct"/>
+        <catRef scheme="#CM-NEAEH" target="#byzantine"/>
       </textClass>
     </profileDesc>
     <revisionDesc status="published">
-      <change who="https://caesarea-maritima.org/documentation/editors.xml#wpotter" when="2020-06-19-05:00">ADDED: testimonium ID, URNs, URLs to edition and translation, and Bibl URIs</change>
-      <change who="https://caesarea-maritima.org/documentation/editors.xml#wpotter" when="2020-06-19-05:00">CREATED: testimonium</change>
+      <change who="jrife" when="2020-06-19-05:00">ADDED: testimonium ID, URNs, URLs to edition and
+        translation, and Bibl URIs</change>
+      <change who="jrife" when="2020-06-19-05:00">CREATED: testimonium</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -270,43 +275,62 @@
         </quote>, and <quote>
           <placeName xml:lang="en">Of Caesarea of Palestine, </placeName>
         </quote> are place names attested in <persName ref="" role="author">Unknown</persName>'s <title ref="" type="uniform" level="m">Apostolicae constitutiones</title> 46. This testimonium was written circa <origDate period="#byzantine" notBefore="0350" notAfter="0380">350 - 380 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/981550">Syria</origPlace>.</desc>
-      <desc type="context"/>
-      <ab type="edition" xml:lang="grc" xml:id="quote90-1" source="#bib90-1">
-        <anchor xml:id="testimonia-90.grc.1" corresp="#testimonia-90.en.1"/>Περί δε των υφ' ημών χειροτονηθέντων επισκόπων εν τη ζωή τη ημετέρα γνωρίζομεν υμίν, ότι εισιν ουτοι. Ιεροσολύμων μεν Ιάκωβος ο του κυρίου αδελφός, ου τελευτήσαντος δεύτερος Συμεών ο του Κλωπά, μεθ' ον τρίτος Ιούδας Ιακώβου, <placeName xml:lang="grc">Καισαρείας δε της Παλαιστίνης</placeName> πρότερον μεν Ζακχαίος όποτε τελώνης, μεθ' ον Κορνήλιος και τρίτος Θεόφιλος Αντιοχείας δε Ευόδιος μεν υπ' εμού Πέτρου, Ιγνάτιος δε υπό Παύλου της δε Αλεξανδρέων Αννιανός πρώτος υπό Μάρκου του ευαγγελιστού κεχειροτόνηται, δεύτερος δε Αβίλιος υπό Λουκά και αυτού ευαγγελιστού της δε Ρωμαίων εκκλησίας Λίνος μεν ο Κλαυδίας πρώτος υπό Παύλου, Κλήμης δε μετά τον Λίνου θάνατον υπ' εμού Πέτρου δεύτερος κεχειροτόνηται της δε Εφέσου Τιμόθεος μεν υπό Παύλου, Ιωάννης δε υπ' εμού Ιωάννου Σμύρνης δε Αρίστων πρώτος, μεθ' ον Στραταίας ο Λαόϊδος και τρίτος Αρίστων. Περγάμου δε Γάϊος και Φιλαδελφείας Δημήτριος υπ' εμού το υπο δε Παύλου Λούκιος Κεγχρεών και της Κρήτης Τίτος Διονύσιος δε εν Αθήναις, της δε εν Φοινίκη Τριπόλεως Μαρθόνης, της δε εν Φρυγία Λαοδικείας Αρχιππος, Κολασσαέων δε Φιλήμων -. Βεροίας δε της κατά Μακεδονίαν Ονήσιμος ο Φιλήμονος, Κρήσκης δε των κατά Γαλατίαν εκκλησιών Ακύλας δε και Νικήτης των κατά Ασίαν παροικιών, Κρίσπος δε της κατά Αίγιναν εκκλησίας. ουτοι οι υφ' ημών εμπιστευθέντες τας εν κυρίω παροικίας, ών της διδασκαλίας μνημονεύοντες πάντοτε παραφυλάσσεσθε τους ημετέρους λόγους και είη ο κύριος μεθ' υμών νύν τε και εις ατελευτήτους χρόνους, ώς αυτός είρηκεν ημίν μέλλων αναλαμβάνεσθαι προς τον εαυτού θεόν και πατέρα "Ιόου" γάρ, φησίν, "εγώ μεθ' υμών ειμι πάσας τάς ημέρας έως της συντελείας του αιώνος. αμήν."
-        <note type="textual"/>
+      <desc type="context">The <title>Apostolic Constitutions</title> is a long didactic text
+        purporting to have been compiled by the apostles, in particular Peter, to guide the early
+        Church in matters of morality, worship, and governance. It was probably composed in Syrian
+        Antioch during the late 4th century. In the list of bishops installed by the apostles, the
+        unknown author names the first three bishops of Caesarea.</desc>
+      <ab type="edition" xml:lang="grc" xml:id="quote90-1" source="#bib90-1">(1) Περί δὲ τῶν ὑφ᾽
+        ἡμῶν χειροτονηθέντων ἐπισκόπων ἐν τῇ ζωῇ τῇ ημετέρᾳ γνωρίζομεν ὑμῖν ὅτι εἰσὶν οὗτοι. (2)
+        ῾Ιεροσολύμων μὲν ᾽Ιάκωβος ὁ τοῦ κυρίου ἀδελφός, οὗ τελευτήσαντος δεύτερος Συμεὼν ὁ τοῦ
+        Κλωπᾶ, μεθ᾽ ὃν τρίτος ᾽Ιούδας ᾽Ιακώβου· (3) <placeName xml:lang="grc">Καισαρείας δὲ τῆς
+          Παλαιστίνης</placeName> πρότερον μὲν Ζακχαίος ὅποτε τελώνης, μεθ᾽ ὃν Κορνήλιος καὶ τρίτος
+        Θεόφιλος· (4) ᾽Αντιοχείας δὲ Εὐόδιος μὲν ὑπ᾽ ἐμοῦ Πέτρου, ᾽Ιγνάτιος δὲ ὑπὸ Παύλου· (5) τῆς
+        δὲ ᾽Αλεξανδρέων ᾽Αννιανὸς πρῶτος ὑπὸ Μάρκου τοῦ εὐαγγελιστοὺ κεχειροτόνηται, δεύτερος δὲ
+        ᾽Αβίλιος ὑπὸ Λουκᾶ καὶ αὐτοῦ εὐαγγελιστού ...<note type="textual">Ed. Metzger 1987 [cited by
+          book-chapter-section]</note>
         <note type="discussion"/>
-        <note type="corrigenda">Inaccuracies found in the transcription of the electronic text compared to its printed source have been corrected.</note>
+        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
-        <ref target="https://hdl.handle.net/2027/coo1.ark:/13960/t3gx4wd8s?urlappend=%3Bseq=518"/>
+        <ref/>
       </ab>
-      <ab type="translation" xml:lang="en" xml:id="quote90-2" source="#bib90-2">
-        <anchor xml:id="testimonia-90.en.1" corresp="#testimonia-90.grc.1"/>"Now concerning those bishops who have been ordained in our lifetime, we let you know that they are these: James the bishop of Jerusalem, the brother of our Lord; upon whose death the second was Simeon the son of Cleopas; after whom the third was Judas the son of James. <placeName xml:lang="en">Of Caesarea of Palestine,</placeName> the first was Zacchaeus, who was once a publican; after whom was Cornelius; and the third Theophilus. Of Antioch, Euodius, ordained by me, Peter; and Ignatius by Paul. Of Alexandria, Annianus was the first, ordained by Mark the evangelist; the second Avilius by Luke, who was also an evangelist. Of the Church of Rome, Linus the son of Claudias was the first, ordained by Paul; and Clemens, after Linus’ death, the second, ordained by me, Peter. Of Ephesus, Timotheus, ordained by Paul; and John, by me John. Of Smyrna, Ariston the first; after whom Strataeas the son of Laoïs; and the third Ariston. Of Pergamon, Gaius. Of Philadelphia, Demetrius, by me. Of Cenchreae, Lucius, by Paul. Of Crete, Titus. Of Athens, Dionysius. Of Tripoli in Phoenicia, Marathones. Of Laodicea in Phrygia, Archippus. Of Colossae, Philemon. Of Boroea in Macedonia, Onesimus, once the servant of Philemon. Of the Churches of Galatia, Crescens. Of the parishes of Asia, Aquila and Nicetas. Of the Church of Aegina, Crispus. These are the bishops who are entrusted by us with the parishes in the Lord; whose doctrine keep you always in mind, and observe our words. And may the Lord be with you now, and to endless ages, as Himself said to us when He was about to be taken up to His own God and Father. For He says, 'Lo, I am with you all the days until the end of the world. Amen.' "
-        <note type="translation"/>
-        <note type="discussion"/>
-        <note type="corrigenda">Inaccuracies found in the transcription of the electronic text compared to its printed source have been corrected.</note>
+      <ab type="translation" xml:lang="en" xml:id="quote90-2" source="#bib90-2">(1) Concerning those
+        bishops who have been ordained in our lifetime, we inform you that they are these: (2) At
+        Jerusalem, James the brother of our Lord; upon his death, the second was Simeon son of
+        Cleopas; and after him, the third was Judas son of James. (3) At <placeName>Caesarea of
+          Palestine</placeName>, the first was Zacchaeus, once a publican; after him was Cornelius;
+        and the third was Theophilus. (4) At Antioch, Euodius was installed by me, Peter; and
+        Ignatius, by Paul. (5) At Alexandria, Annianus was the first, installed by Mark the
+        evangelist; the second was Avilius, by Luke, another evangelist.<note type="translation"
+          >Trans. J. L. Rife with ref. to Metzger 2012</note>
+        <note type="discussion">The Cornelius identified as the second bishop of Caesarea may recall
+          the centurion who appears in the Acts of the Apostles (10:1-8), but that is not
+          certain.</note>
+        <note type="corrigenda"/>
         <idno type="CTS-URN"/>
-        <ref target="https://ccel.org/ccel/schaff/anf07/anf07.ix.viii.iv.html"/>
+        <ref/>
       </ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib90-1">
-          <ptr target="https://caesarea-maritima.org/bibl/DUAAUJRE"/>
-          <citedRange unit="section">46</citedRange>
+          <ptr
+            target="https://www.zotero.org/groups/2320447/caesarea-maritima/items/3E9DZAJS/library"/>
+          <citedRange unit="bk">7.46.1-5</citedRange>
         </bibl>
         <bibl xml:id="bib90-2">
-          <ptr target="https://caesarea-maritima.org/bibl/LVRB4MPR"/>
-          <citedRange unit="section">46</citedRange>
+          <ptr
+            target="https://www.zotero.org/groups/2320447/caesarea-maritima/items/358NZGVR/library"/>
+          <citedRange unit="p">276-277</citedRange>
         </bibl>
       </listBibl>
       <listBibl>
         <head>Additional Bibliography</head>
         <bibl>
-          <ptr target="https://caesarea-maritima.org/bibl/MK5G3JKF"/>
-          <citedRange unit="section">46</citedRange>
+          <ptr/>
+          <citedRange unit="section"/>
         </bibl>
         <bibl>
-          <ptr target="https://caesarea-maritima.org/bibl/JGQ7ZBLB"/>
-          <citedRange unit="section">46</citedRange>
+          <citedRange unit="section"/>
         </bibl>
         <bibl>
           <ptr target=""/>
@@ -339,10 +363,38 @@
           <citedRange unit=""/>
         </bibl>
       </listBibl>
-    <note type="related-texts"/>
-      <note type="geography"/>
-      <note type="prosopography"/>
-      <note type="themes"/>
+    <note type="related-texts">
+        <list type="simple">
+          <item>Luke 19:1-10</item>
+          <item>Acts 10:1-8</item>
+        </list>
+      </note>
+      <note type="geography">
+        <p>Jerusalem</p>
+        <p>Antioch</p>
+        <p>Alexandria</p>
+      </note>
+      <note type="prosopography">
+        <p>Jesus Christ</p>
+        <p>James, disciple</p>
+        <p>Simeon son of Cleopas, bishop</p>
+        <p>Zacchaeus, early Christian</p>
+        <p>Cornelius, centurion</p>
+        <p>Theophilus, bishop</p>
+        <p>Euodius, bishop</p>
+        <p>Ignatius, bishop</p>
+        <p>Peter, saint</p>
+        <p>Paul, saint</p>
+        <p>Mark, evangelist</p>
+        <p>Luke, evangelist</p>
+        <p>Annianus, bishop</p>
+        <p>Avilius, bishop</p>
+      </note>
+      <note type="themes">
+        <p>Christianity</p>
+        <p>Government and Law</p>
+        <p>Christian bible</p>
+      </note>
     </body>
   </text>
 </TEI>

@@ -262,14 +262,14 @@
       </ab>
       <desc type="abstract" xml:id="abstract241-1">Caeasrea Maritima is indirectly attested at <persName role="author" ref="http://viaf.org/viaf/88969561">John Malalas</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref target="#bib241-1">10.46</ref>. This passage was written circa <origDate notBefore="0530" notAfter="0532" period="#byzantine">530-532 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/658381">Antioch on the
                Orontes</origPlace>.</desc>
-      <desc type="context">John Malalas, a moniker probably derived from Aramaic malolo meaning
-            “orator”, was an educated Syrian who moved from Antioch to Constantinople early in the
-            reign of Justinian I. His only known work is a historical chronicle in 18 books,
-            apparently composed in two editions, spanning from early times probably to the death of
-            Justinian, with a distinct focus on events in the eastern Mediterranean. In his passage
-            on the reign of Vespasian, John records the emperor’s construction of an odeum in 78
-            C.E. at Caesarea on the site of a synagogue. This is the only known testimony for the
-            building.</desc>
+      <desc type="context">John Malalas, a moniker probably derived from Aramaic
+          <foreign>malolo</foreign> meaning “orator”, was an educated Syrian who moved from Antioch
+        to Constantinople early in the reign of Justinian I. His only known work is a historical
+        chronicle in 18 books, apparently composed in two editions, spanning from early times
+        probably to the death of Justinian, with a distinct focus on events in the eastern
+        Mediterranean. In his passage on the reign of Vespasian, John records the emperor’s
+        construction of an odeum in 78 C.E. at Caesarea on the site of a synagogue. This is the only
+        known testimony for the building.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote241-1" source="#bib241-1">
         <anchor xml:id="testimonia-241.grc.1" corresp="#testimonia-241.en.1"/>Ἔκτισε δὲ καὶ ἐν <placeName>Καισαρείᾳ τῆς Παλαιστίνης</placeName> ἐκ τῆς
             αὐτῆς Ἰουδαϊκῆς πραίδας ὁ αὐτὸς Οὐεσπασιανὸς ᾠδεῖον μέγα πάνυ, θεάτρου ἔχον διάστημα

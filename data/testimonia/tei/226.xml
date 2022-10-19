@@ -265,59 +265,61 @@
           <placeName>Caesarea</placeName>
         </quote> is directly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Exhibit of the Whole World and its
                Peoples</title> <ref target="#bib226-1">31</ref>. This passage was written circa <origDate notBefore="0500" notAfter="0600" period="#byzantine">500-600 CE</origDate> possibly in <origPlace/>.</desc>
-      <desc type="context">Exhibit of the Whole World and its Peoples was composed by a learned
-            resident of the eastern Roman Empire during the reign of Constantius II, probably during
-            the late 350s in Syria-Phoenicia. It is a condensed geographical survey with annotations
-            on culture and trade, divided into three books on the unknown east and on the lands and
-            islands within the Imperial borders. The work survives in two Latin versions of the 6th
-            century, one (A) longer and presumably closer to the original, and the other apparently
-            an abbreviation (B). This passage explains the goods exported by different cities across
-            greater Syria, including purple-dye as well as wine, oil, and grain from
-            Caesarea.</desc>
+      <desc type="context"><title>Exhibit of the Whole World and its Peoples</title> was composed by
+        a learned resident of the eastern Roman Empire during the reign of Constantius II, probably
+        during the late 350s in Syria-Phoenicia. It is a condensed geographical survey with
+        annotations on culture and trade, divided into three books on the unknown east and on the
+        lands and islands within the Imperial borders. The work survives in two Latin versions of
+        the 6th century, one (A) longer and presumably closer to the original, and the other
+        apparently an abbreviation (B). This passage explains the goods exported by different cities
+        across greater Syria, including purple-dye as well as wine, oil, and grain from
+        Caesarea.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote226-1" source="#bib226-1">
-        <anchor xml:id="testimonia-226.la.1" corresp="#testimonia-226.en.1"/>A) Quoniam ergo ex parte praedictas civitates descripsimus et diximus
-            ⟨†... , necessarium mihi videtur ut etiam quidnam unaquaeque civitas proprium habet
-            exponamus, ut qui legit certam eorum scientiam habere possit. †⟩. In linteamina sunt
-            hae: Scythopolis, Laodicia, Byblus, Tyrus, Berytus quae linteamen omni orbi terrarum
-            emittunt, et sunt eminentes in omni abundantia. Similiter autem et Sarepta et <placeName>Caesarea</placeName> et Neapolis, quomodo et Lydda, purpuram alithinam.
-            Omnes autem praedictae civitates gloriosae et fructiferae in frumento, vino et oleo; †
-            hi et omnibus bonis abundant †: Nicolaum itaque palmulam in Palestinae regione, loco qui
-            sic vocatur Iericho, similiter et Damascenam et alteram palmulam minorem et psittacium
-            et omne genus pomorum habent. B) Quoniam ergo ex parte supradictas descripsimus
-            civitates necessarium mihi uidetur ut etiam quidnam una quaeque civitas proprium habeat
-            exponamus, ut qui legit certam eorum scientiam habere possit. Scythopolis igitur,
-            Laodicia, Byblus, Tyrus, Berytus omni mundo linteamen emittunt. Sarepta vero, <placeName>Caesarea</placeName>, Neapolis et Lydda purpuram praestant. Omnes autem
-            fructiferae vino et oleo et frumento; Nicolaum vero palmulam invenies abundare in
-            Palestina regione, in loco qui dicitur Hiericho; similiter et Damasco minores palmulas
-            sed utiles et pistacium et omne genus pomorum.<note type="textual">Ed. Rougé
-               1966</note>
+        <anchor xml:id="testimonia-226.la.1" corresp="#testimonia-226.en.1"/>A) Quoniam ergo ex
+        parte praedictas civitates descripsimus et diximus ⟨†... , necessarium mihi videtur ut etiam
+        quidnam unaquaeque civitas proprium habet exponamus, ut qui legit certam eorum scientiam
+        habere possit. †⟩. In linteamina sunt hae: Scythopolis, Laodicia, Byblus, Tyrus, Berytus
+        quae linteamen omni orbi terrarum emittunt, et sunt eminentes in omni abundantia. Similiter
+        autem et Sarepta et <placeName>Caesarea</placeName> et Neapolis, quomodo et Lydda, purpuram
+        alithinam. Omnes autem praedictae civitates gloriosae et fructiferae in frumento, vino et
+        oleo; † hi et omnibus bonis abundant †: Nicolaum itaque palmulam in Palestinae regione, loco
+        qui sic vocatur Iericho, similiter et Damascenam et alteram palmulam minorem et psittacium
+        et omne genus pomorum habent. |  |  B) Quoniam ergo ex parte supradictas descripsimus
+        civitates necessarium mihi uidetur ut etiam quidnam una quaeque civitas proprium habeat
+        exponamus, ut qui legit certam eorum scientiam habere possit. Scythopolis igitur, Laodicia,
+        Byblus, Tyrus, Berytus omni mundo linteamen emittunt. Sarepta vero,
+          <placeName>Caesarea</placeName>, Neapolis et Lydda purpuram praestant. Omnes autem
+        fructiferae vino et oleo et frumento; Nicolaum vero palmulam invenies abundare in Palestina
+        regione, in loco qui dicitur Hiericho; similiter et Damasco minores palmulas sed utiles et
+        pistacium et omne genus pomorum.<note type="textual">Ed. Rougé 1966</note>
         <note type="discussion"/>
         <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote226-2" source="#bib226-2">
-        <anchor xml:id="testimonia-226.en.1" corresp="#testimonia-226.la.1"/>A) Therefore, since we have partially described the aforementioned
-            cities and we have said ⟨... it seems to me necessary to explain again what special
-            product each one of them has, so that the reader can have exact knowledge of them⟩.
-            These cities (are known) for linen textiles: Scythopolis, Laodicaea, Byblos, Tyre, and
-            Beirut. They export linen all over the world, and they excel all in productivity. So
-            also Sarepta, <placeName>Caesarea</placeName>, and Neapolis as well as Lydda (export)
-            pure-deep purple. All (these cities) are also fruitful in wine, oil, and grain. They
-            also abound in all goods: so they have the Nicholaus date in the region of Palestine, in
-            a place called Jericho, as well as the Damascus (date), another smaller date, pistachio,
-            and every kind of fruit. B) Therefore, since we have described the cities mentioned
-            above, it seems to me necessary to explain what special product each one of them has, so
-            that the reader can have exact knowledge of them. So Scythopolis, Laodicea, Byblos,
-            Tyre, and Beirut export linen to the whole world. But Sarepta, <placeName>Caesarea</placeName>, Neapolis, and Lydda produce purple. All besides are
-            fruitful in wine, oil, and grain. In fact you will find that the Nicolaus date abounds
-            in the region of Palestine, in a place called Jericho, as well as dates smaller than the
-            Damascus (date) but useful, pistachio, and every kind of fruit.<note type="translation">Trans. J. L. Rife with reference to Rougé 1966</note>
-        <note type="discussion">Latin
-               alithina (A, B) transliterates Greek ἀληθινή. This adjective carries an
-               industrial-commercial connotation in descriptions of porphry dye that means pure,
-               deep, and/or consistent in color, and it implies higher cost (Rougé 1966, p. 252 n.
-               10; and see under Related Texts).</note>
+        <anchor xml:id="testimonia-226.en.1" corresp="#testimonia-226.la.1"/>A) Therefore, since we
+        have partially described the aforementioned cities and we have said ⟨... it seems to me
+        necessary to explain again what special product each one of them has, so that the reader can
+        have exact knowledge of them⟩. These cities (are known) for linen textiles: Scythopolis,
+        Laodicaea, Byblos, Tyre, and Beirut. They export linen all over the world, and they excel
+        all in productivity. So also Sarepta, <placeName>Caesarea</placeName>, and Neapolis as well
+        as Lydda (export) pure-deep purple. All (these cities) are also fruitful in wine, oil, and
+        grain. They also abound in all goods: so they have the Nicholaus date in the region of
+        Palestine, in a place called Jericho, as well as the Damascus (date), another smaller date,
+        pistachio, and every kind of fruit. |  | B) Therefore, since we have described the cities
+        mentioned above, it seems to me necessary to explain what special product each one of them
+        has, so that the reader can have exact knowledge of them. So Scythopolis, Laodicea, Byblos,
+        Tyre, and Beirut export linen to the whole world. But Sarepta,
+          <placeName>Caesarea</placeName>, Neapolis, and Lydda produce purple. All besides are
+        fruitful in wine, oil, and grain. In fact you will find that the Nicolaus date abounds in
+        the region of Palestine, in a place called Jericho, as well as dates smaller than the
+        Damascus (date) but useful, pistachio, and every kind of fruit.<note type="translation"
+          >Trans. J. L. Rife with reference to Rougé 1966</note>
+        <note type="discussion">Latin alithina (A, B) transliterates Greek ἀληθινή. This adjective
+          carries an industrial-commercial connotation in descriptions of porphry dye that means
+          pure, deep, and/or consistent in color, and it implies higher cost (Rougé 1966, p. 252 n.
+          10; and see under Related Texts).</note>
         <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>

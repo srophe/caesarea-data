@@ -238,7 +238,14 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Geography</title> <ref target="#bib220-1">16.2.27</ref> written by <persName ref="http://viaf.org/viaf/255656584" role="author">Strabo</persName> in <origDate notBefore="0007" notAfter="0024" period="#nabateanKingdom #earlyRoman #herodian #middleNabatean">7-24 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/727070">Alexandria or Rome</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m"
+          >Geography</title>
+        <ref target="#bib220-1">16.2.27</ref> written by <persName
+          ref="http://viaf.org/viaf/255656584" role="author">Strabo</persName> in <origDate
+          notBefore="0007" notAfter="0024"
+          period="#nabateanKingdom #earlyRoman #herodian #middleNabatean">0007 0024</origDate>. This
+        work was likely written in <origPlace ref="https://pleiades.stoa.org/places/727070"
+          >Alexandria or Rome</origPlace>.</creation>
       <langUsage>
         <language ident="grc">Ancient Greek</language>
       </langUsage>
@@ -260,28 +267,29 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/220</idno>
       </ab>
       <desc type="abstract" xml:id="abstract220-1"> is directly attested at <persName ref="http://viaf.org/viaf/255656584" role="author">Strabo</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Geography</title> <ref target="#bib220-1">16.2.27</ref>. This passage was written circa <origDate notBefore="0007" notAfter="0024" period="#nabateanKingdom# earlyRoman# herodian# middleNabatean">7-24 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/727070">Alexandria or Rome</origPlace>.</desc>
-      <desc type="context">Strabo, a scholar from a prosperous family in north central Asia
-            Minor, spent much of his career during the reign of Augustus travelling for research to
-            compile an encyclopedic survey of the contemporary world. His work in 17 books
-            chronicles the geographic and ethnographic diversity of the Mediterranean basin and
-            those regions of Europe, the Middle East, and north Africa under Roman rule in the first
-            decades of the principate. His survey moves systematically from West to East, covering
-            in its penultimate book the settlements along the Levantine coast.</desc>
+      <desc type="context">Strabo, a scholar from a prosperous family in north central Asia Minor,
+        spent much of his career during the reign of Augustus traveling for research to compile an
+        encyclopedic survey of the contemporary world. His work in 17 books chronicles the
+        geographic and ethnographic diversity of the Mediterranean basin and those regions of
+        Europe, the Middle East, and north Africa under Roman rule in the first decades of the
+        principate. His survey moves systematically from West to East, covering in its penultimate
+        book the settlements along the Levantine coast.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote220-1" source="#bib220-1">
-        <anchor xml:id="testimonia-220.grc.1" corresp="#testimonia-220.en.1"/>Μετὰ δὲ τὴν Ἄκην Στράτωνος πύργος πρόσορμον ἔχων. Μεταξὺ δὲ ὅ τε
-            Κάρμηλος τὸ ὄρος καὶ πολιχνίων ὀνόματα, πλέον δ’ οὐδέν, Συκαμίνων πόλις, Βουκόλων καὶ
-            Κροκοδείλων πόλις καὶ ἄλλα τοιαῦτα· εἶτα δρυμὸς μέγας τις.<note type="textual">Ed.
-               Meineke 1877</note>
+        <anchor xml:id="testimonia-220.grc.1" corresp="#testimonia-220.en.1"/>Μετὰ δὲ τὴν Ἄκην
+          <placeName>Στράτωνος πύργος</placeName> πρόσορμον ἔχων. Μεταξὺ δὲ ὅ τε Κάρμηλος τὸ ὄρος
+        καὶ πολιχνίων ὀνόματα, πλέον δ’ οὐδέν, Συκαμίνων πόλις, Βουκόλων καὶ Κροκοδείλων πόλις καὶ
+        ἄλλα τοιαῦτα· εἶτα δρυμὸς μέγας τις.<note type="textual">Ed. Meineke 1877</note>
         <note type="discussion"/>
         <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote220-2" source="#bib220-2">
-        <anchor xml:id="testimonia-220.en.1" corresp="#testimonia-220.grc.1"/>After Ake is Strato’s Tower, which has a landing for ships. Between
-            the two is Mount Carmel, as well as towns of which remains and nothing more
-            remain—Sykaminopolis, Boukolos and Krokodeilopolis, and others like them. Then comes a
-            large forest.<note type="translation">Adapted from Jones 1930</note>
+        <anchor xml:id="testimonia-220.en.1" corresp="#testimonia-220.grc.1"/>After Ake is
+          <placeName>Strato’s Tower</placeName>, which has a landing for ships. Between the two is
+        Mount Carmel, as well as towns of which remains and nothing more remain—Sykaminopolis,
+        Boukolos and Krokodeilopolis, and others like them. Then comes a large forest.<note
+          type="translation">Adapted from Jones 1930</note>
         <note type="discussion"/>
         <note type="corrigenda"/>
         <idno type="CTS-URN"/>

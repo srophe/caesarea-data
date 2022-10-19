@@ -251,7 +251,7 @@
           <idno type="CTS-URN"/>
         </classCode>
         <catRef scheme="#CM-Testimonia-Type" target="#direct"/>
-        <catRef scheme="#CM-NEAEH" target="#lateIslamic"/>
+        <catRef scheme="#CM-NEAEH" target="#crusader #lateIslamic"/>
       </textClass>
     </profileDesc>
     <revisionDesc status="draft">

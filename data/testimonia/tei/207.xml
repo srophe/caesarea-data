@@ -275,12 +275,12 @@
                Geography</title> <ref target="#bib207-1">576.19-27</ref>. This passage was written circa <origDate notBefore="0350" notAfter="0450" period="#byzantine">350-450 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/844944">Heraclea Pontica</origPlace>.</desc>
          <desc type="context">Marcianus from Heraclea Pontica on the southwestern coast of the Black
             Sea was a geographer of Late Antiquity who is best known for his compendia of earlier
-            scholarship, including an epitome of the Late Hellenistic Geographic Description by
-            Artemidorus of Ephesus. In this passage from his survey of Asia, Marcianus quotes
-            Artemidorus concerning the relative situation of Strato’s Tower, Dor, and Mount Carmel.
-            The same quotation appears at Stephanus of Byzantium, Book of Nations Δ 150, written six
-            to seven centuries after Artemidorus’ work and two to three centuries after Marcianus’s
-            work.</desc>
+            scholarship, including an epitome of the Late Hellenistic <title>Geographic
+               Description</title> by Artemidorus of Ephesus. In this passage from his survey of
+            Asia, Marcianus quotes Artemidorus concerning the relative situation of Strato’s Tower,
+            Dor, and Mount Carmel. The same quotation appears at Stephanus of Byzantium, <title>Book
+               of Nations</title> Δ 150, written six to seven centuries after Artemidorus’ work and
+            two to three centuries after Marcianus’s work.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote207-1" source="#bib207-1">
         <anchor xml:id="testimonia-207.grc.1" corresp="#testimonia-207.en.1"/>ΑΣΙΑ. Βιβλ. θʹ. Δῶρος, πόλις Φοινίκης. Ἑκαταῖος Ἀσίᾳ· “Μετὰ δὲ ἡ πάλαι
             Δῶρος, νῦν δὲ Δῶρα καλεῖται.” Καὶ Ἀρτεμίδωρος Δῶρα τὴν πόλιν οἶδεν ἐν Ἐπιτομῇ τῶν ιαʹ·
@@ -293,17 +293,18 @@
         <ref/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote207-2" source="#bib207-2">
-        <anchor xml:id="testimonia-207.en.1" corresp="#testimonia-207.grc.1"/>ASIA. Book 9. Doros, a city in Phoenicia. Hecataeus in [his book on]
-            Asia: “After that is the city called Doros in the old times but today Dora.” And
-            Artemidorus mentions the city Dora in Epitome of 11 books: “Continuing on is
-               <placeName>Straton’s Tower</placeName>, and then Dora, a town situated on the
-            peninsula where Mount Carmel begins.” And the same thing in Geographic Description
-               9.<note type="translation">Trans. J. L. Rife</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
+            <anchor xml:id="testimonia-207.en.1" corresp="#testimonia-207.grc.1"/>ASIA. Book 9.
+            Doros, a city in Phoenicia. Hecataeus in [his book on] Asia: “After that is the city
+            called Doros in the old times but today Dora.” And Artemidorus mentions the city Dora in
+               <title>Epitome</title> of 11 books: “Continuing on is <placeName>Straton’s
+               Tower</placeName>, and then Dora, a town situated on the peninsula where Mount Carmel
+            begins.” And the same thing in <title>Geographic Description</title> 9.<note
+               type="translation">Trans. J. L. Rife</note>
+            <note type="discussion"/>
+            <note type="corrigenda"/>
+            <idno type="CTS-URN"/>
+            <ref target=""/>
+         </ab>
          <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib207-1">

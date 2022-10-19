@@ -249,7 +249,7 @@
           <idno type="CTS-URN"/>
         </classCode>
         <catRef scheme="#CM-Testimonia-Type" target="#direct"/>
-        <catRef scheme="#CM-NEAEH" target="#byzantine #earlyIslamic"/>
+        <catRef scheme="#CM-NEAEH" target="#byzantine"/>
       </textClass>
     </profileDesc>
     <revisionDesc status="draft">
@@ -288,11 +288,12 @@
         <ref target=""/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote265-2" source="#bib265-2">
-        <anchor xml:id="testimonia-265.en.1" corresp="#testimonia-265.grc.1"/>[A.M. 5829=336/7 C.E.] (Eusebius) died right after Constantine the
-            Great, leaving his pupil Acacius as successor to his throne at <placeName>Caesarea</placeName>. Acacius was a distinguished man, and the author of
-            the Miscellany, but was closely associated with the Arians, and was clearly of one mind
-            with his teacher.<note type="translation">Rev. Mango, Scott, and Greatrex
-               1997</note>
+        <anchor xml:id="testimonia-265.en.1" corresp="#testimonia-265.grc.1"/>[A.M. 5829=336/7 C.E.]
+        (Eusebius) died right after Constantine the Great, leaving his pupil Acacius as successor to
+        his throne at <placeName>Caesarea</placeName>. Acacius was a distinguished man, and the
+        author of the <title>Miscellany</title>, but was closely associated with the Arians, and was
+        clearly of one mind with his teacher.<note type="translation">Rev. Mango, Scott, and
+          Greatrex 1997</note>
         <note type="discussion"/>
         <note type="corrigenda"/>
         <idno type="CTS-URN"/>

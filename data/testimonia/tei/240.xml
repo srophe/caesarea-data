@@ -271,16 +271,16 @@
         </quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/1018158675954427500005">Marino Sanudo
                the Elder</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Secrets for Those Faithful to the
                Cross</title> <ref target="#bib240-1">3.7.1a</ref>. This passage was written circa <origDate notBefore="1306" notAfter="1321" period="#lateIslamic">1306-1321 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/560221">Aegean Greece</origPlace>.</desc>
-      <desc type="context">Marino Sanudo the Elser of Torcello, from a wealthy and powerful
-            Venetian family, was a statesman and geographer who spent much of his career from the
-            late 13th century until his death in 1338 living and travelling abroad. He reached the
-            Peloponnese and Aegean islands, Cyprus and Cilicia, Constantinople, the Levant, and
-            Egypt, but also western and northern Europe. A learned and eloquent advocate for a new
-            crusade, he wrote the voluminous Secrets for Those Faithful to the Cross (Secreta
-            fidelium Crucis), a strategic manual full of economic, military, and geographic detail
-            as well as maps, and presented different versions of it to popes Clement V (in 1307) and
-            John XXII (in 1321). This passage describes the soldiers provided in service to the King
-            by each barony, county, see, or other unit.</desc>
+      <desc type="context">Marino Sanudo the Elser of Torcello, from a wealthy and powerful Venetian
+        family, was a statesman and geographer who spent much of his career from the late 13th
+        century until his death in 1338 living and travelling abroad. He reached the Peloponnese and
+        Aegean islands, Cyprus and Cilicia, Constantinople, the Levant, and Egypt, but also western
+        and northern Europe. A learned and eloquent advocate for a new crusade, he wrote the
+        voluminous <title>Secrets for Those Faithful to the Cross</title> (<title>Secreta fidelium
+          Crucis</title>), a strategic manual full of economic, military, and geographic detail as
+        well as maps, and presented different versions of it to popes Clement V (in 1307) and John
+        XXII (in 1321). This passage describes the soldiers provided in service to the King by each
+        barony, county, see, or other unit.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote240-1" source="#bib240-1">
         <anchor xml:id="testimonia-240.la.1" corresp="#testimonia-240.en.1"/>Quartus principatus est Ierosolymitanus, de quo supra dictum est.
             Servibant autem regi: Ierusalem, de militibus XLI et armigeris vC; Baroniae de Iopen,
@@ -311,28 +311,28 @@
         <ref target=""/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote240-2" source="#bib240-2">
-        <anchor xml:id="testimonia-240.en.1" corresp="#testimonia-240.la.1"/>The fourth principality is Jerusalem, which is discussed above. They
-            serve the King as follows: Jerusalem, 41 knights and 500 squires; the barony of Jaffa,
-            Ascalon, Rama, Mirabel, and Ibelin, 100 knights; the barony of the principality of
-            Galilee, 100 knights; the lordship of Mount Royal, 60 knights; the county of Joscelin,
-            24 knights; Nablus, 85 knights and 300 squires; Acre, 80 knights and 50 squires; Tyre,
-            28 knights and 100 squires; the Patriarchate, 500 squires; the Chapter of the Sepulchre,
-            five squires; Josaphat, 150 squires; Mount Syon, 150 squires; The Temple of the Lord,
-            150 squires; Latina, 50 squires; the Bishop of Tabarie, 100 squires; the Abbot of Mount
-            Tabor, 100 squires; Caesarea, 50 squires; the Bishop of Bethlehem, 200 squires; Ibelin
-            and Mirabel, 100 squires; the Bishop of Saint George, 200 squires; Arsur, 50 squires;
-            the Bishop of Sabadoit, 100 squires; the Bishop of Acre, 150 squires; the Bishop of
-            Saint Abraham, 50 squires; the Archbishop of Tyre, 150 squires; the Archbishop of
-            Nazareth, 50 squires; the Bishop of Sidon, 50 squires; the Archbishop of Caesarea, 50
-            squires; Ascalon, 100 squires; Leluon, 100 squires; Leyrim, 25 squires; Cayphas, 50
-            squires; Tabaria, 200 squires. Total: 528 knights, 4,775 squires. Anyone could
-            reasonably wonder why the barons were such dedicated servants to the safety of the
-            kingdom. But because the Kings made the laws of the kingdom not by reducing but rather
-            by increasing, it was ensured that the barons submitted to the King in such matters, so
-            that they could help the King at a time of crisis when he asked, or in many [things]. In
-            particular, beyond what we have listed before, the barons freely led a decent body of
-            armed soldiers according to their ability and status whenever they went to war with the
-            King.<note type="translation">Adapted from Lock 2011</note>
+        <anchor xml:id="testimonia-240.en.1" corresp="#testimonia-240.la.1"/>The fourth principality
+        is Jerusalem, which is discussed above. They serve the King as follows: Jerusalem, 41
+        knights and 500 squires; the barony of Jaffa, Ascalon, Rama, Mirabel, and Ibelin, 100
+        knights; the barony of the principality of Galilee, 100 knights; the lordship of Mount
+        Royal, 60 knights; the county of Joscelin, 24 knights; Nablus, 85 knights and 300 squires;
+        Acre, 80 knights and 50 squires; Tyre, 28 knights and 100 squires; the Patriarchate, 500
+        squires; the Chapter of the Sepulchre, five squires; Josaphat, 150 squires; Mount Syon, 150
+        squires; the Temple of the Lord, 150 squires; Latina, 50 squires; the Bishop of Tabarie, 100
+        squires; the Abbot of Mount Tabor, 100 squires; Caesarea, 50 squires; the Bishop of
+        Bethlehem, 200 squires; Ibelin and Mirabel, 100 squires; the Bishop of Saint George, 200
+        squires; Arsur, 50 squires; the Bishop of Sabadoit, 100 squires; the Bishop of Acre, 150
+        squires; the Bishop of Saint Abraham, 50 squires; the Archbishop of Tyre, 150 squires; the
+        Archbishop of Nazareth, 50 squires; the Bishop of Sidon, 50 squires; the Archbishop of
+        Caesarea, 50 squires; Ascalon, 100 squires; Leluon, 100 squires; Leyrim, 25 squires;
+        Cayphas, 50 squires; Tabaria, 200 squires. Total: 528 knights, 4,775 squires. Anyone could
+        reasonably wonder why the barons were such dedicated servants to the safety of the kingdom.
+        But because the Kings made the laws of the kingdom not by reducing but rather by increasing,
+        it was ensured that the barons submitted to the King in such matters, so that they could
+        help the King at a time of crisis when he asked, or in many (things). In particular, beyond
+        what we have listed before, the barons freely led a decent body of armed soldiers according
+        to their ability and status whenever they went to war with the King.<note type="translation"
+          >Adapted from Lock 2011</note>
         <note type="discussion"/>
         <note type="corrigenda"/>
         <idno type="CTS-URN"/>

@@ -269,10 +269,10 @@
         </quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/25396473">Eutropius</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Short History</title> <ref target="#bib52-1">7.10.3</ref>. This passage was written circa <origDate notBefore="0367" notAfter="0369" period="#byzantine">367-369 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
          <desc type="context">Eutropius was a scholar of uncertain origin (Italy or Asia Minor?) who
             served the Imperial court in Constantinople during the second half of the 4th century.
-            During the reign of Valens he wrote a condensed survey of Roman history (Breviarium)
-            from the legendary foundation of the city to the reign of Jovian (753 B.C.E.-364 C.E.).
-            In this passage Eutropius cites the establishment of Caesarea in honor of
-            Augustus.</desc>
+            During the reign of Valens he wrote a condensed survey of Roman history
+               (<title>Breviarium</title>) from the legendary foundation of the city to the reign of
+            Jovian (753 B.C.E.-364 C.E.). In this passage, Eutropius cites the establishment of
+            Caesarea in honor of Augustus.</desc>
          <ab type="edition" xml:lang="la" xml:id="quote52-1" source="#bib52-1">
         <anchor xml:id="testimonia-52.la.1" corresp="#testimonia-52.en.1"/>Tanto autem amore etiam apud barbaros fuit, ut reges populi Romani amici
             in honorem eius conderent civitates, quas <placeName>Caesareas</placeName> nominarent,

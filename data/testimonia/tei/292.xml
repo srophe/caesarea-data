@@ -263,10 +263,10 @@
           <placeName>Caesarea</placeName>
         </quote> is directly attested at <persName ref="http://viaf.org/viaf/95147024" role="author">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Book of Places</title> <ref target="#bib292-1">109</ref>. This passage was written circa <origDate notBefore="0390" notAfter="0420" period="#byzantine">390-420 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</desc>
       <desc type="context">In his lexicon of place names in Hebrew Scripture, Jerome wrote that
-            Iafthie named at Joshua 19:12 was in his time a coastal village called Ioppe, Sykaminos,
-            or Efa (Haifa?) on the road from Caesarea to Ptolemaïs (Akko). This same information is
-            recorded in the parallel passage at Eusebius, Dictionary of Place Names 108, written
-            roughly one century before Jerome’s work.</desc>
+        Iafthie, named at <title>Joshua</title> 19:12, was in his time a coastal village called
+        Ioppe, Sykaminos, or Efa (Haifa?) on the road from Caesarea to Ptolemaïs (Akko). This same
+        information is recorded in the parallel passage at Eusebius, <title>Dictionary of Place
+          Names</title> 108, written roughly one century before Jerome’s work.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote292-1" source="#bib292-1">
         <anchor xml:id="testimonia-292.la.1" corresp="#testimonia-292.en.1"/>Iafthie in tribu Zabulon. nunc usque Ioppe vocatur ascensus Iafo. sed et
             oppidum Sycaminum nomine de <placeName>Caesarea</placeName> Ptolomaidem pergentibus
@@ -278,9 +278,10 @@
         <ref target="urn:cts:greekLit:tlg2018.tlg011.opp-lat1:9"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote292-2" source="#bib292-2">
-        <anchor xml:id="testimonia-292.en.1" corresp="#testimonia-292.la.1"/>Iafthie in the tribe of Zebulon. Until now it is called Ioppe, the
-            Ascent of Iafo. It is also the town Sycaminus by name for those traveling from <placeName>Caesarea</placeName> to Ptolemais, on the sea beside Mount Carmel, called
-               Efa.<note type="translation">Trans. J. L. Rife</note>
+        <anchor xml:id="testimonia-292.en.1" corresp="#testimonia-292.la.1"/>Iafthie in the tribe of
+        Zebulon. Until now it is called Ioppe, the Ascent of Iafo. It is also the town Sycaminus by
+        name for those traveling from <placeName>Caesarea</placeName> to Ptolemaïs, on the sea
+        beside Mount Carmel, called Efa.<note type="translation">Trans. J. L. Rife</note>
         <note type="discussion"/>
         <note type="corrigenda"/>
         <idno type="CTS-URN"/>

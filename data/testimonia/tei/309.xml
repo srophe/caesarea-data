@@ -267,33 +267,35 @@
             1160s. He wrote several works in Latin, many on the history of Monte Cassino and
             devotional life, including his short account of the Holy Land, which distills earlier
             sources. This passage, which describes the natural terrain from the Judaean Hills west
-            to the coast as far as Caesarea, copies the account written by Bede the Venerable (Holy
-            Places 5.3-5.9) roughly 450 years earlier.</desc>
+            to the coast as far as Caesarea, copies the account written by Bede the Venerable
+               (<title>Holy Places</title> 5.3-5.9) roughly 450 years earlier.</desc>
          <ab type="edition" xml:lang="la" xml:id="quote309-1" source="#bib309-1">
-        <anchor xml:id="testimonia-309.la.1" corresp="#testimonia-309.en.1"/>Circa Ierosolimam aspera ac montuosa cernuntur loca. Hinc quoque
-            septemtrionem versus usque Arimatheam terra petrosa et aspera per intervalla quaedam
-            monstrantur, valles quoque spinosae usque ad Thamnycam regionem patentes. Ad Caesaream
-            vero Palestinae ab Ierusalem quamvis aliqua reperriantur angusta et brevia aspera loca,
-            precipue tamen planities camporum interpositis olivetis. Distant autem LXX milibus
-            passuum. <note type="textual">Ed. Fraipont 1965</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
+            <anchor xml:id="testimonia-309.la.1" corresp="#testimonia-309.en.1"/>Circa Ierosolimam
+            aspera ac montuosa cernuntur loca. Hinc quoque septemtrionem versus usque Arimatheam
+            terra petrosa et aspera per intervalla quaedam monstrantur, valles quoque spinosae usque
+            ad Thamnycam regionem patentes. Ad <placeName>Caesaream vero Palestinae</placeName> ab
+            Ierusalem quamvis aliqua reperriantur angusta et brevia aspera loca, precipue tamen
+            planities camporum interpositis olivetis. Distant autem LXX milibus passuum. <note
+               type="textual">Ed. Fraipont 1965</note>
+            <note type="discussion"/>
+            <note type="corrigenda"/>
+            <idno type="CTS-URN"/>
+            <ref target=""/>
+         </ab>
          <ab type="translation" xml:lang="en" xml:id="quote309-2" source="#bib309-2">
-        <anchor xml:id="testimonia-309.en.1" corresp="#testimonia-309.la.1"/>Around Jerusalem one sees that the land is rough and mountainous.
-            From there to the north up to Arimathia the terrain proves to be rocky and rough in
-            certain areas, and the valleys extending as far as the Thamnic region are full of thorny
-            vegetation. But from Jerusalem to Caesarea Palestinae, although here and there can be
-            found rough spots over narrow, short stretches, by and large the plains are flat, with
-            olive trees spread about. The distance is 75 miles.<note type="translation">Trans. J. L.
+            <anchor xml:id="testimonia-309.en.1" corresp="#testimonia-309.la.1"/>Around Jerusalem
+            one sees that the land is rough and mountainous. From there to the north up to Arimathia
+            the terrain proves to be rocky and rough in certain areas, and the valleys extending as
+            far as the Thamnic region are full of thorny vegetation. But from Jerusalem to
+               <placeName>Caesarea Palestinae</placeName>, although here and there can be found
+            rough spots over narrow, short stretches, by and large the plains are flat, with olive
+            trees spread about. The distance is 75 miles.<note type="translation">Trans. J. L.
                Rife</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
-        <idno type="CTS-URN"/>
-        <ref/>
-      </ab>
+            <note type="discussion"/>
+            <note type="corrigenda"/>
+            <idno type="CTS-URN"/>
+            <ref/>
+         </ab>
          <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib309-1">

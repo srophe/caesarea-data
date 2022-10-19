@@ -247,7 +247,7 @@
           <idno type="CTS-URN"/>
         </classCode>
         <catRef scheme="#CM-Testimonia-Type" target="#direct"/>
-        <catRef scheme="#CM-NEAEH" target="#earlyRoman #herodian #byzantine"/>
+        <catRef scheme="#CM-NEAEH" target="#earlyRoman #herodian"/>
       </textClass>
     </profileDesc>
     <revisionDesc status="draft">
@@ -291,19 +291,19 @@
         <ref/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote271-2" source="#bib271-2">
-        <anchor xml:id="testimonia-271.en.1" corresp="#testimonia-271.la.1"/>Year of the Romans Year of the Jews 192nd Olympiad [12 B.C.E.] 32
-            (167c) Augustus is granted the title pontifex maximus 22 by the Senate. (d) Herod
-            founded <placeName>Caesarea</placeName> in the name of Caesar, (the city) which was
-            formerly called <placeName>Strato’s Tower</placeName>. [11 B.C.E.] 33 (e) Herod founded
-            Anthedon and Antipatris, and built 23 Herodium in honor of his father Antipater and
-            himself. He also erected countless structures with the utmost skill in the Syrian cities
-            he ruled. [10 B.C.E.] 34 (f) Tiberius Caesarea celebrated a triumph for the conquest 24
-            of the Pannonias.<note type="translation">Trans. J. L. Rife with ref. to Pearse
-               2005</note>
+        <anchor xml:id="testimonia-271.en.1" corresp="#testimonia-271.la.1"/>Year of the Romans Year
+        of the Jews 192nd Olympiad [12 B.C.E.] 32 (167c) Augustus is granted the title pontifex
+        maximus 22 by the Senate. (d) Herod founded <placeName>Caesarea</placeName> in the name of
+        Caesar, (the city) which was formerly called <placeName>Strato’s Tower</placeName>. [11
+        B.C.E.] 33 (e) Herod founded Anthedon and Antipatris, and built 23 Herodium in honor of his
+        father Antipater and himself. He also erected countless structures with the utmost skill in
+        the Syrian cities he ruled. [10 B.C.E.] 34 (f) Tiberius Caesarea celebrated a triumph for
+        the conquest 24 of the Pannonias.<note type="translation">Trans. J. L. Rife with ref. to
+          Pearse 2005</note>
         <note type="discussion"/>
         <note type="corrigenda"/>
-        <idno type="CTS-URN">http://www.tertullian.org/fathers/jerome_chronicle_03_part2.htm</idno>
-        <ref target="http://www.tertullian.org/fathers/eusebius_theophania_05book4.htm"/>
+        <idno type="CTS-URN"/>
+        <ref target="http://www.tertullian.org/fathers/jerome_chronicle_03_part2.htm"/>
       </ab>
       <listBibl>
         <head>Works Cited</head>

@@ -262,14 +262,14 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/312</idno>
          </ab>
          <desc type="abstract" xml:id="abstract312-1">Caeasrea Maritima is indirectly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Suda</title> <ref target="#bib312-1">ω 182.618.2-13</ref>. This passage was written circa <origDate notBefore="0976" notAfter="0990" period="#earlyIslamic">976-990 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
-         <desc type="context">The Suda (“Stronghold”) is an encyclopedic lexicon written by an
-            unknown scholar during the late 10th century. It compiles copious information in
-            alphabetical entries for use by the learned philologist, in particular on grammar,
-            history, and biography, referring to a broad range of sources from Classical Antiquity
-            to the Early Byzantine period. This passage from the lemma on Origen (s.v. Ὠριγένης)
-            describes how Ambrose provided Origen with many resources, including a full scribal
-            staff, for his biblical research at Caesarea in the early 3rd century. Here the author
-            depends on the account of Eusebius written roughly 650 year earlier.</desc>
+         <desc type="context">The <title>Suda</title> (“Stronghold”) is an encyclopedic lexicon
+            written by an unknown scholar during the late 10th century. It compiles copious
+            information in alphabetical entries for use by the learned philologist, in particular on
+            grammar, history, and biography, referring to a broad range of sources from Classical
+            Antiquity to the Early Byzantine period. This passage from the lemma on Origen (s.v.
+            Ὠριγένης) describes how Ambrose provided Origen with many resources, including a full
+            scribal staff, for his biblical research at Caesarea in the early 3rd century. Here the
+            author depends on the account of Eusebius written roughly 650 year earlier.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote312-1" source="#bib312-1">
         <anchor xml:id="testimonia-312.grc.1" corresp="#testimonia-312.en.1"/>ἐξ ἐκείνου δὲ τοῦ χρόνου τῶν εἰς τὰς θείας γραφὰς ὑπομνημάτων ἐγένετο
             ἀρχή, ᾽Αμβροσίου εἰς τὰ μάλιστα παρορμῶντος αὐτὸν μυρίαις ὅσαις οὐ προτροπαῖς ταῖς διὰ
@@ -286,21 +286,22 @@
         <ref target="https://archive.org/details/adler-a.-suidae-lexicon-3 ./Adler%20A.%2C%20Suidae%20Lexicon%203%20%28%CE%9A-%CE%9F.%20%CE%A9%29/page/n315/mode/2up"/>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote312-2" source="#bib312-2">
-        <anchor xml:id="testimonia-312.en.1" corresp="#testimonia-312.grc.1"/>The start of his Commentaries on the Divine Scriptures dates to that
-            time, after Ambrose in particular urged him to undertake this project not only through
-            endless verbal prodding and appeals to the man but also with the provision of unlimited
-            resources. Thus, more than seven stenographers were on call to take his dictation,
-            taking one another’s place at appointed times, and no fewer were the copyists, along
-            with young women skilled in calligraphy. Ambrose supplied abundant resources to meet all
-            their needs. Far beyond that, he imbued (Origen) with exceeding enthusiasm through his
-            own study of God’s pronouncements, and a zeal which gave Origen special encouragement in
-            preparing his Commentaries. <note type="translation">Adapted from SOL (trans. P. Little
-               et al., 2000-)</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
-        <idno type="CTS-URN"/>
-        <ref target="https://www.cs.uky.edu/~raphael/sol/sol-entries/omega/182"/>
-      </ab>
+            <anchor xml:id="testimonia-312.en.1" corresp="#testimonia-312.grc.1"/>The start of his
+            Commentaries on the Divine Scriptures dates to that time, after Ambrose in particular
+            urged him to undertake this project not only through endless verbal prodding and appeals
+            to the man but also with the provision of unlimited resources. Thus, more than seven
+            stenographers were on call to take his dictation, taking one another’s place at
+            appointed times, and no fewer were the copyists, along with young women skilled in
+            calligraphy. Ambrose supplied abundant resources to meet all their needs. Far beyond
+            that, he imbued (Origen) with exceeding enthusiasm through his own study of God’s
+            pronouncements, and a zeal which gave Origen special encouragement in preparing his
+            commentaries. <note type="translation">Adapted from SOL (trans. P. Little et al.,
+               2000-)</note>
+            <note type="discussion"/>
+            <note type="corrigenda"/>
+            <idno type="CTS-URN"/>
+            <ref target="https://www.cs.uky.edu/~raphael/sol/sol-entries/omega/182"/>
+         </ab>
          <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib312-1">

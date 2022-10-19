@@ -240,7 +240,13 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Suda</title> <ref target="#bib320-1">π 2479</ref> written by <persName role="author">Unknown</persName> in <origDate notBefore="0976" notAfter="0990" period="#earlyIslamic">976-990 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m"
+               >Suda</title>
+            <ref target="#bib320-1">π 2479</ref> written by <persName role="author"
+               >Unknown</persName> in <origDate notBefore="0976" notAfter="0990"
+               period="#earlyIslamic">976-990 CE</origDate>. This work was likely written in
+               <origPlace ref="https://pleiades.stoa.org/places/520998"
+            >Constantinople</origPlace>.</creation>
          <langUsage>
             <language ident="grc">Ancient Greek</language>
          </langUsage>
@@ -262,16 +268,17 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/320</idno>
          </ab>
          <desc type="abstract" xml:id="abstract320-1"> is directly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Suda</title> <ref target="#bib320-1">π 2479</ref>. This passage was written circa <origDate notBefore="0976" notAfter="0990" period="#earlyIslamic">976-990 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
-         <desc type="context">The Suda (“Stronghold”) is an encyclopedic lexicon written by an
-            unknown scholar during the late 10th century. It compiles copious information in
-            alphabetical entries for use by the learned philologist, in particular on grammar,
-            history, and biography, referring to a broad range of sources from Classical Antiquity
-            to the Early Byzantine period. This lemma on Procopius (s.v. Προκόπιος) describes the
-            writings and political relationships of Procopius of Caesarea during the 6th century.
-            Here the author depends on the universal history written by Hesychius of Miletus roughly
-            400 years earlier.</desc>
+         <desc type="context">The <title>Suda</title> (“Stronghold”) is an encyclopedic lexicon
+            written by an unknown scholar during the late 10th century. It compiles copious
+            information in alphabetical entries for use by the learned philologist, in particular on
+            grammar, history, and biography, referring to a broad range of sources from Classical
+            Antiquity to the Early Byzantine period. This lemma on Procopius (s.v. Προκόπιος)
+            describes the writings and political relationships of Procopius of Caesarea during the
+            6th century. Here the author depends on the universal history written by Hesychius of
+            Miletus roughly 400 years earlier.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote320-1" source="#bib320-1">
-        <anchor xml:id="testimonia-320.grc.1" corresp="#testimonia-320.en.1"/>Προκόπιος, Ἰλλούστριος, Καισαρεὺς ἐκ Παλαιστίνης, ῥήτωρ καὶ σοφιστής.
+            <anchor xml:id="testimonia-320.grc.1" corresp="#testimonia-320.en.1"/>Προκόπιος,
+            Ἰλλούστριος, <placeName>Καισαρεὺς ἐκ Παλαιστίνης</placeName>, ῥήτωρ καὶ σοφιστής.
             ἔγραψεν Ἱστορίαν Ῥωμαϊκήν, ἤγουν τοὺς πολέμους Βελισαρίου πατρικίου, τὰ κατὰ Ῥώμην καὶ
             Λιβύην πραχθέντα. γέγονεν ἐπὶ τῶν χρόνων Ἰουστινιανοῦ τοῦ βασιλέως, ὑπογραφεὺς
             χρηματίσας Βελισαρίου καὶ ἀκόλουθος κατὰ πάντας τοὺς συμβάντας πολέμους τε καὶ πράξεις
@@ -280,25 +287,29 @@
             ψόγους καὶ κωμῳδίαν Ἰουστινιανοῦ βασιλέως περιέχει καὶ τῆς αὐτοῦ γυναικὸς Θεοδώρας, ἀλλὰ
             μὴν καὶ αὐτοῦ Βελισαρίου καὶ τῆς γαμετῆς αὐτοῦ.<note type="textual">Ed. Adler
                1935</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
-        <idno type="CTS-URN">https://archive.org/details/adler-a.-suidae-lexicon-3-./Adler%20A.%2C%20Suidae%20Lexicon%204%20%28%CE%A0-%CE%A8%29/page/210/mode/2up</idno>
-      </ab>
+            <note type="discussion"/>
+            <note type="corrigenda"/>
+            <idno type="CTS-URN"
+               >https://archive.org/details/adler-a.-suidae-lexicon-3-./Adler%20A.%2C%20Suidae%20Lexicon%204%20%28%CE%A0-%CE%A8%29/page/210/mode/2up</idno>
+         </ab>
          <ab type="translation" xml:lang="en" xml:id="quote320-2" source="#bib320-2">
-        <anchor xml:id="testimonia-320.en.1" corresp="#testimonia-320.grc.1"/>Procopius, illustris (in status), of Caesarea in Palestine, rhetor
-            and sophist. He wrote a Roman History, i.e. the wars of Belisarius the patrician, the
-            actions carried out in Rome and Libya. He lived in the time of the emperor Justinian,
-            was employed as Belisarius’ secretary, and accompanied him in all the wars and events
-            which he recorded. He also wrote another book, the so-called Anecdota, on the same
-            events; both works add up to 9 books. (Note) that the book by Procopius called Anecdota
-            contains abuse and mockery of the emperor Justinian and his wife Theodora, and indeed of
-            Belisarius himself as well, and his wife.<note type="translation">Rev. SOL (trans. M.
-               Heath et al., 2002-)</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
-        <idno type="CTS-URN"/>
-        <ref target="http://www.cs.uky.edu/~raphael/sol/sol-entries/pi/2479"/>
-      </ab>
+            <anchor xml:id="testimonia-320.en.1" corresp="#testimonia-320.grc.1"/>Procopius,
+            illustris (in status), of <placeName>Caesarea in Palestine</placeName>, rhetor and
+            sophist. He wrote a <title>Roman History</title>, i.e. the wars of Belisarius the
+            patrician, the actions carried out in Rome and Libya. He lived in the time of the
+            emperor Justinian, was employed as Belisarius’ secretary, and accompanied him in all the
+            wars and events which he recorded. He also wrote another book, the so-called
+               <title>Anecdota</title>, on the same events; both works add up to 9 books. (Note)
+            that the book by Procopius called <title>
+               <title>Unpublished History</title>
+            </title> contains abuse and mockery of the emperor Justinian and his wife Theodora, and
+            indeed of Belisarius himself as well, and his wife.<note type="translation">Rev. SOL
+               (trans. M. Heath et al., 2002-)</note>
+            <note type="discussion"/>
+            <note type="corrigenda"/>
+            <idno type="CTS-URN"/>
+            <ref target="http://www.cs.uky.edu/~raphael/sol/sol-entries/pi/2479"/>
+         </ab>
          <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib320-1">

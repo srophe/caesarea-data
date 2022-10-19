@@ -238,7 +238,12 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Letters</title> <ref target="#bib297-1">92.1</ref> written by <persName role="author" ref="http://viaf.org/viaf/309472433">Jerome</persName> in <origDate notBefore="" notAfter="" period="#">NaN CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m"
+          >Letters</title>
+        <ref target="#bib297-1">92.1</ref> written by <persName role="author"
+          ref="http://viaf.org/viaf/309472433">Jerome</persName> in <origDate notBefore=""
+          notAfter="" period="#">0400</origDate>. This work was likely written in <origPlace
+          ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</creation>
       <langUsage>
         <language ident="la">Latin</language>
       </langUsage>
@@ -261,21 +266,21 @@
       </ab>
       <desc type="abstract" xml:id="abstract297-1">Caeasrea Maritima is indirectly attested at <persName role="author" ref="http://viaf.org/viaf/309472433">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Letters</title> <ref target="#bib297-1">92.1</ref>. This passage was written circa <origDate notBefore="" notAfter="" period="#">NaN CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</desc>
       <desc type="context">Among the voluminous correspondence of St. Jerome is this letter, his
-            translation into Latin of a Greek original written by Theophilus, Patriarch of
-            Alexandria, in 400 C.E. The letter addresses the bishops of Palestine and Cyprus
-            following the council in Alexandria, where Theophilus and the amenable participants
-            condemned the Origenist “heresy” as it was specifically identified with the Nitrian
-            monasteries and Theophilus’ former associate Isidore. This condemnation marked a
-            volte-face for Theophilus, who only in the previous year had openly spurned the concept
-            of divine corporeality. The list of Palestinian addressees at the start of this letter
-            begins with Eulogius, the archbishop at Caesarea. Jerome’s translation of this synodical
-            letter is important testimony for his own engagement in the Origenist controversy that
-            had embroiled the see of Jerusalem at the end of the 4th century. Once an admirer of
-            Origen as an intellectual and scholastic model who was well represented in the Library
-            at Caesarea (see Letter 34.1), Jerome had turned to oppose his thought by the late 390s.
-            He joined in vehement debate over the spiritual and corporeal nature of the divine with
-            his neighbors John, the bishop of Jerusalem, and Tyrannius Rufinus, the learned monk at
-            the Mount of Olives (see Related Texts).</desc>
+        translation into Latin of a Greek original written by Theophilus, Patriarch of Alexandria,
+        in 400 C.E. The letter addresses the bishops of Palestine and Cyprus following the council
+        in Alexandria, where Theophilus and the amenable participants condemned the Origenist
+        “heresy” as it was specifically identified with the Nitrian monasteries and Theophilus’
+        former associate Isidore. This condemnation marked a volte-face for Theophilus, who only in
+        the previous year had openly spurned the concept of divine corporeality. The list of
+        Palestinian addressees at the start of this letter begins with Eulogius, the archbishop at
+        Caesarea. Jerome’s translation of this synodical letter is important testimony for his own
+        engagement in the Origenist controversy that had embroiled the see of Jerusalem at the end
+        of the 4th century. Once an admirer of Origen as an intellectual and scholastic model who
+        was well represented in the Library at Caesarea (see <title>Letter</title> 34.1), Jerome had
+        turned to oppose his thought by the late 390s. He joined in vehement debate over the
+        spiritual and corporeal nature of the divine with his neighbors John, the bishop of
+        Jerusalem, and Tyrannius Rufinus, the learned monk at the Mount of Olives (see Related
+        Texts).</desc>
       <ab type="edition" xml:lang="la" xml:id="quote297-1" source="#bib297-1">
         <anchor xml:id="testimonia-297.la.1" corresp="#testimonia-297.en.1"/>Haec epistula uniformis ad Palaestinos et ad Cyprios episcopos missa
             est. utriusque principia tulimus. Ad Palaestinos: Dominis dilectissimis, fratribus et

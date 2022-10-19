@@ -239,8 +239,13 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Circumnavigation of the Inhabited
-               World</title> <ref target="#bib222-1">104</ref> written by <persName role="author" ref="http://viaf.org/viaf/291988135">Pseudo-Scylax</persName> in <origDate notBefore="0338" notAfter="0337" period="#byzantine">338-337 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/579885">Athens</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m"
+          >Circumnavigation of the Inhabited World</title>
+        <ref target="#bib222-1">104</ref> written by <persName role="author"
+          ref="http://viaf.org/viaf/291988135">Pseudo-Scylax</persName> in <origDate
+          notBefore="0338" notAfter="0337" period="#byzantine">0338 0337</origDate>. This work was
+        likely written in <origPlace ref="https://pleiades.stoa.org/places/579885"
+          >Athens</origPlace>.</creation>
       <langUsage>
         <language ident="grc">Ancient Greek</language>
       </langUsage>
@@ -248,7 +253,7 @@
         <classCode scheme="https://distributed-text-services.github.io/specifications">
           <idno type="CTS-URN"/>
         </classCode>
-        <catRef scheme="#CM-Testimonia-Type" target="#direct"/>
+        <catRef scheme="#CM-Testimonia-Type" target="#direct #indirect"/>
         <catRef scheme="#CM-NEAEH" target="#classicalPeriod"/>
       </textClass>
     </profileDesc>
@@ -300,29 +305,28 @@
         <ref target="https://archive.org/details/chroniquedernoul00ernouoft/page/112/mode/2up"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote222-2" source="#bib222-2">
-        <anchor xml:id="testimonia-222.en.1" corresp="#testimonia-222.grc.1"/>{Syria and Phoenicia.} There is after Cilicia the community of the
-            Syroi. And in Syria there live, in the seaward part, the Phoinikes, a community, on a
-            narrow plain less than up to 40 stades from the sea, and in some places not even up to
-            10 stades in width. And past the River Thrapsakos is Tripolis of the Phoinikes. Arados
-            island with a harbor, a royal seat of Tyros with a harbor roughly 8 stades from the
-            shore. And on the peninsula is a second city of Tripolis: this belongs to Arados, Tyros,
-            and Sidon; in the same place are three cities, and each has its own circuit of the
-            enclosure wall. And a mountain, Theou Prosopon. Trieres, ⟨a city⟩ with a harbor.
-            Berytos, a city with a harbor. ⟨The river⟩ Bostrenos. Porphyreon, a city. ⟨Leonton
-            Polis.⟩ Sidon, a city with an enclosed harbor. Ornithon Polis. Belonging to the Sidonioi
-            (is the area) from Leonton Polis as far as Ornithon Polis. Belonging to the Tyrioi is
-            the city of Sarapta. The city of Tyros, possessing a harbor within a fort; and this
-            island is a royal seat of the Tyrioi, and it is 3 stades from the sea. Palaityros, a
-            city, and a river that flows through the middle. And a city of the Tyrioi, ⟨Ekdippa,⟩
-            with a river. Αnd Αke, a city. Exope, a city of the Ty⟨rioi. Karmelos⟩, a mountain
-            sacred to Zeus. Arados, a city of the Sidonioi. ⟨Magdolos, a city⟩ and river of the
-            Tyrioi. Doros, a city of the Sidonioi. ⟨Ioppe, a city;⟩ they say it was here that
-            Androm⟨eda⟩ was ⟨ex⟩posed ⟨to the sea monster. Aska⟩lon, a city of the Tyrioi and a
-            royal seat. Her⟨e is the border of Koile⟩ Syria. Coastal voyage down Koile Syria ⟨from
-            the River Thrapsakos as far as⟩ Askalon: 2,700 stades.<note type="translation">Rev.
-               Shipley 2020</note>
-        <note type="discussion">Bostrenos is a toponym suggested by Müller
-               (1855, p. cxxxviii) and given by Shipley (2020, pp. 81, 187).</note>
+        <anchor xml:id="testimonia-222.en.1" corresp="#testimonia-222.grc.1"/>{Syria and Phoenicia.}
+        There is after Cilicia the community of the Syroi. And in Syria there live, in the seaward
+        part, the Phoinikes, a community, on a narrow plain less than up to 40 stades from the sea,
+        and in some places not even up to 10 stades in width. And past the River Thrapsakos is
+        Tripolis of the Phoinikes. Arados island with a harbor, a royal seat of Tyros with a harbor
+        roughly 8 stades from the shore. And on the peninsula is a second city of Tripolis: this
+        belongs to Arados, Tyros, and Sidon; in the same place are three cities, and each has its
+        own circuit of the enclosure wall. And a mountain, Theou Prosopon. Trieres, ⟨a city⟩ with a
+        harbor. Berytos, a city with a harbor. ⟨The river⟩ Bostrenos. Porphyreon, a city. ⟨Leonton
+        Polis.⟩ Sidon, a city with an enclosed harbor. Ornithon Polis. Belonging to the Sidonioi (is
+        the area) from Leonton Polis as far as Ornithon Polis. Belonging to the Tyrioi is the city
+        of Sarapta. The city of Tyros, possessing a harbor within a fort; and this island is a royal
+        seat of the Tyrioi, and it is 3 stades from the sea. Palaityros, a city, and a river that
+        flows through the middle. And a city of the Tyrioi, ⟨Ekdippa,⟩ with a river. Αnd Αke, a
+        city. Exope, a city of the Ty⟨rioi. Karmelos⟩, a mountain sacred to Zeus. Arados, a city of
+        the Sidonioi. ⟨Magdolos, a city⟩ and river of the Tyrioi. Doros, a city of the Sidonioi.
+        ⟨Ioppe, a city;⟩ they say it was here that Androm⟨eda⟩ was ⟨ex⟩posed ⟨to the sea monster.
+        Aska⟩lon, a city of the Tyrioi and a royal seat. Her⟨e is the border of Koile⟩ Syria.
+        Coastal voyage down Koile Syria ⟨from the River Thrapsakos as far as⟩ Askalon: 2,700
+          stades.<note type="translation">Rev. Shipley 2020</note>
+        <note type="discussion">Bostrenos is a toponym suggested by Müller (1855, p. cxxxviii) and
+          given by Shipley (2020, pp. 81, 187).</note>
         <note type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>

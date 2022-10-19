@@ -248,7 +248,7 @@
             <classCode scheme="https://distributed-text-services.github.io/specifications">
                <idno type="CTS-URN"/>
             </classCode>
-            <catRef scheme="#CM-Testimonia-Type" target="#indirect"/>
+            <catRef scheme="#CM-Testimonia-Type" target="#direct #indirect"/>
             <catRef scheme="#CM-NEAEH" target="#earlyRoman #byzantine"/>
          </textClass>
       </profileDesc>
@@ -265,38 +265,40 @@
          <desc type="context">Claudius Ptolemy was a learned Greek scholar, apparently of
             Greco-Egyptian descent and Roman citizenship, who conducted research in the fields of
             astronomy, mathematics, and geography during the 2nd century C.E. Apart from the
-            Almagest, his famous astronomical treatise, his most influential work was a detailed
-            survey of the world containing a gazetteer of places plotted in coordinates, his version
-            of longitude (degrees of arc from a notional meridian through the Blessed Isles) and
-            latitude (degrees of arc from the equator). In this work’s final book, Ptolemy provided
-            captions about places for an atlas of regional maps. Among these he defined the limits
-            of Palestine-Judaea and plotted the settlements along the coast, including “Caesarea
-            Stratonis.”=</desc>
+               <title>Almagest</title>, his famous astronomical treatise, his most influential work
+            was a detailed survey of the world containing a gazetteer of places plotted in
+            coordinates, his version of longitude (degrees of arc from a notional meridian through
+            the Blessed Isles) and latitude (degrees of arc from the equator). In this work’s final
+            book, Ptolemy provided captions about places for an atlas of regional maps. Among these
+            he defined the limits of Palestine-Judaea and plotted the settlements along the coast,
+            including “Caesarea Stratonis.”</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote306-1" source="#bib306-1">
-        <anchor xml:id="testimonia-306.grc.1" corresp="#testimonia-306.en.1"/>(13) ἡ δὲ Δαμασκὸς ἔχει τὴν μεγίστην ἡμέραν ὡρῶν ῑδ δʹ ἔγγιστα (ῑδ δʹ)
-            καὶ διέστηκεν Ἀλεξανδρείας πρὸς ἀνατολὰς μιᾶς ὥρας 𐅵ιβʹ (𐅵ιεʹ)<lb/>(14) Τῆς δὲ
-            Παλαιστίνης Ἰουδαίας<lb/>ἡ μὲν Καισάρεια τοῦ Στράτωνος ἔχει τὴν μεγίστην ἡμέραν ὡρῶν ῑδ ϛʹ
+            <anchor xml:id="testimonia-306.grc.1" corresp="#testimonia-306.en.1"/>(13) ἡ δὲ Δαμασκὸς
+            ἔχει τὴν μεγίστην ἡμέραν ὡρῶν ῑδ δʹ ἔγγιστα (ῑδ δʹ) καὶ διέστηκεν Ἀλεξανδρείας πρὸς
+            ἀνατολὰς μιᾶς ὥρας 𐅵ιβʹ (𐅵ιεʹ)<lb/>(14) Τῆς δὲ Παλαιστίνης Ἰουδαίας<lb/>ἡ μὲν
+               <placeName>Καισάρεια τοῦ Στράτωνος</placeName> ἔχει τὴν μεγίστην ἡμέραν ὡρῶν ῑδ ϛʹ
             καὶ διέστηκεν Ἀλεξανδρείας πρὸς ἀνατολὰς μιᾶς ὥρας γιεʹ<lb/>(15) ἡ δὲ Ἀσκαλὼν ἔχει τὴν
             μεγίστην ἡμέραν ὡρῶν ῑδ ηʹ ἔγγιστα (ιδ ϛʹ), καὶ διέστηκεν Ἀλεξανδρείας πρὸς ἀνατολὰς
             μιᾶς ὥρας γʹ (γιβʹ)<note type="textual">Ed. Stückelberger and Graßhoff 2006</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-      </ab>
+            <note type="discussion"/>
+            <note type="corrigenda"/>
+            <idno type="CTS-URN"/>
+            <ref target=""/>
+         </ab>
          <ab type="translation" xml:lang="en" xml:id="quote306-2" source="#bib306-2">
-        <anchor xml:id="testimonia-306.en.1" corresp="#testimonia-306.grc.1"/>(13) Damascus has a longest day of almost 14¼ hours, and its
-            distance from Alexandria to the east is 7/12 hours (17/30 hours).<lb/>(14) [Chief cities]
-            of Palestine, [i.e.] Judaea:<lb/>Straton’s Caesarea has a longest day of 14⅙ hours, and
-            its distance from Alexandria to the east is 2/5 hours.<lb/>15) Ascalon has its longest day
-            of nearly 14⅛ hours (14⅙ hours), and it distance from Alexandria to the east is ⅓ hours
-            (5/12 hours).<note type="translation">Trans. J. L. Rife with ref. to Stevenson 1932 and
-               Stückelberger and Graßhoff 2006</note>
-        <note type="discussion"/>
-        <note type="corrigenda"/>
-        <idno type="CTS-URN"/>
-        <ref/>
-      </ab>
+            <anchor xml:id="testimonia-306.en.1" corresp="#testimonia-306.grc.1"/>(13) Damascus has
+            a longest day of almost 14¼ hours, and its distance from Alexandria to the east is 7/12
+            hours (17/30 hours).<lb/>(14) [Chief cities] of Palestine, [i.e.]
+               Judaea:<lb/><placeName>Straton’s Caesarea</placeName> has a longest day of 14⅙ hours,
+            and its distance from Alexandria to the east is 2/5 hours.<lb/>15) Ascalon has its
+            longest day of nearly 14⅛ hours (14⅙ hours), and it distance from Alexandria to the east
+            is ⅓ hours (5/12 hours).<note type="translation">Trans. J. L. Rife with ref. to
+               Stevenson 1932 and Stückelberger and Graßhoff 2006</note>
+            <note type="discussion"/>
+            <note type="corrigenda"/>
+            <idno type="CTS-URN"/>
+            <ref/>
+         </ab>
          <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib306-1">

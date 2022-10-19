@@ -268,19 +268,19 @@
           <placeName>Caesarea</placeName>
         </quote> are directly attested at <persName ref="http://viaf.org/viaf/13651211" role="author">Epiphanius</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Medicine Cabinet, or Against
                Heresies</title> <ref target="#bib255-1">73.37.5-6</ref>. This passage was written circa <origDate notBefore="0374" notAfter="0377" period="#byzantine">374-377 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/707617">Cypriot Salamis</origPlace>.</desc>
-      <desc type="context">Epiphanius, who spent his early life and career as a student and monk
-            in southern Palestine and Egypt, was appointed bishop of Salamis on Cyprus in ca.
-            365-367 C.E., a post he held until his death in 403 C.E. He became a formidable champion
-            of Orthodoxy, repeatedly entering into bitter controversy with the sees at Jerusalem and
-            Alexandria. His Medicine Cabinet (πανάριον, κιβώτιον, panarion, arcula), or Against
-            Heresies (κατὰ αἱρέσεων, adversus haereses), was a long compendium of portraits in
-            wayward sectarianism, stretching from the Greek philosophers and Judaism up to his own
-            time. The aim was to furnish theological and rhetorical antidotes to heresy. It has
-            great historical value for its detailed information on figures of the eastern Church,
-            frequently paraphrasing or quoting from earlier works or otherwise lost documents. In
-            his chapter on the Semi-Arians, Epiphanius names the various bishops who succeeded Arius
-            during the mid- to late 4th century, the Homoiousians, among whom was Euzoeus, bishop of
-            Caesarea.</desc>
+      <desc type="context">Epiphanius, who spent his early life and career as a student and monk in
+        southern Palestine and Egypt, was appointed bishop of Salamis on Cyprus in ca. 365-367 C.E.,
+        a post he held until his death in 403 C.E. He became a formidable champion of Orthodoxy,
+        repeatedly entering into bitter controversy with the sees at Jerusalem and Alexandria. His
+          <title>Medicine Cabinet</title> (πανάριον, κιβώτιον, <foreign>panarion</foreign>,
+          <foreign>arcula</foreign>), or <title>Against Heresies</title> (κατὰ αἱρέσεων,
+          <foreign>adversus haereses</foreign>), was a long compendium of portraits in wayward
+        sectarianism, stretching from the Greek philosophers and Judaism up to his own time. The aim
+        was to furnish theological and rhetorical antidotes to heresy. It has great historical value
+        for its detailed information on figures of the eastern Church, frequently paraphrasing or
+        quoting from earlier works or otherwise lost documents. In his chapter on the Semi-Arians,
+        Epiphanius names the various bishops who succeeded Arius during the mid- to late 4th
+        century, the Homoiousians, among whom was Euzoeus, bishop of Caesarea.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote255-1" source="#bib255-1">
         <anchor xml:id="testimonia-255.grc.1" corresp="#testimonia-255.en.1"/>(5) ἐξ αὐτῶν γὰρ Εὐζώϊος ὁ ἐν <placeName>Καισαρείᾳ</placeName>, μαθητὴς
             ἐκείνων ὑπάρχων, ὃς καὶ τὸν Ἀκάκιον διεδέξατο μετὰ κατάστασιν Φιλουμένου τοῦ ὑπὸ

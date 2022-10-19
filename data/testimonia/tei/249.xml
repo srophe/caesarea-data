@@ -238,7 +238,12 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Easter Chronicle</title> <ref target="#bib249-1">504.7-505.6</ref> written by <persName role="author">Unknown</persName> in <origDate notBefore="" notAfter="" period="#">NaN CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Easter
+          Chronicle</title>
+        <ref target="#bib249-1">504.7-505.6</ref> written by <persName role="author"
+          >Unknown</persName> in <origDate notBefore="" notAfter="" period="#">0630</origDate>. This
+        work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998"
+          >Constantinople</origPlace>.</creation>
       <langUsage>
         <language ident="grc">Ancient Greek</language>
       </langUsage>
@@ -265,16 +270,16 @@
         </quote>,  and <quote>
           <placeName>Caesarea Palestina</placeName>
         </quote> are directly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Easter Chronicle</title> <ref target="#bib249-1">504.7-505.6</ref>. This passage was written circa <origDate notBefore="" notAfter="" period="#">NaN CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
-      <desc type="context">The so-called Easter Chronicle (Chronicon Paschale) is a universal
-            history from the Creation down to the later reign of Heraclius, when it was composed,
-            based an amalgam of biblical, Christian, and secular sources. While the work shows a
-            particular interest in the dating of religious festivals, it contains a wealth of
-            historical and geographic information. Like other chronographic works in the Byzantine
-            tradition—John Malalas before and Theophanes the Confessor and George Syncellus
-            after—the Easter Chronicle is organized annalistically with successive entries by year.
-            In this passage the author records the persecutions of Decius and ends with death of
-            Decius and his son at Abirtus (250/1 C.E.), noting in particular the martyrdoms of
-            Pionius at Smyrna and Alexander of Jerusalem at Caesarea.</desc>
+      <desc type="context">The so-called <title>Easter Chronicle</title> (<title>Chronicon
+          paschale</title>) is a universal history from the Creation down to the later reign of
+        Heraclius, when it was composed, based on an amalgam of biblical, Christian, and secular
+        sources. While the work shows a particular interest in the dating of religious festivals, it
+        contains a wealth of historical and geographic information. Like other chronographic works
+        in the Byzantine tradition—John Malalas before and Theophanes the Confessor and George
+        Syncellus after—the <title>Easter Chronicle</title> is organized annalistically with
+        successive entries by year. In this passage the author records the persecutions of Decius
+        and ends with death of Decius and his son at Abirtus (250/1 C.E.), noting in particular the
+        martyrdoms of Pionius at Smyrna and Alexander of Jerusalem at Caesarea.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote249-1" source="#bib249-1">
         <anchor xml:id="testimonia-249.grc.1" corresp="#testimonia-249.en.1"/>Καὶ ἐν Σμύρνῃ τῆς Ἀσίας Πιόνιος σὺν ἄλλοις πολλοῖς ἐμαρτύρησεν, ἀνὴρ
             λόγιος καὶ τῶν ἐν μαθήμασιν τοῦ χριστιανῶν λόγου διαπρεπόντων γνωριζόμενος, ἐπὶ Πρόκλου
