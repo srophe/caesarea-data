@@ -274,11 +274,11 @@
       <ab type="edition" xml:lang="la" xml:id="quote293-1">
         <anchor xml:id="testimonia-293.la.1" corresp="#testimonia-293.en.1"/>Nefeddor, quod Symmachus interpretatur Maritimam. Dor autem est oppidum
             iam desertum in nono miliario <placeName>Caesareae</placeName> pergentibus
-               Ptolomaïdem.<ab type="source" source="#bib293-1"/><idno type="CTS-URN"/><ref target="urn:cts:greekLit:tlg2018.tlg011.opp-lat1:13"/><note type="textual">Ed. Klosterman 1904</note></ab>
+               Ptolomaïdem.<ab type="source" source="#bib293-1"/><idno type="CTS-URN"/><ref target="urn:cts:greekLit:tlg2018.tlg011.opp-lat1:13"/><note xml:lang="en" type="textual">Ed. Klosterman 1904</note></ab>
       <ab type="translation" xml:lang="en" xml:id="quote293-2">
         <anchor xml:id="testimonia-293.en.1" corresp="#testimonia-293.la.1"/>Nefeddor, which Symmachus translates Maritima. Dor is a city now
             deserted at milestone 9 for those travelling from <placeName>Caesarea</placeName> to
-               Ptolemaïs.<note type="translation">Trans. J. L. Rife</note>
+               Ptolemaïs.<note xml:lang="en" type="translation">Trans. J. L. Rife</note>
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>

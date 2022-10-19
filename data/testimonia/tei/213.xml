@@ -289,14 +289,14 @@
         <anchor xml:id="testimonia-213.fro.1" corresp="#testimonia-213.en.1"/>A-B: Kaifas—Chastel Pelerin—<placeName>Cesaire</placeName>—Iafes: a le
             chemin de Iafes à Ierusalem—Escaloine—Le Darun—Damiette C: Kaifas—Chastel
                Pelerin—<placeName>Cesaire</placeName>—Iaphes—Ascaloine—Le Darun—Damiette, ki [est]
-            en terre d’Egipte<ab type="source" source="#bib213-1"/><idno type="CTS-URN"/><ref target="https://archive.org/stream/itinrairesjr00michuoft?ref=ol#page/136/mode/2up"/><note type="textual">Ed. Michelant and Raynaud
-               1882</note><note type="discussion">The map from volume II did not depict
+            en terre d’Egipte<ab type="source" source="#bib213-1"/><idno type="CTS-URN"/><ref target="https://archive.org/stream/itinrairesjr00michuoft?ref=ol#page/136/mode/2up"/><note xml:lang="en" type="textual">Ed. Michelant and Raynaud
+               1882</note><note xml:lang="en" type="discussion">The map from volume II did not depict
                Caesarea.</note></ab>
          <ab type="translation" xml:lang="en" xml:id="quote213-2">
         <anchor xml:id="testimonia-213.en.1" corresp="#testimonia-213.fro.1"/>A, B: Haifa—Pilgrim’s Castle—<placeName>Caesarea</placeName>—Jaffa:
             the road from Jaffa to Jerusalem—Ascalon—Al-Darum—Damietta C: Haifa—Pilgrim’s
                Castle—<placeName>Caesarea</placeName>—Jaffa—Ascalon—Al-Darum—Damietta, which (is) in
-            the country of Egypt<ab type="source" source="#bib213-2"/><idno type="CTS-URN"/><ref target=""/><note type="translation">Trans. Pringle 2012</note></ab>
+            the country of Egypt<ab type="source" source="#bib213-2"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="translation">Trans. Pringle 2012</note></ab>
          <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib213-1">

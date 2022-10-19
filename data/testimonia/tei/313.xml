@@ -292,7 +292,7 @@
             ταύτας δὲ ἁπάσας εἰς ἓν συναγαγὼν διελθών τε πρὸς κῶλον καὶ ἀντιπαραθεὶς ἀλλήλαις μετὰ
             καὶ αὐτῆς τῆς Ἑβραίων σημειώσεως, τὰ τῶν λεγομένων ῾Εξαπλῶν ἡμῖν ἀντίγραφα καταλέλοιπεν,
             ἰδίως δὲ τὴν ᾽Ακύλου καὶ Συμμάχου καὶ Θεοδοτίωνος ἔκδοσιν ἅμα τῇ τῶν οʹ ἐν τοι̂ς
-            Τετραπλοι̂ς ἐπισκευάσας.<ab type="source" source="#bib313-1"/><idno type="CTS-URN"/><ref target="https://archive.org/details/adler-a.-suidae-lexicon-3 ./Adler%20A.%2C%20Suidae%20Lexicon%203%20%28%CE%9A-%CE%9F.%20%CE%A9%29/page/n315/mode/2up"/><note type="textual">Ed. Adler 1933</note></ab>
+            Τετραπλοι̂ς ἐπισκευάσας.<ab type="source" source="#bib313-1"/><idno type="CTS-URN"/><ref target="https://archive.org/details/adler-a.-suidae-lexicon-3 ./Adler%20A.%2C%20Suidae%20Lexicon%203%20%28%CE%9A-%CE%9F.%20%CE%A9%29/page/n315/mode/2up"/><note xml:lang="en" type="textual">Ed. Adler 1933</note></ab>
          <ab type="translation" xml:lang="en" xml:id="quote313-2">
         <anchor xml:id="testimonia-313.en.1" corresp="#testimonia-313.grc.1"/>Moreover, Origen possessed such diligence for the Divine Scriptures
             that he made a thorough study of Hebrew, contrary to his age and natural inclination.
@@ -313,7 +313,7 @@
             these into a single work, he divided them into clauses, comparing and contrasting them
             against one another, along with the very notations of the Hebrew scholars. He has left
             us copies of the so-called Hexapla, and prepared separately a version that contains
-            Aquila and Symmachus and Theodotion together with the Seventy in the Tetrapla.<note type="translation">Adapted from SOL (trans. P. Little et al., 2000-)</note>
+            Aquila and Symmachus and Theodotion together with the Seventy in the Tetrapla.<note xml:lang="en" type="translation">Adapted from SOL (trans. P. Little et al., 2000-)</note>
         <idno type="CTS-URN"/>
         <ref target="https://www.cs.uky.edu/~raphael/sol/sol-entries/omega/182"/>
       </ab>

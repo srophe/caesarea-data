@@ -279,11 +279,11 @@
             Caesarea.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote264-1">
         <anchor xml:id="testimonia-264.grc.1" corresp="#testimonia-264.en.1"/>Εὐσεβίῳ δὲ τῷ Παμφίλου βίβλους ἱερὰς κατασκευάσαι ὁ βασιλεὺς προσέταξε
-            λόγῳ τῶν ἐκκλησιῶν Κωνσταντινουπόλεως παρασχὼν αὐτῷ καὶ δημόσια χρήματα.<ab type="source" source="#bib264-1"/><idno type="CTS-URN"/><ref target=""/><note type="textual">Ed. de Boor 1883</note></ab>
+            λόγῳ τῶν ἐκκλησιῶν Κωνσταντινουπόλεως παρασχὼν αὐτῷ καὶ δημόσια χρήματα.<ab type="source" source="#bib264-1"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="textual">Ed. de Boor 1883</note></ab>
       <ab type="translation" xml:lang="en" xml:id="quote264-2">
         <anchor xml:id="testimonia-264.en.1" corresp="#testimonia-264.grc.1"/>The emperor ordered Eusebius Pamphili to prepare copies of the
             Sacred Books for use in the churches of Constantinople, for which he supplied him with
-            public money.<ab type="source" source="#bib264-2"/><idno type="CTS-URN"/><ref target=""/><note type="translation">Trans. Mango, Scott, and Greatrex
+            public money.<ab type="source" source="#bib264-2"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="translation">Trans. Mango, Scott, and Greatrex
                1997</note></ab>
       <listBibl>
         <head>Works Cited</head>

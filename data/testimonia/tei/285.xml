@@ -277,7 +277,7 @@
             conposuit; quod quis postea in graecum transtulerit, non satis certum est. Porro ipsum
             hebraicum habetur usque hodie in <placeName>Caesariensi</placeName> bibliotheca, quam
             Pamphilus martyr studiosissime confecit. Mihi quoque a Nazareis qui in Veria, urbe
-            Syriae, hoc volumine utuntur, describendi facultas fuit.<ab type="source" source="#bib285-1"/><idno type="CTS-URN"/><ref target="https://archive.org/details/devirisinlustri00jerogoog/page/n67/mode/2up"/><note type="textual">Ed.
+            Syriae, hoc volumine utuntur, describendi facultas fuit.<ab type="source" source="#bib285-1"/><idno type="CTS-URN"/><ref target="https://archive.org/details/devirisinlustri00jerogoog/page/n67/mode/2up"/><note xml:lang="en" type="textual">Ed.
                Bernoulli 1895</note></ab>
       <ab type="translation" xml:lang="en" xml:id="quote285-2">
         <anchor xml:id="testimonia-285.en.1" corresp="#testimonia-285.la.1"/>Matthew, also known as Levi, a tax-farmer who became an apostle,
@@ -286,7 +286,7 @@
             uncertain. Moreover, the Hebrew itself has been preserved until the present day in the
             Library at <placeName>Caesarea</placeName> which Pamphilus the Martyr so diligently
             assembled. I have also been able to have the book described to me by the Nazarenes in
-            Beroea, a city in Syria, who use it.<ab type="source" source="#bib285-2"/><idno type="CTS-URN"/><ref/><note type="translation">Adapted from Schaff 1892
+            Beroea, a city in Syria, who use it.<ab type="source" source="#bib285-2"/><idno type="CTS-URN"/><ref/><note xml:lang="en" type="translation">Adapted from Schaff 1892
                and Halton 1999</note></ab>
       <listBibl>
         <head>Works Cited</head>

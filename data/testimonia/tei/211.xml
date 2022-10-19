@@ -282,7 +282,7 @@
                Palestinae</placeName> id est Iudaea mil. VIII fit a Tyro <placeName>Caesarea
                Palestina</placeName> milia LXXIII, mutationes II, mansiones III. ibi est balneus
             Cornelii centurionis, qui multas elymosynas faciebat. Inde est tertio miliario mons
-            Syna, ubi fons est, in quem mulier si laverit, gravida fit.<ab type="source" source="#bib211-1"/><idno type="CTS-URN"/><ref/><note type="textual">Ed.
+            Syna, ubi fons est, in quem mulier si laverit, gravida fit.<ab type="source" source="#bib211-1"/><idno type="CTS-URN"/><ref/><note xml:lang="en" type="textual">Ed.
                Cuntz 1929</note></ab>
          <ab type="translation" xml:lang="en" xml:id="quote211-2">
         <anchor xml:id="testimonia-211.en.1" corresp="#testimonia-211.la.1"/>City: Tyre 12 miles Tyre is 174 miles from Antioch, 20 exchanges, 11
@@ -293,7 +293,7 @@
             Judaea) 8 miles <placeName>Caesarea Palestina</placeName> is 73 miles from Tyre, two
             exchanges, three overnights. Located there is the bath of the centurion Cornelius, who
             did many charitable acts. From there at the third milestone is located Mount Syna, where
-            there is the spring where, if a woman bathes in it, she becomes pregnant. <note type="translation">Trans. J. L. Rife</note>
+            there is the spring where, if a woman bathes in it, she becomes pregnant. <note xml:lang="en" type="translation">Trans. J. L. Rife</note>
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>

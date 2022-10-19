@@ -285,14 +285,14 @@
             Δῶρος, νῦν δὲ Δῶρα καλεῖται.” Καὶ Ἀρτεμίδωρος Δῶρα τὴν πόλιν οἶδεν ἐν Ἐπιτομῇ τῶν ιαʹ·
             “Συνεχῶς δʼ ἐστὶ <placeName>Στράτωνος πύργος</placeName>, εἶτα ἔνι Δῶρα, ἐπὶ
             χερσονησοειδοῦς τόπου κείμενον πολισμάτιον, ἀρχομένου τοῦ ὄρους τοῦ Καρμήλου.” Καὶ ἐν θʹ
-            Γεωγραφουμένων τὸ αὐτό.<ab type="source" source="#bib207-1"/><idno type="CTS-URN"/><ref/><note type="textual">Ed. Müller 1855</note></ab>
+            Γεωγραφουμένων τὸ αὐτό.<ab type="source" source="#bib207-1"/><idno type="CTS-URN"/><ref/><note xml:lang="en" type="textual">Ed. Müller 1855</note></ab>
          <ab type="translation" xml:lang="en" xml:id="quote207-2">
         <anchor xml:id="testimonia-207.en.1" corresp="#testimonia-207.grc.1"/>ASIA. Book 9. Doros, a city in Phoenicia. Hecataeus in [his book on]
             Asia: “After that is the city called Doros in the old times but today Dora.” And
             Artemidorus mentions the city Dora in Epitome of 11 books: “Continuing on is
                <placeName>Straton’s Tower</placeName>, and then Dora, a town situated on the
             peninsula where Mount Carmel begins.” And the same thing in Geographic Description
-               9.<note type="translation">Trans. J. L. Rife</note>
+               9.<note xml:lang="en" type="translation">Trans. J. L. Rife</note>
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>

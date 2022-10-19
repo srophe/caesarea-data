@@ -280,11 +280,11 @@
         <anchor xml:id="testimonia-170.grc.1" corresp="#testimonia-170.en.1"/>
             <placeName>Καισάρεια</placeName>· μητρόπολις τῆς Καππαδοκίας, ἡ πρὶν Εὐσεβεία καὶ
             Μάζακα, ὡς Στράβων. ἔστι καὶ <placeName>Παλαιστίνης</placeName>. καὶ γʹ πρὸς τῇ Πανεάδι.
-            τὸ ἐθνικὸν Καισαρεύς. εἰσὶ δὲ καὶ ἄλλαι τούτῳ τῷ ὀνόματι προσαγορευόμεναι.<ab type="source" source="#bib170-1"/><idno type="CTS-URN"/><ref target=""/><note type="textual">Ed. Billerbeck 2014</note></ab>
+            τὸ ἐθνικὸν Καισαρεύς. εἰσὶ δὲ καὶ ἄλλαι τούτῳ τῷ ὀνόματι προσαγορευόμεναι.<ab type="source" source="#bib170-1"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="textual">Ed. Billerbeck 2014</note></ab>
          <ab type="translation" xml:lang="en" xml:id="quote170-2">
         <anchor xml:id="testimonia-170.en.1" corresp="#testimonia-170.grc.1"/>Caesarea. Main city in Cappadocia, formerly Eusebeia and Mazaca, as
             Strabo (reports). There is also (Caesarea) Palestinae, and a third at Paneas. The ethnic
-            designation is Caesarean. There are also other (cities) called by this name.<note type="translation">Trans. J. L. Rife with ref. to Billerbeck 2014</note>
+            designation is Caesarean. There are also other (cities) called by this name.<note xml:lang="en" type="translation">Trans. J. L. Rife with ref. to Billerbeck 2014</note>
         <idno type="CTS-URN"/>
         <ref/>
       </ab>

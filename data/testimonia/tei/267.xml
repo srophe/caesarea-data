@@ -282,12 +282,12 @@
         <anchor xml:id="testimonia-267.grc.1" corresp="#testimonia-267.en.1"/>Πορφύριος δέ, ὁ καθ’ ἡμῶν λυττήσας, Τύριος μὲν ἦν τῷ γένει, Χριστιανὸς
             δὲ τὸ πρὶν ὁ ἄθλιος· τυφθεὶς δὲ ὑπὸ Χριστιανῶν ἐν <placeName>Καισαρείᾳ τῆς
                Παλαιστίνης</placeName> κατ’ ὀργὴν μετῆλθεν εἰς τὸν ἑλληνισμόν, καὶ τότε γράψαι κατὰ
-            τῆς ἀληθείας ὁ κύων ἐτόλμησεν.<ab type="source" source="#bib267-1"/><idno type="CTS-URN"/><ref target=""/><note type="textual">Ed. de Boor 1883</note></ab>
+            τῆς ἀληθείας ὁ κύων ἐτόλμησεν.<ab type="source" source="#bib267-1"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="textual">Ed. de Boor 1883</note></ab>
       <ab type="translation" xml:lang="en" xml:id="quote267-2">
         <anchor xml:id="testimonia-267.en.1" corresp="#testimonia-267.grc.1"/>[A.M. 5855=362/3 C.E.] Porphyrius, the man who raged against us, a
             Tyrian by birth, a wretched fellow who had earlier been a Christian. He was beaten up by
             the Christians in <placeName>Caesarea Palestinae</placeName> and in anger converted to
-            Hellenism (i.e. paganism), and then the dog dared to write an attack on the truth.<ab type="source" source="#bib267-2"/><idno type="CTS-URN"/><ref target=""/><note type="translation">Rev. Mango, Scott, and Greatrex 1997</note></ab>
+            Hellenism (i.e. paganism), and then the dog dared to write an attack on the truth.<ab type="source" source="#bib267-2"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="translation">Rev. Mango, Scott, and Greatrex 1997</note></ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib267-1">

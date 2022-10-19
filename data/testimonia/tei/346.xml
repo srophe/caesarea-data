@@ -298,7 +298,7 @@
             versabatur.”<lb/>(10) Defensor Origenis et laudator Pamphili dicit Pamphilum nihil omnino
             scripsisse, nec proprii quidquam condidisse sermonis; et hoc dicit iam Pamphilo martyrio
             coronato, ne habeas suffugium post editos ab Eusebio libros hoc Pamphilum
-               conscripsisse.<ab type="source" source="#bib346-1"/><idno type="CTS-URN"/><ref target="https://archive.org/details/patrologiaecurs01goog/page/n216/mode/2up"/><note type="textual">Ed. Migne 1883</note><note type="textual">Checked
+               conscripsisse.<ab type="source" source="#bib346-1"/><idno type="CTS-URN"/><ref target="https://archive.org/details/patrologiaecurs01goog/page/n216/mode/2up"/><note xml:lang="en" type="textual">Ed. Migne 1883</note><note xml:lang="en" type="textual">Checked
                against Lardet 1982</note></ab>
       <ab type="translation" xml:lang="en" xml:id="quote346-2">
         <anchor xml:id="testimonia-346.en.1" corresp="#testimonia-346.la.1"/>(9) Shall I say what your intention was, my most simple-minded
@@ -323,7 +323,7 @@
             Pamphilus says that Pamphilus wrote nothing at all and composed no text; and he says
             this when Pamphilus had already received the crown of martyrdom, to deprive you of the
             loophole in claiming that Pamphilus wrote this work after the publication of Eusebius’
-               books.<ab type="source" source="#bib346-2"/><idno type="CTS-URN"/><ref/><note type="translation">Adapted from Fremantle 1892 with ref. to Lardet
+               books.<ab type="source" source="#bib346-2"/><idno type="CTS-URN"/><ref/><note xml:lang="en" type="translation">Adapted from Fremantle 1892 with ref. to Lardet
                1983</note></ab>
       <listBibl>
         <head>Works Cited</head>

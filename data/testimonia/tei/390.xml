@@ -278,14 +278,14 @@
             Tabitham; ubi et cetus iactavit se victo Ionam. De Ioppe ad <placeName>Caesaream
                Palaestinae</placeName> milia XXX; ibi baptizatus est domnus Cornelius a domno Petro
             et martyrizatus est. De <placeName>Caesarea</placeName> usque in Diocaesarea milia XXX;
-            inde fuit Symon magus. De Diocaesarea usque in Canan Galilaea milia V.<ab type="source" source="#bib390-1"/><idno type="CTS-URN"/><ref/><note type="textual">Ed. Geyer 1965</note></ab>
+            inde fuit Symon magus. De Diocaesarea usque in Canan Galilaea milia V.<ab type="source" source="#bib390-1"/><idno type="CTS-URN"/><ref/><note xml:lang="en" type="textual">Ed. Geyer 1965</note></ab>
          <ab type="translation" xml:lang="en" xml:id="quote390-2">
         <anchor xml:id="testimonia-390.en.1" corresp="#testimonia-390.la.1"/>It is 12 miles from Diospolis to Joppa, where St. Peter brought St.
             Tabitha back to life; that is also where the defeated whale threw out Jonah. It is 30
             miles from Joppa to <placeName>Caesarea Palestinae</placeName>; there lord Cornelius was
             baptized by lord Peter and martyred. It is 30 miles from <placeName>Caesarea</placeName>
             as far as Diocaesarea; Simon Magus was there. It is 5 miles from Diocaesarea as far as
-            Cana in Galilee. <note type="translation">Trans. J. L. Rife </note>
+            Cana in Galilee. <note xml:lang="en" type="translation">Trans. J. L. Rife </note>
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>

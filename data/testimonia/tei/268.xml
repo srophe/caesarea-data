@@ -284,7 +284,7 @@
             Judee, <placeName>Cesaream</placeName> appellavit, (43) ubi incipit regio Palestina.
             (44) In hac civitate vidi ecclesiam sancti Petri, edificatam de domo Cornelii
             centurionis, quem sanctus Petrus convertit et baptizavit, et edes Philippi et cubicula
-            quatuor virginum prophetissarum.<ab type="source" source="#bib268-1"/><idno type="CTS-URN"/><ref target=""/><note type="textual">Ed. Laurent 1873</note><note type="textual">Codex Hamburgensis 143b</note></ab>
+            quatuor virginum prophetissarum.<ab type="source" source="#bib268-1"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="textual">Ed. Laurent 1873</note><note xml:lang="en" type="textual">Codex Hamburgensis 143b</note></ab>
       <ab type="translation" xml:lang="en" xml:id="quote268-2">
         <anchor xml:id="testimonia-268.en.1" corresp="#testimonia-268.la.1"/>(38) From Mount Carmel I came to Caesarea, (39) and I crossed over a
             river that flows from Carmel in which there are many crocodiles. (40) That Caesarea is
@@ -293,7 +293,7 @@
             Judaea, called this city Caesarea in honor of Caesar Augustus. (43) There begins the
             region of Palestine. (44) In this city I saw the Church of St. Peter, built from the
             house of the centurion Cornelius, whom Peter converted and baptized, and the house of
-            Philip and the chamber of the four virgin prophetesses.<ab type="source" source="#bib268-2"/><idno type="CTS-URN"/><ref target=""/><note type="translation">Rev.
+            Philip and the chamber of the four virgin prophetesses.<ab type="source" source="#bib268-2"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="translation">Rev.
                from Pringle 2012</note></ab>
       <listBibl>
         <head>Works Cited</head>

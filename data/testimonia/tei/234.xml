@@ -293,8 +293,8 @@
             monte autem Carmelo usque Damiata nullus mons circa maritima invenitur, sed terra
             subtilis et plana, et habet rupes albas de sabulo. Infra terram sunt montes alti per
             astariam gradiendo, qui Ierosolymitani montes apellantur; et omnes montes qui videri
-            possunt usque Carmelum duplices sunt vere.<ab type="source" source="#bib234-1"/><idno type="CTS-URN"/><ref target=""/><note type="textual">Ed. Bongars
-               1611</note><note type="corrigenda">Minor corr. J. L. Rife</note></ab>
+            possunt usque Carmelum duplices sunt vere.<ab type="source" source="#bib234-1"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="textual">Ed. Bongars
+               1611</note><note xml:lang="en" type="corrigenda">Minor corr. J. L. Rife</note></ab>
       <ab type="translation" xml:lang="en" xml:id="quote234-2">
         <anchor xml:id="testimonia-234.en.1" corresp="#testimonia-234.la.1"/>Carmel is a high, flat mountain extending as long as an island both
             over and into the sea. The peak of this mountain above the sea looks back toward the
@@ -306,7 +306,7 @@
             Carmel to Damiata no mountains are to be found along the coast but the land is open and
             flat, and white rocks protrude from the sand. Inland, proceeding through from the
             shoreline, are high mountains that are called the Mountains of Jerusalem, and all the
-            mountains that can be seen up to Carmel are twin peaks.<ab type="source" source="#bib234-2"/><idno type="CTS-URN"/><ref target=""/><note type="translation">Adapted
+            mountains that can be seen up to Carmel are twin peaks.<ab type="source" source="#bib234-2"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="translation">Adapted
                from Lock 2011</note></ab>
       <listBibl>
         <head>Works Cited</head>

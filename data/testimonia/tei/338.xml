@@ -285,7 +285,7 @@
             εἰς Ἱεροσόλυμα χρόνον ὀλίγον, εἶτα ἐλθὼν εἰς Τύρον ἐπὶ ἔτη κηʹ, ὡς ὁ λόγος ἔχει, τὴν μὲν
             πολιτείαν ἐνησκεῖτο, τὰς δὲ γραφὰς ἡρμήνευσεν, ὅτε καὶ τὰ ἑξαπλᾶ καὶ τὰς δύο τῶν
             ἑβραϊκῶν σελίδας ἄντικρυ ἐκ παραλλήλου μιᾶς ἑρμηνείας πρὸς τὴν ἑτέραν συνέθηκεν ἑξαπλᾶ
-            τὰς βίβλους ὀνομάσας, καθ’ ἅπερ ἄνω διὰ πλάτους εἴρηται.<ab type="source" source="#bib338-1"/><idno type="CTS-URN"/><ref target=""/><note type="textual">Ed.
+            τὰς βίβλους ὀνομάσας, καθ’ ἅπερ ἄνω διὰ πλάτους εἴρηται.<ab type="source" source="#bib338-1"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="textual">Ed.
                Moutsoulas 1973</note></ab>
          <ab type="translation" xml:lang="en" xml:id="quote338-2">
         <anchor xml:id="testimonia-338.en.1" corresp="#testimonia-338.grc.1"/>Decius succeeded this one (sc. Philip the Arab) and ruled for one
@@ -298,7 +298,7 @@
             went to Tyre. For 28 years, so the story goes, he devoted himself to an ascetic regimen
             and translated the Scriptures. He compiled six columns (of Greek text) opposite two
             columns of Hebrew (text), one translation facing opposite the other, calling the books
-            Hexapla, just as has been fully related above.<note type="translation">Trans. J. L.
+            Hexapla, just as has been fully related above.<note xml:lang="en" type="translation">Trans. J. L.
                Rife</note>
         <idno type="CTS-URN"/>
         <ref target=""/>

@@ -281,7 +281,7 @@
             Ἀπολλωνία, Κυρήνη· Αἰγύπτου, Παρατόνιον, Ἀλεξάνδρεια μεγάλη, Πηλούσιον, Μέμφις,
             Πτολεμαῒς Ἑρμείου· Συρίας Ἰουδαίας <placeName>Καισάρεια</placeName>, Ἀσκαλών, Τιβεριάς,
             Νεάπολις, Σεβαστή, Σκυθόπολις, Αἰλία· Ἀραβίας Πετραίας Πέτρα, Μήδαβα, Βόστρα· Βαβυλῶνος
-               Τερηδών.<ab type="source" source="#bib245-1"/><idno type="CTS-URN"/><ref/><note type="textual">Ed. Dindorf 1832</note></ab>
+               Τερηδών.<ab type="source" source="#bib245-1"/><idno type="CTS-URN"/><ref/><note xml:lang="en" type="textual">Ed. Dindorf 1832</note></ab>
       <ab type="translation" xml:lang="en" xml:id="quote245-2">
         <anchor xml:id="testimonia-245.en.1" corresp="#testimonia-245.grc.1"/>It is also worth recounting the distinguished cities of the seven
             geographic regions. I. The first region. Libya in Egypt, Nigres the capital of Ethiopia
@@ -291,7 +291,7 @@
             Taucheira, Apollonia, Cyrene; Egypt: Paratoneum, Alexandreia Magna, Pelusium, Memphis,
             Ptolemaïs Hermiou; Syria Judaea: <placeName>Caesarea</placeName>, Ascalon, Tiberias,
             Neapolis, Sebaste, Scythopolis, Aelia; Arabia Petraea: Petra, Medaba, Bostra; Babylon:
-               Teredon.<note type="translation">Trans. J. L. Rife</note>
+               Teredon.<note xml:lang="en" type="translation">Trans. J. L. Rife</note>
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>

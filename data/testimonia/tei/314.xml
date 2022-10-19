@@ -288,7 +288,7 @@
             ἠκμακότες φιλόσοφοι, ὥν ἐν συγγράμμασι πολλὴν μνήμην εὕρομεν τοῦ ἀνδρός, τοτὲ μὲν αὐτῷ
             προσφωνούντων, τοτὲ δὲ οἷα διδασκάλῳ ἐς τὴν αὐτοῦ κρίσιν τοὺς ἰδίους ἀναφερόντων
                πόνους.<ab type="source" source="#bib314-1"/><idno type="CTS-URN">https://archive.org/details/adler-a.-suidae-lexicon-3
-               ./Adler%20A.%2C%20Suidae%20Lexicon%203%20%28%CE%9A-%CE%9F.%20%CE%A9%29/page/n315/mode/2up</idno><note type="textual">Ed. Adler 1933</note></ab>
+               ./Adler%20A.%2C%20Suidae%20Lexicon%203%20%28%CE%9A-%CE%9F.%20%CE%A9%29/page/n315/mode/2up</idno><note xml:lang="en" type="textual">Ed. Adler 1933</note></ab>
          <ab type="translation" xml:lang="en" xml:id="quote314-2">
         <anchor xml:id="testimonia-314.en.1" corresp="#testimonia-314.grc.1"/>Having examined canonical scripture as a whole, he left behind such
             vast and innumerable writings that all subsequent teachings of the Church would take
@@ -303,7 +303,7 @@
             achievements in these endeavors are the Greek philosophers themselves who flourished
             during his time, in whose treatises we find frequent mention of the man—sometimes
             dedicating the work to him, sometimes submitting their own work to his judgment as if to
-            a teacher.<note type="translation">Adapted from SOL (trans. P. Little et al.,
+            a teacher.<note xml:lang="en" type="translation">Adapted from SOL (trans. P. Little et al.,
                2000-)</note>
         <idno type="CTS-URN"/>
         <ref target="https://www.cs.uky.edu/~raphael/sol/sol-entries/omega/182"/>

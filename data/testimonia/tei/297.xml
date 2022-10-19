@@ -287,7 +287,7 @@
             coepiscopis Eulogio, Iohanni, Zebinno, Auxentio, Dionysio, Gennadio, Zenoni, Theudosio,
             Dictenio, Porphyrio, Saturnino, Alani, Paulo, Ammonio, Heliano, alteri Paulo, Eusebio et
             omnibus, qui in Aeliae encaeniis congregati sunt, catholicis episcopis Theophilus in
-            domino salutem dicit.<ab type="source" source="#bib297-1"/><idno type="CTS-URN"/><ref/><note type="textual">Ed. Hilberg and Slovak 1996</note></ab>
+            domino salutem dicit.<ab type="source" source="#bib297-1"/><idno type="CTS-URN"/><ref/><note xml:lang="en" type="textual">Ed. Hilberg and Slovak 1996</note></ab>
       <ab type="translation" xml:lang="en" xml:id="quote297-2">
         <anchor xml:id="testimonia-297.en.1" corresp="#testimonia-297.la.1"/>This letter has been sent in identical copies to the Palestinian and
             Cypriot bishops. We give the first lines of both copies. To the Palestinian bishops: To
@@ -295,7 +295,7 @@
             Dionysius, Gennadius, Zeno, Theodosius, Dictenios, Porphyry, Saturninus, Alan, Paul,
             Ammonius, Aelian, the second Paul, Eusebius, and all the catholic bishops who gathered
             in Aelia to celebrate the consecration (of the Holy Sepulcher): Theophilus greets you in
-            the Lord.<note type="translation">Trans. J. L. Rife</note>
+            the Lord.<note xml:lang="en" type="translation">Trans. J. L. Rife</note>
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>

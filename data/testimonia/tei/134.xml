@@ -283,7 +283,7 @@
             χρονογράφοι, ὁμοφωνήσαντες. ὁ δὲ θεοφιλέστατος χρονογράφος Εὐσέβιος ὁ Παμφίλου ὁ
             γενόμενος ἐπίσκοπος <placeName>Καισαρείας Παλαιστίνης</placeName> τῇ μὲν ἕκτῃ χιλιάδι
             τῶν ἐνιαυτῶν λέγει καὶ αὐτὸς φανῆναι τὸν ὅλων σωτῆρα καὶ κύριον Ἰησοῦν Χριστόν, κατὰ τὸν
-            ἀριθμὸν τῶν ἓξ ἡμερῶν τῆς πλάσεως τοῦ Ἀδάμ …<ab type="source" source="#bib134-1"/><idno type="CTS-URN"/><ref target=""/><note type="textual">Ed. Thurn
+            ἀριθμὸν τῶν ἓξ ἡμερῶν τῆς πλάσεως τοῦ Ἀδάμ …<ab type="source" source="#bib134-1"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="textual">Ed. Thurn
                2000</note></ab>
          <ab type="translation" xml:lang="en" xml:id="quote134-2">
         <anchor xml:id="testimonia-134.en.1" corresp="#testimonia-134.grc.1"/>It was on the sixth day, as Scripture says, that God created man and
@@ -293,7 +293,7 @@
             chronicler, Eusebius Pamphili, most dear to God, who became bishop of
                <placeName>Caesarea of Palestine</placeName>, also says that the Lord Jesus Christ,
             the Savior of all, appeared in the sixth millenium, corresponding to the number of the
-            six days of Adam’s creation.<ab type="source" source="#bib134-2"/><idno type="CTS-URN"/><ref target=""/><note type="translation">Adapted from Jeffreys et al.
+            six days of Adam’s creation.<ab type="source" source="#bib134-2"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="translation">Adapted from Jeffreys et al.
                2017</note></ab>
          <listBibl>
         <head>Works Cited</head>

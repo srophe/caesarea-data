@@ -292,7 +292,7 @@
             applicuit, qui die quinta Novembris cum militia Ptolomensi, Hospitalariis, et Templariis
             destruxerunt Bethsan, et plura casalia, et terram undique comburentes, hominum ac
             iumentorum magnam egerunt praedam. Eodem anno XXVI. Ianuarii Bendocdar cepit <placeName>Caesaream</placeName> per proditionem, cuius timore Ptolomenses turrim
-            molendinorum prosternunt et ecclesiam Sancti Nicolai in cimiterio.<ab type="source" source="#bib343-1"/><idno type="CTS-URN"/><note type="textual">Ed. Bongars 1611</note><note type="corrigenda">Minor corr. J. L. Rife</note></ab>
+            molendinorum prosternunt et ecclesiam Sancti Nicolai in cimiterio.<ab type="source" source="#bib343-1"/><idno type="CTS-URN"/><note xml:lang="en" type="textual">Ed. Bongars 1611</note><note xml:lang="en" type="corrigenda">Minor corr. J. L. Rife</note></ab>
       <ab type="translation" xml:lang="en" xml:id="quote343-2">
         <anchor xml:id="testimonia-343.en.1" corresp="#testimonia-343.la.1"/>On June 15 the Christians departed from Acre with the Hospitallers
             and Templars to recover a certain Gerard, whom the Saracens had captured with many
@@ -304,7 +304,7 @@
             castles, and, setting land everywhere ablaze, they seized an enormous plunder of
             humanity and livestock. In the same year on January 26 Bendocdar took <placeName>Caesarea</placeName> by treachery. Out of their fear of him the people of
             Acre tore down the tower of windmills and the Church of Saint Nicholas in the
-               cemetery.<ab type="source" source="#bib343-2"/><idno type="CTS-URN"/><ref target=""/><note type="translation">Adapted from Lock 2011</note></ab>
+               cemetery.<ab type="source" source="#bib343-2"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="translation">Adapted from Lock 2011</note></ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib343-1">

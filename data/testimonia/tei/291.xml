@@ -274,13 +274,13 @@
         <anchor xml:id="testimonia-291.la.1" corresp="#testimonia-291.en.1"/>Dor Nafeth, quod Symmachus transtulit Dor maritima. haec est Dora in
             nono miliario <placeName>Caesareae Palaestinae</placeName> pergentibus Tyrum, nunc
             deserta. quae cum cecidisset in sortem tribus Manasse, eam possidere non potuit, quia
-            habitatores in illa pristini permansere.<ab type="source" source="#bib291-1"/><idno type="CTS-URN"/><ref target="urn:cts:greekLit:tlg2018.tlg011.opp-lat1:4"/><note type="textual">Ed. Klosterman
+            habitatores in illa pristini permansere.<ab type="source" source="#bib291-1"/><idno type="CTS-URN"/><ref target="urn:cts:greekLit:tlg2018.tlg011.opp-lat1:4"/><note xml:lang="en" type="textual">Ed. Klosterman
                1904</note></ab>
       <ab type="translation" xml:lang="en" xml:id="quote291-2">
         <anchor xml:id="testimonia-291.en.1" corresp="#testimonia-291.la.1"/>Dor Nafeth, which Symmachus translated Dor Maritima. This is Dora at
             milestone 9 for those traveling from <placeName>Caesarea Palestinae</placeName> to Tyre,
             now deserted. When it fell to the lot of the tribe of Manasseh, it could not hold it,
-            because the ancient inhabitants stayed there.<note type="translation">Trans. J. L.
+            because the ancient inhabitants stayed there.<note xml:lang="en" type="translation">Trans. J. L.
                Rife</note>
         <idno type="CTS-URN"/>
         <ref target=""/>

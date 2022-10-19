@@ -288,7 +288,7 @@
             ͵γχʹ· ἐκ Ῥόδου εἰς Τρίπολιν στάδιοι ͵γχʹ· ἐκ Ῥόδου εἰς Σελευκείαν στάδιοι ͵γχʹ· ἐκ Ῥόδου
             εἰς Κιλικίαν στάδιοι ͵αφʹ· ἐκ Ῥόδου εἰς Κώρυκον στάδιοι ͵α· ἐκ Ῥόδου εἰς Κώρυκον στάδιοι
             ͵α· ἐκ Ῥόδου δὲ ἐπὶ τὴν Κύπρον ἐπὶ τὴν ἑσπερίαν τὴν ἐπ’ ἀνατολὰς τοῦ κριοῦ οὐριώτα⟨τα⟩
-            ζεφύρῳ στάδιοι ͵βωʹ …<ab type="source" source="#bib89-1"/><idno type="CTS-URN"/><ref/><note type="textual">Ed. Helm 1955</note></ab>
+            ζεφύρῳ στάδιοι ͵βωʹ …<ab type="source" source="#bib89-1"/><idno type="CTS-URN"/><ref/><note xml:lang="en" type="textual">Ed. Helm 1955</note></ab>
          <ab type="translation" xml:lang="en" xml:id="quote89-2">
         <anchor xml:id="testimonia-89.en.1" corresp="#testimonia-89.la.1"/>From Rhodes to Alexandria, 4,500 stades. From Rhodes to Ashkelon,
             3,600 stades. From Rhodes to <placeName>Caesarea</placeName>, 3,600 stades. From Rhodes
@@ -296,7 +296,7 @@
             3,600 stades. From Rhodes to Tripolis, 3,600 stades. From Rhodes to Seleuceia, 3,600
             stades. From Rhodes to Cilicia, 1,500 stades. From Rhodes to Corycus, 1,000 stades. From
             Rhodes to western Cyprus, the part east of the Ram, with the fairest possible west wind,
-            2,800 stades …<note type="translation">Trans. J. L. Rife</note>
+            2,800 stades …<note xml:lang="en" type="translation">Trans. J. L. Rife</note>
         <idno type="CTS-URN"/>
         <ref target="http://www.tertullian.org/fathers/eusebius_theophania_05book4.htm"/>
       </ab>

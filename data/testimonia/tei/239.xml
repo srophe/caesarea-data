@@ -291,7 +291,7 @@
             sacramento, cum certo militum numero, regio servitio obligati fuerunt: comes videlicet
             Tripolitanus; dominus Beriti; dominus Sydonis; dominus Cayphae; dominus <placeName>Caesareae</placeName>; princeps Galileae, qui et dominus Tyberiadis; comes
             Iopen et Ascalonae; dominus Montis Regalis et totius terrae trans Iordanem; dominus
-            Arsur; et dominus Ibelyn, cum quibusdam aliis; sed hii aliis praeminebant.<ab type="source" source="#bib239-1"/><idno type="CTS-URN"/><ref target=""/><note type="textual">Ed. Bongars 1611</note><note type="corrigenda">Minor corr. J. L. Rife</note></ab>
+            Arsur; et dominus Ibelyn, cum quibusdam aliis; sed hii aliis praeminebant.<ab type="source" source="#bib239-1"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="textual">Ed. Bongars 1611</note><note xml:lang="en" type="corrigenda">Minor corr. J. L. Rife</note></ab>
       <ab type="translation" xml:lang="en" xml:id="quote239-2">
         <anchor xml:id="testimonia-239.en.1" corresp="#testimonia-239.la.1"/>Let us go over the clear glory of the Kings of Jerusalem from the
             point of view of the barons of the kingdom. For the safety of the kingdom, as was
@@ -305,7 +305,7 @@
             Lord of Caesarea, the Prince of Galilee, who was also the Lord of Tiberias, the Count of
             Iope and Ascalon, the Lord of Mount Royal and of all the land across the Jordan, the
             Lord of Arsur, and the Lord of Ibelyn with various others; but these were more important
-            than the others.<ab type="source" source="#bib239-2"/><idno type="CTS-URN"/><ref target=""/><note type="translation">Adapted from Lock 2011</note></ab>
+            than the others.<ab type="source" source="#bib239-2"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="translation">Adapted from Lock 2011</note></ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib239-1">

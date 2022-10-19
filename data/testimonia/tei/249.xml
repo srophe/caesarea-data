@@ -287,7 +287,7 @@
             Κιρκησίου κάστρου, πρὸς τὸ ποιῆσαι γενεάν, διὰ τοὺς βαρβάρους Σαρακηνούς. ὁμοίως δὲ ἀπὸ
             τῆς ξηρᾶς Λιβύης ἤγαγεν ἑρπετὰ ἰοβόλα καὶ φοβερὰ ἀῤῥενοθήλεα, καὶ ἀπέλυσεν εἰς τὸ τῆς
             Αἰγύπτου λίμιτον διὰ τοὺς Νομάδας καὶ Βλεμμύας Βαρβάρους· καὶ διὰ τοῦτο γράφουσιν αὐτὸν
-            ἑστῶτα μεταξὺ λεόντων καὶ ἀσπίδων.<ab type="source" source="#bib249-1"/><idno type="CTS-URN"/><ref/><note type="textual">Ed. Dindorf 1832</note></ab>
+            ἑστῶτα μεταξὺ λεόντων καὶ ἀσπίδων.<ab type="source" source="#bib249-1"/><idno type="CTS-URN"/><ref/><note xml:lang="en" type="textual">Ed. Dindorf 1832</note></ab>
       <ab type="translation" xml:lang="en" xml:id="quote249-2">
         <anchor xml:id="testimonia-249.en.1" corresp="#testimonia-249.grc.1"/>And in Smyrna in Asia, Pionius along with many others died as a
             martyr, a man of the Word and one recognized among those distinguished in the Christian
@@ -303,7 +303,7 @@
             also from Libya Inferior he brought venomous snakes, terrifying, both males and females,
             and he released them to the Egyptian frontier because of the barbarian Nomads and
             Blemmyes. And for this reason they portray him standing between between lions and
-               asps.<note type="translation">Trans. J. L. Rife</note>
+               asps.<note xml:lang="en" type="translation">Trans. J. L. Rife</note>
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>

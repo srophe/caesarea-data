@@ -290,7 +290,7 @@
             quibus loquimur habeant delectabile. Habes ergo Antiochiam in ludis circensibus
             eminentem, similiter et Laodiciam et Tyrum et Berytum et <placeName>Caesaream</placeName>. Et Laodicia mittit aliis civitatibus agitatores
             optimos, Tyrus et Berytus mimarios, <placeName>Caesarea</placeName> pantomimos,
-            Heliopolis choraulas, Gaza pammacarios, Ascalon athletas luctatores, Castabala pyctas.<ab type="source" source="#bib227-1"/><idno type="CTS-URN"/><ref/><note type="textual">Ed. Rougé 1966</note></ab>
+            Heliopolis choraulas, Gaza pammacarios, Ascalon athletas luctatores, Castabala pyctas.<ab type="source" source="#bib227-1"/><idno type="CTS-URN"/><ref/><note xml:lang="en" type="textual">Ed. Rougé 1966</note></ab>
       <ab type="translation" xml:lang="en" xml:id="quote227-2">
         <anchor xml:id="testimonia-227.en.1" corresp="#testimonia-227.la.1"/>A) Since we should also describe their peculiarities, it is
             necessary also to say what there is for entertainment in individual cities. So you have
@@ -306,9 +306,9 @@
             stands for the games at its race courses, as well Laodicea, Tyre, Beirut, and <placeName>Caesarea</placeName>. And Laodicea sends the best charioteers to other
             cities, Tyre and Beirut mimes, <placeName>Caesarea</placeName> pantomimes, Heliopolis
             flute-accompanists, Gaza atheletes in the pancration, Ascalon athletes in wrestling,
-            Castabala players.<note type="translation">Trans. J. L. Rife with reference to Rougé
+            Castabala players.<note xml:lang="en" type="translation">Trans. J. L. Rife with reference to Rougé
                1966</note>
-        <note type="discussion">Latin choraula (A, B) transliterating Greek
+        <note xml:lang="en" type="discussion">Latin choraula (A, B) transliterating Greek
                χοραύλης refers to a player on a reed pipe who accompanies dancers. Unless the word
                has an otherwise unattested meaning of “choral singer” (cf. Rougé 1966, p. 255 n. 10
                “chanteurs,” “choristes”), the author seems to mean that playing the flute was a kind

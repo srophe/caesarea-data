@@ -289,7 +289,7 @@
             Ἀμαντίῳ τῷ στρατηλάτῃ ὄντι τότε ἐν τῇ ἀνατολῇ τῷ κατὰ Ζίμαρχον ἀπελθεῖν καὶ ἐκζητῆσαι
             τὸν φόνον τοῦ Στεφάνου. ὁ δὲ Ἀμάντιος ἐλθὼν ἐν <placeName>Καισαρείᾳ</placeName> ἤρξατο
             ζητεῖν τοὺς πεποιηκότας τὸν φόνον, καὶ εὑρὼν τοὺς μὲν ἐφούρκισε, τοὺς δὲ ἀπεκεφάλισεν,
-            ἑτέρους δὲ ἐχειροκόπησε, τοὺς δὲ ἐδήμευσε· καὶ ἐγένετο φόβος μέγας ἐν <placeName>Καισαρείᾳ τῆς Παλαιστίνης</placeName>.<ab type="source" source="#bib218-1"/><idno type="CTS-URN"/><ref/><note type="textual">Ed. de Boor
+            ἑτέρους δὲ ἐχειροκόπησε, τοὺς δὲ ἐδήμευσε· καὶ ἐγένετο φόβος μέγας ἐν <placeName>Καισαρείᾳ τῆς Παλαιστίνης</placeName>.<ab type="source" source="#bib218-1"/><idno type="CTS-URN"/><ref/><note xml:lang="en" type="textual">Ed. de Boor
                1905</note></ab>
       <ab type="translation" xml:lang="en" xml:id="quote218-2">
         <anchor xml:id="testimonia-218.en.1" corresp="#testimonia-218.grc.1"/>It happened during the reign of the emperor Justinian that the
@@ -304,7 +304,7 @@
             murderer of Stephanos. Amantios came to <placeName>Caesarea</placeName> and began
             searching for those who had committed the murders. When he found them, he hanged some,
             beheaded others, cut off the right hands of others, and confiscated the property of
-            others. And there was great fear in <placeName>Caesarea of Palestine</placeName>.<note type="translation">Trans. J. L. Rife</note>
+            others. And there was great fear in <placeName>Caesarea of Palestine</placeName>.<note xml:lang="en" type="translation">Trans. J. L. Rife</note>
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>

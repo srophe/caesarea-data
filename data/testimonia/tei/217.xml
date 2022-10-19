@@ -287,7 +287,7 @@
             αὐτοῦ μετὰ τοῦ διαδήματος τῷ βασιλεῖ Ζήνωνι· καὶ εὐθέως ὁ Ζήνων ἐποίησε τὴν συναγωγὴν
             αὐτῶν τὴν οὖσαν εἰς τὸ Γαργαρίζη ὄρος εὐκτήριον οἶκον τῆς ἁγίας θεοτόκου, ἀνανεώσας καὶ
             τὸν ἅγιον Προκόπιον, ποιήσας διάταξιν μὴ στρατεύεσθαι Σαμαρείτην, δημεύσας τοὺς εὐπόρους
-            αὐτῶν. καὶ ἐγένετο φόβος καὶ εἰρήνη.<ab type="source" source="#bib217-1"/><idno type="CTS-URN"/><ref/><note type="textual">Ed. de Boor 1905</note></ab>
+            αὐτῶν. καὶ ἐγένετο φόβος καὶ εἰρήνη.<ab type="source" source="#bib217-1"/><idno type="CTS-URN"/><ref/><note xml:lang="en" type="textual">Ed. de Boor 1905</note></ab>
       <ab type="translation" xml:lang="en" xml:id="quote217-2">
         <anchor xml:id="testimonia-217.en.1" corresp="#testimonia-217.grc.1"/>It happened during the reign of Zeno that the people of the
             Samaritan race seized a pretext and rebelled, and crowned a bandit chief, the Samaritan
@@ -300,7 +300,7 @@
             their synagoge on Mount Garizim into a a house of prayer for the Holy Mother of God. He
             also renovated (the Church of) St. Procopius, issued an edict that a Samaritan could not
             hold a military post, and confiscated the property of their wealthy. And there was fear
-            and peace.<note type="translation">Trans. J. L. Rife</note>
+            and peace.<note xml:lang="en" type="translation">Trans. J. L. Rife</note>
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>

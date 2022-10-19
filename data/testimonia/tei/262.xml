@@ -278,13 +278,13 @@
             Pisistratum in sacrae bibliothecae studio primus adaequare contendit. Hic enim in
             bibliotheca sua prope triginta voluminum milia habuit. Hieronymus quoque atque Gennadius
             ecclesiasticos scriptores toto orbe quaerentes ordine persecuti sunt, eorumque studia in
-            uno voluminis indiculo conprehenderunt.<ab type="source" source="#bib262-1"/><idno type="CTS-URN"/><ref/><note type="textual">Ed. Lindsay 1911</note></ab>
+            uno voluminis indiculo conprehenderunt.<ab type="source" source="#bib262-1"/><idno type="CTS-URN"/><ref/><note xml:lang="en" type="textual">Ed. Lindsay 1911</note></ab>
       <ab type="translation" xml:lang="en" xml:id="quote262-2">
         <anchor xml:id="testimonia-262.en.1" corresp="#testimonia-262.la.1"/>Those who established libraries among (Christians). Furthermore,
             among us the martyr Pamphilus, whose Life Eusebius of <placeName>Caesaera</placeName> composed, was the first who strove to match Pisistratus in his zeal for a sacred
             library. For he had in his own library nearly 30,000 volumes. Jerome and Gennadius,
             searching all over the world for the writers of the Church, went through them in order
-            and compiled their studies in a catalog of one volume.<note type="translation">Trans. J.
+            and compiled their studies in a catalog of one volume.<note xml:lang="en" type="translation">Trans. J.
                L. Rife</note>
         <idno type="CTS-URN"/>
         <ref target=""/>

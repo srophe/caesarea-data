@@ -284,15 +284,15 @@
             τὸ -α, καὶ προσθέσει τοῦ ς ποιεῖ τὴν γενικήν. ἔστω δὲ παραδείγματα τοῦ κανόνος ταῦτα· τὸ
             ᾱ μὲν καθαρὸν οἷον μαῖα μαίας, γραῖα γραίας, γαῖα γαίας, Μήδεια Μηδείας (τὸ γὰρ “Μηδείης
             ὑπ᾿ ἔρωτι” Ἰωνικόν ἐστι), Κράτεια Κρατείας, Ἀλεξάνδρεια Ἀλεξανδρείας,
-               <placeName>Καισάρεια</placeName> Καισαρείας, Ἀντιόχεια Ἀντιοχείας.<ab type="source" source="#bib46-1"/><idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg0087.tlg011.1st1K-grc1:2.2.4.127</idno><ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg0087.tlg011.1st1K-grc1:2.2.4.127"/><note type="textual">Ed. Lentz 1868</note></ab>
+               <placeName>Καισάρεια</placeName> Καισαρείας, Ἀντιόχεια Ἀντιοχείας.<ab type="source" source="#bib46-1"/><idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg0087.tlg011.1st1K-grc1:2.2.4.127</idno><ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg0087.tlg011.1st1K-grc1:2.2.4.127"/><note xml:lang="en" type="textual">Ed. Lentz 1868</note></ab>
          <ab type="translation" xml:lang="en" xml:id="quote46-2">
         <anchor xml:id="testimonia-46.en.1" corresp="#testimonia-46.grc.1"/>As for feminine nouns ending -a, if they have pure -a (i.e., no
             preceding consonant), r before -a, or long -a, it persists also in the genitive, I mean
             the -a, and by addition of -s makes the genitive. Take these examples of the rule: pure
             -a, e.g., maia-maias, graia-graias, gaia-gaias, Medeia-Medeias (since “Medeies hyp’
             eroti” is Ionic dialect), Krateia-Krateias, Alexandreia-Alexandreias,
-               <placeName>Kaisareia</placeName> -Kaisareias, Antiocheia-Antiocheias.<note type="translation">Trans. J. L. Rife</note>
-        <note type="discussion">The Greek verse
+               <placeName>Kaisareia</placeName> -Kaisareias, Antiocheia-Antiocheias.<note xml:lang="en" type="translation">Trans. J. L. Rife</note>
+        <note xml:lang="en" type="discussion">The Greek verse
                “Medeies hyp’ eroti” is quoted from Apollonius of Rhodes, Voyage of the Argo
                3.31.</note>
         <idno type="CTS-URN"/>

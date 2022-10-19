@@ -281,7 +281,7 @@
             ἀπόστολος τὸν εὐνοῦχον Κανδάκης τῆς βασιλίσσης Αἰθιόπων ἀπαρχὴν τῆς τῶν ἐθνῶν κλήσεως τῷ
             τοῦ Χριστοῦ κηρύηματι ὑπηγάγετο. Τῷ αὐτῷ ἔτει πρῶτος τῶν κατὰ <placeName>τὴν Παλαιστίνην
                Καισάρειαν</placeName> Κορνήλιος σὺν ὅλῳ τῷ οἰκῷ αὐτοῦ δι’ ἐπιφανείας θείας, ὑπουργίᾳ
-            δὲ Πέτρου τοῦ ἀποστόλου, τὴν εἰς Χριστὸν πίστιν κατεδέξατο.<ab type="source" source="#bib248-1"/><idno type="CTS-URN"/><ref/><note type="textual">Ed.
+            δὲ Πέτρου τοῦ ἀποστόλου, τὴν εἰς Χριστὸν πίστιν κατεδέξατο.<ab type="source" source="#bib248-1"/><idno type="CTS-URN"/><ref/><note xml:lang="en" type="textual">Ed.
                Dindorf 1832</note></ab>
       <ab type="translation" xml:lang="en" xml:id="quote248-2">
         <anchor xml:id="testimonia-248.en.1" corresp="#testimonia-248.grc.1"/>[32 C.E.] In this the second year after the Assumption of the Lord
@@ -289,7 +289,7 @@
             under the preaching of Christ, the first-offering of the call to the gentiles. In the
             same year Cornelius accepted faith in Christ, the first of those in <placeName>Caesarea
                Palestinae</placeName>, along with his entire household, through divine epiphany and
-            with the helpful service of Peter the Apostle.<note type="translation">Trans. J. L.
+            with the helpful service of Peter the Apostle.<note xml:lang="en" type="translation">Trans. J. L.
                Rife</note>
         <idno type="CTS-URN"/>
         <ref target=""/>

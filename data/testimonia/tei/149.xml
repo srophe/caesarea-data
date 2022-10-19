@@ -278,12 +278,12 @@
         <anchor xml:id="testimonia-149.la.1" corresp="#testimonia-149.en.1"/>Dor urbs fuit quondam potentissima; et versa vice Stratonis turris,
             postea ab Herode, rege Iudaeae, in honorem Caesaris Augusti
                <placeName>Caesarea</placeName> nuncupata. In qua Corneli domum Christi vidit
-            Ecclesia, et Philippi aediculas, et cubiculum quattuor virginum prophetarum.<ab type="source" source="#bib149-1"/><idno type="CTS-URN"/><ref/><note type="textual">Ed. Lindsay 1911</note></ab>
+            Ecclesia, et Philippi aediculas, et cubiculum quattuor virginum prophetarum.<ab type="source" source="#bib149-1"/><idno type="CTS-URN"/><ref/><note xml:lang="en" type="textual">Ed. Lindsay 1911</note></ab>
          <ab type="translation" xml:lang="en" xml:id="quote149-2">
         <anchor xml:id="testimonia-149.en.1" corresp="#testimonia-149.la.1"/>The city of Dor was once very powerful; it was opposite Strato’s
             Tower, which was later named <placeName>Caesarea</placeName> by Herod, king of Judaea,
             in honor of Caesar Augustus. There the Church of Christ saw the home of Cornelius, the
-            house of Philip, and the room of the four virgin prophets.<note type="translation">Trans. J. L. Rife</note>
+            house of Philip, and the room of the four virgin prophets.<note xml:lang="en" type="translation">Trans. J. L. Rife</note>
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>

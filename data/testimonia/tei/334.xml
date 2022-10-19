@@ -304,8 +304,8 @@
             per maritimam regionem euntes usque <placeName>Caesaream</placeName>, ilic celebraverunt
             Pentecosten. Hanc autem viam fecerunt consilio Surianorum, qui habitabant in Libano,
             maxime propter commoditatem navigii Cyprensium, Venetorum, Ianuensium, et quorundam
-            Frixonum, qui gratia peregrinationis venerant.<ab type="source" source="#bib334-1"/><idno type="CTS-URN"/><ref target=""/><note type="textual">Ed. Bongars
-               1611</note><note type="corrigenda">Minor corr. J. L. Rife</note></ab>
+            Frixonum, qui gratia peregrinationis venerant.<ab type="source" source="#bib334-1"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="textual">Ed. Bongars
+               1611</note><note xml:lang="en" type="corrigenda">Minor corr. J. L. Rife</note></ab>
       <ab type="translation" xml:lang="en" xml:id="quote334-2">
         <anchor xml:id="testimonia-334.en.1" corresp="#testimonia-334.la.1"/>At the beginning of March [1099 C.E.], those who had remained in
             Antioch asked [Robert II] the Count of Flanders and Duke Godfrey to postpone (their
@@ -330,7 +330,7 @@
             and, going along the coast as far as <placeName>Caesarea</placeName>, they celebrated
             Pentecost there. They took this route on the advice of Syrians who lived in Lebanon,
             mainly out of convenience to the fleet of Cypriots, Venetians, Genoese, and some
-            Frisians who came on pilgrimage.<ab type="source" source="#bib334-2"/><idno type="CTS-URN"/><ref target=""/><note type="translation">Adapted from Lock
+            Frisians who came on pilgrimage.<ab type="source" source="#bib334-2"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="translation">Adapted from Lock
                2011</note></ab>
       <listBibl>
         <head>Works Cited</head>

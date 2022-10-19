@@ -280,14 +280,14 @@
         <anchor xml:id="testimonia-225.la.1" corresp="#testimonia-225.en.1"/>A) Iam etiam <placeName>Caesarea</placeName> civitas est similiter
             deliciosior et abundans omnibus et dispositione civitatis in multa eminens. Tetrapylon
             enim eius nominatur ubique, quod unum et novum aliquod spectaculum. B) Similiter et <placeName>Caesarea</placeName>, civitas deliciosissima, cuius tertrapilum nominatur
-            ubique, quod unum et novum spectaculum praebet.<ab type="source" source="#bib225-1"/><idno type="CTS-URN"/><ref/><note type="textual">Ed. Rougé
+            ubique, quod unum et novum spectaculum praebet.<ab type="source" source="#bib225-1"/><idno type="CTS-URN"/><ref/><note xml:lang="en" type="textual">Ed. Rougé
                1966</note></ab>
       <ab type="translation" xml:lang="en" xml:id="quote225-2">
         <anchor xml:id="testimonia-225.en.1" corresp="#testimonia-225.la.1"/>A) Then there is <placeName>Caesarea</placeName>. It is more
             enjoyable and more prosperous than all other (cities), and in layout exceptional in many
             respects. For its Tetrapylon is celebrated everywhere, a new, one-of-a-kind sight. B)
             Then <placeName>Caesarea</placeName> too is a most enjoyable city. Its Tetrapylon is
-            celebrated everywhere, a new, one-of-a-kind sight.<note type="translation">Trans. J. L.
+            celebrated everywhere, a new, one-of-a-kind sight.<note xml:lang="en" type="translation">Trans. J. L.
                Rife with reference to Rougé 1966</note>
         <idno type="CTS-URN"/>
         <ref target=""/>

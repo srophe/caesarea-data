@@ -289,7 +289,7 @@
             ὄνομα τοῦ Καίσαρος· ὁ μὲν Ἡρώδης βασιλεὺς καὶ τοπάρχης ἐκάλεσε <placeName>Καισάρειαν
                Παλαιστίνης,</placeName> τὴν πρῴην λεγομένην <placeName>Στράτωνος Πύργον</placeName>,
             ὁ δὲ Ἀρχέλαος βασιλεὺς καὶ τοπάρχης ἐκάλεσε Καισάρειαν Καππαδοκίας τὴν πρῴην λεγομένην
-               Μάζακαν.<ab type="source" source="#bib133-1"/><idno type="CTS-URN"/><ref target=""/><note type="textual">Ed. Thurn 2000</note><note type="textual">Von
+               Μάζακαν.<ab type="source" source="#bib133-1"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="textual">Ed. Thurn 2000</note><note xml:lang="en" type="textual">Von
                Stauffenberg (1931) added ἰδίοις ἀναλώμασιν (“at his own expense”) after λευκαῖς
                πλάκαις. J. L. Rife has omitted it here as an unnecessary interpolation from the
                Slavonic translation (10th/11th century) and John of Nikiu 66.2. </note></ab>
@@ -299,7 +299,7 @@
             paving it with white slabs. Both local rulers named their metropoleis after Caesar
             (Augustus) to honor him. Herod, king and local ruler, named Caesarea of Palestine the
             city formerly called Strato’s Tower, while Archaelaos, king and local ruler, named
-            Caesarea in Cappadocia the city formerly called Mazaca.<note type="translation">Adapted
+            Caesarea in Cappadocia the city formerly called Mazaca.<note xml:lang="en" type="translation">Adapted
                from Jeffreys et al. 2017</note>
         <idno type="CTS-URN"/>
         <ref target=""/>

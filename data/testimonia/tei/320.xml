@@ -282,7 +282,7 @@
             τὰς ὑπ' αὐτοῦ συγγραφείσας. ἔγραψε καὶ ἕτερον βιβλίον, τὰ καλούμενα Ἀνέκδοτα, τῶν αὐτῶν
             πράξεων: ὡς εἶναι ἀμφότερα βιβλία θʹ. ὅτι τὸ βιβλίον Προκοπίου τὸ καλούμενον Ἀνέκδοτα
             ψόγους καὶ κωμῳδίαν Ἰουστινιανοῦ βασιλέως περιέχει καὶ τῆς αὐτοῦ γυναικὸς Θεοδώρας, ἀλλὰ
-            μὴν καὶ αὐτοῦ Βελισαρίου καὶ τῆς γαμετῆς αὐτοῦ.<ab type="source" source="#bib320-1"/><idno type="CTS-URN">https://archive.org/details/adler-a.-suidae-lexicon-3-./Adler%20A.%2C%20Suidae%20Lexicon%204%20%28%CE%A0-%CE%A8%29/page/210/mode/2up</idno><note type="textual">Ed. Adler
+            μὴν καὶ αὐτοῦ Βελισαρίου καὶ τῆς γαμετῆς αὐτοῦ.<ab type="source" source="#bib320-1"/><idno type="CTS-URN">https://archive.org/details/adler-a.-suidae-lexicon-3-./Adler%20A.%2C%20Suidae%20Lexicon%204%20%28%CE%A0-%CE%A8%29/page/210/mode/2up</idno><note xml:lang="en" type="textual">Ed. Adler
                1935</note></ab>
          <ab type="translation" xml:lang="en" xml:id="quote320-2">
         <anchor xml:id="testimonia-320.en.1" corresp="#testimonia-320.grc.1"/>Procopius, illustris (in status), of Caesarea in Palestine, rhetor
@@ -292,7 +292,7 @@
             which he recorded. He also wrote another book, the so-called Anecdota, on the same
             events; both works add up to 9 books. (Note) that the book by Procopius called Anecdota
             contains abuse and mockery of the emperor Justinian and his wife Theodora, and indeed of
-            Belisarius himself as well, and his wife.<note type="translation">Rev. SOL (trans. M.
+            Belisarius himself as well, and his wife.<note xml:lang="en" type="translation">Rev. SOL (trans. M.
                Heath et al., 2002-)</note>
         <idno type="CTS-URN"/>
         <ref target="http://www.cs.uky.edu/~raphael/sol/sol-entries/pi/2479"/>

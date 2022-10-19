@@ -279,7 +279,7 @@
             tribui Iudae, nec tamen tenta ab ea, quia habitatores pristinos nequivit expellere. sed
             et usque hodie grandis vicus civium Iudaeorum Accaron dicitur, inter Azotum et Iamniam,
             ad orientem respiciens. quidam putant Accaron <placeName>turrim Stratonis</placeName>,
-            postea <placeName>Casaream</placeName> nuncupatam.<ab type="source" source="#bib290-1"/><idno type="CTS-URN"/><ref target="urn:cts:greekLit:tlg2018.tlg011.opp-lat1:1"/><note type="textual">Ed. Klosterman
+            postea <placeName>Casaream</placeName> nuncupatam.<ab type="source" source="#bib290-1"/><idno type="CTS-URN"/><ref target="urn:cts:greekLit:tlg2018.tlg011.opp-lat1:1"/><note xml:lang="en" type="textual">Ed. Klosterman
                1904</note></ab>
       <ab type="translation" xml:lang="en" xml:id="quote290-2">
         <anchor xml:id="testimonia-290.en.1" corresp="#testimonia-290.la.1"/>Accaron in the tribe of Dan—or, I think, in the tribe of Judah—to
@@ -287,7 +287,7 @@
             It was indeed assigned to the tribe of Judah but nevertheless not held by it, because it
             could not expel the ancient inhabitants. Even up to today there is a large village of
             Jews called Accaron between Azotus and Iamnia to the east. Some people think that
-            Accaron is <placeName>Strato’s Tower</placeName>, later called <placeName>Caesarea</placeName>.<note type="translation">Trans. J. L.
+            Accaron is <placeName>Strato’s Tower</placeName>, later called <placeName>Caesarea</placeName>.<note xml:lang="en" type="translation">Trans. J. L.
                Rife</note>
         <idno type="CTS-URN"/>
         <ref target=""/>

@@ -288,7 +288,7 @@
             καὶ Καισαρεὺς ὁ ἀπὸ <placeName>Καισαρείας</placeName>· καιρὸς ὁ χρόνος, ὅθεν καὶ
             καίριον, τὸ ἔγκαιριον· καιροφυλακῶ· καιροσκοπῶ· καιρία πληγὴ, ὁ θανάσιμος· καικίας,
             ἄνεμος· Καινεὺς, κύριον, καὶ κλίνεται Καινέως· καίω, ῥῆμα, τὸ φλογίζω· καὶ καίνω, τὸ
-            κόπτω, ὅθεν καὶ καινὶς, ἡ μάχαιρα.<ab type="source" source="#bib45-1"/><idno type="CTS-URN"/><ref target=""/><note type="textual">Ed. Boissonade 1819</note></ab>
+            κόπτω, ὅθεν καὶ καινὶς, ἡ μάχαιρα.<ab type="source" source="#bib45-1"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="textual">Ed. Boissonade 1819</note></ab>
          <ab type="translation" xml:lang="en" xml:id="quote45-2">
         <anchor xml:id="testimonia-45.en.1" corresp="#testimonia-45.grc.1"/>Besides kai, conjunction: kainon, the new and incredible, from which
             we also get kainotomia, a new practice or paradox; kainotomo, verb “to render new”;
@@ -296,7 +296,7 @@
                <placeName>Kaisareia</placeName>; kairos, the time, from which we also get kairion,
             engkairion; kairophylako; kairoskopo; kairia plege, the death-blow; kaikias, wind;
             Kaineus, proper noun, declined Kaineos; kaio, verb, “to set afire”; and kaino, verb “to
-            cut”, from which we also get kainis, knife.<note type="translation">Trans. J. L.
+            cut”, from which we also get kainis, knife.<note xml:lang="en" type="translation">Trans. J. L.
                Rife</note>
         <idno type="CTS-URN"/>
         <ref target=""/>
