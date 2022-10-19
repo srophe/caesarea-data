@@ -117,8 +117,8 @@
          </ab>
          <desc type="abstract"/>
          <desc type="context"/>
-         <ab type="edition"><note type="textual"/><note type="textual"/><note type="discussion"/> <note type="corrigenda"/><idno type="CTS-URN"/><ref target=""/></ab>
-         <ab type="translation"><note type="translation"/><note type="discussion"/><note type="corrigenda"/><idno type="CTS-URN"/><ref target=""/></ab>
+         <ab type="edition"><note xml:lang="en" type="textual"/><note xml:lang="en" type="textual"/><note xml:lang="en" type="discussion"/> <note xml:lang="en" type="corrigenda"/><idno type="CTS-URN"/><ref target=""/></ab>
+         <ab type="translation"><note xml:lang="en" type="translation"/><note xml:lang="en" type="discussion"/><note xml:lang="en" type="corrigenda"/><idno type="CTS-URN"/><ref target=""/></ab>
          <listBibl>
             <head>Works Cited</head>
             <bibl>
