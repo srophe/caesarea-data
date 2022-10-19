@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -247,7 +249,7 @@
       </abstract>
       <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Description of the Holy
                Places</title> <ref n="a" target="#bib310-1">430-431</ref> written by <persName role="author" ref="http://viaf.org/viaf/260149196658874792805">Rorgo
-               Fretellus</persName> in <origDate notBefore="" notAfter="" period="#">NaN CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678299">Nazareth</origPlace>.</creation>
+               Fretellus</persName> in <origDate notBefore="1122" notAfter="1152" period="#crusader">ca. 1137 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678299">Nazareth</origPlace>.</creation>
       <langUsage>
         <language ident="la">Latin</language>
       </langUsage>
@@ -268,9 +270,20 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/310</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract310-1"><quote><placeName>Caesaream</placeName></quote>, <quote><placeName>Caesarea</placeName></quote>, <quote><placeName>Turris Stratonis</placeName></quote>, <quote><placeName>Caesareae</placeName></quote>, and <quote><placeName>Strato’s Tower</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/260149196658874792805">Rorgo
+      <desc type="abstract" xml:id="abstract310-1">
+        <quote>
+          <placeName>Caesaream</placeName>
+        </quote>, <quote>
+          <placeName>Caesarea</placeName>
+        </quote>, <quote>
+          <placeName>Turris Stratonis</placeName>
+        </quote>, <quote>
+          <placeName>Caesareae</placeName>
+        </quote>, and <quote>
+          <placeName>Strato’s Tower</placeName>
+        </quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/260149196658874792805">Rorgo
                Fretellus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Description of the Holy
-               Places</title> <ref n="a" target="#bib310-1">430-431</ref>. This passage was written ca. <origDate notBefore="" notAfter="" period="#">NaN CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678299">Nazareth</origPlace>.</desc>
+               Places</title> <ref n="a" target="#bib310-1">430-431</ref>. This passage was written ca. <origDate notBefore="1122" notAfter="1152" period="#crusader">ca. 1137 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678299">Nazareth</origPlace>.</desc>
       <desc type="context">Rorgo Fretellus (or Fetellus) was a priest originally from the feudal
             county of Ponthieu in northern France who travelled to the Holy Land in 1110 C.E. Over
             the next several decades he served various ecclesiastical offices in Galilee, possibly
@@ -314,8 +327,14 @@
             praedictis in fluminibus habere posset, a fratre suo, qui temporibus aestivis fluminea
             frequentabat balnea, forsitan perituro, regno suo permitteretur. Quod sic revera
             contigit, sicque solus maior regnavit.<lb/>Decimo miliario a <placeName>Caesarea</placeName> contra orientem Scariathias, a quo Iudas traditor
-            cognominatus est Scarioth.<ab type="source" source="#bib310-1"/><idno type="CTS-URN"/><ref/><note xml:lang="en" type="textual">Ed. de Vogüé 1860</note><note xml:lang="en" type="textual">Bibliothèque impériale, fonds Latin, 5129 (Paris, dated
-               1151-1157)</note><note xml:lang="en" type="discussion">Minor corr. J. L. Rife</note></ab>
+            cognominatus est Scarioth.<ab type="source" source="#bib310-1"/>
+        <idno type="CTS-URN"/>
+        <ref/>
+        <note xml:lang="en" type="textual">Ed. de Vogüé 1860</note>
+        <note xml:lang="en" type="textual">Bibliothèque impériale, fonds Latin, 5129 (Paris, dated
+               1151-1157)</note>
+        <note xml:lang="en" type="discussion">Minor corr. J. L. Rife</note>
+      </ab>
       <ab type="translation" xml:lang="en" xml:id="quote310-2">
         <anchor xml:id="testimonia-310.en.1" corresp="#testimonia-310.la.1"/>Twenty miles from Assur toward the east is Dor, which Herod called <placeName>Caesarea</placeName> in honor Augustus Caesar. Here he also built a harbor
             out of white marble in which Peter baptized Cornelius and, when his house was changed
@@ -351,8 +370,12 @@
             from the Νile for the rivers mentioned before, his brother, who regularly visited the
             river to bathe in the summertime, would perhaps be killed, and that he would obtain the
             kingdom. This very thing actually happened, and so the older brother became sole ruler.<lb/>Ten miles from <placeName>Caesarea</placeName> toward the east is Scariathias, from
-            which Judas the traitor was nicknamed Scarioth.<ab type="source" source="#bib310-2"/><idno type="CTS-URN"/><ref/><note xml:lang="en" type="translation">Trans. J. L.
-               Rife with ref. to MacPherson 1896</note></ab>
+            which Judas the traitor was nicknamed Scarioth.<ab type="source" source="#bib310-2"/>
+        <idno type="CTS-URN"/>
+        <ref/>
+        <note xml:lang="en" type="translation">Trans. J. L.
+               Rife with ref. to MacPherson 1896</note>
+      </ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib310-1">

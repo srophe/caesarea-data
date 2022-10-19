@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -243,7 +245,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Easter Chronicle</title> <ref n="e" target="#bib249-1">504.7-505.6</ref> written by <persName role="author">Unknown</persName> in <origDate notBefore="" notAfter="" period="#">NaN CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Easter Chronicle</title> <ref n="e" target="#bib249-1">504.7-505.6</ref> written by <persName role="author">Unknown</persName> in <origDate notBefore="0615" notAfter="0645" period="#byzantine #earlyIslamic">ca. 630 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
       <langUsage>
         <language ident="grc">Ancient Greek</language>
       </langUsage>
@@ -264,7 +266,12 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/249</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract249-1"><quote><placeName>Καισαρείᾳ τῆς Παλαιστίνης</placeName></quote>, and <quote><placeName>Caesarea Palestina</placeName></quote> are directly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Easter Chronicle</title> <ref n="e" target="#bib249-1">504.7-505.6</ref>. This passage was written ca. <origDate notBefore="" notAfter="" period="#">NaN CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract249-1">
+        <quote>
+          <placeName>Καισαρείᾳ τῆς Παλαιστίνης</placeName>
+        </quote>, and <quote>
+          <placeName>Caesarea Palestina</placeName>
+        </quote> are directly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Easter Chronicle</title> <ref n="e" target="#bib249-1">504.7-505.6</ref>. This passage was written ca. <origDate notBefore="0615" notAfter="0645" period="#byzantine #earlyIslamic">ca. 630 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
       <desc type="context">The so-called Easter Chronicle (Chronicon Paschale) is a universal
             history from the Creation down to the later reign of Heraclius, when it was composed,
             based an amalgam of biblical, Christian, and secular sources. While the work shows a
@@ -287,7 +294,11 @@
             Κιρκησίου κάστρου, πρὸς τὸ ποιῆσαι γενεάν, διὰ τοὺς βαρβάρους Σαρακηνούς. ὁμοίως δὲ ἀπὸ
             τῆς ξηρᾶς Λιβύης ἤγαγεν ἑρπετὰ ἰοβόλα καὶ φοβερὰ ἀῤῥενοθήλεα, καὶ ἀπέλυσεν εἰς τὸ τῆς
             Αἰγύπτου λίμιτον διὰ τοὺς Νομάδας καὶ Βλεμμύας Βαρβάρους· καὶ διὰ τοῦτο γράφουσιν αὐτὸν
-            ἑστῶτα μεταξὺ λεόντων καὶ ἀσπίδων.<ab type="source" source="#bib249-1"/><idno type="CTS-URN"/><ref/><note xml:lang="en" type="textual">Ed. Dindorf 1832</note></ab>
+            ἑστῶτα μεταξὺ λεόντων καὶ ἀσπίδων.<ab type="source" source="#bib249-1"/>
+        <idno type="CTS-URN"/>
+        <ref/>
+        <note xml:lang="en" type="textual">Ed. Dindorf 1832</note>
+      </ab>
       <ab type="translation" xml:lang="en" xml:id="quote249-2">
         <anchor xml:id="testimonia-249.en.1" corresp="#testimonia-249.grc.1"/>And in Smyrna in Asia, Pionius along with many others died as a
             martyr, a man of the Word and one recognized among those distinguished in the Christian

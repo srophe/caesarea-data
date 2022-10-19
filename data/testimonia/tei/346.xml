@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -243,7 +245,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Apology Against Rufinus</title> <ref n="a" target="#bib346-1">1.9-10</ref> written by <persName role="author" ref="http://viaf.org/viaf/95147024">Jerome</persName> in <origDate notBefore="" notAfter="" period="#">NaN CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Apology Against Rufinus</title> <ref n="a" target="#bib346-1">1.9-10</ref> written by <persName role="author" ref="http://viaf.org/viaf/95147024">Jerome</persName> in <origDate when="0401" period="#byzantine">401 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</creation>
       <langUsage>
         <language ident="la">Latin</language>
       </langUsage>
@@ -264,7 +266,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/346</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract346-1">Caesarea Maritima is indirectly attested at <persName role="author" ref="http://viaf.org/viaf/95147024">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Apology Against Rufinus</title> <ref n="a" target="#bib346-1">1.9-10</ref>. This passage was written ca. <origDate notBefore="" notAfter="" period="#">NaN CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract346-1">Caesarea Maritima is indirectly attested at <persName role="author" ref="http://viaf.org/viaf/95147024">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Apology Against Rufinus</title> <ref n="a" target="#bib346-1">1.9-10</ref>. This passage was written ca. <origDate when="0401" period="#byzantine">401 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</desc>
       <desc type="context">In a long letter he wrote to his associates Pammachius and Marcella in
             401, Jerome struck at first a defensive and then an offensive stance in the ongoing
             Origenist controversy that had embroiled the episcopate of Jerusalem since the early
@@ -298,8 +300,13 @@
             versabatur.”<lb/>(10) Defensor Origenis et laudator Pamphili dicit Pamphilum nihil omnino
             scripsisse, nec proprii quidquam condidisse sermonis; et hoc dicit iam Pamphilo martyrio
             coronato, ne habeas suffugium post editos ab Eusebio libros hoc Pamphilum
-               conscripsisse.<ab type="source" source="#bib346-1"/><idno type="CTS-URN"/><ref target="https://archive.org/details/patrologiaecurs01goog/page/n216/mode/2up"/><note xml:lang="en" type="textual">Ed. Migne 1883</note><note xml:lang="en" type="textual">Checked
-               against Lardet 1982</note></ab>
+               conscripsisse.<ab type="source" source="#bib346-1"/>
+        <idno type="CTS-URN"/>
+        <ref target="https://archive.org/details/patrologiaecurs01goog/page/n216/mode/2up"/>
+        <note xml:lang="en" type="textual">Ed. Migne 1883</note>
+        <note xml:lang="en" type="textual">Checked
+               against Lardet 1982</note>
+      </ab>
       <ab type="translation" xml:lang="en" xml:id="quote346-2">
         <anchor xml:id="testimonia-346.en.1" corresp="#testimonia-346.la.1"/>(9) Shall I say what your intention was, my most simple-minded
             friend? Surely you could not have placed the name of a marytr (sc. Pamphilus) on the
@@ -323,8 +330,12 @@
             Pamphilus says that Pamphilus wrote nothing at all and composed no text; and he says
             this when Pamphilus had already received the crown of martyrdom, to deprive you of the
             loophole in claiming that Pamphilus wrote this work after the publication of Eusebius’
-               books.<ab type="source" source="#bib346-2"/><idno type="CTS-URN"/><ref/><note xml:lang="en" type="translation">Adapted from Fremantle 1892 with ref. to Lardet
-               1983</note></ab>
+               books.<ab type="source" source="#bib346-2"/>
+        <idno type="CTS-URN"/>
+        <ref/>
+        <note xml:lang="en" type="translation">Adapted from Fremantle 1892 with ref. to Lardet
+               1983</note>
+      </ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib346-1">

@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -244,7 +246,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Letter</title> <ref n="a" target="#bib344-1">87</ref> written by <persName role="author" ref="http://viaf.org/viaf/305214868">John Chrysostom</persName> in <origDate notBefore="" notAfter="" period="#">NaN CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/629013">Kokousos</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Letter</title> <ref n="a" target="#bib344-1">87</ref> written by <persName role="author" ref="http://viaf.org/viaf/305214868">John Chrysostom</persName> in <origDate when="0404" period="#byzantine">404 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/629013">Kokousos</origPlace>.</creation>
          <langUsage>
             <language ident="grc">Ancient Greek</language>
          </langUsage>
@@ -265,7 +267,7 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/344</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract344-1">Caesarea Maritima is indirectly attested at <persName role="author" ref="http://viaf.org/viaf/305214868">John Chrysostom</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Letter</title> <ref n="a" target="#bib344-1">87</ref>. This passage was written ca. <origDate notBefore="" notAfter="" period="#">NaN CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/629013">Kokousos</origPlace>.</desc>
+         <desc type="abstract" xml:id="abstract344-1">Caesarea Maritima is indirectly attested at <persName role="author" ref="http://viaf.org/viaf/305214868">John Chrysostom</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Letter</title> <ref n="a" target="#bib344-1">87</ref>. This passage was written ca. <origDate when="0404" period="#byzantine">404 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/629013">Kokousos</origPlace>.</desc>
          <desc type="context">John Chrysostom was the archbishop of Constantinople over the turn of
             the 4th to 5th centuries celebrated for his keen intellect and masterful oratory. He met
             with great opposition for his theological arguments and criticism of Imperial authority,
@@ -301,8 +303,13 @@
             πάντες οἱ κατὰ τὴν Παλαιστίνην κύριοί μου τιμιώτατοι καὶ εὐλαβέστατοι ἐπίσκοποι ἕψονταί
             σου τοῖς ἴχνεσιν, οὐδὲν οἶμαι δεῖν ἀμφιβάλλειν. Οἶδα γὰρ σαφῶς ὅτι ἐν τοῖς τοιούτοις
             κατορθώμασιν ὥσπερ σῶμα συνεχὲς κεφαλῇ, οὕτως αὐτοὺς τῇ γλυκύτητί σου τῆς ἀγάπης συνῆψας
-            καὶ συνδεδέσθαι παρεσκεύασας, ὅπερ καὶ τοῦτο μέγιστον δεῖγμα τῆς σῆς ἀρετῆς.<ab type="source" source="#bib344-1"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="textual">Ed. Migne 1859</note><note xml:lang="en" type="textual">Minor corr. J. L. Rife
-               (punctuation)</note></ab>
+            καὶ συνδεδέσθαι παρεσκεύασας, ὅπερ καὶ τοῦτο μέγιστον δεῖγμα τῆς σῆς ἀρετῆς.<ab type="source" source="#bib344-1"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        <note xml:lang="en" type="textual">Ed. Migne 1859</note>
+        <note xml:lang="en" type="textual">Minor corr. J. L. Rife
+               (punctuation)</note>
+      </ab>
          <ab type="translation" xml:lang="en" xml:id="quote344-2">
         <anchor xml:id="testimonia-344.en.1" corresp="#testimonia-344.grc.1"/>Even if we have arrived at the outer reaches of the inhabited world,
             we are unable to forget your love, carrying it around with us everywhere we go. You have

@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -243,7 +245,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Easter Chronicle</title> <ref n="f" target="#bib250-1">603.19-604.14</ref> written by <persName role="author">Unknown</persName> in <origDate notBefore="" notAfter="" period="#">NaN CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Easter Chronicle</title> <ref n="f" target="#bib250-1">603.19-604.14</ref> written by <persName role="author">Unknown</persName> in <origDate notBefore="0615" notAfter="0645" period="#byzantine #earlyIslamic">ca. 630 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
       <langUsage>
         <language ident="grc">Ancient Greek</language>
       </langUsage>
@@ -264,7 +266,14 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/250</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract250-1"><quote><placeName>Καισαρείᾳ</placeName></quote>, <quote><placeName>Καισαρείας</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Easter Chronicle</title> <ref n="f" target="#bib250-1">603.19-604.14</ref>. This passage was written ca. <origDate notBefore="" notAfter="" period="#">NaN CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract250-1">
+        <quote>
+          <placeName>Καισαρείᾳ</placeName>
+        </quote>, <quote>
+          <placeName>Καισαρείας</placeName>
+        </quote>, and <quote>
+          <placeName>Caesarea</placeName>
+        </quote> are directly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Easter Chronicle</title> <ref n="f" target="#bib250-1">603.19-604.14</ref>. This passage was written ca. <origDate notBefore="0615" notAfter="0645" period="#byzantine #earlyIslamic">ca. 630 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
       <desc type="context">The so-called Easter Chronicle (Chronicon Paschale) is a universal
             history from the Creation down to the later reign of Heraclius, when it was composed,
             based an amalgam of biblical, Christian, and secular sources. While the work shows a
@@ -287,7 +296,11 @@
             συναγωγὴν αὐτῶν τὴν οὖσαν εἰς τὸ καλούμενον Γαργαρίδην εὐκτήριον οἶκον μέγαν τῆς
             δεσποίνης ἡμῶν τῆς θεοτόκου καὶ ἀειπαρθένου Μαρίας, ἀνανεώσας καὶ τὸν οἶκον τοῦ ἁγίου
             Προκοπίου, ποιήσας διάταξιν μὴ στρατεύεσθαι Σαμαρείτην, δημεύσας τοὺς εὐπόρους αὐτῶν.
-            καὶ ἐγένετο φόβος καὶ εἰρήνη.<ab type="source" source="#bib250-1"/><idno type="CTS-URN"/><ref/><note xml:lang="en" type="textual">Ed. Dindorf 1832</note></ab>
+            καὶ ἐγένετο φόβος καὶ εἰρήνη.<ab type="source" source="#bib250-1"/>
+        <idno type="CTS-URN"/>
+        <ref/>
+        <note xml:lang="en" type="textual">Ed. Dindorf 1832</note>
+      </ab>
       <ab type="translation" xml:lang="en" xml:id="quote250-2">
         <anchor xml:id="testimonia-250.en.1" corresp="#testimonia-250.grc.1"/>[484 C.E.] In these times the people of the Samaritan race in
             Palestine seized a pretext and rebelled, and crowned a bandit chief, the Samaritan named
@@ -301,8 +314,12 @@
             was in the place called Gargarides, into a great house of prayer for Our Lady the Mother
             of God and Eternal-Virgin Mary. He also renovated (the Church of) St. Procopius, issued
             an edict that a Samaritan could not hold a military post, and confiscated the property
-            of their wealthy. And there was fear and peace.<ab type="source" source="#bib250-2"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="translation">Rev. from Whitby
-               and Whitby 1989</note></ab>
+            of their wealthy. And there was fear and peace.<ab type="source" source="#bib250-2"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        <note xml:lang="en" type="translation">Rev. from Whitby
+               and Whitby 1989</note>
+      </ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib250-1">

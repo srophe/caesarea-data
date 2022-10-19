@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -246,7 +248,7 @@
             <p/>
          </abstract>
          <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Geographic Description</title> <ref n="a" target="#bib47-1">fr. 111</ref> written by <persName role="author" ref="http://viaf.org/viaf/26128054">Artemidorus of
-               Ephesus</persName> in <origDate notBefore="" notAfter="" period="#">NaN CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/599612">Ephesus</origPlace>.</creation>
+               Ephesus</persName> in <origDate notBefore="0085" notAfter="0115" period="#nabateanKingdom #earlyRoman">ca. 100 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/599612">Ephesus</origPlace>.</creation>
          <langUsage>
             <language ident="grc">Ancient Greek</language>
          </langUsage>
@@ -267,8 +269,13 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/47</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract47-1"><quote><placeName>Στράτωνος πύργος</placeName></quote>, and <quote><placeName>Straton’s Tower</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/26128054">Artemidorus of
-               Ephesus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Geographic Description</title> <ref n="a" target="#bib47-1">fr. 111</ref>. This passage was written ca. <origDate notBefore="" notAfter="" period="#">NaN CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/599612">Ephesus</origPlace>.</desc>
+         <desc type="abstract" xml:id="abstract47-1">
+        <quote>
+          <placeName>Στράτωνος πύργος</placeName>
+        </quote>, and <quote>
+          <placeName>Straton’s Tower</placeName>
+        </quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/26128054">Artemidorus of
+               Ephesus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Geographic Description</title> <ref n="a" target="#bib47-1">fr. 111</ref>. This passage was written ca. <origDate notBefore="0085" notAfter="0115" period="#nabateanKingdom #earlyRoman">ca. 100 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/599612">Ephesus</origPlace>.</desc>
          <desc type="context">Artemidorus of Ephesus was a Late Hellenistic geographer whose work
             was much studied and read by scholars of the Roman and Byzantine eras. His major work
             described the earth (Γεωγραφουμένα) from west to east, from Spain to Arabia and India,
@@ -283,13 +290,21 @@
             Δῶρος, νῦν δὲ Δῶρα καλεῖται.” Καὶ Ἀρτεμίδωρος Δῶρα τὴν πόλιν οἶδεν ἐν Ἐπιτομῇ τῶν ιαʹ·
             “Συνεχῶς δʼ ἐστὶ <placeName>Στράτωνος πύργος</placeName>, εἶτα ἔνι Δῶρα, ἐπὶ
             χερσονησοειδοῦς τόπου κείμενον πολισμάτιον, ἀρχομένου τοῦ ὄρους τοῦ Καρμήλου.” Καὶ ἐν θʹ
-            Γεωγραφουμένων τὸ αὐτό.<ab type="source" source="#bib47-1"/><idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg4003.tlg003.1st1K-grc1:3</idno><ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg4003.tlg003.1st1K-grc1:3"/><note xml:lang="en" type="textual">Ed. Stiehl 1856</note></ab>
+            Γεωγραφουμένων τὸ αὐτό.<ab type="source" source="#bib47-1"/>
+        <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg4003.tlg003.1st1K-grc1:3</idno>
+        <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg4003.tlg003.1st1K-grc1:3"/>
+        <note xml:lang="en" type="textual">Ed. Stiehl 1856</note>
+      </ab>
          <ab type="translation" xml:lang="en" xml:id="quote47-2">
         <anchor xml:id="testimonia-47.en.1" corresp="#testimonia-47.grc.1"/>ASIA. Book 9. Doros, a city in Phoenicia. Hecataeus in [his book on]
             Asia: “After that is the city called Doros in the old times but today Dora.” And
             Artemidorus mentions the city Dora in Epitome of 11 books: “Continuing on is
                <placeName>Straton’s Tower</placeName>, and then Dora, a town situated on the
-            peninsula where Mount Carmel begins.” And the same thing in Geography 9.<ab type="source" source="#bib47-2"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="translation">Trans. J. L. Rife</note></ab>
+            peninsula where Mount Carmel begins.” And the same thing in Geography 9.<ab type="source" source="#bib47-2"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        <note xml:lang="en" type="translation">Trans. J. L. Rife</note>
+      </ab>
          <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib47-1">

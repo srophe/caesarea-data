@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -245,7 +247,7 @@
         <p/>
       </abstract>
       <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Prologue and Notes on
-               Theodosius of Alexandria’s Introductory Rules</title> <ref n="a" target="#bib228-1">303.12-20</ref> written by <persName ref="http://viaf.org/viaf/34444948" role="author">George Choeroboscus</persName> in <origDate notBefore="" notAfter="" period="#">NaN CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
+               Theodosius of Alexandria’s Introductory Rules</title> <ref n="a" target="#bib228-1">303.12-20</ref> written by <persName ref="http://viaf.org/viaf/34444948" role="author">George Choeroboscus</persName> in <origDate notBefore="0800" notAfter="0860" period="#earlyIslamic">ca. 815-845 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
       <langUsage>
         <language ident="grc">Ancient Greek</language>
       </langUsage>
@@ -266,8 +268,17 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/228</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract228-1"><quote><placeName>Καισάρεια</placeName></quote>, <quote><placeName>Καισαρείας</placeName></quote>, <quote><placeName>Kaisareia</placeName></quote>, and <quote><placeName>Kaisareias</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/34444948" role="author">George Choeroboscus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Prologue and Notes on
-               Theodosius of Alexandria’s Introductory Rules</title> <ref n="a" target="#bib228-1">303.12-20</ref>. This passage was written ca. <origDate notBefore="" notAfter="" period="#">NaN CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract228-1">
+        <quote>
+          <placeName>Καισάρεια</placeName>
+        </quote>, <quote>
+          <placeName>Καισαρείας</placeName>
+        </quote>, <quote>
+          <placeName>Kaisareia</placeName>
+        </quote>, and <quote>
+          <placeName>Kaisareias</placeName>
+        </quote> are directly attested at <persName ref="http://viaf.org/viaf/34444948" role="author">George Choeroboscus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Prologue and Notes on
+               Theodosius of Alexandria’s Introductory Rules</title> <ref n="a" target="#bib228-1">303.12-20</ref>. This passage was written ca. <origDate notBefore="0800" notAfter="0860" period="#earlyIslamic">ca. 815-845 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
       <desc type="context">Choeroboscus (“Swineherd”), whose posthumous reputation may have
             suffered from an association with iconoclasm, was a ranking official and teacher in the
             Patriarchate of Constantinople during the early 9th century. He played an important part
@@ -283,8 +294,12 @@
             τὸ -α, καὶ προσθέσει τοῦ ς ποιεῖ τὴν γενικήν. ἔστω δὲ παραδείγματα τοῦ κανόνος ταῦτα· τὸ
             ᾱ μὲν καθαρὸν οἷον μαῖα μαίας, γραῖα γραίας, γαῖα γαίας, Μήδεια Μηδείας (τὸ γὰρ “Μηδείης
             ὑπ᾿ ἔρωτι” Ἰωνικόν ἐστι), Κράτεια Κρατείας, Ἀλεξάνδρεια Ἀλεξανδρείας, <placeName>Καισάρεια</placeName>
-        <placeName>Καισαρείας</placeName>, Ἀντιόχεια Ἀντιοχείας.<ab type="source" source="#bib228-1"/><idno type="CTS-URN"/><ref target="urn:cts:greekLit:tlg0087.tlg011.1st1K-grc1:2.2.4.127"/><note>Ed. Hilgard
-               1889</note></ab>
+        <placeName>Καισαρείας</placeName>, Ἀντιόχεια Ἀντιοχείας.<ab type="source" source="#bib228-1"/>
+        <idno type="CTS-URN"/>
+        <ref target="urn:cts:greekLit:tlg0087.tlg011.1st1K-grc1:2.2.4.127"/>
+        <note>Ed. Hilgard
+               1889</note>
+      </ab>
       <ab type="translation" xml:lang="en" xml:id="quote228-2">
         <anchor xml:id="testimonia-228.en.1" corresp="#testimonia-228.grc.1"/>As for feminine nouns ending -a, if they have pure -a (i.e., no
             preceding consonant), r before -a, or long -a, it persists also in the genitive, I mean

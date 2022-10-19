@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -243,7 +245,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Letters</title> <ref n="a" target="#bib324-1">33.1</ref> written by <persName role="author" ref="http://viaf.org/viaf/309472433">Jerome</persName> in <origDate notBefore="" notAfter="" period="#">NaN CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Letters</title> <ref n="a" target="#bib324-1">33.1</ref> written by <persName role="author" ref="http://viaf.org/viaf/309472433">Jerome</persName> in <origDate notBefore="0369" notAfter="0399" period="#byzantine">ca. 384 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</creation>
       <langUsage>
         <language ident="la">Latin</language>
       </langUsage>
@@ -264,7 +266,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/324</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract324-1">Caesarea Maritima is indirectly attested at <persName role="author" ref="http://viaf.org/viaf/309472433">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Letters</title> <ref n="a" target="#bib324-1">33.1</ref>. This passage was written ca. <origDate notBefore="" notAfter="" period="#">NaN CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract324-1">Caesarea Maritima is indirectly attested at <persName role="author" ref="http://viaf.org/viaf/309472433">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Letters</title> <ref n="a" target="#bib324-1">33.1</ref>. This passage was written ca. <origDate notBefore="0369" notAfter="0399" period="#byzantine">ca. 384 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
       <desc type="context">Among the voluminous correspondence of St. Jerome is this letter,
             written at the end of his service to Pope Damasus I at Rome and addressed to Paula, a
             wealthy widow who belonged to his circle in the Imperial capital. At the opening he
@@ -278,7 +280,11 @@
             potest, et quia nunc otiosum est apud Latinos Graecorum voluminum indicem texere, de eo,
             qui Latine scripsit, aliqua commemorabo, ut intellegamus nos Epimenidis dormire somnum
             et studium, quod illi posuerunt in eruditione saecularium litterarum, in congregandis
-            opibus ponere.<ab type="source" source="#bib324-1"/><idno type="CTS-URN"/><ref/><note xml:lang="en" type="textual">Ed. Hilberg and Slovak 1996</note></ab>
+            opibus ponere.<ab type="source" source="#bib324-1"/>
+        <idno type="CTS-URN"/>
+        <ref/>
+        <note xml:lang="en" type="textual">Ed. Hilberg and Slovak 1996</note>
+      </ab>
       <ab type="translation" xml:lang="en" xml:id="quote324-2">
         <anchor xml:id="testimonia-324.en.1" corresp="#testimonia-324.la.1"/>Antiquity marvels at Marcus Terentius Varro, because of the
             countless books which he wrote for Latin readers. Greek writers are extravagant in their
@@ -287,7 +293,11 @@
             writings, I shall confine myself to the one (sc. Varro) who wrote in Latin. I intend for
             us to understand that we are sleeping the sleep of Epimenides and devoting to the
             accrual of wealth the zeal that our predecessors gave to learning in secular
-               literature.<ab type="source" source="#bib324-2"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="translation">Rev. Fremantle 1893</note></ab>
+               literature.<ab type="source" source="#bib324-2"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        <note xml:lang="en" type="translation">Rev. Fremantle 1893</note>
+      </ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib324-1">

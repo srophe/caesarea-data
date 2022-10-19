@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -244,7 +246,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Commentary on Daniel</title> <ref n="a" target="#bib323-1">11.44-45.425-445</ref> written by <persName ref=" http://viaf.org/viaf/175367750" role="author">Jerome</persName> in <origDate notBefore="" notAfter="" period="#">NaN CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Commentary on Daniel</title> <ref n="a" target="#bib323-1">11.44-45.425-445</ref> written by <persName ref=" http://viaf.org/viaf/175367750" role="author">Jerome</persName> in <origDate notBefore="0392" notAfter="0422" period="#byzantine">ca. 407 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</creation>
          <langUsage>
             <language ident="la">Latin</language>
          </langUsage>
@@ -265,7 +267,9 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/323</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract323-1">and <quote><placeName>Caesarea</placeName></quote> is directly attested at <persName ref=" http://viaf.org/viaf/175367750" role="author">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Commentary on Daniel</title> <ref n="a" target="#bib323-1">11.44-45.425-445</ref>. This passage was written ca. <origDate notBefore="" notAfter="" period="#">NaN CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</desc>
+         <desc type="abstract" xml:id="abstract323-1">and <quote>
+          <placeName>Caesarea</placeName>
+        </quote> is directly attested at <persName ref=" http://viaf.org/viaf/175367750" role="author">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Commentary on Daniel</title> <ref n="a" target="#bib323-1">11.44-45.425-445</ref>. This passage was written ca. <origDate notBefore="0392" notAfter="0422" period="#byzantine">ca. 407 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</desc>
          <desc type="context">In the years after completing his Latin translation of the Bible
             (Vulgata), St. Jerome devoted himself to scriptural exegesis, whether in response to his
             theological forebears or in original research. One of his most influential works is the
@@ -287,8 +291,13 @@
             usque ad summitatem montis eius,”—hoc est montanae provinciae, id est verticem montis
             Oliveti, qui inclutus vocatur quia ex eo Dominus atque Salvator ascendit ad Patrem—“et
             nullus Antichristo poterit auxiliari, contra se domino saeviente.” et asserunt: ibi
-            Antichristum esse periturum unde Dominus ascendit ad caelos.<ab type="source" source="#bib323-1"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="textual">Ed.
-               Glorie 1964</note><note xml:lang="en" type="textual">Minor corr. J. L. Rife</note></ab>
+            Antichristum esse periturum unde Dominus ascendit ad caelos.<ab type="source" source="#bib323-1"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        <note xml:lang="en" type="textual">Ed.
+               Glorie 1964</note>
+        <note xml:lang="en" type="textual">Minor corr. J. L. Rife</note>
+      </ab>
          <ab type="translation" xml:lang="en" xml:id="quote323-2">
         <anchor xml:id="testimonia-323.en.1" corresp="#testimonia-323.la.1"/>Our school explains the final chapter of this vision in relation to
             the Antichrist as follows. During his battle against the Egyptians, Libyans, and
@@ -305,7 +314,11 @@
             Mount of Olives, which is called famous because our Lord and Savior ascended from it to
             the Father—“and no one will be able to assist the Antichrist, as the Lord vents his fury
             against him.” Our school insists that the Antichrist will perish in that place from
-            which the Lord ascended to heaven.<ab type="source" source="#bib323-2"/><idno type="CTS-URN"/><ref target="http://www.tertullian.org/fathers/jerome_daniel_02_text.htm"/><note xml:lang="en" type="translation">Rev. Archer 1958</note></ab>
+            which the Lord ascended to heaven.<ab type="source" source="#bib323-2"/>
+        <idno type="CTS-URN"/>
+        <ref target="http://www.tertullian.org/fathers/jerome_daniel_02_text.htm"/>
+        <note xml:lang="en" type="translation">Rev. Archer 1958</note>
+      </ab>
          <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib323-1">

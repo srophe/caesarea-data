@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -243,7 +245,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Letters</title> <ref n="g" target="#bib299-1">119.6</ref> written by <persName role="author" ref="http://viaf.org/viaf/309472433">Jerome</persName> in <origDate notBefore="" notAfter="" period="#">NaN CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Letters</title> <ref n="g" target="#bib299-1">119.6</ref> written by <persName role="author" ref="http://viaf.org/viaf/309472433">Jerome</persName> in <origDate notBefore="0391" notAfter="0421" period="#byzantine">ca. 406 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</creation>
       <langUsage>
         <language ident="la">Latin</language>
       </langUsage>
@@ -264,7 +266,12 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/299</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract299-1"><quote><placeName>Caesareae</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/309472433">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Letters</title> <ref n="g" target="#bib299-1">119.6</ref>. This passage was written ca. <origDate notBefore="" notAfter="" period="#">NaN CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract299-1">
+        <quote>
+          <placeName>Caesareae</placeName>
+        </quote>, and <quote>
+          <placeName>Caesarea</placeName>
+        </quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/309472433">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Letters</title> <ref n="g" target="#bib299-1">119.6</ref>. This passage was written ca. <origDate notBefore="0391" notAfter="0421" period="#byzantine">ca. 406 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</desc>
       <desc type="context">Among the voluminous correspondence of St. Jerome is this letter,
             which he wrote to Minervius and Alexander, two monks in Toulouse (Roman Tolosa). They
             had asked him to analyze several scriptural passages and he replied with commentary on
@@ -276,8 +283,12 @@
             proponens sibi hanc eandem quaestionem latius disputavit et utrumque suscipiens, quod
             inter se videtur esse contrarium, post principium, quod omisimus, sic locutus est:
             “dicamus primum de eo, quod magis in plurimis codicibus invenitur: ecce mysterium dico
-            vobis: omnes quidem dormiemus, non omnes autem inmutabimur. …”<ab type="source" source="#bib299-1"/><idno type="CTS-URN"/><ref/><note xml:lang="en" type="textual">Ed.
-               Hilberg and Slovak 1996</note></ab>
+            vobis: omnes quidem dormiemus, non omnes autem inmutabimur. …”<ab type="source" source="#bib299-1"/>
+        <idno type="CTS-URN"/>
+        <ref/>
+        <note xml:lang="en" type="textual">Ed.
+               Hilberg and Slovak 1996</note>
+      </ab>
       <ab type="translation" xml:lang="en" xml:id="quote299-2">
         <anchor xml:id="testimonia-299.en.1" corresp="#testimonia-299.la.1"/>Acacius, who after Eusebius Pamphili was bishop of <placeName>Caesarea</placeName>, which was formerly called Strato’s Tower, in
             Miscellaneous Questions 4 posed this same question to himself and debated it rather
