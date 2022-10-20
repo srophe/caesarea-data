@@ -266,7 +266,7 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/313</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract313-1">Caesarea Maritima is indirectly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Suda</title> <ref target="#bib313-1">ω 182.618.13-35</ref>. This passage was written ca. <origDate notBefore="0976" notAfter="0990" period="#earlyIslamic">976-990 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+         <desc type="abstract" xml:id="abstract313-1">Caesarea Maritima is indirectly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Suda</title> <ref n="f" target="#bib313-1">ω 182.618.13-35</ref>. This passage was written ca. <origDate notBefore="0976" notAfter="0990" period="#earlyIslamic">976-990 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
          <desc type="context">The <title>Suda</title> (“Stronghold”) is an encyclopedic lexicon
             written by an unknown scholar during the late 10th century. It compiles copious
             information in alphabetical entries for use by the learned philologist, in particular on

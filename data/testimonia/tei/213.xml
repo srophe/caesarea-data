@@ -269,7 +269,7 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/213</idno>
          </ab>
          <desc type="abstract" xml:id="abstract213-1"><quote><placeName>Cesaire</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/34451801">Matthew Paris</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Itinerary from London to
-               Jerusalem</title> <ref target="#bib213-1">16</ref>. This passage was written ca. <origDate notBefore="1250" notAfter="1259" period="#crusader">1250-1259 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/79739">St. Albans</origPlace>.</desc>
+               Jerusalem</title> <ref n="a" target="#bib213-1">16</ref>. This passage was written ca. <origDate notBefore="1250" notAfter="1259" period="#crusader">1250-1259 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/79739">St. Albans</origPlace>.</desc>
          <desc type="context">Matthew Paris was an English historian, cartographer, and Benedictine
             monk who lived at St. Albans Abbey in Hertfordshire from 1217 until his death in ca.
             1259. He wrote a massive history of the world from the Creation to his own lifetime in

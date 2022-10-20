@@ -283,7 +283,7 @@
       </ab>
       <desc type="abstract" xml:id="abstract163-1"><quote><placeName>τὴν Καίσαρος
         πόλιν</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="https://viaf.org/viaf/8181546" role="author">Evagrius Scholasticus </persName>, <title xml:lang="en" type="uniform" level="m">Church
-          History</title> <ref target="#bib163-1">4.7a</ref>. This passage was written ca. <origDate period="#byzantine" when="0593">0593 0598</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/658381">Antioch on the
+          History</title> <ref n="b" target="#bib163-1">4.7a</ref>. This passage was written ca. <origDate period="#byzantine" when="0593">0593 0598</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/658381">Antioch on the
         Orontes</origPlace>.</desc>
       <desc type="context">Evagrius Scholasticus came from a background of wealth and education in
         Syria. He rose to prominence in the circles of power in the early Byzantine empire and

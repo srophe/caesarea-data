@@ -308,7 +308,7 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/392</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract392-1">Caesarea Maritima is indirectly attested at <persName role="author" ref="http://viaf.org/viaf/95147024">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Apology Against Rufinus</title> <ref target="#bib392-1">2.18</ref>. This passage was written ca. <origDate when="0401" period="#byzantine">401 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</desc>
+         <desc type="abstract" xml:id="abstract392-1">Caesarea Maritima is indirectly attested at <persName role="author" ref="http://viaf.org/viaf/95147024">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Apology Against Rufinus</title> <ref n="b" target="#bib392-1">2.18</ref>. This passage was written ca. <origDate when="0401" period="#byzantine">401 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</desc>
          <desc type="context">In a long letter he wrote to his associates Pammachius and Marcella in
             401, Jerome struck at first a defensive and then an offensive stance in the ongoing
             Origenist controversy that had embroiled the episcopate of Jerusalem since the early

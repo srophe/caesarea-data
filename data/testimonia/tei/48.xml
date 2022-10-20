@@ -269,7 +269,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/48</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract48-1">and <quote><placeName>Caesarea</placeName></quote> is directly attested at <persName ref="http://viaf.org/viaf/25393339 " role="author">Apollonius of Tyana</persName>, <title xml:lang="en" type="uniform" level="m">Letters</title> <ref target="#bib48-1">11</ref>. This passage was written ca. <origDate period="#nabateanKingdom #earlyRoman #herodian #middleNabatean" notBefore="0004" notAfter="0097">0045 0090</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/837">Asia Minor</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract48-1">and <quote><placeName>Caesarea</placeName></quote> is directly attested at <persName ref="http://viaf.org/viaf/25393339 " role="author">Apollonius of Tyana</persName>, <title xml:lang="en" type="uniform" level="m">Letters</title> <ref n="a" target="#bib48-1">11</ref>. This passage was written ca. <origDate period="#nabateanKingdom #earlyRoman #herodian #middleNabatean" notBefore="0004" notAfter="0097">0045 0090</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/837">Asia Minor</origPlace>.</desc>
       <desc type="context">[Ἀπολλώνιος] <placeName>Καισαρέων</placeName> προβούλοις. Πρῶτον εἰς
         πάντα θεῶν ἄνθρωποι δέονται καὶ περὶ παντός, ἔπειτα πόλεων, τιμητέον γὰρ δεύτερον πόλεις
         μετὰ θεοὺς καὶ τὰ πόλεως προκριτέον παντὶ νοῦν ἔχοντι. εἰ δὲ μὴ πόλις μόνον εἴη, ἀλλὰ καὶ

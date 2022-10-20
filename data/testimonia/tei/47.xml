@@ -269,7 +269,7 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/47</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract47-1"><quote><placeName>Στράτωνος πύργος</placeName></quote>, and <quote><placeName>Straton’s Tower</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/26128054">Artemidorus of Ephesus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Geographic Description</title> <ref target="#bib47-1">fr. 111</ref>. This passage was written ca. <origDate notBefore="0085" notAfter="0115" period="#nabateanKingdom #earlyRoman">ca. 100 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/599612">Ephesus</origPlace>.</desc>
+         <desc type="abstract" xml:id="abstract47-1"><quote><placeName>Στράτωνος πύργος</placeName></quote>, and <quote><placeName>Straton’s Tower</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/26128054">Artemidorus of Ephesus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Geographic Description</title> <ref n="a" target="#bib47-1">fr. 111</ref>. This passage was written ca. <origDate notBefore="0085" notAfter="0115" period="#nabateanKingdom #earlyRoman">ca. 100 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/599612">Ephesus</origPlace>.</desc>
          <desc type="context">Artemidorus of Ephesus was a Late Hellenistic geographer whose work
             was much studied by scholars of the Roman and Byzantine eras. His major work,
                <title>Geographic Description</title> (Γεωγραφουμένα), described the earth from west

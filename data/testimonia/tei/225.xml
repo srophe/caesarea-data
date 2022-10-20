@@ -268,7 +268,7 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/225</idno>
       </ab>
       <desc type="abstract" xml:id="abstract225-1">and <quote><placeName>Caesarea</placeName></quote> is directly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Exhibit of the Whole World and its
-               Peoples</title> <ref target="#bib225-1">26</ref>. This passage was written ca. <origDate notBefore="0500" notAfter="0600" period="#byzantine">500-600 CE</origDate> possibly in <origPlace/>.</desc>
+               Peoples</title> <ref n="a" target="#bib225-1">26</ref>. This passage was written ca. <origDate notBefore="0500" notAfter="0600" period="#byzantine">500-600 CE</origDate> possibly in <origPlace/>.</desc>
       <desc type="context">
         <title>Exhibit of the Whole World and its Peoples</title> was composed by
         a learned resident of the eastern Roman Empire during the reign of Constantius II, probably

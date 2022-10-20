@@ -276,7 +276,7 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/150</idno>
       </ab>
       <desc type="abstract" xml:id="abstract150-1"><quote><placeName>Παλαιστίνῃ Καισαρείας</placeName></quote>, and <quote><placeName>Caesarea in Palestine</placeName></quote> are directly attested at <persName ref="https://viaf.org/viaf/55571017" role="author">Socrates of Constantinople</persName>, <title xml:lang="en" type="uniform" level="m">Church
-          History</title> <ref target="#bib150-1">2.4</ref>. This passage was written ca. <origDate period="#byzantine" when="0439">0439 0450</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+          History</title> <ref n="a" target="#bib150-1">2.4</ref>. This passage was written ca. <origDate period="#byzantine" when="0439">0439 0450</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
       <desc type="context">Socrates of Constantinople, the “Scholastic,” was an otherwise unknown
         historian during the reign of Theodosius II during the early 5th century. He wrote his
         account of the Church from 305 to 439 to continue Eusebius of Caesarea, adopting a

@@ -270,7 +270,7 @@
          </ab>
          <desc type="abstract" xml:id="abstract328-1"><quote><placeName>Καισαρείᾳ τῆς
                Παλαιστίνης</placeName></quote>, and <quote><placeName>Caesarea Palestinae</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/61550437" role="author">Palladius of
-               Galatia</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg2111.tlg001" type="uniform" level="m">History for Lausus</title> <ref target="#bib328-1">70</ref>. This passage was written ca. <origDate notBefore="0419" notAfter="0420" period="#byzantine">419-420 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/619161">Aspuna</origPlace>.</desc>
+               Galatia</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg2111.tlg001" type="uniform" level="m">History for Lausus</title> <ref n="b" target="#bib328-1">70</ref>. This passage was written ca. <origDate notBefore="0419" notAfter="0420" period="#byzantine">419-420 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/619161">Aspuna</origPlace>.</desc>
          <desc type="context">During an era of revolutionary religious practice and intense
             theological debate, Palladius wrote one of the most influential works of Late Antiquity:
             a collection of biographies of holy persons, his<title>History for Lausus</title>.

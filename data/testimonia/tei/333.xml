@@ -266,7 +266,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/333</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract333-1">Caesarea Maritima is indirectly attested at <persName role="author" ref="http://viaf.org/viaf/309472433">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Letters</title> <ref target="#bib333-1">33.4-6</ref>. This passage was written ca. <origDate notBefore="0369" notAfter="0399" period="#byzantine">ca. 384 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract333-1">Caesarea Maritima is indirectly attested at <persName role="author" ref="http://viaf.org/viaf/309472433">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Letters</title> <ref n="b" target="#bib333-1">33.4-6</ref>. This passage was written ca. <origDate notBefore="0369" notAfter="0399" period="#byzantine">ca. 384 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
       <desc type="context">Among the voluminous correspondence of St. Jerome is this letter, written
         at the end of his service to Pope Damasus I at Rome and addressed to Paula, a wealthy widow
         who belonged to his circle in the Imperial capital. At the end he pivots from Varro to

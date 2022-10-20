@@ -268,7 +268,7 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/221</idno>
       </ab>
       <desc type="abstract" xml:id="abstract221-1"><quote><placeName>Cesarie</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Pilgrimages and Pardons of
-               Acre</title> <ref target="#bib221-1">1.1</ref>. This passage was written ca. <origDate notBefore="1258" notAfter="1263" period="#crusader">1258-1263 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
+               Acre</title> <ref n="a" target="#bib221-1">1.1</ref>. This passage was written ca. <origDate notBefore="1258" notAfter="1263" period="#crusader">1258-1263 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
       <desc type="context">The work written by an unknown pilgrim during the third quarter of the
         13th century survives in one manuscript in Anglo-Norman French of the 14th century. It has
         two parts, the first describing an itinerary that abbreviates <title>Ways and

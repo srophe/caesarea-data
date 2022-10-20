@@ -263,16 +263,8 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/340</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract340-1">
-        <quote>
-          <placeName xml:lang="grc">τὴν ἐπισκοπὴν Καισαρείας</placeName>
-        </quote>, <quote>
-          <placeName xml:lang="grc">τῆς ἐν Παλαιστίνῃ Καισαρείας</placeName>
-        </quote>, <quote>
-          <placeName xml:lang="en">Bishopric of Cæsarea.</placeName>
-        </quote>,  and <quote>
-          <placeName xml:lang="en">of Cæsarea in Palestine,</placeName>
-        </quote> are place names attested in <persName ref="https://viaf.org/viaf/55571017" role="author">Socrates Scholasticus </persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg2057.tlg002" type="uniform" level="m">Ecclesiastical History</title> <ref>2.9.1-5</ref> This testimonium was written circa <origDate period="#byzantine" when="0439">439 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract340-1"><quote><placeName>Καισαρείᾳ</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="https://viaf.org/viaf/55571017" role="author">Socrates of Constantinople</persName>, <title xml:lang="en" type="uniform" level="m">Church
+          History</title> <ref n="b" target="#bib340-1">2.9.1-5</ref>. This passage was written ca. <origDate period="#byzantine" when="0439">439 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
       <desc type="context">Socrates of Constantinople, the “Scholastic,” was an otherwise unknown
         historian during the reign of Theodosius II during the early 5th century. He wrote his
         account of the Church from 305 to 439 to continue Eusebius of Caesarea, adopting a

@@ -265,7 +265,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/311</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract311-1"><quote><placeName>Cesaire</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Pilgrimages to Jerusalem</title> <ref target="#bib311-1">1-4</ref>. This passage was written ca. <origDate notBefore="1250" notAfter="1295" period="#crusader #lateIslamic">1250-1295 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract311-1"><quote><placeName>Cesaire</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Pilgrimages to Jerusalem</title> <ref n="a" target="#bib311-1">1-4</ref>. This passage was written ca. <origDate notBefore="1250" notAfter="1295" period="#crusader #lateIslamic">1250-1295 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
       <desc type="context">A late-13th-century guide for pilgrims to Jerusalem and Galilee of
         unknown authorship survives under the title <title>Les pelerinaiges por aler en
           Iherusalem</title>. It appears at the end of a French translation and continuation of the

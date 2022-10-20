@@ -271,7 +271,7 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/329</idno>
          </ab>
          <desc type="abstract" xml:id="abstract329-1">Caesarea Maritima is indirectly attested at <persName role="author" ref="http://viaf.org/viaf/61550437">Palladius of Galatia</persName>, <title xml:lang="en" type="uniform" level="m">History
-               for Lausus</title> <ref target="#bib329-1">64</ref>. This passage was written ca. <origDate notBefore="0419" notAfter="0420" period="#byzantine">0419 0420</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/619161">Aspuna</origPlace>.</desc>
+               for Lausus</title> <ref n="a" target="#bib329-1">64</ref>. This passage was written ca. <origDate notBefore="0419" notAfter="0420" period="#byzantine">0419 0420</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/619161">Aspuna</origPlace>.</desc>
          <desc type="context">During an era of revolutionary religious practice and intense
             theological debate, Palladius wrote one of the most influential works of Late Antiquity:
             a collection of biographies of holy persons, his <title>History for Lausus</title>.

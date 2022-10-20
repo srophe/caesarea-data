@@ -270,7 +270,7 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/245</idno>
       </ab>
       <desc type="abstract" xml:id="abstract245-1"><quote><placeName>Καισάρεια</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Easter
-          Chronicle</title> <ref target="#bib245-1">62.8-19</ref>. This passage was written ca. <origDate notBefore="0615" notAfter="0645" period="#byzantine #earlyIslamic">ca. 630 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+          Chronicle</title> <ref n="a" target="#bib245-1">62.8-19</ref>. This passage was written ca. <origDate notBefore="0615" notAfter="0645" period="#byzantine #earlyIslamic">ca. 630 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
       <desc type="context">The so-called <title>Easter Chronicle</title> (<title>Chronicon
           paschale</title>) is a universal history from the Creation down to the later reign of
         Heraclius, when it was composed, based on an amalgam of biblical, Christian, and secular

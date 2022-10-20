@@ -270,12 +270,7 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/407</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract407-1">
-        <quote>
-          <placeName>Στράτων[ο]ς πύ(ργῳ)</placeName>
-        </quote>, and <quote>
-          <placeName>Stato’s Tower</placeName>
-        </quote> are directly attested at <persName ref="" role="author">Zenon</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Itinerary, P.Zenon</title> <ref target="#bib407-1">59004.1-13</ref>. This passage was written ca. <origDate notBefore="-0259" notAfter="" period="#earlyHellenistic #hellenistic #earlyNabatean">259 BCE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Syria-Palestine</origPlace>.</desc>
+         <desc type="abstract" xml:id="abstract407-1"><quote><placeName>Στράτων[ο]ς πύ(ργῳ)</placeName></quote>, and <quote><placeName>Stato’s Tower</placeName></quote> are directly attested at <persName ref="" role="author">Zenon</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Itinerary, P.Zenon</title> <ref n="a" target="#bib407-1">59004.1-13</ref>. This passage was written ca. <origDate notBefore="-0259" notAfter="" period="#earlyHellenistic #hellenistic #earlyNabatean">259 BCE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Syria-Palestine</origPlace>.</desc>
          <desc type="context">Zenon, a native of Kaunos in southwestern Asia Minor, worked in
             Philadelphia in Middle Egypt as the secretary of Apollonius, an advisor for finances and
             land (διοικήτης) under Ptolemy II Philadelphus, the Greek king of Egypt during the first

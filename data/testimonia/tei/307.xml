@@ -266,7 +266,7 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/307</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract307-1"><quote><placeName>Cesaream Palestinae</placeName></quote>, and <quote><placeName>Caesarea Palestinae</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/79068112">Adomnán</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Holy Places</title> <ref target="#bib307-1">1.20</ref>. This passage was written ca. <origDate notBefore="0695" notAfter="0698" period="#earlyIslamic">695-698 CE</origDate> possibly in <origPlace>Iona</origPlace>.</desc>
+         <desc type="abstract" xml:id="abstract307-1"><quote><placeName>Cesaream Palestinae</placeName></quote>, and <quote><placeName>Caesarea Palestinae</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/79068112">Adomnán</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Holy Places</title> <ref n="a" target="#bib307-1">1.20</ref>. This passage was written ca. <origDate notBefore="0695" notAfter="0698" period="#earlyIslamic">695-698 CE</origDate> possibly in <origPlace>Iona</origPlace>.</desc>
          <desc type="context">Adomnán (Adamnanus) was a jurist and hagiographer who served as the
             abbot of the monastery on the island of Iona in 679-704 C.E. His writings provide
             important testimony for the culture and religion of Early Medieval Scotland. Among them

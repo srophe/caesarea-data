@@ -273,7 +273,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/1</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract1-1">Caesarea Maritima is indirectly attested at <persName ref="http://viaf.org/viaf/30151776786218011787" role="author">Philo</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Embassy to Gaius</title> <ref target="#bib1-1">37.299</ref>. This passage was written ca. <origDate notBefore="0040" notAfter="" period="#nabateanKingdom #earlyRoman #herodian #middleNabatean">40 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/727070">Alexandria</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract1-1">Caesarea Maritima is indirectly attested at <persName ref="http://viaf.org/viaf/30151776786218011787" role="author">Philo</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Embassy to Gaius</title> <ref n="b" target="#bib1-1">37.299</ref>. This passage was written ca. <origDate notBefore="0040" notAfter="" period="#nabateanKingdom #earlyRoman #herodian #middleNabatean">40 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/727070">Alexandria</origPlace>.</desc>
       <desc type="context">Philo was a Jewish philosopher and historian who flourished at
             Alexandria during the first generations of Roman provincial rule in Egypt. His
             voluminous writings are marked by their learning, variety, and fusion of Hellenistic

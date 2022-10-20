@@ -268,7 +268,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/274</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract274-1">Caesarea Maritima is indirectly attested at <persName ref="http://viaf.org/viaf/95147024" role="author">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref target="#bib274-1">181d-e</ref>. This passage was written ca. <origDate notBefore="0380" notAfter="0381" period="#byzantine">380-381 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract274-1">Caesarea Maritima is indirectly attested at <persName ref="http://viaf.org/viaf/95147024" role="author">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref n="d" target="#bib274-1">181d-e</ref>. This passage was written ca. <origDate notBefore="0380" notAfter="0381" period="#byzantine">380-381 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
       <desc type="context">St. Jerome undertook to write a universal history of the world early
             in his illustrious career. His work translated and annotated the second half of
             Eusebius’ work, finished over a half century earlier, which was organized as a tabulated

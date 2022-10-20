@@ -265,7 +265,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/293</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract293-1"><quote><placeName>Caesareae</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/95147024" role="author">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Book of Places</title> <ref target="#bib293-1">137</ref>. This passage was written ca. <origDate notBefore="0390" notAfter="0420" period="#byzantine">390-420 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract293-1"><quote><placeName>Caesareae</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/95147024" role="author">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Book of Places</title> <ref n="d" target="#bib293-1">137</ref>. This passage was written ca. <origDate notBefore="0390" notAfter="0420" period="#byzantine">390-420 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</desc>
       <desc type="context">In his lexicon of place names in Hebrew Scripture, Jerome wrote that
         Nafeddor, named at <title>Joshua</title> 11:12, was located near Caesarea on the road to
         Ptolemaïs (Akko), repeating his lemma under Dor Nafeth (79). He also cited the Greek

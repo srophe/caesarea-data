@@ -270,7 +270,7 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/352</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract352-1">Caesarea Maritima is indirectly attested at <persName ref="http://viaf.org/viaf/39386582" role="author">George Syncellus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Chronographic Selection</title> <ref target="#bib352-1">605.9-605.19</ref>. This passage was written ca. <origDate notBefore="0808" notAfter="0815" period="#earlyIslamic">808-815 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+         <desc type="abstract" xml:id="abstract352-1">Caesarea Maritima is indirectly attested at <persName ref="http://viaf.org/viaf/39386582" role="author">George Syncellus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Chronographic Selection</title> <ref n="d" target="#bib352-1">605.9-605.19</ref>. This passage was written ca. <origDate notBefore="0808" notAfter="0815" period="#earlyIslamic">808-815 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
          <desc type="context">George Syncellus (“cellmate”), whose career spanned the late 8th to
             very early 9th centuries, was a Palestinian monk before his appointment as the assistant
             to Tarasius, Patriarch of Contantinople. Apparently facing hostility from the emperor

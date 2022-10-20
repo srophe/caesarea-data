@@ -268,7 +268,7 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/320</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract320-1"><quote><placeName>Καισαρεὺς ἐκ Παλαιστίνης</placeName></quote>, and <quote><placeName>Caesarea in Palestine</placeName></quote> are directly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Suda</title> <ref target="#bib320-1">π 2479</ref>. This passage was written ca. <origDate notBefore="0976" notAfter="0990" period="#earlyIslamic">976-990 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+         <desc type="abstract" xml:id="abstract320-1"><quote><placeName>Καισαρεὺς ἐκ Παλαιστίνης</placeName></quote>, and <quote><placeName>Caesarea in Palestine</placeName></quote> are directly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Suda</title> <ref n="d" target="#bib320-1">π 2479</ref>. This passage was written ca. <origDate notBefore="0976" notAfter="0990" period="#earlyIslamic">976-990 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
          <desc type="context">The <title>Suda</title> (“Stronghold”) is an encyclopedic lexicon
             written by an unknown scholar during the late 10th century. It compiles copious
             information in alphabetical entries for use by the learned philologist, in particular on

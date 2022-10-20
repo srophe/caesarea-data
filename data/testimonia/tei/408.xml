@@ -270,12 +270,7 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/408</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract408-1">
-        <quote>
-          <placeName>Καισάρεια⟨ν⟩</placeName>
-        </quote>, and <quote>
-          <placeName>Caesarea</placeName>
-        </quote> are directly attested at <persName ref="" role="author">Apammon</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Letter to Dorotheos, P.Oxy.</title> <ref target="#bib408-1">LVI 3864</ref>. This passage was written ca. <origDate notBefore="0400" notAfter="0499" period="#byzantine">400-499 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/727221">Chaireou</origPlace>.</desc>
+         <desc type="abstract" xml:id="abstract408-1"><quote><placeName>Καισάρεια⟨ν⟩</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="" role="author">Apammon</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Letter to Dorotheos, P.Oxy.</title> <ref n="a" target="#bib408-1">LVI 3864</ref>. This passage was written ca. <origDate notBefore="0400" notAfter="0499" period="#byzantine">400-499 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/727221">Chaireou</origPlace>.</desc>
          <desc type="context">This Late Roman papyrus contains a letter written by one pious Apammon
             probably in Chaireou, the harbor at the junction of the canal from Alexandria with the
             Canopic branch of the Nile, to his “father” Dorotheus in Oxyrhynchus. N. Gonis (2000)

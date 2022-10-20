@@ -273,7 +273,7 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/133</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract133-1"><quote><placeName>Καισάρειαν Παλαιστίνης,</placeName></quote>, <quote><placeName>Στράτωνος Πύργον</placeName></quote>, <quote><placeName>Caesarea Palestinae</placeName></quote>, and <quote><placeName>Strato’s Tower</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/88969561" role="author">John Malalas</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref target="#bib133-1">9.17</ref>. This passage was written ca. <origDate notBefore="0530" notAfter="0532" period="#byzantine">530-532 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/658381">Antioch on the
+         <desc type="abstract" xml:id="abstract133-1"><quote><placeName>Καισάρειαν Παλαιστίνης,</placeName></quote>, <quote><placeName>Στράτωνος Πύργον</placeName></quote>, <quote><placeName>Caesarea Palestinae</placeName></quote>, and <quote><placeName>Strato’s Tower</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/88969561" role="author">John Malalas</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref n="a" target="#bib133-1">9.17</ref>. This passage was written ca. <origDate notBefore="0530" notAfter="0532" period="#byzantine">530-532 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/658381">Antioch on the
                Orontes</origPlace>.</desc>
          <desc type="context">John Malalas, a moniker probably derived from Aramaic
                <foreign>malolo</foreign> meaning “orator”, was an educated Syrian who moved from

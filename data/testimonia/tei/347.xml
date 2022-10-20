@@ -270,13 +270,8 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/347</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract347-1">
-        <quote>
-          <placeName>Καισαρείᾳ τῇ
-               Στράτωνος</placeName>
-        </quote>, and <quote>
-          <placeName>Straton’s Caesarea</placeName>
-        </quote> are directly attested at <persName ref="http://viaf.org/viaf/248629519" role="author">George the Monk</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref target="#bib347-1">1.373.13-1.374.3</ref>. This passage was written ca. <origDate notBefore="0845" notAfter="0865" period="#earlyIslamic">845-865 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+         <desc type="abstract" xml:id="abstract347-1"><quote><placeName>Καισαρείᾳ τῇ
+               Στράτωνος</placeName></quote>, and <quote><placeName>Straton’s Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/248629519" role="author">George the Monk</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref n="a" target="#bib347-1">1.373.13-1.374.3</ref>. This passage was written ca. <origDate notBefore="0845" notAfter="0865" period="#earlyIslamic">845-865 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
          <desc type="context">We know little about George the Monk (Monachus, or ὁ μοναχός)—who
             called himself “the sinner” (ὁ ἁμαρτωλός)—or the circumstances of his writing, only that
             he served the Church in Constantinople during the reign of Michael III (842-867). He

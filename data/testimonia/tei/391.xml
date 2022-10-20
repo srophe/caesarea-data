@@ -269,7 +269,7 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/391</idno>
          </ab>
          <desc type="abstract" xml:id="abstract391-1">Caesarea Maritima is indirectly attested at <persName role="author" ref=" http://viaf.org/viaf/103646160 ">Gregory of
-               Nyssa</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Life of Gregory the Miracle-Worker </title> <ref target="#bib391-1">905C-908D</ref>. This passage was written ca. <origDate notBefore="0380" notAfter="0385" period="#byzantine">380-385 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/857287">Pontus</origPlace>.</desc>
+               Nyssa</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Life of Gregory the Miracle-Worker </title> <ref n="a" target="#bib391-1">905C-908D</ref>. This passage was written ca. <origDate notBefore="0380" notAfter="0385" period="#byzantine">380-385 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/857287">Pontus</origPlace>.</desc>
          <desc type="context">Gregory of Nyssa was a learned theologian of the 4th century venerated
             as one of the so-called Cappadocian Fathers. Raised in a prominent Christian family in
             Pontus, he became bishop of Nyssa in Cappadocia in 372, while his famous brother Basil

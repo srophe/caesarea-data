@@ -270,7 +270,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/142</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract142-1">and <quote><placeName>Caesareae</placeName></quote> is directly attested at <persName ref="http://viaf.org/viaf/95147024 " role="author">Jerome</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg3389.tlg001" type="uniform" level="m">Illustrious Men</title> <ref target="#bib142-1">113</ref>. This passage was written ca. <origDate period="#byzantine" when="0392">0392
+      <desc type="abstract" xml:id="abstract142-1">and <quote><placeName>Caesareae</placeName></quote> is directly attested at <persName ref="http://viaf.org/viaf/95147024 " role="author">Jerome</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg3389.tlg001" type="uniform" level="m">Illustrious Men</title> <ref n="i" target="#bib142-1">113</ref>. This passage was written ca. <origDate period="#byzantine" when="0392">0392
           0393</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</desc>
       <desc type="context">Among his many works, St. Jerome wrote a catalog of renowned thinkers of
         the Roman world during the first years after his move from Rome to Bethlehem. In mostly

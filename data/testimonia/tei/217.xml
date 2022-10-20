@@ -268,7 +268,7 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/217</idno>
       </ab>
       <desc type="abstract" xml:id="abstract217-1"><quote><placeName>Καισαρείᾳ</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/13108540">Constantine
-               Porphyrogenitus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Plots</title> <ref target="#bib217-1">162.22-36</ref>. This passage was written ca. <origDate notBefore="0930" notAfter="0955" period="#earlyIslamic">930-955 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+               Porphyrogenitus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Plots</title> <ref n="a" target="#bib217-1">162.22-36</ref>. This passage was written ca. <origDate notBefore="0930" notAfter="0955" period="#earlyIslamic">930-955 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
       <desc type="context">Constantine VII Flavius Porphyrogenitus (“born in the purple”) ruled the
         Byzantine emperor as a member of the Macedonian dynasty in 913-959 C.E. Beyond the
         challenges he faced in managing Imperial authority and international relations throughout

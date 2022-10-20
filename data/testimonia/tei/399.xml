@@ -270,7 +270,7 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/399</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract399-1">Caesarea Maritima is indirectly attested at <persName ref="http://viaf.org/viaf/6200152139996611100009" role="author">Photius</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Library</title> <ref target="#bib399-1">1.1a3-6</ref>. This passage was written ca. <origDate notBefore="0845" notAfter="0855" period="#earlyIslamic">845-855 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+         <desc type="abstract" xml:id="abstract399-1">Caesarea Maritima is indirectly attested at <persName ref="http://viaf.org/viaf/6200152139996611100009" role="author">Photius</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Library</title> <ref n="a" target="#bib399-1">1.1a3-6</ref>. This passage was written ca. <origDate notBefore="0845" notAfter="0855" period="#earlyIslamic">845-855 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
          <desc type="context">Photius I was ecumenical patriarch of Constantinople in 858-867 and
             877-886, as well as an unparalleled intellectual luminary for his age. Apart from his
             distinguished ecclesiastical career, he engaged in polymathic teaching and research

@@ -269,7 +269,7 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/330</idno>
          </ab>
          <desc type="abstract" xml:id="abstract330-1">Caesarea Maritima is indirectly attested at <persName ref="http://viaf.org/viaf/95155322" role="author">Origen</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Letter to Gregory the
-               Miracle-Worker </title> <ref target="#bib330-1">1</ref>. This passage was written ca. <origDate notBefore="0235" notAfter="0238" period="#lateRoman">235-238 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</desc>
+               Miracle-Worker </title> <ref n="a" target="#bib330-1">1</ref>. This passage was written ca. <origDate notBefore="0235" notAfter="0238" period="#lateRoman">235-238 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</desc>
          <desc type="context">Origen was an intellectual luminary and influential theologian of the
             Church during the first half to middle of the 3rd century. He attracted a following of
             devout students and famous visitors at Alexandria until his departure under pressure

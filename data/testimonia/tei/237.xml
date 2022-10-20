@@ -265,7 +265,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/237</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract237-1">and <quote><placeName>Caesarea</placeName></quote> is directly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Bordeaux Itinerary</title> <ref target="#bib237-1">600.1-6</ref>. This passage was written ca. <origDate notBefore="0333" notAfter="0334" period="#byzantine">333-334 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract237-1">and <quote><placeName>Caesarea</placeName></quote> is directly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Bordeaux Itinerary</title> <ref n="c" target="#bib237-1">600.1-6</ref>. This passage was written ca. <origDate notBefore="0333" notAfter="0334" period="#byzantine">333-334 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
       <desc type="context">The earliest firsthand account of Christian pilgrimage that survives was
         written by an unknown man from Bordeaux in southwestern France (Roman
           <foreign>Burdigala</foreign>) who travelled overland to Syria and Palestine in 333-334
