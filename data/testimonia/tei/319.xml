@@ -279,11 +279,7 @@
         <anchor xml:id="testimonia-319.grc.1" corresp="#testimonia-319.en.1"/>
         ὅτι ἐπὶ Ἰοβιανοῦ ἦν Ἀκάκιος ἐπίσκοπος <placeName>Καισαρείας
                Παλαιστίνης</placeName>, ὃς λίβελλον ἔγραψε περὶ ὀρθοδόξου πίστεως, ἀποδεχόμενος τὴν
-            ἐν Νικαίᾳ σύνοδον.
-        
-        
-        
-      <ab type="source" source="#bib319-1"/>
+            ἐν Νικαίᾳ σύνοδον.<ab type="source" source="#bib319-1"/>
         <idno type="CTS-URN">https://archive.org/details/adler-a.-suidae-lexicon-3-./Adler%20A.%2C%20Suidae%20Lexicon%202%20%28%CE%94-%CE%98%29/page/638/mode/2up</idno>
         <note xml:lang="en" type="textual">Ed. Adler 1931</note>
       </ab>
@@ -292,8 +288,6 @@
             In the reign of
             Jovian, Acacius, who wrote a pamphlet about orthodox faith and accepted the synod at
             Nicaea, was bishop of <placeName>Caesarea Palestinae</placeName>.<note xml:lang="en" type="translation">Rev. SOL (trans. A. Ring et al., 2004-)</note>
-            
-            
             <idno type="CTS-URN"/>
             <ref target="http://www.cs.uky.edu/~raphael/sol/sol-entries/iota/401"/>
          </ab>
@@ -311,10 +305,6 @@
           <ptr target="https://caesarea-maritima.org/bibl/753625E4"/>
         </bibl>
       </listBibl>
-      
-      
-      
-      
     <note type="related-texts"/>
       <note type="geography">
         <p>Nicaea</p>

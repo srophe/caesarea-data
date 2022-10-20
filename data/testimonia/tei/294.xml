@@ -276,12 +276,7 @@
         Saron, cuius et Esaias meminit dicens “in paludes versus est Saron.”
             usque in praesentem autem diem regio inter montem Thabor et stagnum Tiberiadis Saronas
             appellatur. sed et a <placeName>Caesarea Palaestinae</placeName> usque ad oppidum Ioppe
-            omnis terra quae cernitur, dicitur Saronas.
-        
-        
-        
-        
-      <ab type="source" source="#bib294-1"/>
+            omnis terra quae cernitur, dicitur Saronas.<ab type="source" source="#bib294-1"/>
         <idno type="CTS-URN"/>
         <ref target="urn:cts:greekLit:tlg2018.tlg011.opp-lat1:18"/>
         <note xml:lang="en" type="textual">Ed. Klosterman
@@ -294,8 +289,6 @@
             called Saronas. All the land seen from <placeName>Caesarea Palestinae</placeName> as far
             as the town Joppa is also called Saronas.<note xml:lang="en" type="translation">Trans. J. L.
                Rife</note>
-        
-        
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -312,10 +305,6 @@
           <ptr target="https://caesarea-maritima.org/bibl/66T989F7"/>
         </bibl>
       </listBibl>
-    
-      
-      
-      
     <note type="related-texts">
         <p>Eusebius, Dictionary of Place Names 162</p>
         <p>Isaiah 33:9</p>

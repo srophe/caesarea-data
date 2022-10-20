@@ -275,13 +275,7 @@
         <anchor xml:id="testimonia-257.grc.1" corresp="#testimonia-257.en.1"/>
         Ἰάφεθ. κλήρου Ζαβουλών ἀνάβασίς, καλεῖται καὶ Ἰόππη. καὶ ἡ Συκάμινος δὲ
             ἀπιόντων εἰς Πτολεμαίδα ἀπὸ <placeName>Καισαρείας</placeName>, κώμη πάραλος πλησίον τοῦ
-            Καρμήλου, Ἡφὰ λέγεται.
-        
-        
-        
-        
-        
-      <ab type="source" source="#bib257-1"/>
+            Καρμήλου, Ἡφὰ λέγεται.<ab type="source" source="#bib257-1"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
         <note xml:lang="en">Ed. Klosterman 1904 [cited by page]</note>
@@ -292,8 +286,6 @@
             also Sykaminos for those traveling to Ptolemais from <placeName>Caesarea</placeName>, a
             coastal village near Carmel, called Hepha.<note xml:lang="en" type="translation">Trans. J. L.
                Rife</note>
-        
-        
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -304,10 +296,6 @@
           <citedRange unit="p">108</citedRange>
         </bibl>
       </listBibl>
-    
-      
-      
-      
     <note type="related-texts">
         <p>Jerome, Book of Places 109</p>
         <p>Joshua 9:12</p>

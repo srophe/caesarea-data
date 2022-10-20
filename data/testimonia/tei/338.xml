@@ -292,12 +292,7 @@
             Τύρον ἐπὶ ἔτη κηʹ, ὡς ὁ λόγος ἔχει, τὴν μὲν πολιτείαν ἐνησκεῖτο, τὰς δὲ γραφὰς
             ἡρμήνευσεν, ὅτε καὶ τὰ ἑξαπλᾶ καὶ τὰς δύο τῶν ἑβραϊκῶν σελίδας ἄντικρυ ἐκ παραλλήλου
             μιᾶς ἑρμηνείας πρὸς τὴν ἑτέραν συνέθηκεν ἑξαπλᾶ τὰς βίβλους ὀνομάσας, καθ’ ἅπερ ἄνω διὰ
-            πλάτους εἴρηται.
-            
-            
-            
-            
-         <ab type="source" source="#bib338-1"/>
+            πλάτους εἴρηται.<ab type="source" source="#bib338-1"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
         <note xml:lang="en" type="textual">Ed. Moutsoulas 1973</note>
@@ -317,8 +312,6 @@
             opposite two columns of Hebrew (text), one translation facing opposite the other,
             calling the books <placeName>Hexapla</placeName>, just as has been fully related
                above.<note xml:lang="en" type="translation">Trans. J. L. Rife</note>
-            
-            
             <idno type="CTS-URN"/>
             <ref target=""/>
          </ab>
@@ -330,10 +323,6 @@
           <citedRange unit="p">180-181</citedRange>
         </bibl>
       </listBibl>
-      
-      
-      
-      
     <note type="related-texts">
         <p>Epiphanius, Weights and Measures, Syriac 57a-b</p>
         <p>Hexapla</p>

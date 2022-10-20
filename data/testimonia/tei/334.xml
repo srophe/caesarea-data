@@ -306,12 +306,7 @@
         usque <placeName>Caesaream</placeName>, ilic celebraverunt Pentecosten. Hanc autem viam
         fecerunt consilio Surianorum, qui habitabant in Libano, maxime propter commoditatem navigii
         Cyprensium, Venetorum, Ianuensium, et quorundam Frixonum, qui gratia peregrinationis
-          venerant.
-        
-        
-        
-        
-      <ab type="source" source="#bib334-1"/>
+          venerant.<ab type="source" source="#bib334-1"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
         <note xml:lang="en" type="textual">Ed. Bongars 1611</note>
@@ -342,12 +337,7 @@
             and, going along the coast as far as <placeName>Caesarea</placeName>, they celebrated
             Pentecost there. They took this route on the advice of Syrians who lived in Lebanon,
             mainly out of convenience to the fleet of Cypriots, Venetians, Genoese, and some
-            Frisians who came on pilgrimage.
-        
-        
-        
-        
-      <ab type="source" source="#bib334-2"/>
+            Frisians who came on pilgrimage.<ab type="source" source="#bib334-2"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
         <note xml:lang="en" type="translation">Adapted from Lock
@@ -365,10 +355,6 @@
           <citedRange unit="p">234</citedRange>
         </bibl>
       </listBibl>
-    
-      
-      
-      
     <note type="related-texts">
         <p>Albert of Aachen, History of the Journey to Jerusalem 5.42</p>
       </note>

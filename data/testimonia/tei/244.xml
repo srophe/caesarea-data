@@ -293,13 +293,7 @@
           <placeName>Καισαρείᾳ</placeName>, καὶ ἀναζητήσας τοὺς πεποιηκότας τοὺς φόνους καὶ εὑρών,
         τοὺς μὲν ἐφούρκισεν, ἑτέρους δὲ ἀπεκεφάλισε καὶ ἄλλους ἐδεξιοκόπησε καί τινας ἐδήμευσε· καὶ
         ἐγένετο φόβος μέγας ἐν τῇ πόλει <placeName>Καισαρείας</placeName> καὶ ἐν τοῖς ἀνατολικοῖς
-          μέρεσι.
-        
-        
-        
-        
-        
-      <ab type="source" source="#bib244-1"/>
+          μέρεσι.<ab type="source" source="#bib244-1"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
         <note xml:lang="en" type="textual">Ed. Thurn 2000</note>
@@ -321,12 +315,7 @@
         messages and departing for <placeName>Caesarea</placeName>, Amantios searched for and found
         those who had committed the murders. He hanged some, beheaded others, cut off the right
         hands of others, and confiscated the property of others. And there was great fear in the
-        city of <placeName>Caesarea</placeName> and the eastern regions.
-        
-        
-        
-        
-      <ab type="source" source="#bib244-2"/>
+        city of <placeName>Caesarea</placeName> and the eastern regions.<ab type="source" source="#bib244-2"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
         <note xml:lang="en" type="translation">Adapted from Jeffreys et al. 2017</note>
@@ -344,10 +333,6 @@
           <citedRange unit="p">294-295</citedRange>
         </bibl>
       </listBibl>
-    
-      
-      
-      
     <note type="related-texts">
         <p>Chronicle of Zuqnin 2.863</p>
         <p>Constantine Porphyrogenitus, Plots 173.13-29</p>

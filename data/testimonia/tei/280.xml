@@ -280,12 +280,7 @@
         Ego ivi de Accon in Caifa, quod est sub monte Carmeli, ubi fuit Helias
             propheta. Et inde veni <placeName>Cesaream</placeName>, deinde Assur, deinde Ioppen,
             deinde Rama, deinde Bethnopolin, deinde Ierusalem. Ubi intratur ad portam S. Stephani,
-            ubi fuit lapidatus.
-        
-        
-        
-        
-      <ab type="source" source="#bib280-1"/>
+            ubi fuit lapidatus.<ab type="source" source="#bib280-1"/>
         <idno type="CTS-URN"/>
         <ref/>
         <note xml:lang="en" type="textual">Ed. Neumann 1866</note>
@@ -295,12 +290,7 @@
         I went from Acco to Haifa, which is below Mount Carmel where Elijah
             the prophet lived. Then I came to <placeName>Caesarea</placeName>, Assur, Ioppe, Rama,
             Bethnopolis, and Jerusalem, which is entered through the Gate of St. Stephen, where he
-            was stoned.
-        
-        
-        
-        
-      <ab type="source" source="#bib280-2"/>
+            was stoned.<ab type="source" source="#bib280-2"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
         <note xml:lang="en" type="translation">Adapted from Stewart 1896</note>
@@ -317,10 +307,6 @@
           <citedRange unit="section">1.1</citedRange>
         </bibl>
       </listBibl>
-    
-      
-      
-      
     <note type="related-texts"/>
       <note type="geography">
         <p>Antipatris (Assur, Ashur, Arsuf)</p>

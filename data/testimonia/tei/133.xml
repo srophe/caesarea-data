@@ -290,13 +290,7 @@
             ἐμφότεροι τοπάρχαι τὰς μητροπόλεις αὐτῶν πρὸς τὴν αὐτοῦ εἰς ὄνομα τοῦ Καίσαρος· ὁ μὲν
             Ἡρώδης βασιλεὺς καὶ τοπάρχης ἐκάλεσε <placeName>Καισάρειαν Παλαιστίνης,</placeName> τὴν
             πρῴην λεγομένην <placeName>Στράτωνος Πύργον</placeName>, ὁ δὲ Ἀρχέλαος βασιλεὺς καὶ
-            τοπάρχης ἐκάλεσε Καισάρειαν Καππαδοκίας τὴν πρῴην λεγομένην Μάζακαν.
-            
-            
-            
-            
-            
-         <ab type="source" source="#bib133-1"/>
+            τοπάρχης ἐκάλεσε Καισάρειαν Καππαδοκίας τὴν πρῴην λεγομένην Μάζακαν.<ab type="source" source="#bib133-1"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
         <note xml:lang="en" type="textual">Ed. Thurn 2000</note>
@@ -315,8 +309,6 @@
                <placeName>Strato’s Tower</placeName>, while Archaelaos, king and local ruler, named
             Caesarea in Cappadocia the city formerly called Mazaca.<note xml:lang="en" type="translation">Adapted
                from Jeffreys et al. 2017</note>
-            
-            
             <idno type="CTS-URN"/>
             <ref target=""/>
          </ab>
@@ -339,10 +331,6 @@
           <citedRange unit="p">8-9</citedRange>
         </bibl>
       </listBibl>
-      
-      
-      
-      
     <note type="related-texts">
         <p>John of Nikiu 66.2</p>
       </note>

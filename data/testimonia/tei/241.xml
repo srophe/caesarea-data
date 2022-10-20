@@ -280,12 +280,7 @@
         <anchor xml:id="testimonia-241.grc.1" corresp="#testimonia-241.en.1"/>
         Ἔκτισε δὲ καὶ ἐν <placeName>Καισαρείᾳ τῆς Παλαιστίνης</placeName> ἐκ τῆς
             αὐτῆς Ἰουδαϊκῆς πραίδας ὁ αὐτὸς Οὐεσπασιανὸς ᾠδεῖον μέγα πάνυ, θεάτρου ἔχον διάστημα
-            μέγα, ὄντος καὶ αὐτοῦ τοῦ τόπου πρῴην συναγωγῆς τῶν Ἰουδαίων.
-        
-        
-        
-        
-      <ab type="source" source="#bib241-1"/>
+            μέγα, ὄντος καὶ αὐτοῦ τοῦ τόπου πρῴην συναγωγῆς τῶν Ἰουδαίων.<ab type="source" source="#bib241-1"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
         <note xml:lang="en" type="textual">Ed.
@@ -295,12 +290,7 @@
         <anchor xml:id="testimonia-241.en.1" corresp="#testimonia-241.grc.1"/>
         Out of the spoils from Judaea Vespasian also built a very large
             odeum in <placeName>Caesarea of Palestine</placeName>, the size of a large theater. Its
-            site too had previously been that of a Jewish synagogue.
-        
-        
-        
-        
-      <ab type="source" source="#bib241-2"/>
+            site too had previously been that of a Jewish synagogue.<ab type="source" source="#bib241-2"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
         <note xml:lang="en" type="translation">Adapted
@@ -319,10 +309,6 @@
           <citedRange unit="p">221</citedRange>
         </bibl>
       </listBibl>
-    
-      
-      
-      
     <note type="related-texts"/>
       <note type="geography">
         <p>Judaea</p>

@@ -295,12 +295,7 @@
           <placeName>Stratonis Turris</placeName>, eadem <placeName>Caesarea</placeName> ab Herode
         rege condita, nunc colonia Prima Flavia a Vespasiano Imperatore deducta, finis Palaestines,
         CLXXXVIIII p. a confinio Arabiae. dein Phoenice; intus autem Samariae oppida Neapolis, quod
-        antea Mamortha dicebatur, Sebaste in monte, et altiore Gamala.
-        
-        
-        
-        
-      <ab type="source" source="#bib43-1"/>
+        antea Mamortha dicebatur, Sebaste in monte, et altiore Gamala.<ab type="source" source="#bib43-1"/>
         <idno type="CTS-URN" xml:base="http://data.perseus.org/citations/"/>
         <ref/>
         <note xml:lang="en" type="textual">Ed.
@@ -321,12 +316,7 @@
         founded by King Herod, now the colony Prima Flavia founded by the emperor Vespasian. The
         border of Palestine is 189 miles from bordering Arabia. Then Phoenice and inland Samaria;
         the towns are Neapolis, previously called Mamortha, Sebaste on a mountain, and higher up
-          Gamala.
-        
-        
-        
-        
-      <ab type="source" source="#bib43-2"/>
+          Gamala.<ab type="source" source="#bib43-2"/>
         <idno type="CTS-URN" xml:base="http://data.perseus.org/citations/"/>
         <ref/>
         <note xml:lang="en" type="translation">Trans. J. L. Rife with ref. to Rackham 1942</note>
@@ -348,10 +338,6 @@
           <citedRange unit="section">5.14.68-69</citedRange>
         </bibl>
       </listBibl>
-    
-      
-      
-      
     <note type="related-texts"/>
       <note type="geography">
         <p>Gamala</p>

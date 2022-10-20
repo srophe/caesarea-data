@@ -287,12 +287,7 @@
             posteriorum ad nostram usque memoriam non durarit. hoc ideo ut, quia mihi de eodem
             psalmo proposuisti, qui esset “panis doloris” in eo, quod dicitur: “in vanum vobis est
             ante lucem surgere, surgere, postquam sederitis, qui manducatis panem doloris,”
-            ostenderem me de Origenis commentariis, quid senserit, non habere.
-        
-        
-        
-        
-      <ab type="source" source="#bib295-1"/>
+            ostenderem me de Origenis commentariis, quid senserit, non habere.<ab type="source" source="#bib295-1"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
         <note xml:lang="en" type="textual">Ed. Hilberg and Slovak 1996</note>
@@ -317,7 +312,6 @@
         that I do not know the meaning from the commentaries of Origen.<note xml:lang="en" type="translation">Trans. J. L. Rife</note>
         <note xml:lang="en" type="discussion">In translation we use B for "bread of sorrow", but the text has p
           ("phe") for "panis doloris".</note>
-        
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -329,10 +323,6 @@
           <citedRange unit="section">1</citedRange>
         </bibl>
       </listBibl>
-    
-      
-      
-      
     <note type="related-texts">
         <p>Isidore of Seville, Etymologies 6.6</p>
         <p>Vulgate Psalms 126:2</p>

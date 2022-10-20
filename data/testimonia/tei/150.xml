@@ -288,12 +288,7 @@
         τελευτήσαντος Εὐσεβίου, ὃς τῆς ἐν <placeName>Παλαιστίνῃ Καισαρείας</placeName> ἐπίσκοπος ἦν
         καὶ τὴν Παμφίλου προσωνυμίαν ἐκέκτητο, Ἀκάκιος μαθητὴς αὐτοῦ τὴν ἐπισκοπὴν διαδέχεται· ὃς
         καὶ ἄλλα μὲν πολλὰ βιβλία ἐξέθετο καὶ εἰς τὸν βίον δὲ τοῦ διδασκάλου {αὐτοῦ}
-          συνέγραψεν.
-        
-        
-        
-        
-      <ab type="source" source="#bib150-1"/>
+          συνέγραψεν.<ab type="source" source="#bib150-1"/>
         <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/"/>
         <ref/>
         <note xml:lang="en" type="textual">Ed. Hussey and Bright 1893</note>
@@ -304,12 +299,7 @@
         <anchor xml:id="testimonia-150.en.1" corresp="#testimonia-150.grc.1"/>At this time
         Eusebius, who was bishop of <placeName>Caesarea in Palestine</placeName> and used the
         surname Pamphili, died. Acacius his student succeeded him as bishop. He published many
-        books, and composed a biography of his teacher.
-        
-        
-        
-        
-      <ab type="source" source="#bib150-2"/>
+        books, and composed a biography of his teacher.<ab type="source" source="#bib150-2"/>
         <idno type="CTS-URN"/>
         <ref/>
         <note xml:lang="en" type="translation">Adapted from Zenos
@@ -337,10 +327,6 @@
           <citedRange unit="p">2.28-2.31</citedRange>
         </bibl>
       </listBibl>
-    
-      
-      
-      
     <note type="related-texts"/>
       <note type="geography"/>
       <note type="prosopography">

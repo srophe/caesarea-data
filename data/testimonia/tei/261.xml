@@ -277,12 +277,7 @@
       <ab type="edition" xml:lang="la" xml:id="quote261-1">
         <anchor xml:id="testimonia-261.la.1" corresp="#testimonia-261.en.1"/>
         Caesaream Mauretaniae oppidum Iuba rex Maurorum in honorem Caesaris
-            Augusti condidit, quam ex eius nomine Caesaream appellavit; sicut Herodes aliam <placeName>Caesaream</placeName> in Palaestina, quae nunc urbs est clarissima.
-        
-        
-        
-        
-      <ab type="source" source="#bib261-1"/>
+            Augusti condidit, quam ex eius nomine Caesaream appellavit; sicut Herodes aliam <placeName>Caesaream</placeName> in Palaestina, quae nunc urbs est clarissima.<ab type="source" source="#bib261-1"/>
         <idno type="CTS-URN"/>
         <ref/>
         <note xml:lang="en" type="textual">Ed. Lindsay 1911</note>
@@ -293,8 +288,6 @@
             honor of Caesar Augustus, and called it Caesarea from his name, just as Herod (did in
             the case of) another <placeName>Caesarea</placeName>, in Palestine, which is now a most
             famous city.<note xml:lang="en" type="translation">Trans. J. L. Rife</note>
-        
-        
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -315,10 +308,6 @@
           <ptr target="https://caesarea-maritima.org/bibl/AQ6CUTBN"/>
         </bibl>
       </listBibl>
-    
-      
-      
-      
     <note type="related-texts">
         <p>Eutropius, Short History 7.10.3</p>
       </note>

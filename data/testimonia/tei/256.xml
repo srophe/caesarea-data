@@ -276,12 +276,7 @@
         Hec ergo via, que ab
         Achon per Nazareth et Samariam atque Neapolim Ierosolimam ducit, superior vocatur, et illa
         que per <placeName>Cesaream</placeName> et Liddam ab Achon Ierosolimam tendit Maritima
-          appellatur.
-        
-        
-        
-        
-      <ab type="source" source="#bib256-1"/>
+          appellatur.<ab type="source" source="#bib256-1"/>
         <idno type="CTS-URN"/>
         <ref/>
         <note xml:lang="en" type="textual">Ed. Huygens 1994</note>
@@ -290,12 +285,7 @@
       <ab type="translation" xml:lang="en" xml:id="quote256-2">
         <anchor xml:id="testimonia-256.en.1" corresp="#testimonia-256.la.1"/>
         Now this road which leads from Accon through Nazareth, Samaria, and
-            Neapolis to Jerusalem is called the High Road; and that which leads from Achon through <placeName>Caesarea</placeName> and Lidda to Jerusalem is called the Coastal Road.
-        
-        
-        
-        
-      <ab type="source" source="#bib256-2"/>
+            Neapolis to Jerusalem is called the High Road; and that which leads from Achon through <placeName>Caesarea</placeName> and Lidda to Jerusalem is called the Coastal Road.<ab type="source" source="#bib256-2"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
         <note xml:lang="en" type="translation">Adapted from Stewart 1896</note>
@@ -313,10 +303,6 @@
           <citedRange unit="section">39</citedRange>
         </bibl>
       </listBibl>
-    
-      
-      
-      
     <note type="related-texts"/>
       <note type="geography">
         <p>Jerusalem</p>

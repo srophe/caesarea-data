@@ -296,12 +296,7 @@
         eminentem, similiter et Laodiciam et Tyrum et Berytum et <placeName>Caesaream</placeName>.
         Et Laodicia mittit aliis civitatibus agitatores optimos, Tyrus et Berytus mimarios,
           <placeName>Caesarea</placeName> pantomimos, Heliopolis choraulas, Gaza pammacarios,
-        Ascalon athletas luctatores, Castabala pyctas.
-        
-        
-        
-        
-      <ab type="source" source="#bib227-1"/>
+        Ascalon athletas luctatores, Castabala pyctas.<ab type="source" source="#bib227-1"/>
         <idno type="CTS-URN"/>
         <ref/>
         <note xml:lang="en" type="textual">Ed. Rougé 1966</note>
@@ -333,7 +328,6 @@
           expression. Latin  (A) transliterating Greek καλοπαίκτης
           refers to an acrobat. Latin  (B) transliterating Greek παίκτης
           refers generically to a performer or “player.”</note>
-        
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -344,10 +338,6 @@
           <citedRange unit="ch">32</citedRange>
         </bibl>
       </listBibl>
-    
-      
-      
-      
     <note type="related-texts"/>
       <note type="geography">
         <p>Antioch on the Orontes</p>

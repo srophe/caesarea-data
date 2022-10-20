@@ -278,12 +278,7 @@
       <ab type="edition" xml:lang="grc" xml:id="quote242-1">
         <anchor xml:id="testimonia-242.grc.1" corresp="#testimonia-242.en.1"/>
         Ἔκτισε δὲ καὶ ἐν <placeName>Καισαρείᾳ τῆς Παλαιστίνης</placeName> λουτρόν, καὶ ἐν Νικομηδείᾳ τῆς Βιθυνίας καὶ ἐν Ἐφέσῳ τῆς Ἀσίας· ἅπερ δημόσια λουτρὰ εἰς
-            τὸ ἴδιον ἐπεκάλεσεν ὄνομα.
-        
-        
-        
-        
-      <ab type="source" source="#bib242-1"/>
+            τὸ ἴδιον ἐπεκάλεσεν ὄνομα.<ab type="source" source="#bib242-1"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
         <note xml:lang="en" type="textual">Ed. Thurn 2000</note>
@@ -292,12 +287,7 @@
         <anchor xml:id="testimonia-242.en.1" corresp="#testimonia-242.grc.1"/>
         (Antoninus Pius) also
         built baths at <placeName>Caesarea Palestinae</placeName> and at Nicomedia of Bithynia and
-        at Ephesus in Asia. These public baths he named after himself.
-        
-        
-        
-        
-      <ab type="source" source="#bib242-2"/>
+        at Ephesus in Asia. These public baths he named after himself.<ab type="source" source="#bib242-2"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
         <note xml:lang="en" type="translation">Adapted from Jeffreys et al. 2017</note>
@@ -315,10 +305,6 @@
           <citedRange unit="p">149</citedRange>
         </bibl>
       </listBibl>
-    
-      
-      
-      
     <note type="related-texts">
         <p>John of Nikiu, Chronicle 74.8</p>
       </note>

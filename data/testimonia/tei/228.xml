@@ -286,13 +286,7 @@
             τὸ -α, καὶ προσθέσει τοῦ ς ποιεῖ τὴν γενικήν. ἔστω δὲ παραδείγματα τοῦ κανόνος ταῦτα· τὸ
             ᾱ μὲν καθαρὸν οἷον μαῖα μαίας, γραῖα γραίας, γαῖα γαίας, Μήδεια Μηδείας (τὸ γὰρ “Μηδείης
             ὑπ᾿ ἔρωτι” Ἰωνικόν ἐστι), Κράτεια Κρατείας, Ἀλεξάνδρεια Ἀλεξανδρείας, <placeName>Καισάρεια</placeName>
-        <placeName>Καισαρείας</placeName>, Ἀντιόχεια Ἀντιοχείας.
-        
-        
-        
-        
-        
-      <ab type="source" source="#bib228-1"/>
+        <placeName>Καισαρείας</placeName>, Ἀντιόχεια Ἀντιοχείας.<ab type="source" source="#bib228-1"/>
         <idno type="CTS-URN"/>
         <ref target="urn:cts:greekLit:tlg0087.tlg011.1st1K-grc1:2.2.4.127"/>
         <note xml:lang="en">Ed. Hilgard
@@ -314,7 +308,6 @@
           Rife</note>
         <note xml:lang="en" type="discussion">“” is quoted from Apollonius of
           Rhodes,  3.31.</note>
-        
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -326,10 +319,6 @@
           <citedRange unit="line">12-20</citedRange>
         </bibl>
       </listBibl>
-    
-      
-      
-      
     <note type="related-texts">
         <p>Aelius Herodianus, Declension of Nouns 751.25-33</p>
         <p>Apollonius of Rhodes, Voyage of the Argo 3.31</p>

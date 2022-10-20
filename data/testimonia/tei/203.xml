@@ -291,12 +291,7 @@
             olerum commutatum. Situs huius civitatis valde pulcher erat; erat enim inde prospectus
             usque ad mare Ioppes et Antipatridem et <placeName>Caesaream Palestine</placeName>, per
             totum quoque montem Effraym usque Ramathaym Sophim et ad Carmelum maris iuxta Accon. Et
-            habundat fontibus et ortis et olivetis et bonis omnibus que requirit mundus iste.
-        
-        
-        
-        
-      <ab type="source" source="#bib203-1"/>
+            habundat fontibus et ortis et olivetis et bonis omnibus que requirit mundus iste.<ab type="source" source="#bib203-1"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
         <note xml:lang="en" type="textual">Ed. Laurent 1873</note>
@@ -312,12 +307,7 @@
             sea at Joppa, to Antipatris and <placeName>Caesarea Palestinae</placeName>, as well as
             over the entire Mount Ephraim as far as Ramathaim Zophim, and to Carmel by the sea near
             Acre. It abounds with springs, gardens, olive groves, and all the good things that an
-            honest man requires.
-        
-        
-        
-        
-      <ab type="source" source="#bib203-2"/>
+            honest man requires.<ab type="source" source="#bib203-2"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
         <note xml:lang="en" type="translation">Adapted from Pringle 2018</note>
@@ -335,10 +325,6 @@
           <citedRange unit="p">277</citedRange>
         </bibl>
       </listBibl>
-      
-      
-      
-      
     <note type="related-texts">
         <p>I Kings 21:1-16</p>
       </note>

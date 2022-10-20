@@ -293,12 +293,7 @@
             sacramento, cum certo militum numero, regio servitio obligati fuerunt: comes videlicet
             Tripolitanus; dominus Beriti; dominus Sydonis; dominus Cayphae; dominus <placeName>Caesareae</placeName>; princeps Galileae, qui et dominus Tyberiadis; comes
             Iopen et Ascalonae; dominus Montis Regalis et totius terrae trans Iordanem; dominus
-            Arsur; et dominus Ibelyn, cum quibusdam aliis; sed hii aliis praeminebant.
-        
-        
-        
-        
-      <ab type="source" source="#bib239-1"/>
+            Arsur; et dominus Ibelyn, cum quibusdam aliis; sed hii aliis praeminebant.<ab type="source" source="#bib239-1"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
         <note xml:lang="en" type="textual">Ed. Bongars 1611</note>
@@ -318,12 +313,7 @@
             Lord of Caesarea, the Prince of Galilee, who was also the Lord of Tiberias, the Count of
             Iope and Ascalon, the Lord of Mount Royal and of all the land across the Jordan, the
             Lord of Arsur, and the Lord of Ibelyn with various others; but these were more important
-            than the others.
-        
-        
-        
-        
-      <ab type="source" source="#bib239-2"/>
+            than the others.<ab type="source" source="#bib239-2"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
         <note xml:lang="en" type="translation">Adapted from Lock 2011</note>
@@ -340,10 +330,6 @@
           <citedRange unit="p">274</citedRange>
         </bibl>
       </listBibl>
-    
-      
-      
-      
     <note type="related-texts"/>
       <note type="geography">
         <p>Acre</p>

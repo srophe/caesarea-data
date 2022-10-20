@@ -287,12 +287,7 @@
         <anchor xml:id="testimonia-303.la.1" corresp="#testimonia-303.en.1"/>
         In XXVII Caypha (de quo part. VI cap. III). In XXX Castrum Peregrinoum.
             In XL <placeName>Caesarea</placeName>. In XLVII Arsur sive Dora vel Antipatrida. In LII
-               Iopen.
-        
-        
-        
-        
-      <ab type="source" source="#bib303-1"/>
+               Iopen.<ab type="source" source="#bib303-1"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
         <note xml:lang="en" type="textual">Ed. Bongars 1611</note>
@@ -302,12 +297,7 @@
         <anchor xml:id="testimonia-303.en.1" corresp="#testimonia-303.la.1"/>
         In (square) 27 is Caypha (see 3.6.3). In 30 is Pilgrims’ Castle. In
             40 is <placeName>Caesarea</placeName>. In 47 is Assur or Dora or Antipatris. In 52
-               Joppa.
-        
-        
-        
-        
-      <ab type="source" source="#bib303-2"/>
+               Joppa.<ab type="source" source="#bib303-2"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
         <note xml:lang="en" type="translation">Adapted from Lock 2011</note>
@@ -324,10 +314,6 @@
           <citedRange unit="p">398</citedRange>
         </bibl>
       </listBibl>
-    
-      
-      
-      
     <note type="related-texts"/>
       <note type="geography">
         <p>Antipatris (Assur, Arsur, Arsuf)</p>

@@ -279,15 +279,9 @@
             prominent cities that shared that named.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote170-1">
         <anchor xml:id="testimonia-170.grc.1" corresp="#testimonia-170.en.1"/>
-        
             <placeName>Καισάρεια</placeName>· μητρόπολις τῆς Καππαδοκίας, ἡ πρὶν Εὐσεβεία καὶ
             Μάζακα, ὡς Στράβων. ἔστι καὶ <placeName>Παλαιστίνης</placeName>. καὶ γʹ πρὸς τῇ Πανεάδι.
-            τὸ ἐθνικὸν Καισαρεύς. εἰσὶ δὲ καὶ ἄλλαι τούτῳ τῷ ὀνόματι προσαγορευόμεναι.
-        
-        
-        
-        
-      <ab type="source" source="#bib170-1"/>
+            τὸ ἐθνικὸν Καισαρεύς. εἰσὶ δὲ καὶ ἄλλαι τούτῳ τῷ ὀνόματι προσαγορευόμεναι.<ab type="source" source="#bib170-1"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
         <note xml:lang="en" type="textual">Ed. Billerbeck 2014</note>
@@ -298,8 +292,6 @@
             city in Cappadocia, formerly Eusebeia and Mazaca, as Strabo (reports). There is also
                <placeName>(Caesarea) Palestinae</placeName>, and a third at Paneas. The ethnic
             designation is Caesarean. There are also other (cities) called by this name.<note xml:lang="en" type="translation">Trans. J. L. Rife with ref. to Billerbeck 2014</note>
-            
-            
             <idno type="CTS-URN"/>
             <ref/>
          </ab>
@@ -311,10 +303,6 @@
           <citedRange unit="entry">16</citedRange>
         </bibl>
       </listBibl>
-      
-      
-      
-      
     <note type="related-texts">
         <p>Strabo, Geography 16.2.7</p>
       </note>

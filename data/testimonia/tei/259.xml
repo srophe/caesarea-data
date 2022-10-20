@@ -278,13 +278,7 @@
       <ab type="edition" xml:lang="grc" xml:id="quote259-1">
         <anchor xml:id="testimonia-259.grc.1" corresp="#testimonia-259.en.1"/>
         Σαρῶν. Ἠσαΐας· “ἓλη ἐγένετο ὁ Σαρών”. καὶ νῦν δὲ καλεῖται Σαρωνᾶς ἡ ἀπὸ
-            τοῦ ὄρους Θαβὼρ ἐπὶ τὴν Τιβεριάδα λίμνην χώρα. καὶ ἄλλος ἐστὶ Σαρωνᾶς ἡ ἀπὸ <placeName>Καισαρείας</placeName> εἰς Ἰόππην χώρα.
-        
-        
-        
-        
-        
-      <ab type="source" source="#bib259-1"/>
+            τοῦ ὄρους Θαβὼρ ἐπὶ τὴν Τιβεριάδα λίμνην χώρα. καὶ ἄλλος ἐστὶ Σαρωνᾶς ἡ ἀπὸ <placeName>Καισαρείας</placeName> εἰς Ἰόππην χώρα.<ab type="source" source="#bib259-1"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
         <note xml:lang="en">Ed. Klosterman 1904 [cited by
@@ -295,8 +289,6 @@
         Saron. Isaiah: “Saron became marshland.” Today the land from Mount
             Thabor to Lake Tiberias is called Saronas. A second Saronas is the land from <placeName>Caesarea</placeName> to Joppa.<note xml:lang="en" type="translation">Trans. J. L.
                Rife</note>
-        
-        
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -307,10 +299,6 @@
           <citedRange unit="p">162</citedRange>
         </bibl>
       </listBibl>
-    
-      
-      
-      
     <note type="related-texts">
         <p>Jerome, Book of Places 163</p>
         <p>Joshua 33:9</p>

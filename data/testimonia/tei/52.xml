@@ -277,12 +277,7 @@
         <anchor xml:id="testimonia-52.la.1" corresp="#testimonia-52.en.1"/>
         Tanto autem amore etiam apud barbaros fuit, ut reges populi Romani amici
             in honorem eius conderent civitates, quas <placeName>Caesareas</placeName> nominarent,
-            sicut in Mauritania a rege Iuba, et in Palaestina, quae nunc urbs est clarissima.
-        
-        
-        
-        
-      <ab type="source" source="#bib52-1"/>
+            sicut in Mauritania a rege Iuba, et in Palaestina, quae nunc urbs est clarissima.<ab type="source" source="#bib52-1"/>
         <idno type="CTS-URN"/>
         <ref target="https://www.dmgh.de/mgh_auct_ant_2/index.htm#page/120/mode/1up"/>
         <note xml:lang="en" type="textual">Ed. Droysen 1879</note>
@@ -293,12 +288,7 @@
             affection, even among the barbarians, that kings who were friends of the Roman people
             founded cities in his honor which were called <placeName>Caesarea</placeName>, such as
             the one in Mauretania (established) by king Juba, and the one in Palestine, which is now
-            a very famous city.
-        
-        
-        
-        
-      <ab type="source" source="#bib52-2"/>
+            a very famous city.<ab type="source" source="#bib52-2"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
         <note xml:lang="en" type="translation">Rev. Bird 1993</note>
@@ -313,10 +303,6 @@
           <ptr target="https://caesarea-maritima.org/bibl/4VRDQQ2G"/>
         </bibl>
       </listBibl>
-      
-      
-      
-      
     <note type="related-texts">
         <p>Isidore, Etymologies 15.1.75</p>
       </note>

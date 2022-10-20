@@ -276,13 +276,7 @@
         <anchor xml:id="testimonia-129.grc.1" corresp="#testimonia-129.en.1"/>
         Δῶρ τοῦ Ναφάθ. Σʹ Δὼρ “τῆς παραλίας”, αὕτη ἐστὶ Δῶρα ἡ πρὸς
                <placeName>Καισάρειαν τῆς Παλαιστίνης</placeName> ἀπὸ σημείων θʹ ἀπιόντων Τυρὸν, νῦν
-            ἔρημος, ἣν οὐκ ἔλαβεν ἡ φυλὴ Μανασσῆ, ὅτι μὴ ἀνεῖλεν τοὺς ἐν αὐτῇ ἀλλοφύλους.
-        
-        
-        
-        
-        
-      <ab type="source" source="#bib129-1"/>
+            ἔρημος, ἣν οὐκ ἔλαβεν ἡ φυλὴ Μανασσῆ, ὅτι μὴ ἀνεῖλεν τοὺς ἐν αὐτῇ ἀλλοφύλους.<ab type="source" source="#bib129-1"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
         <note xml:lang="en">Ed.
@@ -294,8 +288,6 @@
                <placeName>Caesarea Palestinae</placeName>, nine milestones away for those travelling
             to Tyre, now deserted, which the tribe of Manasseh did not take because they could not
             expel the foreign tribes there.<note xml:lang="en" type="translation">Trans. J. L. Rife</note>
-        
-        
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -306,10 +298,6 @@
           <citedRange unit="p">78</citedRange>
         </bibl>
       </listBibl>
-      
-      
-      
-      
     <note type="related-texts">
         <p>Jerome, Book of Places 79</p>
         <p>Joshua 11:12</p>

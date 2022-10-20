@@ -283,12 +283,7 @@
           <placeName>Caesareae</placeName> eruditus est, et eiusdem postea urbis episcopus, plurimo
         labore, corruptam iam bibliothecam Origenis et Pamphili in membranis instaurare conatus est.
         Ad extremum sub Theodosio principe ecclesia pulsus est. Feruntur eius varii multiplicesque
-        tractatus, quos nosse perfacile est.
-        
-        
-        
-        
-      <ab type="source" source="#bib142-1"/>
+        tractatus, quos nosse perfacile est.<ab type="source" source="#bib142-1"/>
         <idno type="CTS-URN"/>
         <ref target="https://archive.org/details/hieronymusundge00berngoog/page/n113/mode/2up"/>
         <note xml:lang="en" type="textual">Ed. Bernoulli 1895</note>
@@ -300,12 +295,7 @@
         on parchment pages the library of Origen and Pamphilus, which had already deteriorated. In
         the end, during the reign of the emperor Theodosius, he was expelled from the Church. Many
         varied treatises of his are in circulation, and one may very easily become acquainted with
-          them.
-        
-        
-        
-        
-      <ab type="source" source="#bib142-2"/>
+          them.<ab type="source" source="#bib142-2"/>
         <idno type="CTS-URN"/>
         <ref target="https://ccel.org/ccel/schaff/npnf203/npnf203/Page_382.html"/>
         <note xml:lang="en" type="translation">Adapted from Schaff 1892 and Halton 1999 </note>
@@ -328,10 +318,6 @@
           <citedRange unit="p">147</citedRange>
         </bibl>
       </listBibl>
-    
-      
-      
-      
     <note type="related-texts">
         <p>Jerome, Letters 34.1</p>
       </note>

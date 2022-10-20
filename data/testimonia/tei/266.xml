@@ -281,12 +281,7 @@
       <ab type="edition" xml:lang="grc" xml:id="quote266-1">
         <anchor xml:id="testimonia-266.grc.1" corresp="#testimonia-266.en.1"/>
         Τούτῳ τῷ ἔτει Μάξιμον τὸν Ἱεροσολύμων καθεῖλεν Ἀκάκιος ὁ <placeName>Καισαρείας</placeName> καὶ Πατρόφιλος ὁ Σκυθοπόλεως Ἀρειανοὶ ὄντες, καὶ
-            ἀντεισήγαγον Κύριλλον δοκοῦντες ἔχειν αὐτὸν ὁμόφρονα.
-        
-        
-        
-        
-      <ab type="source" source="#bib266-1"/>
+            ἀντεισήγαγον Κύριλλον δοκοῦντες ἔχειν αὐτὸν ὁμόφρονα.<ab type="source" source="#bib266-1"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
         <note xml:lang="en" type="textual">Ed. de Boor
@@ -296,12 +291,7 @@
         <anchor xml:id="testimonia-266.en.1" corresp="#testimonia-266.grc.1"/>
         In this year Acacius of <placeName>Caesarea</placeName> and
             Patrophilos of Scythopolis, being Arians, deposed Maximus of Jerusalem and replaced him
-            with Cyril, whom they believed to be of their persuasion.
-        
-        
-        
-        
-      <ab type="source" source="#bib266-2"/>
+            with Cyril, whom they believed to be of their persuasion.<ab type="source" source="#bib266-2"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
         <note xml:lang="en" type="translation">Rev.
@@ -318,10 +308,6 @@
           <citedRange unit="p">70</citedRange>
         </bibl>
       </listBibl>
-    
-      
-      
-      
     <note type="related-texts">
         <p>Socrates Scholasticus, Church History 2.38</p>
         <p>Theodorus Anagnostes 100 (47.27-28)</p>

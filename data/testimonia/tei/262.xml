@@ -280,12 +280,7 @@
             Pisistratum in sacrae bibliothecae studio primus adaequare contendit. Hic enim in
             bibliotheca sua prope triginta voluminum milia habuit. Hieronymus quoque atque Gennadius
             ecclesiasticos scriptores toto orbe quaerentes ordine persecuti sunt, eorumque studia in
-            uno voluminis indiculo conprehenderunt.
-        
-        
-        
-        
-      <ab type="source" source="#bib262-1"/>
+            uno voluminis indiculo conprehenderunt.<ab type="source" source="#bib262-1"/>
         <idno type="CTS-URN"/>
         <ref/>
         <note xml:lang="en" type="textual">Ed. Lindsay 1911</note>
@@ -299,8 +294,6 @@
         library nearly 30,000 volumes. Jerome and Gennadius, searching all over the world for the
         writers of the Church, went through them in order and compiled their studies in a catalog of
         one volume.<note xml:lang="en" type="translation">Trans. J. L. Rife</note>
-        
-        
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -321,10 +314,6 @@
           <ptr target="https://caesarea-maritima.org/bibl/AQ6CUTBN"/>
         </bibl>
       </listBibl>
-    
-      
-      
-      
     <note type="related-texts">
         <p>Jerome, Letters 34.1</p>
       </note>

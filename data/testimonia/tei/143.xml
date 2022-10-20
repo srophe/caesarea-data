@@ -280,12 +280,7 @@
       <ab type="edition" xml:lang="la" xml:id="quote143-1">
         <anchor xml:id="testimonia-143.la.1" corresp="#testimonia-143.en.1"/> Gelasius
           <placeName>Caesareae Palaestinae</placeName>, post Euzoium episcopus, accurati limatique
-        sermonis, fertur quaedam scribere, sed celare.
-        
-        
-        
-        
-      <ab type="source" source="#bib143-1"/>
+        sermonis, fertur quaedam scribere, sed celare.<ab type="source" source="#bib143-1"/>
         <idno type="CTS-URN"/>
         <ref target="https://archive.org/details/hieronymusundge00berngoog/page/n117/mode/2up"/>
         <note xml:lang="en" type="textual">Ed. Bernoulli 1895</note>
@@ -293,12 +288,7 @@
       <ab type="translation" xml:lang="en" xml:id="quote143-2">
         <anchor xml:id="testimonia-143.en.1" corresp="#testimonia-143.la.1"/>Gelasius, bishop
         of <placeName>Caesarea Palestinae</placeName> after Euzoius, is said to have written certain
-        works in a careful and polished style, but did not publish them.
-        
-        
-        
-        
-      <ab type="source" source="#bib143-2"/>
+        works in a careful and polished style, but did not publish them.<ab type="source" source="#bib143-2"/>
         <idno type="CTS-URN"/>
         <ref target="https://ccel.org/ccel/schaff/npnf203/npnf203/Page_383.html"/>
         <note xml:lang="en" type="translation">Rev. Schaff 1892 and Halton 1999 </note>
@@ -321,10 +311,6 @@
           <citedRange unit="p">163-164</citedRange>
         </bibl>
       </listBibl>
-    
-      
-      
-      
     <note type="related-texts"/>
       <note type="geography"/>
       <note type="prosopography">

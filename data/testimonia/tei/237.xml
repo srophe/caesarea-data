@@ -277,12 +277,7 @@
         <anchor xml:id="testimonia-237.la.1" corresp="#testimonia-237.en.1"/>
         Item ab Ierusalem, sic:
        <lb/>civitas Nicopoli mil. XXII<lb/>civitas Lidda mil. X<lb/>mutatio Antipatrida mil. X<lb/>mutatio
-        Batthar mil. X<lb/>civitas <placeName>Caesarea</placeName> mil. XVI
-        
-        
-        
-        
-      <ab type="source" source="#bib237-1"/>
+        Batthar mil. X<lb/>civitas <placeName>Caesarea</placeName> mil. XVI<ab type="source" source="#bib237-1"/>
         <idno type="CTS-URN"/>
         <ref/>
         <note xml:lang="en" type="textual">Ed.
@@ -293,8 +288,6 @@
         Likewise from Jerusalem
         it goes:<lb/>City: Nicopoli 22 miles<lb/>City: Lidda 10 miles<lb/>Exchange: Antipatrida 10 miles |
         Exchange: Matthar 10 miles<lb/>City: <placeName>Caesarea</placeName> 16 miles<note xml:lang="en" type="translation">Trans. J. L. Rife</note>
-        
-        
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -305,10 +298,6 @@
           <citedRange unit="p">600.1-6</citedRange>
         </bibl>
       </listBibl>
-    
-      
-      
-      
     <note type="related-texts">
         <p>Bordeaux Itinerary 589.4-6</p>
       </note>
