@@ -1,0 +1,378 @@
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="en" level="a">Socrates Scholasticus , <title level="m">Ecclesiastical History</title> 2.9.1-5</title>
+        <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
+        <sponsor>Vanderbilt University</sponsor>
+        <principal>Joseph L. Rife</principal>
+        <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
+        <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#plieberman">Phillip I. Lieberman</editor>
+        <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#dmichelson">David A. Michelson</editor>
+        <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
+        <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</editor>
+        <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
+        <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#jwoods">Joshua Woods</editor>
+        <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#eyonan">Eliana Yonan</editor>
+        <respStmt>
+        <resp>TEI encoding by</resp>
+        <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
+      </respStmt>
+        <respStmt>
+        <resp>Testimonia identified by</resp>
+        <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
+      </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="1.0"/>
+      </editionStmt>
+      <publicationStmt>
+        <authority>Caesarea City and Port Exploration Project</authority>
+        <idno type="URI">https://caesarea-maritima.org/testimonia/340/tei</idno>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0">
+            <p>Except for materials quoted from other sources, this entry is copyright 2021 by the contributors (Joseph L. Rife, et al.) and the Caesarea City and Port Exploration Project. It is licensed under the Attribution 4.0 International (CC BY 4.0) license.</p> <p>Some texts quoted in this entry may be in the public domain in the United States. No copyright is asserted for these quotations.</p> <p>Some texts quoted in this entry may have copyright restrictions and are reused under Section 107 of the Copyright Act of 1976 (Title 17 of the United States Code) which permits “fair use” of copyrighted materials for purposes such as criticism, comment, scholarship, and research. These texts remain under copyright of their owners. No copyright infringement is intended.</p>
+          </licence>
+        </availability>
+        <date>2020-06-10-05:00</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title level="s" xml:lang="en">Caesarea-Maritima.org: A Digital Archive</title>
+        <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
+        <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#plieberman">Phillip I. Lieberman</editor>
+      </seriesStmt>
+      <sourceDesc>
+        <p>Born digital.</p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+        <editorialDecl>
+          <p>Authors of testimonia are identified with URIs from The Virtual International Authority File, see <ref target="http://viaf.org">http://viaf.org</ref>. When multiple VIAF URIs exist, preference has been given to VIAF record linked to the Library of Congress authority file.</p>
+          <p>Geographic locations are identified with URIs from Pleiades: A Gazetteer of Past Places, see <ref target="https://pleiades.stoa.org/docs">https://pleiades.stoa.org/docs</ref>.</p>
+          <p>When possible, textual works have been cited using URNs according to the Distributed Text Services (DTS) system, see <ref target="https://distributed-text-services.github.io/specifications">https://distributed-text-services.github.io/specifications</ref>. Additional identifiers have been adopted from the systems used by the Perseus Digital Library (<ref target="http://www.perseus.tufts.edu/hopper">http://www.perseus.tufts.edu/hopper</ref>), Syriaca.org (<ref target="http://syriaca.org">http://syriaca.org</ref>), and other relevant authority systems such as WorldCat Identities or OCLC numbers (<ref target="https://www.worldcat.org">https://www.worldcat.org</ref>).</p>
+          <p>Bibliographic items are identified by a unique Caesarea-Maritima.org URI, which is linked, when possible, to OCLC numbers and other identifiers.</p>
+          <p>Dates have been encoded following the ISO 8601 standard, <ref target="https://www.iso.org/iso-8601-date-and-time-format.html">https://www.iso.org/iso-8601-date-and-time-format.html</ref>, and the best practices established for the Srophé App, see <ref target="http://srophe.app">http://srophe.app</ref>.</p>
+          <p>Languages have been encoded using ISO 639-1 (<ref target="https://www.iso.org/standard/22109.html">https://www.iso.org/standard/22109.html</ref>), 639-2 (<ref target="https://www.iso.org/standard/4767.html">https://www.iso.org/standard/4767.html</ref>), and 639-3 (<ref target="https://www.iso.org/standard/39534.html">https://www.iso.org/standard/39534.html</ref>) codes, following best practices of the TEI guidelines, see <ref target="https://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html">https://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html</ref>.</p>
+        </editorialDecl>
+        <classDecl>
+          <taxonomy xml:id="CM-NEAEH">
+            <desc>
+              <title>Caesarea-Maritima.org Chronology</title>: This chronology is adapted from the chronology used in <bibl>
+              <title>The New Encyclopedia of Archaeological Excavations in the Holy Land</title>
+              <ptr target="https://caesarea-maritima.org/bibl/HG492LV3"/>
+            </bibl>.  This taxonomy is used in the <gi>catRef</gi> encoding to classify the testimonia according to the time period(s) of the events described, rather than the date of composition of the testimonium. For example, Josephus may describe events occuring well before the period of his writing.
+            </desc>
+            <category xml:id="lowerPaleolithic">
+              <catDesc>Lower Paleolithic, 999999-119999 BCE</catDesc>
+            </category>
+            <category xml:id="upperAcheulean">
+              <catDesc>Upper Acheulean, 498050-148050 BP</catDesc>
+            </category>
+            <category xml:id="acheulean">
+              <catDesc>Acheulean, 298050-148050 BP</catDesc>
+            </category>
+            <category xml:id="mousterian">
+              <catDesc>Mousterian, 138050-38050 BP</catDesc>
+            </category>
+            <category xml:id="middlePaleolithic">
+              <catDesc>Middle Paleolithic, 119999-44999 BCE</catDesc>
+            </category>
+            <category xml:id="upperPaleolithic">
+              <catDesc>Upper Paleolithic, 44999-17999 BCE</catDesc>
+            </category>
+            <category xml:id="kebaran">
+              <catDesc>Kebaran , 18050-13050 BP</catDesc>
+            </category>
+            <category xml:id="epipaleolithic">
+              <catDesc>Epipaleolithic, 17999-8299 BCE</catDesc>
+            </category>
+            <category xml:id="geometricKebaran">
+              <catDesc>Geometric Kebaran, 12499-10899 BCE</catDesc>
+            </category>
+            <category xml:id="natufianCulture">
+              <catDesc>Natufian Culture, 10799-8499 BCE</catDesc>
+            </category>
+            <category xml:id="pre-potteryNeolithic">
+              <catDesc>Pre-Pottery Neolithic, 8299-5499 BCE</catDesc>
+            </category>
+            <category xml:id="potteryNeolithic">
+              <catDesc>Pottery Neolithic, 5499-4499 BCE</catDesc>
+            </category>
+            <category xml:id="chalcolithic">
+              <catDesc>Chalcolithic, 4499-3299 BCE</catDesc>
+            </category>
+            <category xml:id="earlyBronzeAge">
+              <catDesc>Early Bronze Age, 3299-2199 BCE</catDesc>
+            </category>
+            <category xml:id="bronzeAge">
+              <catDesc>Bronze Age, 3299-1199 BCE</catDesc>
+            </category>
+            <category xml:id="earlyBronzeAgeIa-b">
+              <catDesc>Early Bronze Age IA-B, 3299-2999 BCE</catDesc>
+            </category>
+            <category xml:id="earlyBronzeAgeIi">
+              <catDesc>Early Bronze Age II, 2999-2699 BCE</catDesc>
+            </category>
+            <category xml:id="earlyBronzeAgeIii">
+              <catDesc>Early Bronze Age III, 2699-2199 BCE</catDesc>
+            </category>
+            <category xml:id="middleBronzeAge">
+              <catDesc>Middle Bronze Age, 2199-1549 BCE</catDesc>
+            </category>
+            <category xml:id="middleBronzeAgeI">
+              <catDesc>Middle Bronze Age I, 2199-1999 BCE</catDesc>
+            </category>
+            <category xml:id="middleBronzeAgeIia">
+              <catDesc>Middle Bronze Age IIA, 1999-1749 BCE</catDesc>
+            </category>
+            <category xml:id="middleBronzeAgeIib">
+              <catDesc>Middle Bronze Age IIB, 1749-1549 BCE</catDesc>
+            </category>
+            <category xml:id="lateBronzeAge">
+              <catDesc>Late Bronze Age, 1599-1200 BCE</catDesc>
+            </category>
+            <category xml:id="lateBronzeAgeI">
+              <catDesc>Late Bronze Age I, 1549-1399 BCE</catDesc>
+            </category>
+            <category xml:id="lateBronzeAgeIia">
+              <catDesc>Late Bronze Age IIA, 1399-1299 BCE</catDesc>
+            </category>
+            <category xml:id="lateBronzeAgeIib">
+              <catDesc>Late Bronze Age IIB, 1299-1199 BCE</catDesc>
+            </category>
+            <category xml:id="ironAge">
+              <catDesc>Iron Age, 1199-585 BCE</catDesc>
+            </category>
+            <category xml:id="ironAgeIa">
+              <catDesc>Iron Age IA, 1199-1149 BCE</catDesc>
+            </category>
+            <category xml:id="ironAgeIb">
+              <catDesc>Iron Age IB, 1149-999 BCE</catDesc>
+            </category>
+            <category xml:id="ironAgeIia">
+              <catDesc>Iron Age IIA, 999-899 BCE</catDesc>
+            </category>
+            <category xml:id="ironAgeIib">
+              <catDesc>Iron Age IIB, 899-699 BCE</catDesc>
+            </category>
+            <category xml:id="ironAgeIic">
+              <catDesc>Iron Age IIC, 699-585 BCE</catDesc>
+            </category>
+            <category xml:id="babylonianAndPersian">
+              <catDesc>Babylonian and Persian Periods, 585-331 BCE</catDesc>
+            </category>
+            <category xml:id="classicalPeriod">
+                <catDesc>Classical Period, 480-336 BCE</catDesc>
+            </category>
+            <category xml:id="earlyHellenistic">
+              <catDesc>Early Hellenistic Period, 331-166 BCE</catDesc>
+            </category>
+            <category xml:id="hellenistic">
+              <catDesc>Hellenistic Period, 331-36 BCE</catDesc>
+            </category>
+            <category xml:id="earlyNabatean">
+              <catDesc>Early Nabatean Period, 331-36 BCE</catDesc>
+            </category>
+            <category xml:id="nabateanKingdom">
+              <catDesc>Nabatean Kingdom, 167 BCE-106 CE</catDesc>
+            </category>
+            <category xml:id="lateHellenistic">
+              <catDesc>Late Hellenistic Period, 166-36 BCE</catDesc>
+            </category>
+            <category xml:id="earlyRoman">
+              <catDesc>Early Roman Period, 36 BCE-132 CE</catDesc>
+            </category>
+            <category xml:id="herodian">
+              <catDesc>Herodian Period, 36 BCE-70 CE</catDesc>
+            </category>
+            <category xml:id="middleNabatean">
+              <catDesc>Middle Nabatean Period, 24 BCE-50 CE</catDesc>
+            </category>
+            <category xml:id="lateRoman">
+              <catDesc>Late Roman Period, 132-324 CE</catDesc>
+            </category>
+            <category xml:id="byzantine">
+              <catDesc>Byzantine Period, 324-638 CE</catDesc>
+            </category>
+            <category xml:id="earlyIslamic">
+              <catDesc>Early Islamic Period, 638-1099 CE</catDesc>
+            </category>
+            <category xml:id="crusader">
+              <catDesc>Crusader Period, 1099-1291 CE</catDesc>
+            </category>
+            <category xml:id="lateIslamic">
+              <catDesc>Late Islamic Period, 1291-1516 CE</catDesc>
+            </category>
+            <category xml:id="ottoman">
+              <catDesc>Ottoman Period, 1516-1917 CE</catDesc>
+            </category>
+            <category xml:id="britishTerritorialAdministration">
+              <catDesc>British Territorial Administration, 1917-1920 CE</catDesc>
+            </category>
+            <category xml:id="britishMandate">
+              <catDesc>British Mandate Period, 1920-1948 CE</catDesc>
+            </category>
+            <category xml:id="modernState">
+              <catDesc>Modern State, 1948- CE</catDesc>
+            </category>
+          </taxonomy>
+          <taxonomy xml:id="CM-Testimonia-Type">
+              <desc>
+                  <title>Caesarea-Maritima.org Testimonia Typology</title>: This typology defines three subsets of testimonia employed by the project and is used in the <gi>catRef</gi> below to further categorize a given testimonia record.
+              </desc>
+              <category xml:id="direct">
+                  <catDesc>A "direct testimonium" contains a word or phrase that is a direct reference to, or name for, the conceptual place Caeseara Maritima or its environs in part or in whole. When a "direct testimonium" also contains indirect references, the classification by type is nevertheless marked only as "direct".</catDesc>
+              </category>
+              <category xml:id="indirect">
+                  <catDesc>An "indirect testimonium" makes only an indirect reference to the conceptual place Caeseara Maritima or its environs in part or in whole. This indirect reference may take the form of a common noun or may be implied by context.</catDesc>
+              </category>
+              <category xml:id="toponymic-epithet">
+                  <catDesc>A "toponymic testimonium" contains a toponymic epithet related to the conceptual place Caeseara Maritima or its environs. When a "direct testimonium" also contain a "toponymic testimonium", the testimonium is marked as belonging to both types. These two types do not always overlap and thus our data set also includes "toponymic testimonia" which are not "direct testimonia".</catDesc>
+              </category>
+          </taxonomy>
+        </classDecl>
+      </encodingDesc>
+    <profileDesc>
+      <abstract>
+        <p/>
+      </abstract>
+      <creation>This entry is taken from <title xml:lang="en" type="uniform" level="m">Church
+          History</title>
+        <ref target="#bib340-1">2.9.1-5</ref> written by <persName
+          ref="https://viaf.org/viaf/55571017" role="author">Socrates of Constantinople</persName>
+        in <origDate period="#byzantine" when="0439">439 CE</origDate>. This work was likely
+        written in <origPlace ref="https://pleiades.stoa.org/places/520998"
+          >Constantinople</origPlace>.</creation>
+      <langUsage>
+        <language ident="grc">Ancient Greek</language>
+      </langUsage>
+      <textClass>
+        <classCode scheme="https://distributed-text-services.github.io/specifications">
+          <idno xml:base="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=" type="CTS-URN">urn:cts:greekLit:tlg2057.tlg002:2.4</idno>
+        </classCode>
+        <catRef scheme="#CM-Testimonia-Type" target="#direct"/>
+        <catRef scheme="#CM-NEAEH" target="#byzantine"/>
+      </textClass>
+    </profileDesc>
+    <revisionDesc status="published">
+      <change who="jrife" when="2020-06-10-05:00">ADDED: testimonium ID, URNs, URLs to edition and
+        translation, and Bibl URIs</change>
+      <change who="jrife" when="2020-06-10-05:00">CREATED: testimonium</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab type="identifier">
+        <idno type="URI">https://caesarea-maritima.org/testimonia/340</idno>
+      </ab>
+      <desc type="abstract" xml:id="abstract340-1">
+        <quote>
+          <placeName xml:lang="grc">τὴν ἐπισκοπὴν Καισαρείας</placeName>
+        </quote>, <quote>
+          <placeName xml:lang="grc">τῆς ἐν Παλαιστίνῃ Καισαρείας</placeName>
+        </quote>, <quote>
+          <placeName xml:lang="en">Bishopric of Cæsarea.</placeName>
+        </quote>,  and <quote>
+          <placeName xml:lang="en">of Cæsarea in Palestine,</placeName>
+        </quote> are place names attested in <persName ref="https://viaf.org/viaf/55571017" role="author">Socrates Scholasticus </persName>'s <title xml:lang="en" ref="urn:cts:greekLit:tlg2057.tlg002" type="uniform" level="m">Ecclesiastical History</title> <ref>2.9.1-5</ref> This testimonium was written circa <origDate period="#byzantine" when="0439">439 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+      <desc type="context">Socrates of Constantinople, the “Scholastic,” was an otherwise unknown
+        historian during the reign of Theodosius II during the early 5th century. He wrote his
+        account of the Church from 305 to 439 to continue Eusebius of Caesarea, adopting a
+        particular perspective on the relationship between Imperial and ecclesiastical authority. In
+        this passage concerning the events of the Council of Antioch in 341, Socrates offers a brief
+        portrait of the learned Eusebius of Emesa, who had studied at Caesarea, and who later
+        declined to lead the see of Alexandria following the demise of Athanasius.</desc>
+      <ab type="edition" xml:lang="grc" xml:id="quote340-1">
+        <anchor xml:id="testimonia-340.grc.1" corresp="#testimonia-340.en.1"/>(1) Ἐπὶ τούτοις τότε
+        τῆς διαβολῆς γενομένης προχειρίζονται τῆς Ἀλεξανδρείας ἐπίσκοπον πρῶτον μὲν Εὐσέβιον τὸν
+        ἐπικληθέντα Ἐμεσηνόν. Τίς δ’ οὗτος ἦν, διδάσκει Γεώργιος ὁ Λαοδικείας ἐπίσκοπος, ὃς τότε
+        παρῆν ἐν τῇ συνόδῳ. (2) Φησὶ γὰρ ἐν τῷ εἰς αὐτὸν πεπονημένῳ ἐγκωμίῳ, ὡς εἴη Εὐσέβιος ἐκ τῶν
+        εὐπατριδῶν τῆς ἐν Μεσοποταμίᾳ Ἐδέσσης καταγόμενος, ἐκ νέας τε ἡλικίας τὰ ἱερὰ μαθὼν
+        γράμματα, (3) εἶτα τὰ Ἑλλήνων παιδευθεὶς παρὰ τῷ τηνικαῦτα τῇ Ἐδέσσῃ ἐπιδημήσαντι παιδευτῇ,
+        τέλος ὑπὸ Πατροφίλου καὶ Εὐσεβίου τὰ ἱερὰ ἡρμηνεύσθη βιβλία, ὧν ὁ μὲν τῆς ἐν
+          <placeName>Καισαρείᾳ</placeName>, Πατρόφιλος δὲ τῆς ἐν Σκυθοπόλει προεστήκει ἐκκλησίας.
+        (4) Μετὰ ταῦτα δὲ ἐπιδημήσαντος αὐτοῦ τῇ Ἀντιοχείᾳ, ἐπεὶ συνέβη Εὐστάθιον ὑπὸ Κύρου
+        κατηγορηθέντα τοῦ Βεροιέως καθαιρεθῆναι ὡς σαβελλίζοντα, (5) εἶτ’ αὖθις τὸν Εὐσέβιον
+        συνεῖναι Εὐφρονίῳ τῷ διαδεξαμένῳ Εὐστάθιον, φεύγοντά τε τὴν ἱερωσύνην καταλαβεῖν τὴν
+        Ἀλεξάνδρειαν κἀκεῖ μαθεῖν τὰ φιλόσοφα.<ab type="source" source="#bib340-1"/><note xml:lang="en" type="textual">Ed. Hussey and Bright 1893</note>
+        <note xml:lang="en" type="corrigenda">Minor corr. with ref. to Hansen 1995 [cited by
+          book-chapter-section]</note>
+        <idno type="CTS-URN"/>
+        <ref/>
+      </ab>
+      <ab type="translation" xml:lang="en" xml:id="quote340-2">
+        <anchor xml:id="testimonia-340.en.1" corresp="#testimonia-340.grc.1"/>(1) On the ground
+        of these charges, they elected as first choice for Bishop of Alexandria Eusebius, called the
+        Emesene. George, bishop of Laodicea who was present at the synod, informs us who this person
+        was. (2) For he says in the encomium which he has composed to him that Eusebius was
+        descended from the nobility of Edessa in Mesopotamia, and that from a young age he had
+        studied the Holy Scriptures; (3) that he was afterwards instructed in Greek literature by a
+        teacher residing at the time in Edessa; and finally that the Sacred Books were expounded to
+        him by Patrophilus and Eusebius, of whom the latter presided over the Church at
+          <placeName>Caesarea</placeName> and the former over the Church at Scythopolis. (4)
+        Afterwards, when he lived in Antioch, it happened that Eustathius, bishop of Alexandria, was
+        deposed on the accusation of Cyrus of Beroea for holding the tenets of Sabellius. (5) Then
+        again Eusebius associated with Euphronius, successor of Eustathius, and avoiding office in
+        the Church returned to Alexandria, and there studied philosophy.<ab type="source" source="#bib340-2"/><note xml:lang="en" type="translation"
+          >Adapted from Zenos 1890 with ref. to Périchon and Maraval 2005</note>
+        <idno type="CTS-URN"/>
+        <ref/>
+      </ab>
+      <listBibl>
+        <head>Works Cited</head>
+        <bibl xml:id="bib340-1">
+          <ptr target="https://caesarea-maritima.org/testimonia/48ZUTZTI/"/>
+          <citedRange unit="section">2.9.1-5</citedRange>
+        </bibl>
+        <bibl xml:id="bib340-2">
+          <ptr target="https://caesarea-maritima.org/testimonia/ZKWVT3EK/"/>
+          <citedRange unit="p">112</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target="https://caesarea-maritima.org/testimonia/YMSN6NC9/"/>
+          <citedRange unit="section">2.9.1-5</citedRange>
+        </bibl>
+        <bibl>
+          <ptr target="https://caesarea-maritima.org/testimonia/K6BV8Z5T/"/>
+          <citedRange unit="p">2.38-2.41</citedRange>
+        </bibl>
+      </listBibl>
+    <note type="related-texts">
+        <p>Sozomen, Church History </p>
+      </note>
+      <note type="geography">
+        <p>Alexandria</p>
+        <p>Emesa (Homs)</p>
+        <p>Laodicea (Latakia)</p>
+        <p>Edessa</p>
+        <p>Mesopotamia</p>
+        <p>Scythopolis (Beth She’an)</p>
+        <p>Antioch on the Orontes</p>
+        <p>Beroea</p>
+      </note>
+      <note type="prosopography">
+        <p>Athanasius, bishop of Alexandria</p>
+        <p>George, bishop of Laodicaea</p>
+        <p>Eusebius, bishop of Emesa</p>
+        <p>Eusebius, bishop of Caesarea</p>
+        <p>Patrophilus, bishop of Scythopolis</p>
+        <p>Cyrus, bishop of Beroea</p>
+        <p>Sibellius</p>
+      </note>
+      <note type="themes">
+        <p>Christianity</p>
+        <p>Christian Church</p>
+        <p>Literature</p>
+        <p>Philosophy</p>
+        <p>Education (sacred)</p>
+        <p>Travel</p>
+        <p>Society and Culture</p>
+      </note>
+    </body>
+  </text>
+</TEI>
