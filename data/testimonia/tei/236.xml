@@ -245,7 +245,7 @@
         <p/>
       </abstract>
       <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Description of the Holy
-               Land</title> <ref n="a" target="#bib236-1">489-495</ref> written by <persName role="author" ref="http://viaf.org/viaf/306432747">John of Würzburg</persName> in <origDate notBefore="1145" notAfter="1175" period="#crusader">ca. 1160 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</creation>
+               Land</title> <ref target="#bib236-1">489-495</ref> written by <persName role="author" ref="http://viaf.org/viaf/306432747">John of Würzburg</persName> in <origDate notBefore="" notAfter="" period="#">NaN CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</creation>
       <langUsage>
         <language ident="la">Latin</language>
       </langUsage>
@@ -254,10 +254,11 @@
           <idno type="CTS-URN"/>
         </classCode>
         <catRef scheme="#CM-Testimonia-Type" target="#direct"/>
-        <catRef scheme="#CM-NEAEH" target="#crusader"/>
+        <catRef scheme="#CM-NEAEH" target="#earlyRoman #herodian #crusader"/>
       </textClass>
     </profileDesc>
     <revisionDesc status="draft">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
     </revisionDesc>
   </teiHeader>
@@ -270,31 +271,43 @@
                Palaestina</placeName></quote>, <quote><placeName>Turris Strathonis</placeName></quote>, <quote><placeName>Caesarea
                Palaestina</placeName></quote>, and <quote><placeName>Strato’s
                Tower</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/306432747">John of Würzburg</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Description of the Holy
-               Land</title> <ref n="a" target="#bib236-1">489-495</ref>. This passage was written ca. <origDate notBefore="1145" notAfter="1175" period="#crusader">ca. 1160 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
+               Land</title> <ref target="#bib236-1">489-495</ref>. This passage was written ca. <origDate notBefore="" notAfter="" period="#">NaN CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
       <desc type="context">John was a cleric in Würzburg in Bavaria during the 12th century who
-            travelled on a pilgrimage to the Holy Land under the Kingdom of Jerusalem. In his
-            itinerary south from Mount Carmel he describes Caesarea as a city associated with the
-            early Church and Herod’s building programs.</desc>
+        travelled on a pilgrimage to the Holy Land under the Kingdom of Jerusalem. In his itinerary
+        south from Mount Carmel, he describes Caesarea as a city associated with the early Church
+        and Herod’s building programs.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote236-1">
-        <anchor xml:id="testimonia-236.la.1" corresp="#testimonia-236.en.1"/>Sextodecimo miliario a monte Carmeli contra meridiem <placeName>Cesarea
+        <anchor xml:id="testimonia-236.la.1" corresp="#testimonia-236.en.1"/>
+        Sextodecimo miliario a monte Carmeli contra meridiem <placeName>Cesarea
                Palaestina</placeName> metropolis, ex qua Cornelius centurio, quem in ea baptizavit
             beatus Petrus et creavit episcopum. In qua et <placeName>Turris Strathonis</placeName>,
             in qua Herodes contra adventum Augusti Cesaris construxit de albo marmore portum. Ipse
             Herodes turrim, quae Ierosolimam supereminet, quae et Turris David dicitur, Iosepho
-            attestante fabricavit eamque Antoniam vocavit.<ab type="source" source="#bib236-1"/>
+            attestante fabricavit eamque Antoniam vocavit.
+        
+        
+        
+        
+      <ab type="source" source="#bib236-1"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
         <note xml:lang="en" type="textual">Ed. Huygens
                1994</note>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote236-2">
-        <anchor xml:id="testimonia-236.en.1" corresp="#testimonia-236.la.1"/>Sixteen miles from Mount Carmel southward is <placeName>Caesarea
+        <anchor xml:id="testimonia-236.en.1" corresp="#testimonia-236.la.1"/>
+        Sixteen miles from Mount Carmel southward is <placeName>Caesarea
                Palaestina</placeName>, the metropolis, the city of Cornelius the centurion, whom the
             blessed Peter baptized there and made a bishop. Here also is <placeName>Strato’s
                Tower</placeName>, where Herod built a harbor out of white marble against the coming
             of Augustus Caesar. Herod himself built the tower that dominates Jerusalem, also called
             the Tower of David. Josephus tells us that he built this Tower and called it
-               Antonia.<ab type="source" source="#bib236-2"/>
+               Antonia.
+        
+        
+        
+        
+      <ab type="source" source="#bib236-2"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
         <note xml:lang="en" type="translation">Adapted from Stewart 1896</note>
@@ -311,6 +324,10 @@
           <citedRange unit="section">23</citedRange>
         </bibl>
       </listBibl>
+    
+      
+      
+      
     <note type="related-texts"/>
       <note type="geography">
         <p>Carmel, Mount</p>

@@ -244,7 +244,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Church History</title> <ref n="c" target="#bib231-1">4.7c</ref> written by <persName role="author" ref="http://viaf.org/viaf/296114344">Evagrius
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Church History</title> <ref target="#bib231-1">4.7c</ref> written by <persName role="author" ref="http://viaf.org/viaf/296114344">Evagrius
                Scholasticus</persName> in <origDate notBefore="0593" notAfter="0598" period="#byzantine">593-598 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/658381">Antioch on the
                Orontes</origPlace>.</creation>
       <langUsage>
@@ -259,6 +259,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc status="draft">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
     </revisionDesc>
   </teiHeader>
@@ -267,35 +268,47 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/231</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract231-1"><quote><placeName>τὴν Καίσαρος</placeName></quote>, <quote><placeName>ῆς Καίσαρος</placeName></quote>, and <quote><placeName>city of
+      <desc type="abstract" xml:id="abstract231-1"><quote><placeName>τὴν Καίσαρος</placeName></quote>, <quote><placeName>τῆς Καίσαρος</placeName></quote>, and <quote><placeName>city of
                Caesar</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/296114344">Evagrius
-               Scholasticus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Church History</title> <ref n="c" target="#bib231-1">4.7c</ref>. This passage was written ca. <origDate notBefore="0593" notAfter="0598" period="#byzantine">593-598 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/658381">Antioch on the
+               Scholasticus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Church History</title> <ref target="#bib231-1">4.7c</ref>. This passage was written ca. <origDate notBefore="0593" notAfter="0598" period="#byzantine">593-598 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/658381">Antioch on the
                Orontes</origPlace>.</desc>
-      <desc type="context">Evagrius Scholasticus came from a background of wealth and education
-            in Syria and rose to prominence in the circles of power in the early Byzantine empire
-            and church, as legal advisor of the Patriarchate of Antioch and honorary officeholder
-            under Maurice and Tiberius II. His Church History from the First Council of Ephesus to
-            the middle reign of Maurice (431-593/4 C.E.) provides especially rich evidence for the
-            history of Late Antique Syria. His famous portrait of Zosimas of Synda reveals the holy
-            man’s close connection to Caesarea (4.7), in particular his association with the
-            otherwise unknown grandee Arcesilaus, who became the venerable monk’s discussant and
-            likely patron. In this passage, which adopts the form of a parable or folktale, retells
-            Zosimas’ journey to Caesarea on a donkey and his supernatural exchange with a lion.</desc>
+      <desc type="context">Evagrius Scholasticus came from a background of wealth and education in
+        Syria and rose to prominence in the circles of power in the early Byzantine empire and
+        church, as legal advisor of the Patriarchate of Antioch and honorary officeholder under
+        Maurice and Tiberius II. His <title>Church History</title> from the First Council of Ephesus
+        to the middle reign of Maurice (431-593/4 C.E.) provides especially rich evidence for the
+        history of Late Antique Syria. His famous portrait of Zosimas of Synda reveals the holy
+        man’s close connection to Caesarea (4.7), in particular his association with the otherwise
+        unknown grandee Arcesilaus, who became the venerable monk’s discussant and likely patron. In
+        this passage, which adopts the form of a parable or folktale, retells Zosimas’ journey to
+        Caesarea on a donkey and his supernatural exchange with a lion.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote231-1">
-        <anchor xml:id="testimonia-231.grc.1" corresp="#testimonia-231.en.1"/>Τούτῳ τῷ Ζωσιμᾷ καί ποτε ἐπὶ <placeName>τὴν Καίσαρος</placeName> ἰόντι
-            ὀνάριόν τε παρασυρομένῳ ἐν ᾧ τῶν τινά οἱ ἐπιτηδείων ἐπεβέβλητο, λέων ἔπεισι καὶ τὸν ὄνον
-            ἁρπάσας ἀπῄει. Ὁ δὲ Ζωσιμᾶς ἀνὰ τὴν ὕλην εἵπετο μέχρις ὅτου διακορὴσὁ λέων ἐκ τῆς θοίνης
-            τοῦ ζῴου γέγονε· πρὸς ὃν ἐπιγελάσας ὁ Ζωσιμᾶς φησιν· Ἀλλὰ γάρ, ὦ ἑταῖρε, τὰ τῆς πορείας
-            ἐμοὶ διακέκοπται πάχητί τε ὄντι πόρρω τε τῆς ἡλικίας ἀφιγμένῳ, καὶ μὴ δυναμένῳ
-            νωτοφορεῖν τὰ ἐπὶ τοῦ ζῴου σεσαγμένα. Ἀχθοφορεῖν οὖν ἀνάγκη σεπαρὰ τὸν θεσμὸν τῆς
-            φύσεως, εἴπερ ἐθέλεις τῶν ἐντεῦθεν τὸν Ζωσιμᾶν ἀπαλλάττεσθαι καὶ θηρίον αὖθις εἶναι. Ὁ
-            δὲ τοῦ θυμοῦ καθάπαξ ἐπιλελησμένος ὑπέσαινε καὶ τῷ Ζωσιμᾷ προσέτρεχε πράως εὐθύς, καὶ
-            διὰ τοῦ σχήματος ἐβόα τὸ πειθήνιον. Ὧι περιθεὶς ὁ Ζωσιμᾶς τοῦ ὄνου τὸ φορτίον μέχρι τῶν
-            πυλῶν τ <placeName>ῆς Καίσαρος</placeName> ἤγαγε, δεικνὺς τοῦ θεοῦ τὴν δύναμιν καὶ ὡς
-            ἅπαντα τοῖς ἀνθρώποις δοῦλά τε καὶ πειθήνια, ὅταν αὐτῷ ζῶμεν καὶ τὴν δεδομένην ἡμῖν
-            χάριν οὐ παραχαράττομεν.<ab type="source" source="#bib231-1"/><idno type="CTS-URN"/><ref target="https://babel.hathitrust.org/cgi/pt?id=hvd.ah3vvp&amp;view=1up&amp;seq=182"/><note xml:lang="en" type="textual">Ed. Bidez and Parmentier 1898</note></ab>
+        <anchor xml:id="testimonia-231.grc.1" corresp="#testimonia-231.en.1"/>
+        Τούτῳ τῷ Ζωσιμᾷ καί
+        ποτε ἐπὶ <placeName>τὴν Καίσαρος</placeName> ἰόντι ὀνάριόν τε παρασυρομένῳ ἐν ᾧ τῶν τινά οἱ
+        ἐπιτηδείων ἐπεβέβλητο, λέων ἔπεισι καὶ τὸν ὄνον ἁρπάσας ἀπῄει. Ὁ δὲ Ζωσιμᾶς ἀνὰ τὴν ὕλην
+        εἵπετο μέχρις ὅτου διακορὴσὁ λέων ἐκ τῆς θοίνης τοῦ ζῴου γέγονε· πρὸς ὃν ἐπιγελάσας ὁ
+        Ζωσιμᾶς φησιν· Ἀλλὰ γάρ, ὦ ἑταῖρε, τὰ τῆς πορείας ἐμοὶ διακέκοπται πάχητί τε ὄντι πόρρω τε
+        τῆς ἡλικίας ἀφιγμένῳ, καὶ μὴ δυναμένῳ νωτοφορεῖν τὰ ἐπὶ τοῦ ζῴου σεσαγμένα. Ἀχθοφορεῖν οὖν
+        ἀνάγκη σεπαρὰ τὸν θεσμὸν τῆς φύσεως, εἴπερ ἐθέλεις τῶν ἐντεῦθεν τὸν Ζωσιμᾶν ἀπαλλάττεσθαι
+        καὶ θηρίον αὖθις εἶναι. Ὁ δὲ τοῦ θυμοῦ καθάπαξ ἐπιλελησμένος ὑπέσαινε καὶ τῷ Ζωσιμᾷ
+        προσέτρεχε πράως εὐθύς, καὶ διὰ τοῦ σχήματος ἐβόα τὸ πειθήνιον. Ὧι περιθεὶς ὁ Ζωσιμᾶς τοῦ
+        ὄνου τὸ φορτίον μέχρι τῶν πυλῶν <placeName>τῆς Καίσαρος</placeName> ἤγαγε, δεικνὺς τοῦ θεοῦ
+        τὴν δύναμιν καὶ ὡς ἅπαντα τοῖς ἀνθρώποις δοῦλά τε καὶ πειθήνια, ὅταν αὐτῷ ζῶμεν καὶ τὴν
+        δεδομένην ἡμῖν χάριν οὐ παραχαράττομεν.
+        
+        
+        
+        
+      <ab type="source" source="#bib231-1"/>
+        <idno type="CTS-URN"/>
+        <ref target="https://babel.hathitrust.org/cgi/pt?id=hvd.ah3vvp&amp;view=1up&amp;seq=182"/>
+        <note xml:lang="en" type="textual">Ed. Bidez and Parmentier
+          1898</note>
+      </ab>
       <ab type="translation" xml:lang="en" xml:id="quote231-2">
-        <anchor xml:id="testimonia-231.en.1" corresp="#testimonia-231.grc.1"/>Once when this Zosimas was going to the <placeName>city of
+        <anchor xml:id="testimonia-231.en.1" corresp="#testimonia-231.grc.1"/>
+        Once when this Zosimas was going to the <placeName>city of
                Caesar</placeName> and was leading along an ass on which he had loaded some of his
             necessities, a lion came up, seized the ass, and departed. Zosimas followed him into the
             wood until the lion became satiated from his feast on the animal. Zosimas smiled at it
@@ -307,7 +320,16 @@
             up to Zosimas, and through its demeanor proclaimed obedience. Zosimas put on him the
             ass’s burden and led him as far as the gates of the <placeName>city of
                Caesar</placeName>, showing God’s power, and how all things are obedient slaves to
-            men when we live for Him and do not debase the grace given to us.<ab type="source" source="#bib231-2"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="translation">Rev. Whitby 2000</note></ab>
+            men when we live for Him and do not debase the grace given to us.
+        
+        
+        
+        
+      <ab type="source" source="#bib231-2"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        <note xml:lang="en" type="translation">Rev. Whitby 2000</note>
+      </ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib231-1">
@@ -321,6 +343,10 @@
           <citedRange unit="p">207</citedRange>
         </bibl>
       </listBibl>
+    
+      
+      
+      
     <note type="related-texts">
         <p>Nicephorus Callistus Xanthopoulos 17.4</p>
       </note>

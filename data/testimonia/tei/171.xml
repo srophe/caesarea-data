@@ -244,7 +244,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Eastern History</title> <ref n="a" target="#bib171-1">23-25</ref> written by <persName ref="http://viaf.org/viaf/177480349" role="author">Jacques de Vitry</persName> in <origDate notBefore="1216" notAfter="1225" period="#crusader">1216-1225 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678010">Acre</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Eastern History</title> <ref target="#bib171-1">23-25</ref> written by <persName ref="http://viaf.org/viaf/177480349" role="author">Jacques de Vitry</persName> in <origDate notBefore="1216" notAfter="1225" period="#crusader">1216-1225 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678010">Acre</origPlace>.</creation>
          <langUsage>
             <language ident="la">Latin</language>
          </langUsage>
@@ -253,10 +253,11 @@
                <idno type="CTS-URN"/>
             </classCode>
             <catRef scheme="#CM-Testimonia-Type" target="#direct"/>
-            <catRef scheme="#CM-NEAEH" target="#crusader"/>
+            <catRef scheme="#CM-NEAEH" target="#earlyRoman #herodian #crusader"/>
          </textClass>
       </profileDesc>
       <revisionDesc status="draft">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
          <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
       </revisionDesc>
    </teiHeader>
@@ -265,7 +266,7 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/171</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract171-1"><quote><placeName>Cesaream</placeName></quote>, <quote><placeName>Cesaream Palestinam</placeName></quote>, <quote><placeName>Turris Stratonis</placeName></quote>, <quote><placeName>Cesarea</placeName></quote>, <quote><placeName>Caesarea</placeName></quote>, <quote><placeName>Caesarea in Palestine</placeName></quote>, <quote><placeName>Strato’s Tower</placeName></quote>, and <quote><placeName>Caesaerea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/177480349" role="author">Jacques de Vitry</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Eastern History</title> <ref n="a" target="#bib171-1">23-25</ref>. This passage was written ca. <origDate notBefore="1216" notAfter="1225" period="#crusader">1216-1225 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678010">Acre</origPlace>.</desc>
+         <desc type="abstract" xml:id="abstract171-1"><quote><placeName>Cesaream</placeName></quote>, <quote><placeName>Cesaream Palestinam</placeName></quote>, <quote><placeName>Turris Stratonis</placeName></quote>, <quote><placeName>Cesarea</placeName></quote>, <quote><placeName>Caesarea</placeName></quote>, <quote><placeName>Caesarea in Palestine</placeName></quote>, <quote><placeName>Strato’s Tower</placeName></quote>, and <quote><placeName>Caesaerea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/177480349" role="author">Jacques de Vitry</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Eastern History</title> <ref target="#bib171-1">23-25</ref>. This passage was written ca. <origDate notBefore="1216" notAfter="1225" period="#crusader">1216-1225 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678010">Acre</origPlace>.</desc>
          <desc type="context">Jacques de Vitry was a prominent French cleric and theologian who was
             elected Bishop of Acre in 1214. In that post from 1216, he supported the Fifth Crusade
             and wrote a detailed history of the Holy Land, beginning with Mohammed and continuing to
@@ -274,7 +275,8 @@
             Jerusalem on Christmas, 1100 C.E., including the siege of Caesarea on May 2-17, 1101
             C.E. </desc>
          <ab type="edition" xml:lang="la" xml:id="quote171-1">
-        <anchor xml:id="testimonia-171.la.1" corresp="#testimonia-171.en.1"/>(23) Ipso vero in fine eiusdem anni viam universe carnis ingresso,
+        <anchor xml:id="testimonia-171.la.1" corresp="#testimonia-171.en.1"/>
+        (23) Ipso vero in fine eiusdem anni viam universe carnis ingresso,
             frater eius Baldwinus, miles in armis strenuus, ab annis adolescentie sue preliis
             exercitatus, de communi omnium assensu electus est in dominum et in regem inunctus. Ipse
             autem vir militaris et in agendis negotiis suis providus et sollicitus cum summo studio
@@ -292,9 +294,19 @@
             prosequutus est appellationem. (25) Capta <placeName>Cesarea</placeName> addidit dictus
             rex, collecto universo exercitu a minore usque ad maiorem, Acconensem obsidere
             civitatem, eo quod peregrinis suscipiendis esset aptissima, et portum habens idoneum
-            tutam navibus preberet stationem.<ab type="source" source="#bib171-1"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="textual">Ed. Donnadieu 2008</note></ab>
+            tutam navibus preberet stationem.
+        
+        
+        
+        
+      <ab type="source" source="#bib171-1"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        <note xml:lang="en" type="textual">Ed. Donnadieu 2008</note>
+      </ab>
          <ab type="translation" xml:lang="en" xml:id="quote171-2">
-        <anchor xml:id="testimonia-171.en.1" corresp="#testimonia-171.la.1"/>(23) At the end of the year, he (sc. Godfrey of Bouillon) went the
+        <anchor xml:id="testimonia-171.en.1" corresp="#testimonia-171.la.1"/>
+        (23) At the end of the year, he (sc. Godfrey of Bouillon) went the
             way of all flesh, but his brother Baldwin, a knight valiant in arms, practiced in
             fighting from his childhood, was by common consent chosen to reign over them and
             anointed as King. He was a man of war, wise and intelligent in the management of his
@@ -312,7 +324,16 @@
             appeal that he might go to Rome. (25) The aforementioned King Baldwin, after he had
             taken <placeName>Caesaerea</placeName>, led his whole assembled army from the lesser
             task to the greater, and set it to besiege Acre, because Acre was most convenient for
-            receiving pilgrims and, having a good harbor, offered a safe haven for ships.<ab type="source" source="#bib171-2"/><idno type="CTS-URN"/><ref target="https://books.google.com/books/about/The_History_of_Jerusalem_A_D_1180.html?id=UpQ3AQAAMAAJ"/><note xml:lang="en" type="translation">Adapted from Stewart 1896</note></ab>
+            receiving pilgrims and, having a good harbor, offered a safe haven for ships.
+        
+        
+        
+        
+      <ab type="source" source="#bib171-2"/>
+        <idno type="CTS-URN"/>
+        <ref target="https://books.google.com/books/about/The_History_of_Jerusalem_A_D_1180.html?id=UpQ3AQAAMAAJ"/>
+        <note xml:lang="en" type="translation">Adapted from Stewart 1896</note>
+      </ab>
          <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib171-1">
@@ -324,7 +345,11 @@
           <citedRange unit="p">4-5</citedRange>
         </bibl>
       </listBibl>
-      <note type="related-texts">
+      
+      
+      
+      
+    <note type="related-texts">
         <p>Marino Sanuto the Elder, Secrets for Those Faithful to the Cross 3.6.4</p>
       </note>
       <note type="geography">

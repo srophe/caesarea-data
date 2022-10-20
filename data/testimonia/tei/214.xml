@@ -249,7 +249,11 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:greekLit:tlg0087.tlg011" type="uniform" level="m">Correct Spelling</title> <ref n="a" target="#bib214-1">2.2.4.127</ref> written by <persName ref="http://viaf.org/viaf/88626271" role="author">Aelius Herodian</persName> in <origDate notBefore="0150" notAfter="0200" period="#lateRoman">150-200 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/727070">Alexandria</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" type="uniform" level="m">Correct
+               Spelling</title>
+            <ref target="#bib214-1">2.2.4.127</ref> written by <persName ref="http://viaf.org/viaf/88626271" role="author">Aelius Herodian</persName> in
+               <origDate notBefore="0150" notAfter="0200" period="#lateRoman">150-200 CE</origDate>.
+            This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/727070">Alexandria</origPlace>.</creation>
          <langUsage>
             <language ident="grc">Ancient Greek</language>
          </langUsage>
@@ -262,6 +266,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc status="draft">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
          <change who="wpotter" when="">ADDED: testimonium ID, URNs, URLs to edition and translation, and Bibl URIs</change>
          <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
       </revisionDesc>
@@ -271,26 +276,41 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/214</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract214-1"><quote><placeName>Καισάρεια</placeName></quote>, and <quote><placeName>Kaisareia</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/88626271" role="author">Aelius Herodian</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg0087.tlg011" type="uniform" level="m">Correct Spelling</title> <ref n="a" target="#bib214-1">2.2.4.127</ref>. This passage was written ca. <origDate notBefore="0150" notAfter="0200" period="#lateRoman">150-200 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/727070">Alexandria</origPlace>.</desc>
+         <desc type="abstract" xml:id="abstract214-1"><quote><placeName>Καισάρεια</placeName></quote>, and <quote><placeName>Kaisareia</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/88626271" role="author">Aelius Herodian</persName>, <title xml:lang="en" type="uniform" level="m">Correct
+               Spelling</title> <ref target="#bib214-1">2.2.4.127</ref>. This passage was written ca. <origDate notBefore="0150" notAfter="0200" period="#lateRoman">150-200 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/727070">Alexandria</origPlace>.</desc>
          <desc type="context">Aelius Herodian studied and taught language and literature (“grammar”)
             in Alexandria, the intellectual and cultural center of the Roman East, before moving to
             Rome as a celebrated scholar later in his career. In his grammatical treatise on
-            spelling, Herodian cited the toponym Caesarea (Καισάρεια) as an example of a particular
-            word-formation, as he does elsewhere.</desc>
+            spelling, Herodian cited the toponym "Caesarea" (Καισάρεια) as an example of a
+            particular word-formation, as he does elsewhere.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote214-1">
-        <anchor xml:id="testimonia-214.grc.1" corresp="#testimonia-214.en.1"/>Τὰ διὰ τοῦ -εια ἐπὶ πόλεων προπαροξύτονα θηλυκὰ δίφθογγον ἔχει οἷον
-            Ἀλεξάνδρεια, Ἀπάμεια, <placeName>Καισάρεια</placeName>, Ἀντιόχεια, Θέσπεια· τὸ δὲ
-            ὀξυτόνως λεγόμενον Θεσπιά διὰ τοῦ -ι· τὰ δὲ ἐπὶ χώρας ὄντα διὰ τοῦ -ι γράφεται καὶ
-            παροξύνεται, Λυκία, Πισιδία, Κιλικία, Σικελία, Παφλαγονία, Ἀρμενία, Συρία, Καππαδοκία,
-            Ἰταλία, Ἀσία, Θεσσαλία, Βοιωτία, Βιθυνία, Ἰτουρία.<ab type="source" source="#bib214-1"/><idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg0087.tlg011.1st1K-grc1:2.2.4.127</idno><ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg0087.tlg011.1st1K-grc1:2.2.4.127"/><note>Ed. Lentz 1868 [cited by
-               page-line]</note></ab>
+        <anchor xml:id="testimonia-214.grc.1" corresp="#testimonia-214.en.1"/>
+            Τὰ διὰ τοῦ -εια
+            ἐπὶ πόλεων προπαροξύτονα θηλυκὰ δίφθογγον ἔχει οἷον Ἀλεξάνδρεια, Ἀπάμεια,
+               <placeName>Καισάρεια</placeName>, Ἀντιόχεια, Θέσπεια· τὸ δὲ ὀξυτόνως λεγόμενον Θεσπιά
+            διὰ τοῦ -ι· τὰ δὲ ἐπὶ χώρας ὄντα διὰ τοῦ -ι γράφεται καὶ παροξύνεται, Λυκία, Πισιδία,
+            Κιλικία, Σικελία, Παφλαγονία, Ἀρμενία, Συρία, Καππαδοκία, Ἰταλία, Ἀσία, Θεσσαλία,
+            Βοιωτία, Βιθυνία, Ἰτουρία.
+            
+            
+            
+            
+            
+         <ab type="source" source="#bib214-1"/>
+        <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/"/>
+        <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg0087.tlg011.1st1K-grc1:2.2.4.127"/>
+        <note xml:lang="en">Ed. Lentz 1868 [cited by page-line]</note>
+      </ab>
          <ab type="translation" xml:lang="en" xml:id="quote214-2">
-        <anchor xml:id="testimonia-214.en.1" corresp="#testimonia-214.grc.1"/>Feminine proparoxytone nouns for cities in -eia have a diphthong,
+        <anchor xml:id="testimonia-214.en.1" corresp="#testimonia-214.grc.1"/>
+        Feminine proparoxytone nouns for cities in -eia have a diphthong,
             e.g., Alexandreia, Apameia, <placeName>Kaisareia</placeName>, Antiocheia, Thespeia.
             Thespia in -i is a noun spoken oxytone. Nouns for regions in -i are written and spoken
             paroxytone: Lykia, Pisidia, Kilikia, Sikelia, Paphlagonia, Armenia, Syria, Kappadokia,
             Italia, Asia, Thessalia, Boiotia, Bithynia, Itouria.<note xml:lang="en" type="translation">Trans. J.
                L. Rife</note>
+        
+        
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -302,7 +322,11 @@
           <citedRange unit="line">22-27</citedRange>
         </bibl>
       </listBibl>
-      <note type="related-texts">
+      
+      
+      
+      
+    <note type="related-texts">
         <p>Aelius Herodianus, Declension of Nouns 751.25-33</p>
         <p>George Choeroboscus, Prologue and Notes on Theodosius of Alexandria’s Introductory Rules 303.12-20</p>
       </note>

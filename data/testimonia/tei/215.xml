@@ -245,7 +245,7 @@
         <p/>
       </abstract>
       <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Lives of the Philosophers and
-               Sophists</title> <ref n="a" target="#bib215-1">17</ref> written by <persName role="author" ref="http://viaf.org/viaf/100215825">Eunapius</persName> in <origDate notBefore="0380" notAfter="0420" period="#byzantine">380-420 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/579885">Athens</origPlace>.</creation>
+               Sophists</title> <ref target="#bib215-1">17</ref> written by <persName role="author" ref="http://viaf.org/viaf/100215825">Eunapius</persName> in <origDate notBefore="0380" notAfter="0420" period="#byzantine">380-420 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/579885">Athens</origPlace>.</creation>
       <langUsage>
         <language ident="grc">Ancient Greek</language>
       </langUsage>
@@ -258,6 +258,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc status="draft">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
     </revisionDesc>
   </teiHeader>
@@ -267,7 +268,7 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/215</idno>
       </ab>
       <desc type="abstract" xml:id="abstract215-1"><quote><placeName>Παλαιστίνης Καισάρεια</placeName></quote>, and <quote><placeName>Caesarea Palestinae</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/100215825">Eunapius</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Lives of the Philosophers and
-               Sophists</title> <ref n="a" target="#bib215-1">17</ref>. This passage was written ca. <origDate notBefore="0380" notAfter="0420" period="#byzantine">380-420 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/579885">Athens</origPlace>.</desc>
+               Sophists</title> <ref target="#bib215-1">17</ref>. This passage was written ca. <origDate notBefore="0380" notAfter="0420" period="#byzantine">380-420 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/579885">Athens</origPlace>.</desc>
       <desc type="context">Eunapius from Sardis became an accomplished sophist and historian at
             Athens during the late 4th into the early 5th century. He wrote a collection of 24 short
             biographies of leading thinkers during his time, concentrating chiefly on their
@@ -279,7 +280,8 @@
             We learn from Libanius’ writings (see below) that Acacius came from an academic family
             in Phoenicia, taught in Antioch, and finished his career in Palestine.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote215-1">
-        <anchor xml:id="testimonia-215.grc.1" corresp="#testimonia-215.en.1"/>(1) ἈΚΑΚΙΟΣ. <placeName>Παλαιστίνης Καισάρεια</placeName> τὸν Ἀκάκιον
+        <anchor xml:id="testimonia-215.grc.1" corresp="#testimonia-215.en.1"/>
+        (1) ἈΚΑΚΙΟΣ. <placeName>Παλαιστίνης Καισάρεια</placeName> τὸν Ἀκάκιον
             ἤνεγκεν, καὶ ἦν συνανασχὼν τῷ Λιβανίῳ κατὰ τοὺς αὐτοὺς χρόνους· τόνου δὲ σοφιστικοῦ καὶ
             πνεύματος, εἴπερ τις ἄλλος, γέμων, καὶ ἡ λέξις μετὰ κρότου πρὸς τὸν ἀρχαῖον ἐπέστρεφε
             τρόπον· συνανασχὼν δὲ Λιβανίῳ, κατέσεισε τὰ πρῶτα, καὶ περιῆν ἰσχυρῶς. (2) βιβλίδιον
@@ -292,27 +294,45 @@
             καλοῖς καὶ ἐρασμίοις σώμασιν, οὐ πάντες τὸ αὐτὸ θαυμάζουσιν, ὁ δὲ ἁλοὺς οὐκ οἶδεν ὅθεν
             εἴληπται. ὁ μὲν οὖν Ἀκάκιος ἐς τὸ ἄριστον ἀναδραμών, καὶ πολλὴν ἑαυτῷ παρασχὼν δόξαν ὡς
             τοῦ Λιβανίου κρατήσων, ἀπῄει νέος ὢν ἔτι· οἱ δὲ ἄνθρωποι, ὅσον σπουδαῖον ἐν αὐτοῖς,
-            ἐθαύμαζον αὐτὸν ὥσπερ εἰς γῆρας ἀφιγμένον.<ab type="source" source="#bib215-1"/><idno type="CTS-URN"/><ref/><note xml:lang="en" type="textual">Ed. Giangrande
-               1956</note></ab>
+            ἐθαύμαζον αὐτὸν ὥσπερ εἰς γῆρας ἀφιγμένον.
+        
+        
+        
+        
+      <ab type="source" source="#bib215-1"/>
+        <idno type="CTS-URN"/>
+        <ref/>
+        <note xml:lang="en" type="textual">Ed. Giangrande
+               1956</note>
+      </ab>
       <ab type="translation" xml:lang="en" xml:id="quote215-2">
-        <anchor xml:id="testimonia-215.en.1" corresp="#testimonia-215.grc.1"/>(1) ACACIUS. <placeName>Caesarea Palestinae</placeName> produced
-            Acacius, and he emerged at the same time as Libanius. No one else was so full of
-            sophistic force and inspiration, and his sonorous diction was inclined to classical
-            models. Although he came up at the same time as Libanius, he took first prize in their
-            match and excelled through sheer strength. Accordingly Libanius wrote a booklet On
-            Genius, completely dedicated to Acacius, in which (the author) clearly attributes his
-            defeat to the magnitude of that man’s talent, while providing evidence for his own
-            stance and exactitude in using an erudite lexicon. It is as though he was unaware that
-            Homer did not just carefully study every verse, but also beautiful expression and
-            melody, and that Pheidias did not strive to represent the finger and the foot for the
-            praise of the goddess, and yet the former ruled the faculty of listening, and the latter
-            over the faculty of seeing; and that the source of their artistry is impossible to
-            discover and hard to discern, just as in beautiful and attractive bodies everyone does
-            not marvel at the same feature, and the captivated viewer does not know what caught his
-            gaze. So Acacius rose through the ranks to excellence, and he acquired a great
-            reputation as the one who beat Libanius. He passed away when he was still young. And
-            men, at least the studious ones, admired him as they would one who made it to old
-               age.<ab type="source" source="#bib215-2"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="translation">Adapted from Wright 1921</note></ab>
+        <anchor xml:id="testimonia-215.en.1" corresp="#testimonia-215.grc.1"/>
+        (1) ACACIUS.
+          <placeName>Caesarea Palestinae</placeName> produced Acacius, and he emerged at the same
+        time as Libanius. No one else was so full of sophistic force and inspiration, and his
+        sonorous diction was inclined to classical models. Although he came up at the same time as
+        Libanius, he took first prize in their match and excelled through sheer strength.
+        Accordingly Libanius wrote a booklet <title>Genius</title>, completely dedicated to Acacius,
+        in which (the author) clearly attributes his defeat to the magnitude of that man’s talent,
+        while providing evidence for his own stance and exactitude in using an erudite lexicon. It
+        is as though he was unaware that Homer did not just carefully study every verse, but also
+        beautiful expression and melody, and that Pheidias did not strive to represent the finger
+        and the foot for the praise of the goddess, and yet the former ruled the faculty of
+        listening, and the latter over the faculty of seeing; and that the source of their artistry
+        is impossible to discover and hard to discern, just as in beautiful and attractive bodies
+        everyone does not marvel at the same feature, and the captivated viewer does not know what
+        caught his gaze. So Acacius rose through the ranks to excellence, and he acquired a great
+        reputation as the one who beat Libanius. He passed away when he was still young. And men, at
+        least the studious ones, admired him as they would one who made it to old age.
+        
+        
+        
+        
+      <ab type="source" source="#bib215-2"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        <note xml:lang="en" type="translation">Adapted from Wright 1921</note>
+      </ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib215-1">
@@ -329,6 +349,10 @@
           <ptr target="https://caesarea-maritima.org/bibl/XB7YVZLP"/>
         </bibl>
       </listBibl>
+    
+      
+      
+      
     <note type="related-texts">
         <p>Libanius, Autobiography 90-91, 104, 109-110, 113-115, 120</p>
         <p>Libanius, Letters 259, 174, 390, 391, 405, 439, 454, 529, 555, 722, 754, 815</p>

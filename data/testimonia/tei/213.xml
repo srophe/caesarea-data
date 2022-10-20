@@ -246,7 +246,7 @@
             <p/>
          </abstract>
          <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Itinerary from London to
-               Jerusalem</title> <ref n="a" target="#bib213-1">16</ref> written by <persName role="author" ref="http://viaf.org/viaf/34451801">Matthew Paris</persName> in <origDate notBefore="1250" notAfter="1259" period="#crusader">1250-1259 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/79739">St. Albans</origPlace>.</creation>
+               Jerusalem</title> <ref target="#bib213-1">16</ref> written by <persName role="author" ref="http://viaf.org/viaf/34451801">Matthew Paris</persName> in <origDate notBefore="1250" notAfter="1259" period="#crusader">1250-1259 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/79739">St. Albans</origPlace>.</creation>
          <langUsage>
             <language ident="fro">Old French</language>
          </langUsage>
@@ -259,6 +259,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc status="draft">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
          <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
       </revisionDesc>
    </teiHeader>
@@ -268,35 +269,57 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/213</idno>
          </ab>
          <desc type="abstract" xml:id="abstract213-1"><quote><placeName>Cesaire</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/34451801">Matthew Paris</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Itinerary from London to
-               Jerusalem</title> <ref n="a" target="#bib213-1">16</ref>. This passage was written ca. <origDate notBefore="1250" notAfter="1259" period="#crusader">1250-1259 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/79739">St. Albans</origPlace>.</desc>
+               Jerusalem</title> <ref target="#bib213-1">16</ref>. This passage was written ca. <origDate notBefore="1250" notAfter="1259" period="#crusader">1250-1259 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/79739">St. Albans</origPlace>.</desc>
          <desc type="context">Matthew Paris was an English historian, cartographer, and Benedictine
             monk who lived at St. Albans Abbey in Hertfordshire from 1217 until his death in ca.
             1259. He wrote a massive history of the world from the Creation to his own lifetime in
-            three volumes (Chronica maiora), continuing his predecessor’s work at the Abbey. In the
-            front of the volumes he inserted pairs of facing foldout maps that were essentially
-            similar but with slight variations. Each left map shows the trip from England to
-            southern Italy, while each right map shows the Holy Land with a large central scene of
-            Acre. The maps, which Matthew apparently created himself, contain vivid illustrations
-            and detailed captions with historical and geographic information in medieval French and
-            Latin. The double map from volumes I-III surives in four versions (A-D): A (London BL MS
-            Landsdowne 253, fols. 230v-231r) is a later copy of B; B (London BL MS Roy. 14.C.vii,
-            fols. 4v-5r) comes from an original volume III; C (Cambridge, Corpus Christi MS 26,
-            fols. 3v-4r) comes from an original volume I; and D (Cambridge, Corpus Christi MS 16,
-            fols. 2v-5r) comes from an original volume II. The maps in volumes I and III show a
-            small a castle with corner towers identified as Caesarea (“Cesaire”) in a line of
-            fortified cities along the coast between Haifa and Damietta.</desc>
+            three volumes (<title>Chronica maiora</title>), continuing his predecessor’s work at the
+            Abbey. In the front of the volumes he inserted pairs of facing foldout maps that were
+            essentially similar but with slight variations. Each left map shows the trip from
+            England to southern Italy, while each right map shows the Holy Land with a large central
+            scene of Acre. The maps, which Matthew apparently created himself, contain vivid
+            illustrations and detailed captions with historical and geographic information in
+            medieval French and Latin. The double map from volumes I-III surives in four versions
+            (A-D): A (London BL MS Landsdowne 253, fols. 230v-231r) is a later copy of B; B (London
+            BL MS Roy. 14.C.vii, fols. 4v-5r) comes from an original volume III; C (Cambridge,
+            Corpus Christi MS 26, fols. 3v-4r) comes from an original volume I; and D (Cambridge,
+            Corpus Christi MS 16, fols. 2v-5r) comes from an original volume II. The maps in volumes
+            I and III show a small a castle with corner towers identified as "Caesarea"
+               (<foreign>Cesaire</foreign>) in a line of fortified cities along the coast between
+            Haifa and Damietta.</desc>
          <ab type="edition" xml:lang="fro" xml:id="quote213-1">
-        <anchor xml:id="testimonia-213.fro.1" corresp="#testimonia-213.en.1"/>A-B: Kaifas—Chastel Pelerin—<placeName>Cesaire</placeName>—Iafes: a le
+        <anchor xml:id="testimonia-213.fro.1" corresp="#testimonia-213.en.1"/>
+        A-B: Kaifas—Chastel Pelerin—<placeName>Cesaire</placeName>—Iafes: a le
             chemin de Iafes à Ierusalem—Escaloine—Le Darun—Damiette C: Kaifas—Chastel
                Pelerin—<placeName>Cesaire</placeName>—Iaphes—Ascaloine—Le Darun—Damiette, ki [est]
-            en terre d’Egipte<ab type="source" source="#bib213-1"/><idno type="CTS-URN"/><ref target="https://archive.org/stream/itinrairesjr00michuoft?ref=ol#page/136/mode/2up"/><note xml:lang="en" type="textual">Ed. Michelant and Raynaud
-               1882</note><note xml:lang="en" type="discussion">The map from volume II did not depict
-               Caesarea.</note></ab>
+            en terre d’Egipte
+        
+        
+        
+        
+      <ab type="source" source="#bib213-1"/>
+        <idno type="CTS-URN"/>
+        <ref target="https://archive.org/stream/itinrairesjr00michuoft?ref=ol#page/136/mode/2up"/>
+        <note xml:lang="en" type="textual">Ed. Michelant and Raynaud
+               1882</note>
+        <note xml:lang="en" type="discussion">The map from volume II did not depict
+               Caesarea.</note>
+      </ab>
          <ab type="translation" xml:lang="en" xml:id="quote213-2">
-        <anchor xml:id="testimonia-213.en.1" corresp="#testimonia-213.fro.1"/>A, B: Haifa—Pilgrim’s Castle—<placeName>Caesarea</placeName>—Jaffa:
+        <anchor xml:id="testimonia-213.en.1" corresp="#testimonia-213.fro.1"/>
+        A, B: Haifa—Pilgrim’s Castle—<placeName>Caesarea</placeName>—Jaffa:
             the road from Jaffa to Jerusalem—Ascalon—Al-Darum—Damietta C: Haifa—Pilgrim’s
                Castle—<placeName>Caesarea</placeName>—Jaffa—Ascalon—Al-Darum—Damietta, which (is) in
-            the country of Egypt<ab type="source" source="#bib213-2"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="translation">Trans. Pringle 2012</note></ab>
+            the country of Egypt
+        
+        
+        
+        
+      <ab type="source" source="#bib213-2"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        <note xml:lang="en" type="translation">Trans. Pringle 2012</note>
+      </ab>
          <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib213-1">
@@ -317,7 +340,11 @@
           <citedRange unit="">74-93, figs. 40, 41</citedRange>
         </bibl>
       </listBibl>
-      <note type="related-texts"/>
+      
+      
+      
+      
+    <note type="related-texts"/>
       <note type="geography">
         <p>Ascalon</p>
         <p>Athlit (Pilgrims’ Castle, Petra Incisa, Castrum Peregrinorum, Castellum Peregrinorum)</p>

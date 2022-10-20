@@ -244,7 +244,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref n="c" target="#bib135-1">10.25</ref> written by <persName role="author" ref="http://viaf.org/viaf/88969561">John Malalas</persName> in <origDate notBefore="0530" notAfter="0532" period="#byzantine">530-532 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/658381">Antioch on the
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref target="#bib135-1">10.25</ref> written by <persName role="author" ref="http://viaf.org/viaf/88969561">John Malalas</persName> in <origDate notBefore="0530" notAfter="0532" period="#byzantine">530-532 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/658381">Antioch on the
                Orontes</origPlace>.</creation>
          <langUsage>
             <language ident="grc">Ancient Greek</language>
@@ -258,6 +258,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc status="draft">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
          <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
       </revisionDesc>
    </teiHeader>
@@ -266,30 +267,51 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/135</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract135-1">Caesarea Maritima is indirectly attested at <persName role="author" ref="http://viaf.org/viaf/88969561">John Malalas</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref n="c" target="#bib135-1">10.25</ref>. This passage was written ca. <origDate notBefore="0530" notAfter="0532" period="#byzantine">530-532 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/658381">Antioch on the
+         <desc type="abstract" xml:id="abstract135-1">Caesarea Maritima is indirectly attested at <persName role="author" ref="http://viaf.org/viaf/88969561">John Malalas</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref target="#bib135-1">10.25</ref>. This passage was written ca. <origDate notBefore="0530" notAfter="0532" period="#byzantine">530-532 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/658381">Antioch on the
                Orontes</origPlace>.</desc>
-         <desc type="context">John Malalas, a moniker probably derived from Aramaic malolo meaning
-            “orator”, was an educated Syrian who moved from Antioch to Constantinople early in the
-            reign of Justinian I. His only known work is a historical chronicle in 18 books,
-            apparently composed in two editions, spanning from early times probably to the death of
-            Justinian, with a distinct focus on events in the eastern Mediterranean. In this
-            passage, John records for the year 49 C.E. a Jewish rebellion against Roman rule and a
-            strong response by the tribune Festus and the governor Felix. The unrest is vaguely
-            portrayed, so that we cannot tell whether the historian has in mind the movement under
-            the Egyptian pseudo-prophet or another activity around the same time.</desc>
+         <desc type="context">John Malalas, a moniker probably derived from Aramaic
+               <foreign>malolo</foreign> meaning “orator”, was an educated Syrian who moved from
+            Antioch to Constantinople early in the reign of Justinian I. His only known work is a
+            historical chronicle in 18 books, apparently composed in two editions, spanning from
+            early times probably to the death of Justinian, with a distinct focus on events in the
+            eastern Mediterranean. In this passage, John records for the year 49 C.E. a Jewish
+            rebellion against Roman rule and a strong response by the tribune Festus and the
+            governor Felix. The unrest is vaguely portrayed, so that we cannot tell whether the
+            historian has in mind the movement under the Egyptian pseudo-prophet or another activity
+            around the same time.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote135-1">
-        <anchor xml:id="testimonia-135.grc.1" corresp="#testimonia-135.en.1"/>Τῷ δὲ ὀγδόῳ ἔτει τῆς βασιλείας τοῦ αὐτοῦ Κλαυδίου Καίσαρος διωγμὸν μέγαν
+        <anchor xml:id="testimonia-135.grc.1" corresp="#testimonia-135.en.1"/>
+        Τῷ δὲ ὀγδόῳ ἔτει τῆς βασιλείας τοῦ αὐτοῦ Κλαυδίου Καίσαρος διωγμὸν μέγαν
             ἐποίησαν οἱ Ἰουδαῖοι κατὰ τῶν ἀποστόλων καὶ τῶν μαθητῶν αὐτῶν καὶ τυραννίδα κατὰ Ῥωμαίων
             ἐμελέτουν. ὅθεν πρῶτος ἐπέμφθη κατ’ αὐτῶν χιλίαρχος ὀνόματι Φῆστος· καὶ ἐξ ἐκείνου
             ὄλεθρος αὐτοῖς ἐγένετο. καὶ ἄρχοντα γὰρ προεχειρίσατο αὐτοῖς ὁ αὐτὸς Κλαύδιος βασιλεὺς
-            Φήλικα ὀνόματι, ταράσσοντα αὐτούς.<ab type="source" source="#bib135-1"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="textual">Ed. Thurn 2000</note></ab>
+            Φήλικα ὀνόματι, ταράσσοντα αὐτούς.
+        
+        
+        
+        
+      <ab type="source" source="#bib135-1"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        <note xml:lang="en" type="textual">Ed. Thurn 2000</note>
+      </ab>
          <ab type="translation" xml:lang="en" xml:id="quote135-2">
-        <anchor xml:id="testimonia-135.en.1" corresp="#testimonia-135.grc.1"/>In the eighth year of the reign of Claudius Caesar the Jews began a
+        <anchor xml:id="testimonia-135.en.1" corresp="#testimonia-135.grc.1"/>
+        In the eighth year of the reign of Claudius Caesar the Jews began a
             fierce persecution of the apostles and their disciples, and planned a rebellion against
             the Romans. Therefore a tribune, named Festus, was sent against them first, and from
             that time destuction came upon them. The emperor Claudius also appointed a governor over
-            them, named Felix, who harrassed them.<ab type="source" source="#bib135-2"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="translation">Adapted from Jeffreys et
-               al. 2017</note></ab>
+            them, named Felix, who harrassed them.
+        
+        
+        
+        
+      <ab type="source" source="#bib135-2"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        <note xml:lang="en" type="translation">Adapted from Jeffreys et
+               al. 2017</note>
+      </ab>
          <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib135-1">
@@ -303,7 +325,11 @@
           <citedRange unit="p">187</citedRange>
         </bibl>
       </listBibl>
-      <note type="related-texts"/>
+      
+      
+      
+      
+    <note type="related-texts"/>
       <note type="geography"/>
       <note type="prosopography">
         <p>Claudius, emperor</p>
@@ -311,9 +337,9 @@
         <p>Festus</p>
       </note>
       <note type="themes">
-        <p>Military</p>
         <p>Government and Law</p>
         <p>Judaism</p>
+        <p>Military</p>
         <p>Roman History</p>
       </note>
     </body>

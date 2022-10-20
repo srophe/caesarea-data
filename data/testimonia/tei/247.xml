@@ -243,7 +243,11 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Easter Chronicle</title> <ref n="c" target="#bib247-1">389.4-11</ref> written by <persName role="author">Unknown</persName> in <origDate notBefore="0615" notAfter="0645" period="#byzantine #earlyIslamic">ca. 630 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Easter
+          Chronicle</title>
+        <ref target="#bib247-1">389.4-11</ref> written by <persName role="author">Unknown</persName>
+        in <origDate notBefore="" notAfter="" period="#">0630</origDate>. This work was likely
+        written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
       <langUsage>
         <language ident="grc">Ancient Greek</language>
       </langUsage>
@@ -252,10 +256,11 @@
           <idno type="CTS-URN"/>
         </classCode>
         <catRef scheme="#CM-Testimonia-Type" target="#indirect"/>
-        <catRef scheme="#CM-NEAEH" target="#earlyRoman #herodian #byzantine"/>
+        <catRef scheme="#CM-NEAEH" target="#earlyRoman #herodian"/>
       </textClass>
     </profileDesc>
     <revisionDesc status="draft">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
     </revisionDesc>
   </teiHeader>
@@ -264,31 +269,41 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/247</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract247-1">Caesarea Maritima is indirectly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Easter Chronicle</title> <ref n="c" target="#bib247-1">389.4-11</ref>. This passage was written ca. <origDate notBefore="0615" notAfter="0645" period="#byzantine #earlyIslamic">ca. 630 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
-      <desc type="context">The so-called Easter Chronicle (Chronicon Paschale) is a universal
-            history from the Creation down to the later reign of Heraclius, when it was composed,
-            based an amalgam of biblical, Christian, and secular sources. While the work shows a
-            particular interest in the dating of religious festivals, it contains a wealth of
-            historical and geographic information. Like other chronographic works in the Byzantine
-            tradition—John Malalas before and Theophanes the Confessor and George Syncellus
-            after—the Easter Chronicle is organized annalistically with successive entries by year.
-            In this passage the author records the appointment of Pontius Pilate to the prefecture
-            of Judaea by Tiberius.</desc>
+      <desc type="abstract" xml:id="abstract247-1">Caesarea Maritima is indirectly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Easter
+          Chronicle</title> <ref target="#bib247-1">389.4-11</ref>. This passage was written ca. <origDate notBefore="" notAfter="" period="#">0630</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+      <desc type="context">The so-called <title>Easter Chronicle</title> (<title>Chronicon
+          paschale</title>) is a universal history from the Creation down to the later reign of
+        Heraclius, when it was composed, based an amalgam of biblical, Christian, and secular
+        sources. While the work shows a particular interest in the dating of religious festivals, it
+        contains a wealth of historical and geographic information. Like other chronographic works
+        in the Byzantine tradition—John Malalas before and Theophanes the Confessor and George
+        Syncellus after—the <title>Easter Chronicle</title> is organized annalistically with
+        successive entries by year. In this passage the author records the appointment of Pontius
+        Pilate to the prefecture of Judaea by Tiberius.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote247-1">
-        <anchor xml:id="testimonia-247.grc.1" corresp="#testimonia-247.en.1"/>σαʹ Ὀλυμπιάς. Ἰνδ. ιβʹ. ιαʹ. ὑπ. Γετουλικοῦ καὶ Σαβίνου. Ἰνδ. ιγʹ. ιβʹ.
+        <anchor xml:id="testimonia-247.grc.1" corresp="#testimonia-247.en.1"/>
+        σαʹ Ὀλυμπιάς. Ἰνδ. ιβʹ. ιαʹ. ὑπ. Γετουλικοῦ καὶ Σαβίνου. Ἰνδ. ιγʹ. ιβʹ.
             ὑπ. Κράσσου καὶ Πίσωνος. Ἐπὶ τούτων τῶν ὑπάτων Πόντιος Πιλᾶτος ἐπίτροπος τῆς Ἰουδαίας
             ὑπὸ Τιβερίου ἐκπέμπεται ιβʹ ἔτει τῆς βασιλείας αὐτοῦ, ὡς ἱστορεῖ Ἰώσηπος. Ἰνδ. ιδʹ. ιγʹ.
-            ὑπ. Σιλανοῦ καὶ Νερούα. Ἰνδ. ιεʹ. ιδʹ. ὑπ. Γεμίνου καὶ Γεμίνου.<ab type="source" source="#bib247-1"/>
+            ὑπ. Σιλανοῦ καὶ Νερούα. Ἰνδ. ιεʹ. ιδʹ. ὑπ. Γεμίνου καὶ Γεμίνου.
+        
+        
+        
+        
+      <ab type="source" source="#bib247-1"/>
         <idno type="CTS-URN"/>
         <ref/>
         <note xml:lang="en" type="textual">Ed.
                Dindorf 1832</note>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote247-2">
-        <anchor xml:id="testimonia-247.en.1" corresp="#testimonia-247.grc.1"/>Olympiad 201 Indiction 12. Year 11. Consuls Gaetulicus and Sabinus.
+        <anchor xml:id="testimonia-247.en.1" corresp="#testimonia-247.grc.1"/>
+        Olympiad 201 Indiction 12. Year 11. Consuls Gaetulicus and Sabinus.
             [26 C.E.] Indiction 13. Year 12. Consuls Crassus and Piso. [27 C.E.] Under these consuls
             Pontius Pilate was sent to be prοcurator of Judaea by Tiberius in the 12th year of his
             reign, as Josephus records. Indiction 14. Year 13. Consuls Silanus and Nerva. [28 C.E.]<note xml:lang="en" type="translation">Trans. J. L. Rife</note>
+        
+        
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -299,6 +314,10 @@
           <citedRange unit="p">389.4-11</citedRange>
         </bibl>
       </listBibl>
+    
+      
+      
+      
     <note type="related-texts">
         <p>Josephus</p>
       </note>

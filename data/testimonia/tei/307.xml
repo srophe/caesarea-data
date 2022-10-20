@@ -244,7 +244,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Holy Places</title> <ref n="a" target="#bib307-1">1.20</ref> written by <persName role="author" ref="http://viaf.org/viaf/79068112">Adomnán</persName> in <origDate notBefore="0695" notAfter="0698" period="#earlyIslamic">695-698 CE</origDate>. This work was likely written in <origPlace>Iona</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Holy Places</title> <ref target="#bib307-1">1.20</ref> written by <persName role="author" ref="http://viaf.org/viaf/79068112">Adomnán</persName> in <origDate notBefore="0695" notAfter="0698" period="#earlyIslamic">695-698 CE</origDate>. This work was likely written in <origPlace>Iona</origPlace>.</creation>
          <langUsage>
             <language ident="la">Latin</language>
          </langUsage>
@@ -257,6 +257,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc status="draft">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
          <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
       </revisionDesc>
    </teiHeader>
@@ -265,33 +266,48 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/307</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract307-1"> is directly attested at <persName role="author" ref="http://viaf.org/viaf/79068112">Adomnán</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Holy Places</title> <ref target="#bib307-1">1.20</ref>. This passage was written circa <origDate notBefore="0695" notAfter="0698" period="#earlyIslamic">695-698 CE</origDate> possibly in <origPlace>Iona</origPlace>.</desc>
+         <desc type="abstract" xml:id="abstract307-1"><quote><placeName>Cesaream Palestinae</placeName></quote>, and <quote><placeName>Caesarea Palestinae</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/79068112">Adomnán</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Holy Places</title> <ref target="#bib307-1">1.20</ref>. This passage was written ca. <origDate notBefore="0695" notAfter="0698" period="#earlyIslamic">695-698 CE</origDate> possibly in <origPlace>Iona</origPlace>.</desc>
          <desc type="context">Adomnán (Adamnanus) was a jurist and hagiographer who served as the
             abbot of the monastery on the island of Iona in 679-704 C.E. His writings provide
             important testimony for the culture and religion of Early Medieval Scotland. Among them
             is an account of the Holy Land based largely on the itinerary of Arculf, the Frankish
             bishop who purportedly told the story of his pilgrimage in ca. 680 to his host Adomnán
             after wrecking on Iona. This passage from the first book on Jerusalem and its environs
-            describes the natural terrain from the Judaean Hills west to the coast as far as
+            describes the natural terrain from the Judaean hills west to the coast as far as
             Caesarea.</desc>
          <ab type="edition" xml:lang="la" xml:id="quote307-1">
-        <anchor xml:id="testimonia-307.la.1" corresp="#testimonia-307.en.1"/>Ab Helia septemtrionem versus usque ad Samuhelis civitatem, quae
-            Armathem nominatur, terra petrosa et aspera per quaedam monstratur intervalla; valles
-            quoque spinosae usque ad Tamniticam regionem patentes. Aliter vero a supradicta Helia et
-            monte Sion qualitas regionum monstratur usque ad Cesaream Palestinae occasum versus. Nam
-            quamvis aliqua reperriantur angusta et brevia aspera loca interposita, praecipue tamen
-            latiores plani monstrantur campi interpositis laetiores olivetis.<ab type="source" source="#bib307-1"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="textual">Ed. Bieler 1965</note></ab>
-         <ab type="translation" xml:lang="en" xml:id="quote307-2">
-        <anchor xml:id="testimonia-307.en.1" corresp="#testimonia-307.la.1"/>North from Helia up to the city of Samuel, which is called Armathes,
-            the terrain proves to be rocky and rough in certain areas, and the valleys extending as
-            far as the Tamnitic region are full of thorny vegetation. But from the aforementioned
-            Helia and Mount Sion to the west as far as Caesarea Palestinae the regional character is
-            different. For, although here and there can be found rough spots over narrow, short
-            stretches, by and large the wide open, flat plains prove to be very pleasant, with olive
-            trees spread about.<note xml:lang="en" type="translation">Trans. J. L. Rife </note>
+        <anchor xml:id="testimonia-307.la.1" corresp="#testimonia-307.en.1"/>
+            Ab Helia
+            septemtrionem versus usque ad Samuhelis civitatem, quae Armathem nominatur, terra
+            petrosa et aspera per quaedam monstratur intervalla; valles quoque spinosae usque ad
+            Tamniticam regionem patentes. Aliter vero a supradicta Helia et monte Sion qualitas
+            regionum monstratur usque ad <placeName>Cesaream Palestinae</placeName> occasum versus.
+            Nam quamvis aliqua reperriantur angusta et brevia aspera loca interposita, praecipue
+            tamen latiores plani monstrantur campi interpositis laetiores olivetis.
+            
+            
+            
+            
+         <ab type="source" source="#bib307-1"/>
         <idno type="CTS-URN"/>
-        <ref/>
+        <ref target=""/>
+        <note xml:lang="en" type="textual">Ed. Bieler 1965</note>
       </ab>
+         <ab type="translation" xml:lang="en" xml:id="quote307-2">
+        <anchor xml:id="testimonia-307.en.1" corresp="#testimonia-307.la.1"/>
+            North from Helia up
+            to the city of Samuel, which is called Armathes, the terrain proves to be rocky and
+            rough in certain areas, and the valleys extending as far as the Tamnitic region are full
+            of thorny vegetation. But from the aforementioned Helia and Mount Sion to the west as
+            far as <placeName>Caesarea Palestinae</placeName> the regional character is different.
+            For, although here and there can be found rough spots over narrow, short stretches, by
+            and large the wide open, flat plains prove to be very pleasant, with olive trees spread
+               about.<note xml:lang="en" type="translation">Trans. J. L. Rife </note>
+            
+            
+            <idno type="CTS-URN"/>
+            <ref/>
+         </ab>
          <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib307-1">
@@ -300,7 +316,11 @@
           <citedRange unit="section">20</citedRange>
         </bibl>
       </listBibl>
-      <note type="related-texts">
+      
+      
+      
+      
+    <note type="related-texts">
         <p>Bede, Holy Places 5.3-9</p>
         <p>Jerome, Place Names 57</p>
         <p>Peter the Deacon, Holy Places 5.1</p>

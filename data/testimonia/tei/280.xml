@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="en" level="a">Anonymous Pilgrim V, <title level="m">[Untitled]</title> 1.1</title>
+        <title xml:lang="en" level="a">Anonymous Pilgrim V, <title level="m"/> 1.1</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
         <sponsor>Vanderbilt University</sponsor>
         <principal>Joseph L. Rife</principal>
@@ -243,7 +243,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">[Untitled]</title> <ref n="a" target="#bib280-1">1.1</ref> written by <persName role="author">Anonymous Pilgrim V</persName> in <origDate notBefore="1180" notAfter="1205" period="#crusader">1180-1205 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m"/> <ref target="#bib280-1">1.1</ref> written by <persName role="author">Anonymous Pilgrim V</persName> in <origDate notBefore="1180" notAfter="1205" period="#crusader">1180-1205 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</creation>
       <langUsage>
         <language ident="la">Latin</language>
       </langUsage>
@@ -256,6 +256,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc status="draft">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
     </revisionDesc>
   </teiHeader>
@@ -264,7 +265,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/280</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract280-1"><quote><placeName>Cesaream</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author">Anonymous Pilgrim V</persName>, <title xml:lang="en" ref="" type="uniform" level="m">[Untitled]</title> <ref n="a" target="#bib280-1">1.1</ref>. This passage was written ca. <origDate notBefore="1180" notAfter="1205" period="#crusader">1180-1205 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract280-1"><quote><placeName>Cesaream</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author">Anonymous Pilgrim V</persName>, <title xml:lang="en" ref="" type="uniform" level="m"/> <ref target="#bib280-1">1.1</ref>. This passage was written ca. <origDate notBefore="1180" notAfter="1205" period="#crusader">1180-1205 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
       <desc type="context">We know next to nothing about the European traveller to the Holy Land
             called Anonymous Pilgrim V, whose account survives in the manuscript Heiligenkreuz
             Bibliothek 88. The editor Wilhelm Neumann argued that, while his journey seems to have
@@ -275,15 +276,35 @@
             summarizes the trip southward along the coast from Acco past Caesarea and then east up
             to Jerusalem.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote280-1">
-        <anchor xml:id="testimonia-280.la.1" corresp="#testimonia-280.en.1"/>Ego ivi de Accon in Caifa, quod est sub monte Carmeli, ubi fuit Helias
+        <anchor xml:id="testimonia-280.la.1" corresp="#testimonia-280.en.1"/>
+        Ego ivi de Accon in Caifa, quod est sub monte Carmeli, ubi fuit Helias
             propheta. Et inde veni <placeName>Cesaream</placeName>, deinde Assur, deinde Ioppen,
             deinde Rama, deinde Bethnopolin, deinde Ierusalem. Ubi intratur ad portam S. Stephani,
-            ubi fuit lapidatus.<ab type="source" source="#bib280-1"/><idno type="CTS-URN"/><ref/><note xml:lang="en" type="textual">Ed. Neumann 1866</note></ab>
+            ubi fuit lapidatus.
+        
+        
+        
+        
+      <ab type="source" source="#bib280-1"/>
+        <idno type="CTS-URN"/>
+        <ref/>
+        <note xml:lang="en" type="textual">Ed. Neumann 1866</note>
+      </ab>
       <ab type="translation" xml:lang="en" xml:id="quote280-2">
-        <anchor xml:id="testimonia-280.en.1" corresp="#testimonia-280.la.1"/>I went from Acco to Haifa, which is below Mount Carmel where Elijah
+        <anchor xml:id="testimonia-280.en.1" corresp="#testimonia-280.la.1"/>
+        I went from Acco to Haifa, which is below Mount Carmel where Elijah
             the prophet lived. Then I came to <placeName>Caesarea</placeName>, Assur, Ioppe, Rama,
             Bethnopolis, and Jerusalem, which is entered through the Gate of St. Stephen, where he
-            was stoned.<ab type="source" source="#bib280-2"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="translation">Adapted from Stewart 1896</note></ab>
+            was stoned.
+        
+        
+        
+        
+      <ab type="source" source="#bib280-2"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        <note xml:lang="en" type="translation">Adapted from Stewart 1896</note>
+      </ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib280-1">
@@ -296,6 +317,10 @@
           <citedRange unit="section">1.1</citedRange>
         </bibl>
       </listBibl>
+    
+      
+      
+      
     <note type="related-texts"/>
       <note type="geography">
         <p>Antipatris (Assur, Ashur, Arsuf)</p>

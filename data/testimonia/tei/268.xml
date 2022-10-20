@@ -243,7 +243,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Book of Pilgrimage</title> <ref n="a" target="#bib268-1">8.38-46</ref> written by <persName role="author" ref="http://viaf.org/viaf/24957020 ">Thietmar</persName> in <origDate notBefore="1217" notAfter="1218" period="#crusader">1217-1218 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/1001939">Palestine</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Book of Pilgrimage</title> <ref target="#bib268-1">8.38-46</ref> written by <persName role="author" ref="http://viaf.org/viaf/24957020 ">Thietmar</persName> in <origDate notBefore="1217" notAfter="1218" period="#crusader">1217-1218 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/1001939">Palestine</origPlace>.</creation>
       <langUsage>
         <language ident="la">Latin</language>
       </langUsage>
@@ -256,6 +256,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc status="draft">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
     </revisionDesc>
   </teiHeader>
@@ -264,8 +265,9 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/268</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract268-1"><quote><placeName>Cesaream</placeName></quote>, <quote><placeName>Cesarea</placeName></quote>, and <quote><placeName>Turris
-               Stratonis</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/24957020 ">Thietmar</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Book of Pilgrimage</title> <ref n="a" target="#bib268-1">8.38-46</ref>. This passage was written ca. <origDate notBefore="1217" notAfter="1218" period="#crusader">1217-1218 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/1001939">Palestine</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract268-1"><quote><placeName>Cesaream</placeName></quote>, <quote><placeName>Cesarea</placeName></quote>, <quote><placeName>Turris
+               Stratonis</placeName></quote>, <quote><placeName>Caesarea</placeName></quote>, <quote><placeName>Caesarea
+          Palaestina</placeName></quote>, and <quote><placeName>Strato’s Tower</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/24957020 ">Thietmar</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Book of Pilgrimage</title> <ref target="#bib268-1">8.38-46</ref>. This passage was written ca. <origDate notBefore="1217" notAfter="1218" period="#crusader">1217-1218 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/1001939">Palestine</origPlace>.</desc>
       <desc type="context">Thietmar was a German Christian, perhaps a learned cleric from
             Westphalia, who undertook two pilgrimages from Acre during the course of the Fifth
             Crusade, one eastward to the Monastery of Mary at Saydnaya in southwestern Syria in 1217
@@ -277,24 +279,46 @@
             inhabitants, alongside usual observations concerning the historical landscape. In this
             passage, he describes Caesarea on his journey south from Acre to Sinai.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote268-1">
-        <anchor xml:id="testimonia-268.la.1" corresp="#testimonia-268.en.1"/>(38) Item a monte Carmelo perveni <placeName>Cesaream</placeName>, (39)
+        <anchor xml:id="testimonia-268.la.1" corresp="#testimonia-268.en.1"/>
+        (38) Item a monte Carmelo perveni <placeName>Cesaream</placeName>, (39)
             et transivi per fluvium, qui flui de Carmelo, in quo multi sunt cocodrilli. (40) Ista <placeName>Cesarea</placeName> est Palestina, que quondam dicta est Dor, et non
             Philippi, de qua supra dictum est. (41) Hic quondam fuit <placeName>Turris
                Stratonis</placeName>. (42) Hanc civitatem ad honorem Augusti Cesaris Herodes, rex
             Judee, <placeName>Cesaream</placeName> appellavit, (43) ubi incipit regio Palestina.
             (44) In hac civitate vidi ecclesiam sancti Petri, edificatam de domo Cornelii
             centurionis, quem sanctus Petrus convertit et baptizavit, et edes Philippi et cubicula
-            quatuor virginum prophetissarum.<ab type="source" source="#bib268-1"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="textual">Ed. Laurent 1873</note><note xml:lang="en" type="textual">Codex Hamburgensis 143b</note></ab>
+            quatuor virginum prophetissarum.
+        
+        
+        
+        
+        
+      <ab type="source" source="#bib268-1"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        <note xml:lang="en" type="textual">Ed. Laurent 1873</note>
+        <note xml:lang="en" type="textual">Codex Hamburgensis 143b</note>
+      </ab>
       <ab type="translation" xml:lang="en" xml:id="quote268-2">
-        <anchor xml:id="testimonia-268.en.1" corresp="#testimonia-268.la.1"/>(38) From Mount Carmel I came to Caesarea, (39) and I crossed over a
-            river that flows from Carmel in which there are many crocodiles. (40) That Caesarea is
-            Caesarea Palaestina, which was formerly called Dor, and not Caesarea Philippi, about
-            which I have spoken above. (41) Here once was Strato’s Tower. (42) Herod, King of
-            Judaea, called this city Caesarea in honor of Caesar Augustus. (43) There begins the
-            region of Palestine. (44) In this city I saw the Church of St. Peter, built from the
-            house of the centurion Cornelius, whom Peter converted and baptized, and the house of
-            Philip and the chamber of the four virgin prophetesses.<ab type="source" source="#bib268-2"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="translation">Rev.
-               from Pringle 2012</note></ab>
+        <anchor xml:id="testimonia-268.en.1" corresp="#testimonia-268.la.1"/>
+        (38) From Mount Carmel
+        I came to <placeName>Caesarea</placeName>, (39) and I crossed over a river that flows from
+        Carmel in which there are many crocodiles. (40) That Caesarea is <placeName>Caesarea
+          Palaestina</placeName>, which was formerly called Dor, and not Caesarea Philippi, about
+        which I have spoken above. (41) Here once was <placeName>Strato’s Tower</placeName>. (42)
+        Herod, King of Judaea, called this city <placeName>Caesarea</placeName> in honor of Caesar
+        Augustus. (43) There begins the region of Palestine. (44) In this city I saw the Church of
+        St. Peter, built from the house of the centurion Cornelius, whom Peter converted and
+        baptized, and the house of Philip and the chamber of the four virgin prophetesses.
+        
+        
+        
+        
+      <ab type="source" source="#bib268-2"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        <note xml:lang="en" type="translation">Rev. from Pringle 2012</note>
+      </ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib268-1">
@@ -308,6 +332,10 @@
           <citedRange unit="section">8</citedRange>
         </bibl>
       </listBibl>
+    
+      
+      
+      
     <note type="related-texts"/>
       <note type="geography">
         <p>Alexandria</p>

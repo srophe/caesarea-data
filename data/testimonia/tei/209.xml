@@ -290,8 +290,12 @@
             nomine de Horne, fuit devoluta, cuius generis adhuc temporibus meis vixit vidua, quam
             saepius bene vidi et de hac materia tractavi. De <placeName>Caesarea</placeName>
             proceditur et pervenitur in civitatem quondam pulchram, sed nunc desertam, Castrum
-            peregrini vocatam, sed olim Assur dictam.<ab type="source" source="#bib209-1"/><idno type="CTS-URN"/><ref/><note xml:lang="en" type="textual">Ed. Heuyks
-               1851</note></ab>
+            peregrini vocatam, sed olim Assur dictam.<ab type="source" source="#bib209-1"/>
+        <idno type="CTS-URN"/>
+        <ref/>
+        <note xml:lang="en" type="textual">Ed. Heuyks
+               1851</note>
+      </ab>
          <ab type="translation" xml:lang="en" xml:id="quote209-2">
         <anchor xml:id="testimonia-209.en.1" corresp="#testimonia-209.la.1"/>After passing over Mount Carmel one crosses a river, which is one of
             the sources of the Jordan, and arrives at <placeName>Caesarea of Palestine</placeName>,
@@ -302,7 +306,11 @@
             son-in-law’s widow was living even in my own time, for I have often seen her and talked
             with her on this subject. Going on from <placeName>Caesarea</placeName> one comes to
             what was once a fair city but is now deserted called Pilgrim’s Castle, but in old times
-               Assur.<ab type="source" source="#bib209-2"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="translation">Adapted from Stewart 1895</note></ab>
+               Assur.<ab type="source" source="#bib209-2"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        <note xml:lang="en" type="translation">Adapted from Stewart 1895</note>
+      </ab>
          <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib209-1">

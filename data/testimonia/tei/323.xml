@@ -244,7 +244,9 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Commentary on Daniel</title> <ref n="a" target="#bib323-1">11.44-45.425-445</ref> written by <persName ref=" http://viaf.org/viaf/175367750" role="author">Jerome</persName> in <origDate notBefore="0392" notAfter="0422" period="#byzantine">ca. 407 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Commentary on Daniel</title>
+            <ref target="#bib323-1">11.44-45.425-445</ref> written by <persName ref=" http://viaf.org/viaf/175367750" role="author">Jerome</persName> in <origDate notBefore="" notAfter="" period="#">0407</origDate>. This work was likely written in
+               <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</creation>
          <langUsage>
             <language ident="la">Latin</language>
          </langUsage>
@@ -257,6 +259,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc status="draft">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
          <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
       </revisionDesc>
    </teiHeader>
@@ -265,16 +268,17 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/323</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract323-1">and <quote><placeName>Caesarea</placeName></quote> is directly attested at <persName ref=" http://viaf.org/viaf/175367750" role="author">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Commentary on Daniel</title> <ref n="a" target="#bib323-1">11.44-45.425-445</ref>. This passage was written ca. <origDate notBefore="0392" notAfter="0422" period="#byzantine">ca. 407 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</desc>
+         <desc type="abstract" xml:id="abstract323-1">and <quote><placeName>Caesarea</placeName></quote> is directly attested at <persName ref=" http://viaf.org/viaf/175367750" role="author">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Commentary on Daniel</title> <ref target="#bib323-1">11.44-45.425-445</ref>. This passage was written ca. <origDate notBefore="" notAfter="" period="#">0407</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</desc>
          <desc type="context">In the years after completing his Latin translation of the Bible
-            (Vulgata), St. Jerome devoted himself to scriptural exegesis, whether in response to his
-            theological forebears or in original research. One of his most influential works is the
-            commentary on Daniel, an erudite study of the nature of Hebrew prophecy and Christian
-            eschatology. In this passage concerning the advent and war of the Antichrist, Jerome
-            identifies the site of the beast’s encampment as the Mount of Olives, between the Dead
-            Sea and the Mediterranean coast.</desc>
+               (<title>Vulgata</title>), St. Jerome devoted himself to scriptural exegesis, whether
+            in response to his theological forebears or in original research. One of his most
+            influential works is the commentary on Daniel, an erudite study of the nature of Hebrew
+            prophecy and Christian eschatology. In this passage concerning the advent and war of the
+            Antichrist, Jerome identifies the site of the beast’s encampment as the Mount of Olives,
+            between the Dead Sea and the Mediterranean coast.</desc>
          <ab type="edition" xml:lang="la" xml:id="quote323-1">
-        <anchor xml:id="testimonia-323.la.1" corresp="#testimonia-323.en.1"/>Nostri autem extremum visionis huius capitulum super Antichristo sic
+        <anchor xml:id="testimonia-323.la.1" corresp="#testimonia-323.en.1"/>
+        Nostri autem extremum visionis huius capitulum super Antichristo sic
             exponunt: quod, pugnans contra Aegyptios, Libyasque et Aethiopas, et tria cornua de
             decem cornibus conterens, aditurus sit de aquilonis et orientis partibus adversum se
             bella consurgere; quod, veniens cum magna multitudine ut conterat et interficiat
@@ -287,7 +291,13 @@
             usque ad summitatem montis eius,”—hoc est montanae provinciae, id est verticem montis
             Oliveti, qui inclutus vocatur quia ex eo Dominus atque Salvator ascendit ad Patrem—“et
             nullus Antichristo poterit auxiliari, contra se domino saeviente.” et asserunt: ibi
-            Antichristum esse periturum unde Dominus ascendit ad caelos.<ab type="source" source="#bib323-1"/>
+            Antichristum esse periturum unde Dominus ascendit ad caelos.
+        
+        
+        
+        
+        
+      <ab type="source" source="#bib323-1"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
         <note xml:lang="en" type="textual">Ed.
@@ -295,22 +305,29 @@
         <note xml:lang="en" type="textual">Minor corr. J. L. Rife</note>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote323-2">
-        <anchor xml:id="testimonia-323.en.1" corresp="#testimonia-323.la.1"/>Our school explains the final chapter of this vision in relation to
-            the Antichrist as follows. During his battle against the Egyptians, Libyans, and
-            Ethiopians, when he will smash three of the ten horns, the news will come that war has
-            arisen against him from the North and the East. He will advance with a great host to
-            crush and to kill many people, and he will pitch his tent in Apedno near Nicopolis,
-            which was formerly called Emmaus, where the mountains begin to rise in the province of
-            Judaea. Finally he will make his way from there to the Mount of Olives and ascend to the
-            area of Jerusalem. This is what the Scripture means here: “And when he has pitched his
-            tent at the foothills of the mountainous province between two seas,”—these are, of
-            course, that which is now called the Dead Sea on the east, and the Great Sea on whose
-            shore are located Caesarea, Joppa, Ashkelon, and Gaza—“then he will come up to the
-            summit of this mountain,”—that is, of the mountainous province, i.e., the apex of the
-            Mount of Olives, which is called famous because our Lord and Savior ascended from it to
-            the Father—“and no one will be able to assist the Antichrist, as the Lord vents his fury
-            against him.” Our school insists that the Antichrist will perish in that place from
-            which the Lord ascended to heaven.<ab type="source" source="#bib323-2"/>
+        <anchor xml:id="testimonia-323.en.1" corresp="#testimonia-323.la.1"/>
+            Our school explains
+            the final chapter of this vision in relation to the Antichrist as follows. During his
+            battle against the Egyptians, Libyans, and Ethiopians, when he will smash three of the
+            ten horns, the news will come that war has arisen against him from the North and the
+            East. He will advance with a great host to crush and to kill many people, and he will
+            pitch his tent in Apedno near Nicopolis, which was formerly called Emmaus, where the
+            mountains begin to rise in the province of Judaea. Finally he will make his way from
+            there to the Mount of Olives and ascend to the area of Jerusalem. This is what the
+            Scripture means here: “And when he has pitched his tent at the foothills of the
+            mountainous province between two seas,”—these are, of course, that which is now called
+            the Dead Sea on the east, and the Great Sea on whose shore are located
+               <placeName>Caesarea</placeName>, Joppa, Ashkelon, and Gaza—“then he will come up to
+            the summit of this mountain,”—that is, of the mountainous province, i.e., the apex of
+            the Mount of Olives, which is called famous because our Lord and Savior ascended from it
+            to the Father—“and no one will be able to assist the Antichrist, as the Lord vents his
+            fury against him.” Our school insists that the Antichrist will perish in that place from
+            which the Lord ascended to heaven.
+            
+            
+            
+            
+         <ab type="source" source="#bib323-2"/>
         <idno type="CTS-URN"/>
         <ref target="http://www.tertullian.org/fathers/jerome_daniel_02_text.htm"/>
         <note xml:lang="en" type="translation">Rev. Archer 1958</note>
@@ -326,18 +343,22 @@
           <ptr target="https://caesarea-maritima.org/bibl/NKTKC9A9"/>
         </bibl>
       </listBibl>
-      <note type="related-texts">
-        <p>Daniel 7-8</p>
+      
+      
+      
+      
+    <note type="related-texts">
         <p>Daniel 11:44-45</p>
+        <p>Daniel 7-8</p>
       </note>
       <note type="geography">
-        <p>Gaza</p>
         <p>Apedno</p>
         <p>Ascalon</p>
         <p>Dead Sea</p>
         <p>Egypt</p>
         <p>Emmaus (Nicopolis)</p>
         <p>Ethiopia</p>
+        <p>Gaza</p>
         <p>Ioppa</p>
         <p>Jerusalem</p>
         <p>Judaea</p>

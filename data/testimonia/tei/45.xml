@@ -250,7 +250,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" type="uniform" level="m">Parsings</title> <ref n="a" target="#bib45-1">63</ref> written by <persName role="author" ref="http://viaf.org/viaf/3886149368839785980008">Pseudo-Aelius
+         <creation>This entry is taken from <title xml:lang="en" type="uniform" level="m">Parsings</title> <ref target="#bib45-1">63</ref> written by <persName role="author" ref="http://viaf.org/viaf/3886149368839785980008">Pseudo-Aelius
                Herodianus</persName> in <origDate notBefore="1100" notAfter="1400" period="#crusader #lateIslamic">1100-1400 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
          <langUsage>
             <language ident="grc">Ancient Greek</language>
@@ -264,6 +264,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc status="draft">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
          <change who="wpotter" when="">ADDED: testimonium ID, URNs, URLs to edition and translation, and Bibl URIs</change>
          <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
       </revisionDesc>
@@ -273,34 +274,57 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/45</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract45-1"><quote><placeName>Καισαρείας</placeName></quote>, and <quote><placeName>Kaisareia</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/3886149368839785980008">Pseudo-Aelius
-               Herodianus</persName>, <title xml:lang="en" type="uniform" level="m">Parsings</title> <ref n="a" target="#bib45-1">63</ref>. This passage was written ca. <origDate notBefore="1100" notAfter="1400" period="#crusader #lateIslamic">1100-1400 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+         <desc type="abstract" xml:id="abstract45-1">and <quote><placeName>Καισαρείας</placeName></quote> is directly attested at <persName role="author" ref="http://viaf.org/viaf/3886149368839785980008">Pseudo-Aelius
+               Herodianus</persName>, <title xml:lang="en" type="uniform" level="m">Parsings</title> <ref target="#bib45-1">63</ref>. This passage was written ca. <origDate notBefore="1100" notAfter="1400" period="#crusader #lateIslamic">1100-1400 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
          <desc type="context">Although we do not know the authorship or date of the grammatical
-            treatise Parsings (Ἐπιμερισμοί), its language points to the late phase of scholarship at
-            Constantinople during the 12th to 14th centuries. The manuscripts falsely attributed it
-            to the great Greek grammarian of the High Roman Empire, Aelius Herodianus, whose model
-            it emulated in its encyclopedic format and technical scope. The work examined
-            sound-clusters in the spelling of Byzantine Greek words. In this passage, the author
-            cited the place name Kaisareia among other words containing the element kai.</desc>
+            treatise <title>Parsings </title>(Ἐπιμερισμοί), its language points to the late phase of
+            scholarship at Constantinople during the 12th to 14th centuries. The manuscripts falsely
+            attributed it to the great Greek grammarian of the High Roman Empire, Aelius Herodianus,
+            whose model it emulated in its encyclopedic format and technical scope. The work
+            examined sound-clusters in the spelling of Byzantine Greek words. In this passage, the
+            author cited the place name <foreign>Kaisareia</foreign> among other words containing
+            the element <foreign>kai</foreign>.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote45-1">
-        <anchor xml:id="testimonia-45.grc.1" corresp="#testimonia-45.en.1"/>Πλὴν τοῦ καὶ, συνδεσμοῦ· καινὸν, τὸ νέον καὶ παράδοξον, ὅθεν καινοτομία,
+        <anchor xml:id="testimonia-45.grc.1" corresp="#testimonia-45.en.1"/>
+        Πλὴν τοῦ καὶ, συνδεσμοῦ· καινὸν, τὸ νέον καὶ παράδοξον, ὅθεν καινοτομία,
             ἡ νέα πράξις ἢ ἡ παράδοξος· καινοτομῶ, τὸ νεοπραγῶ· Καίσαρ, Καίσαρος· Καισάρεια πόλις,
             καὶ Καισαρεὺς ὁ ἀπὸ <placeName>Καισαρείας</placeName>· καιρὸς ὁ χρόνος, ὅθεν καὶ
             καίριον, τὸ ἔγκαιριον· καιροφυλακῶ· καιροσκοπῶ· καιρία πληγὴ, ὁ θανάσιμος· καικίας,
             ἄνεμος· Καινεὺς, κύριον, καὶ κλίνεται Καινέως· καίω, ῥῆμα, τὸ φλογίζω· καὶ καίνω, τὸ
-            κόπτω, ὅθεν καὶ καινὶς, ἡ μάχαιρα.<ab type="source" source="#bib45-1"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="textual">Ed. Boissonade 1819</note></ab>
-         <ab type="translation" xml:lang="en" xml:id="quote45-2">
-        <anchor xml:id="testimonia-45.en.1" corresp="#testimonia-45.grc.1"/>Besides kai, conjunction: kainon, the new and incredible, from which
-            we also get kainotomia, a new practice or paradox; kainotomo, verb “to render new”;
-            Kaisar, Kaisaros; <placeName>Kaisareia</placeName> the city, and Kaisareus, the man from
-               <placeName>Kaisareia</placeName>; kairos, the time, from which we also get kairion,
-            engkairion; kairophylako; kairoskopo; kairia plege, the death-blow; kaikias, wind;
-            Kaineus, proper noun, declined Kaineos; kaio, verb, “to set afire”; and kaino, verb “to
-            cut”, from which we also get kainis, knife.<note xml:lang="en" type="translation">Trans. J. L.
-               Rife</note>
+            κόπτω, ὅθεν καὶ καινὶς, ἡ μάχαιρα.
+        
+        
+        
+        
+      <ab type="source" source="#bib45-1"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
+        <note xml:lang="en" type="textual">Ed. Boissonade 1819</note>
       </ab>
+         <ab type="translation" xml:lang="en" xml:id="quote45-2">
+        <anchor xml:id="testimonia-45.en.1" corresp="#testimonia-45.grc.1"/>
+            Besides
+               <foreign>kai</foreign>, conjunction: <foreign>kainon</foreign>, the new and
+            incredible, from which we also get <foreign>kainotomia</foreign>, a new practice or
+            paradox; <foreign>kainotomo</foreign>, verb “to render new”; <foreign>Kaisar,
+               Kaisaros</foreign>; <foreign>
+          <placeName>Kaisareia</placeName>
+        </foreign> the city, and
+               <foreign>Kaisareus</foreign>, the man from
+               <foreign>
+          <placeName>Kaisareia</placeName>
+        </foreign>; <foreign>kairos</foreign>, the
+            time, from which we also get <foreign>kairion</foreign>, <foreign>engkairion</foreign>;
+               <foreign>kairophylako</foreign>; <foreign>kairoskopo</foreign>; <foreign>kairia
+               plege</foreign>, the death-blow; <foreign>kaikias</foreign>, wind;
+               <foreign>Kaineus</foreign>, proper noun, declined <foreign>Kaineos</foreign>;
+               <foreign>kaio</foreign>, verb, “to set afire”; and <foreign>kaino</foreign>, verb “to
+            cut”, from which we also get <foreign>kainis</foreign>, knife.<note xml:lang="en" type="translation">Trans. J. L. Rife</note>
+            
+            
+            <idno type="CTS-URN"/>
+            <ref target=""/>
+         </ab>
          <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib45-1">
@@ -315,7 +339,11 @@
           <citedRange unit="p">325-345</citedRange>
         </bibl>
       </listBibl>
-      <note type="related-texts"/>
+      
+      
+      
+      
+    <note type="related-texts"/>
       <note type="geography"/>
       <note type="prosopography"/>
       <note type="themes">

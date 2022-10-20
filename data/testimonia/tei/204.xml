@@ -247,7 +247,7 @@
             <p/>
          </abstract>
          <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Description of the Holy
-               Land</title> <ref n="c" target="#bib204-1">10.1-5</ref> written by <persName ref="https://pleiades.stoa.org/places/687995" role="author">Burchard of Mt.
+               Land</title> <ref target="#bib204-1">10.1-5</ref> written by <persName ref="https://pleiades.stoa.org/places/687995" role="author">Burchard of Mt.
                Sion</persName> in <origDate notBefore="1274" notAfter="1285" period="#crusader">1274-1285 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/1001939">Palestine</origPlace>.</creation>
          <langUsage>
             <language ident="la">Latin</language>
@@ -261,6 +261,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc status="draft">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
          <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
       </revisionDesc>
    </teiHeader>
@@ -272,18 +273,19 @@
          <desc type="abstract" xml:id="abstract204-1"><quote><placeName>Cesarea</placeName></quote>, <quote><placeName>Pyrgus
                Stratonis</placeName></quote>, <quote><placeName>Cesaream</placeName></quote>, <quote><placeName>Caesarea</placeName></quote>, and <quote><placeName>Pyrgus Stratonis</placeName></quote> are directly attested at <persName ref="https://pleiades.stoa.org/places/687995" role="author">Burchard of Mt.
                Sion</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Description of the Holy
-               Land</title> <ref n="c" target="#bib204-1">10.1-5</ref>. This passage was written ca. <origDate notBefore="1274" notAfter="1285" period="#crusader">1274-1285 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/1001939">Palestine</origPlace>.</desc>
+               Land</title> <ref target="#bib204-1">10.1-5</ref>. This passage was written ca. <origDate notBefore="1274" notAfter="1285" period="#crusader">1274-1285 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/1001939">Palestine</origPlace>.</desc>
          <desc type="context">Burchard of Mt. Sion was a Dominican friar from Magdeburg in Lower
             Saxony who wrote the the most important description of the Holy Land from the 13th
             century. The earliest and longest account of his pilgrimage, which grew particularly
-            popular during the 14th-18th centuries, described his long trip from northern Germany to
+            popular during the 14th-18th centuries, described his journey from northern Germany to
             the Levant, where he stayed from 1274 to 1284, shortly before the fall of Acre, the last
             Crusader stronghold in the Holy Land, in 1291. The content of his description is based
             upon personal experience, research into ancient writings and earlier itineraries, and
             close study of scripture. In this passage, Burchard describes the historical geography
             and sites between Haifa and Arsuf.</desc>
          <ab type="edition" xml:lang="la" xml:id="quote204-1">
-        <anchor xml:id="testimonia-204.la.1" corresp="#testimonia-204.en.1"/>(1) Ρrima divisio quarte australis incipit ab Accon, sicut omnes alie.
+        <anchor xml:id="testimonia-204.la.1" corresp="#testimonia-204.en.1"/>
+        (1) Ρrima divisio quarte australis incipit ab Accon, sicut omnes alie.
             In quo primo IIII leucis de Acco occurrit civitas Cayphas sub pede montis Carmeli. (2)
             De Caypha III leucis contra austrum est Castrum Peregrinorum, fratrum milicie templi,
             munitum pre omnibus locis, que unquam possederunt Christiani. Et est situm in corde
@@ -305,9 +307,19 @@
             (5) De <placeName>Cesarea</placeName> ΙΙΙ leucis contra austrum est villa Αssur dicta:
             quondam tamen Antipatrida dicebatur ab Antipatre, patre Herodis Magni. Que fuit fratrum
             de hospitali sancti Iohannis, qui licet eam perdiderunt, tamen solvunt domino de Assur
-            et heredibus eius XXVIII milia bysantinorum aureorum singulis annis.<ab type="source" source="#bib204-1"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="textual">Ed. Laurent 1873</note></ab>
+            et heredibus eius XXVIII milia bysantinorum aureorum singulis annis.
+        
+        
+        
+        
+      <ab type="source" source="#bib204-1"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        <note xml:lang="en" type="textual">Ed. Laurent 1873</note>
+      </ab>
          <ab type="translation" xml:lang="en" xml:id="quote204-2">
-        <anchor xml:id="testimonia-204.en.1" corresp="#testimonia-204.la.1"/>(1) The first division of the southern quarter begins from Acre,
+        <anchor xml:id="testimonia-204.en.1" corresp="#testimonia-204.la.1"/>
+        (1) The first division of the southern quarter begins from Acre,
             like all the others. First, four leagues from Acre comes the city of Cayphas at the foot
             of Mount Carmel. (2) Three leagues southward from Cayphas is Pilgrims’ Castle belonging
             to the Militia of the Temple, the best defended of all places ever held by the
@@ -330,8 +342,17 @@
             south of <placeName>Caesarea</placeName> is a town called Assur, but once it was called
             Antipatris after Antipater, Herod the Great's father. It belonged to the brothers of the
             Hospital of St. John, who, although they have lost it, still pay 28,000 gold bezants a
-            year to the Lord of Assur and his heirs.<ab type="source" source="#bib204-2"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="translation">Adapted from Pringle
-               2018</note></ab>
+            year to the Lord of Assur and his heirs.
+        
+        
+        
+        
+      <ab type="source" source="#bib204-2"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        <note xml:lang="en" type="translation">Adapted from Pringle
+               2018</note>
+      </ab>
          <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib204-1">
@@ -345,11 +366,15 @@
           <citedRange unit="p">307-308</citedRange>
         </bibl>
       </listBibl>
-      <note type="related-texts">
-        <p>Acts 8:40</p>
+      
+      
+      
+      
+    <note type="related-texts">
         <p>Acts 10:1-48</p>
         <p>Acts 21:8-9</p>
         <p>Acts 24-26</p>
+        <p>Acts 8:40</p>
         <p>Josephus Jewish Antiquities 15.9.6</p>
         <p>Marino Sanudo the Elder, Secrets for Those Faithful to the Cross 3.14.2</p>
       </note>

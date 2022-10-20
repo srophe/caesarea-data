@@ -315,15 +315,22 @@
         κατὰ Παλαιστίνην τηνικάδε συγκεκροτημένων γραφὴ, ὧν προυτέτακτο Θεόφιλος τῆς ἐν <placeName xml:lang="grc">Καισαρείᾳ</placeName> παροικίας ἐπίσκοπος καὶ Νάρκισσος τῆς ἐν
         Ἱεροσολύμοις· καὶ τῶν ἐπὶ ῾Ρώμης δὲ ὁμοίως ἄλλη περὶ τοῦ αὐτοῦ ζητήματος, ἐπίσκοπον Βίκτορα
         δηλοῦσα· τῶν τε κατὰ Πόντον ἐπισκόπων, ὧν Πάλμας ὡς ἀρχαιότατος προυτέτακτο, καὶ τῶν κατὰ
-        Γαλλίαν δὲ παροικιῶν, ἃς Εἰρήναιος ἐπεσκόπει ...<ab type="source" source="#bib98-1"/><idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg002.1st1K-grc2:5.23.3</idno><ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2018.tlg002.1st1K-grc2:5.23.3"/></ab>
+        Γαλλίαν δὲ παροικιῶν, ἃς Εἰρήναιος ἐπεσκόπει ...<ab type="source" source="#bib98-1"/>
+        <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg002.1st1K-grc2:5.23.3</idno>
+        <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2018.tlg002.1st1K-grc2:5.23.3"/>
+      </ab>
       <ab type="translation" xml:lang="en" xml:id="quote98-2">
         <anchor xml:id="testimonia-98.en.1" corresp="#testimonia-98.grc.1"/>There is still extant a
         writing of those who were convened in Palestine, over whom presided Theophilus, bishop of
           <placeName xml:lang="en">the diocese of Caesarea</placeName>, and Narcissus, bishop of
         Jerusalem; and there is similarly another from those in Rome on the same controversy, which
         gives Victor as bishop; and there is one of the bishops of Pontus over whom Palmas presided
-        as the oldest; and of the dioceses of Gaul, of which Irenaeus was bishop.<ab type="source" source="#bib98-2"/><idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg002.1st1K-eng1:5.23</idno><ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2018.tlg002.1st1K-eng1:5.23"/><note xml:lang="en" type="corrigenda">Inaccuracies found in the transcription of the electronic text compared
-          to its printed source have been corrected.</note></ab>
+        as the oldest; and of the dioceses of Gaul, of which Irenaeus was bishop.<ab type="source" source="#bib98-2"/>
+        <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg002.1st1K-eng1:5.23</idno>
+        <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2018.tlg002.1st1K-eng1:5.23"/>
+        <note xml:lang="en" type="corrigenda">Inaccuracies found in the transcription of the electronic text compared
+          to its printed source have been corrected.</note>
+      </ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib98-1">

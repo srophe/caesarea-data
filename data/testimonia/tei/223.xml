@@ -243,7 +243,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref n="a" target="#bib223-1">10.13</ref> written by <persName role="author" ref="http://viaf.org/viaf/9212160667777103560005">Ernoul</persName> in <origDate notBefore="1172" notAfter="1202" period="#crusader">ca. 1187 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref target="#bib223-1">10.13</ref> written by <persName role="author" ref="http://viaf.org/viaf/9212160667777103560005">Ernoul</persName> in <origDate notBefore="" notAfter="" period="#">NaN CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</creation>
       <langUsage>
         <language ident="fro">Old French</language>
       </langUsage>
@@ -256,6 +256,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc status="draft">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
     </revisionDesc>
   </teiHeader>
@@ -264,32 +265,44 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/223</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract223-1"><quote><placeName>Cesaire</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/9212160667777103560005">Ernoul</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref n="a" target="#bib223-1">10.13</ref>. This passage was written ca. <origDate notBefore="1172" notAfter="1202" period="#crusader">ca. 1187 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
-      <desc type="context">This Chronicle is a pastiche of accounts of the Kingdom of Jerusalem
-            built around a core narrative written in Old French by one Ernoul (Ernoldus), squire to
-            Balian of Ibelin, that focused on events up to 1187; separate versions of the same text
-            with additions continued the historical narrative down to 1229 and 1231. The middle part
-            of the Chronicle is filled with geographical data and biblical references that appear
-            from their incongruity with the historal narrative to be interpolations. The detailed
-            chapter (10) on Nablus, however, most likely includes content by the hand of Ernoul, who
-            stayed over there in the retinue of Balian during his embassy from King Guy of Jerusalem
-            to Count Raymond III of Tripoli in 1187. Here the author notes the situation of Nablus
-            relative to Nazareth, Caesarea, and Jerusalem.</desc>
+      <desc type="abstract" xml:id="abstract223-1"><quote><placeName>Cesaire</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/9212160667777103560005">Ernoul</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref target="#bib223-1">10.13</ref>. This passage was written ca. <origDate notBefore="" notAfter="" period="#">NaN CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
+      <desc type="context">This <title>Chronicle</title> is a pastiche of accounts of the Kingdom of
+        Jerusalem built around a core narrative written in Old French by one Ernoul (Ernoldus),
+        squire to Balian of Ibelin, that focused on events up to 1187; separate versions of the same
+        text with additions continued the historical narrative down to 1229 and 1231. The middle
+        part of the <title>Chronicle</title> is filled with geographical data and biblical
+        references that appear from their incongruity with the historal narrative to be
+        interpolations. The detailed chapter (10) on Nablus, however, most likely includes content
+        by the hand of Ernoul, who stayed over there in the retinue of Balian during his embassy
+        from King Guy of Jerusalem to Count Raymond III of Tripoli in 1187. Here the author notes
+        the situation of Nablus relative to Nazareth, Caesarea, and Jerusalem.</desc>
       <ab type="edition" xml:lang="fro" xml:id="quote223-1">
-        <anchor xml:id="testimonia-223.fro.1" corresp="#testimonia-223.en.1"/>Il a de Naples en Jherusalem XII liues, et de Naples en Nazareth XII
+        <anchor xml:id="testimonia-223.fro.1" corresp="#testimonia-223.en.1"/>
+        Il a de Naples en Jherusalem XII liues, et de Naples en Nazareth XII
             liues; et si est Naples en mi voies de Nazareth et de Jherusalem. Or a de Naples à <placeName>Cesaire</placeName> sour mer XII liues, et de Naples au flun Jourdain V
             liues, mais cil fluns n’est mie en cel endroit où Jhesu Cris fu batisiés, car il i a
-            assés plus de Naples là u il fu baptisiés; mais tout est I fluns.<ab type="source" source="#bib223-1"/>
+            assés plus de Naples là u il fu baptisiés; mais tout est I fluns.
+        
+        
+        
+        
+      <ab type="source" source="#bib223-1"/>
         <idno type="CTS-URN"/>
         <ref target="https://archive.org/details/chroniquedernoul00ernouoft/page/112/mode/2up"/>
         <note xml:lang="en" type="textual">Ed. Mas Latrie 1871</note>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote223-2">
-        <anchor xml:id="testimonia-223.en.1" corresp="#testimonia-223.fro.1"/>It is 12 miles from Nablus to Jerusalem, and 12 from Nablus to
+        <anchor xml:id="testimonia-223.en.1" corresp="#testimonia-223.fro.1"/>
+        It is 12 miles from Nablus to Jerusalem, and 12 from Nablus to
             Nazareth; and Nablus is midway between Nazareth and Jerusalem. Now from Nazareth to <placeName>Caesarea</placeName> on the Sea is 12 miles, and from Nablus to the River
             Jordan is 5 miles. But that part of the river is not the place where Jesus Christ was
             baptized, for it is much more from Nablus to the place where he was baptized, but it is
-            all the same river …<ab type="source" source="#bib223-2"/>
+            all the same river …
+        
+        
+        
+        
+      <ab type="source" source="#bib223-2"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
         <note xml:lang="en" type="translation">Trans. Pringle 2018</note>
@@ -307,6 +320,10 @@
           <citedRange unit="section">13</citedRange>
         </bibl>
       </listBibl>
+    
+      
+      
+      
     <note type="related-texts"/>
       <note type="geography">
         <p>Jerusalem</p>

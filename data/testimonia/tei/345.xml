@@ -243,7 +243,8 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Against Jovinianus</title> <ref n="a" target="#bib345-1">1.39.277c-d</ref> written by <persName role="author" ref="http://viaf.org/viaf/95147024">Jerome</persName> in <origDate notBefore="0378" notAfter="0408" period="#byzantine">ca. 393 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Against Jovinianus</title>
+        <ref target="#bib345-1">1.39.277c-d</ref> written by <persName role="author" ref="http://viaf.org/viaf/95147024">Jerome</persName> in <origDate notBefore="" notAfter="" period="#">0393</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</creation>
       <langUsage>
         <language ident="la">Latin</language>
       </langUsage>
@@ -256,6 +257,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc status="draft">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
     </revisionDesc>
   </teiHeader>
@@ -264,15 +266,16 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/345</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract345-1">and <quote><placeName>Caesarea</placeName></quote> is directly attested at <persName role="author" ref="http://viaf.org/viaf/95147024">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Against Jovinianus</title> <ref n="a" target="#bib345-1">1.39.277c-d</ref>. This passage was written ca. <origDate notBefore="0378" notAfter="0408" period="#byzantine">ca. 393 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract345-1">and <quote><placeName>Caesarea</placeName></quote> is directly attested at <persName role="author" ref="http://viaf.org/viaf/95147024">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Against Jovinianus</title> <ref target="#bib345-1">1.39.277c-d</ref>. This passage was written ca. <origDate notBefore="" notAfter="" period="#">0393</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</desc>
       <desc type="context">We know almost nothing about Jovinianus, a Christian who promulgated
-            heretical arguments concerning virginity, sex, baptism, sin, and punishment at Rome in
-            the late 380s. After the thorough and swift condemnation of this work by Pope Siricius,
-            Jerome received a copy from his associate Pammachius and responded with an exegetical
-            critique. At the end of his discussion of marriage and purity, Jerome cites the famous
-            example of the four virgin prophetesses of Caesarea Maritima.</desc>
+        heretical arguments concerning virginity, sex, baptism, sin, and punishment at Rome in the
+        late 380s. After the thorough and swift condemnation of this work by Pope Siricius, Jerome
+        received a copy from his associate Pammachius and responded with an exegetical critique. At
+        the end of his discussion of marriage and purity, Jerome cites the famous example of the
+        four virgin prophetesses of Caesarea.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote345-1">
-        <anchor xml:id="testimonia-345.la.1" corresp="#testimonia-345.en.1"/>Dies me deficiet si voluero omnia de castitate Apostoli praecepta
+        <anchor xml:id="testimonia-345.la.1" corresp="#testimonia-345.en.1"/>
+        Dies me deficiet si voluero omnia de castitate Apostoli praecepta
             memorare. Ista sunt de quibus ad apostolos Dominus loquebatur, “Adhuc multa habeo vobis
             dicere, sed non potestis ea portare modo. Cum autem venerit ille Spiritus veritatis,
             docebit vos omnem veritatem.” Post crucem Christi, statim in Actis apostolorum una domus
@@ -280,7 +283,12 @@
             Cornelium fuerat dedicata, etiam virginum puellarum praeberet exempla. Cumque Dominus in
             Evangelio dixerit, “Lex et pophetae usque ad Ioannem,” istae, quia virgines erant, etiam
             post Ioannem prophetasse referuntur. Neque enim poterant veteris Testamenti lege
-            detineri, quae virginitatis fulserant claritate.<ab type="source" source="#bib345-1"/>
+            detineri, quae virginitatis fulserant claritate.
+        
+        
+        
+        
+      <ab type="source" source="#bib345-1"/>
         <idno type="CTS-URN"/>
         <ref target="https://archive.org/details/patrologiaecurs01goog/page/n144/mode/2up"/>
         <note xml:lang="en" type="textual">Ed. Migne 1883</note>
@@ -288,17 +296,23 @@
                Rife</note>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote345-2">
-        <anchor xml:id="testimonia-345.en.1" corresp="#testimonia-345.la.1"/>The day would fail me if I should want to relate all the apostle’s
-            teachings on chastity. The Lord said this on the matter to the apostles: “Up to now I
-            have told you many things, but you cannot bear them at all. But when the Spirit of truth
-            comes, it will teach you every truth.” Right after the crucifixion of Christ in the Acts
-            of the Apostles, one house belonging to Philip the evangelist produced a foursome of
-            virgin daughters: even Caesarea, where the Church of gentiles was dedicated by the
-            centurion Cornelius, produces examples of virgin girls. When the Lord said in the
-            Gospel, “The Law and the Prophets (were) up to John,” the girls, because they were
-            virgins, were reported to have prophesied even after John. For the girls who flashed
-            with the brightness of virginity could not be held back by the Law of the Old
-               Testament.<ab type="source" source="#bib345-2"/>
+        <anchor xml:id="testimonia-345.en.1" corresp="#testimonia-345.la.1"/>
+        The day would fail me
+        if I should want to relate all the Apostle’s teachings on chastity. The Lord said this on
+        the matter to the Apostles: “Up to now I have told you many things, but you cannot bear them
+        at all. But when the Spirit of truth comes, it will teach you every truth.” Right after the
+        crucifixion of Christ in the <title>Acts of the Apostles</title>, one house belonging to
+        Philip the evangelist produced a foursome of virgin daughters: even
+          <placeName>Caesarea</placeName>, where the Church of Gentiles was dedicated by the
+        centurion Cornelius, produces examples of virgin girls. When the Lord said in the Gospel,
+        “The Law and the Prophets (were) up to John,” the girls, because they were virgins, were
+        reported to have prophesied even after John. For the girls who flashed with the brightness
+        of virginity could not be held back by the Law of the Old Testament.
+        
+        
+        
+        
+      <ab type="source" source="#bib345-2"/>
         <idno type="CTS-URN"/>
         <ref target="https://ccel.org/ccel/schaff/npnf206/npnf206.vi.vi.I.html"/>
         <note xml:lang="en" type="translation">Adapted from Fremantle 1893</note>
@@ -321,6 +335,10 @@
           <ptr target="https://caesarea-maritima.org/bibl/MUU4ALR4"/>
         </bibl>
       </listBibl>
+    
+      
+      
+      
     <note type="related-texts">
         <p>Acts 21:9</p>
         <p>John 17:12, 13</p>

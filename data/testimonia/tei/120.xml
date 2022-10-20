@@ -275,9 +275,15 @@
       </ab>
       <desc type="abstract" xml:id="abstract120-1"><quote><placeName xml:lang="grc">Καισαρέων</placeName></quote>, and <quote><placeName xml:lang="en">Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>, <title ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Historia ecclesiastica</title> <ref n="i" target="#bib120-1">8.13.6</ref>. This passage was written ca. <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote120-1">
-        <anchor xml:id="testimonia-120.grc.1" corresp="#testimonia-120.en.1"/>καὶ τὸ μέγα δὲ κλέος τῆς <placeName xml:lang="grc">Καισαρέων</placeName> παροικίας ἐν τούτοις ἡμῖν μνημονευέσθω Πάμφιλος πρεσβύτερος, τῶν καθ’ ἡμᾶς θαυμασιώτατος, οὗ τῶν ἀνδραγαθημάτων τὴν ἀρετὴν κατὰ τὸν δέοντα καιρὸν ἀνεγράψαμεν.<ab type="source" source="#bib120-1"/><idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg002.1st1K-grc2:8.13.6</idno><ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2018.tlg002.1st1K-grc2:8.13.6"/></ab>
+        <anchor xml:id="testimonia-120.grc.1" corresp="#testimonia-120.en.1"/>καὶ τὸ μέγα δὲ κλέος τῆς <placeName xml:lang="grc">Καισαρέων</placeName> παροικίας ἐν τούτοις ἡμῖν μνημονευέσθω Πάμφιλος πρεσβύτερος, τῶν καθ’ ἡμᾶς θαυμασιώτατος, οὗ τῶν ἀνδραγαθημάτων τὴν ἀρετὴν κατὰ τὸν δέοντα καιρὸν ἀνεγράψαμεν.<ab type="source" source="#bib120-1"/>
+        <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg002.1st1K-grc2:8.13.6</idno>
+        <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2018.tlg002.1st1K-grc2:8.13.6"/>
+      </ab>
       <ab type="translation" xml:lang="en" xml:id="quote120-2">
-        <anchor xml:id="testimonia-120.en.1" corresp="#testimonia-120.grc.1"/>And among these we must mention the great glory of the community of <placeName xml:lang="en">Caesarea</placeName>, Pamphilus, a presbyter, the most marvellous man of our day; the merit of whose brave and good deeds we shall record at the proper time.<ab type="source" source="#bib120-2"/><idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg002.1st1K-eng1:8.13</idno><ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2018.tlg002.1st1K-eng1:8.13"/></ab>
+        <anchor xml:id="testimonia-120.en.1" corresp="#testimonia-120.grc.1"/>And among these we must mention the great glory of the community of <placeName xml:lang="en">Caesarea</placeName>, Pamphilus, a presbyter, the most marvellous man of our day; the merit of whose brave and good deeds we shall record at the proper time.<ab type="source" source="#bib120-2"/>
+        <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg002.1st1K-eng1:8.13</idno>
+        <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2018.tlg002.1st1K-eng1:8.13"/>
+      </ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib120-1">

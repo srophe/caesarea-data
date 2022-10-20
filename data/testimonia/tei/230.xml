@@ -244,7 +244,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Church History</title> <ref n="b" target="#bib230-1">4.7b</ref> written by <persName role="author" ref="http://viaf.org/viaf/296114344">Evagrius
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Church History</title> <ref target="#bib230-1">4.7b</ref> written by <persName role="author" ref="http://viaf.org/viaf/296114344">Evagrius
                Scholasticus</persName> in <origDate notBefore="0593" notAfter="0598" period="#byzantine">593-598 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/658381">Antioch on the
                Orontes</origPlace>.</creation>
       <langUsage>
@@ -259,6 +259,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc status="draft">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
     </revisionDesc>
   </teiHeader>
@@ -267,83 +268,107 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/230</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract230-1"> is directly attested at <persName role="author" ref="http://viaf.org/viaf/296114344">Evagrius
-               Scholasticus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Church History</title> <ref target="#bib230-1">4.7b</ref>. This passage was written circa <origDate notBefore="0593" notAfter="0598" period="#byzantine">593-598 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/658381">Antioch on the
+      <desc type="abstract" xml:id="abstract230-1"><quote><placeName>Καίσαρος πόλιν</placeName></quote>, <quote><placeName>τῆς Καίσαρος </placeName></quote>, and <quote><placeName>city of Caesar</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/296114344">Evagrius
+               Scholasticus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Church History</title> <ref target="#bib230-1">4.7b</ref>. This passage was written ca. <origDate notBefore="0593" notAfter="0598" period="#byzantine">593-598 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/658381">Antioch on the
                Orontes</origPlace>.</desc>
-      <desc type="context">Evagrius Scholasticus came from a background of wealth and education
-            in Syria and rose to prominence in the circles of power in the early Byzantine empire
-            and church, as legal advisor of the Patriarchate of Antioch and honorary officeholder
-            under Maurice and Tiberius II. His Church History from the First Council of Ephesus to
-            the middle reign of Maurice (431-593/4 C.E.) provides especially rich evidence for the
-            history of Late Antique Syria. His famous portrait of Zosimas of Synda reveals the holy
-            man’s close connection to Caesarea (4.7), in particular his association with the
-            otherwise unknown grandee Arcesilaus, who became the venerable monk’s discussant and
-            likely patron. In this passage, Evagrius recounts the self-maiming by the wife of
-            Arcesilaus and the miraculous intercession by Zosimas and John of Choziba, bishop of
-            Caesarea (ca. 516 C.E.).</desc>
+      <desc type="context">Evagrius Scholasticus came from a background of wealth and education in
+        Syria and rose to prominence in the circles of power in the early Byzantine empire and
+        church, as legal advisor of the Patriarchate of Antioch and honorary officeholder under
+        Maurice and Tiberius II. His <title>Church History</title> from the First Council of Ephesus
+        to the middle reign of Maurice (431-593/4 C.E.) provides especially rich evidence for the
+        history of Late Antique Syria. His famous portrait of Zosimas of Synda reveals the holy
+        man’s close connection to Caesarea (4.7), in particular his association with the otherwise
+        unknown grandee Arcesilaus, who became the venerable monk’s discussant and likely patron. In
+        this passage, Evagrius recounts the self-maiming by the wife of Arcesilaus and the
+        miraculous intercession by Zosimas and John of Choziba, bishop of Caesarea (ca. 516
+        C.E.).</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote230-1">
-        <anchor xml:id="testimonia-230.grc.1" corresp="#testimonia-230.en.1"/>Διὰ τούτου πολλαί τε καὶ ἕτεραι θεοσημεῖαι γεγόνασιν, ὧν τὸ πλῆθος
-            παρείς, ἐπεὶ καὶ κρείττονος εἰπεῖν ἀριθμοῦ τυγχάνουσιν οὖσαι, ἔνια λέξω. Συνήκμαζε τῷ
-            Ζωσιμᾷ ἀνήρ, Ἰωάννης τοὔνομα, ταῖς ἀρεταῖς παραπλήσιος, ἐν Χουζιβᾷ τῇ μάνδρᾳ—κεῖται δὲ
-            πρὸς τῇ ἐσχατιᾷ τῆς χαράδρας ἀνὰ τὸ ἀρκτῷον μέρος τῆς λεωφόρου τῆς φερούσης τοὺς
-            διαπορευομένους ἐξ Ἱεροσολύμων ἐπὶ τὴν Ἱεριχουντίων πόλιν—τὸν μονήρη τε καὶ ἄϋλον
-            διαπαλαίσας βίον, ἐπισκοπήσας δὲ τὴν εἰρημένην μοι Καίσαρος πόλιν. Οὗτος ὁ Ἰωάννης ὁ
-            Χουζιβίτης, ἐπεὶ τὴν Ἀρκεσιλάου τοῦ λελεγμένου μοι γυναῖκα ἠκηκόει θάτερον τοῖν
-            ὀφθαλμοῖν ὑπὸ κερκίδος ἐκκοπέντα, δρομαίως ᾔει πρὸς αὐτὴν τὸ πάθος ἐπισκεψόμενος. Ὡς δ’
-            οὖν ἐθεάσατο τήν τε κόρην ἐκπεσοῦσαν τέλεόν τε τὸν ὀφθαλμὸν διαρρυέντα, σπόγγον
-            ἐπιτάττει τῶν τινι παρεφομαρτούντων ἰατρῶν ἐνεγκεῖν, εἰσαγαγεῖν τε τὸ διαρρυὲν ὡς ἂν
-            δύναιτο, καὶ τὸν σπόγγον περιθέντα τελαμῶσιν ἀναδῆσαι, οὔτι παρόντος Ἀρκεσιλάου. Ἔτυχε
-            γὰρ τῷ Ζωσιμᾷ παρὼν ἐν τῷ κατ’ αὐτὸν φροντιστηρίῳ, ὅπερ ἐπὶ τῆς Σινδηνῶν ἔκειτο κώμης,
-            διεστώσης τῆς Καίσαρος σταδίους μάλιστα πεντακοσίους. Δρομαῖοι τοίνυν παρὰ τὸν
-            Ἀρκεσίλαον ἐκτρέχουσίν οἱ ταῦτα διαγγέλλοντες. Καθῆστο δὲ πρὸς Ζωσιμᾷ ὁ Ἀρκεσίλαος τὰς
-            διαλέξεις ποιούμενος: ὅπερ ἐπειδὴ διέγνω, διωλύγιον ἀνεκώκυε, καὶ τὰς τρίχας ἐκτίλλων
-            καὶ διασπῶν εἰς οὐρανὸν ἀνέπεμπε. Τοῦ δὲ Ζωσιμᾶ πυνθανομένου τὴν αἰτίαν, τὸ συμβὰν ὁ
-            Ἀρκεσίλαος ἔλεγε ταῖς οἰμωγαῖς καὶ τοῖς δάκρυσι συχνὰ διακοπτόμενος. Ἀφεὶς οὖν τοῦτον ὁ
-            Ζωσιμᾶς αὐτὸς καθ’ ἑαυτὸν εἴς τι δωμάτιον ἐστρέχει ἔνθα τῷ θεῷ, ὡς θεμιτὸν τοῖς
-            τοιούτοις, ἐνετύγχανεν. Μετὰ δ’ αὖ τινα καιρὸν προσελθὼν ἔχαιρέν τε καὶ σεμνὰ μειδιῶν
-            πρὸς Ἀρκεσίλαον ἔλεγε τὴν χεῖρα καταψήχων· Ἄπιθι χαίρων, ἄπιθι· ἡ χάρις τῷ Χουζιβίτῃ
-            δέδοται. Ἰάθη σου τὸ γύναιον, ἄμφω τὼ ὀφθαλμὼ ἔχει, οὐδὲν ἰσχυσάσης τῆς συμφορᾶς
-            ἀφελέσθαι, οὕτω τοῦ Χουζιβίτου βουληθέντος. Ὅπερ καὶ γέγονεν ἀμφοῖντοῖν δικαίοιν κατὰ
-            ταὐτὸ θαυματουργησάντοιν.<ab type="source" source="#bib230-1"/><idno type="CTS-URN"/><ref target="https://babel.hathitrust.org/cgi/pt?id=hvd.ah3vvp&amp;view=1up&amp;seq=182"/><note xml:lang="en" type="textual">Ed. Bidez and Parmentier 1898</note></ab>
+        <anchor xml:id="testimonia-230.grc.1" corresp="#testimonia-230.en.1"/>
+        Διὰ τούτου πολλαί τε
+        καὶ ἕτεραι θεοσημεῖαι γεγόνασιν, ὧν τὸ πλῆθος παρείς, ἐπεὶ καὶ κρείττονος εἰπεῖν ἀριθμοῦ
+        τυγχάνουσιν οὖσαι, ἔνια λέξω. Συνήκμαζε τῷ Ζωσιμᾷ ἀνήρ, Ἰωάννης τοὔνομα, ταῖς ἀρεταῖς
+        παραπλήσιος, ἐν Χουζιβᾷ τῇ μάνδρᾳ—κεῖται δὲ πρὸς τῇ ἐσχατιᾷ τῆς χαράδρας ἀνὰ τὸ ἀρκτῷον
+        μέρος τῆς λεωφόρου τῆς φερούσης τοὺς διαπορευομένους ἐξ Ἱεροσολύμων ἐπὶ τὴν Ἱεριχουντίων
+        πόλιν—τὸν μονήρη τε καὶ ἄϋλον διαπαλαίσας βίον, ἐπισκοπήσας δὲ τὴν εἰρημένην μοι
+          <placeName>Καίσαρος πόλιν</placeName>. Οὗτος ὁ Ἰωάννης ὁ Χουζιβίτης, ἐπεὶ τὴν Ἀρκεσιλάου
+        τοῦ λελεγμένου μοι γυναῖκα ἠκηκόει θάτερον τοῖν ὀφθαλμοῖν ὑπὸ κερκίδος ἐκκοπέντα, δρομαίως
+        ᾔει πρὸς αὐτὴν τὸ πάθος ἐπισκεψόμενος. Ὡς δ’ οὖν ἐθεάσατο τήν τε κόρην ἐκπεσοῦσαν τέλεόν τε
+        τὸν ὀφθαλμὸν διαρρυέντα, σπόγγον ἐπιτάττει τῶν τινι παρεφομαρτούντων ἰατρῶν ἐνεγκεῖν,
+        εἰσαγαγεῖν τε τὸ διαρρυὲν ὡς ἂν δύναιτο, καὶ τὸν σπόγγον περιθέντα τελαμῶσιν ἀναδῆσαι, οὔτι
+        παρόντος Ἀρκεσιλάου. Ἔτυχε γὰρ τῷ Ζωσιμᾷ παρὼν ἐν τῷ κατ’ αὐτὸν φροντιστηρίῳ, ὅπερ ἐπὶ τῆς
+        Σινδηνῶν ἔκειτο κώμης, διεστώσης <placeName>τῆς Καίσαρος </placeName>σταδίους μάλιστα
+        πεντακοσίους. Δρομαῖοι τοίνυν παρὰ τὸν Ἀρκεσίλαον ἐκτρέχουσίν οἱ ταῦτα διαγγέλλοντες.
+        Καθῆστο δὲ πρὸς Ζωσιμᾷ ὁ Ἀρκεσίλαος τὰς διαλέξεις ποιούμενος: ὅπερ ἐπειδὴ διέγνω, διωλύγιον
+        ἀνεκώκυε, καὶ τὰς τρίχας ἐκτίλλων καὶ διασπῶν εἰς οὐρανὸν ἀνέπεμπε. Τοῦ δὲ Ζωσιμᾶ
+        πυνθανομένου τὴν αἰτίαν, τὸ συμβὰν ὁ Ἀρκεσίλαος ἔλεγε ταῖς οἰμωγαῖς καὶ τοῖς δάκρυσι συχνὰ
+        διακοπτόμενος. Ἀφεὶς οὖν τοῦτον ὁ Ζωσιμᾶς αὐτὸς καθ’ ἑαυτὸν εἴς τι δωμάτιον ἐστρέχει ἔνθα τῷ
+        θεῷ, ὡς θεμιτὸν τοῖς τοιούτοις, ἐνετύγχανεν. Μετὰ δ’ αὖ τινα καιρὸν προσελθὼν ἔχαιρέν τε καὶ
+        σεμνὰ μειδιῶν πρὸς Ἀρκεσίλαον ἔλεγε τὴν χεῖρα καταψήχων· Ἄπιθι χαίρων, ἄπιθι· ἡ χάρις τῷ
+        Χουζιβίτῃ δέδοται. Ἰάθη σου τὸ γύναιον, ἄμφω τὼ ὀφθαλμὼ ἔχει, οὐδὲν ἰσχυσάσης τῆς συμφορᾶς
+        ἀφελέσθαι, οὕτω τοῦ Χουζιβίτου βουληθέντος. Ὅπερ καὶ γέγονεν ἀμφοῖντοῖν δικαίοιν κατὰ ταὐτὸ
+          θαυματουργησάντοιν.
+        
+        
+        
+        
+      <ab type="source" source="#bib230-1"/>
+        <idno type="CTS-URN"/>
+        <ref target="https://babel.hathitrust.org/cgi/pt?id=hvd.ah3vvp&amp;view=1up&amp;seq=182"/>
+        <note xml:lang="en" type="textual">Ed. Bidez and Parmentier 1898</note>
+      </ab>
       <ab type="translation" xml:lang="en" xml:id="quote230-2">
-        <anchor xml:id="testimonia-230.en.1" corresp="#testimonia-230.grc.1"/>Through him many other miracles occurred; omitting the majority,
-            because they are of too great a number to recount, I will relate a few. At the same time
-            as Zosimas there flourished a man named John, who was similar in his virtues. He had
-            wrestled in the solitary life without matrial possessions at the monastery of Choziba,
-            which is situated at the edge of the ravine at the northern part of the highway that
-            leads travelers from Jerusalem to the city of Jericho, but now he was bishop of the city
-            of Caesar, which I have mentioned. When he heard that the wife of Arcesilaus, whom I
-            have mentioned, had put out one of her eyes with a weaving shuttle, this John the
-            Chozibite went running to her to examine the injury. When he saw that the pupil had
-            fallen out and that the entire eye was discharging, he instructed one of the attending
-            doctors to bring a sponge, to reinstate what had discharged as far as he could, and to
-            bind on the sponge and secure it with bandages. All this happened while Arcesilaus was
-            absent, for he was by chance with Zosimas in his institution, which lay near the village
-            of Sinde about 500 stadia from the city of Caesarea. Accordingly runners raced off to
-            bring news of this to Arcesilaus. He was sitting beside Zosimas having a discussion.
-            When Arcesilaus learned this he uttered a piercing wail, rent and pulled out his hair,
-            and threw it into the air. When Zosimas asked the reason, Arcesilaus said what had
-            happened with frequent interruptions for groans and tears. And so Zosimas left him and
-            hurried by himself into a certain room where, as is the custom for such people, he used
-            to encounter God. After some time he approached him again and greeted Arcesilaus with a
-            solemn smile and spoke to him, touching his hand, “Depart in happiness, depart: grace
-            has been granted to the Chozibite. Your wife is cured, she has both her eyes, and the
-            misfortune cannot deprive her of anything, because such was the will of the
-            Chorizibite.” This indeed happened because the two just men had worked wonders for the
-            same purpose.<ab type="source" source="#bib230-2"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="translation">Rev. Whitby 2000</note></ab>
+        <anchor xml:id="testimonia-230.en.1" corresp="#testimonia-230.grc.1"/>
+        Through him many other
+        miracles occurred; omitting the majority, because they are of too great a number to recount,
+        I will relate a few. At the same time as Zosimas there flourished a man named John, who was
+        similar in his virtues. He had wrestled in the solitary life without matrial possessions at
+        the monastery of Choziba, which is situated at the edge of the ravine at the northern part
+        of the highway that leads travelers from Jerusalem to the city of Jericho, but now he was
+        bishop of the <placeName>city of Caesar</placeName>, which I have mentioned. When he heard
+        that the wife of Arcesilaus, whom I have mentioned, had put out one of her eyes with a
+        weaving shuttle, this John the Chozibite went running to her to examine the injury. When he
+        saw that the pupil had fallen out and that the entire eye was discharging, he instructed one
+        of the attending doctors to bring a sponge, to reinstate what had discharged as far as he
+        could, and to bind on the sponge and secure it with bandages. All this happened while
+        Arcesilaus was absent, for he was by chance with Zosimas in his institution, which lay near
+        the village of Sinde about 500 stadia from the <placeName>city of Caesar</placeName>.
+        Accordingly runners raced off to bring news of this to Arcesilaus. He was sitting beside
+        Zosimas having a discussion. When Arcesilaus learned this he uttered a piercing wail, rent
+        and pulled out his hair, and threw it into the air. When Zosimas asked the reason,
+        Arcesilaus said what had happened with frequent interruptions for groans and tears. And so
+        Zosimas left him and hurried by himself into a certain room where, as is the custom for such
+        people, he used to encounter God. After some time he approached him again and greeted
+        Arcesilaus with a solemn smile and spoke to him, touching his hand, “Depart in happiness,
+        depart: grace has been granted to the Chozibite. Your wife is cured, she has both her eyes,
+        and the misfortune cannot deprive her of anything, because such was the will of the
+        Chorizibite.” This indeed happened because the two just men had worked wonders for the same
+          purpose.
+        
+        
+        
+        
+      <ab type="source" source="#bib230-2"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        <note xml:lang="en" type="translation">Rev. Whitby 2000</note>
+      </ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib230-1">
-          <ptr target="https://caesarea-maritima.org/bibl/HJ8KVICN"/>
+          <ptr target="https://caesarea-maritima.org/bibl/MZDGW83Y"/>
           <citedRange unit="bk">4.7b</citedRange>
           <citedRange unit="p">157-158</citedRange>
         </bibl>
         <bibl xml:id="bib230-2">
-          <ptr target="https://caesarea-maritima.org/bibl"/>
+          <ptr target="https://caesarea-maritima.org/bibl/QY2S7K25"/>
           <citedRange unit="bk">4.7b</citedRange>
           <citedRange unit="p">206-207</citedRange>
         </bibl>
       </listBibl>
+    
+      
+      
+      
     <note type="related-texts">
         <p>Nicephorus Callistus Xanthopoulos 17.4</p>
       </note>

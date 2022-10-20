@@ -243,7 +243,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Etymologies</title> <ref n="b" target="#bib262-1">6.6</ref> written by <persName role="author" ref="http://viaf.org/viaf/803890">Isidore</persName> in <origDate notBefore="0610" notAfter="0636" period="#byzantine">610-636 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/256210 ">Seville</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Etymologies</title> <ref target="#bib262-1">6.6</ref> written by <persName role="author" ref="http://viaf.org/viaf/803890">Isidore</persName> in <origDate notBefore="0610" notAfter="0636" period="#byzantine">610-636 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/256210 ">Seville</origPlace>.</creation>
       <langUsage>
         <language ident="la">Latin</language>
       </langUsage>
@@ -256,6 +256,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc status="draft">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
     </revisionDesc>
   </teiHeader>
@@ -264,7 +265,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/262</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract262-1"><quote><placeName>Caesariensis</placeName></quote>, and <quote><placeName>Caesaera</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/803890">Isidore</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Etymologies</title> <ref n="b" target="#bib262-1">6.6</ref>. This passage was written ca. <origDate notBefore="0610" notAfter="0636" period="#byzantine">610-636 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/256210 ">Seville</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract262-1"><quote><placeName>Caesariensis</placeName></quote>, and <quote><placeName>Caesaerea</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/803890">Isidore</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Etymologies</title> <ref target="#bib262-1">6.6</ref>. This passage was written ca. <origDate notBefore="0610" notAfter="0636" period="#byzantine">610-636 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/256210 ">Seville</origPlace>.</desc>
       <desc type="context">Isidore, born to an aristocratic family in Cartagena, was an
             influential scholar and Archbishop of Seville at the dawn of the Middle Ages. Beyond his
             bold ecclesiastical leadership in the old Roman province and his program to integrate
@@ -273,19 +274,33 @@
             classical writings, which he often quoted or paraphrased. In this passage, he describes
             the history of Christian libraries, highlighting the one at Caesarea Maritima.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote262-1">
-        <anchor xml:id="testimonia-262.la.1" corresp="#testimonia-262.en.1"/>Qui apud nos bibliothecas instituerunt. Apud nos quoque Pamphilus
+        <anchor xml:id="testimonia-262.la.1" corresp="#testimonia-262.en.1"/>
+        Qui apud nos bibliothecas instituerunt. Apud nos quoque Pamphilus
             martyr, cuius vitam Eusebius <placeName>Caesariensis</placeName> conscripsit,
             Pisistratum in sacrae bibliothecae studio primus adaequare contendit. Hic enim in
             bibliotheca sua prope triginta voluminum milia habuit. Hieronymus quoque atque Gennadius
             ecclesiasticos scriptores toto orbe quaerentes ordine persecuti sunt, eorumque studia in
-            uno voluminis indiculo conprehenderunt.<ab type="source" source="#bib262-1"/><idno type="CTS-URN"/><ref/><note xml:lang="en" type="textual">Ed. Lindsay 1911</note></ab>
+            uno voluminis indiculo conprehenderunt.
+        
+        
+        
+        
+      <ab type="source" source="#bib262-1"/>
+        <idno type="CTS-URN"/>
+        <ref/>
+        <note xml:lang="en" type="textual">Ed. Lindsay 1911</note>
+      </ab>
       <ab type="translation" xml:lang="en" xml:id="quote262-2">
-        <anchor xml:id="testimonia-262.en.1" corresp="#testimonia-262.la.1"/>Those who established libraries among (Christians). Furthermore,
-            among us the martyr Pamphilus, whose Life Eusebius of <placeName>Caesaera</placeName> composed, was the first who strove to match Pisistratus in his zeal for a sacred
-            library. For he had in his own library nearly 30,000 volumes. Jerome and Gennadius,
-            searching all over the world for the writers of the Church, went through them in order
-            and compiled their studies in a catalog of one volume.<note xml:lang="en" type="translation">Trans. J.
-               L. Rife</note>
+        <anchor xml:id="testimonia-262.en.1" corresp="#testimonia-262.la.1"/>
+        Those who established
+        libraries among (Christians). Furthermore, among us the martyr Pamphilus, whose
+          <title>Life</title> Eusebius of <placeName>Caesaerea</placeName> composed, was the first
+        who strove to match Pisistratus in his zeal for a sacred library. For he had in his own
+        library nearly 30,000 volumes. Jerome and Gennadius, searching all over the world for the
+        writers of the Church, went through them in order and compiled their studies in a catalog of
+        one volume.<note xml:lang="en" type="translation">Trans. J. L. Rife</note>
+        
+        
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -306,6 +321,10 @@
           <ptr target="https://caesarea-maritima.org/bibl/AQ6CUTBN"/>
         </bibl>
       </listBibl>
+    
+      
+      
+      
     <note type="related-texts">
         <p>Jerome, Letters 34.1</p>
       </note>

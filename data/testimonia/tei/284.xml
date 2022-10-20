@@ -278,14 +278,23 @@
             fuit beatus Elias propheta. De Carmelo ad <placeName>Cesaream</placeName> sunt league
             VIII. ibi dicitur esse tabula Domini et quatuor filie Sci. Filippi et locus centurionis
             Corneli. Et de <placeName>Cesarea</placeName> usque Iopem sunt leugue XII, ubi est
-            petronus sci. Iacobi Appli.<ab type="source" source="#bib284-1"/><idno type="CTS-URN"/><ref target="https://archive.org/details/chroniquedernoul00ernouoft/page/112/mode/2up"/><note xml:lang="en" type="textual">Ed. Golubovich 1906</note><note xml:lang="en" type="textual">Bibliotheca Ambrosiana, Codex O.35 (late 13th century?)</note></ab>
+            petronus sci. Iacobi Appli.<ab type="source" source="#bib284-1"/>
+        <idno type="CTS-URN"/>
+        <ref target="https://archive.org/details/chroniquedernoul00ernouoft/page/112/mode/2up"/>
+        <note xml:lang="en" type="textual">Ed. Golubovich 1906</note>
+        <note xml:lang="en" type="textual">Bibliotheca Ambrosiana, Codex O.35 (late 13th century?)</note>
+      </ab>
       <ab type="translation" xml:lang="en" xml:id="quote284-2">
         <anchor xml:id="testimonia-284.en.1" corresp="#testimonia-284.la.1"/>If anyone should want to go from Aco to Mount Carmel, it is 8
             leagues to the place where blessed Elijah the Prophet was. From Carmel to <placeName>Caesarea</placeName> is 8 leagues. There is said to be the Table of the
             Lord and the [tombs of the] four daughters of St. Philip and the site of the centurion
             Cornelius. And from <placeName>Caesarea</placeName> to Joppe is 12 leagues, and there is
-            the stone of St. James the Apostle.<ab type="source" source="#bib284-2"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="translation">Trans. Pringle
-               2018</note></ab>
+            the stone of St. James the Apostle.<ab type="source" source="#bib284-2"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        <note xml:lang="en" type="translation">Trans. Pringle
+               2018</note>
+      </ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib284-1">

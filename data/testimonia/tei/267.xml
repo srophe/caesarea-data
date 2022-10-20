@@ -244,7 +244,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref n="f" target="#bib267-1">52.7-10</ref> written by <persName role="author" ref="http://viaf.org/viaf/54944687">Theophanes the
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref target="#bib267-1">52.7-10</ref> written by <persName role="author" ref="http://viaf.org/viaf/54944687">Theophanes the
                Confessor</persName> in <origDate notBefore="0810" notAfter="0814" period="#earlyIslamic">810-814 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/511218">Cyzicus</origPlace>.</creation>
       <langUsage>
         <language ident="grc">Ancient Greek</language>
@@ -258,6 +258,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc status="draft">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
     </revisionDesc>
   </teiHeader>
@@ -267,8 +268,9 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/267</idno>
       </ab>
       <desc type="abstract" xml:id="abstract267-1"><quote><placeName>Καισαρείᾳ τῆς
-               Παλαιστίνης</placeName></quote>, and <quote><placeName>Caesarea Palestinae</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/54944687">Theophanes the
-               Confessor</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref n="f" target="#bib267-1">52.7-10</ref>. This passage was written ca. <origDate notBefore="0810" notAfter="0814" period="#earlyIslamic">810-814 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/511218">Cyzicus</origPlace>.</desc>
+               Παλαιστίνης</placeName></quote>, and <quote><placeName>Caesarea
+          Palestinae</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/54944687">Theophanes the
+               Confessor</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref target="#bib267-1">52.7-10</ref>. This passage was written ca. <origDate notBefore="0810" notAfter="0814" period="#earlyIslamic">810-814 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/511218">Cyzicus</origPlace>.</desc>
       <desc type="context">Theophanes, born to noble parents in Constantinople, was raised in the
             Palace under Constantine V (740-775 C.E.) He spent much of his career as a member and
             leader of monastic communities around the Sea of Marmara, before his condemnation and
@@ -279,15 +281,38 @@
             depends on the account of Socrates Scholasticus for the case of the pagan Porphyrius of
             Tyre, who was attacked at Caesarea.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote267-1">
-        <anchor xml:id="testimonia-267.grc.1" corresp="#testimonia-267.en.1"/>Πορφύριος δέ, ὁ καθ’ ἡμῶν λυττήσας, Τύριος μὲν ἦν τῷ γένει, Χριστιανὸς
+        <anchor xml:id="testimonia-267.grc.1" corresp="#testimonia-267.en.1"/>
+        Πορφύριος δέ, ὁ καθ’ ἡμῶν λυττήσας, Τύριος μὲν ἦν τῷ γένει, Χριστιανὸς
             δὲ τὸ πρὶν ὁ ἄθλιος· τυφθεὶς δὲ ὑπὸ Χριστιανῶν ἐν <placeName>Καισαρείᾳ τῆς
                Παλαιστίνης</placeName> κατ’ ὀργὴν μετῆλθεν εἰς τὸν ἑλληνισμόν, καὶ τότε γράψαι κατὰ
-            τῆς ἀληθείας ὁ κύων ἐτόλμησεν.<ab type="source" source="#bib267-1"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="textual">Ed. de Boor 1883</note></ab>
+            τῆς ἀληθείας ὁ κύων ἐτόλμησεν.
+        
+        
+        
+        
+      <ab type="source" source="#bib267-1"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        <note xml:lang="en" type="textual">Ed. de Boor 1883</note>
+      </ab>
       <ab type="translation" xml:lang="en" xml:id="quote267-2">
-        <anchor xml:id="testimonia-267.en.1" corresp="#testimonia-267.grc.1"/>[A.M. 5855=362/3 C.E.] Porphyrius, the man who raged against us, a
-            Tyrian by birth, a wretched fellow who had earlier been a Christian. He was beaten up by
-            the Christians in <placeName>Caesarea Palestinae</placeName> and in anger converted to
-            Hellenism (i.e. paganism), and then the dog dared to write an attack on the truth.<ab type="source" source="#bib267-2"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="translation">Rev. Mango, Scott, and Greatrex 1997</note></ab>
+        <anchor xml:id="testimonia-267.en.1" corresp="#testimonia-267.grc.1"/>
+        [A.M. 5855=362/3 C.E.]
+        Porphyrius, the man who raged against us, a Tyrian by birth, a wretched fellow who had
+        earlier been a Christian. He was beaten up by the Christians in <placeName>Caesarea
+          Palestinae</placeName> and in anger converted to Hellenism, and then the dog dared to
+        write an attack on the truth.
+        
+        
+        
+        
+      <ab type="source" source="#bib267-2"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        <note xml:lang="en" type="translation">Rev. Mango, Scott, and Greatrex
+          1997</note>
+        <note xml:lang="en" type="discussion">"Hellenism" here connotes paganism, or Greek polytheism.</note>
+      </ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib267-1">
@@ -299,6 +324,10 @@
           <citedRange unit="p">83</citedRange>
         </bibl>
       </listBibl>
+    
+      
+      
+      
     <note type="related-texts">
         <p>Socrates Scholasticus, Church History 3.23</p>
         <p>Theodorus Anagnostes 153 (62.7-10)</p>

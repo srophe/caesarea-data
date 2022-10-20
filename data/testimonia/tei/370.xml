@@ -243,7 +243,8 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Against John of Jerusalem</title> <ref n="a" target="#bib370-1">37.407a-b</ref> written by <persName role="author" ref="http://viaf.org/viaf/95147024">Jerome</persName> in <origDate notBefore="0382" notAfter="0412" period="#byzantine">ca. 397 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Against John of Jerusalem</title>
+        <ref target="#bib370-1">37.407a-b</ref> written by <persName role="author" ref="http://viaf.org/viaf/95147024">Jerome</persName> in <origDate notBefore="" notAfter="" period="#">0397</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</creation>
       <langUsage>
         <language ident="la">Latin</language>
       </langUsage>
@@ -256,6 +257,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc status="draft">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
     </revisionDesc>
   </teiHeader>
@@ -264,7 +266,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/370</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract370-1"><quote><placeName>Caesarea</placeName></quote>, <quote><placeName>Caesariensem</placeName></quote>, and <quote><placeName>Caesaream</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/95147024">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Against John of Jerusalem</title> <ref n="a" target="#bib370-1">37.407a-b</ref>. This passage was written ca. <origDate notBefore="0382" notAfter="0412" period="#byzantine">ca. 397 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract370-1"><quote><placeName>Caesarea</placeName></quote>, <quote><placeName>Caesariensem</placeName></quote>, and <quote><placeName>Caesaream</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/95147024">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Against John of Jerusalem</title> <ref target="#bib370-1">37.407a-b</ref>. This passage was written ca. <origDate notBefore="" notAfter="" period="#">0397</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</desc>
       <desc type="context">During the mid-390s St. Jerome was embroiled in the Origenist
             controversy with leading figures of the Church in the East. Following the open hostility
             between the bishops Epiphanius of Salamis and John of Jerusalem, Jerome opposed his
@@ -276,7 +278,8 @@
             against him, when in fact he should have recognized the authority of Caesarea and
             Antioch over the see of Jerusalem.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote370-1">
-        <anchor xml:id="testimonia-370.la.1" corresp="#testimonia-370.en.1"/>Tu qui regulas quaeris ecclesiasticas, et Nicaeni concilii canonibus
+        <anchor xml:id="testimonia-370.la.1" corresp="#testimonia-370.en.1"/>
+        Tu qui regulas quaeris ecclesiasticas, et Nicaeni concilii canonibus
             uteris, et alienos clericos et cum suis episcopis commorantes tibi niteris usurpare,
             responde mihi, ad Alexandrinum episcopum Palaestina quid pertinet? Ni fallor, hoc ibi
             decernitur, ut Palaestinae metropolis <placeName>Caesarea</placeName> sit et totius
@@ -286,7 +289,12 @@
             fugeres, quid vitares. Maluisti occupatis auribus molestiam facere, quam debitum
             metropolitano tuo honorem reddere. Nee hoc dico, quod praeter amicitias, quae
             suspicionem generant, quidquam in legatione reprehendam; sed quia apud interrogantes
-            magis et praesentes te purgare debueris.<ab type="source" source="#bib370-1"/>
+            magis et praesentes te purgare debueris.
+        
+        
+        
+        
+      <ab type="source" source="#bib370-1"/>
         <idno type="CTS-URN"/>
         <ref target="https://archive.org/details/patrologiaecurs01goog/page/n210/mode/2up"/>
         <note xml:lang="en" type="textual">Ed. Migne 1883</note>
@@ -294,7 +302,8 @@
                Rife</note>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote370-2">
-        <anchor xml:id="testimonia-370.en.1" corresp="#testimonia-370.la.1"/>You who ask for ecclesiastical rules, apply the canons of the
+        <anchor xml:id="testimonia-370.en.1" corresp="#testimonia-370.la.1"/>
+        You who ask for ecclesiastical rules, apply the canons of the
             Council of Nicaea, and seize control over priests in another diocese and actually living
             with their own bishops, answer my question: what has Palestine to do with the bishop of
             Alexandria? Unless I am deceived, it is decreed in those canons that <placeName>Caesarea</placeName> is the metropolis of Palestine, and Antioch of the
@@ -305,7 +314,12 @@
             than pay due honor to your metropolitan. And I do not say this because I have anything
             to blame in the mission itself, except certain partialities which beget suspicion; I say
             this because you ought rather to clear yourself in the actual presence of your
-               questioners.<ab type="source" source="#bib370-2"/>
+               questioners.
+        
+        
+        
+        
+      <ab type="source" source="#bib370-2"/>
         <idno type="CTS-URN"/>
         <ref target="https://ccel.org/ccel/schaff/npnf206/npnf206.vi.viii.html"/>
         <note xml:lang="en" type="translation">Adapted from Fremantle 1892</note>
@@ -327,6 +341,10 @@
           <ptr target="https://caesarea-maritima.org/bibl/MUU4ALR4"/>
         </bibl>
       </listBibl>
+    
+      
+      
+      
     <note type="related-texts"/>
       <note type="geography">
         <p>Alexandria</p>

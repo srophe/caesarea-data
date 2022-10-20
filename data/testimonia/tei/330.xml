@@ -246,7 +246,7 @@
             <p/>
          </abstract>
          <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Letter to Gregory the
-               Miracle-Worker </title> <ref n="a" target="#bib330-1">1</ref> written by <persName ref="http://viaf.org/viaf/95155322" role="author">Origen</persName> in <origDate notBefore="0235" notAfter="0238" period="#lateRoman">235-238 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</creation>
+               Miracle-Worker </title> <ref target="#bib330-1">1</ref> written by <persName ref="http://viaf.org/viaf/95155322" role="author">Origen</persName> in <origDate notBefore="0235" notAfter="0238" period="#lateRoman">235-238 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</creation>
          <langUsage>
             <language ident="grc">Ancient Greek</language>
          </langUsage>
@@ -259,6 +259,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc status="draft">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
          <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
       </revisionDesc>
    </teiHeader>
@@ -268,7 +269,7 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/330</idno>
          </ab>
          <desc type="abstract" xml:id="abstract330-1">Caesarea Maritima is indirectly attested at <persName ref="http://viaf.org/viaf/95155322" role="author">Origen</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Letter to Gregory the
-               Miracle-Worker </title> <ref n="a" target="#bib330-1">1</ref>. This passage was written ca. <origDate notBefore="0235" notAfter="0238" period="#lateRoman">235-238 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</desc>
+               Miracle-Worker </title> <ref target="#bib330-1">1</ref>. This passage was written ca. <origDate notBefore="0235" notAfter="0238" period="#lateRoman">235-238 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</desc>
          <desc type="context">Origen was an intellectual luminary and influential theologian of the
             Church during the first half to middle of the 3rd century. He attracted a following of
             devout students and famous visitors at Alexandria until his departure under pressure
@@ -281,13 +282,14 @@
             the relationship survive: the panegyric to Origen that Gregory gave as his valedictory
             (see Related Texts), and a short letter from teacher to student perhaps dating to ca.
             235-238, when Origen hid to avoid the purge of Christian leaders under Maximinus Thrax.
-            This letter survives in the Philocalia 13, a compilation of Origen’s writings by Basil
-            of Caesarea and Gregory of Nazianzus from the late 350s to early 360s. As he opens the
-            letter, Origen encapsulates the program of his school at Caesarea. He exhorts Gregory to
-            study Greek philosophy, music, literature, oratory, and science in order to perfect his
-            understanding of Christian thought and scripture.</desc>
+            This letter survives in the <title>Philocalia</title> (13), a compilation of Origen’s
+            writings by Basil of Caesarea and Gregory of Nazianzus from the late 350s to early 360s.
+            As he opens the letter, Origen encapsulates the program of his school at Caesarea. He
+            exhorts Gregory to study Greek philosophy, music, literature, oratory, and science in
+            order to perfect his understanding of Christian thought and scripture.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote330-1">
-        <anchor xml:id="testimonia-330.grc.1" corresp="#testimonia-330.en.1"/>Χαῖρε ἐν θεῷ, κύριέ μου σπουδαιότατε καὶ αἰδεσιμώτατε υἱὲ Γρηγόριε, παρὰ
+        <anchor xml:id="testimonia-330.grc.1" corresp="#testimonia-330.en.1"/>
+        Χαῖρε ἐν θεῷ, κύριέ μου σπουδαιότατε καὶ αἰδεσιμώτατε υἱὲ Γρηγόριε, παρὰ
             Ὠριγένους.<lb/>Ἡ εἰς σύνεσιν, ὡς οἶσθα, εὐφυΐα ἔργον φέρειν δύναται ἄσκησιν προσλαβοῦσα,
             ἄγον ἐπὶ τὸ κατὰ τὸ ἐνδεχόμενον, ἵν’ οὕτως ὀνομάσω, τέλος ἐκείνου, ὅπερ ἀσκεῖν τις
             βούλεται. δύναται οὖν ἡ εὐφυΐα σου Ῥωμαῖόν σε νομικὸν ποιῆσαι τέλειον καὶ Ἑλληνικόν τινα
@@ -297,9 +299,19 @@
             γενέσθαι ἐγκύκλια μαθήματα ἢ προπαιδεύματα, καὶ τὰ ἀπὸ γεωμετρίας καὶ ἀστρονομίας
             χρήσιμα ἐσόμενα εἰς τὴν τῶν ἱερῶν γραφῶν διήγησιν· ἵν’, ὅπερ φασὶ φιλοσόφων παῖδες περὶ
             γεωμετρίας καὶ μουσικῆς γραμματικῆς τε καὶ ῥητορικῆς καὶ ἀστρονομίας, ὡς συνερίθων
-            φιλοσοφίᾳ, τοῦθ’ἡμεῖς εἴπωμεν καὶ περὶ αὐτῆς φιλοσοφίας πρὸς χριστιανισμόν.<ab type="source" source="#bib330-1"/><idno type="CTS-URN"/><ref target="https://archive.org/details/desgregoriosthau00greg/page/40/mode/2up"/><note xml:lang="en" type="textual">Ed. Koetschau 1894</note></ab>
+            φιλοσοφίᾳ, τοῦθ’ἡμεῖς εἴπωμεν καὶ περὶ αὐτῆς φιλοσοφίας πρὸς χριστιανισμόν.
+        
+        
+        
+        
+      <ab type="source" source="#bib330-1"/>
+        <idno type="CTS-URN"/>
+        <ref target="https://archive.org/details/desgregoriosthau00greg/page/40/mode/2up"/>
+        <note xml:lang="en" type="textual">Ed. Koetschau 1894</note>
+      </ab>
          <ab type="translation" xml:lang="en" xml:id="quote330-2">
-        <anchor xml:id="testimonia-330.en.1" corresp="#testimonia-330.grc.1"/>Greetings in God, most excellent and reverend lord, son Gregory,
+        <anchor xml:id="testimonia-330.en.1" corresp="#testimonia-330.grc.1"/>
+        Greetings in God, most excellent and reverend lord, son Gregory,
             from Origen.<lb/>A natural talent for understanding, as you know, bestows on one the
             ability, through diligent practice, to pursue activity that leads to the fullest
             possible consummation (if I may call it that) of the very thing he desires to practice.
@@ -311,8 +323,17 @@
             geometry and astronomy that would be useful for interpreting the Holy Scriptures. And
             so, just as the children of philosophers say that geometry and music, grammar and
             rhetoric, and astronomy are ancillary to philosophy, we say that philosophy is ancillary
-            to Christianity.<ab type="source" source="#bib330-2"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="translation">Trans. J. L. Rife with ref. to Menzies
-               1899</note></ab>
+            to Christianity.
+        
+        
+        
+        
+      <ab type="source" source="#bib330-2"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        <note xml:lang="en" type="translation">Trans. J. L. Rife with ref. to Menzies
+               1899</note>
+      </ab>
          <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib330-1">
@@ -325,7 +346,11 @@
           <citedRange unit="p">295</citedRange>
         </bibl>
       </listBibl>
-      <note type="related-texts">
+      
+      
+      
+      
+    <note type="related-texts">
         <p>Gregory the Miracle-Worker, Panegyric on Origen 5.76-112</p>
       </note>
       <note type="geography"/>

@@ -244,7 +244,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Suda</title> <ref n="h" target="#bib322-1">ω 182.619.14-24</ref> written by <persName role="author">Unknown</persName> in <origDate notBefore="0976" notAfter="0990" period="#earlyIslamic">976-990 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Suda</title> <ref target="#bib322-1">ω 182.619.14-24</ref> written by <persName role="author">Unknown</persName> in <origDate notBefore="0976" notAfter="0990" period="#earlyIslamic">976-990 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
          <langUsage>
             <language ident="grc">Ancient Greek</language>
          </langUsage>
@@ -257,6 +257,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc status="draft">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
          <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
       </revisionDesc>
    </teiHeader>
@@ -265,40 +266,51 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/322</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract322-1"> is directly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Suda</title> <ref target="#bib322-1">ω 182.619.14-24</ref>. This passage was written circa <origDate notBefore="0976" notAfter="0990" period="#earlyIslamic">976-990 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
-         <desc type="context">The Suda (“Stronghold”) is an encyclopedic lexicon written by an
-            unknown scholar during the late 10th century. It compiles copious information in
-            alphabetical entries for use by the learned philologist, in particular on grammar,
-            history, and biography, referring to a broad range of sources from Classical Antiquity
-            to the Early Byzantine period. This passage from the lemma on Origen (s.v. Ὠριγένης)
-            describes how many students flocked to him at Caesarea from near and far during the
-            early 3rd century. Here the author depends largely on the account of Eusebius written
-            roughly 650 year earlier.</desc>
+         <desc type="abstract" xml:id="abstract322-1"><quote><placeName>Καισαρείας</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Suda</title> <ref target="#bib322-1">ω 182.619.14-24</ref>. This passage was written ca. <origDate notBefore="0976" notAfter="0990" period="#earlyIslamic">976-990 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+         <desc type="context">The <title>Suda</title> (“Stronghold”) is an encyclopedic lexicon
+            written by an unknown scholar during the late 10th century. It compiles copious
+            information in alphabetical entries for use by the learned philologist, in particular on
+            grammar, history, and biography, referring to a broad range of sources from Classical
+            Antiquity to the Early Byzantine period. This passage from the lemma on Origen (s.v.
+            Ὠριγένης) describes how many students flocked to him at Caesarea from near and far
+            during the early 3rd century. Here the author depends largely on the account of Eusebius
+            written roughly 650 year earlier.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote322-1">
-        <anchor xml:id="testimonia-322.grc.1" corresp="#testimonia-322.en.1"/>τῷ δὲ ᾽Ωριγένει ἐπὶ τῆς Καισαρείας τὰ συνήθη πράττοντι πολλοὶ προσῄεσαν
-            οὐ μόνον τῶν ἐπιχωρίων, ἀλλὰ καὶ τῆς ἀλλοδαπῆς μυρίοι φοιτηταὶ τὰς πατρίδας
-            ἀπολείποντες: ὧν ἐπισήμους μάλιστα ἔγνωμεν Θεόδωρον, ὃς ἦν αὐτὸς οὗτος ὁ καθ’ ἡμᾶς
-            ἐπισκόπων διαβόητος Γρηγόριος ὁ Θαυματουργός, ὅ τε τούτου ἀδελφὸς ᾽Αθηνόδωρος. οἷς ἀμφὶ
-            τὰ ῾Ελλήνων καὶ ῾Ρωμαίων μαθήματα δεινῶς ἐπτοημένοις φιλοσοφίας εἰς ἔρωτα τῆς προτέρας
-            σπουδῆς τὴν θείαν ἄσκησιν ἀντικαταλλάξασθαι προετρέψατο. πέντε δὲ ὅλοις ἔτεσιν αὐτῷ
-            συγγενόμενοι τοσαύτην ἀπηνέγκαντο περὶ τὰ θεῖα βελτίωσιν, ὡς ἔτι νέους ἄμφω ἐπισκοπῆς
-            τῶν κατὰ Πόντον ἐκκλησιῶν ἀξιωθῆναι.<ab type="source" source="#bib322-1"/><idno type="CTS-URN">https://archive.org/details/adler-a.-suidae-lexicon-3
-               ./Adler%20A.%2C%20Suidae%20Lexicon%203%20%28%CE%9A-%CE%9F.%20%CE%A9%29/page/n315/mode/2up</idno><note xml:lang="en" type="textual">Ed. Adler 1933</note></ab>
-         <ab type="translation" xml:lang="en" xml:id="quote322-2">
-        <anchor xml:id="testimonia-322.en.1" corresp="#testimonia-322.grc.1"/>While Origen was in the course of his usual tasks at Caesarea, not
-            only did many locals approach him (for instruction), but also thousands of foreign
-            students, leaving their homelands; especially renown among them we note Theodorus, who
-            was the very man famous in our day, the bishop Gregory the Miracle-Worker, and his
-            brother Athenodorus. Although they were passionately devoted to Greek and Roman
-            scholarship, Origen stirred in them a love of divine philosophy and persuaded them to
-            give up their former devotion in favor of rigorous theological study. After being with
-            him for five full years, they made such great progress in divine matters that, although
-            still young, both were considered deserving of the episcopate over the Pontic
-               churches.<note xml:lang="en" type="translation">Adapted from SOL (trans. P. Little et al.,
-               2000-)</note>
-        <idno type="CTS-URN"/>
-        <ref target="https://www.cs.uky.edu/~raphael/sol/sol-entries/omega/182"/>
+        <anchor xml:id="testimonia-322.grc.1" corresp="#testimonia-322.en.1"/>
+            τῷ δὲ ᾽Ωριγένει
+            ἐπὶ τῆς <placeName>Καισαρείας</placeName> τὰ συνήθη πράττοντι πολλοὶ προσῄεσαν οὐ μόνον
+            τῶν ἐπιχωρίων, ἀλλὰ καὶ τῆς ἀλλοδαπῆς μυρίοι φοιτηταὶ τὰς πατρίδας ἀπολείποντες: ὧν
+            ἐπισήμους μάλιστα ἔγνωμεν Θεόδωρον, ὃς ἦν αὐτὸς οὗτος ὁ καθ’ ἡμᾶς ἐπισκόπων διαβόητος
+            Γρηγόριος ὁ Θαυματουργός, ὅ τε τούτου ἀδελφὸς ᾽Αθηνόδωρος. οἷς ἀμφὶ τὰ ῾Ελλήνων καὶ
+            ῾Ρωμαίων μαθήματα δεινῶς ἐπτοημένοις φιλοσοφίας εἰς ἔρωτα τῆς προτέρας σπουδῆς τὴν θείαν
+            ἄσκησιν ἀντικαταλλάξασθαι προετρέψατο. πέντε δὲ ὅλοις ἔτεσιν αὐτῷ συγγενόμενοι τοσαύτην
+            ἀπηνέγκαντο περὶ τὰ θεῖα βελτίωσιν, ὡς ἔτι νέους ἄμφω ἐπισκοπῆς τῶν κατὰ Πόντον
+            ἐκκλησιῶν ἀξιωθῆναι.
+            
+            
+            
+         <ab type="source" source="#bib322-1"/>
+        <idno type="CTS-URN">https://archive.org/details/adler-a.-suidae-lexicon-3
+               ./Adler%20A.%2C%20Suidae%20Lexicon%203%20%28%CE%9A-%CE%9F.%20%CE%A9%29/page/n315/mode/2up</idno>
+        <note xml:lang="en" type="textual">Ed. Adler 1933</note>
       </ab>
+         <ab type="translation" xml:lang="en" xml:id="quote322-2">
+        <anchor xml:id="testimonia-322.en.1" corresp="#testimonia-322.grc.1"/>
+            While Origen was
+            in the course of his usual tasks at <placeName>Caesarea</placeName>, not only did many
+            locals approach him (for instruction), but also thousands of foreign students, leaving
+            their homelands; especially renown among them we note Theodorus, who was the very man
+            famous in our day, the bishop Gregory the Miracle-Worker, and his brother Athenodorus.
+            Although they were passionately devoted to Greek and Roman scholarship, Origen stirred
+            in them a love of divine philosophy and persuaded them to give up their former devotion
+            in favor of rigorous theological study. After being with him for five full years, they
+            made such great progress in divine matters that, although still young, both were
+            considered deserving of the episcopate over the Pontic churches.<note xml:lang="en" type="translation">Adapted from SOL (trans. P. Little et al., 2000-)</note>
+            
+            
+            <idno type="CTS-URN"/>
+            <ref target="https://www.cs.uky.edu/~raphael/sol/sol-entries/omega/182"/>
+         </ab>
          <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib322-1">
@@ -312,7 +324,11 @@
           <ptr target="https://caesarea-maritima.org/bibl/753625E4"/>
         </bibl>
       </listBibl>
-      <note type="related-texts">
+      
+      
+      
+      
+    <note type="related-texts">
         <p>Eusebius, Church History 6.30</p>
       </note>
       <note type="geography">

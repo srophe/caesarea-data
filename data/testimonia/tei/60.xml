@@ -274,8 +274,12 @@
             tradition. This passage calculates the trip from Caesarea Maritima to Jersualem.</desc>
          <ab type="edition" xml:lang="la" xml:id="quote60-1">
         <anchor xml:id="testimonia-60.la.1" corresp="#testimonia-60.en.1"/>Inde Hierusalem mil. XII fit a <placeName>Caesarea Palestina</placeName>
-            Hierusalem usque milia CXVI, mansiones IIII, mutationes IIII.<ab type="source" source="#bib60-1"/><idno type="CTS-URN"/><ref/><note xml:lang="en" type="textual">Ed.
-               Cuntz 1929</note></ab>
+            Hierusalem usque milia CXVI, mansiones IIII, mutationes IIII.<ab type="source" source="#bib60-1"/>
+        <idno type="CTS-URN"/>
+        <ref/>
+        <note xml:lang="en" type="textual">Ed.
+               Cuntz 1929</note>
+      </ab>
          <ab type="translation" xml:lang="en" xml:id="quote60-2">
         <anchor xml:id="testimonia-60.en.1" corresp="#testimonia-60.la.1"/>Then Jerusalem 12 miles Jerusalem is 116 miles from
                <placeName>Caesarea Palestina</placeName>, four overnights, four exchanges.<note xml:lang="en" type="translation">Trans. J. L. Rife</note>

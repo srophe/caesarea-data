@@ -243,7 +243,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref n="b" target="#bib271-1">167c-f</ref> written by <persName role="author" ref="http://viaf.org/viaf/95147024">Jerome</persName> in <origDate notBefore="0380" notAfter="0381" period="#byzantine">380-381 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref target="#bib271-1">167c-f</ref> written by <persName role="author" ref="http://viaf.org/viaf/95147024">Jerome</persName> in <origDate notBefore="0380" notAfter="0381" period="#byzantine">380-381 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
       <langUsage>
         <language ident="la">Latin</language>
       </langUsage>
@@ -252,10 +252,11 @@
           <idno type="CTS-URN"/>
         </classCode>
         <catRef scheme="#CM-Testimonia-Type" target="#direct"/>
-        <catRef scheme="#CM-NEAEH" target="#earlyRoman #herodian #byzantine"/>
+        <catRef scheme="#CM-NEAEH" target="#earlyRoman #herodian"/>
       </textClass>
     </profileDesc>
     <revisionDesc status="draft">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
     </revisionDesc>
   </teiHeader>
@@ -264,7 +265,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/271</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract271-1"><quote><placeName>Caesaream</placeName></quote>, <quote><placeName>Turris Stratonis</placeName></quote>, <quote><placeName>Caesarea</placeName></quote>, and <quote><placeName>Strato’s Tower</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/95147024">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref n="b" target="#bib271-1">167c-f</ref>. This passage was written ca. <origDate notBefore="0380" notAfter="0381" period="#byzantine">380-381 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract271-1"><quote><placeName>Caesaream</placeName></quote>, <quote><placeName>Turris Stratonis</placeName></quote>, <quote><placeName>Caesarea</placeName></quote>, and <quote><placeName>Strato’s Tower</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/95147024">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref target="#bib271-1">167c-f</ref>. This passage was written ca. <origDate notBefore="0380" notAfter="0381" period="#byzantine">380-381 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
       <desc type="context">St. Jerome undertook to write a universal history of the world early
             in his illustrious career. His work translated and annotated the second half of
             Eusebius’ work, finished over a half century earlier, which was organized into a
@@ -274,23 +275,44 @@
             covers events in the middle years of the reign of Augustus, including Herod’s program to
             found cities and to build across the region.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote271-1">
-        <anchor xml:id="testimonia-271.la.1" corresp="#testimonia-271.en.1"/>Romanorum Iudaeorum CXCII Olymp(ias) XXXII (167c) Augustus a senatu
+        <anchor xml:id="testimonia-271.la.1" corresp="#testimonia-271.en.1"/>
+        Romanorum Iudaeorum CXCII Olymp(ias) XXXII (167c) Augustus a senatu
             pontifex maximus appellatur XXII (d) Herodes <placeName>Caesaream</placeName> in nomine
             Caesaris condidit, quae prius <placeName>Turris Stratonis</placeName> vocabatur XXXIII
             (e) Herodes Anthidonam condidit et Antipatridam atque XXIII Herodionem in honorem patris
             Antipatri et suum exstruxit. Innumerabilia quoque opera in singulis Syriarum urbibus,
             quas regebat, solertissime aedificavit XXXIIII (f) Tiberius Caesar de captis Pannoniis
-            triumphavit<ab type="source" source="#bib271-1"/><idno type="CTS-URN"/><ref/><note xml:lang="en" type="textual">Ed. Helm 1956</note><note xml:lang="en" type="corrigenda">Minor corr. J. L. Rife</note></ab>
+            triumphavit
+        
+        
+        
+        
+      <ab type="source" source="#bib271-1"/>
+        <idno type="CTS-URN"/>
+        <ref/>
+        <note xml:lang="en" type="textual">Ed. Helm 1956</note>
+        <note xml:lang="en" type="corrigenda">Minor corr. J. L. Rife</note>
+      </ab>
       <ab type="translation" xml:lang="en" xml:id="quote271-2">
-        <anchor xml:id="testimonia-271.en.1" corresp="#testimonia-271.la.1"/>Year of the Romans Year of the Jews 192nd Olympiad [12 B.C.E.] 32
-            (167c) Augustus is granted the title pontifex maximus 22 by the Senate. (d) Herod
-            founded <placeName>Caesarea</placeName> in the name of Caesar, (the city) which was
-            formerly called <placeName>Strato’s Tower</placeName>. [11 B.C.E.] 33 (e) Herod founded
-            Anthedon and Antipatris, and built 23 Herodium in honor of his father Antipater and
-            himself. He also erected countless structures with the utmost skill in the Syrian cities
-            he ruled. [10 B.C.E.] 34 (f) Tiberius Caesarea celebrated a triumph for the conquest 24
-            of the Pannonias.<ab type="source" source="#bib271-2"/><idno type="CTS-URN">http://www.tertullian.org/fathers/jerome_chronicle_03_part2.htm</idno><ref target="http://www.tertullian.org/fathers/eusebius_theophania_05book4.htm"/><note xml:lang="en" type="translation">Trans. J. L. Rife with ref. to Pearse
-               2005</note></ab>
+        <anchor xml:id="testimonia-271.en.1" corresp="#testimonia-271.la.1"/>
+        Year of the Romans Year
+        of the Jews 192nd Olympiad [12 B.C.E.] 32 (167c) Augustus is granted the title pontifex
+        maximus 22 by the Senate. (d) Herod founded <placeName>Caesarea</placeName> in the name of
+        Caesar, (the city) which was formerly called <placeName>Strato’s Tower</placeName>. [11
+        B.C.E.] 33 (e) Herod founded Anthedon and Antipatris, and built 23 Herodium in honor of his
+        father Antipater and himself. He also erected countless structures with the utmost skill in
+        the Syrian cities he ruled. [10 B.C.E.] 34 (f) Tiberius Caesarea celebrated a triumph for
+        the conquest 24 of the Pannonias.
+        
+        
+        
+        
+      <ab type="source" source="#bib271-2"/>
+        <idno type="CTS-URN"/>
+        <ref target="http://www.tertullian.org/fathers/jerome_chronicle_03_part2.htm"/>
+        <note xml:lang="en" type="translation">Trans. J. L. Rife with ref. to
+          Pearse 2005</note>
+      </ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib271-1">
@@ -301,6 +323,10 @@
           <ptr target="https://caesarea-maritima.org/bibl/7JSD2DS2"/>
         </bibl>
       </listBibl>
+    
+      
+      
+      
     <note type="related-texts">
         <p>Dionysius of Tel Mahre 42</p>
         <p>Easter Chronicle p. 367</p>

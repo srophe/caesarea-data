@@ -244,7 +244,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Suda</title> <ref n="e" target="#bib312-1">ω 182.618.2-13</ref> written by <persName role="author">Unknown</persName> in <origDate notBefore="0976" notAfter="0990" period="#earlyIslamic">976-990 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Suda</title> <ref target="#bib312-1">ω 182.618.2-13</ref> written by <persName role="author">Unknown</persName> in <origDate notBefore="0976" notAfter="0990" period="#earlyIslamic">976-990 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
          <langUsage>
             <language ident="grc">Ancient Greek</language>
          </langUsage>
@@ -257,6 +257,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc status="draft">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
          <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
       </revisionDesc>
    </teiHeader>
@@ -265,17 +266,18 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/312</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract312-1">Caesarea Maritima is indirectly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Suda</title> <ref n="e" target="#bib312-1">ω 182.618.2-13</ref>. This passage was written ca. <origDate notBefore="0976" notAfter="0990" period="#earlyIslamic">976-990 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
-         <desc type="context">The Suda (“Stronghold”) is an encyclopedic lexicon written by an
-            unknown scholar during the late 10th century. It compiles copious information in
-            alphabetical entries for use by the learned philologist, in particular on grammar,
-            history, and biography, referring to a broad range of sources from Classical Antiquity
-            to the Early Byzantine period. This passage from the lemma on Origen (s.v. Ὠριγένης)
-            describes how Ambrose provided Origen with many resources, including a full scribal
-            staff, for his biblical research at Caesarea in the early 3rd century. Here the author
-            depends on the account of Eusebius written roughly 650 year earlier.</desc>
+         <desc type="abstract" xml:id="abstract312-1">Caesarea Maritima is indirectly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Suda</title> <ref target="#bib312-1">ω 182.618.2-13</ref>. This passage was written ca. <origDate notBefore="0976" notAfter="0990" period="#earlyIslamic">976-990 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+         <desc type="context">The <title>Suda</title> (“Stronghold”) is an encyclopedic lexicon
+            written by an unknown scholar during the late 10th century. It compiles copious
+            information in alphabetical entries for use by the learned philologist, in particular on
+            grammar, history, and biography, referring to a broad range of sources from Classical
+            Antiquity to the Early Byzantine period. This passage from the lemma on Origen (s.v.
+            Ὠριγένης) describes how Ambrose provided Origen with many resources, including a full
+            scribal staff, for his biblical research at Caesarea in the early 3rd century. Here the
+            author depends on the account of Eusebius written roughly 650 year earlier.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote312-1">
-        <anchor xml:id="testimonia-312.grc.1" corresp="#testimonia-312.en.1"/>ἐξ ἐκείνου δὲ τοῦ χρόνου τῶν εἰς τὰς θείας γραφὰς ὑπομνημάτων ἐγένετο
+        <anchor xml:id="testimonia-312.grc.1" corresp="#testimonia-312.en.1"/>
+        ἐξ ἐκείνου δὲ τοῦ χρόνου τῶν εἰς τὰς θείας γραφὰς ὑπομνημάτων ἐγένετο
             ἀρχή, ᾽Αμβροσίου εἰς τὰ μάλιστα παρορμῶντος αὐτὸν μυρίαις ὅσαις οὐ προτροπαῖς ταῖς διὰ
             λόγων καὶ παρακλήσεσιν αὐτοῦ μόνον, ἀλλὰ καὶ ἀφθονωτάταις τῶν ἐπιτηδείων χορηγίαις.
             ταχυγράφοι τε γὰρ αὐτῷ πλείους ἢ ἑπτὰ τὸν ἀριθμὸν παρῆσαν ὑπαγορεύοντι, χρόνοις
@@ -283,21 +285,34 @@
             καλλιγραφεῖν ἠσκημέναις: ὧν ἁπάντων τὴν δέουσαν τῶν ἐπιτηδείων ἄφθονον χορηγίαν ὁ
             ᾽Αμβρόσιος παρεστήσατο: ναὶ μὴν καὶ ἐν τῇ περὶ τὰ θεῖα λόγια ἀσκήσει τε καὶ σπουδῇ
             προθυμίαν ἄφατον αὐτῷ συνεισέφερεν, ᾗ καὶ μάλιστα αὐτὸν προέτρεπεν ἐπὶ τὴν τῶν
-            ὑπομνημάτων σύνταξιν.<ab type="source" source="#bib312-1"/><idno type="CTS-URN"/><ref target="https://archive.org/details/adler-a.-suidae-lexicon-3 ./Adler%20A.%2C%20Suidae%20Lexicon%203%20%28%CE%9A-%CE%9F.%20%CE%A9%29/page/n315/mode/2up"/><note xml:lang="en" type="textual">Ed. Adler 1933</note></ab>
-         <ab type="translation" xml:lang="en" xml:id="quote312-2">
-        <anchor xml:id="testimonia-312.en.1" corresp="#testimonia-312.grc.1"/>The start of his Commentaries on the Divine Scriptures dates to that
-            time, after Ambrose in particular urged him to undertake this project not only through
-            endless verbal prodding and appeals to the man but also with the provision of unlimited
-            resources. Thus, more than seven stenographers were on call to take his dictation,
-            taking one another’s place at appointed times, and no fewer were the copyists, along
-            with young women skilled in calligraphy. Ambrose supplied abundant resources to meet all
-            their needs. Far beyond that, he imbued (Origen) with exceeding enthusiasm through his
-            own study of God’s pronouncements, and a zeal which gave Origen special encouragement in
-            preparing his Commentaries. <note xml:lang="en" type="translation">Adapted from SOL (trans. P. Little
-               et al., 2000-)</note>
+            ὑπομνημάτων σύνταξιν. 
+        
+        
+        
+        
+      <ab type="source" source="#bib312-1"/>
         <idno type="CTS-URN"/>
-        <ref target="https://www.cs.uky.edu/~raphael/sol/sol-entries/omega/182"/>
+        <ref target="https://archive.org/details/adler-a.-suidae-lexicon-3 ./Adler%20A.%2C%20Suidae%20Lexicon%203%20%28%CE%9A-%CE%9F.%20%CE%A9%29/page/n315/mode/2up"/>
+        <note xml:lang="en" type="textual">Ed. Adler 1933</note>
       </ab>
+         <ab type="translation" xml:lang="en" xml:id="quote312-2">
+        <anchor xml:id="testimonia-312.en.1" corresp="#testimonia-312.grc.1"/>
+            The start of his
+            Commentaries on the Divine Scriptures dates to that time, after Ambrose in particular
+            urged him to undertake this project not only through endless verbal prodding and appeals
+            to the man but also with the provision of unlimited resources. Thus, more than seven
+            stenographers were on call to take his dictation, taking one another’s place at
+            appointed times, and no fewer were the copyists, along with young women skilled in
+            calligraphy. Ambrose supplied abundant resources to meet all their needs. Far beyond
+            that, he imbued (Origen) with exceeding enthusiasm through his own study of God’s
+            pronouncements, and a zeal which gave Origen special encouragement in preparing his
+            commentaries. <note xml:lang="en" type="translation">Adapted from SOL (trans. P. Little et al.,
+               2000-)</note>
+            
+            
+            <idno type="CTS-URN"/>
+            <ref target="https://www.cs.uky.edu/~raphael/sol/sol-entries/omega/182"/>
+         </ab>
          <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib312-1">
@@ -311,7 +326,11 @@
           <ptr target="https://caesarea-maritima.org/bibl/753625E4"/>
         </bibl>
       </listBibl>
-      <note type="related-texts">
+      
+      
+      
+      
+    <note type="related-texts">
         <p>Eusebius, Church History 6.23.2</p>
         <p>Origen, Commentary on the Gospel of John 6.2.9</p>
       </note>

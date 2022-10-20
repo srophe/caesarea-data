@@ -244,7 +244,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Geography</title> <ref n="a" target="#bib305-1">5.16.1-2</ref> written by <persName role="author" ref=" http://viaf.org/viaf/54152998">Claudius Ptolemy</persName> in <origDate notBefore="0130" notAfter="0170" period="#earlyRoman #lateRoman">130-170 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/727070">Alexandria</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Geography</title> <ref target="#bib305-1">5.16.1-2</ref> written by <persName role="author" ref=" http://viaf.org/viaf/54152998">Claudius Ptolemy</persName> in <origDate notBefore="0130" notAfter="0170" period="#earlyRoman #lateRoman">130-170 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/727070">Alexandria</origPlace>.</creation>
          <langUsage>
             <language ident="grc">Ancient Greek</language>
          </langUsage>
@@ -257,6 +257,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc status="draft">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
          <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
       </revisionDesc>
    </teiHeader>
@@ -265,18 +266,19 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/305</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract305-1">Caesarea Maritima is indirectly attested at <persName role="author" ref=" http://viaf.org/viaf/54152998">Claudius Ptolemy</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Geography</title> <ref n="a" target="#bib305-1">5.16.1-2</ref>. This passage was written ca. <origDate notBefore="0130" notAfter="0170" period="#earlyRoman #lateRoman">130-170 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/727070">Alexandria</origPlace>.</desc>
+         <desc type="abstract" xml:id="abstract305-1">Caesarea Maritima is indirectly attested at <persName role="author" ref=" http://viaf.org/viaf/54152998">Claudius Ptolemy</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Geography</title> <ref target="#bib305-1">5.16.1-2</ref>. This passage was written ca. <origDate notBefore="0130" notAfter="0170" period="#earlyRoman #lateRoman">130-170 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/727070">Alexandria</origPlace>.</desc>
          <desc type="context">Claudius Ptolemy was a learned Greek scholar, apparently of
             Greco-Egyptian descent and Roman citizenship, who conducted research in the fields of
             astronomy, mathematics, and geography during the 2nd century C.E. Apart from the
-            Almagest, his famous astronomical treatise, his most influential work was a detailed
-            survey of the world containing a gazetteer of places plotted in coordinates, his version
-            of longitude (degrees of arc from a notional meridian through the Blessed Isles) and
-            latitude (degrees of arc from the equator). In the book on Asia, Ptolemy defined the
-            limits of Palestine-Judaea and plotted the settlements along the coast, including
-            “Caesarea Stratonis.”</desc>
+               <title>Almagest</title>, his famous astronomical treatise, his most influential work
+            was a detailed survey of the world containing a gazetteer of places plotted in
+            coordinates, his version of longitude (degrees of arc from a notional meridian through
+            the Blessed Isles) and latitude (degrees of arc from the equator). In the book on Asia,
+            Ptolemy defined the limits of Palestine-Judaea and plotted the settlements along the
+            coast, including “Caesarea Stratonis.”</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote305-1">
-        <anchor xml:id="testimonia-305.grc.1" corresp="#testimonia-305.en.1"/>(1) Ἡ Παλαιστίνη, ἥτις καὶ Ἰουδαία καλεῖται, περιορίζεται ἀπὸ μὲν ἄρκτων
+        <anchor xml:id="testimonia-305.grc.1" corresp="#testimonia-305.en.1"/>
+        (1) Ἡ Παλαιστίνη, ἥτις καὶ Ἰουδαία καλεῖται, περιορίζεται ἀπὸ μὲν ἄρκτων
             καὶ ἀνατολῶν Συρίᾳ κατὰ τὴν ἐκτεθειμένην γραμμήν, ἀπὸ δὲ [ἀνατολῶν καὶ] μεσημβρίας
             Ἀραβίᾳ Πετραίᾳ κατὰ γραμμὴν τὴν ἀπὸ τοῦ πρὸς τῇ Συρίᾳ ἑωθινοῦ ὁρίου μέχρι τοῦ πρὸς τῇ
             Αἰγύπτῳ πέρατος, οὗ πέρατος ἡ θέσις ὡς εἴρηται ξδ° δʹ λ° γοʹ ἀπὸ δὲ δύσεως τῷ τε
@@ -284,19 +286,39 @@
             ὁρίου τῆς Συρίας κατὰ περιγραφὴν τοιαύτην· (2) Μετὰ τὰς τοῦ Χορσέου ποταμοῦ ἐκβολάς·
                <placeName>Καισάρεια Στράτωνος</placeName> ξϛ° δʹ λβ° ͵ʹ Ἀπολλωνία ξϛ° λβ° δʹ Ἰόππη
             ξε° γοʹ λβ° ιβʹ Ἰαμνιτῶν λιμήν ξε° λβ° Ἄζωτος ξε° δʹ λα° ͵γʹ Ἀσκαλών ξε° λα° γοʹ Γαζαίων
-            λιμήν ξδ° ͵γιβʹ λα° ͵ʹ Ἀνθηδών ξδ° ͵γʹ λα° γοʹ<ab type="source" source="#bib305-1"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="textual">Ed. Stückelberger
-               and Graßhoff 2006</note></ab>
+            λιμήν ξδ° ͵γιβʹ λα° ͵ʹ Ἀνθηδών ξδ° ͵γʹ λα° γοʹ 
+        
+        
+        
+        
+      <ab type="source" source="#bib305-1"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        <note xml:lang="en" type="textual">Ed. Stückelberger
+               and Graßhoff 2006</note>
+      </ab>
          <ab type="translation" xml:lang="en" xml:id="quote305-2">
-        <anchor xml:id="testimonia-305.en.1" corresp="#testimonia-305.grc.1"/>1) Palestine, which is also called Judaea, is bordered on the north
-            and the east by Syria along the line mentioned above. On the east and south it is
-            bordered by Arabia Petraea along a line drawn from the southeastern border of Syria to
-            its terminus at Egypt, The location of that terminus is, as stated, 64° 15ʹ 30° 40ʹ. On
-            the west it is bordered by the part of Egypt extending from there to the sea, and by the
-            adjacent sea to the border of Syria according to the following description: 2) After the
-            mouth of the river Chorseas: Caesarea Stratonis 66° 15ʹ 32° 30ʹ Apollonia 66° 32° 15ʹ
-            Ioppe 65° 40ʹ 32° 05ʹ Iamnia (port) 65° 32° Azotus 65° 15ʹ 31° 50ʹ Ascalon 65° 31° 40ʹ
-            Gaza (port) 64° 55ʹ 31° 30ʹ Anthedon 64° 50ʹ 31° 40ʹ<ab type="source" source="#bib305-2"/><idno type="CTS-URN"/><ref/><note xml:lang="en" type="translation">Trans. J.
-               L. Rife with ref. to Stevenson 1932 and Stückelberger and Graßhoff 2006</note></ab>
+        <anchor xml:id="testimonia-305.en.1" corresp="#testimonia-305.grc.1"/>
+            1) Palestine,
+            which is also called Judaea, is bordered on the north and the east by Syria along the
+            line mentioned above. On the east and south it is bordered by Arabia Petraea along a
+            line drawn from the southeastern border of Syria to its terminus at Egypt, The location
+            of that terminus is, as stated, 64° 15ʹ 30° 40ʹ. On the west it is bordered by the part
+            of Egypt extending from there to the sea, and by the adjacent sea to the border of Syria
+            according to the following description: 2) After the mouth of the river Chorseas:
+               <placeName>Caesarea Stratonis</placeName> 66° 15ʹ 32° 30ʹ Apollonia 66° 32° 15ʹ Ioppe
+            65° 40ʹ 32° 05ʹ Iamnia (port) 65° 32° Azotus 65° 15ʹ 31° 50ʹ Ascalon 65° 31° 40ʹ Gaza
+            (port) 64° 55ʹ 31° 30ʹ Anthedon 64° 50ʹ 31° 40ʹ 
+            
+            
+            
+            
+         <ab type="source" source="#bib305-2"/>
+        <idno type="CTS-URN"/>
+        <ref/>
+        <note xml:lang="en" type="translation">Trans. J. L.
+               Rife with ref. to Stevenson 1932 and Stückelberger and Graßhoff 2006</note>
+      </ab>
          <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib305-1">
@@ -309,7 +331,11 @@
           <citedRange unit="p">128</citedRange>
         </bibl>
       </listBibl>
-      <note type="related-texts"/>
+      
+      
+      
+      
+    <note type="related-texts"/>
       <note type="geography">
         <p>Anthedon</p>
         <p>Apollonia</p>

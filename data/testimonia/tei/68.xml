@@ -275,10 +275,16 @@
       <desc type="abstract" xml:id="abstract68-1"><quote><placeName>τὴν Καισαρίαν</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/305863610" role="author">Luke the Evangelist</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg0031.tlg005" type="uniform" level="m">Acts</title> <ref n="d" target="#bib68-1">10.24</ref>. This passage was written ca. <origDate period="#nabateanKingdom #earlyRoman" notBefore="0080" notAfter="0090">80 – 90 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote68-1">
         <anchor xml:id="testimonia-68.grc.1" corresp="#testimonia-68.en.1"/>
-        τῇ δὲ ἐπαύριον εἰσῆλθεν εἰς <placeName>τὴν Καισαρίαν</placeName>· ὁ δὲ Κορνήλιος ἦνπροσδοκῶν αὐτοὺς συνκαλεσάμενος τοὺς συγγενεῖς αὐτοῦ καὶ τοὺς ἀναγκαίους φίλους.<ab type="source" source="#bib68-1"/><idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg0031.tlg005.perseus-grc2:10.24</idno><ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg0031.tlg005.perseus-grc2:10.24"/></ab>
+        τῇ δὲ ἐπαύριον εἰσῆλθεν εἰς <placeName>τὴν Καισαρίαν</placeName>· ὁ δὲ Κορνήλιος ἦνπροσδοκῶν αὐτοὺς συνκαλεσάμενος τοὺς συγγενεῖς αὐτοῦ καὶ τοὺς ἀναγκαίους φίλους.<ab type="source" source="#bib68-1"/>
+        <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg0031.tlg005.perseus-grc2:10.24</idno>
+        <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg0031.tlg005.perseus-grc2:10.24"/>
+      </ab>
       <ab type="translation" xml:lang="en" xml:id="quote68-2">
         <anchor xml:id="testimonia-68.en.1" corresp="#testimonia-68.grc.1"/>
-        On the next day they entered into <placeName>Caesarea</placeName>. Cornelius was waiting for them, having called together his relatives and his near friends.<ab type="source" source="#bib68-2"/><idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg0031.tlg005.perseus-eng2:10.24</idno><ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg0031.tlg005.perseus-eng2:10.24"/></ab>
+        On the next day they entered into <placeName>Caesarea</placeName>. Cornelius was waiting for them, having called together his relatives and his near friends.<ab type="source" source="#bib68-2"/>
+        <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg0031.tlg005.perseus-eng2:10.24</idno>
+        <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg0031.tlg005.perseus-eng2:10.24"/>
+      </ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib68-1">

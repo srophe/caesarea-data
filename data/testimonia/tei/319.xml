@@ -244,7 +244,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Suda</title> <ref n="c" target="#bib319-1">ι 401</ref> written by <persName role="author">Unknown</persName> in <origDate notBefore="0976" notAfter="0990" period="#earlyIslamic">976-990 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Suda</title> <ref target="#bib319-1">ι 401</ref> written by <persName role="author">Unknown</persName> in <origDate notBefore="0976" notAfter="0990" period="#earlyIslamic">976-990 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
          <langUsage>
             <language ident="grc">Ancient Greek</language>
          </langUsage>
@@ -257,6 +257,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc status="draft">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
          <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
       </revisionDesc>
    </teiHeader>
@@ -265,24 +266,37 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/319</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract319-1">and <quote><placeName>Καισαρείας
-               Παλαιστίνης</placeName></quote> is directly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Suda</title> <ref n="c" target="#bib319-1">ι 401</ref>. This passage was written ca. <origDate notBefore="0976" notAfter="0990" period="#earlyIslamic">976-990 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
-         <desc type="context">The Suda (“Stronghold”) is an encyclopedic lexicon written by an
-            unknown scholar during the late 10th century. It compiles copious information in
-            alphabetical entries for use by the learned philologist, in particular on grammar,
-            history, and biography, referring to a broad range of sources from Classical Antiquity
-            to the Early Byzantine period. This passage from the end of the lemma on Jovian (s.v.
-            Ἰοβιανός) mentions Acacius, the orthodox bishop of Caesarea in the 360s.</desc>
+         <desc type="abstract" xml:id="abstract319-1"><quote><placeName>Καισαρείας
+               Παλαιστίνης</placeName></quote>, and <quote><placeName>Caesarea Palestinae</placeName></quote> are directly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Suda</title> <ref target="#bib319-1">ι 401</ref>. This passage was written ca. <origDate notBefore="0976" notAfter="0990" period="#earlyIslamic">976-990 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+         <desc type="context">The <title>Suda</title> (“Stronghold”) is an encyclopedic lexicon
+            written by an unknown scholar during the late 10th century. It compiles copious
+            information in alphabetical entries for use by the learned philologist, in particular on
+            grammar, history, and biography, referring to a broad range of sources from Classical
+            Antiquity to the Early Byzantine period. This passage from the end of the lemma on
+            Jovian (s.v. Ἰοβιανός) mentions Acacius, the orthodox bishop of Caesarea in the
+            360s.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote319-1">
-        <anchor xml:id="testimonia-319.grc.1" corresp="#testimonia-319.en.1"/>ὅτι ἐπὶ Ἰοβιανοῦ ἦν Ἀκάκιος ἐπίσκοπος <placeName>Καισαρείας
+        <anchor xml:id="testimonia-319.grc.1" corresp="#testimonia-319.en.1"/>
+        ὅτι ἐπὶ Ἰοβιανοῦ ἦν Ἀκάκιος ἐπίσκοπος <placeName>Καισαρείας
                Παλαιστίνης</placeName>, ὃς λίβελλον ἔγραψε περὶ ὀρθοδόξου πίστεως, ἀποδεχόμενος τὴν
-            ἐν Νικαίᾳ σύνοδον.<ab type="source" source="#bib319-1"/><idno type="CTS-URN">https://archive.org/details/adler-a.-suidae-lexicon-3-./Adler%20A.%2C%20Suidae%20Lexicon%202%20%28%CE%94-%CE%98%29/page/638/mode/2up</idno><note xml:lang="en" type="textual">Ed. Adler 1931</note></ab>
-         <ab type="translation" xml:lang="en" xml:id="quote319-2">
-        <anchor xml:id="testimonia-319.en.1" corresp="#testimonia-319.grc.1"/>In the reign of Jovian, Acacius, who wrote a pamphlet about orthodox
-            faith and accepted the synod at Nicaea, was bishop of Caesarea Palestinae.<note xml:lang="en" type="translation">Rev. SOL (trans. A. Ring et al., 2004-)</note>
-        <idno type="CTS-URN"/>
-        <ref target="http://www.cs.uky.edu/~raphael/sol/sol-entries/iota/401"/>
+            ἐν Νικαίᾳ σύνοδον.
+        
+        
+        
+      <ab type="source" source="#bib319-1"/>
+        <idno type="CTS-URN">https://archive.org/details/adler-a.-suidae-lexicon-3-./Adler%20A.%2C%20Suidae%20Lexicon%202%20%28%CE%94-%CE%98%29/page/638/mode/2up</idno>
+        <note xml:lang="en" type="textual">Ed. Adler 1931</note>
       </ab>
+         <ab type="translation" xml:lang="en" xml:id="quote319-2">
+        <anchor xml:id="testimonia-319.en.1" corresp="#testimonia-319.grc.1"/>
+            In the reign of
+            Jovian, Acacius, who wrote a pamphlet about orthodox faith and accepted the synod at
+            Nicaea, was bishop of <placeName>Caesarea Palestinae</placeName>.<note xml:lang="en" type="translation">Rev. SOL (trans. A. Ring et al., 2004-)</note>
+            
+            
+            <idno type="CTS-URN"/>
+            <ref target="http://www.cs.uky.edu/~raphael/sol/sol-entries/iota/401"/>
+         </ab>
          <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib319-1">
@@ -297,7 +311,11 @@
           <ptr target="https://caesarea-maritima.org/bibl/753625E4"/>
         </bibl>
       </listBibl>
-      <note type="related-texts"/>
+      
+      
+      
+      
+    <note type="related-texts"/>
       <note type="geography">
         <p>Nicaea</p>
       </note>

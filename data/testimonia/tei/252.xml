@@ -245,7 +245,7 @@
         <p/>
       </abstract>
       <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Medicine Cabinet, or Against
-               Heresies</title> <ref n="b" target="#bib252-1">69.6.1-5</ref> written by <persName ref="http://viaf.org/viaf/13651211" role="author">Epiphanius</persName> in <origDate notBefore="0374" notAfter="0377" period="#byzantine">374-377 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/707617">Cypriot Salamis</origPlace>.</creation>
+               Heresies</title> <ref target="#bib252-1">69.6.1-5</ref> written by <persName ref="http://viaf.org/viaf/13651211" role="author">Epiphanius</persName> in <origDate notBefore="0374" notAfter="0377" period="#byzantine">374-377 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/707617">Cypriot Salamis</origPlace>.</creation>
       <langUsage>
         <language ident="grc">Ancient Greek</language>
       </langUsage>
@@ -258,6 +258,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc status="draft">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
     </revisionDesc>
   </teiHeader>
@@ -267,23 +268,25 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/252</idno>
       </ab>
       <desc type="abstract" xml:id="abstract252-1"><quote><placeName>Καισαρείᾳ</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/13651211" role="author">Epiphanius</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Medicine Cabinet, or Against
-               Heresies</title> <ref n="b" target="#bib252-1">69.6.1-5</ref>. This passage was written ca. <origDate notBefore="0374" notAfter="0377" period="#byzantine">374-377 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/707617">Cypriot Salamis</origPlace>.</desc>
-      <desc type="context">Epiphanius, who spent his early life and career as a student and monk
-            in southern Palestine and Egypt, was appointed bishop of Salamis on Cyprus in ca.
-            365-367 C.E., a post he held until his death in 403 C.E. He became a formidable champion
-            of Orthodoxy, repeatedly entering into bitter controversy with the sees at Jerusalem and
-            Alexandria. His Medicine Cabinet (πανάριον, κιβώτιον, panarion, arcula), or Against
-            Heresies (κατὰ αἱρέσεων, adversus haereses), was a long compendium of portraits in
-            wayward sectarianism, stretching from the Greek philosophers and Judaism up to his own
-            time. The aim was to furnish theological and rhetorical antidotes to heresy. It has
-            great historical value for its detailed information on figures of the eastern Church,
-            frequently paraphrasing or quoting from earlier works or otherwise lost documents. In
-            his chapter on the Arians, Epiphanius cites a letter written by Arius to his ally
-            Eusebius of Nicomedia. Arius complains of his unjust exile from Egypt by Alexander,
-            Bishop of Alexandria, on theological grounds, and named various eastern bishops as
-            agreeing with his beliefs, including Eusebius of Caesarea.</desc>
+               Heresies</title> <ref target="#bib252-1">69.6.1-5</ref>. This passage was written ca. <origDate notBefore="0374" notAfter="0377" period="#byzantine">374-377 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/707617">Cypriot Salamis</origPlace>.</desc>
+      <desc type="context">Epiphanius, who spent his early life and career as a student and monk in
+        southern Palestine and Egypt, was appointed bishop of Salamis on Cyprus in ca. 365-367 C.E.,
+        a post he held until his death in 403 C.E. He became a formidable champion of Orthodoxy,
+        repeatedly entering into bitter controversy with the sees at Jerusalem and Alexandria. His
+          <title>Medicine Cabinet</title> (πανάριον, κιβώτιον, <foreign>panarion</foreign>,
+          <foreign>arcula</foreign>), or <title>Against Heresies</title> (κατὰ αἱρέσεων,
+          <foreign>adversus haereses</foreign>), was a long compendium of portraits in wayward
+        sectarianism, stretching from the Greek philosophers and Judaism up to his own time. The aim
+        was to furnish theological and rhetorical antidotes to heresy. It has great historical value
+        for its detailed information on figures of the eastern Church, frequently paraphrasing or
+        quoting from earlier works or otherwise lost documents. In his chapter on the Arians,
+        Epiphanius cites a letter written by Arius to his ally Eusebius of Nicomedia. Arius
+        complains of his unjust exile from Egypt by Alexander, Bishop of Alexandria, on theological
+        grounds, and named various eastern bishops as agreeing with his beliefs, including Eusebius
+        of Caesarea.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote252-1">
-        <anchor xml:id="testimonia-252.grc.1" corresp="#testimonia-252.en.1"/>(1) Κυρίῳ ποθεινοτάτῳ ἀνθρώπῳ θεοῦ πιστῷ ὀρθοδόξῳ Εὐσεβίῳ, Ἄρειος ὁ
+        <anchor xml:id="testimonia-252.grc.1" corresp="#testimonia-252.en.1"/>
+        (1) Κυρίῳ ποθεινοτάτῳ ἀνθρώπῳ θεοῦ πιστῷ ὀρθοδόξῳ Εὐσεβίῳ, Ἄρειος ὁ
             διωκόμενος ὑπὸ Ἀλεξάνδρου πάπα ἀδίκως διὰ τὴν πάντα νικῶσαν ἀλήθειαν, ἧς καὶ σὺ
             ὑπερασπίζεις, ἐν Κυρίῳ χαίρειν. (2) Τοῦ πατρός μου Ἀμμωνίου εἰς τὴν Νικομήδειαν
             ἀφικομένου εὔλογον καὶ ὀφειλόμενον ἐφάνη μοι προσαγορεῦσαί σε δι’ αὐτοῦ, ὁμοῦ τε καὶ
@@ -298,9 +301,19 @@
             τοῦ υἱοῦ ἀνάρχως, ἀνάθεμα ἐγένοντο, δίχα Φιλογονίου καὶ Ἑλλανικοῦ καὶ Μακαρίου, ἀνθρώπων
             αἱρετικῶν ἀκατηχήτων, τὸν υἱὸν λεγόντων οἱ μὲν ἐρυγήν, οἱ δὲ προβολὴν ἀγένητον. (5) καὶ
             τούτων τῶν ἀσεβ&lt;ει&gt;ῶν οὐδὲ ἀκοῦσαι δυνάμεθα, ἐὰν μυρίους θανάτους ἡμῖν ἐπαπειλῶσιν οἱ
-            αἱρετικοί.<ab type="source" source="#bib252-1"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="textual">Ed. Holl 1933</note></ab>
+            αἱρετικοί.
+        
+        
+        
+        
+      <ab type="source" source="#bib252-1"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        <note xml:lang="en" type="textual">Ed. Holl 1933</note>
+      </ab>
       <ab type="translation" xml:lang="en" xml:id="quote252-2">
-        <anchor xml:id="testimonia-252.en.1" corresp="#testimonia-252.grc.1"/>(1) Greetings in the Lord from Arius, unjustly persecuted by Pope
+        <anchor xml:id="testimonia-252.en.1" corresp="#testimonia-252.grc.1"/>
+        (1) Greetings in the Lord from Arius, unjustly persecuted by Pope
             Alexander for the all-conquering truth of which you too are a defender, to the most
             beloved man of God, the faithful and orthodox Master Eusebius. (2) As my father Ammonius
             is arriving in Nicomedia, it seems to me reasonable and appropriate to address you
@@ -316,7 +329,16 @@
             say that God exists before the Son without beginning, they have become anathema—except
             for the uneducated heretics Philogonius, Hellanicus, and Macarius, some of whom say that
             the Son is an eructation, and others an uncreated emanation. (5) And we cannot listen to
-            these unholy men, even if the heretics threaten us with a thousand deaths.<ab type="source" source="#bib252-2"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="translation">Rev. Williams 2013</note></ab>
+            these unholy men, even if the heretics threaten us with a thousand deaths.
+        
+        
+        
+        
+      <ab type="source" source="#bib252-2"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        <note xml:lang="en" type="translation">Rev. Williams 2013</note>
+      </ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib252-1">
@@ -330,6 +352,10 @@
           <citedRange unit="p">336</citedRange>
         </bibl>
       </listBibl>
+    
+      
+      
+      
     <note type="related-texts">
         <p>Athanasius of Alexandria, The Decrees of the Nicene Synod 17.3</p>
         <p>Eusebius of Caesarea, Against Marcellus 1.4.40-1.4.41</p>

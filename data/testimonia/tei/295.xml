@@ -243,7 +243,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Letters</title> <ref n="c" target="#bib295-1">34.1</ref> written by <persName ref="http://viaf.org/viaf/309472433" role="author">Jerome</persName> in <origDate notBefore="0382" notAfter="0384" period="#byzantine">382-384 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Letters</title> <ref target="#bib295-1">34.1</ref> written by <persName ref="http://viaf.org/viaf/309472433" role="author">Jerome</persName> in <origDate notBefore="0382" notAfter="0384" period="#byzantine">382-384 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</creation>
       <langUsage>
         <language ident="la">Latin</language>
       </langUsage>
@@ -256,6 +256,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc status="draft">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
     </revisionDesc>
   </teiHeader>
@@ -264,17 +265,18 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/295</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract295-1"><quote><placeName>Caesariensis</placeName></quote>, and <quote><placeName>Caesariensi</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/309472433" role="author">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Letters</title> <ref n="c" target="#bib295-1">34.1</ref>. This passage was written ca. <origDate notBefore="0382" notAfter="0384" period="#byzantine">382-384 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
-      <desc type="context">Among the voluminous correspondence of St. Jerome is this letter,
-            written during the years when he served Pope Damasus I at Rome and attended the synod
-            over the Antiochene schism. In it he addresses an exegetical query from Marcella, a
-            close associate of Jerome’s and a wealthy matron at the center of the Christian
-            community in the Imperial capital. In response to her question about two metaphorical
-            phrases in Psalm 127 (Vulgata 126), Jerome starts by discussing the history and
-            condition of the ecclesiastical library at Caesarea, and the absence of Origen’s
-            relevant work from the collection.</desc>
+      <desc type="abstract" xml:id="abstract295-1"><quote><placeName>Caesariensis</placeName></quote>, <quote><placeName>Caesariensi</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/309472433" role="author">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Letters</title> <ref target="#bib295-1">34.1</ref>. This passage was written ca. <origDate notBefore="0382" notAfter="0384" period="#byzantine">382-384 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+      <desc type="context">Among the voluminous correspondence of St. Jerome is this letter, written
+        during the years when he served Pope Damasus I at Rome and attended the synod over the
+        Antiochene schism. In it he addresses an exegetical query from Marcella, a close associate
+        of Jerome’s and a wealthy matron at the center of the Christian community in the Imperial
+        capital. In response to her question about two metaphorical phrases in <title>Psalm</title>
+        127 (<title>Vulgata</title> 126), Jerome starts by discussing the history and condition of
+        the Ecclesiastical Library at Caesarea, and the absence of Origen’s relevant work from the
+        collection.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote295-1">
-        <anchor xml:id="testimonia-295.la.1" corresp="#testimonia-295.en.1"/>Beatus Pamphilus martyr, cuius vitam Eusebius <placeName>Caesariensis</placeName> episcopus tribus ferme voluminibus explicavit,
+        <anchor xml:id="testimonia-295.la.1" corresp="#testimonia-295.en.1"/>
+        Beatus Pamphilus martyr, cuius vitam Eusebius <placeName>Caesariensis</placeName> episcopus tribus ferme voluminibus explicavit,
             cum Demetrium Phalereum et Pisistratum in sacrae bibliothecae studio vellet aequare
             imaginesque ingeniorum, quae vera sunt et aeterna monumenta, toto orbe perquireret, tunc
             vel maxime Origenis libros inpensius persecutus <placeName>Caesariensi</placeName> ecclesiae dedicavit, [quam ex parte corruptam Acacius, dehinc Εuzoius, eiusdem ecclesiae
@@ -285,27 +287,37 @@
             posteriorum ad nostram usque memoriam non durarit. hoc ideo ut, quia mihi de eodem
             psalmo proposuisti, qui esset “panis doloris” in eo, quod dicitur: “in vanum vobis est
             ante lucem surgere, surgere, postquam sederitis, qui manducatis panem doloris,”
-            ostenderem me de Origenis commentariis, quid senserit, non habere.<ab type="source" source="#bib295-1"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="textual">Ed. Hilberg and Slovak 1996</note></ab>
+            ostenderem me de Origenis commentariis, quid senserit, non habere.
+        
+        
+        
+        
+      <ab type="source" source="#bib295-1"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        <note xml:lang="en" type="textual">Ed. Hilberg and Slovak 1996</note>
+      </ab>
       <ab type="translation" xml:lang="en" xml:id="quote295-2">
-        <anchor xml:id="testimonia-295.en.1" corresp="#testimonia-295.la.1"/>The blessed martyr Pamphilus, whose life the bishop Eusebius of
-            Caesarea composed ferme in three volumes, when he wished to match Demetrius of Phalerum
-            and Pisistratus in his zeal for a sacred library and he thoroughly sought the pictures
-            of their minds, true and eternal memorials, across the whole world. Then he especially
-            pursued the books of Origen at great expense, and dedicated them to the Church at
-            Caesarea. (After its partial deterioration, Acacius and then Euzoius, priests of the
-            same Church, tried to restore the collection on parchment pages.) Although Pamphilus
-            found many writings and left behind for us an index of his discoveries, he acknowledged
-            that the commentary on Psalm 126 and its treatment of letter B, which he did not
-            inscribe, were not found. It is not because so great a man—we call him the Man of
-            Steel—omitted anything, but because, out of the negligence of those who came after him,
-            nothing has survived up to now in our memory. For this reason, since you have raised the
-            question concerning the same psalm what is “bread of sorrow” in the passage that reads
-            “It is vain for you to rise up before light, rise up after you have rested, you who eat
-            the bread of sorrow,” I declare that I do not know the meaning from the commentaries of
-               Origen.<note xml:lang="en" type="translation">Trans. J. L. Rife</note>
-        <note xml:lang="en" type="discussion">In
-               translation we use B for "bread of sorrow", but the text has p ("phe") for "panis
-               doloris".</note>
+        <anchor xml:id="testimonia-295.en.1" corresp="#testimonia-295.la.1"/>
+        The blessed martyr
+        Pamphilus, whose life the bishop Eusebius of <placeName>Caesarea</placeName> composed ferme
+        in three volumes, when he wished to match Demetrius of Phalerum and Pisistratus in his zeal
+        for a sacred library and he thoroughly sought the pictures of their minds, true and eternal
+        memorials, across the whole world. Then he especially pursued the books of Origen at great
+        expense, and dedicated them to the Church at <placeName>Caesarea</placeName>. (After its
+        partial deterioration, Acacius and then Euzoius, priests of the same Church, tried to
+        restore the collection on parchment pages.) Although Pamphilus found many writings and left
+        behind for us an index of his discoveries, he acknowledged that the commentary on
+          <title>Psalm</title> 126 and its treatment of letter B, which he did not inscribe, were
+        not found. It is not because so great a man—we call him the Man of Steel—omitted anything,
+        but because, out of the negligence of those who came after him, nothing has survived up to
+        now in our memory. For this reason, since you have raised the question concerning the same
+        psalm what is “bread of sorrow” in the passage that reads “It is vain for you to rise up
+        before light, rise up after you have rested, you who eat the bread of sorrow,” I declare
+        that I do not know the meaning from the commentaries of Origen.<note xml:lang="en" type="translation">Trans. J. L. Rife</note>
+        <note xml:lang="en" type="discussion">In translation we use B for "bread of sorrow", but the text has p
+          ("phe") for "panis doloris".</note>
+        
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -317,6 +329,10 @@
           <citedRange unit="section">1</citedRange>
         </bibl>
       </listBibl>
+    
+      
+      
+      
     <note type="related-texts">
         <p>Isidore of Seville, Etymologies 6.6</p>
         <p>Vulgate Psalms 126:2</p>

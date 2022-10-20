@@ -247,7 +247,7 @@
             <p/>
          </abstract>
          <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Description of the Holy
-               Land</title> <ref n="d" target="#bib205-1">13.12</ref> written by <persName ref="http://viaf.org/viaf/100899506" role="author">Burchard of Mt.
+               Land</title> <ref target="#bib205-1">13.12</ref> written by <persName ref="http://viaf.org/viaf/100899506" role="author">Burchard of Mt.
                Sion</persName> in <origDate notBefore="1274" notAfter="1285" period="#crusader">1274-1285 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</creation>
          <langUsage>
             <language ident="la">Latin</language>
@@ -261,6 +261,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc status="draft">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
          <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
       </revisionDesc>
    </teiHeader>
@@ -269,41 +270,60 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/205</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract205-1">and <quote><placeName>Caesarea Palestinae</placeName></quote> is directly attested at <persName ref="http://viaf.org/viaf/100899506" role="author">Burchard of Mt.
+         <desc type="abstract" xml:id="abstract205-1"><quote><placeName>Cesaream Palestine</placeName></quote>, and <quote><placeName>Caesarea
+               Palestinae</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/100899506" role="author">Burchard of Mt.
                Sion</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Description of the Holy
-               Land</title> <ref n="d" target="#bib205-1">13.12</ref>. This passage was written ca. <origDate notBefore="1274" notAfter="1285" period="#crusader">1274-1285 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
+               Land</title> <ref target="#bib205-1">13.12</ref>. This passage was written ca. <origDate notBefore="1274" notAfter="1285" period="#crusader">1274-1285 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
          <desc type="context">Burchard of Mt. Sion was a Dominican friar from Magdeburg in Lower
             Saxony who wrote the the most important description of the Holy Land from the 13th
             century. The earliest and longest account of his pilgrimage, which grew particularly
-            popular during the 14th-18th centuries, described his long trip from northern Germany to
+            popular during the 14th-18th centuries, described his journey from northern Germany to
             the Levant, where he stayed from 1274 to 1284, shortly before the fall of Acre, the last
             Crusader stronghold in the Holy Land, in 1291. The content of his description is based
             upon personal experience, research into ancient writings and earlier itineraries, and
             close study of scripture. In this passage that concludes his work, Burchard describes
             his journey sailing from southern Asia Minor down the Levantine coast to Egypt.</desc>
          <ab type="edition" xml:lang="la" xml:id="quote205-1">
-        <anchor xml:id="testimonia-205.la.1" corresp="#testimonia-205.en.1"/>Transivi tutam terram illam usque Cappadociam et Seleuciam maritimam, et
-            inde navigavi Cyprum et perambulavi pro magna parte regionem. Inde navigavi in Syriam et
-            veni Tyrum, et post dies aliquot inde navigans per littus Palestine seu Philistiim
-            pertransivi Caypham, montem Carmelum, Doram, Cesaream Palestine, Antipatridam, Ioppen,
+        <anchor xml:id="testimonia-205.la.1" corresp="#testimonia-205.en.1"/>
+            Transivi tutam
+            terram illam usque Cappadociam et Seleuciam maritimam, et inde navigavi Cyprum et
+            perambulavi pro magna parte regionem. Inde navigavi in Syriam et veni Tyrum, et post
+            dies aliquot inde navigans per littus Palestine seu Philistiim pertransivi Caypham,
+            montem Carmelum, Doram, <placeName>Cesaream Palestine</placeName>, Antipatridam, Ioppen,
             Iamniam, Accaron, Azotum, Ascalonem, Gazam, desertum totum arenosum usque ad ostia Nili
             fluminis. Inde veni Damiatam, que antiquitus Memphis dicitur. Hec est terra Yesse, in
             quo olim filii Israel morabantur, Pharaoni in luto et latere servientes. In hac eciam
-            postea lapidatus est Ieremias. Benedictus sit Deus et Sanctus Matheus! Amen.<ab type="source" source="#bib205-1"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="textual">Ed. Laurent 1873</note></ab>
+            postea lapidatus est Ieremias. Benedictus sit Deus et Sanctus Matheus! Amen.
+            
+            
+            
+            
+         <ab type="source" source="#bib205-1"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        <note xml:lang="en" type="textual">Ed. Laurent 1873</note>
+      </ab>
          <ab type="translation" xml:lang="en" xml:id="quote205-2">
-        <anchor xml:id="testimonia-205.en.1" corresp="#testimonia-205.la.1"/>Ι have passed over the whole of this land as far as Cappadocia and
-            Seleucia Maritima, and from there sailed to Cyprus, and wandered over the greater part
-            of that region. From there Ι sailed to Syria and came to Tyre, and after a few days,
-            sailing along the coast of Palestine or Philistiim, Ι passed by Caypha, Mount Carmel,
-            Dora, Caesarea Palestinae, Antipatris, Ioppe, Iamnia, Accaron, Azotus, Ascalon, Gaza,
+        <anchor xml:id="testimonia-205.en.1" corresp="#testimonia-205.la.1"/>
+            Ι have passed over
+            the whole of this land as far as Cappadocia and Seleucia Maritima, and from there sailed
+            to Cyprus, and wandered over the greater part of that region. From there Ι sailed to
+            Syria and came to Tyre, and after a few days, sailing along the coast of Palestine or
+            Philistiim, Ι passed by Caypha, Mount Carmel, Dora, <placeName>Caesarea
+               Palestinae</placeName>, Antipatris, Ioppe, Iamnia, Accaron, Azotus, Ascalon, Gaza,
             and the whole sand desert up to the mouth of the Nile River. From there Ι came to
             Damiata, which in ancient times was called Memphis. This is the land of Jesse, where the
             Children of Israel once stayed, slaves to the Pharaoh “in mortar and brick”. In this
-            land also Jeremiah was later stoned. Blessed be God and St. Matthew!
-               Amen. <placeName>Caesarea Palestinae</placeName>, as well as over the entire Mount
-            Ephraim as far as Ramathaim Zophim, and to Carmel by the sea near Acre. It abounds with
-            springs, gardens, olive groves, and all the good things that an honest man
-               requires.<ab type="source" source="#bib205-2"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="translation">Adapted from Pringle 2018</note></ab>
+            land also Jeremiah was later stoned. Blessed be God and St. Matthew! Amen.
+            
+            
+            
+            
+         <ab type="source" source="#bib205-2"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        <note xml:lang="en" type="translation">Adapted from Pringle 2018</note>
+      </ab>
          <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib205-1">
@@ -317,7 +337,11 @@
           <citedRange unit="p">319-320</citedRange>
         </bibl>
       </listBibl>
-      <note type="related-texts">
+      
+      
+      
+      
+    <note type="related-texts">
         <p>Exodus 1:14</p>
         <p>Judith 1:9</p>
       </note>

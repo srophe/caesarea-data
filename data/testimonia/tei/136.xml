@@ -286,12 +286,20 @@
         <anchor xml:id="testimonia-136.grc.1" corresp="#testimonia-136.en.1"/>Ῥωμαίωνʹ βασιλεὺς Ἡρακλωνᾶς μῆνας ϛʹ<lb/>Κωνσταντινουπόλεως ἐπίσκοπος
             Παῦλος ἔτη ιβʹ<lb/>αʹ ηʹ αʹ θʹ<lb/>Τούτῳ τῷ ἔτει παραλαμβάνει Μαυΐας <placeName>Καισάρειαν
                τῆς Παλαιστίνης</placeName> μετὰ ἑπταετίαν τῆς πολιορκίας αὐτῆς· καὶ κτένει ἐν αὐτῇ
-            Ῥωμαίους χιλιάδας ἑπτά.<ab type="source" source="#bib136-1"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="textual">Ed. de Boor 1883</note></ab>
+            Ῥωμαίους χιλιάδας ἑπτά.<ab type="source" source="#bib136-1"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        <note xml:lang="en" type="textual">Ed. de Boor 1883</note>
+      </ab>
          <ab type="translation" xml:lang="en" xml:id="quote136-2">
         <anchor xml:id="testimonia-136.en.1" corresp="#testimonia-136.grc.1"/>[A.M. 6133=640/1 C.E.]<lb/>Heraklonas, emperor of the Romans, (6
             months)<lb/>1st year Oumaros<lb/>8th year Paul, bishop of Constantinople (12 years), 1st
             year<lb/>Cyrus, 9th year<lb/>In this year Mauias takes <placeName>Caesarea
-               Palestinae</placeName> after a seven-year siege and kills 7,000 Romans in it.<ab type="source" source="#bib136-2"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="translation">Rev. Mango, Scott, and Greatrex 1997</note></ab>
+               Palestinae</placeName> after a seven-year siege and kills 7,000 Romans in it.<ab type="source" source="#bib136-2"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        <note xml:lang="en" type="translation">Rev. Mango, Scott, and Greatrex 1997</note>
+      </ab>
          <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib136-1">

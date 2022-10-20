@@ -244,7 +244,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Bordeaux Itinerary</title> <ref n="a" target="#bib211-1">584.1-586.2</ref> written by <persName role="author">Unknown</persName> in <origDate notBefore="0333" notAfter="0334" period="#byzantine">333-334 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Bordeaux Itinerary</title> <ref target="#bib211-1">584.1-586.2</ref> written by <persName role="author">Unknown</persName> in <origDate notBefore="0333" notAfter="0334" period="#byzantine">333-334 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</creation>
          <langUsage>
             <language ident="la">Latin</language>
          </langUsage>
@@ -257,6 +257,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc status="draft">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
          <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
       </revisionDesc>
    </teiHeader>
@@ -267,25 +268,37 @@
          </ab>
          <desc type="abstract" xml:id="abstract211-1"><quote><placeName>Caesareae
                Palestinae</placeName></quote>, <quote><placeName>Caesarea
-               Palestina</placeName></quote>, <quote><placeName>Caearea Palestinae</placeName></quote>, and <quote><placeName>Caesarea Palestina</placeName></quote> are directly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Bordeaux Itinerary</title> <ref n="a" target="#bib211-1">584.1-586.2</ref>. This passage was written ca. <origDate notBefore="0333" notAfter="0334" period="#byzantine">333-334 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
+               Palestina</placeName></quote>, <quote><placeName>Caearea Palestinae</placeName></quote>, and <quote><placeName>Caesarea Palestina</placeName></quote> are directly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Bordeaux Itinerary</title> <ref target="#bib211-1">584.1-586.2</ref>. This passage was written ca. <origDate notBefore="0333" notAfter="0334" period="#byzantine">333-334 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
          <desc type="context">The earliest surviving firsthand account of Christian pilgrimage was
-            written by an unknown man from Bordeaux in southwestern France (Roman Burdigala) who
-            travelled overland to Syria and Palestine in 333-334 C.E. His account, organized as a
-            strict itinerary according to distances between sites, notes topographic associations
-            with the stories in Hebrew and Christian scripture and recounts local tradition. This
-            passage covers the trip south from Tyre to the area of Caesarea Maritima.</desc>
+            written by an unknown man from Bordeaux in southwestern France (Roman
+               <foreign>Burdigala</foreign>) who travelled overland to Syria and Palestine in
+            333-334 C.E. His account, organized as a strict itinerary according to distances between
+            sites, notes topographic associations with the stories in Hebrew and Christian scripture
+            and recounts local tradition. This passage covers the trip south from Tyre to the area
+            of Caesarea Maritima.</desc>
          <ab type="edition" xml:lang="la" xml:id="quote211-1">
-        <anchor xml:id="testimonia-211.la.1" corresp="#testimonia-211.en.1"/>Civitas Tyro mil. XII fit ab Antiochia Tyro usque milia CLXXIIII,
+        <anchor xml:id="testimonia-211.la.1" corresp="#testimonia-211.en.1"/>
+        Civitas Tyro mil. XII fit ab Antiochia Tyro usque milia CLXXIIII,
             mutationes XX, mansiones XI. mutatio Alexandroschene mil. XII mutatio Ecdeppa mil. XII
             civitas Ptolomaida mil. VIII mutatio Calamon mil. XII mansio Sicaminos ibi est mons
             Carmelus, ibi Helias sacrificium faciebat. Civitas <placeName>Caesareae
                Palestinae</placeName> id est Iudaea mil. VIII fit a Tyro <placeName>Caesarea
                Palestina</placeName> milia LXXIII, mutationes II, mansiones III. ibi est balneus
             Cornelii centurionis, qui multas elymosynas faciebat. Inde est tertio miliario mons
-            Syna, ubi fons est, in quem mulier si laverit, gravida fit.<ab type="source" source="#bib211-1"/><idno type="CTS-URN"/><ref/><note xml:lang="en" type="textual">Ed.
-               Cuntz 1929</note></ab>
+            Syna, ubi fons est, in quem mulier si laverit, gravida fit.
+        
+        
+        
+        
+      <ab type="source" source="#bib211-1"/>
+        <idno type="CTS-URN"/>
+        <ref/>
+        <note xml:lang="en" type="textual">Ed.
+               Cuntz 1929</note>
+      </ab>
          <ab type="translation" xml:lang="en" xml:id="quote211-2">
-        <anchor xml:id="testimonia-211.en.1" corresp="#testimonia-211.la.1"/>City: Tyre 12 miles Tyre is 174 miles from Antioch, 20 exchanges, 11
+        <anchor xml:id="testimonia-211.en.1" corresp="#testimonia-211.la.1"/>
+        City: Tyre 12 miles Tyre is 174 miles from Antioch, 20 exchanges, 11
             overnights. Exchange: Alexandroschene 12 miles Exchange: Ecdeppa 12 miles City:
             Ptolemaida 8 miles Exchange: Calamon 12 miles Overnight: Sicaminos 3 miles Located there
             is Mount Carmel, where Elias made his sacrifice. Exchange: Certha 8 miles Border between
@@ -294,6 +307,8 @@
             exchanges, three overnights. Located there is the bath of the centurion Cornelius, who
             did many charitable acts. From there at the third milestone is located Mount Syna, where
             there is the spring where, if a woman bathes in it, she becomes pregnant. <note xml:lang="en" type="translation">Trans. J. L. Rife</note>
+        
+        
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -310,9 +325,12 @@
           <ptr target="https://caesarea-maritima.org/bibl/SSAVC63T"/>
         </bibl>
       </listBibl>
-      <note type="related-texts"/>
+      
+      
+      
+      
+    <note type="related-texts"/>
       <note type="geography">
-        <p>Syna, Mount</p>
         <p>Alexandroschene</p>
         <p>Antioch on the Orontes</p>
         <p>Calamon</p>
@@ -321,6 +339,7 @@
         <p>Ecdeppa</p>
         <p>Ptolemaïs (Acco, Accho, Acre, Akko)</p>
         <p>Sykaminos (Sicaminos)</p>
+        <p>Syna, Mount</p>
         <p>Tyre</p>
       </note>
       <note type="prosopography">
@@ -328,7 +347,6 @@
         <p>Elijah the Prophet (Helias)</p>
       </note>
       <note type="themes">
-        <p>Travel</p>
         <p>Christian Bible</p>
         <p>Christianity</p>
         <p>Geography</p>
@@ -336,6 +354,7 @@
         <p>History of Israel</p>
         <p>Judaism</p>
         <p>Pilgrimage</p>
+        <p>Travel</p>
         <p>Urban Topography</p>
       </note>
     </body>

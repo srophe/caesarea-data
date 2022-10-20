@@ -244,7 +244,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Suda</title> <ref n="i" target="#bib315-1">ω 183.621.1-27</ref> written by <persName role="author">Unknown</persName> in <origDate notBefore="0976" notAfter="0990" period="#earlyIslamic">976-990 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Suda</title> <ref target="#bib315-1">ω 183.621.1-27</ref> written by <persName role="author">Unknown</persName> in <origDate notBefore="0976" notAfter="0990" period="#earlyIslamic">976-990 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
          <langUsage>
             <language ident="grc">Ancient Greek</language>
          </langUsage>
@@ -257,6 +257,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc status="draft">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
          <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
       </revisionDesc>
    </teiHeader>
@@ -265,66 +266,79 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/315</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract315-1">and <quote><placeName>Καισαρείᾳ
-            </placeName></quote> is directly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Suda</title> <ref n="i" target="#bib315-1">ω 183.621.1-27</ref>. This passage was written ca. <origDate notBefore="0976" notAfter="0990" period="#earlyIslamic">976-990 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
-         <desc type="context">The Suda (“Stronghold”) is an encyclopedic lexicon written by an
-            unknown scholar during the late 10th century. It compiles copious information in
-            alphabetical entries for use by the learned philologist, in particular on grammar,
-            history, and biography, referring to a broad range of sources from Classical Antiquity
-            to the Early Byzantine period. This passage from the second lemma on Origen (s.v.
-            Ὠριγένης) discusses his relationship with Ambrose, his scholarship, and his work on the
-            biblical text. Here the author repeats the chronicle of George the Monk, written roughly
-            one century earlier; and this account is repeated by Constantine II
+         <desc type="abstract" xml:id="abstract315-1"><quote><placeName>Καισαρείᾳ</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Suda</title> <ref target="#bib315-1">ω 183.621.1-27</ref>. This passage was written ca. <origDate notBefore="0976" notAfter="0990" period="#earlyIslamic">976-990 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+         <desc type="context">The <title>Suda</title> (“Stronghold”) is an encyclopedic lexicon
+            written by an unknown scholar during the late 10th century. It compiles copious
+            information in alphabetical entries for use by the learned philologist, in particular on
+            grammar, history, and biography, referring to a broad range of sources from Classical
+            Antiquity to the Early Byzantine period. This passage from the second lemma on Origen
+            (s.v. Ὠριγένης) discusses his relationship with Ambrose, his scholarship, and his work
+            on the biblical text. Here the author repeats the chronicle of George the Monk, written
+            roughly one century earlier; and this account is repeated by Constantine II
             Porphyrogenitus.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote315-1">
-        <anchor xml:id="testimonia-315.grc.1" corresp="#testimonia-315.en.1"/>πολλῆς οὖν φήμης περὶ αὐτοῦ τρεχούσης, καὶ πολλῶν μακρόθεν πρὸς αὐτὸν
-            συρρεόντων, οὐ μόνον Ἕλληνας καὶ φιλοσόφους καὶ αἱρετικοὺς ἐλλογίμους πρὸς τὴν εὐσέβειαν
-            εἵλκυσεν, ἀλλὰ καὶ τοὺς ὄντας Χριστιανοὺς μᾶλλον στοιχειώσας ἐπεβεβαίωσεν. ὃν ὁ
-            προλεχθεὶς Ἀμβρόσιος ἱκετεύσας πολλὰ καὶ παραβιασάμενος ἐν <placeName>Καισαρείᾳ
-            </placeName> καὶ ταχυγράφους αὐτῷ παραστήσας ἑπτά, πλείους δὲ καλλιγράφους, ἑρμηνεῦσαι
-            τὰς θείας γραφὰς αὐτὸν πεποίηκε. καὶ ὁ μὲν τὴν δέουσαν χρείαν παρεῖχεν, ὁ δὲ ἐπὶ σχολῆς
-            γενόμενος ὑπηγόρευε τοῖς ταχυγράφοις καὶ οἱ βιβλιογράφοι σὺν γυναιξὶν ἔγραφον ἐπὶ τὸ
-            καλλιγραφεῖν ἐξησκημέναις. πᾶσαν τε θείαν γραφὴν ἡρμήνευσεν ἐπὶ ἔτη ιηʹ. λέγεται δὲ ὅτι
-            ͵ϛʹ βίβλους συνέταξε: τοσοῦτον γὰρ ζῆλον ἐς τὴν ἐξήγησιν τῶν θείων λογίων ὁ Ἀμβρόσιος
-            ἐπεδείξατο, ὥστε τὴν πολλὴν αὐτοῦ σπουδὴν Ὠριγένης μαρτυρῶν γράφει πρός τινα λέγων: ὁ
-            ἱερὸς θεῷ καὶ γνησίως ἀνακείμενος Ἀμβρόσιος πολλὰ προσηγόρευσεν: ὅστις νομίζων με φίλον
-            εἶναι καὶ πάνυ διψᾶν τοῦ θείου ἤλεγξε τῇ ἰδίᾳ φιλοπονίᾳ τῷ πρὸς τὰ μαθήματα ἔρωτι. ὅθεν
-            ἐπὶ τοσοῦτόν με παρελήλυθεν, ὥστε κινδυνεύειν ἀπαυδᾶν πρὸς τὰς αὐτοῦ προτάσεις: οὔτε γὰρ
-            δειπνῆσαι ἔστιν ὅτι μὴ ἀντιβάλλοντα, οὔτε δειπνήσαντα ἔξεστι περιπατῆσαι καὶ διαναπαῦσαι
-            τὸ σωμάτιον, ἀλλὰ καὶ ἐν τοῖς καιροῖς ἐκείνοις φιλολογεῖν καὶ ἀκριβοῦν τὰ ἀντίγραφα
-            ἀναγκαζόμεθα. οὔτε μὴν ὅλην ἐπὶ θεραπείᾳ τοῦ σώματος τὴν νύκτα ἔξεστιν ἡμῖν κοιμᾶσθαι,
-            ἐπὶ πολὺ ταῖς φιλολογίαις παρατείνοντα. ἐῶ δὲ λέγειν καὶ τὰ ἕωθεν μέχρις ἐννάτης καὶ
-            δεκάτης ὥρας: πάντες γὰρ οἱ θέλοντες φιλοπονεῖν τοὺς καιροὺς ἐκείνους τῇ ἐξετάσει τῶν
-            θείων λογίων καὶ ταῖς ἀναγνώσεσιν ἀνατιθέασι. πᾶσαν τοίνυν ἡρμήνευσε τὴν θείαν γραφήν.
-            κατὰ γὰρ τοὺς χρόνους τούτους ἐν Ἱεριχῷ ἔν τινι πίθῳ περιτυχὼν τὴν Παλαιὰν εὐφυῶς μάλα
-            καὶ ἐπιστημόνως ταύτην κατεσκεύασεν.<ab type="source" source="#bib315-1"/><idno type="CTS-URN">https://archive.org/details/adler-a.-suidae-lexicon-3-./Adler%20A.%2C%20Suidae%20Lexicon%203%20%28%CE%9A-%CE%9F.%20%CE%A9%29/page/n317/mode/2up</idno><note xml:lang="en" type="textual">Ed. Adler 1933</note></ab>
-         <ab type="translation" xml:lang="en" xml:id="quote315-2">
-        <anchor xml:id="testimonia-315.en.1" corresp="#testimonia-315.grc.1"/>With many reports flying about him and many flowing to him from
-            afar, not only did (Origen) draw to proper worship famous Greeks, both philosophers and
-            heretics, but he also compelled into closer formation those who were already Christians.
-            The Ambrose mentioned before often entreated him, and, after constraining (him to live)
-            in Caesarea, (where he) provided seven stenographers to attend him and more
-            calligraphers, made him interpret the Divine Scriptures. (Ambrose) also provided the
-            necessities for living. (Origen), engaged in his studies, dictated to the stenographers,
-            and the scribes, along women who were well-trained in calligraphy, prepared the text. He
-            interpreted the entire Divine Scripture(s) in 18 years. It is said that he composed
-            6,000 books. Ambrose displayed so much devotion to the interpretation of Scripture that
-            Origen, attesting to his ongoing industry, wrote to someone, “The holy Ambrose, who is
-            genuinely dedicated to God, sent many greetings. Aware that I am a friend of God and
-            that I thirsted much (for Him), he put me to shame with his own diligence in his love
-            for learning. From that point he surpassed me by so much that I risked falling short of
-            his propositions. It is not that he dines without back and forth, nor that after dining
-            it is permitted to take walks and rest the body, but indeed at those times we are
-            compelled to study and to make accurate copies. Nor are we permitted to sleep through
-            the night for the health of the body, but more often he spent the time devoted to his
-            love of language. At dawn (we) read, and from dawn until the ninth or tenth hour. All
-            who want to be industrious dedicate these times to the examination of the Divine
-            Scriptures and to their reading.” Thus he interpreted the entire holy text. During that
-            time, we had had chanced upon the Old Testament in a storage jar in Jericho, Origen very
-            beautifully and with erudition established this (biblical text).<note xml:lang="en" type="translation">Rev. SOL (trans. J. Arnold et al., 2000-)</note>
-        <idno type="CTS-URN"/>
-        <ref target="https://www.cs.uky.edu/~raphael/sol/sol-entries/omega/183"/>
+        <anchor xml:id="testimonia-315.grc.1" corresp="#testimonia-315.en.1"/>
+            πολλῆς οὖν φήμης
+            περὶ αὐτοῦ τρεχούσης, καὶ πολλῶν μακρόθεν πρὸς αὐτὸν συρρεόντων, οὐ μόνον Ἕλληνας καὶ
+            φιλοσόφους καὶ αἱρετικοὺς ἐλλογίμους πρὸς τὴν εὐσέβειαν εἵλκυσεν, ἀλλὰ καὶ τοὺς ὄντας
+            Χριστιανοὺς μᾶλλον στοιχειώσας ἐπεβεβαίωσεν. ὃν ὁ προλεχθεὶς Ἀμβρόσιος ἱκετεύσας πολλὰ
+            καὶ παραβιασάμενος ἐν <placeName>Καισαρείᾳ</placeName> καὶ ταχυγράφους αὐτῷ παραστήσας
+            ἑπτά, πλείους δὲ καλλιγράφους, ἑρμηνεῦσαι τὰς θείας γραφὰς αὐτὸν πεποίηκε. καὶ ὁ μὲν τὴν
+            δέουσαν χρείαν παρεῖχεν, ὁ δὲ ἐπὶ σχολῆς γενόμενος ὑπηγόρευε τοῖς ταχυγράφοις καὶ οἱ
+            βιβλιογράφοι σὺν γυναιξὶν ἔγραφον ἐπὶ τὸ καλλιγραφεῖν ἐξησκημέναις. πᾶσαν τε θείαν
+            γραφὴν ἡρμήνευσεν ἐπὶ ἔτη ιηʹ. λέγεται δὲ ὅτι ͵ϛʹ βίβλους συνέταξε: τοσοῦτον γὰρ ζῆλον
+            ἐς τὴν ἐξήγησιν τῶν θείων λογίων ὁ Ἀμβρόσιος ἐπεδείξατο, ὥστε τὴν πολλὴν αὐτοῦ σπουδὴν
+            Ὠριγένης μαρτυρῶν γράφει πρός τινα λέγων: ὁ ἱερὸς θεῷ καὶ γνησίως ἀνακείμενος Ἀμβρόσιος
+            πολλὰ προσηγόρευσεν: ὅστις νομίζων με φίλον εἶναι καὶ πάνυ διψᾶν τοῦ θείου ἤλεγξε τῇ
+            ἰδίᾳ φιλοπονίᾳ τῷ πρὸς τὰ μαθήματα ἔρωτι. ὅθεν ἐπὶ τοσοῦτόν με παρελήλυθεν, ὥστε
+            κινδυνεύειν ἀπαυδᾶν πρὸς τὰς αὐτοῦ προτάσεις: οὔτε γὰρ δειπνῆσαι ἔστιν ὅτι μὴ
+            ἀντιβάλλοντα, οὔτε δειπνήσαντα ἔξεστι περιπατῆσαι καὶ διαναπαῦσαι τὸ σωμάτιον, ἀλλὰ καὶ
+            ἐν τοῖς καιροῖς ἐκείνοις φιλολογεῖν καὶ ἀκριβοῦν τὰ ἀντίγραφα ἀναγκαζόμεθα. οὔτε μὴν
+            ὅλην ἐπὶ θεραπείᾳ τοῦ σώματος τὴν νύκτα ἔξεστιν ἡμῖν κοιμᾶσθαι, ἐπὶ πολὺ ταῖς
+            φιλολογίαις παρατείνοντα. ἐῶ δὲ λέγειν καὶ τὰ ἕωθεν μέχρις ἐννάτης καὶ δεκάτης ὥρας:
+            πάντες γὰρ οἱ θέλοντες φιλοπονεῖν τοὺς καιροὺς ἐκείνους τῇ ἐξετάσει τῶν θείων λογίων καὶ
+            ταῖς ἀναγνώσεσιν ἀνατιθέασι. πᾶσαν τοίνυν ἡρμήνευσε τὴν θείαν γραφήν. κατὰ γὰρ τοὺς
+            χρόνους τούτους ἐν Ἱεριχῷ ἔν τινι πίθῳ περιτυχὼν τὴν Παλαιὰν εὐφυῶς μάλα καὶ ἐπιστημόνως
+            ταύτην κατεσκεύασεν.
+            
+            
+            
+         <ab type="source" source="#bib315-1"/>
+        <idno type="CTS-URN">https://archive.org/details/adler-a.-suidae-lexicon-3-./Adler%20A.%2C%20Suidae%20Lexicon%203%20%28%CE%9A-%CE%9F.%20%CE%A9%29/page/n317/mode/2up</idno>
+        <note xml:lang="en" type="textual">Ed. Adler 1933</note>
       </ab>
+         <ab type="translation" xml:lang="en" xml:id="quote315-2">
+        <anchor xml:id="testimonia-315.en.1" corresp="#testimonia-315.grc.1"/>
+            With many reports
+            flying about him and many flowing to him from afar, not only did (Origen) draw to proper
+            worship famous Greeks, both philosophers and heretics, but he also compelled into closer
+            formation those who were already Christians. The Ambrose mentioned before often
+            entreated him, and, after constraining (him to live) in <placeName>Caesarea</placeName>,
+            (where he) provided seven stenographers to attend him and more calligraphers, made him
+            interpret the Divine Scriptures. (Ambrose) also provided the necessities for living.
+            (Origen), engaged in his studies, dictated to the stenographers, and the scribes, along
+            women who were well-trained in calligraphy, prepared the text. He interpreted the entire
+            Divine Scripture(s) in 18 years. It is said that he composed 6,000 books. Ambrose
+            displayed so much devotion to the interpretation of Scripture that Origen, attesting to
+            his ongoing industry, wrote to someone, “The holy Ambrose, who is genuinely dedicated to
+            God, sent many greetings. Aware that I am a friend of God and that I thirsted much (for
+            Him), he put me to shame with his own diligence in his love for learning. From that
+            point he surpassed me by so much that I risked falling short of his propositions. It is
+            not that he dines without back and forth, nor that after dining it is permitted to take
+            walks and rest the body, but indeed at those times we are compelled to study and to make
+            accurate copies. Nor are we permitted to sleep through the night for the health of the
+            body, but more often he spent the time devoted to his love of language. At dawn (we)
+            read, and from dawn until the ninth or tenth hour. All who want to be industrious
+            dedicate these times to the examination of the Divine Scriptures and to their reading.”
+            Thus he interpreted the entire holy text. During that time, we had had chanced upon the
+            Old Testament in a storage jar in Jericho, Origen very beautifully and with erudition
+            established this (biblical text).<note xml:lang="en" type="translation">Rev. SOL (trans. J. Arnold et
+               al., 2000-)</note>
+            
+            
+            <idno type="CTS-URN"/>
+            <ref target="https://www.cs.uky.edu/~raphael/sol/sol-entries/omega/183"/>
+         </ab>
          <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib315-1">
@@ -339,7 +353,11 @@
           <ptr target="https://caesarea-maritima.org/bibl/753625E4"/>
         </bibl>
       </listBibl>
-      <note type="related-texts">
+      
+      
+      
+      
+    <note type="related-texts">
         <p>Constantine VII Porphyrogenitus, Virtues and Vices 1.137.5-140.29</p>
         <p>Eusebius, Church History 6</p>
         <p>George Cedrenus, Historiarium compendium, PG 121.483-490.</p>

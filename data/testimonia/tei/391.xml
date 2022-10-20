@@ -245,7 +245,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Life of Gregory the Miracle-Worker </title> <ref n="a" target="#bib391-1">905C-908D</ref> written by <persName role="author" ref=" http://viaf.org/viaf/103646160 ">Gregory of
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Life of Gregory the Miracle-Worker </title> <ref target="#bib391-1">905C-908D</ref> written by <persName role="author" ref=" http://viaf.org/viaf/103646160 ">Gregory of
                Nyssa</persName> in <origDate notBefore="0380" notAfter="0385" period="#byzantine">380-385 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/857287">Pontus</origPlace>.</creation>
          <langUsage>
             <language ident="grc">Ancient Greek</language>
@@ -259,6 +259,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc status="draft">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
          <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
       </revisionDesc>
    </teiHeader>
@@ -268,7 +269,7 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/391</idno>
          </ab>
          <desc type="abstract" xml:id="abstract391-1">Caesarea Maritima is indirectly attested at <persName role="author" ref=" http://viaf.org/viaf/103646160 ">Gregory of
-               Nyssa</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Life of Gregory the Miracle-Worker </title> <ref n="a" target="#bib391-1">905C-908D</ref>. This passage was written ca. <origDate notBefore="0380" notAfter="0385" period="#byzantine">380-385 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/857287">Pontus</origPlace>.</desc>
+               Nyssa</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Life of Gregory the Miracle-Worker </title> <ref target="#bib391-1">905C-908D</ref>. This passage was written ca. <origDate notBefore="0380" notAfter="0385" period="#byzantine">380-385 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/857287">Pontus</origPlace>.</desc>
          <desc type="context">Gregory of Nyssa was a learned theologian of the 4th century venerated
             as one of the so-called Cappadocian Fathers. Raised in a prominent Christian family in
             Pontus, he became bishop of Nyssa in Cappadocia in 372, while his famous brother Basil
@@ -278,11 +279,12 @@
             little knowledge of the writings of his subject but seems to rely on local tradition,
             which in places gives an incomplete or distorted historical picture. In comparison to
             other sources on Gregory the Miracle-Worker’s experience as a student of Origen at
-            Caesarea Maritima, Gregory of Nyssa highlights Firmilian’s key role as Gregory’s
-            companion in spiritual instruction, and places Gregory’s commitment to God before his
-            tutelage under Origen.</desc>
+            Caesarea, Gregory of Nyssa highlights Firmilian’s key role as Gregory’s companion in
+            spiritual instruction, and places Gregory’s commitment to God before his tutelage under
+            Origen.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote391-1">
-        <anchor xml:id="testimonia-391.grc.1" corresp="#testimonia-391.en.1"/>Ἀλλὰ τὸ μὲν προοίμιον τοῦ βίου, τοιοῦτον. Αὐτὸς δὲ ὁ βίος τίς; Ἐπειδὴ
+        <anchor xml:id="testimonia-391.grc.1" corresp="#testimonia-391.en.1"/>
+        Ἀλλὰ τὸ μὲν προοίμιον τοῦ βίου, τοιοῦτον. Αὐτὸς δὲ ὁ βίος τίς; Ἐπειδὴ
             πᾶσαν παίδευσιν τῆς ἔξω σοφίας ἐπιδραμὼν, ἐνέτυχε Φιρμιλιανῷ τινι τῶν εὐπατριδῶν
             Καππαδόκῃ, ὁμοιοτρόπῳ κατὰ τὸ ἦθος, ὡς ἔδειξεν ἐκεῖνος τῷ μετὰ ταῦτα βίῳ, κόσμος τῆς
             Ἐκκλησίας τῶν Καισαρέων γενόμενος, καὶ τόν τε σκοπὸν τοῦ φρονήματος καὶ ἰδίου βίου
@@ -297,10 +299,22 @@
             ἀξιούντων μένειν, πάντων προτιμοτέραν τὴν ἐνεγκοῦσαν αὐτὸν ποιησάμενος, ἐπὶ τὴν πατρίδα
             πάλιν ἐπάνεισιν, τὸν παντοδαπὸν πλοῦτον τῆς σοφίας τε καὶ τῆς γνώσεως ἐπαγόμενος, ὃν
             καθάπερ τις ἔμπορος ἐν ταῖς ἔξω σπουδαῖς πᾶσι καθομιλῶν τοῖς εὐδοκίμοις
-               ἐνεπορεύσατο.<ab type="source" source="#bib391-1"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="textual">Ed. Migne 1863</note><note xml:lang="en" type="textual">Rev. Heil
-               1990</note></ab>
+               ἐνεπορεύσατο.
+        
+        
+        
+        
+        
+      <ab type="source" source="#bib391-1"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        <note xml:lang="en" type="textual">Ed. Migne 1863</note>
+        <note xml:lang="en" type="textual">Rev. Heil
+               1990</note>
+      </ab>
          <ab type="translation" xml:lang="en" xml:id="quote391-2">
-        <anchor xml:id="testimonia-391.en.1" corresp="#testimonia-391.grc.1"/>But such is the prologue to his life. What of the life itself? After
+        <anchor xml:id="testimonia-391.en.1" corresp="#testimonia-391.grc.1"/>
+        But such is the prologue to his life. What of the life itself? After
             having dashed through the entire curriculum of worldly wisdom, he met a certain
             Firmilian from the elite in Cappadocia, a man of comparable character, as he
             demonstrated later in life, who became the jewel of the Church of Caesarea (Mazaca).
@@ -316,8 +330,17 @@
             good idea (for him) to stay with them, he decided that he preferred the land that bore
             him above all others, and returned home. He brought in his manifold wealth and
             knowledge, which he imported like a merchant in all world pursuits who conducts business
-            with a celebrated clientele.<ab type="source" source="#bib391-2"/><idno type="CTS-URN"/><ref/><note xml:lang="en" type="translation">Adapted from Slusser
-               1998</note></ab>
+            with a celebrated clientele.
+        
+        
+        
+        
+      <ab type="source" source="#bib391-2"/>
+        <idno type="CTS-URN"/>
+        <ref/>
+        <note xml:lang="en" type="translation">Adapted from Slusser
+               1998</note>
+      </ab>
          <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib391-1">
@@ -336,7 +359,11 @@
           <ptr target="https://caesarea-maritima.org/bibl/MK5BEX6L"/>
         </bibl>
       </listBibl>
-      <note type="related-texts">
+      
+      
+      
+      
+    <note type="related-texts">
         <p>Gregory the Miracle-Worker, Panegyric to Origen 5.76-112</p>
       </note>
       <note type="geography">
@@ -350,8 +377,8 @@
         <p>Origen</p>
       </note>
       <note type="themes">
-        <p>Economy and Commerce</p>
         <p>Christianity</p>
+        <p>Economy and Commerce</p>
         <p>Education (sacred)</p>
         <p>Roman History</p>
         <p>Society and Culture</p>

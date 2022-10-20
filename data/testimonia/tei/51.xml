@@ -245,8 +245,9 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Journey in the Holy Land </title> <ref n="a" target="#bib51-1">2.2-3</ref> written by <persName role="author" ref="http://viaf.org/viaf/398143">Wilbrand of
-               Oldenburg</persName> in <origDate notBefore="1211" notAfter="1212" period="#crusader">1211-1212 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/1001939">Palestine</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Journey in the Holy Land </title>
+            <ref target="#bib51-1">2.2-2.3</ref> written by <persName role="author" ref="http://viaf.org/viaf/398143">Wilbrand of Oldenburg</persName> in <origDate notBefore="1211" notAfter="1212" period="#crusader">1211-1212 CE</origDate>. This
+            work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</creation>
          <langUsage>
             <language ident="la">Latin</language>
          </langUsage>
@@ -259,6 +260,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc status="draft">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
          <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
       </revisionDesc>
    </teiHeader>
@@ -267,20 +269,20 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/51</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract51-1"><quote><placeName>Cesaream</placeName></quote>, <quote><placeName>Stratonis</placeName></quote>, <quote><placeName>Cesarea</placeName></quote>, <quote><placeName>Caesarea</placeName></quote>, and <quote><placeName>Strato</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/398143">Wilbrand of
-               Oldenburg</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Journey in the Holy Land </title> <ref n="a" target="#bib51-1">2.2-3</ref>. This passage was written ca. <origDate notBefore="1211" notAfter="1212" period="#crusader">1211-1212 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/1001939">Palestine</origPlace>.</desc>
+         <desc type="abstract" xml:id="abstract51-1"><quote><placeName>Cesaream</placeName></quote>, <quote><placeName>Stratonis</placeName></quote>, <quote><placeName>Cesarea</placeName></quote>, <quote><placeName>Caesarea</placeName></quote>, and <quote><placeName>Strato</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/398143">Wilbrand of Oldenburg</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Journey in the Holy Land </title> <ref target="#bib51-1">2.2-2.3</ref>. This passage was written ca. <origDate notBefore="1211" notAfter="1212" period="#crusader">1211-1212 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
          <desc type="context">Wilbrand, born to a noble family of Oldenburg in northwestern Germany,
             had a distinguished ecclesiastical career as a prelate in the sees of Paderborn,
-            Münster, Osnabrück, and Utrecht up to his death in 1233. He had travelled to the Middle
-            East in 1211-1212 and wrote an account. During the first year of his journey he served
+            Münster, Osnabrück, and Utrecht up to his death in 1233. He wrote an account of his
+            travels to the Middle East in 1211-1212. During the first year of his journey, he served
             with Teutonic knights and royal envoys from Austria on an embassy from Otto IV, the
             German emperor, to Levon I, the king of Armenian Cilicia. During the second year of his
-            journey he visited Jerusalem and other sacred sites. This passage covers Wilbrand’s
+            journey, he visited Jerusalem and other sacred sites. This passage covers Wilbrand’s
             journey east from Acre to the Sea of Galilee, then back to the coast, and south to
             Caesarea, Arsuf, Jaffa, and Ramla. He mixes observations on both the early Christian
             associations and the contemporary state of these communities.</desc>
          <ab type="edition" xml:lang="la" xml:id="quote51-1">
-        <anchor xml:id="testimonia-51.la.1" corresp="#testimonia-51.en.1"/>(2) Et relinquentes ad sinistram Sareptam Iudae, ad cuius differentiam
+        <anchor xml:id="testimonia-51.la.1" corresp="#testimonia-51.en.1"/>
+        (2) Et relinquentes ad sinistram Sareptam Iudae, ad cuius differentiam
             altera Sarepta, de qua vos supra expedivi, Sydoniorum est appellata, veniumus
                <placeName>Cesaream</placeName>. Haec non est Cesarea Philippi, sed
                <placeName>Stratonis</placeName>, in qua beatus Petrus, cum in visione de omni
@@ -303,10 +305,20 @@
             nostris pace a paganis eis indulta inhabitari consuevit. Et distat a
                <placeName>Cesarea</placeName> unam dietam. (3) Illic ducatu nobis concesso
             relinquentes maritimam et incedentes versus meridiem transivimus terram verissime lacte
-            et melle fluentem, et peragravimus Rammam.<ab type="source" source="#bib51-1"/><idno type="CTS-URN"/><ref/><note xml:lang="en" type="textual">Ed. Pringle
-               2012</note></ab>
+            et melle fluentem, et peragravimus Rammam.
+        
+        
+        
+        
+      <ab type="source" source="#bib51-1"/>
+        <idno type="CTS-URN"/>
+        <ref/>
+        <note xml:lang="en" type="textual">Ed. Pringle
+               2012</note>
+      </ab>
          <ab type="translation" xml:lang="en" xml:id="quote51-2">
-        <anchor xml:id="testimonia-51.en.1" corresp="#testimonia-51.la.1"/>Leaving to the left Sarepta of Judaea, which in distinction from the
+        <anchor xml:id="testimonia-51.en.1" corresp="#testimonia-51.la.1"/>
+        Leaving to the left Sarepta of Judaea, which in distinction from the
             other Sarepta (I addressed it above) is called of the Sidonians, we came to
                <placeName>Caesarea</placeName>. This is not the Caesarea of Philip but the one of
                <placeName>Strato</placeName>, in which St. Peter, when he was commanded in a vision
@@ -332,8 +344,17 @@
             our people through a favor extended to them by those pagans. It is one day’s journey
             from <placeName>Caesarea</placeName>. (3) From there, after a guide was assigned to us,
             leaving the coast and advancing southwards, we passed over a land truly flowing with
-            milk and honey, and we wandered through Ramma.<ab type="source" source="#bib51-2"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="translation">Rev. Pringle
-               2018</note></ab>
+            milk and honey, and we wandered through Ramma.
+        
+        
+        
+        
+      <ab type="source" source="#bib51-2"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        <note xml:lang="en" type="translation">Rev. Pringle
+               2018</note>
+      </ab>
          <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib51-1">
@@ -347,7 +368,11 @@
           <citedRange unit="p">85-86</citedRange>
         </bibl>
       </listBibl>
-      <note type="related-texts"/>
+      
+      
+      
+      
+    <note type="related-texts"/>
       <note type="geography">
         <p>Acre</p>
         <p>Caesarea Philippi</p>

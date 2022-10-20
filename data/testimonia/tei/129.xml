@@ -244,7 +244,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Dictionary of Place Names</title> <ref n="a" target="#bib129-1">78</ref> written by <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius</persName> in <origDate notBefore="0290" notAfter="0325" period="#lateRoman #byzantine">290-325 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Dictionary of Place Names</title> <ref target="#bib129-1">78</ref> written by <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius</persName> in <origDate notBefore="0290" notAfter="0325" period="#lateRoman #byzantine">290-325 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</creation>
          <langUsage>
             <language ident="grc">Ancient Greek</language>
          </langUsage>
@@ -257,6 +257,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc status="draft">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
          <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
       </revisionDesc>
    </teiHeader>
@@ -265,17 +266,36 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/129</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract129-1"><quote><placeName>Καισάρειαν τῆς Παλαιστίνης</placeName></quote>, and <quote><placeName>Caesarea Palestinae</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Dictionary of Place Names</title> <ref n="a" target="#bib129-1">78</ref>. This passage was written ca. <origDate notBefore="0290" notAfter="0325" period="#lateRoman #byzantine">290-325 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</desc>
-         <ab type="edition" xml:lang="grc" xml:id="quote129-1">
-        <anchor xml:id="testimonia-129.grc.1" corresp="#testimonia-129.en.1"/>Δῶρ τοῦ Ναφάθ. Σʹ Δὼρ “τῆς παραλίας”, αὕτη ἐστὶ Δῶρα ἡ πρὸς
+         <desc type="abstract" xml:id="abstract129-1"><quote><placeName>Καισάρειαν τῆς Παλαιστίνης</placeName></quote>, and <quote><placeName>Caesarea Palestinae</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Dictionary of Place Names</title> <ref target="#bib129-1">78</ref>. This passage was written ca. <origDate notBefore="0290" notAfter="0325" period="#lateRoman #byzantine">290-325 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</desc>
+         <desc type="context">In his lexicon of place names in Hebrew Scripture, Eusebius wrote that
+            Dor of Nafath named at <title>Joshua</title> 11:12 is located near Caesarea Maritima. He
+            also cited the Greek translation of by Symmachus in the late 2nd century C.E. The same
+            information is recorded in the parallel passage at Jerome, <title>Book of Places</title>
+            79, written roughly one century after Eusebius’ work.</desc>
+      <ab type="edition" xml:lang="grc" xml:id="quote129-1">
+        <anchor xml:id="testimonia-129.grc.1" corresp="#testimonia-129.en.1"/>
+        Δῶρ τοῦ Ναφάθ. Σʹ Δὼρ “τῆς παραλίας”, αὕτη ἐστὶ Δῶρα ἡ πρὸς
                <placeName>Καισάρειαν τῆς Παλαιστίνης</placeName> ἀπὸ σημείων θʹ ἀπιόντων Τυρὸν, νῦν
-            ἔρημος, ἣν οὐκ ἔλαβεν ἡ φυλὴ Μανασσῆ, ὅτι μὴ ἀνεῖλεν τοὺς ἐν αὐτῇ ἀλλοφύλους.<ab type="source" source="#bib129-1"/><idno type="CTS-URN"/><ref target=""/><note>Ed.
-               Klosterman 1904</note></ab>
+            ἔρημος, ἣν οὐκ ἔλαβεν ἡ φυλὴ Μανασσῆ, ὅτι μὴ ἀνεῖλεν τοὺς ἐν αὐτῇ ἀλλοφύλους.
+        
+        
+        
+        
+        
+      <ab type="source" source="#bib129-1"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        <note xml:lang="en">Ed.
+               Klosterman 1904</note>
+      </ab>
          <ab type="translation" xml:lang="en" xml:id="quote129-2">
-        <anchor xml:id="testimonia-129.en.1" corresp="#testimonia-129.grc.1"/>Dor of Nafath. Symmachus: Dor “by the Sea”. This is the Dor near
+        <anchor xml:id="testimonia-129.en.1" corresp="#testimonia-129.grc.1"/>
+        Dor of Nafath. Symmachus: Dor “by the Sea”. This is the Dor near
                <placeName>Caesarea Palestinae</placeName>, nine milestones away for those travelling
             to Tyre, now deserted, which the tribe of Manasseh did not take because they could not
             expel the foreign tribes there.<note xml:lang="en" type="translation">Trans. J. L. Rife</note>
+        
+        
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -286,7 +306,11 @@
           <citedRange unit="p">78</citedRange>
         </bibl>
       </listBibl>
-      <note type="related-texts">
+      
+      
+      
+      
+    <note type="related-texts">
         <p>Jerome, Book of Places 79</p>
         <p>Joshua 11:12</p>
       </note>

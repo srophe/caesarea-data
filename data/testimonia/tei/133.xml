@@ -248,7 +248,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref n="a" target="#bib133-1">9.17</ref> written by <persName ref="http://viaf.org/viaf/88969561" role="author">John Malalas</persName> in <origDate notBefore="0530" notAfter="0532" period="#byzantine">530-532 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/658381">Antioch on the
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref target="#bib133-1">9.17</ref> written by <persName ref="http://viaf.org/viaf/88969561" role="author">John Malalas</persName> in <origDate notBefore="0530" notAfter="0532" period="#byzantine">530-532 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/658381">Antioch on the
                Orontes</origPlace>.</creation>
          <langUsage>
             <language ident="grc">Ancient Greek</language>
@@ -262,6 +262,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc status="draft">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
          <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">ADDED: testimonium ID, URNs, URLs to edition and translation,
             and Bibl URIs</change>
          <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
@@ -272,38 +273,53 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/133</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract133-1"><quote><placeName>Καισάρειαν
-               Παλαιστίνης,</placeName></quote>, and <quote><placeName>Στράτωνος Πύργον</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/88969561" role="author">John Malalas</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref n="a" target="#bib133-1">9.17</ref>. This passage was written ca. <origDate notBefore="0530" notAfter="0532" period="#byzantine">530-532 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/658381">Antioch on the
+         <desc type="abstract" xml:id="abstract133-1"><quote><placeName>Καισάρειαν Παλαιστίνης,</placeName></quote>, <quote><placeName>Στράτωνος Πύργον</placeName></quote>, <quote><placeName>Caesarea Palestinae</placeName></quote>, and <quote><placeName>Strato’s Tower</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/88969561" role="author">John Malalas</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref target="#bib133-1">9.17</ref>. This passage was written ca. <origDate notBefore="0530" notAfter="0532" period="#byzantine">530-532 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/658381">Antioch on the
                Orontes</origPlace>.</desc>
-         <desc type="context">John Malalas, a moniker probably derived from Aramaic malolo ( ܡܰܠܳܠܰܐ
-            ) meaning “orator”, was an educated Syrian who moved from Antioch to Constantinople
-            early in the reign of Justinian I. His only known work is a historical chronicle in 18
-            books, apparently composed in two editions, spanning from early times probably to the
-            death of Justinian, with a distinct focus on events in the eastern Mediterranean. In his
-            long passage on the activities of Augustus in the East, John cites the renaming of
-            Straton’s Tower as Caesarea.</desc>
+         <desc type="context">John Malalas, a moniker probably derived from Aramaic
+               <foreign>malolo</foreign> meaning “orator”, was an educated Syrian who moved from
+            Antioch to Constantinople early in the reign of Justinian I. His only known work is a
+            historical chronicle in 18 books, apparently composed in two editions, spanning from
+            early times probably to the death of Justinian, with a distinct focus on events in the
+            eastern Mediterranean. In his long passage on the activities of Augustus in the East,
+            John cites the renaming of Straton’s Tower as Caesarea.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote133-1">
-        <anchor xml:id="testimonia-133.grc.1" corresp="#testimonia-133.en.1"/>ὁ μὲν Ἡρώδης βασιλεὺς τῆς Ἰουδαίας πρὸς τιμὴν αὐτοῦ ἐποίησε καὶ τὴν
-            ὁδοστρωσίαν τὴν ἔξω τῆς πόλεως Ἀντιοχείας τῆς μεγάλης, ἦν γὰρ δύσβατος, στρώσας αὐτὴν
-            λευκαῖς πλάκαις. ἐκάλεσαν δὲ ἐμφότεροι τοπάρχαι τὰς μητροπόλεις αὐτῶν πρὸς τὴν αὐτοῦ εἰς
-            ὄνομα τοῦ Καίσαρος· ὁ μὲν Ἡρώδης βασιλεὺς καὶ τοπάρχης ἐκάλεσε <placeName>Καισάρειαν
-               Παλαιστίνης,</placeName> τὴν πρῴην λεγομένην <placeName>Στράτωνος Πύργον</placeName>,
-            ὁ δὲ Ἀρχέλαος βασιλεὺς καὶ τοπάρχης ἐκάλεσε Καισάρειαν Καππαδοκίας τὴν πρῴην λεγομένην
-               Μάζακαν.<ab type="source" source="#bib133-1"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="textual">Ed. Thurn 2000</note><note xml:lang="en" type="textual">Von
-               Stauffenberg (1931) added ἰδίοις ἀναλώμασιν (“at his own expense”) after λευκαῖς
-               πλάκαις. J. L. Rife has omitted it here as an unnecessary interpolation from the
-               Slavonic translation (10th/11th century) and John of Nikiu 66.2. </note></ab>
-         <ab type="translation" xml:lang="en" xml:id="quote133-2">
-        <anchor xml:id="testimonia-133.en.1" corresp="#testimonia-133.grc.1"/>Ηerod the king of Judaea made the paved highway outside the city of
-            Antioch the Great in his (sc. Augustus’) honor, for it used to be a rough passage,
-            paving it with white slabs. Both local rulers named their metropoleis after Caesar
-            (Augustus) to honor him. Herod, king and local ruler, named Caesarea of Palestine the
-            city formerly called Strato’s Tower, while Archaelaos, king and local ruler, named
-            Caesarea in Cappadocia the city formerly called Mazaca.<note xml:lang="en" type="translation">Adapted
-               from Jeffreys et al. 2017</note>
+        <anchor xml:id="testimonia-133.grc.1" corresp="#testimonia-133.en.1"/>
+            ὁ μὲν Ἡρώδης
+            βασιλεὺς τῆς Ἰουδαίας πρὸς τιμὴν αὐτοῦ ἐποίησε καὶ τὴν ὁδοστρωσίαν τὴν ἔξω τῆς πόλεως
+            Ἀντιοχείας τῆς μεγάλης, ἦν γὰρ δύσβατος, στρώσας αὐτὴν λευκαῖς πλάκαις. ἐκάλεσαν δὲ
+            ἐμφότεροι τοπάρχαι τὰς μητροπόλεις αὐτῶν πρὸς τὴν αὐτοῦ εἰς ὄνομα τοῦ Καίσαρος· ὁ μὲν
+            Ἡρώδης βασιλεὺς καὶ τοπάρχης ἐκάλεσε <placeName>Καισάρειαν Παλαιστίνης,</placeName> τὴν
+            πρῴην λεγομένην <placeName>Στράτωνος Πύργον</placeName>, ὁ δὲ Ἀρχέλαος βασιλεὺς καὶ
+            τοπάρχης ἐκάλεσε Καισάρειαν Καππαδοκίας τὴν πρῴην λεγομένην Μάζακαν.
+            
+            
+            
+            
+            
+         <ab type="source" source="#bib133-1"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
+        <note xml:lang="en" type="textual">Ed. Thurn 2000</note>
+        <note xml:lang="en" type="textual">Von Stauffenberg (1931) added ἰδίοις ἀναλώμασιν (“at his own
+               expense”) after λευκαῖς πλάκαις. J. L. Rife has omitted it here as an unnecessary
+               interpolation from the Slavonic translation (10th/11th century) and John of Nikiu
+               66.2. </note>
       </ab>
+         <ab type="translation" xml:lang="en" xml:id="quote133-2">
+        <anchor xml:id="testimonia-133.en.1" corresp="#testimonia-133.grc.1"/>
+            Ηerod the king of
+            Judaea made the paved highway outside the city of Antioch the Great in (Augustus’s)
+            honor, for it used to be a rough passage, paving it with white slabs. Both local rulers
+            named their metropoleis after Caesar (Augustus) to honor him. Herod, king and local
+            ruler, named <placeName>Caesarea Palestinae</placeName> the city formerly called
+               <placeName>Strato’s Tower</placeName>, while Archaelaos, king and local ruler, named
+            Caesarea in Cappadocia the city formerly called Mazaca.<note xml:lang="en" type="translation">Adapted
+               from Jeffreys et al. 2017</note>
+            
+            
+            <idno type="CTS-URN"/>
+            <ref target=""/>
+         </ab>
          <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib133-1">
@@ -323,7 +339,11 @@
           <citedRange unit="p">8-9</citedRange>
         </bibl>
       </listBibl>
-      <note type="related-texts">
+      
+      
+      
+      
+    <note type="related-texts">
         <p>John of Nikiu 66.2</p>
       </note>
       <note type="geography">

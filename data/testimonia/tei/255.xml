@@ -245,7 +245,7 @@
         <p/>
       </abstract>
       <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Medicine Cabinet, or Against
-               Heresies</title> <ref n="e" target="#bib255-1">73.37.5-6</ref> written by <persName ref="http://viaf.org/viaf/13651211" role="author">Epiphanius</persName> in <origDate notBefore="0374" notAfter="0377" period="#byzantine">374-377 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/707617">Cypriot Salamis</origPlace>.</creation>
+               Heresies</title> <ref target="#bib255-1">73.37.5-6</ref> written by <persName ref="http://viaf.org/viaf/13651211" role="author">Epiphanius</persName> in <origDate notBefore="0374" notAfter="0377" period="#byzantine">374-377 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/707617">Cypriot Salamis</origPlace>.</creation>
       <langUsage>
         <language ident="grc">Ancient Greek</language>
       </langUsage>
@@ -258,6 +258,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc status="draft">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
     </revisionDesc>
   </teiHeader>
@@ -267,22 +268,23 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/255</idno>
       </ab>
       <desc type="abstract" xml:id="abstract255-1"><quote><placeName>Καισαρείᾳ</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/13651211" role="author">Epiphanius</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Medicine Cabinet, or Against
-               Heresies</title> <ref n="e" target="#bib255-1">73.37.5-6</ref>. This passage was written ca. <origDate notBefore="0374" notAfter="0377" period="#byzantine">374-377 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/707617">Cypriot Salamis</origPlace>.</desc>
-      <desc type="context">Epiphanius, who spent his early life and career as a student and monk
-            in southern Palestine and Egypt, was appointed bishop of Salamis on Cyprus in ca.
-            365-367 C.E., a post he held until his death in 403 C.E. He became a formidable champion
-            of Orthodoxy, repeatedly entering into bitter controversy with the sees at Jerusalem and
-            Alexandria. His Medicine Cabinet (πανάριον, κιβώτιον, panarion, arcula), or Against
-            Heresies (κατὰ αἱρέσεων, adversus haereses), was a long compendium of portraits in
-            wayward sectarianism, stretching from the Greek philosophers and Judaism up to his own
-            time. The aim was to furnish theological and rhetorical antidotes to heresy. It has
-            great historical value for its detailed information on figures of the eastern Church,
-            frequently paraphrasing or quoting from earlier works or otherwise lost documents. In
-            his chapter on the Semi-Arians, Epiphanius names the various bishops who succeeded Arius
-            during the mid- to late 4th century, the Homoiousians, among whom was Euzoeus, bishop of
-            Caesarea.</desc>
+               Heresies</title> <ref target="#bib255-1">73.37.5-6</ref>. This passage was written ca. <origDate notBefore="0374" notAfter="0377" period="#byzantine">374-377 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/707617">Cypriot Salamis</origPlace>.</desc>
+      <desc type="context">Epiphanius, who spent his early life and career as a student and monk in
+        southern Palestine and Egypt, was appointed bishop of Salamis on Cyprus in ca. 365-367 C.E.,
+        a post he held until his death in 403 C.E. He became a formidable champion of Orthodoxy,
+        repeatedly entering into bitter controversy with the sees at Jerusalem and Alexandria. His
+          <title>Medicine Cabinet</title> (πανάριον, κιβώτιον, <foreign>panarion</foreign>,
+          <foreign>arcula</foreign>), or <title>Against Heresies</title> (κατὰ αἱρέσεων,
+          <foreign>adversus haereses</foreign>), was a long compendium of portraits in wayward
+        sectarianism, stretching from the Greek philosophers and Judaism up to his own time. The aim
+        was to furnish theological and rhetorical antidotes to heresy. It has great historical value
+        for its detailed information on figures of the eastern Church, frequently paraphrasing or
+        quoting from earlier works or otherwise lost documents. In his chapter on the Semi-Arians,
+        Epiphanius names the various bishops who succeeded Arius during the mid- to late 4th
+        century, the Homoiousians, among whom was Euzoeus, bishop of Caesarea.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote255-1">
-        <anchor xml:id="testimonia-255.grc.1" corresp="#testimonia-255.en.1"/>(5) ἐξ αὐτῶν γὰρ Εὐζώϊος ὁ ἐν <placeName>Καισαρείᾳ</placeName>, μαθητὴς
+        <anchor xml:id="testimonia-255.grc.1" corresp="#testimonia-255.en.1"/>
+        (5) ἐξ αὐτῶν γὰρ Εὐζώϊος ὁ ἐν <placeName>Καισαρείᾳ</placeName>, μαθητὴς
             ἐκείνων ὑπάρχων, ὃς καὶ τὸν Ἀκάκιον διεδέξατο μετὰ κατάστασιν Φιλουμένου τοῦ ὑπὸ
             Κυρίλλου τοῦ Ἱεροσολυμίτου κατασταθέντος καὶ μετὰ κατάστασιν Κυρίλλου τοῦ γέροντος τοῦ
             ἀπὸ τῶν περὶ Εὐτύχιον κατασταθέντος καὶ μετὰ κατάστασιν Γελασίου τοῦ ὑπὸ Κυρίλλου αὖθις
@@ -293,10 +295,20 @@
             ἀπειραγαθήσαντες, οὐ μόνον τὰ Ἀρείου διδάσκουσιν, ἀλλ’ ὑπερμαχοῦσι τῆς αὐτῶν αἱρέσεως
             καὶ τοὺς τὴν ἀλήθειαν διδάσκοντας διώκουσιν, οὐκέτι λόγοις βουλόμενοι ἀνατρέπειν, ἀλλὰ
             καὶ ἐχθρίαις καὶ πολέμοις καὶ μαχαίραις παραδιδόντες τοὺς ὀρθῶς πιστεύοντας. λύμην γὰρ
-            οὐ μιᾷ πόλει καὶ χώρᾳ εἰργάσαντο, ἀλλὰ πολλαῖς.<ab type="source" source="#bib255-1"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="textual">Ed. Holl
-               1933</note></ab>
+            οὐ μιᾷ πόλει καὶ χώρᾳ εἰργάσαντο, ἀλλὰ πολλαῖς.
+        
+        
+        
+        
+      <ab type="source" source="#bib255-1"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        <note xml:lang="en" type="textual">Ed. Holl
+               1933</note>
+      </ab>
       <ab type="translation" xml:lang="en" xml:id="quote255-2">
-        <anchor xml:id="testimonia-255.en.1" corresp="#testimonia-255.grc.1"/>(5) One of them is Euzoeus of <placeName>Caesarea</placeName>, their
+        <anchor xml:id="testimonia-255.en.1" corresp="#testimonia-255.grc.1"/>
+        (5) One of them is Euzoeus of <placeName>Caesarea</placeName>, their
             disciple, who succeeded Acacius after the consecration of Philoumen, who was consecrated
             by Cyril of Jerusalem, and the consecration of the elderly Cyril, who was consecrated by
             the circle of Eutychius, and the consecration of Gelasius, who was consecrated again by
@@ -308,7 +320,16 @@
             do battle for their heresy, and they persecute those who teach the truth. They are no
             longer willing merely to refute Orthodox believers verbally, but subject them to feuds,
             violence, and murder. For they have wrought destruction not in one city and country but
-            in many.<ab type="source" source="#bib255-2"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="translation">Rev. Williams 2013</note></ab>
+            in many.
+        
+        
+        
+        
+      <ab type="source" source="#bib255-2"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        <note xml:lang="en" type="translation">Rev. Williams 2013</note>
+      </ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib255-1">
@@ -322,6 +343,10 @@
           <citedRange unit="p">482</citedRange>
         </bibl>
       </listBibl>
+    
+      
+      
+      
     <note type="related-texts"/>
       <note type="geography">
         <p>Jerusalem</p>

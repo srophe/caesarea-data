@@ -245,7 +245,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref n="h" target="#bib59-1">230.4-15</ref> written by <persName role="author" ref="http://viaf.org/viaf/54944687">Theophanes the
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref target="#bib59-1">230.4-15</ref> written by <persName role="author" ref="http://viaf.org/viaf/54944687">Theophanes the
                Confessor</persName> in <origDate notBefore="0810" notAfter="0814" period="#earlyIslamic">810-814 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/511218">Cyzicus</origPlace>.</creation>
          <langUsage>
             <language ident="grc">Ancient Greek</language>
@@ -259,6 +259,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc status="draft">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
          <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
       </revisionDesc>
    </teiHeader>
@@ -268,10 +269,11 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/59</idno>
          </ab>
          <desc type="abstract" xml:id="abstract59-1"><quote><placeName>Καισαρείᾳ τῆς
-               Παλαιστίνης</placeName></quote>, and <quote><placeName>Caesarea in Palestine</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/54944687">Theophanes the
-               Confessor</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref n="h" target="#bib59-1">230.4-15</ref>. This passage was written ca. <origDate notBefore="0810" notAfter="0814" period="#earlyIslamic">810-814 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/511218">Cyzicus</origPlace>.</desc>
+               Παλαιστίνης</placeName></quote>, and <quote><placeName>Caesarea
+               Palestinae</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/54944687">Theophanes the
+               Confessor</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref target="#bib59-1">230.4-15</ref>. This passage was written ca. <origDate notBefore="0810" notAfter="0814" period="#earlyIslamic">810-814 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/511218">Cyzicus</origPlace>.</desc>
          <desc type="context">Theophanes, born to noble parents in Constantinople, was raised in the
-            Palace under Constantine V (740-775 C.E.) He spent much of his career as a member and
+            Palace under Constantine V (740-775 C.E.). He spent much of his career as a member and
             leader of monastic communities around the Sea of Marmara, before his condemnation and
             exile to Samothrace in 817 C.E. by Leo V the Armenian during the controversies over
             iconoclasm. At the request of George Syncellus, Theophanes wrote a continuation of his
@@ -280,7 +282,8 @@
             depends closely on the account of John Malalas (mid-6th century) concerning the
             Samaritan revolt at Caesarea.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote59-1">
-        <anchor xml:id="testimonia-59.grc.1" corresp="#testimonia-59.en.1"/>κθʹ. λαʹ. ιηʹ. δʹ. ιαʹ. ζʹ. ιαʹ. Τούτῳ τῷ ἔτει μηνὶ Ἰουλίῳ, ἰνδικτιῶνος
+        <anchor xml:id="testimonia-59.grc.1" corresp="#testimonia-59.en.1"/>
+        κθʹ. λαʹ. ιηʹ. δʹ. ιαʹ. ζʹ. ιαʹ. Τούτῳ τῷ ἔτει μηνὶ Ἰουλίῳ, ἰνδικτιῶνος
             δʹ, ἐστασίασαν Ἰουδαῖοι καὶ Σαμαρεῖται ἐν <placeName>Καισαρείᾳ τῆς
                Παλαιστίνης</placeName> καὶ ποιήσαντες πρὸς ἀλλήλους ἐν τάξει πρασινοβενέτων ἐπῆλθον
             τοῖς Χριστιανοῖς τῆς αὐτῆς πόλεως καὶ πολλοὺς ἀνεῖλον καὶ ἐκκλησίας κατέκαυσαν, Στέφανον
@@ -288,18 +291,40 @@
             καθήρπαξαν. ἡ δὲ γυνὴ αὐτοῦ ἀνελθοῦσα ἐν τῇ πόλει προσῆλθε τῷ βασιλεῖ· καὶ ἐκέλευσεν
             Ἀμαντίῳ τῷ στρατηλάτῃ κατελθεῖν ἐν Παλαιστίνῃ καὶ τὸν φόνον τοῦ Στεφάνου ἐκζητῆσαι·
             ὅστις εὑρὼν τοὺς μὲν ἐφούρκισεν, τοὺς δὲ ἀπεκεφάλισεν, τοὺς δὲ ἠκρωτηρίασε καὶ
-            ἐδήμευσεν. καὶ ἐγένετο φόβος μέγας ἐν πᾶσι τοῖς ἀνατολικοῖς μέρεσιν.<ab type="source" source="#bib59-1"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="textual">Ed. de Boor 1883</note></ab>
+            ἐδήμευσεν. καὶ ἐγένετο φόβος μέγας ἐν πᾶσι τοῖς ἀνατολικοῖς μέρεσιν. 
+        
+        
+        
+        
+      <ab type="source" source="#bib59-1"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        <note xml:lang="en" type="textual">Ed. de Boor 1883</note>
+      </ab>
          <ab type="translation" xml:lang="en" xml:id="quote59-2">
-        <anchor xml:id="testimonia-59.en.1" corresp="#testimonia-59.grc.1"/>[A.M. 6048=555/6 C.E.] Justinian, 19th year Chosroes, 31st year
-            Vigilius, 18th year Eutychios, 4th year Peter, 11th year Apolinarios, 7th year Domnus,
-            11th year In July of this year, the 4th indiction, the Jews and Samaritans staged a
-            revolt at <placeName>Caesarea in Palestine</placeName>. Combining into a Green-Blue
-            faction, they attacked the Christians of that city, killed many of them, burned their
-            churches, murdered Stephen, the prefect of the city, in the praetorium and looted his
-            property. His wife went up to Constantinople and approached the emperor. He ordered
-            Amantius, the magister militum, to go down to Palestine and investigate Stephen's
-            murder. Having found the culprits, Amantius hanged some, beheaded some, mutilated some,
-            and fined others. So great fear prevailed in all the eastern parts.<ab type="source" source="#bib59-2"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="translation">Trans. Mango, Scott, and Greatrex 1997</note></ab>
+        <anchor xml:id="testimonia-59.en.1" corresp="#testimonia-59.grc.1"/>
+            [A.M. 6048=555/6
+            C.E.] Justinian, 19th year Chosroes, 31st year Vigilius, 18th year Eutychios, 4th year
+            Peter, 11th year Apolinarios, 7th year Domnus, 11th year In July of this year, the 4th
+            indiction, the Jews and Samaritans staged a revolt at <placeName>Caesarea
+               Palestinae</placeName>. Combining into a Green-Blue faction, they attacked the
+            Christians of that city, killed many of them, burned their churches, murdered Stephen,
+            the prefect of the city, in the praetorium and looted his property. His wife went up to
+            Constantinople and approached the emperor. He ordered Amantius, the <foreign>magister
+               militum</foreign>, to go down to Palestine and investigate Stephen's murder. Having
+            found the culprits, Amantius hanged some, beheaded some, mutilated some, and fined
+            others. So great fear prevailed in all the eastern parts. 
+            
+            
+            
+            
+         <ab type="source" source="#bib59-2"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        <note xml:lang="en" type="translation">Rev.
+               Mango, Scott, and Greatrex 1997</note>
+        <note xml:lang="en" type="corrigenda">Minor corr. (toponymy)</note>
+      </ab>
          <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib59-1">
@@ -311,7 +336,11 @@
           <citedRange unit="p">337-338</citedRange>
         </bibl>
       </listBibl>
-      <note type="related-texts">
+      
+      
+      
+      
+    <note type="related-texts">
         <p>Chronicle of Zuqnin 2.863</p>
         <p>Constantine Porpyhrogenitus, Plots 173.13-29</p>
         <p>John Malalas, Chronography 487.10-488.14</p>

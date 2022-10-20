@@ -249,19 +249,19 @@
         <p/>
       </abstract>
       <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:latinLit:phi0978.phi001" type="uniform" level="m">Natural History</title>
-        <ref n="a" target="#bib43-1">5.13</ref> written by <persName ref="http://viaf.org/viaf/100219162" role="author">Pliny, the Elder</persName> in <origDate period="#nabateanKingdom #earlyRoman" when="0077">77 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</creation>
+        <ref target="#bib43-1">5.14.68-69</ref> written by <persName ref="http://viaf.org/viaf/100219162" role="author">Pliny the Elder</persName> in <origDate period="#nabateanKingdom #earlyRoman" when="0077">0070 0077</origDate>. This work was
+        likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</creation>
       <langUsage>
         <language ident="la">Latin</language>
       </langUsage>
       <textClass>
-        <classCode scheme="https://distributed-text-services.github.io/specifications">
-          <idno xml:base="http://data.perseus.org/citations/" type="CTS-URN">urn:cts:latinLit:phi0978.phi001:5.13</idno>
-        </classCode>
-        <catRef scheme="#CM-Testimonia-Type" target=""/>
-        <catRef scheme="#CM-NEAEH" target="#"/>
+        <classCode scheme="https://distributed-text-services.github.io/specifications"/>
+        <catRef scheme="#CM-Testimonia-Type" target="#direct"/>
+        <catRef scheme="#CM-NEAEH" target="#earlyRoman"/>
       </textClass>
     </profileDesc>
     <revisionDesc status="published">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
       <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-03-30-04:00">CHANGED: Update bibl elements with full citation information from Syriaca.org entry.</change>
       <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-03-30-04:00">CHANGED: Update bibl elements with full citation information from Syriaca.org entry.</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#wpotter" when="2020-03-09-05:00">ADDED: testimonium ID, URNs, URLs to edition and translation, and Bibl URIs</change>
@@ -273,63 +273,131 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/43</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract43-1"><quote><placeName xml:lang="la">Stratonis Turris</placeName></quote>, <quote><placeName xml:lang="la">Caesarea</placeName></quote>, <quote><placeName xml:lang="la">colonia Prima Flavia</placeName></quote>, <quote><placeName xml:lang="en">Tower of Strato</placeName></quote>, <quote><placeName xml:lang="en">Cæsarea</placeName></quote>, and <quote><placeName xml:lang="en">Colony of Prima Flavia</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/100219162" role="author">Pliny, the Elder</persName>, <title xml:lang="en" ref="urn:cts:latinLit:phi0978.phi001" type="uniform" level="m">Natural History</title> <ref n="a" target="#bib43-1">5.13</ref>. This passage was written ca. <origDate period="#nabateanKingdom #earlyRoman" when="0077">77 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract43-1"><quote><placeName>Stratonis Turris</placeName></quote>, <quote><placeName>Caesarea</placeName></quote>, and <quote><placeName>Strato’s Tower</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/100219162" role="author">Pliny the Elder</persName>, <title xml:lang="en" ref="urn:cts:latinLit:phi0978.phi001" type="uniform" level="m">Natural History</title> <ref target="#bib43-1">5.14.68-69</ref>. This passage was written ca. <origDate period="#nabateanKingdom #earlyRoman" when="0077">0070 0077</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+      <desc type="context">Gaius Plinius Secundus, or Pliny the Elder, from a family of the
+        equestian class in northern Italy, was a luminary in the fields of natural history and
+        philosophy. Later in life, as a close associate of Vespasian, he served several
+        governorships in the western provinces. Around the time of his last posts in Spain and
+        northern Europe and his return to living in Rome, he finished the research and writing of
+        his renowned encyclopedia of the world in 37 books. The first part, including this passage,
+        was published in 77 C.E. In his long discourse on the physical geography of the known world,
+        Pliny surveys the eastern Mediterranean seaboard from the eastern Nile Delta to Phoenicia
+        and Samaria.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote43-1">
-        <anchor xml:id="testimonia-43.la.1" corresp="#testimonia-43.en.1"/>
-        lope Phoenicum, antiquior terrarum inundatione, ut ferunt, insidet collem, praeiacente saxo, in quo vinculorum Andromedae vestigia ostendit. colitur illic fabulosa Ceto. inde Apollonia, <placeName xml:lang="la">Stratonis Turris</placeName>, eadem <placeName xml:lang="la">Caesarea</placeName> ab Herode rege condita, nunc <placeName xml:lang="la">colonia Prima Flavia</placeName> a Vespasiano Imperatore deducta, finis Palaestines, CLXXXVIIII p. a confinio Arabiae. dein Phoenice; intus autem Samariae oppida Neapolis, quod antea Mamortha dicebatur, Sebaste in monte, et altiore Gamala.<ab type="source" source="#bib43-1"/><idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:latinLit:phi0978.phi001.perseus-lat1:5.13</idno><ref target="http://data.perseus.org/citations/urn:cts:latinLit:phi0978.phi001.perseus-lat1:5.13"/></ab>
+        <anchor xml:id="testimonia-43.la.1" corresp="#testimonia-43.en.1"/>(68) A Pelusio Chabriae
+        castra, Casius mons, delubrum Iovis Casii, tumulus Magni Pompei. Ostracine Arabia finitur, a
+        Pelusio LXV p. mox Idumaea incipit et Palaestina ab emersu Sirbonis lacus, quem quidam CL
+        circuitu tradidere. Herodotus Casio monti adplicuit, nunc est plaus modica. oppida
+        Rhinocolura et intus Rhaphaea, Gaza et intus Anthedon, mons Argaris. regio per oram Samaria;
+        oppidum Ascalo liberum, Azotos, Iamneae duae, altera intus. (69) Iope Phoenicum, antiquior
+        terrarum inundatione, ut ferunt, insidet collem, praeiacente saxo, in quo vinculorum
+        Andromedae vestigia ostendit. colitur illic fabulosa Ceto. inde Apollonia,
+          <placeName>Stratonis Turris</placeName>, eadem <placeName>Caesarea</placeName> ab Herode
+        rege condita, nunc colonia Prima Flavia a Vespasiano Imperatore deducta, finis Palaestines,
+        CLXXXVIIII p. a confinio Arabiae. dein Phoenice; intus autem Samariae oppida Neapolis, quod
+        antea Mamortha dicebatur, Sebaste in monte, et altiore Gamala.
+        
+        
+        
+        
+      <ab type="source" source="#bib43-1"/>
+        <idno type="CTS-URN" xml:base="http://data.perseus.org/citations/"/>
+        <ref/>
+        <note xml:lang="en" type="textual">Ed.
+          Mayhoff 1906</note>
+      </ab>
       <ab type="translation" xml:lang="en" xml:id="quote43-2">
-        <anchor xml:id="testimonia-43.en.1" corresp="#testimonia-43.la.1"/>
-        Joppe, a city of the Phœnicians, which existed, it is said, before the deluge of the earth. It is situate on the slope of a hill, and in front of it lies a rock, upon which they point out the vestiges of the chains by which Andromeda was bound. Here the fabulous goddess Ceto is worshipped. Next to this place comes Apollonia, and then the <placeName xml:lang="en">Tower of Strato</placeName>, otherwise <placeName xml:lang="en">Cæsarea</placeName>, built by King Herod, but now the <placeName xml:lang="en">Colony of Prima Flavia</placeName>, established by the Emperor Vespasianus: this place is the frontier town of Palæstina, at a distance of 188 miles from the confines of Arabia; after which comes Phœnice. In the interior of Samaria are the towns of Neapolis, formerly called Mamortha, Sebaste, situate on a mountain, and, on a still more lofty one, Gamala.<ab type="source" source="#bib43-2"/><idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:latinLit:phi0978.phi001.perseus-eng1:5.13</idno><ref target="http://data.perseus.org/citations/urn:cts:latinLit:phi0978.phi001.perseus-eng1:5.13"/></ab>
+        <anchor xml:id="testimonia-43.en.1" corresp="#testimonia-43.la.1"/> (68) After Pelusium
+        comes the Camp of Chabrias, Mount Casius, the shrine of Jupiter of Casius, and the tumulus
+        of Pompey the Great. Ostrakine marks the border of Arabia, 65 miles from Pelusium. Then
+        begins Idumaea, and Palestine from where Lake Sirbon comes into view. Some record that this
+        lake is 150 miles in circumference; Herodotus put it near Mount Casius; now it is an
+        inconsiderable marsh. There are the towns Rhinocolura and Rhaphea inland, Gaza and Anthedon
+        inland, and Mount Argaris. Then along the coast is the region Samaria, the free town Ascalo,
+        Azotos, two called Iamnea, one inland. (69) Iope of the Phoenicians, older than the flood of
+        the world, they say, is located on a hill with a projecting rock where traces of Andromeda’s
+        chains can be seen. There the mythic goddess Ceto is worshipped. Next the Apollonia, and
+          <placeName>Strato’s Tower</placeName>, the same place as <placeName>Caesarea</placeName>,
+        founded by King Herod, now the colony Prima Flavia founded by the emperor Vespasian. The
+        border of Palestine is 189 miles from bordering Arabia. Then Phoenice and inland Samaria;
+        the towns are Neapolis, previously called Mamortha, Sebaste on a mountain, and higher up
+          Gamala.
+        
+        
+        
+        
+      <ab type="source" source="#bib43-2"/>
+        <idno type="CTS-URN" xml:base="http://data.perseus.org/citations/"/>
+        <ref/>
+        <note xml:lang="en" type="translation">Trans. J. L. Rife with ref. to Rackham 1942</note>
+      </ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib43-1">
-          <ptr target="https://caesarea-maritima.org/bibl/KUWIIZF4"/>
-          <citedRange unit="section">5.13</citedRange>
-        <title level="m">Naturalis Historia: Machine Readable Text</title>
-          <author>
-            <name>Pliny the Elder</name>
-          </author>
-          <editor>
-            <forename>Karl Friedrich Theodor</forename>
-            <surname>Mayhoff</surname>
-          </editor>
+          <ptr target="https://caesarea-maritima.org/bibl/GUQ5PL3U"/>
+          <citedRange unit="section">5.14.68-69</citedRange>
         </bibl>
         <bibl xml:id="bib43-2">
-          <ptr target="https://caesarea-maritima.org/bibl/8LX6IWJ2"/>
-          <citedRange unit="section">5.13</citedRange>
-        <title level="m">The Natural History: Machine Readable Text</title>
-          <author>
-            <name>Pliny the Elder</name>
-          </author>
+          <ptr target="https://caesarea-maritima.org/bibl/N6F9JSIJ"/>
         </bibl>
       </listBibl>
       <listBibl>
         <head>Additional Bibliography</head>
         <bibl>
-          <ptr target="https://caesarea-maritima.org/bibl/GUQ5PL3U"/>
-          <citedRange unit="section">5.13</citedRange>
-        <title level="m">Naturalis historia</title>
-          <author>
-            <name>Pliny the Elder</name>
-          </author>
-          <editor>
-            <forename>Karl</forename>
-            <surname>Mayhoff</surname>
-          </editor>
-        </bibl>
-        <bibl>
-          <ptr target="https://caesarea-maritima.org/bibl/SMRTTY44"/>
-          <citedRange unit="section">5.13</citedRange>
-        <title level="m">The Natural history of Pliny. Tr., with copious notes and illustrations, by the late John Bostock and H.T. Riley</title>
-          <author>
-            <name>Pliny the Elder</name>
-          </author>
+          <ptr target="https://caesarea-maritima.org/bibl/KUWIIZF4"/>
+          <citedRange unit="section">5.14.68-69</citedRange>
         </bibl>
       </listBibl>
+    
+      
+      
+      
     <note type="related-texts"/>
-      <note type="geography"/>
-      <note type="prosopography"/>
-      <note type="themes"/>
+      <note type="geography">
+        <p>Gamala</p>
+        <p>Anthedon</p>
+        <p>Apollonia</p>
+        <p>Arabia</p>
+        <p>Argaris, Mount</p>
+        <p>Ascalon</p>
+        <p>Azotus (Azotos, Ashdod)</p>
+        <p>Casius, Mount (al-Kas)</p>
+        <p>Gaza</p>
+        <p>Iamnia</p>
+        <p>Idumaea</p>
+        <p>Iope (Ioppe, Joppa, Jaffa)</p>
+        <p>Neapolis (Mamortha)</p>
+        <p>Ostrakine</p>
+        <p>Palestine</p>
+        <p>Pelusium</p>
+        <p>Phoenice</p>
+        <p>Rhaphea</p>
+        <p>Rhinocolura</p>
+        <p>Samaria</p>
+        <p>Samaria Sebaste</p>
+        <p>Sirbon, Lake</p>
+      </note>
+      <note type="prosopography">
+        <p>Andromeda</p>
+        <p>Ceto</p>
+        <p>Chabrias</p>
+        <p>Herod I</p>
+        <p>Jupiter</p>
+        <p>Phoenicians</p>
+        <p>Pompey the Great</p>
+        <p>Vespasian, Emperor</p>
+      </note>
+      <note type="themes">
+        <p>Death and Burial</p>
+        <p>Classical History</p>
+        <p>Geography</p>
+        <p>Government and Law</p>
+        <p>Herodian Dynasty</p>
+        <p>Natural Environment</p>
+        <p>Paganism</p>
+        <p>Roman History</p>
+        <p>Travel</p>
+      </note>
     </body>
   </text>
 </TEI>

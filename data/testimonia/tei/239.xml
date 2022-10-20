@@ -246,7 +246,7 @@
         <p/>
       </abstract>
       <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Secrets for Those Faithful to the
-               Cross</title> <ref n="h" target="#bib239-1">3.7.1a</ref> written by <persName role="author" ref="http://viaf.org/viaf/1018158675954427500005">Marino Sanudo
+               Cross</title> <ref target="#bib239-1">3.7.1a</ref> written by <persName role="author" ref="http://viaf.org/viaf/1018158675954427500005">Marino Sanudo
                the Elder</persName> in <origDate notBefore="1306" notAfter="1321" period="#lateIslamic">1306-1321 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/560221">Aegean Greece</origPlace>.</creation>
       <langUsage>
         <language ident="la">Latin</language>
@@ -260,6 +260,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc status="draft">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
     </revisionDesc>
   </teiHeader>
@@ -270,19 +271,20 @@
       </ab>
       <desc type="abstract" xml:id="abstract239-1">and <quote><placeName>Caesareae</placeName></quote> is directly attested at <persName role="author" ref="http://viaf.org/viaf/1018158675954427500005">Marino Sanudo
                the Elder</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Secrets for Those Faithful to the
-               Cross</title> <ref n="h" target="#bib239-1">3.7.1a</ref>. This passage was written ca. <origDate notBefore="1306" notAfter="1321" period="#lateIslamic">1306-1321 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/560221">Aegean Greece</origPlace>.</desc>
-      <desc type="context">Marino Sanudo the Elser of Torcello, from a wealthy and powerful
-            Venetian family, was a statesman and geographer who spent much of his career from the
-            late 13th century until his death in 1338 living and travelling abroad. He reached the
-            Peloponnese and Aegean islands, Cyprus and Cilicia, Constantinople, the Levant, and
-            Egypt, but also western and northern Europe. A learned and eloquent advocate for a new
-            crusade, he wrote the voluminous Secrets for Those Faithful to the Cross (Secreta
-            fidelium Crucis), a strategic manual full of economic, military, and geographic detail
-            as well as maps, and presented different versions of it to popes Clement V (in 1307) and
-            John XXII (in 1321). This passage describes the organization of rule over the Kingdom of
-            Jerusalem.</desc>
+               Cross</title> <ref target="#bib239-1">3.7.1a</ref>. This passage was written ca. <origDate notBefore="1306" notAfter="1321" period="#lateIslamic">1306-1321 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/560221">Aegean Greece</origPlace>.</desc>
+      <desc type="context">Marino Sanudo the Elser of Torcello, from a wealthy and powerful Venetian
+        family, was a statesman and geographer who spent much of his career from the late 13th
+        century until his death in 1338 living and travelling abroad. He reached the Peloponnese and
+        Aegean islands, Cyprus and Cilicia, Constantinople, the Levant, and Egypt, but also western
+        and northern Europe. A learned and eloquent advocate for a new crusade, he wrote the
+        voluminous <title>Secrets for Those Faithful to the Cross</title> (<title>Secreta fidelium
+          Crucis</title>), a strategic manual full of economic, military, and geographic detail as
+        well as maps, and presented different versions of it to popes Clement V (in 1307) and John
+        XXII (in 1321). This passage describes the organization of rule over the Kingdom of
+        Jerusalem.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote239-1">
-        <anchor xml:id="testimonia-239.la.1" corresp="#testimonia-239.en.1"/>Ierosolymitarum regum explicata gloria de regni baronibus persequamur.
+        <anchor xml:id="testimonia-239.la.1" corresp="#testimonia-239.en.1"/>
+        Ierosolymitarum regum explicata gloria de regni baronibus persequamur.
             Pro ipsius enim regni tutela, inter principes et barones, ut assolet, est divisum, qui
             terram sub rege custodirent ac defenderent, retenta regi parte digniori ac meliori:
             civitate scilicet sacra, Ierusalem, Neapoli, Ptolomayda, et Tyro, cum quibusdam oppidis
@@ -291,9 +293,20 @@
             sacramento, cum certo militum numero, regio servitio obligati fuerunt: comes videlicet
             Tripolitanus; dominus Beriti; dominus Sydonis; dominus Cayphae; dominus <placeName>Caesareae</placeName>; princeps Galileae, qui et dominus Tyberiadis; comes
             Iopen et Ascalonae; dominus Montis Regalis et totius terrae trans Iordanem; dominus
-            Arsur; et dominus Ibelyn, cum quibusdam aliis; sed hii aliis praeminebant.<ab type="source" source="#bib239-1"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="textual">Ed. Bongars 1611</note><note xml:lang="en" type="corrigenda">Minor corr. J. L. Rife</note></ab>
+            Arsur; et dominus Ibelyn, cum quibusdam aliis; sed hii aliis praeminebant.
+        
+        
+        
+        
+      <ab type="source" source="#bib239-1"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        <note xml:lang="en" type="textual">Ed. Bongars 1611</note>
+        <note xml:lang="en" type="corrigenda">Minor corr. J. L. Rife</note>
+      </ab>
       <ab type="translation" xml:lang="en" xml:id="quote239-2">
-        <anchor xml:id="testimonia-239.en.1" corresp="#testimonia-239.la.1"/>Let us go over the clear glory of the Kings of Jerusalem from the
+        <anchor xml:id="testimonia-239.en.1" corresp="#testimonia-239.la.1"/>
+        Let us go over the clear glory of the Kings of Jerusalem from the
             point of view of the barons of the kingdom. For the safety of the kingdom, as was
             typical, it was divided between princes and barons who guarded and defended the land
             under the King. The more important and better part was reserved for the King, namely,
@@ -305,7 +318,16 @@
             Lord of Caesarea, the Prince of Galilee, who was also the Lord of Tiberias, the Count of
             Iope and Ascalon, the Lord of Mount Royal and of all the land across the Jordan, the
             Lord of Arsur, and the Lord of Ibelyn with various others; but these were more important
-            than the others.<ab type="source" source="#bib239-2"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="translation">Adapted from Lock 2011</note></ab>
+            than the others.
+        
+        
+        
+        
+      <ab type="source" source="#bib239-2"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        <note xml:lang="en" type="translation">Adapted from Lock 2011</note>
+      </ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib239-1">
@@ -318,6 +340,10 @@
           <citedRange unit="p">274</citedRange>
         </bibl>
       </listBibl>
+    
+      
+      
+      
     <note type="related-texts"/>
       <note type="geography">
         <p>Acre</p>

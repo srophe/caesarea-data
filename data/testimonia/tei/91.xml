@@ -245,7 +245,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Theophany</title> <ref n="a" target="#bib91-1">fr. 6</ref> written by <persName role="author" ref=" http://viaf.org/viaf/185222663">Eusebius of
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Theophany</title> <ref target="#bib91-1">fr. 6</ref> written by <persName role="author" ref=" http://viaf.org/viaf/185222663">Eusebius of
                Caesarea</persName> in <origDate notBefore="0335" notAfter="0337" period="#byzantine">335-337 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</creation>
          <langUsage>
             <language ident="grc">Ancient Greek</language>
@@ -259,6 +259,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc status="draft">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
          <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
       </revisionDesc>
    </teiHeader>
@@ -268,54 +269,76 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/91</idno>
          </ab>
          <desc type="abstract" xml:id="abstract91-1"><quote><placeName>Καισάρειαν τῆς Παλαιστίνης</placeName></quote>, and <quote><placeName>Caesarea Palestinae</placeName></quote> are directly attested at <persName role="author" ref=" http://viaf.org/viaf/185222663">Eusebius of
-               Caesarea</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Theophany</title> <ref n="a" target="#bib91-1">fr. 6</ref>. This passage was written ca. <origDate notBefore="0335" notAfter="0337" period="#byzantine">335-337 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
+               Caesarea</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Theophany</title> <ref target="#bib91-1">fr. 6</ref>. This passage was written ca. <origDate notBefore="0335" notAfter="0337" period="#byzantine">335-337 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
          <desc type="context">Among his many writings, Eusebius produced a wide-ranging treatise on
             theophany, or the divine manifestation, of Jesus Christ late in his career. The work
             survives in two forms: fragmentary passages from the original cited by Nicetas of
             Heracleia, an erudite deacon in Constantinople during the 11th century, and a Syriac
-            translation by one Ja’qob in Edessa in 411 C.E. This passage, found in the earliest
+            translation by Ja’qob in Edessa in 411 C.E. This passage, found in the earliest
             manuscript (Codex Vaticanus 1611 folio 83v, 12th century) and confirmed by the Syriac
             translation (4.6 ed. Gressman and Laminski), is a commentary on the episode of Christ
             and the disciples fishing on the Sea of Galilee. Eusebius cites the prosperity of the
             Churchs of Caesarea, Antioch, and Rome as proof of St. Peter’s success as a fisher of
             men.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote91-1">
-        <anchor xml:id="testimonia-91.grc.1" corresp="#testimonia-91.en.1"/>ὁ γοῦν ἀμφιβολεὺς ἐκεῖνος, ὁ ἁλιεύς, ὁ Σύρος ἀντὶ τῆς τῶν ἰχθύων θήρας
-            ὅσας ἀνθρώπων ἐσαγήνευσε μυριάδας λόγων ἀπορρήτων δικτύοις θεικῇ δυνάμει πλακεῖσιν, οὐκ
-            ἕστιν ἀριθμῷ περιλαβεῖν δυνατόν. ὄψις δ ἀδήλων τὰ φαινόμενα. ἃ γὰρ ὁ μακρὸς αἰὼν τοῦ
-            βίου πρὸ τῆς τοῦ σωτῆρος θεοφανείας οὐκ ἤνεγκεν, ἃ μήτε Μώσης ὁ τῶν Ἑβραίων νομοθέτης
-            μήτε οἱ μετὰ Μωσέα τοῦ θεοῦ προφῆται μήτε μυρίοι ἄλλοι πάλαι τὴν ἕνθεον διδασκαλίαν τοῖς
-            ἀνθρώποις ἀναφωνήσαντες θηρευταὶ πολλὰ καμόντες διὰ πάσης νυκτὸς τῆς πρὸ τῆς ἐπιφανείας
-            αὐτοῦ καταπράξασθαι μὴ δεδύνηνται, ταῦτα ὁ Γαλιλαῖος, ὁ πένης, ὁ βάρβαρος τὴν φωνήν,
-            αὐτὸς ἐκεῖνος ὁ Πέτρος κατεπράξατο. δεῖγμα δὲ τῶν τότε ἐπιτελεσθέντων πρὸς Πέτρου αἱ εἰς
-            δεῦρο διαλάμπουσαι ἐκκλησίαι πολὺ μᾶλλον τῶν τότε σκαφῶν λογικῶν ἰχθύων πληθύουσαι, οἵα
-            ἡ κατὰ <placeName>Καισάρειαν τῆς Παλαιστίνης</placeName> τυγχάνει, οἵα ἡ ἐπὶ Ἀντιοχείας
-            τῆς κατὰ τὴν Συρίαν, οἵα ἡ ἐπ’ αὐτῆς τῆς Ῥωμαίων πόλεως. τάσδε γὰρ αὐτὸς ὁ Πέτρος τὰς
+        <anchor xml:id="testimonia-91.grc.1" corresp="#testimonia-91.en.1"/>
+            ὁ γοῦν ἀμφιβολεὺς
+            ἐκεῖνος, ὁ ἁλιεύς, ὁ Σύρος ἀντὶ τῆς τῶν ἰχθύων θήρας ὅσας ἀνθρώπων ἐσαγήνευσε μυριάδας
+            λόγων ἀπορρήτων δικτύοις θεικῇ δυνάμει πλακεῖσιν, οὐκ ἕστιν ἀριθμῷ περιλαβεῖν δυνατόν.
+            ὄψις δ ἀδήλων τὰ φαινόμενα. ἃ γὰρ ὁ μακρὸς αἰὼν τοῦ βίου πρὸ τῆς τοῦ σωτῆρος θεοφανείας
+            οὐκ ἤνεγκεν, ἃ μήτε Μώσης ὁ τῶν Ἑβραίων νομοθέτης μήτε οἱ μετὰ Μωσέα τοῦ θεοῦ προφῆται
+            μήτε μυρίοι ἄλλοι πάλαι τὴν ἕνθεον διδασκαλίαν τοῖς ἀνθρώποις ἀναφωνήσαντες θηρευταὶ
+            πολλὰ καμόντες διὰ πάσης νυκτὸς τῆς πρὸ τῆς ἐπιφανείας αὐτοῦ καταπράξασθαι μὴ
+            δεδύνηνται, ταῦτα ὁ Γαλιλαῖος, ὁ πένης, ὁ βάρβαρος τὴν φωνήν, αὐτὸς ἐκεῖνος ὁ Πέτρος
+            κατεπράξατο. δεῖγμα δὲ τῶν τότε ἐπιτελεσθέντων πρὸς Πέτρου αἱ εἰς δεῦρο διαλάμπουσαι
+            ἐκκλησίαι πολὺ μᾶλλον τῶν τότε σκαφῶν λογικῶν ἰχθύων πληθύουσαι, οἵα ἡ κατὰ
+               <placeName>Καισάρειαν τῆς Παλαιστίνης</placeName> τυγχάνει, οἵα ἡ ἐπὶ Ἀντιοχείας τῆς
+            κατὰ τὴν Συρίαν, οἵα ἡ ἐπ’ αὐτῆς τῆς Ῥωμαίων πόλεως. τάσδε γὰρ αὐτὸς ὁ Πέτρος τὰς
             ἐκκλησίας καὶ τὰς ἀμφ’ αὐτὰς ἁπάσας συστησάμενος μνημονεύεται, καὶ τὰς ἐπ’Αἰγύπτου κατ’
             αὐτὴν τὴν Ἀλεξάνδρειαν πάλιν αὐτός, οὐ μὴν δι’ αὑτοῦ, διὰ δὲ Μάρκου τοῦ μαθητευθέντος
             αὑτῷ κατεστήσατο. αὐτὸς μὲν γὰρ ἀμφὶ τὴν Ἰταλίαν καὶ πάντα τὰ ἀμφὶ ταύτην ἔθνη
             ἐσχόλαζεν, τὸν δ’ αὐτοῦ φοιτητὴν Μάρκον τῶν κατ’ Αἴγυπτον διδάσκαλον καὶ σαγηνευτὴν
-            ἀποδέδειχεν.<ab type="source" source="#bib91-1"/><idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg010.1st1K-grc1</idno><ref target="https://scaife.perseus.org/reader/urn:cts:greekLit:tlg2018.tlg010.1st1K-grc1:6"/><note xml:lang="en" type="textual">Ed. Gressmann 1904</note><note xml:lang="en" type="textual">Checked
-               against Gressmand and Laminski 1992</note></ab>
+            ἀποδέδειχεν. 
+            
+            
+            
+            
+            
+         <ab type="source" source="#bib91-1"/>
+        <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/"/>
+        <ref target="https://scaife.perseus.org/reader/urn:cts:greekLit:tlg2018.tlg010.1st1K-grc1:6"/>
+        <note xml:lang="en" type="textual">Ed. Gressmann 1904 with ref. to Gressmand and Laminski
+               1992</note>
+      </ab>
          <ab type="translation" xml:lang="en" xml:id="quote91-2">
-        <anchor xml:id="testimonia-91.en.1" corresp="#testimonia-91.grc.1"/>In any case, it is not possible to comprehend in number how many
-            thousands of men instead of fish that netcaster, the fisherman, the Syrian (sc. Simon
-            Peter) caught in nets of mysterious Words woven by divine power. The visual perception
-            of something hidden is something visible. Therefore, that which the long life of the
-            world before the appearance of our Savior could not bring about; that which neither
-            Moses the lawgiver of the Hebrews, nor the Prophets of God after Moses, nor yet the
-            thousands of others who from ancient times proclaimed the inspired teaching to humanity,
-            fishermen toiling hard throughout the entire night before His manifestation, were able
-            to achieve: this Galilean, this pauper, this barbaric speaker, this Peter did himself
-            achieve it. The proof of Peter’s accomplishments are the Churches, shining bright up to
-            now, filled much more than boats with fish of the Words, like the one at
-               <placeName>Caesarea Palestinae</placeName>, the one at Antioch in Syria, the one at
-            the city of the Romans. For Peter himself organized and commemorated these, and all
-            those around them. And again he established the Churches in Egypt, in Alexandria itself,
-            not on his own but through Mark, his disciple. For while he pursued his devotion around
-            Italy and all neighboring nations, he appointed his student Mark to be teacher and
-            netcaster in Egypt.<ab type="source" source="#bib91-2"/><idno type="CTS-URN"/><ref target="http://www.tertullian.org/fathers/eusebius_theophania_05book4.htm"/><note xml:lang="en" type="translation">Trans. J. L. Rife with ref. to Lee
-               1843</note></ab>
+        <anchor xml:id="testimonia-91.en.1" corresp="#testimonia-91.grc.1"/>
+            In any case, it is
+            not possible to comprehend in number how many thousands of men instead of fish that
+            netcaster, the fisherman, the Syrian (sc. Simon Peter), caught in nets of mysterious
+            Words woven by divine power. The visual perception of something hidden is something
+            visible. Therefore, that which the long life of the world before the appearance of our
+            Savior could not bring about; that which neither Moses the lawgiver of the Hebrews, nor
+            the Prophets of God after Moses, nor yet the thousands of others who from ancient times
+            proclaimed the inspired teaching to humanity, fishermen toiling hard throughout the
+            entire night before His manifestation, were able to achieve: this Galilean, this pauper,
+            this barbaric speaker, this Peter did himself achieve it. The proof of Peter’s
+            accomplishments are the Churches, shining bright up to now, filled much more than boats
+            with fish of the Words, like the one at <placeName>Caesarea Palestinae</placeName>, the
+            one at Antioch in Syria, the one at the city of the Romans. For Peter himself organized
+            and commemorated these, and all those around them. And again he established the Churches
+            in Egypt, in Alexandria itself, not on his own but through Mark, his disciple. For while
+            he pursued his devotion around Italy and all neighboring nations, he appointed his
+            student Mark to be teacher and netcaster in Egypt.
+            
+            
+            
+            
+         <ab type="source" source="#bib91-2"/>
+        <idno type="CTS-URN"/>
+        <ref target="http://www.tertullian.org/fathers/eusebius_theophania_05book4.htm"/>
+        <note xml:lang="en" type="translation">Trans. J. L.
+               Rife with ref. to Lee 1843</note>
+      </ab>
          <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib91-1">
@@ -332,7 +355,11 @@
           <ptr target="https://caesarea-maritima.org/bibl/8TWF4D28"/>
         </bibl>
       </listBibl>
-      <note type="related-texts">
+      
+      
+      
+      
+    <note type="related-texts">
         <p>Eusebius, Church History 2.16</p>
         <p>John 21:1-19</p>
         <p>Luke 5:1-11</p>

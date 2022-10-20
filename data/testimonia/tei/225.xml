@@ -245,7 +245,7 @@
         <p/>
       </abstract>
       <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Exhibit of the Whole World and its
-               Peoples</title> <ref n="a" target="#bib225-1">26</ref> written by <persName role="author">Unknown</persName> in <origDate notBefore="0500" notAfter="0600" period="#byzantine">500-600 CE</origDate>. This work was likely written in <origPlace/>.</creation>
+               Peoples</title> <ref target="#bib225-1">26</ref> written by <persName role="author">Unknown</persName> in <origDate notBefore="0500" notAfter="0600" period="#byzantine">500-600 CE</origDate>. This work was likely written in <origPlace/>.</creation>
       <langUsage>
         <language ident="la">Latin</language>
       </langUsage>
@@ -258,6 +258,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc status="draft">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
     </revisionDesc>
   </teiHeader>
@@ -267,28 +268,45 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/225</idno>
       </ab>
       <desc type="abstract" xml:id="abstract225-1">and <quote><placeName>Caesarea</placeName></quote> is directly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Exhibit of the Whole World and its
-               Peoples</title> <ref n="a" target="#bib225-1">26</ref>. This passage was written ca. <origDate notBefore="0500" notAfter="0600" period="#byzantine">500-600 CE</origDate> possibly in <origPlace/>.</desc>
-      <desc type="context">Exhibit of the Whole World and its Peoples was composed by a learned
-            resident of the eastern Roman Empire during the reign of Constantius II, probably during
-            the late 350s in Syria-Phoenicia. It is a condensed geographical survey with annotations
-            on culture and trade, divided into three books on the unknown east and on the lands and
-            islands within the Imperial borders. The work survives in two Latin versions of the 6th
-            century, one (A) longer and presumably closer to the original, and the other apparently
-            an abbreviation (B). This important passage within the description of greater Syria
-            attests to a magnificent Tetrapylon at Caesarea Maritima.</desc>
+               Peoples</title> <ref target="#bib225-1">26</ref>. This passage was written ca. <origDate notBefore="0500" notAfter="0600" period="#byzantine">500-600 CE</origDate> possibly in <origPlace/>.</desc>
+      <desc type="context">
+        <title>Exhibit of the Whole World and its Peoples</title> was composed by
+        a learned resident of the eastern Roman Empire during the reign of Constantius II, probably
+        during the late 350s in Syria-Phoenicia. It is a condensed geographical survey with
+        annotations on culture and trade, divided into three books on the unknown east and on the
+        lands and islands within the Imperial borders. The work survives in two Latin versions of
+        the 6th century, one (A) longer and presumably closer to the original, and the other
+        apparently an abbreviation (B). This important passage within the description of greater
+        Syria attests to a magnificent Tetrapylon at Caesarea Maritima.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote225-1">
-        <anchor xml:id="testimonia-225.la.1" corresp="#testimonia-225.en.1"/>A) Iam etiam <placeName>Caesarea</placeName> civitas est similiter
-            deliciosior et abundans omnibus et dispositione civitatis in multa eminens. Tetrapylon
-            enim eius nominatur ubique, quod unum et novum aliquod spectaculum. B) Similiter et <placeName>Caesarea</placeName>, civitas deliciosissima, cuius tertrapilum nominatur
-            ubique, quod unum et novum spectaculum praebet.<ab type="source" source="#bib225-1"/><idno type="CTS-URN"/><ref/><note xml:lang="en" type="textual">Ed. Rougé
-               1966</note></ab>
+        <anchor xml:id="testimonia-225.la.1" corresp="#testimonia-225.en.1"/>
+        A) Iam etiam
+          <placeName>Caesarea</placeName> civitas est similiter deliciosior et abundans omnibus et
+        dispositione civitatis in multa eminens. Tetrapylon enim eius nominatur ubique, quod unum et
+        novum aliquod spectaculum.<lb/>
+        <lb/>B) Similiter et <placeName>Caesarea</placeName>, civitas
+        deliciosissima, cuius tertrapilum nominatur ubique, quod unum et novum spectaculum
+          praebet.
+        
+        
+        
+        
+      <ab type="source" source="#bib225-1"/>
+        <idno type="CTS-URN"/>
+        <ref/>
+        <note xml:lang="en" type="textual">Ed. Rougé 1966</note>
+      </ab>
       <ab type="translation" xml:lang="en" xml:id="quote225-2">
-        <anchor xml:id="testimonia-225.en.1" corresp="#testimonia-225.la.1"/>A) Then there is <placeName>Caesarea</placeName>. It is more
-            enjoyable and more prosperous than all other (cities), and in layout exceptional in many
-            respects. For its Tetrapylon is celebrated everywhere, a new, one-of-a-kind sight. B)
-            Then <placeName>Caesarea</placeName> too is a most enjoyable city. Its Tetrapylon is
-            celebrated everywhere, a new, one-of-a-kind sight.<note xml:lang="en" type="translation">Trans. J. L.
-               Rife with reference to Rougé 1966</note>
+        <anchor xml:id="testimonia-225.en.1" corresp="#testimonia-225.la.1"/>
+        A) Then there is
+          <placeName>Caesarea</placeName>. It is more enjoyable and more prosperous than all other
+        (cities), and in layout exceptional in many respects. For its Tetrapylon is celebrated
+        everywhere, a new, one-of-a-kind sight.<lb/>
+        <lb/>B) Then <placeName>Caesarea</placeName> too is
+        a most enjoyable city. Its Tetrapylon is celebrated everywhere, a new, one-of-a-kind
+          sight.<note xml:lang="en" type="translation">Trans. J. L. Rife with reference to Rougé 1966</note>
+        
+        
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -299,6 +317,10 @@
           <citedRange unit="ch">26</citedRange>
         </bibl>
       </listBibl>
+    
+      
+      
+      
     <note type="related-texts">
         <p>Tosefta Oholot 18.13</p>
       </note>

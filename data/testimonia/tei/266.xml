@@ -244,7 +244,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref n="e" target="#bib266-1">41.30-32</ref> written by <persName role="author" ref="http://viaf.org/viaf/54944687">Theophanes the
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref target="#bib266-1">41.30-32</ref> written by <persName role="author" ref="http://viaf.org/viaf/54944687">Theophanes the
                Confessor</persName> in <origDate notBefore="0810" notAfter="0814" period="#earlyIslamic">810-814 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/511218">Cyzicus</origPlace>.</creation>
       <langUsage>
         <language ident="grc">Ancient Greek</language>
@@ -254,10 +254,11 @@
           <idno type="CTS-URN"/>
         </classCode>
         <catRef scheme="#CM-Testimonia-Type" target="#indirect"/>
-        <catRef scheme="#CM-NEAEH" target="#byzantine #earlyIslamic"/>
+        <catRef scheme="#CM-NEAEH" target="#byzantine"/>
       </textClass>
     </profileDesc>
     <revisionDesc status="draft">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
     </revisionDesc>
   </teiHeader>
@@ -267,7 +268,7 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/266</idno>
       </ab>
       <desc type="abstract" xml:id="abstract266-1">Caesarea Maritima is indirectly attested at <persName role="author" ref="http://viaf.org/viaf/54944687">Theophanes the
-               Confessor</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref n="e" target="#bib266-1">41.30-32</ref>. This passage was written ca. <origDate notBefore="0810" notAfter="0814" period="#earlyIslamic">810-814 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/511218">Cyzicus</origPlace>.</desc>
+               Confessor</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref target="#bib266-1">41.30-32</ref>. This passage was written ca. <origDate notBefore="0810" notAfter="0814" period="#earlyIslamic">810-814 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/511218">Cyzicus</origPlace>.</desc>
       <desc type="context">Theophanes, born to noble parents in Constantinople, was raised in the
             Palace under Constantine V (740-775 C.E.) He spent much of his career as a member and
             leader of monastic communities around the Sea of Marmara, before his condemnation and
@@ -278,14 +279,34 @@
             cites the installation of Cyril in the see of Jerusalem with the support of
             Arians.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote266-1">
-        <anchor xml:id="testimonia-266.grc.1" corresp="#testimonia-266.en.1"/>Τούτῳ τῷ ἔτει Μάξιμον τὸν Ἱεροσολύμων καθεῖλεν Ἀκάκιος ὁ <placeName>Καισαρείας</placeName> καὶ Πατρόφιλος ὁ Σκυθοπόλεως Ἀρειανοὶ ὄντες, καὶ
-            ἀντεισήγαγον Κύριλλον δοκοῦντες ἔχειν αὐτὸν ὁμόφρονα.<ab type="source" source="#bib266-1"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="textual">Ed. de Boor
-               1883</note></ab>
+        <anchor xml:id="testimonia-266.grc.1" corresp="#testimonia-266.en.1"/>
+        Τούτῳ τῷ ἔτει Μάξιμον τὸν Ἱεροσολύμων καθεῖλεν Ἀκάκιος ὁ <placeName>Καισαρείας</placeName> καὶ Πατρόφιλος ὁ Σκυθοπόλεως Ἀρειανοὶ ὄντες, καὶ
+            ἀντεισήγαγον Κύριλλον δοκοῦντες ἔχειν αὐτὸν ὁμόφρονα.
+        
+        
+        
+        
+      <ab type="source" source="#bib266-1"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        <note xml:lang="en" type="textual">Ed. de Boor
+               1883</note>
+      </ab>
       <ab type="translation" xml:lang="en" xml:id="quote266-2">
-        <anchor xml:id="testimonia-266.en.1" corresp="#testimonia-266.grc.1"/>In this year Acacius of <placeName>Caesarea</placeName> and
+        <anchor xml:id="testimonia-266.en.1" corresp="#testimonia-266.grc.1"/>
+        In this year Acacius of <placeName>Caesarea</placeName> and
             Patrophilos of Scythopolis, being Arians, deposed Maximus of Jerusalem and replaced him
-            with Cyril, whom they believed to be of their persuasion.<ab type="source" source="#bib266-2"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="translation">Rev.
-               Mango, Scott, and Greatrex 1997</note></ab>
+            with Cyril, whom they believed to be of their persuasion.
+        
+        
+        
+        
+      <ab type="source" source="#bib266-2"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        <note xml:lang="en" type="translation">Rev.
+               Mango, Scott, and Greatrex 1997</note>
+      </ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib266-1">
@@ -297,6 +318,10 @@
           <citedRange unit="p">70</citedRange>
         </bibl>
       </listBibl>
+    
+      
+      
+      
     <note type="related-texts">
         <p>Socrates Scholasticus, Church History 2.38</p>
         <p>Theodorus Anagnostes 100 (47.27-28)</p>

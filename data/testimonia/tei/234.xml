@@ -246,7 +246,7 @@
         <p/>
       </abstract>
       <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Secrets for Those Faithful to the
-               Cross</title> <ref n="a" target="#bib234-1">2.4.25</ref> written by <persName role="author" ref="http://viaf.org/viaf/1018158675954427500005">Marino Sanudo
+               Cross</title> <ref target="#bib234-1">2.4.25</ref> written by <persName role="author" ref="http://viaf.org/viaf/1018158675954427500005">Marino Sanudo
                the Elder</persName> in <origDate notBefore="1306" notAfter="1321" period="#lateIslamic">1306-1321 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/560221">Aegean Greece</origPlace>.</creation>
       <langUsage>
         <language ident="la">Latin</language>
@@ -256,10 +256,11 @@
           <idno type="CTS-URN"/>
         </classCode>
         <catRef scheme="#CM-Testimonia-Type" target="#direct"/>
-        <catRef scheme="#CM-NEAEH" target="#lateIslamic"/>
+        <catRef scheme="#CM-NEAEH" target="#crusader #lateIslamic"/>
       </textClass>
     </profileDesc>
     <revisionDesc status="draft">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
     </revisionDesc>
   </teiHeader>
@@ -270,7 +271,7 @@
       </ab>
       <desc type="abstract" xml:id="abstract234-1"><quote><placeName>Caesaream</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/1018158675954427500005">Marino Sanudo
                the Elder</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Secrets for Those Faithful to the
-               Cross</title> <ref n="a" target="#bib234-1">2.4.25</ref>. This passage was written ca. <origDate notBefore="1306" notAfter="1321" period="#lateIslamic">1306-1321 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/560221">Aegean Greece</origPlace>.</desc>
+               Cross</title> <ref target="#bib234-1">2.4.25</ref>. This passage was written ca. <origDate notBefore="1306" notAfter="1321" period="#lateIslamic">1306-1321 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/560221">Aegean Greece</origPlace>.</desc>
       <desc type="context">Marino Sanudo the Elder of Torcello, from a wealthy and powerful
             Venetian family, was a statesman and geographer who spent much of his career from the
             late 13th century until his death in 1338 living and travelling abroad. He reached the
@@ -282,7 +283,8 @@
             John XXII (in 1321). This passage records the landmarks and distances along the coast
             Levantine, in case such data may be useful to new crusaders.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote234-1">
-        <anchor xml:id="testimonia-234.la.1" corresp="#testimonia-234.en.1"/>Carmelum vero mons est altus et planus, supra mare et in mari tanquam
+        <anchor xml:id="testimonia-234.la.1" corresp="#testimonia-234.en.1"/>
+        Carmelum vero mons est altus et planus, supra mare et in mari tanquam
             longam insulam se ostendens. Cuius montis caput quod est supra mare versus magistrum
             respicit, in cuius summitate una est ecclesia quae Sancta Margarita vocitatur. A parte
             autem septentrioni quaedam sicca est, que per unum milliare elongatur. A monte autem
@@ -293,10 +295,21 @@
             monte autem Carmelo usque Damiata nullus mons circa maritima invenitur, sed terra
             subtilis et plana, et habet rupes albas de sabulo. Infra terram sunt montes alti per
             astariam gradiendo, qui Ierosolymitani montes apellantur; et omnes montes qui videri
-            possunt usque Carmelum duplices sunt vere.<ab type="source" source="#bib234-1"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="textual">Ed. Bongars
-               1611</note><note xml:lang="en" type="corrigenda">Minor corr. J. L. Rife</note></ab>
+            possunt usque Carmelum duplices sunt vere.
+        
+        
+        
+        
+      <ab type="source" source="#bib234-1"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        <note xml:lang="en" type="textual">Ed. Bongars
+               1611</note>
+        <note xml:lang="en" type="corrigenda">Minor corr. J. L. Rife</note>
+      </ab>
       <ab type="translation" xml:lang="en" xml:id="quote234-2">
-        <anchor xml:id="testimonia-234.en.1" corresp="#testimonia-234.la.1"/>Carmel is a high, flat mountain extending as long as an island both
+        <anchor xml:id="testimonia-234.en.1" corresp="#testimonia-234.la.1"/>
+        Carmel is a high, flat mountain extending as long as an island both
             over and into the sea. The peak of this mountain above the sea looks back toward the
             northwest, and on its summit is a church called Saint Margaret. On its north side is a
             certain reef that extends for a mile. From Mount Carmel to Pilgrims' Castle is five
@@ -306,8 +319,17 @@
             Carmel to Damiata no mountains are to be found along the coast but the land is open and
             flat, and white rocks protrude from the sand. Inland, proceeding through from the
             shoreline, are high mountains that are called the Mountains of Jerusalem, and all the
-            mountains that can be seen up to Carmel are twin peaks.<ab type="source" source="#bib234-2"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="translation">Adapted
-               from Lock 2011</note></ab>
+            mountains that can be seen up to Carmel are twin peaks.
+        
+        
+        
+        
+      <ab type="source" source="#bib234-2"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        <note xml:lang="en" type="translation">Adapted
+               from Lock 2011</note>
+      </ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib234-1">
@@ -320,6 +342,10 @@
           <citedRange unit="p">144</citedRange>
         </bibl>
       </listBibl>
+    
+      
+      
+      
     <note type="related-texts"/>
       <note type="geography">
         <p>Arsuf</p>

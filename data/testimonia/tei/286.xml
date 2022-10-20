@@ -243,7 +243,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Illustrious Men</title> <ref n="b" target="#bib286-1">5.5-21</ref> written by <persName role="author" ref="http://viaf.org/viaf/95147024">Jerome</persName> in <origDate notBefore="0392" notAfter="0393" period="#byzantine">392-393 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Illustrious Men</title> <ref target="#bib286-1">5.5-21</ref> written by <persName role="author" ref="http://viaf.org/viaf/95147024">Jerome</persName> in <origDate notBefore="0392" notAfter="0393" period="#byzantine">392-393 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</creation>
       <langUsage>
         <language ident="la">Latin</language>
       </langUsage>
@@ -252,10 +252,11 @@
           <idno type="CTS-URN"/>
         </classCode>
         <catRef scheme="#CM-Testimonia-Type" target="#indirect"/>
-        <catRef scheme="#CM-NEAEH" target="#earlyRoman #herodian #byzantine"/>
+        <catRef scheme="#CM-NEAEH" target="#earlyRoman"/>
       </textClass>
     </profileDesc>
     <revisionDesc status="draft">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
     </revisionDesc>
   </teiHeader>
@@ -264,7 +265,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/286</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract286-1">Caesarea Maritima is indirectly attested at <persName role="author" ref="http://viaf.org/viaf/95147024">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Illustrious Men</title> <ref n="b" target="#bib286-1">5.5-21</ref>. This passage was written ca. <origDate notBefore="0392" notAfter="0393" period="#byzantine">392-393 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract286-1">Caesarea Maritima is indirectly attested at <persName role="author" ref="http://viaf.org/viaf/95147024">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Illustrious Men</title> <ref target="#bib286-1">5.5-21</ref>. This passage was written ca. <origDate notBefore="0392" notAfter="0393" period="#byzantine">392-393 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</desc>
       <desc type="context">Among his many works, St. Jerome wrote a catalog of renowned thinkers
             of the Roman world during the first years after his move from Rome to Bethlehem. In
             mostly brief sketches he describes the intellectual achievements, particularly writings,
@@ -272,18 +273,39 @@
             events of his captivity under the governor Festus at Caesarea and delivery to
             Rome.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote286-1">
-        <anchor xml:id="testimonia-286.la.1" corresp="#testimonia-286.en.1"/>Et quia in Actis Apostolorum plenissime de eius conversatione scriptum
+        <anchor xml:id="testimonia-286.la.1" corresp="#testimonia-286.en.1"/>
+        Et quia in Actis Apostolorum plenissime de eius conversatione scriptum
             est, hoc tantum dicam, quod post passionem Domini vicesimo quinto anno, id est, secundo
             Neronis eo tempore quo Festus, procurator Iudeae, successit Felici, Romam vinctus
             mittitur et biennium in libera manens custodia adversum Iudeos de adventu Christi
-            cottidie disputavit.<ab type="source" source="#bib286-1"/><idno type="CTS-URN"/><ref target="https://archive.org/details/devirisinlustri00jerogoog/page/n67/mode/2up"/><note xml:lang="en" type="textual">Ed. Bernoulli 1895</note></ab>
+            cottidie disputavit.
+        
+        
+        
+        
+      <ab type="source" source="#bib286-1"/>
+        <idno type="CTS-URN"/>
+        <ref target="https://archive.org/details/devirisinlustri00jerogoog/page/n67/mode/2up"/>
+        <note xml:lang="en" type="textual">Ed. Bernoulli 1895</note>
+      </ab>
       <ab type="translation" xml:lang="en" xml:id="quote286-2">
-        <anchor xml:id="testimonia-286.en.1" corresp="#testimonia-286.la.1"/>And because there is a full account of his conduct in the Acts of
-            the Apostles, I will only say this: in the twenty-fifth year after our Lord’s Passion,
-            that is, in the second of Nero [56 C.E.], at the time when when Festus succeeded Felix
-            as governor of Judaea, (Paul) was sent to Rome in chains. Remaining there for two years
-            in open custody, he carried on daily debates against the Jews concerning the coming of
-               Christ.<ab type="source" source="#bib286-2"/><idno type="CTS-URN"/><ref/><note xml:lang="en" type="translation">Adapted from Schaff 1892 and Halton 1999</note></ab>
+        <anchor xml:id="testimonia-286.en.1" corresp="#testimonia-286.la.1"/>
+        And because there is a
+        full account of his conduct in the <title>Acts of the Apostles</title>, I will only say
+        this: in the twenty-fifth year after our Lord’s Passion, that is, in the second of Nero [56
+        C.E.], at the time when when Festus succeeded Felix as governor of Judaea, (Paul) was sent
+        to Rome in chains. Remaining there for two years in open custody, he carried on daily
+        debates against the Jews concerning the coming of Christ.
+        
+        
+        
+        
+      <ab type="source" source="#bib286-2"/>
+        <idno type="CTS-URN"/>
+        <ref/>
+        <note xml:lang="en" type="translation">Adapted
+          from Schaff 1892 and Halton 1999</note>
+      </ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib286-1">
@@ -303,6 +325,10 @@
           <ptr target="https://caesarea-maritima.org/bibl/UFDQ7288"/>
         </bibl>
       </listBibl>
+    
+      
+      
+      
     <note type="related-texts">
         <p>Acts 24:27</p>
         <p>Acts 25:13-27:1</p>

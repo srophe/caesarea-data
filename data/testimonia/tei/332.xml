@@ -244,7 +244,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Homily on 1 Samuel</title> <ref n="a" target="#bib332-1">1.1</ref> written by <persName role="author">Origen</persName> in <origDate notBefore="0243" notAfter="0253" period="#lateRoman">243-253 CE</origDate>. This work was likely written in <origPlace>Caesarea</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Homily on 1 Samuel</title> <ref target="#bib332-1">1.1</ref> written by <persName role="author">Origen</persName> in <origDate notBefore="0243" notAfter="0253" period="#lateRoman">243-253 CE</origDate>. This work was likely written in <origPlace>Caesarea</origPlace>.</creation>
          <langUsage>
             <language ident="grc">Ancient Greek</language>
          </langUsage>
@@ -257,6 +257,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc status="draft">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
          <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
       </revisionDesc>
    </teiHeader>
@@ -265,20 +266,21 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/332</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract332-1">Caesarea Maritima is indirectly attested at <persName role="author">Origen</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Homily on 1 Samuel</title> <ref n="a" target="#bib332-1">1.1</ref>. This passage was written ca. <origDate notBefore="0243" notAfter="0253" period="#lateRoman">243-253 CE</origDate> possibly in <origPlace>Caesarea</origPlace>.</desc>
+         <desc type="abstract" xml:id="abstract332-1">Caesarea Maritima is indirectly attested at <persName role="author">Origen</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Homily on 1 Samuel</title> <ref target="#bib332-1">1.1</ref>. This passage was written ca. <origDate notBefore="0243" notAfter="0253" period="#lateRoman">243-253 CE</origDate> possibly in <origPlace>Caesarea</origPlace>.</desc>
          <desc type="context">Origen was an intellectual luminary and influential theologian of the
             Church during the first half to middle of the 3rd century. From his voluminous output of
             exegeses, treatises, and letters spanning from his early career in Alexandria to his
             long leadership of his new Christian school and library at Caesarea, few works survive,
             in part due to the divisive controversy over his thought during the late 4th and early
             5th centuries. His homilies were chiefly delivered during the later part of his career
-            at Caesarea and transcribed thereafter, including two on I Samuel. This passage
-            illustrates the practice of extempore preaching. Origen introduces four discrete
+            at Caesarea and transcribed thereafter, including two on <title>I Samuel</title>. This
+            passage illustrates the practice of extempore preaching. Origen introduces four discrete
             episodes from the early life of David, and the presiding bishop—most likely Theoctistus
             in Caesarea but possibly Alexander in Jerusalem—choses one for the scholar’s
             elaboration.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote332-1">
-        <anchor xml:id="testimonia-332.grc.1" corresp="#testimonia-332.en.1"/>Τὰ ἀναγνωσθέντα πλείονά ἐστιν, καὶ ἐπεὶ χρὴ ἐπιτεμνόμενον εἰπεῖν, δ’
+        <anchor xml:id="testimonia-332.grc.1" corresp="#testimonia-332.en.1"/>
+        Τὰ ἀναγνωσθέντα πλείονά ἐστιν, καὶ ἐπεὶ χρὴ ἐπιτεμνόμενον εἰπεῖν, δ’
             εἰσὶν περικοπαί. ἀνεγνώσθη τὰ ἑξῆς τῶν περὶ Νάβαλ τὸν Καρμήλιον. εἶτα μετὰ τοῦτο ἡ
             ἱστορία ἡ περὶ τοῦ κεκρύφθαι τὸν Δαβὶδ παρὰ τοῖς Ζιφαίοις καὶ διαβεβλῆσθαι αὐτὸν ὑπ’
             αὐτῶν, ἐληλυθέναι δὲ τὸν Σαοὺλ βουλόμενον λαβεῖν τὸν Δαβὶδ καὶ ἐληλυθότα ἐπιτηρῆσαι
@@ -292,24 +294,44 @@
             καὶ ὁ Σαμουὴλ προφητεύει τῷ Σαούλ. τεσσάρων οὐσῶν περικοπῶν, ὧν ἑκάστη πράγματα οὐκ
             ὀλίγα ἔχει, ἀλλὰ καὶ τοὺς δυναμένους ἐξετάζειν δυνάμενα ἀσχολῆσαι ὥρας οὐ μιᾶς συνάξεως
             ἀλλὰ καὶ πλειόνων, ὁτίποτε βούλεται ὁ ἐπίσκοπος προτεινάτω τῶν τεσσάρων, ἵνα περὶ τοῦτο
-            ἀσχοληθῶμεν. τὰ περὶ τῆς ἐγγαστριμύθου, φησίν, ἐξεταζέσθω.<ab type="source" source="#bib332-1"/><idno type="CTS-URN"/><ref target="https://archive.org/details/origeneswerke03orig_0/page/282/mode/2up"/><note xml:lang="en" type="textual">Ed.
-               Klostermann 1901</note></ab>
+            ἀσχοληθῶμεν. τὰ περὶ τῆς ἐγγαστριμύθου, φησίν, ἐξεταζέσθω.
+        
+        
+        
+        
+      <ab type="source" source="#bib332-1"/>
+        <idno type="CTS-URN"/>
+        <ref target="https://archive.org/details/origeneswerke03orig_0/page/282/mode/2up"/>
+        <note xml:lang="en" type="textual">Ed.
+               Klostermann 1901</note>
+      </ab>
          <ab type="translation" xml:lang="en" xml:id="quote332-2">
-        <anchor xml:id="testimonia-332.en.1" corresp="#testimonia-332.grc.1"/> What was read is lengthy, and, since it is necessary to give an
-            abbreviated version, here are the sections. The order of events concerning Nabal of
-            Carmel was read first; then the story of David hiding with the Ziphites and being
-            maligned by them; and then (the story) that Saul came with the desire to seize David
-            and, once he had come, bid his time. But David snuck up on Saul and, while he and his
-            guards were sleeping, took “the spear and pitcher of water,” and after that he lectured
-            the ones who were entrusted to guard Saul and yet were asleep. Then next the third
-            section of the story, that David fled “to Anchous, son of Ammach, King of Geth,” and
-            that David, after many exploits, found favor with him; and the King said to him, “I will
-            make you head bodyguard.” Following these events there is the famous story concerning
-            the medium and Samuel, that the medium had apparently conjured up Samuel and that Samuel
-            prophesied to Saul. Since there are four pericopes, each of which has not a few events
-            and which can also, for those able to examine them, occupy hours not of just one service
-            but of many, let our bishop point out one of the four in order that we may occupy
-            ourselves with it. Let us examine, he says, the story of the medium.<ab type="source" source="#bib332-2"/><idno type="CTS-URN"/><ref/><note xml:lang="en" type="translation">Adapted from Smith 1998</note></ab>
+        <anchor xml:id="testimonia-332.en.1" corresp="#testimonia-332.grc.1"/>
+            What was read is
+            lengthy, and, since it is necessary to give an abbreviated version, here are the
+            sections. The order of events concerning Nabal of Carmel was read first; then the story
+            of David hiding with the Ziphites and being maligned by them; and then (the story) that
+            Saul came with the desire to seize David and, once he had come, bid his time. But David
+            snuck up on Saul and, while he and his guards were sleeping, took “the spear and pitcher
+            of water,” and after that he lectured the ones who were entrusted to guard Saul and yet
+            were asleep. Then next the third section of the story, that David fled “to Anchous, son
+            of Ammach, King of Geth,” and that David, after many exploits, found favor with him; and
+            the King said to him, “I will make you head bodyguard.” Following these events there is
+            the famous story concerning the medium and Samuel, that the medium had apparently
+            conjured up Samuel and that Samuel prophesied to Saul. Since there are four pericopes,
+            each of which has not a few events and which can also, for those able to examine them,
+            occupy hours not of just one service but of many, let our bishop point out one of the
+            four in order that we may occupy ourselves with it. Let us examine, he says, the story
+            of the medium. 
+            
+            
+            
+            
+         <ab type="source" source="#bib332-2"/>
+        <idno type="CTS-URN"/>
+        <ref/>
+        <note xml:lang="en" type="translation">Adapted from Smith 1998</note>
+      </ab>
          <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib332-1">
@@ -322,7 +344,11 @@
           <citedRange unit="p">319</citedRange>
         </bibl>
       </listBibl>
-      <note type="related-texts">
+      
+      
+      
+      
+    <note type="related-texts">
         <p>1 Samuel 25-28</p>
       </note>
       <note type="geography">
@@ -331,23 +357,23 @@
         <p>Ziph (Tell Zif)</p>
       </note>
       <note type="prosopography">
-        <p>Samuel the Prophet [ca. 1025-1000 BCE]</p>
         <p>Alexander, Bishop of Jerusalem</p>
         <p>Ammach, King of Geth (Maoch) [era of David]</p>
         <p>Anchous, King of Geth (Anchish, Achish, Abimelech) [era of David]</p>
         <p>David, King of Israel and Judah [ca. 1000 BCE]</p>
         <p>Nabal [ca. 1000 BCE]</p>
         <p>Origen</p>
+        <p>Samuel the Prophet [ca. 1025-1000 BCE]</p>
         <p>Saul, King of Israel and Judah [ca. 1025-1000 BCE]</p>
         <p>Theoctistus, Bishop of Caesarea</p>
       </note>
       <note type="themes">
-        <p>Society and Culture</p>
         <p>Christianity</p>
         <p>Education (sacred)</p>
         <p>Hebrew Bible</p>
         <p>History of Israel</p>
         <p>Judaism</p>
+        <p>Society and Culture</p>
       </note>
     </body>
    </text>

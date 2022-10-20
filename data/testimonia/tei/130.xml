@@ -245,20 +245,23 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg020" type="uniform" level="m">Life of Constantine</title>
-        <ref n="a" target="#bib130-1">1.19</ref> written by <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName> in <origDate period="#byzantine" when="0339">339 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" type="uniform" level="m">Life of
+          Constantine</title>
+        <ref target="#bib130-1">1.19</ref> written by <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius</persName> in <origDate period="#byzantine" when="0339">0335
+          0339</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</creation>
       <langUsage>
         <language ident="grc">Ancient Greek</language>
       </langUsage>
       <textClass>
         <classCode scheme="https://distributed-text-services.github.io/specifications">
-          <idno xml:base="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=" type="CTS-URN">urn:cts:greekLit:tlg2018.tlg020:1.19</idno>
+          <idno xml:base="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=" type="CTS-URN"/>
         </classCode>
-        <catRef scheme="#CM-Testimonia-Type" target=""/>
-        <catRef scheme="#CM-NEAEH" target=""/>
+        <catRef scheme="#CM-Testimonia-Type" target="#indirect"/>
+        <catRef scheme="#CM-NEAEH" target="#byzantine"/>
       </textClass>
     </profileDesc>
     <revisionDesc status="published">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#wpotter" when="2020-06-10-05:00">ADDED: testimonium ID, URNs, URLs to edition and translation, and Bibl URIs</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#wpotter" when="2020-06-10-05:00">CREATED: testimonium</change>
     </revisionDesc>
@@ -268,37 +271,92 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/130</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract130-1"> is directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg020" type="uniform" level="m">Life of Constantine</title> <ref target="#bib130-1">1.19</ref>. This passage was written circa <origDate period="#byzantine" when="0339">339 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract130-1">Caesarea Maritima is indirectly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius</persName>, <title xml:lang="en" type="uniform" level="m">Life of
+          Constantine</title> <ref target="#bib130-1">1.19</ref>. This passage was written ca. <origDate period="#byzantine" when="0339">0335
+          0339</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
+      <desc type="context">In this passage from his biography of Constantine the Great, Eusebius
+        describes the physical and spritual virtues of the adolescent. The historian refers to
+        seeing Constantine himself, presumably at Caesarea, during the young man’s visit to
+        Palestine in the company of the senior emperor Diocletian in 301/2 C.E.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote130-1">
-        <anchor xml:id="testimonia-130.grc.1" corresp="#testimonia-130.en.1"/>Συνῆν μὲν γὰρ οὑτος τοῖς τῆς βασιλείας κοινωνοῖς, καὶ μέσοις αὐτοῖς, ὡς εἵρηται, κατ’ αὐτὸν ἐκεῖνον τὸν παλαιὸν τοῦ θεοῦ προφήτην τὰς διατριβὰς ἐποιεῖτο. ἤδη δ' ἐκ τοῦ παιδὸς ἐπὶ τὸν νεανίαν τιμῆς τῆς πρώτης παρ' αὐτοῖς ἡξιοῦτο. οἶον αὐτὸν καὶ ἡμεῖς ἔγνωμεν τὸ Παλαιστινῶν διερχόμενον ἔθνος σὺν τῷ πρεσβυτέρῳ τῶν βασιλέων, οὑ καὶ ἐπὶ δεξιὰ παρεστὼς περιφανέστατος ἦν τοῖς ἀρᾶν θέλουσιν, οἶός τε βασιλικοῦ φρονήματος ἐξ ἐκείνου τεκμήρια παρέχων. σώματος μὲν γὰρ εἰς κάλλους ὥραν μέγεθός τε ἡλικίας οὑδ' ἦν αὐτῷ παραβαλεῖν ἔτερον, ῥώμῃ δ' ἱσχύος τοσοῦτον ἐπλεονέκτει τοὺς ὁμήλικας ὡς καὶ φοβερὸν αὐτοῖς εἶναι, ταῖς δὲ κατὰ ψυχὴν ἀρεταῖς μᾶλλον ἢ τοῖς κατὰ τὸ σῶμα πλεονεκτήμασιν ἐνηβρύνετο, σωφροσύνῃ πρώτιστα τὴν ψυχὴν κοσμούμενος πάντων, κἄπειτα παιδεύσει λόγων φρονήσει τ' ἐμφύτῳ καὶ τῇ θεοσδότῳ σοφίᾳ διαφερόντως ἐκπρέπων.<ab type="source" source="#bib130-1"/><idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg020.1st1K-grc1:1.19</idno><ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2018.tlg020.1st1K-grc1:1.19"/><note xml:lang="en" type="corrigenda">Inaccuracies found in the transcription of the electronic text compared to its printed source have been corrected.</note></ab>
+        <anchor xml:id="testimonia-130.grc.1" corresp="#testimonia-130.en.1"/>Συνῆν μὲν γὰρ οὑτος
+        τοῖς τῆς βασιλείας κοινωνοῖς, καὶ μέσοις αὐτοῖς, ὡς εἵρηται, κατ’ αὐτὸν ἐκεῖνον τὸν παλαιὸν
+        τοῦ θεοῦ προφήτην τὰς διατριβὰς ἐποιεῖτο. ἤδη δ’ ἐκ τοῦ παιδὸς ἐπὶ τὸν νεανίαν τιμῆς τῆς
+        πρώτης παρ’ αὐτοῖς ἠξιοῦτο. Οἷον αὐτὸν καὶ ἡμεῖς ἔγνωμεν τὸ Παλαιστινῶν διερχόμενον ἔθνος
+        σὺν τῷ πρεσβυτέρῳ τῶν βασιλέων, οὗ καὶ ἐπὶ δεξιὰ παρεστὼς περιφανέστατος ἦν τοῖς ὁρᾶν
+        θέλουσιν, οἷός τε βασιλικοῦ φρονήματος ἐξ ἐκείνου τεκμήρια παρέχων. σώματος μὲν γὰρ εἰς
+        κάλλους ὥραν μέγεθός τε ἡλικίας οὐδ’ ἦν αὐτῷ παραβαλεῖν ἔτερον, ῥώμῃ δ’ ἱσχύος τοσοῦτον
+        ἐπλεονέκτει τοὺς ὁμήλικας ὡς καὶ φοβερὸν αὐτοῖς εἶναι, ταῖς δὲ κατὰ ψυχὴν ἀρεταῖς μᾶλλον ἢ
+        τοῖς κατὰ τὸ σῶμα πλεονεκτήμασιν ἐνηβρύνετο, σωφροσύνῃ πρώτιστα τὴν ψυχὴν κοσμούμενος
+        πάντων, κἄπειτα παιδεύσει λόγων φρονήσει τ’ ἐμφύτῳ καὶ τῇ θεοσδότῳ σοφίᾳ διαφερόντως
+          ἐκπρέπων.
+        
+        
+        
+      <ab type="source" source="#bib130-1"/>
+        <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/"/>
+        <note xml:lang="en" type="textual">Ed. Winkelmann 1991</note>
+      </ab>
       <ab type="translation" xml:lang="en" xml:id="quote130-2">
-        <anchor xml:id="testimonia-130.en.1" corresp="#testimonia-130.grc.1"/>The latter had been with his father’s imperial colleagues, and had passed his life among them, as we have said, like God’s ancient prophet. And even in the very earliest period of his youth he was judged by them to be worthy of the highest honor. An instance of this we have ourselves seen, when he passed through Palestine with the senior emperor, at whose right hand he stood, and commanded the admiration of all who beheld him by the indications he gave even then of royal greatness. For no one was comparable to him for grace and beauty of person, or height of stature; and he so far surpassed his peers in personal strength as to be a terror to them. He was, however, even more conspicuous for the excellence of his mental qualities than for his superior physical endowments; being gifted in the first place with a sound judgment, and having also reaped the advantages of a liberal education. He was also distinguished in no ordinary degree both by natural intelligence and divinely imparted wisdom.<ab type="source" source="#bib130-2"/><idno type="CTS-URN"/><ref target="https://ccel.org/ccel/schaff/npnf201/npnf201.iv.vi.i.xix.html"/><note xml:lang="en" type="translation">Translation corrected and adapted from its source.</note></ab>
+        <anchor xml:id="testimonia-130.en.1" corresp="#testimonia-130.grc.1"/>This son (sc.
+        Constantine) was with his imperial colleagues (sc. the tetrarchs); and in their midst, as
+        has been said, he conducted himself in the same way as the ancient prophet of God. Now that
+        he had passed from childhood to youth, he was granted highest honor among them. As such we
+        knew him ourselves as he travelled through the land of Palestine in the company of the
+        senior Emperor (sc. Diocletian), at whose right he stood, a noble sight for those with eyes
+        to see, able already to display an Imperial quality of mind. In handsome physique and bodily
+        height no other could bear comparison with him; in physical strength he so exceeded his
+        contemporaries as even to put them in fear; he took pride in moral qualities rather than
+        physical superiority, ennobling his soul first and foremost with self-control, and
+        thereafter distinguishing himself by the excellence of his rhetorical education, his
+        instinctive shrewdness and his God-given wisdom.
+        
+        
+        
+        
+      <ab type="source" source="#bib130-2"/>
+        <idno type="CTS-URN"/>
+        <ref/>
+        <note xml:lang="en" type="translation">Rev. Cameron and
+          Hill 1999</note>
+        <note xml:lang="en" type="discussion">“as has been said, he conducted himself in the same way as the
+          ancient prophet of God”: the simile compares Constantine among the tetrarchs to Moses
+          among the Egyptians.</note>
+      </ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib130-1">
-          <ptr target="https://caesarea-maritima.org/bibl/X6ABJI5R"/>
-          <citedRange unit="section">1.19</citedRange>
-        </bibl>
-        <bibl xml:id="bib130-2">
-          <ptr target="https://caesarea-maritima.org/bibl/97PIKM4J"/>
-          <citedRange unit="section">1.19</citedRange>
-        </bibl>
-      </listBibl>
-      <listBibl>
-        <head>Additional Bibliography</head>
-        <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/SHY4C57D"/>
           <citedRange unit="section">1.19</citedRange>
         </bibl>
-        <bibl>
-          <ptr target="https://caesarea-maritima.org/bibl/KSU7RQGH"/>
-          <citedRange unit="section">1.19</citedRange>
+        <bibl xml:id="bib130-2">
+          <ptr target="https://caesarea-maritima.org/bibl/SWZIE2ME"/>
+          <citedRange unit="p">77, 197-198</citedRange>
         </bibl>
       </listBibl>
+      
+    
+      
+      
+      
     <note type="related-texts"/>
-      <note type="geography"/>
-      <note type="prosopography"/>
-      <note type="themes"/>
+      <note type="geography">
+        <p>Palestine</p>
+      </note>
+      <note type="prosopography">
+        <p>Constantine I, Emperor</p>
+        <p>Diocletian, emperor</p>
+        <p>Eusebius of Caesarea</p>
+        <p>Moses the Prophet</p>
+      </note>
+      <note type="themes">
+        <p>Byzantine History</p>
+        <p>Christianity</p>
+        <p>Family</p>
+        <p>Government and Law</p>
+        <p>Medicine and Biology</p>
+        <p>Travel</p>
+      </note>
     </body>
   </text>
 </TEI>

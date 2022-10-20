@@ -244,7 +244,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Church History</title> <ref n="a" target="#bib229-1">2.25</ref> written by <persName role="author" ref="http://viaf.org/viaf/8181546">Evagrius
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Church History</title> <ref target="#bib229-1">2.25</ref> written by <persName role="author" ref="http://viaf.org/viaf/8181546">Evagrius
                Scholasticus</persName> in <origDate notBefore="0593" notAfter="0598" period="#byzantine">593-598 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/661385">Antioch on the
                Orontes</origPlace>.</creation>
       <langUsage>
@@ -259,6 +259,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc status="draft">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
     </revisionDesc>
   </teiHeader>
@@ -268,22 +269,23 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/229</idno>
       </ab>
       <desc type="abstract" xml:id="abstract229-1">Caesarea Maritima is indirectly attested at <persName role="author" ref="http://viaf.org/viaf/8181546">Evagrius
-               Scholasticus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Church History</title> <ref n="a" target="#bib229-1">2.25</ref>. This passage was written ca. <origDate notBefore="0593" notAfter="0598" period="#byzantine">593-598 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/661385">Antioch on the
+               Scholasticus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Church History</title> <ref target="#bib229-1">2.25</ref>. This passage was written ca. <origDate notBefore="0593" notAfter="0598" period="#byzantine">593-598 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/661385">Antioch on the
                Orontes</origPlace>.</desc>
-      <desc type="context">Evagrius Scholasticus came from a background of wealth and education
-            in Syria and rose to prominence in the circles of power in the early Byzantine empire
-            and church, as legal advisor of the Patriarchate of Antioch and honorary officeholder
-            under Maurice and Tiberius II. His Church History from the First Council of Ephesus to
-            the middle reign of Maurice (431-593/4 C.E.) provides especially rich evidence for the
-            history of Late Antique Syria. This passage describes the tense aftermath of the Fourth
-            Ecumenical Council at Chalcedon (451 C.E.), which condemned the Monophysite heresy and
-            validated Orthodox teaching on the unity of Christ’s divine and human nature (4.2-4.3).
-            Juvenal, the bishop of Jerusalem who signed at Chalcedon, fled to Caesarea, where, we
-            know from other accounts (see Related Texts), a mob of anti-Chalcedonian monks were
-            agitating outside the city; thereafter they ensured the election of Theodosius to occupy
-            the vacated throne at Jerusalem.</desc>
+      <desc type="context">Evagrius Scholasticus came from a background of wealth and education in
+        Syria and rose to prominence in the circles of power in the early Byzantine empire and
+        church, as legal advisor of the Patriarchate of Antioch and honorary officeholder under
+        Maurice and Tiberius II. His <title>Church History</title> from the First Council of Ephesus
+        to the middle reign of Maurice (431-593/4 C.E.) provides especially rich evidence for the
+        history of Late Antique Syria. This passage describes the tense aftermath of the Fourth
+        Ecumenical Council at Chalcedon (451 C.E.), which condemned the Monophysite heresy and
+        validated Orthodox teaching on the unity of Christ’s divine and human nature (4.2-4.3).
+        Juvenal, the bishop of Jerusalem who signed at Chalcedon, fled to Caesarea, where, we know
+        from other accounts (see Related Texts), a mob of anti-Chalcedonian monks were agitating
+        outside the city; thereafter they ensured the election of Theodosius to occupy the vacated
+        throne at Jerusalem.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote229-1">
-        <anchor xml:id="testimonia-229.grc.1" corresp="#testimonia-229.en.1"/>Ἀλλ’ οὐδὲ τὰ κατὰ τὴν ἔρημον τὴν πρὸς τὰ Ἱεροσόλυμα τὴν ἠρεμίαν εἶχεν.
+        <anchor xml:id="testimonia-229.grc.1" corresp="#testimonia-229.en.1"/>
+        Ἀλλ’ οὐδὲ τὰ κατὰ τὴν ἔρημον τὴν πρὸς τὰ Ἱεροσόλυμα τὴν ἠρεμίαν εἶχεν.
             Ἔνιοι γὰρ τῶν μοναχῶν τῶν ἀνὰ τὴν σύνοδον εὑρεθέντων καὶ τἀναντία ταύτης βουληθέντων
             φρονεῖν πρὸς τὴν Παλαιστίνην ἀφικνοῦνται· καὶ προδοσίαν τῆς πίστεως ὀδυρόμενοι τὸ
             μοναδικὸν ἔσπευδον ἀναρριπίσαι καὶ ἀνασοβῆσαι. Καὶ ἐπειδή περ Ἰουβενάλιος τὸν οἰκεῖον
@@ -291,9 +293,19 @@
             ἀναθεματίσαι κατὰ τὴν βασιλέως πόλιν ἀνέδραμεν, ἁλισθέντες οἱ τἀναντία τῆς ἐν Καλχηδόνι
             συνόδου, ὡς ἀνωτέρω εἰρήκαμεν, φρονοῦντες χειροτονοῦσιν ἀνὰ τὴν ἁγίαν Ἀνάστασιν
             Θεοδόσιον, τὸν μάλιστα κυκήσαντα τὴν ἐν Καλχηδόνι σύνοδον, τὸν καὶ πρῶτον περὶ ταύτης
-            αὐτοῖς ἀγγείλαντα.<ab type="source" source="#bib229-1"/><idno type="CTS-URN"/><ref target="https://babel.hathitrust.org/cgi/pt?id=hvd.ah3vvp&amp;view=1up&amp;seq=78"/><note xml:lang="en" type="textual">Ed. Bidez and Parmentier 1898</note></ab>
+            αὐτοῖς ἀγγείλαντα.
+        
+        
+        
+        
+      <ab type="source" source="#bib229-1"/>
+        <idno type="CTS-URN"/>
+        <ref target="https://babel.hathitrust.org/cgi/pt?id=hvd.ah3vvp&amp;view=1up&amp;seq=78"/>
+        <note xml:lang="en" type="textual">Ed. Bidez and Parmentier 1898</note>
+      </ab>
       <ab type="translation" xml:lang="en" xml:id="quote229-2">
-        <anchor xml:id="testimonia-229.en.1" corresp="#testimonia-229.grc.1"/>But the desert areas near Jerusalem did not even maintain
+        <anchor xml:id="testimonia-229.en.1" corresp="#testimonia-229.grc.1"/>
+        But the desert areas near Jerusalem did not even maintain
             tranquility. For some of the monks who had been present at the Synod but wished to hold
             different opinions from it came to Palestine; and lamenting the betrayal of the faith,
             they were eager to reignite and reawaken the monastic community. After Juvenal had
@@ -301,8 +313,18 @@
             raving men, he took refuge in the emperor’s city, while those who, as we mentioned
             above, held different opinions from the Synod of Chalcedon assembled in the Church of
             the Resurrection and elected Theodosius. He in particular threw the Synod at Chalcedon
-            into confusion, and was also the first to bring a report of it to them.<ab type="source" source="#bib229-2"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="translation">Rev. Whitby 2000</note><note xml:lang="en" type="discussion">"[T]he emperor's
-               city" means Caesarea Maritima.</note></ab>
+            into confusion, and was also the first to bring a report of it to them.
+        
+        
+        
+        
+      <ab type="source" source="#bib229-2"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        <note xml:lang="en" type="translation">Rev. Whitby 2000</note>
+        <note xml:lang="en" type="discussion">"[T]he emperor's
+               city" means Caesarea Maritima.</note>
+      </ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib229-1">
@@ -316,6 +338,10 @@
           <citedRange unit="p">78</citedRange>
         </bibl>
       </listBibl>
+    
+      
+      
+      
     <note type="related-texts">
         <p>Cyril of Scythopolis, Life of Euthymius 27</p>
         <p>Evagrius Scholasticus, Church History 4.2-4.3</p>

@@ -246,7 +246,8 @@
         <p/>
       </abstract>
       <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:greekLit:tlg4029.tlg002" type="uniform" level="m">Secret History</title>
-        <ref n="d" target="#bib200-1">29.17-29.18</ref> written by <persName ref="http://viaf.org/viaf/100172302" role="author">Procopius </persName> in <origDate period="#byzantine" notBefore="0550" notAfter="0558">550 - 558 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
+        <ref target="#bib200-1">29.17-29.25</ref> written by <persName ref="http://viaf.org/viaf/100172302" role="author">Procopius </persName> in <origDate period="#byzantine" notBefore="0550" notAfter="0558">0550 0560</origDate>. This work was
+        likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
       <langUsage>
         <language ident="grc">Ancient Greek</language>
       </langUsage>
@@ -254,11 +255,12 @@
         <classCode scheme="https://distributed-text-services.github.io/specifications">
           <idno xml:base="http://data.perseus.org/citations/" type="CTS-URN">urn:cts:greekLit:tlg4029.tlg002:29.17-29.18</idno>
         </classCode>
-        <catRef scheme="#CM-Testimonia-Type" target=""/>
-        <catRef scheme="#CM-NEAEH" target=""/>
+        <catRef scheme="#CM-Testimonia-Type" target="#indirect"/>
+        <catRef scheme="#CM-NEAEH" target="#byzantine"/>
       </textClass>
     </profileDesc>
     <revisionDesc status="published">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#wpotter" when="2020-06-10-05:00">ADDED: testimonium ID, URNs, URLs to edition and translation, and Bibl URIs</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#wpotter" when="2020-06-10-05:00">CREATED: testimonium</change>
     </revisionDesc>
@@ -268,37 +270,133 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/200</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract200-1"><quote><placeName xml:lang="grc">Καισαρέων</placeName></quote>, and <quote><placeName xml:lang="en">Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/100172302" role="author">Procopius </persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg4029.tlg002" type="uniform" level="m">Secret History</title> <ref n="d" target="#bib200-1">29.17-29.18</ref>. This passage was written ca. <origDate period="#byzantine" notBefore="0550" notAfter="0558">550 - 558 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract200-1">Caesarea Maritima is indirectly attested at <persName ref="http://viaf.org/viaf/100172302" role="author">Procopius </persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg4029.tlg002" type="uniform" level="m">Secret History</title> <ref target="#bib200-1">29.17-29.25</ref>. This passage was written ca. <origDate period="#byzantine" notBefore="0550" notAfter="0558">0550 0560</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+      <desc type="context">Procopius, a native of Caesarea Maritima who excelled in his classical
+        education and legal training, was the preeminent historian of the reign of Justinian. As a
+        field advisor to the general Belisarius and a ranking member of the governing class in
+        Constantinople, he could write with firsthand knowledge and personal authority on policy and
+        society in the late Empire. Among his influential writings was the unusual “secret” or
+        “unpublished history” (ἀπόκρυφη/ἀνεκδοτή ἱστορία), a collection of vignettes often with a
+        polemical or satirical flavor that portrayed the vices and failures of the emperor, the
+        empress, and their entourage. In this passage Procopius describes the legal and political
+        complexities of inheritance among the civic elite of the Palestinian coast, including the
+        family of one Maximilianus of Caesarea, whom Procopius may have known.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote200-1">
-        <anchor xml:id="testimonia-200.grc.1" corresp="#testimonia-200.en.1"/>Ἀνατόλιός τις ἦν ἐν Ἀσκαλωνιτῶν τῷ λευκώματι τὰ πρωτεῖα ἔχων. τούτου τὴν παῖδα γαμετὴν γυναῖκα τῶν τις <placeName xml:lang="grc">Καισαρέων</placeName> πεποίηται, Μαμιλιανὸς ὄνομα, οἰκίας ἐπιφανοῦς ἄγαν.<ab type="source" source="#bib200-1"/><idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg4029.tlg002.perseus-grc1:29.17</idno><ref target="http://data.perseus.org/citations/urn:cts:greekLit:tlg4029.tlg002.perseus-grc1:29.17"/></ab>
+        <anchor xml:id="testimonia-200.grc.1" corresp="#testimonia-200.en.1"/>(17) Τούτων δὲ τὸ
+        ἐχόμενον ὑπὸ χρόνον τε τὸν αὐτὸν γεγονὸς οὐκ ἂν σιωπῴην. Ἀνατόλιός τις ἦν ἐν Ἀσκαλωνιτῶν τῷ
+        λευκώματι τὰ πρωτεῖα ἔχων τούτου τὴν παῖδα γαμετὴν γυναῖκα τῶν τις
+          <placeName>Καισαρέων</placeName> πεποίηται, (18) Μαμιλιανὸς ὄνομα, οἰκίας ἐπιφανοῦς ἄγαν.
+        ἦν δὲ ἡ κόρη ἐπίκληρος ἐπεὶ μόνης αὐτῆς Ἀνατόλιος ἐγεγόνει πατήρ. (19) νόμῳ δὲ ἄνωθεν
+        διωρισμένον ἐπειδὰν βουλευτὴς τῶν τινος πόλεων οὐκ ἀπολελειμμένων οἱ παίδων γόνου ἄρρενος ἐξ
+        ἀνθρώπων ἀφανισθείη, τῶν ἀπολελειμμένων ὑπὸ τούτου χρημάτων τὸ μὲν τεταρτημόριον δίδοσθαι
+        τῆς πόλεως βουλευτηρίῳ, πάντων δὲ τῶν ἄλλων τοὺς κληρονόμους τοῦ τετελευτηκότος ἀπόνασθαι,
+        γνώρισμα ἤθους τοῦ οἰκείοθ κἀνταῦθα ὁ αὐτοκράτωρ ἐνδεικνύμενος, νόμον ἔναγχος ἐτύγχανε
+        γράψας, ἔμπαλιν τὰ τοῦ πράγματος διοικούμενον ὅπως δὴ, ἐπειδὰν βουλευτὴς ἄπαις τελευτῴη
+        γόνου ἄρρενος τῆς οὐσίας οἱ μὲν κληρονόμοι τὸ τέταρτον ἔχοιεν, τἄλλα δὲ πάντα τὸ ἐδημόσιον
+        καὶ τὸ τῆς πόλεως λεύκωμα φέροιντο. (20) καίτοι οὐδεπώποτε δημόσιον ἢ βασιλεὺς ἀφ᾽ οὗ
+        γεγόνασιν ἄνθρωποι χρημάτων βουλευτικῶν μετασχεῖν ἔσχε. (21) τούτου τοίνυν κειμένου τοῦ
+        νόμου Ἀνατολίῳ μὲν ἐν ἐπεγένετο ἡ τέλειος ἡμέρα τοῦ βίου, ἡ δὲ τούτου παῖς τὸν τούτου κλῆρον
+        πρός τε τὸ δημόσιον καὶ τὸ τῆς πόλεως βουλευτήριον κατὰ τὸν νόμον ἐνείματο, καὶ αὐτῇ
+        γράμματα βασιλεύς τε αὐτὸς καὶ Ἀσκαλωνιτῶν οἱ τοῦ λευκώματος ἔγραψαν, τῆς περὶ τούτων αὐτὴν
+        ἀφιέντες ἀντιλογίας ἅτε τὰ σφίσι προσήκοντα κεκομισμένοι ὀρθῶς καὶ δικαίως. (22) ὕστερον καὶ
+        Μαμιλιανὸς ἀπελύθη τοῦ βίου, ὅσπερ Ἀνατολίῳ κηδεστὴς ἐγεγόνει, παιδός οἱ ἀπολελειμμένες μιᾶς
+        ἥπερ καὶ μόνη τὴν τοῦ πατρὸς οὐσίαν ὡς τὸ εἰκὸς ἔσχε. (23) μετὰ δὲ καὶ αὕτη περιούσης ἔτι οἱ
+        τῆς μητρὸς ἀφίκετο ἐς τὸ μέτρον τοῦ βίου ἀνδρὶ μὲν ξυνοικισθεῖσα τῶν λογίμων τινὶ, μήτηρ δὲ
+        οὔτε θήλεος οὔτε ἄρσενος γενομένη γόνου. (24) ἀλλ᾽ Ἰουστινιανὸς πάντων ἀντελάβετο τῶν
+        χρημάτων εὐθὺς ἐκεῖνο ἀποφθεγξάμενος τὸ θαυμάσιον, ὡς τὴν Ἀνατολίου παῖδα γυναῖκα γραῦν
+        οὖσαν τοῖς τε τοῦ ἀνδρὸς καὶ τοῖς τοῦ πατρὸς πλουτεῖν χρήμασιν οὐχ ὅσιον εἴη. (25) ὅπως δὲ ἡ
+        γυνὴ μὴ ἐν τοῖς προσαιτηταῖς τὸ ἐνθένδε τετάξεται, στατῆρα χρυσοῦν ἐς ἡμέραν ἑκάστην τὴν
+        γυναῖκα φέρεσθαι ταύτην διώρισεν, ἕως ἂν περιῇ, τοῦτο θέμενος ἐν τοῖς γράμμασι δι᾽ ὧν τὰ
+        χρήματα ἐληΐσατο ταῦτα, ὡς τὸν στατῆρα προεῖται τῆς εὐσεβείας ἕνεκα· ‘ἔθος γάρ μοι’, ἔφη,
+        ‘τά τε ὅσια καὶ εὐσεβῆ πράττειν.’
+        
+        
+        
+        
+      <ab type="source" source="#bib200-1"/>
+        <idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg4029.tlg002.perseus-grc1:29.17</idno>
+        <ref target="http://data.perseus.org/citations/urn:cts:greekLit:tlg4029.tlg002.perseus-grc1:29.17"/>
+        <note xml:lang="en" type="textual">Ed. Wirth 1963 [cited by
+          chapter-section]</note>
+      </ab>
       <ab type="translation" xml:lang="en" xml:id="quote200-2">
-        <anchor xml:id="testimonia-200.en.1" corresp="#testimonia-200.grc.1"/>One Anatolius was foremost in the Senate of Ascalon. His daughter was married to a citizen of <placeName xml:lang="en">Caesarea</placeName> by the name of Mamilian, of illustrious family.<ab type="source" source="#bib200-2"/><idno type="CTS-URN"/><ref target="https://sourcebooks.fordham.edu/basis/procop-anec.asp#atwater"/></ab>
+        <anchor xml:id="testimonia-200.en.1" corresp="#testimonia-200.grc.1"/> (17) I could not
+        stay silent on another matter related to these incidents at about the same time. There was a
+        certain Anatolius who held high rank among the Senators in Askalon. This man’s daughter had
+        been married to one of the <placeName>Caesareans</placeName>, Maximilianus by name, of a
+        very distinguished house. (18) The girl was an heiress, because Anatolius had produced no
+        other child. (19) Now it had been defined by ancient law that, whenever a Senator of one of
+        the cities departed this life without leaving behind male offspring, one quarter of his
+        estate would be given over to the city’s Senate, while the natural heirs of the deceased
+        would enjoy all the remainder. But the Emperor here too gave evidence of his true character.
+        For he happened to have promulgated a law recently that arranged matters in just the
+        opposite way. It provided that, whenever a Senator died without male offspring, the natural
+        heirs should have one quarter of his estate, but the remainder went to the Treasury and the
+        account of the city’s Senate. (20) And yet never in the history of humanity has the Treasury
+        or the Emperor been empowered to share in senatorial property. (21) So when this law was in
+        force, Anatolius came to the end of his days, and his daughter distributed his estate to the
+        Treasury and the city’s Senate according to the law. And so both the Emperor himself and the
+        Senators of Askalon wrote letters to her idemnifying her against any claim on her share, as
+        they had received the amount owed them correctly and justly. (22) Later on Maximilianus also
+        departed this life, the son-in-law of the late Anatolius, leaving behind only one child, a
+        daughter, who naturally received her father’s estate. (23) Later, while her mother was still
+        alive, she too reached the end of her days. She had been married to a member of the elite
+        class, but she bore neither male nor female offspring. (24) But Justinian immediately seized
+        up all the property, uttering the amazing suggestion that it would immoral for the daughter
+        of Anatolius, now an old woman, to grow rich off her father’s and her husband’s money. (25)
+        But, in order that she would not be assigned to the ranks of the beggars from that point on,
+        he arranged that the woman receive one gold stater each day until she should die, inserting
+        into the document by which he had plundered all this money the statement that he had
+        relinquished the stater for the sake of piety: “For it is my custom,” he said, “to do
+        whatever is pious and righteous.” 
+        
+        
+        
+        
+      <ab type="source" source="#bib200-2"/>
+        <idno type="CTS-URN"/>
+        <ref/>
+        <note xml:lang="en" type="translation">Adapted from Dewing 1935 and
+          Williamson 1966</note>
+      </ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib200-1">
-          <ptr target="https://caesarea-maritima.org/bibl/SW5BHIPQ"/>
-          <citedRange unit="section">29.17-29.18</citedRange>
+          <ptr target="https://caesarea-maritima.org/bibl/RP9TVX8C"/>
+          <citedRange unit="ch">29.17-29.25</citedRange>
         </bibl>
         <bibl xml:id="bib200-2">
-          <ptr target="https://caesarea-maritima.org/bibl/6IIKXJFN"/>
-          <citedRange unit="section">29</citedRange>
+          <ptr target="https://caesarea-maritima.org/bibl/62J2HCU3"/>
+          <citedRange unit="p">338-343</citedRange>
         </bibl>
       </listBibl>
       <listBibl>
         <head>Additional Bibliography</head>
         <bibl>
-          <ptr target="https://caesarea-maritima.org/bibl/8K7THZJK"/>
-          <citedRange unit="section">29.17-29.18</citedRange>
-        </bibl>
-        <bibl>
-          <ptr target="https://caesarea-maritima.org/bibl/XLTS4FNE"/>
-          <citedRange unit="section">29</citedRange>
+          <ptr target="https://caesarea-maritima.org/bibl/M5H2RHII"/>
+          <citedRange unit="p">184-186</citedRange>
         </bibl>
       </listBibl>
+    
+      
+      
+      
     <note type="related-texts"/>
-      <note type="geography"/>
-      <note type="prosopography"/>
-      <note type="themes"/>
+      <note type="geography">
+        <p>Ascalon</p>
+      </note>
+      <note type="prosopography">
+        <p>Anatolius</p>
+        <p>Justinian I, emperor</p>
+      </note>
+      <note type="themes">
+        <p>Byzantine History</p>
+        <p>Economy</p>
+        <p>Family</p>
+        <p>Government and Law</p>
+        <p>Roman History</p>
+        <p>Society and Culture</p>
+      </note>
     </body>
   </text>
 </TEI>

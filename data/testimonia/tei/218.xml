@@ -244,7 +244,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Plots</title> <ref n="b" target="#bib218-1">173.13-29</ref> written by <persName role="author" ref="http://viaf.org/viaf/13108540">Constantine
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Plots</title> <ref target="#bib218-1">173.13-29</ref> written by <persName role="author" ref="http://viaf.org/viaf/13108540">Constantine
                Porphyrogenitus</persName> in <origDate notBefore="0930" notAfter="0955" period="#earlyIslamic">930-955 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
       <langUsage>
         <language ident="grc">Ancient Greek</language>
@@ -258,6 +258,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc status="draft">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
     </revisionDesc>
   </teiHeader>
@@ -266,19 +267,21 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/218</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract218-1"><quote><placeName>Καισαρείᾳ τῆς Παλαιστίνης</placeName></quote>, <quote><placeName>Καισαρείᾳ</placeName></quote>, <quote><placeName>Caesarea of Palestine</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/13108540">Constantine
-               Porphyrogenitus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Plots</title> <ref n="b" target="#bib218-1">173.13-29</ref>. This passage was written ca. <origDate notBefore="0930" notAfter="0955" period="#earlyIslamic">930-955 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
-      <desc type="context">Constantine VII Flavius Porphyrogenitus (“born in the purple”) ruled
-            the Byzantine emperor as a member of the Macedonian dynasty in 913-959 C.E. Beyond the
-            challenges he faced in managing Imperial authority and international relations
-            throughout his reign, Constantine VII devoted considerable energy to his scholarly
-            pursuits. Among his many writings is the collection Excerpts from Historians, in which
-            he quotes or epitomizes earlier writers on topics chiefly of relevance to statecraft and
-            leadership. In this passage from the book on plots against the government (de insidiis),
-            the emperor paraphrases the earlier accounts of John Malalas and the Easter Chronicle on
-            the Samaritan uprising of 556 C.E.</desc>
+      <desc type="abstract" xml:id="abstract218-1"><quote><placeName>Καισαρείᾳ τῆς Παλαιστίνης</placeName></quote>, <quote><placeName>Καισαρείᾳ</placeName></quote>, <quote><placeName>Caesarea
+          Palestinae</placeName></quote>, <quote><placeName>Caesarea</placeName></quote>, and <quote><placeName>Caesarea Palestinae</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/13108540">Constantine
+               Porphyrogenitus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Plots</title> <ref target="#bib218-1">173.13-29</ref>. This passage was written ca. <origDate notBefore="0930" notAfter="0955" period="#earlyIslamic">930-955 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+      <desc type="context">Constantine VII Flavius Porphyrogenitus (“born in the purple”) ruled the
+        Byzantine emperor as a member of the Macedonian dynasty in 913-959 C.E. Beyond the
+        challenges he faced in managing Imperial authority and international relations throughout
+        his reign, Constantine VII devoted considerable energy to his scholarly pursuits. Among his
+        many writings is the collection Excerpts from Historians, in which he quotes or epitomizes
+        earlier writers on topics chiefly of relevance to statecraft and leadership. In this passage
+        from the book on plots against the government (<title>de insidiis</title>), the emperor
+        paraphrases the earlier accounts of John Malalas and the <title>Easter Chronicle</title> on
+        the Samaritan uprising of 556 C.E.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote218-1">
-        <anchor xml:id="testimonia-218.grc.1" corresp="#testimonia-218.en.1"/>Ὅτι ἐπὶ τοῦ αὐτοῦ βασιλέως Ἰουστινιανοῦ ἐστασίασαν οἱ Σαμαρεῖται καὶ οἱ
+        <anchor xml:id="testimonia-218.grc.1" corresp="#testimonia-218.en.1"/>
+        Ὅτι ἐπὶ τοῦ αὐτοῦ βασιλέως Ἰουστινιανοῦ ἐστασίασαν οἱ Σαμαρεῖται καὶ οἱ
             Ἰουδαῖοι ἐν <placeName>Καισαρείᾳ τῆς Παλαιστίνης</placeName> ποιήσαντες τὸ ἓν ὡς ἐν
             τάξει πρασινοβενέτων, καὶ ἐπῆλθον τοῖς χριστιανοῖς τῆς αὐτῆς πόλεως καὶ κατέκοψαν
             πολλοὺς καὶ ἐπῆλθον καὶ ταῖς ἐκκλησίαις τῶν ὀρθοδόξων. ὁ δὲ Στέφανος ὁ ἀνθύπατος τῆς
@@ -289,22 +292,35 @@
             Ἀμαντίῳ τῷ στρατηλάτῃ ὄντι τότε ἐν τῇ ἀνατολῇ τῷ κατὰ Ζίμαρχον ἀπελθεῖν καὶ ἐκζητῆσαι
             τὸν φόνον τοῦ Στεφάνου. ὁ δὲ Ἀμάντιος ἐλθὼν ἐν <placeName>Καισαρείᾳ</placeName> ἤρξατο
             ζητεῖν τοὺς πεποιηκότας τὸν φόνον, καὶ εὑρὼν τοὺς μὲν ἐφούρκισε, τοὺς δὲ ἀπεκεφάλισεν,
-            ἑτέρους δὲ ἐχειροκόπησε, τοὺς δὲ ἐδήμευσε· καὶ ἐγένετο φόβος μέγας ἐν <placeName>Καισαρείᾳ τῆς Παλαιστίνης</placeName>.<ab type="source" source="#bib218-1"/><idno type="CTS-URN"/><ref/><note xml:lang="en" type="textual">Ed. de Boor
-               1905</note></ab>
+            ἑτέρους δὲ ἐχειροκόπησε, τοὺς δὲ ἐδήμευσε· καὶ ἐγένετο φόβος μέγας ἐν <placeName>Καισαρείᾳ τῆς Παλαιστίνης</placeName>.
+        
+        
+        
+        
+      <ab type="source" source="#bib218-1"/>
+        <idno type="CTS-URN"/>
+        <ref/>
+        <note xml:lang="en" type="textual">Ed. de Boor
+               1905</note>
+      </ab>
       <ab type="translation" xml:lang="en" xml:id="quote218-2">
-        <anchor xml:id="testimonia-218.en.1" corresp="#testimonia-218.grc.1"/>It happened during the reign of the emperor Justinian that the
-            Samaritans and Jews in <placeName>Caesarea of Palestine</placeName> staged a revolt.
-            Combining into a Green-Blue faction, they attacked the Christians in this city and cut
-            down many of them and attacked the churchs of the orthodox. Stephanos the governor of
-            the city, called the Syrian, wanted to help bar entrance to the places of prayer—the
-            Samartians attacked him and he fled to his Praetorium, and they pursued and killed him
-            inside the Praetorium and plundered his possessions. Stephanos’ wife went up to the
-            emperor Justinian and beseeched him. He grew angry, and ordered Amantios, who was then
-            the magister militum in the East against Zimarchos, to depart and to search out the
-            murderer of Stephanos. Amantios came to <placeName>Caesarea</placeName> and began
-            searching for those who had committed the murders. When he found them, he hanged some,
-            beheaded others, cut off the right hands of others, and confiscated the property of
-            others. And there was great fear in <placeName>Caesarea of Palestine</placeName>.<note xml:lang="en" type="translation">Trans. J. L. Rife</note>
+        <anchor xml:id="testimonia-218.en.1" corresp="#testimonia-218.grc.1"/>
+        It happened during the
+        reign of the emperor Justinian that the Samaritans and Jews in <placeName>Caesarea
+          Palestinae</placeName> staged a revolt. Combining into a Green-Blue faction, they attacked
+        the Christians in this city and cut down many of them and attacked the churchs of the
+        orthodox. Stephanos the governor of the city, called the Syrian, wanted to help bar entrance
+        to the places of prayer—the Samartians attacked him and he fled to his Praetorium, and they
+        pursued and killed him inside the Praetorium and plundered his possessions. Stephanos’s wife
+        went up to the emperor Justinian and beseeched him. He grew angry, and ordered Amantios, who
+        was then the magister militum in the East against Zimarchos, to depart and to search out the
+        murderer of Stephanos. Amantios came to <placeName>Caesarea</placeName> and began searching
+        for those who had committed the murders. When he found them, he hanged some, beheaded
+        others, cut off the right hands of others, and confiscated the property of others. And there
+        was great fear in <placeName>Caesarea Palestinae</placeName>.<note xml:lang="en" type="translation">Trans.
+          J. L. Rife</note>
+        
+        
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -316,6 +332,10 @@
           <citedRange unit="bk">3.48</citedRange>
         </bibl>
       </listBibl>
+    
+      
+      
+      
     <note type="related-texts">
         <p>John Malalas, Chronicle 487.10-488.3</p>
         <p>Michael the Syrian II.262</p>

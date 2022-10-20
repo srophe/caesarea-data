@@ -246,9 +246,9 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Book of Pilgrimage<hi rend="italic">Book of Pilgrimage</hi>
-        </title> <ref n="a" target="#bib233-1">6.23-6.28</ref> written by <persName role="author" ref="http://viaf.org/viaf/41413317">Riccoldo da Monte di
-               Croce<ptr/>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m"> Book
+          of Pilgrimage</title>
+        <ref target="#bib233-1">6.23-6.28</ref> written by <persName role="author" ref="http://viaf.org/viaf/41413317">Riccoldo da Monte di Croce<ptr/>
         </persName> in <origDate notBefore="1288" notAfter="1291" period="#crusader #lateIslamic">1288-1291 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/893952">Baghdad</origPlace>.</creation>
       <langUsage>
         <language ident="la">Latin</language>
@@ -262,6 +262,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc status="draft">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
     </revisionDesc>
   </teiHeader>
@@ -270,10 +271,9 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/233</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract233-1"><quote><placeName>Cesaream</placeName></quote>, <quote><placeName>Cesarea</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/41413317">Riccoldo da Monte di
-               Croce<ptr/>
-        </persName>, <title xml:lang="en" ref="" type="uniform" level="m">Book of Pilgrimage<hi rend="italic">Book of Pilgrimage</hi>
-        </title> <ref n="a" target="#bib233-1">6.23-6.28</ref>. This passage was written ca. <origDate notBefore="1288" notAfter="1291" period="#crusader #lateIslamic">1288-1291 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/893952">Baghdad</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract233-1"><quote><placeName>Cesaream</placeName></quote>, <quote><placeName>Cesarea</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/41413317">Riccoldo da Monte di Croce<ptr/>
+        </persName>, <title xml:lang="en" ref="" type="uniform" level="m"> Book
+          of Pilgrimage</title> <ref target="#bib233-1">6.23-6.28</ref>. This passage was written ca. <origDate notBefore="1288" notAfter="1291" period="#crusader #lateIslamic">1288-1291 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/893952">Baghdad</origPlace>.</desc>
       <desc type="context">Riccolde da Monte di Croce, a learned Dominican friar who taught in
             Tuscany, took a post under papal commission in Acre (1286/1287), traversed the Holy Land
             as a pilgrim (1288), and travelled across the Middle East as missionary (1288-1291),
@@ -286,7 +286,8 @@
             Caesarea and Athlit, undoubtedly a local folk tradition, is uniquely attested
             here.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote233-1">
-        <anchor xml:id="testimonia-233.la.1" corresp="#testimonia-233.en.1"/>(23) Redeuntes inde venimus iuxta Ramam, civitatem Ioseph, qui sepelivit
+        <anchor xml:id="testimonia-233.la.1" corresp="#testimonia-233.en.1"/>
+        (23) Redeuntes inde venimus iuxta Ramam, civitatem Ioseph, qui sepelivit
             Christum. (24) Et inde iuxta decem miliaria <placeName>Cesaream</placeName> Philippi,
             que est super mare. (25) Inde viginti miliaria ad Cacho castellum. (26) et inde
             appropinquantes Castro Peregrini decem et octo miliaria venimus ad caveam virginis. (27)
@@ -295,9 +296,19 @@
             iuxta in via, que venit de <placeName>Cesarea</placeName> Philippi, et quiesceret super
             lapidem, lapis quasi liquatus et per semet ipsum lectum et concavum se faciens
             occultavit puerum et Mariam et Ioseph, ut non viderent eos quidam insequentes et
-            volentes eos ledere, ut dicunt.<ab type="source" source="#bib233-1"/><idno type="CTS-URN"/><ref target="https://babel.hathitrust.org/cgi/pt?id=hvd.32044019846799&amp;view=1up&amp;seq=125"/><note xml:lang="en" type="textual">Ed. Laurent 1873</note></ab>
+            volentes eos ledere, ut dicunt.
+        
+        
+        
+        
+      <ab type="source" source="#bib233-1"/>
+        <idno type="CTS-URN"/>
+        <ref target="https://babel.hathitrust.org/cgi/pt?id=hvd.32044019846799&amp;view=1up&amp;seq=125"/>
+        <note xml:lang="en" type="textual">Ed. Laurent 1873</note>
+      </ab>
       <ab type="translation" xml:lang="en" xml:id="quote233-2">
-        <anchor xml:id="testimonia-233.en.1" corresp="#testimonia-233.la.1"/>(23) Starting again from there (sc. Emmaus) we came to Rama, city of
+        <anchor xml:id="testimonia-233.en.1" corresp="#testimonia-233.la.1"/>
+        (23) Starting again from there (sc. Emmaus) we came to Rama, city of
             Joseph, who buried Christ. (24) And then after close to 10 miles (we came) to <placeName>Caesarea</placeName> Philippi, which is on the sea. (25) From there after
             20 miles (we came) to the castle Cacho. (26) And then approaching Pilgrim’s Castle after
             18 miles we came to the Cave of the Virgin. (27) The Cave of the Virgin is a pit near
@@ -307,6 +318,8 @@
             as though melted, turning itself into a bed on its own, hollowed out, hid the Child and
             Mary and Joseph, so that anyone pursuing and wanting to harm them could not see them,
             [or] so the story goes.<note xml:lang="en" type="translation">Trans. J. L. Rife</note>
+        
+        
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -325,6 +338,10 @@
           <citedRange unit="p">361-375</citedRange>
         </bibl>
       </listBibl>
+    
+      
+      
+      
     <note type="related-texts"/>
       <note type="geography">
         <p>Arimathea</p>

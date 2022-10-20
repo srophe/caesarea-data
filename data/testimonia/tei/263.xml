@@ -244,7 +244,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref n="a" target="#bib263-1">12.14-26</ref> written by <persName role="author" ref="http://viaf.org/viaf/54944687">Theophanes the
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref target="#bib263-1">12.14-26</ref> written by <persName role="author" ref="http://viaf.org/viaf/54944687">Theophanes the
                Confessor</persName> in <origDate notBefore="0810" notAfter="0814" period="#earlyIslamic">810-814 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/511218">Cyzicus</origPlace>.</creation>
       <langUsage>
         <language ident="grc">Ancient Greek</language>
@@ -254,10 +254,11 @@
           <idno type="CTS-URN"/>
         </classCode>
         <catRef scheme="#CM-Testimonia-Type" target="#direct"/>
-        <catRef scheme="#CM-NEAEH" target="#byzantine #earlyIslamic"/>
+        <catRef scheme="#CM-NEAEH" target="#byzantine"/>
       </textClass>
     </profileDesc>
     <revisionDesc status="draft">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
     </revisionDesc>
   </teiHeader>
@@ -267,7 +268,7 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/263</idno>
       </ab>
       <desc type="abstract" xml:id="abstract263-1"><quote><placeName>Καισαρείας</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/54944687">Theophanes the
-               Confessor</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref n="a" target="#bib263-1">12.14-26</ref>. This passage was written ca. <origDate notBefore="0810" notAfter="0814" period="#earlyIslamic">810-814 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/511218">Cyzicus</origPlace>.</desc>
+               Confessor</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref target="#bib263-1">12.14-26</ref>. This passage was written ca. <origDate notBefore="0810" notAfter="0814" period="#earlyIslamic">810-814 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/511218">Cyzicus</origPlace>.</desc>
       <desc type="context">Theophanes, born to noble parents in Constantinople, was raised in the
             Palace under Constantine V (740-775 C.E.) He spent much of his career as a member and
             leader of monastic communities around the Sea of Marmara, before his condemnation and
@@ -278,7 +279,8 @@
             records martydoms under Maximinus Daza, including Pamphilus of Caesarea, following the
             listing by Eusebius in his Church History (see Related Texts).</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote263-1">
-        <anchor xml:id="testimonia-263.grc.1" corresp="#testimonia-263.en.1"/>Τῷ δ’ αὐτῷ ἔτει Πέτρος, ὁ ἐπίσκοπος Ἀλεξανδρείας, ἐν τῇ φυλακῇ ὑπάρχων
+        <anchor xml:id="testimonia-263.grc.1" corresp="#testimonia-263.en.1"/>
+        Τῷ δ’ αὐτῷ ἔτει Πέτρος, ὁ ἐπίσκοπος Ἀλεξανδρείας, ἐν τῇ φυλακῇ ὑπάρχων
             προστάγματι Μαξιμιανοῦ τοῦ Γαλλερίου καὶ Μαξιμίνου, τοῦ υἱοῦ αὐτοῦ, τὴν κεφαλὴν
             ἀποτμηθεὶς ἐνδόξως ἐμαρτύρησεν· ὅστις τὸν Ἄρειον διάκονον ὄντα τῆς αὐτοῦ ἐκκλησίας
             ἀκοινώνητον ἐποίησεν· ὅστις μετὰ ταῦτα κακοδόξου αἱρέσεως προστάτης γεγονὼς πολλοὺς τῆς
@@ -286,10 +288,20 @@
             μαρτυρικὸν στέφανον ἀνεδήσαντο, ὧν εἰσι Φιλέας ἐπίσκοπος Θμούεως τῆς Αἰγύπτου, Πηλεὺς
             καὶ Νεῖλος ἐπίσκοποι τῆς Αἰγύπτου, Ἄνθιμος ἐπίσκοπος Νικομηδείας, Τυραννίων ἐπίσκοπος
             Τύρου, Σιλουανὸς ἐπίσκοπος Ἐμέσης, καὶ Σιλουανὸς ἐπίσκοπος Γάζης, Λουκιανὸς πρεσβύτερος
-            Ἀντιοχείας, Ζηνόβιος πρεσβύτερος Σιδῶνος, Πάμφιλος πρεσβύτερος <placeName>Καισαρείας</placeName>, καὶ ἄλλοι ἀναρίθμητοι.<ab type="source" source="#bib263-1"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="textual">Ed. de
-               Boor 1883</note></ab>
+            Ἀντιοχείας, Ζηνόβιος πρεσβύτερος Σιδῶνος, Πάμφιλος πρεσβύτερος <placeName>Καισαρείας</placeName>, καὶ ἄλλοι ἀναρίθμητοι.
+        
+        
+        
+        
+      <ab type="source" source="#bib263-1"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        <note xml:lang="en" type="textual">Ed. de
+               Boor 1883</note>
+      </ab>
       <ab type="translation" xml:lang="en" xml:id="quote263-2">
-        <anchor xml:id="testimonia-263.en.1" corresp="#testimonia-263.grc.1"/>[A.M. 5797=304/5 C.E.] In the same year Peter, bishop of Alexandria,
+        <anchor xml:id="testimonia-263.en.1" corresp="#testimonia-263.grc.1"/>
+        [A.M. 5797=304/5 C.E.] In the same year Peter, bishop of Alexandria,
             who had been imprisoned by order of Maximianus Galerius and his son Maximinus, was
             beheaded and underwent martyrdom gloriously. It was he who excommunicated Arius, who was
             deacon of his church and who later, as leader of an erroneous heresy, caused many to
@@ -297,7 +309,16 @@
             martyrs’ crown at the hands of these tyrants. Among them are Phileas, bishop of Thmouis
             in Egypt; Peleus and Nilus, bishops of Egypt; Anthimos, bishop of Nicomedia; Tyrannion,
             bishop of Tyre; Silvanus, bishop of Emesa; and Silvanus, bishop of Gaza; Lucian,
-            presbyter of Antioch; Zenobius, presbyter of Sidon; Pamphilus, presbyter of <placeName>Caesarea</placeName>; and countless others.<ab type="source" source="#bib263-2"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="translation">Trans. Mango, Scott, and Greatrex 1997</note></ab>
+            presbyter of Antioch; Zenobius, presbyter of Sidon; Pamphilus, presbyter of <placeName>Caesarea</placeName>; and countless others.
+        
+        
+        
+        
+      <ab type="source" source="#bib263-2"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        <note xml:lang="en" type="translation">Trans. Mango, Scott, and Greatrex 1997</note>
+      </ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib263-1">
@@ -309,6 +330,10 @@
           <citedRange unit="p">19</citedRange>
         </bibl>
       </listBibl>
+    
+      
+      
+      
     <note type="related-texts">
         <p>Chronicle of 724 100.2-3</p>
         <p>Eusebius, Church History 8.13.1-7</p>

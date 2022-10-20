@@ -244,8 +244,9 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Circumnavigation of the Inhabited
-               World</title> <ref n="a" target="#bib222-1">104</ref> written by <persName role="author" ref="http://viaf.org/viaf/291988135">Pseudo-Scylax</persName> in <origDate notBefore="0338" notAfter="0337" period="#byzantine">338-337 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/579885">Athens</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Circumnavigation of the Inhabited World</title>
+        <ref target="#bib222-1">104</ref> written by <persName role="author" ref="http://viaf.org/viaf/291988135">Pseudo-Scylax</persName> in <origDate notBefore="0338" notAfter="0337" period="#byzantine">0338 0337</origDate>. This work was
+        likely written in <origPlace ref="https://pleiades.stoa.org/places/579885">Athens</origPlace>.</creation>
       <langUsage>
         <language ident="grc">Ancient Greek</language>
       </langUsage>
@@ -253,11 +254,12 @@
         <classCode scheme="https://distributed-text-services.github.io/specifications">
           <idno type="CTS-URN"/>
         </classCode>
-        <catRef scheme="#CM-Testimonia-Type" target="#indirect"/>
+        <catRef scheme="#CM-Testimonia-Type" target="#direct #indirect"/>
         <catRef scheme="#CM-NEAEH" target="#classicalPeriod"/>
       </textClass>
     </profileDesc>
     <revisionDesc status="draft">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
     </revisionDesc>
   </teiHeader>
@@ -266,8 +268,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/222</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract222-1">Caesarea Maritima is indirectly attested at <persName role="author" ref="http://viaf.org/viaf/291988135">Pseudo-Scylax</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Circumnavigation of the Inhabited
-               World</title> <ref n="a" target="#bib222-1">104</ref>. This passage was written ca. <origDate notBefore="0338" notAfter="0337" period="#byzantine">338-337 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/579885">Athens</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract222-1">Caesarea Maritima is indirectly attested at <persName role="author" ref="http://viaf.org/viaf/291988135">Pseudo-Scylax</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Circumnavigation of the Inhabited World</title> <ref target="#bib222-1">104</ref>. This passage was written ca. <origDate notBefore="0338" notAfter="0337" period="#byzantine">0338 0337</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/579885">Athens</origPlace>.</desc>
       <desc type="context">An important treatise from the Late Classical Greek world records
             sites and distances in the coastal voyage, or “circumnavigation” (περίπλους), of the
             Mediterranean and Black Seas around from Gibraltar. It was written as a geographical
@@ -283,7 +284,8 @@
             third of the 4th century B.C., if not also the author’s decision to omit an existing
             settlement e.g. at Apollonia (Arsuf).</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote222-1">
-        <anchor xml:id="testimonia-222.grc.1" corresp="#testimonia-222.en.1"/>{Συρίας καὶ Φοινίκη.} Ἔστι μετὰ Κιλικίαν ἔθνος Σύροι. Ἐν δὲ τῇ Συρίᾳ
+        <anchor xml:id="testimonia-222.grc.1" corresp="#testimonia-222.en.1"/>
+        {Συρίας καὶ Φοινίκη.} Ἔστι μετὰ Κιλικίαν ἔθνος Σύροι. Ἐν δὲ τῇ Συρίᾳ
             οἰκοῦσι τὰ παρὰ θάλατταν Φοίνικες ἔθνος, ἐπὶ στενὸν ἔλαττον ἢ ἐπὶ τετταράκοντα σταδίους
             ἀπὸ θαλάττης, ἐνιαχῆ δὲ οὐδὲ ἐπὶ σταδίους ιʹ τὸ πλάτος. Ἀπὸ δὲ Θαψάκου ποταμοῦ ἐστὶ
             Τρίπολις Φοινίκων, Ἄραδος νῆσος καὶ λιμὴν, βασίλεια Τύρου καὶ λιμὴν ὅσον ηʹ στάδια ἀπὸ
@@ -298,30 +300,49 @@
             Σιδωνίων. [Μάγδολος πόλις] καὶ ποταμὸς Τυρίων. Δῶρος πόλις Σιδωνίων, κ[αὶ Ἰόππη πόλις·
             ἐκτε]θῆναί φασιν ἐνταῦθα τὴν Ἀνδρομ[έδαν τῷ κήτει. Ἀσκά]λων πόλις Τυρίων καὶ βασίλεια.
             Ἐνταῦ[θα ὅρος ἐστὶ τῆς Κοίλης] Συρίας. Παράπλους Κοίλης Συρίας [ἀπὸ Θαψάκου ποταμοῦ
-            μέχρι] Ἀσκάλωνος στάδια ͵βψʹ.<ab type="source" source="#bib222-1"/><idno type="CTS-URN"/><ref target="https://archive.org/details/chroniquedernoul00ernouoft/page/112/mode/2up"/><note xml:lang="en" type="textual">Ed. Shipley 2020</note></ab>
+            μέχρι] Ἀσκάλωνος στάδια ͵βψʹ.
+        
+        
+        
+        
+      <ab type="source" source="#bib222-1"/>
+        <idno type="CTS-URN"/>
+        <ref target="https://archive.org/details/chroniquedernoul00ernouoft/page/112/mode/2up"/>
+        <note xml:lang="en" type="textual">Ed. Shipley 2020</note>
+      </ab>
       <ab type="translation" xml:lang="en" xml:id="quote222-2">
-        <anchor xml:id="testimonia-222.en.1" corresp="#testimonia-222.grc.1"/>{Syria and Phoenicia.} There is after Cilicia the community of the
-            Syroi. And in Syria there live, in the seaward part, the Phoinikes, a community, on a
-            narrow plain less than up to 40 stades from the sea, and in some places not even up to
-            10 stades in width. And past the River Thrapsakos is Tripolis of the Phoinikes. Arados
-            island with a harbor, a royal seat of Tyros with a harbor roughly 8 stades from the
-            shore. And on the peninsula is a second city of Tripolis: this belongs to Arados, Tyros,
-            and Sidon; in the same place are three cities, and each has its own circuit of the
-            enclosure wall. And a mountain, Theou Prosopon. Trieres, ⟨a city⟩ with a harbor.
-            Berytos, a city with a harbor. ⟨The river⟩ Bostrenos. Porphyreon, a city. ⟨Leonton
-            Polis.⟩ Sidon, a city with an enclosed harbor. Ornithon Polis. Belonging to the Sidonioi
-            (is the area) from Leonton Polis as far as Ornithon Polis. Belonging to the Tyrioi is
-            the city of Sarapta. The city of Tyros, possessing a harbor within a fort; and this
-            island is a royal seat of the Tyrioi, and it is 3 stades from the sea. Palaityros, a
-            city, and a river that flows through the middle. And a city of the Tyrioi, ⟨Ekdippa,⟩
-            with a river. Αnd Αke, a city. Exope, a city of the Ty⟨rioi. Karmelos⟩, a mountain
-            sacred to Zeus. Arados, a city of the Sidonioi. ⟨Magdolos, a city⟩ and river of the
-            Tyrioi. Doros, a city of the Sidonioi. ⟨Ioppe, a city;⟩ they say it was here that
-            Androm⟨eda⟩ was ⟨ex⟩posed ⟨to the sea monster. Aska⟩lon, a city of the Tyrioi and a
-            royal seat. Her⟨e is the border of Koile⟩ Syria. Coastal voyage down Koile Syria ⟨from
-            the River Thrapsakos as far as⟩ Askalon: 2,700 stades.<ab type="source" source="#bib222-2"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="translation">Rev.
-               Shipley 2020</note><note xml:lang="en" type="discussion">Bostrenos is a toponym suggested by Müller
-               (1855, p. cxxxviii) and given by Shipley (2020, pp. 81, 187).</note></ab>
+        <anchor xml:id="testimonia-222.en.1" corresp="#testimonia-222.grc.1"/>
+        {Syria and Phoenicia.}
+        There is after Cilicia the community of the Syroi. And in Syria there live, in the seaward
+        part, the Phoinikes, a community, on a narrow plain less than up to 40 stades from the sea,
+        and in some places not even up to 10 stades in width. And past the River Thrapsakos is
+        Tripolis of the Phoinikes. Arados island with a harbor, a royal seat of Tyros with a harbor
+        roughly 8 stades from the shore. And on the peninsula is a second city of Tripolis: this
+        belongs to Arados, Tyros, and Sidon; in the same place are three cities, and each has its
+        own circuit of the enclosure wall. And a mountain, Theou Prosopon. Trieres, ⟨a city⟩ with a
+        harbor. Berytos, a city with a harbor. ⟨The river⟩ Bostrenos. Porphyreon, a city. ⟨Leonton
+        Polis.⟩ Sidon, a city with an enclosed harbor. Ornithon Polis. Belonging to the Sidonioi (is
+        the area) from Leonton Polis as far as Ornithon Polis. Belonging to the Tyrioi is the city
+        of Sarapta. The city of Tyros, possessing a harbor within a fort; and this island is a royal
+        seat of the Tyrioi, and it is 3 stades from the sea. Palaityros, a city, and a river that
+        flows through the middle. And a city of the Tyrioi, ⟨Ekdippa,⟩ with a river. Αnd Αke, a
+        city. Exope, a city of the Ty⟨rioi. Karmelos⟩, a mountain sacred to Zeus. Arados, a city of
+        the Sidonioi. ⟨Magdolos, a city⟩ and river of the Tyrioi. Doros, a city of the Sidonioi.
+        ⟨Ioppe, a city;⟩ they say it was here that Androm⟨eda⟩ was ⟨ex⟩posed ⟨to the sea monster.
+        Aska⟩lon, a city of the Tyrioi and a royal seat. Her⟨e is the border of Koile⟩ Syria.
+        Coastal voyage down Koile Syria ⟨from the River Thrapsakos as far as⟩ Askalon: 2,700
+          stades.
+        
+        
+        
+        
+      <ab type="source" source="#bib222-2"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        <note xml:lang="en" type="translation">Rev. Shipley 2020</note>
+        <note xml:lang="en" type="discussion">Bostrenos is a toponym suggested by Müller (1855, p. cxxxviii) and
+          given by Shipley (2020, pp. 81, 187).</note>
+      </ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib222-1">
@@ -344,6 +365,10 @@
           <ptr target="https://caesarea-maritima.org/bibl/QFKWEVDS"/>
         </bibl>
       </listBibl>
+    
+      
+      
+      
     <note type="related-texts">
         <p>Marcianus of Heracleia, FGrH 2046 T 6</p>
         <p>Suda σ 510</p>

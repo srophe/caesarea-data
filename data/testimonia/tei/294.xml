@@ -243,7 +243,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Book of Places</title> <ref n="e" target="#bib294-1">163</ref> written by <persName ref="http://viaf.org/viaf/95147024" role="author">Jerome</persName> in <origDate notBefore="0390" notAfter="0420" period="#byzantine">390-420 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Book of Places</title> <ref target="#bib294-1">163</ref> written by <persName ref="http://viaf.org/viaf/95147024" role="author">Jerome</persName> in <origDate notBefore="0390" notAfter="0420" period="#byzantine">390-420 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</creation>
       <langUsage>
         <language ident="la">Latin</language>
       </langUsage>
@@ -256,6 +256,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc status="draft">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
     </revisionDesc>
   </teiHeader>
@@ -264,24 +265,37 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/294</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract294-1"><quote><placeName>Caesarea Palaestinae</placeName></quote>, and <quote><placeName>Caesarea Palestinae</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/95147024" role="author">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Book of Places</title> <ref n="e" target="#bib294-1">163</ref>. This passage was written ca. <origDate notBefore="0390" notAfter="0420" period="#byzantine">390-420 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract294-1"><quote><placeName>Caesarea Palaestinae</placeName></quote>, and <quote><placeName>Caesarea Palestinae</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/95147024" role="author">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Book of Places</title> <ref target="#bib294-1">163</ref>. This passage was written ca. <origDate notBefore="0390" notAfter="0420" period="#byzantine">390-420 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</desc>
       <desc type="context">In his lexicon of place names in Hebrew Scripture, Jerome wrote
-            concerning marshy Saron named at Isaiah 33:9 that in his time there were two regions
-            called Saronas, one between Caesarea and Joppa. The same information is recorded in the
-            parallel passage at Eusebius, Dictionary of Place Names 162, written roughly one century
-            before Jerome’s work.</desc>
+        concerning marshy Saron, named at <title>Isaiah</title> 33:9, that in his time there were
+        two regions called Saronas, one between Caesarea and Joppa. The same information is recorded
+        in the parallel passage at Eusebius, <title>Dictionary of Place Names</title> 162, written
+        roughly one century before Jerome’s work.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote294-1">
-        <anchor xml:id="testimonia-294.la.1" corresp="#testimonia-294.en.1"/>Saron, cuius et Esaias meminit dicens “in paludes versus est Saron.”
+        <anchor xml:id="testimonia-294.la.1" corresp="#testimonia-294.en.1"/>
+        Saron, cuius et Esaias meminit dicens “in paludes versus est Saron.”
             usque in praesentem autem diem regio inter montem Thabor et stagnum Tiberiadis Saronas
             appellatur. sed et a <placeName>Caesarea Palaestinae</placeName> usque ad oppidum Ioppe
-            omnis terra quae cernitur, dicitur Saronas.<ab type="source" source="#bib294-1"/><idno type="CTS-URN"/><ref target="urn:cts:greekLit:tlg2018.tlg011.opp-lat1:18"/><note xml:lang="en" type="textual">Ed. Klosterman
-               1904</note></ab>
+            omnis terra quae cernitur, dicitur Saronas.
+        
+        
+        
+        
+      <ab type="source" source="#bib294-1"/>
+        <idno type="CTS-URN"/>
+        <ref target="urn:cts:greekLit:tlg2018.tlg011.opp-lat1:18"/>
+        <note xml:lang="en" type="textual">Ed. Klosterman
+               1904</note>
+      </ab>
       <ab type="translation" xml:lang="en" xml:id="quote294-2">
-        <anchor xml:id="testimonia-294.en.1" corresp="#testimonia-294.la.1"/>Saron, which Isaiah also mentioned, saying, “Saron turned into
+        <anchor xml:id="testimonia-294.en.1" corresp="#testimonia-294.la.1"/>
+        Saron, which Isaiah also mentioned, saying, “Saron turned into
             swamp.” Even up to the present day the region between Mount Thabor and Lake Tiberias is
             called Saronas. All the land seen from <placeName>Caesarea Palestinae</placeName> as far
             as the town Joppa is also called Saronas.<note xml:lang="en" type="translation">Trans. J. L.
                Rife</note>
+        
+        
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -298,6 +312,10 @@
           <ptr target="https://caesarea-maritima.org/bibl/66T989F7"/>
         </bibl>
       </listBibl>
+    
+      
+      
+      
     <note type="related-texts">
         <p>Eusebius, Dictionary of Place Names 162</p>
         <p>Isaiah 33:9</p>

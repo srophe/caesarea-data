@@ -246,7 +246,7 @@
         <p/>
       </abstract>
       <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Secrets for Those Faithful to the
-               Cross</title> <ref n="j" target="#bib336-1">3.10.5</ref> written by <persName role="author" ref="http://viaf.org/viaf/1018158675954427500005">Marino Sanudo
+               Cross</title> <ref target="#bib336-1">3.10.5</ref> written by <persName role="author" ref="http://viaf.org/viaf/1018158675954427500005">Marino Sanudo
                the Elder</persName> in <origDate notBefore="1306" notAfter="1321" period="#lateIslamic">1306-1321 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/560221">Aegean Greece</origPlace>.</creation>
       <langUsage>
         <language ident="la">Latin</language>
@@ -260,6 +260,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc status="draft">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
     </revisionDesc>
   </teiHeader>
@@ -270,32 +271,53 @@
       </ab>
       <desc type="abstract" xml:id="abstract336-1"><quote><placeName>Caesaream</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/1018158675954427500005">Marino Sanudo
                the Elder</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Secrets for Those Faithful to the
-               Cross</title> <ref n="j" target="#bib336-1">3.10.5</ref>. This passage was written ca. <origDate notBefore="1306" notAfter="1321" period="#lateIslamic">1306-1321 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/560221">Aegean Greece</origPlace>.</desc>
-      <desc type="context">Marino Sanudo the Elder of Torcello, from a wealthy and powerful
-            Venetian family, was a statesman and geographer who spent much of his career from the
-            late 13th century until his death in 1338 living and travelling abroad, particularly in
-            the Peloponnese and Aegean islands, Cyprus and Cilicia, Constantinople, the Levant, and
-            Egypt, but also in western and northern Europe. A learned and eloquent advocate for a
-            new crusade to the Holy Land, he wrote the voluminous Secrets for Those Faithful to the
-            Cross (Secreta fidelium Crucis), a strategic manual full of economic, military, and
-            geographic detail as well as maps, and presented different versions of it to popes
-            Clement V (in 1307) and John XXII (in 1321). This passage from Marino Sanudo’s account
-            of the Holy Land describes Saladin’s destruction of the coastal cities, including
-            Caesarea, in the aftermath of the disastrous conclusion of the siege of Acre in
-            midsummer of 1191.</desc>
+               Cross</title> <ref target="#bib336-1">3.10.5</ref>. This passage was written ca. <origDate notBefore="1306" notAfter="1321" period="#lateIslamic">1306-1321 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/560221">Aegean Greece</origPlace>.</desc>
+      <desc type="context">Marino Sanudo the Elder of Torcello, from a wealthy and powerful Venetian
+        family, was a statesman and geographer who spent much of his career from the late 13th
+        century until his death in 1338 living and travelling abroad, particularly in the
+        Peloponnese and Aegean islands, Cyprus and Cilicia, Constantinople, the Levant, and Egypt,
+        but also in western and northern Europe. A learned and eloquent advocate for a new crusade
+        to the Holy Land, he wrote the voluminous <title>Secrets for Those Faithful to the
+          Cross</title> (<title>Secreta fidelium Crucis</title>), a strategic manual full of
+        economic, military, and geographic detail as well as maps, and presented different versions
+        of it to popes Clement V (in 1307) and John XXII (in 1321). This passage from Marino
+        Sanudo’s account of the Holy Land describes Saladin’s destruction of the coastal cities,
+        including Caesarea, in the aftermath of the disastrous conclusion of the siege of Acre in
+        midsummer of 1191.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote336-1">
-        <anchor xml:id="testimonia-336.la.1" corresp="#testimonia-336.en.1"/>Cernens tortuosus coluber Saladinus captam civitatem Ptolomaydam et
-            pugnatorum suorum multitudinem interemptam consternatus est animo. Nam electos ibi
-            locaverat pugnatores (II. cap. supra) et diffidens cetera posse tueri, maritima loca
-            destruxit: Poyphyriam scilicet, et <placeName>Caesaream</placeName>, Iopen, Ascalonem,
-            Gazam et Darum. Post haec rex Riccardus Iopen reaedificans sub munita fidaque custodia
-            tutam reliquit.<ab type="source" source="#bib336-1"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="textual">Ed. Bongars 1611</note><note xml:lang="en" type="corrigenda">Minor corr. J. L. Rife</note></ab>
+        <anchor xml:id="testimonia-336.la.1" corresp="#testimonia-336.en.1"/>
+        Cernens tortuosus
+        coluber Saladinus captam civitatem Ptolomaydam et pugnatorum suorum multitudinem interemptam
+        consternatus est animo. Nam electos ibi locaverat pugnatores (II. cap. supra) et diffidens
+        cetera posse tueri, maritima loca destruxit: Poyphyriam scilicet, et
+          <placeName>Caesaream</placeName>, Iopen, Ascalonem, Gazam et Darum. Post haec rex
+        Riccardus Iopen reaedificans sub munita fidaque custodia tutam reliquit.
+        
+        
+        
+        
+      <ab type="source" source="#bib336-1"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        <note xml:lang="en" type="textual">Ed. Bongars 1611</note>
+        <note xml:lang="en" type="corrigenda">Minor corr.</note>
+      </ab>
       <ab type="translation" xml:lang="en" xml:id="quote336-2">
-        <anchor xml:id="testimonia-336.en.1" corresp="#testimonia-336.la.1"/>Saladin, the slippery snake, observing that the city Ptolomayda was
+        <anchor xml:id="testimonia-336.en.1" corresp="#testimonia-336.la.1"/>
+        Saladin, the slippery snake, observing that the city Ptolomayda was
             captured and many of his warriors killed, was dispirited, for he had stationed his
             select warriors there (Chapter 2 above). Losing hope that the other places could be
             protected, he destroyed the coastal towns, namely, Porphyria, <placeName>Caesarea</placeName>, Jaffa, Ascalon, Gaza, and Darus. After this King
-            Richard rebuilt Jaffa and left it safe under strong and loyal guards.<ab type="source" source="#bib336-2"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="translation">Adapted from Lock 2011</note></ab>
+            Richard rebuilt Jaffa and left it safe under strong and loyal guards.
+        
+        
+        
+        
+      <ab type="source" source="#bib336-2"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        <note xml:lang="en" type="translation">Adapted from Lock 2011</note>
+      </ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib336-1">
@@ -308,6 +330,10 @@
           <citedRange unit="p">315</citedRange>
         </bibl>
       </listBibl>
+    
+      
+      
+      
     <note type="related-texts"/>
       <note type="geography">
         <p>Ascalon (Ashkelon)</p>

@@ -244,7 +244,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref n="b" target="#bib134-1">10.2</ref> written by <persName role="author" ref="http://viaf.org/viaf/88969561">John Malalas</persName> in <origDate notBefore="0530" notAfter="0532" period="#byzantine">530-532 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/658381">Antioch on the
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref target="#bib134-1">10.2</ref> written by <persName role="author" ref="http://viaf.org/viaf/88969561">John Malalas</persName> in <origDate notBefore="0530" notAfter="0532" period="#byzantine">530-532 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/658381">Antioch on the
                Orontes</origPlace>.</creation>
          <langUsage>
             <language ident="grc">Ancient Greek</language>
@@ -258,6 +258,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc status="draft">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
          <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
       </revisionDesc>
    </teiHeader>
@@ -266,35 +267,56 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/134</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract134-1"><quote><placeName>Καισαρείας Παλαιστίνης</placeName></quote>, and <quote><placeName>Caesarea of Palestine</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/88969561">John Malalas</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref n="b" target="#bib134-1">10.2</ref>. This passage was written ca. <origDate notBefore="0530" notAfter="0532" period="#byzantine">530-532 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/658381">Antioch on the
+         <desc type="abstract" xml:id="abstract134-1"><quote><placeName>Καισαρείας Παλαιστίνης</placeName></quote>, and <quote><placeName>Caesarea of Palestine</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/88969561">John Malalas</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref target="#bib134-1">10.2</ref>. This passage was written ca. <origDate notBefore="0530" notAfter="0532" period="#byzantine">530-532 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/658381">Antioch on the
                Orontes</origPlace>.</desc>
-         <desc type="context">John Malalas, a moniker probably derived from Aramaic malolo meaning
-            “orator”, was an educated Syrian who moved from Antioch to Constantinople early in the
-            reign of Justinian I. His only known work is a historical chronicle in 18 books,
-            apparently composed in two editions, spanning from early times probably to the death of
-            Justinian, with a distinct focus on events in the eastern Mediterranean. In his long
-            passage on the activities of Augustus in the East, John discusses the chronology of the
-            birth of Christ and cites Eusebius of Caesarea as a learned authority.</desc>
+         <desc type="context">John Malalas, a moniker probably derived from Aramaic
+               <foreign>malolo</foreign> meaning “orator”, was an educated Syrian who moved from
+            Antioch to Constantinople early in the reign of Justinian I. His only known work is a
+            historical chronicle in 18 books, apparently composed in two editions, spanning from
+            early times probably to the death of Justinian, with a distinct focus on events in the
+            eastern Mediterranean. In his long passage on the activities of Augustus in the East,
+            John discusses the chronology of the birth of Christ and cites Eusebius of Caesarea as a
+            learned authority.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote134-1">
-        <anchor xml:id="testimonia-134.grc.1" corresp="#testimonia-134.en.1"/>τῇ δὲ ἕκτῃ ἡμέρᾳ, ὡς προεῖπεν ἡ γραφή, ἔπλασεν ὁ θεὸς τὸν ἄνθρωπον, καὶ
+        <anchor xml:id="testimonia-134.grc.1" corresp="#testimonia-134.en.1"/>
+        τῇ δὲ ἕκτῃ ἡμέρᾳ, ὡς προεῖπεν ἡ γραφή, ἔπλασεν ὁ θεὸς τὸν ἄνθρωπον, καὶ
             ὑπέπεσε τῇ ἁμαρτίᾳ ὁ ἄνθρωπος· ὡς δῆλον εἶναι ὅτι οὕτω καὶ τῇ ἕκτῃ ἡμέρᾳ τῆς χιλιάδος
             ἐπὶ τῆς γῆς ἐφάνη ὁ δεσπότης ἡμῶν Ἰησοῦς ὁ Χριστός, καὶ ἔσωσε τὸν ἄνθρωπον διὰ τοῦ
             σταυροῦ καὶ τῆς ἀναστάσεως· ἅτινα συνεγράψατο Κλήμης, Θεόφιλος, καὶ Τιμόθεος, οἱ σοφοὶ
             χρονογράφοι, ὁμοφωνήσαντες. ὁ δὲ θεοφιλέστατος χρονογράφος Εὐσέβιος ὁ Παμφίλου ὁ
             γενόμενος ἐπίσκοπος <placeName>Καισαρείας Παλαιστίνης</placeName> τῇ μὲν ἕκτῃ χιλιάδι
             τῶν ἐνιαυτῶν λέγει καὶ αὐτὸς φανῆναι τὸν ὅλων σωτῆρα καὶ κύριον Ἰησοῦν Χριστόν, κατὰ τὸν
-            ἀριθμὸν τῶν ἓξ ἡμερῶν τῆς πλάσεως τοῦ Ἀδάμ …<ab type="source" source="#bib134-1"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="textual">Ed. Thurn
-               2000</note></ab>
+            ἀριθμὸν τῶν ἓξ ἡμερῶν τῆς πλάσεως τοῦ Ἀδάμ … 
+        
+        
+        
+        
+      <ab type="source" source="#bib134-1"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        <note xml:lang="en" type="textual">Ed. Thurn
+               2000</note>
+      </ab>
          <ab type="translation" xml:lang="en" xml:id="quote134-2">
-        <anchor xml:id="testimonia-134.en.1" corresp="#testimonia-134.grc.1"/>It was on the sixth day, as Scripture says, that God created man and
+        <anchor xml:id="testimonia-134.en.1" corresp="#testimonia-134.grc.1"/>
+        It was on the sixth day, as Scripture says, that God created man and
             man fell into sin. So it is clear that thus on the millenium’s sixth day our Lord Jesus
             Christ appeared on earth and saved man through the cross and resurrection. These things
             the learned chroniclers Clement, Theophilus, and Timotheus recorded in agreement. The
             chronicler, Eusebius Pamphili, most dear to God, who became bishop of
                <placeName>Caesarea of Palestine</placeName>, also says that the Lord Jesus Christ,
             the Savior of all, appeared in the sixth millenium, corresponding to the number of the
-            six days of Adam’s creation.<ab type="source" source="#bib134-2"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="translation">Adapted from Jeffreys et al.
-               2017</note></ab>
+            six days of Adam’s creation.
+        
+        
+        
+        
+      <ab type="source" source="#bib134-2"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        <note xml:lang="en" type="translation">Adapted from Jeffreys et al.
+               2017</note>
+      </ab>
          <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib134-1">
@@ -307,7 +329,11 @@
           <citedRange unit="p">173-174</citedRange>
         </bibl>
       </listBibl>
-      <note type="related-texts">
+      
+      
+      
+      
+    <note type="related-texts">
         <p>Hesychius of Jerusalem, Sermon 1=PG 93.1449A-B</p>
         <p>Hesychius of Miletus, Compendium of Universal History 3</p>
         <p>Laterculus Malalianus (MGHAA 13) 427.3-36</p>

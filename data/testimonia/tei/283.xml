@@ -283,8 +283,12 @@
             ibi sepultus fuit Abraham. Ascalon primo dicta Philistim, urbs fuit Philistinorum. Gaza
             sic semper dicta fuit. Que nunc Sanctus Georgius dicitur, Lidda¬ dicta fuit. <placeName>Cesarea</placeName> primo Dor, postea <placeName>Turris
                Stratonis</placeName>, nunc <placeName>Cesarea</placeName> ad honorem Cesar est
-            vocata. Caifa, primo Porfiria. Acon postea Ptolomaida.<ab type="source" source="#bib283-1"/><idno type="CTS-URN"/><ref/><note xml:lang="en" type="textual">Ed. Neumann
-               1866</note></ab>
+            vocata. Caifa, primo Porfiria. Acon postea Ptolomaida.<ab type="source" source="#bib283-1"/>
+        <idno type="CTS-URN"/>
+        <ref/>
+        <note xml:lang="en" type="textual">Ed. Neumann
+               1866</note>
+      </ab>
       <ab type="translation" xml:lang="en" xml:id="quote283-2">
         <anchor xml:id="testimonia-283.en.1" corresp="#testimonia-283.la.1"/>The names of cities and places have changed gradually due to the
             changing of the peoples who inhabitated the land at different times. Jerusalem was at
@@ -295,8 +299,12 @@
             first called Philistim, it was the city of the Philistines. Gaza was always called thus.
             The place that is today St. George was called Lidda. <placeName>Caesarea</placeName> was
             at first Dor, later <placeName>Strato’s Tower</placeName>, and now it is called <placeName>Caesarea</placeName> in honor of Caesar. Caifa was at first Porphyria.
-            Accon came after Ptolemaïs.<ab type="source" source="#bib283-2"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="translation">Adapted from Stewart
-               1894</note></ab>
+            Accon came after Ptolemaïs.<ab type="source" source="#bib283-2"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        <note xml:lang="en" type="translation">Adapted from Stewart
+               1894</note>
+      </ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib283-1">

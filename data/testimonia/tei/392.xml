@@ -285,7 +285,8 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Apology Against Rufinus</title> <ref n="b" target="#bib392-1">2.18</ref> written by <persName role="author" ref="http://viaf.org/viaf/95147024">Jerome</persName> in <origDate when="0401" period="#byzantine">401 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Apology Against Rufinus</title>
+            <ref target="#bib392-1">2.18</ref> written by <persName role="author" ref="http://viaf.org/viaf/95147024">Jerome</persName> in <origDate notBefore="" notAfter="" period="#">0401</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</creation>
          <langUsage>
             <language ident="la">Latin</language>
          </langUsage>
@@ -298,6 +299,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc status="draft">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
          <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
       </revisionDesc>
    </teiHeader>
@@ -306,7 +308,7 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/392</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract392-1">Caesarea Maritima is indirectly attested at <persName role="author" ref="http://viaf.org/viaf/95147024">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Apology Against Rufinus</title> <ref n="b" target="#bib392-1">2.18</ref>. This passage was written ca. <origDate when="0401" period="#byzantine">401 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</desc>
+         <desc type="abstract" xml:id="abstract392-1">Caesarea Maritima is indirectly attested at <persName role="author" ref="http://viaf.org/viaf/95147024">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Apology Against Rufinus</title> <ref target="#bib392-1">2.18</ref>. This passage was written ca. <origDate notBefore="" notAfter="" period="#">0401</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</desc>
          <desc type="context">In a long letter he wrote to his associates Pammachius and Marcella in
             401, Jerome struck at first a defensive and then an offensive stance in the ongoing
             Origenist controversy that had embroiled the episcopate of Jerusalem since the early
@@ -323,7 +325,8 @@
             quoted but misrepresented and misconstrued. This testimony sheds light on the
             controversial transition of Origen from Alexandria to Caesarea around 231 C.E.</desc>
          <ab type="edition" xml:lang="la" xml:id="quote392-1">
-        <anchor xml:id="testimonia-392.la.1" corresp="#testimonia-392.en.1"/>Praemissa falsatione ab haereticis apostolorum et utriusque Clementis
+        <anchor xml:id="testimonia-392.la.1" corresp="#testimonia-392.en.1"/>
+        Praemissa falsatione ab haereticis apostolorum et utriusque Clementis
             atque Dionysii, venit ad Origenem, et his verbis loquitur: “Ipsius hoc conquerentis et
             deplorantis scriptis ac vocibus probavimus. Quid enim ipse, cum adhuc esset in carne
             vivens, sentiens vidensque, perpessus sit de librorum suorum vel sermonum
@@ -333,14 +336,20 @@
             interpretans ut habetur in Graeco, nec id Latinis insinuans, quod ipse in suis litteris
             profitetur. Cumque ille tota epistula Demetrium Alexandrinae urbis pontificem laceret,
             et in totius orbis episcopos et clericos invehatur,et frustra ab Ecclesiis
-            excommunicatum esse se dicat, nec velle in maledictis referre vicem …<ab type="source" source="#bib392-1"/>
+            excommunicatum esse se dicat, nec velle in maledictis referre vicem …
+        
+        
+        
+        
+      <ab type="source" source="#bib392-1"/>
         <idno type="CTS-URN">https://archive.org/details/patrologiaecurs01goog/page/n236/mode/2up</idno>
         <note xml:lang="en" type="textual">Ed. Migne 1883 </note>
         <note xml:lang="en" type="textual">Ref. Lardet
                1982</note>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote392-2">
-        <anchor xml:id="testimonia-392.en.1" corresp="#testimonia-392.la.1"/>After this preface as to the falsification by heretics of the
+        <anchor xml:id="testimonia-392.en.1" corresp="#testimonia-392.la.1"/>
+        After this preface as to the falsification by heretics of the
             apostles, of both Clements, and of Dionysius, (Rufinus) comes to Origen. These are his
             words: “I have shown from (Origen’s) own writings and words how he himself complains of
             this and deplores it. He explains clearly in the letter which he wrote to some close
@@ -352,7 +361,12 @@
             nor does he convey in Latin what Origen states in his own writing. The object of the
             whole letter is to savage Demetrius the pontiff of Alexandria, and to inveigh against
             bishops and clerics throughout the world, and to tell them that their excommunication of
-            him is invalid; and he says he does not wish to respond to their evil speech …<ab type="source" source="#bib392-2"/>
+            him is invalid; and he says he does not wish to respond to their evil speech …
+        
+        
+        
+        
+      <ab type="source" source="#bib392-2"/>
         <idno type="CTS-URN"/>
         <ref/>
         <note xml:lang="en" type="translation">Adapted from Fremantle 1892 with ref. to Lardet 1983</note>
@@ -385,7 +399,11 @@
           <ptr target="https://caesarea-maritima.org/bibl/MUU4ALR4"/>
         </bibl>
       </listBibl>
-      <note type="related-texts"/>
+      
+      
+      
+      
+    <note type="related-texts"/>
       <note type="geography">
         <p>Alexandria</p>
       </note>
@@ -398,11 +416,11 @@
         <p>Rufinus, Tyrannius</p>
       </note>
       <note type="themes">
-        <p>Latin Language</p>
         <p>Christian Bible</p>
         <p>Christianity</p>
         <p>Education (sacred)</p>
         <p>Greek Language</p>
+        <p>Latin Language</p>
         <p>Society and Culture</p>
       </note>
     </body>

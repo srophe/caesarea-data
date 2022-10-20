@@ -243,7 +243,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Bordeaux Itinerary</title> <ref n="c" target="#bib237-1">600.1-6</ref> written by <persName role="author">Unknown</persName> in <origDate notBefore="0333" notAfter="0334" period="#byzantine">333-334 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Bordeaux Itinerary</title> <ref target="#bib237-1">600.1-6</ref> written by <persName role="author">Unknown</persName> in <origDate notBefore="0333" notAfter="0334" period="#byzantine">333-334 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</creation>
       <langUsage>
         <language ident="la">Latin</language>
       </langUsage>
@@ -256,6 +256,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc status="draft">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
     </revisionDesc>
   </teiHeader>
@@ -264,22 +265,36 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/237</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract237-1">and <quote><placeName>Caesarea</placeName></quote> is directly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Bordeaux Itinerary</title> <ref n="c" target="#bib237-1">600.1-6</ref>. This passage was written ca. <origDate notBefore="0333" notAfter="0334" period="#byzantine">333-334 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
-      <desc type="context">The earliest firsthand account of Christian pilgrimage that survives
-            was written by an unknown man from Bordeaux in southwestern France (Roman Burdigala) who
-            travelled overland to Syria and Palestine in 333-334 C.E. His account, which is
-            organized as a strict itinerary according to distances between sites, cites topographic
-            associations with the stories in the Hebrew and Christian bibles and recounts local
-            tradition. This passage maps the trip from Jersualem and north up the coast to Caesarea
-            Maritima.</desc>
+      <desc type="abstract" xml:id="abstract237-1">and <quote><placeName>Caesarea</placeName></quote> is directly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Bordeaux Itinerary</title> <ref target="#bib237-1">600.1-6</ref>. This passage was written ca. <origDate notBefore="0333" notAfter="0334" period="#byzantine">333-334 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
+      <desc type="context">The earliest firsthand account of Christian pilgrimage that survives was
+        written by an unknown man from Bordeaux in southwestern France (Roman
+          <foreign>Burdigala</foreign>) who travelled overland to Syria and Palestine in 333-334
+        C.E. His account, which is organized as a strict itinerary according to distances between
+        sites, cites topographic associations with the stories in the Hebrew and Christian bibles
+        and recounts local tradition. This passage maps the trip from Jersualem and north up the
+        coast to Caesarea.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote237-1">
-        <anchor xml:id="testimonia-237.la.1" corresp="#testimonia-237.en.1"/>Item ab Ierusalem, sic: civitas Nicopoli mil. XXII civitas Lidda mil. X
-            mutatio Antipatrida mil. X mutatio Batthar mil. X civitas <placeName>Caesarea</placeName> mil. XVI<ab type="source" source="#bib237-1"/><idno type="CTS-URN"/><ref/><note xml:lang="en" type="textual">Ed. Cuntz
-               1929</note></ab>
+        <anchor xml:id="testimonia-237.la.1" corresp="#testimonia-237.en.1"/>
+        Item ab Ierusalem, sic:
+       <lb/>civitas Nicopoli mil. XXII<lb/>civitas Lidda mil. X<lb/>mutatio Antipatrida mil. X<lb/>mutatio
+        Batthar mil. X<lb/>civitas <placeName>Caesarea</placeName> mil. XVI
+        
+        
+        
+        
+      <ab type="source" source="#bib237-1"/>
+        <idno type="CTS-URN"/>
+        <ref/>
+        <note xml:lang="en" type="textual">Ed.
+          Cuntz 1929</note>
+      </ab>
       <ab type="translation" xml:lang="en" xml:id="quote237-2">
-        <anchor xml:id="testimonia-237.en.1" corresp="#testimonia-237.la.1"/>Likewise from Jerusalem it goes: City: Nicopoli 22 miles City: Lidda
-            10 miles Exchange: Antipatrida 10 miles Exchange: Matthar 10 miles City: <placeName>Caesarea</placeName> 16 miles<note xml:lang="en" type="translation">Trans. J. L.
-               Rife</note>
+        <anchor xml:id="testimonia-237.en.1" corresp="#testimonia-237.la.1"/>
+        Likewise from Jerusalem
+        it goes:<lb/>City: Nicopoli 22 miles<lb/>City: Lidda 10 miles<lb/>Exchange: Antipatrida 10 miles |
+        Exchange: Matthar 10 miles<lb/>City: <placeName>Caesarea</placeName> 16 miles<note xml:lang="en" type="translation">Trans. J. L. Rife</note>
+        
+        
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -290,6 +305,10 @@
           <citedRange unit="p">600.1-6</citedRange>
         </bibl>
       </listBibl>
+    
+      
+      
+      
     <note type="related-texts">
         <p>Bordeaux Itinerary 589.4-6</p>
       </note>

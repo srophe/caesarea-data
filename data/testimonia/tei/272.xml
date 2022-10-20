@@ -243,7 +243,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref n="a" target="#bib272-1">172i-173b</ref> written by <persName role="author" ref="http://viaf.org/viaf/95147024">Jerome</persName> in <origDate notBefore="0380" notAfter="0381" period="#byzantine">380-381 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref target="#bib272-1">172i-173b</ref> written by <persName role="author" ref="http://viaf.org/viaf/95147024">Jerome</persName> in <origDate notBefore="0380" notAfter="0381" period="#byzantine">380-381 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
       <langUsage>
         <language ident="la">Latin</language>
       </langUsage>
@@ -252,10 +252,11 @@
           <idno type="CTS-URN"/>
         </classCode>
         <catRef scheme="#CM-Testimonia-Type" target="#indirect"/>
-        <catRef scheme="#CM-NEAEH" target="#earlyRoman #herodian #byzantine"/>
+        <catRef scheme="#CM-NEAEH" target="#earlyRoman #herodian"/>
       </textClass>
     </profileDesc>
     <revisionDesc status="draft">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
     </revisionDesc>
   </teiHeader>
@@ -264,7 +265,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/272</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract272-1">Caesarea Maritima is indirectly attested at <persName role="author" ref="http://viaf.org/viaf/95147024">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref n="a" target="#bib272-1">172i-173b</ref>. This passage was written ca. <origDate notBefore="0380" notAfter="0381" period="#byzantine">380-381 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract272-1">Caesarea Maritima is indirectly attested at <persName role="author" ref="http://viaf.org/viaf/95147024">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref target="#bib272-1">172i-173b</ref>. This passage was written ca. <origDate notBefore="0380" notAfter="0381" period="#byzantine">380-381 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
       <desc type="context">St. Jerome undertook to write a universal history of the world early
             in his illustrious career. His work translated and annotated the second half of
             Eusebius’ work, finished over a half century earlier, which was organized into a
@@ -274,17 +275,38 @@
             records the appointment of Pontius Pilate to the governorship of Judaea by
             Tiberius.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote272-1">
-        <anchor xml:id="testimonia-272.la.1" corresp="#testimonia-272.en.1"/>Romanorum Judaeorum CCI Olymp(ias) XII (172i) Philippus tetrarcha
+        <anchor xml:id="testimonia-272.la.1" corresp="#testimonia-272.en.1"/>
+        Romanorum Judaeorum CCI Olymp(ias) XII (172i) Philippus tetrarcha
             Paneadam, in qua plurimas XII aedes construxerat, Caesariam Philippi vocavit et Iuliadem
             aliam civitatem. XIII (173a) Pilatus procurator Iudaeae a Tiberio mittitur XIII XIIII
             (b) Votienus Montanus Narbonensis orator in Balearibus XIIII Insulis moritur illuc a
-            Tiberio relegatus<ab type="source" source="#bib272-1"/><idno type="CTS-URN"/><ref/><note xml:lang="en" type="textual">Ed. Helm 1956</note><note xml:lang="en" type="corrigenda">Minor corr. J. L. Rife</note></ab>
+            Tiberio relegatus
+        
+        
+        
+        
+      <ab type="source" source="#bib272-1"/>
+        <idno type="CTS-URN"/>
+        <ref/>
+        <note xml:lang="en" type="textual">Ed. Helm 1956</note>
+        <note xml:lang="en" type="corrigenda">Minor corr. J. L. Rife</note>
+      </ab>
       <ab type="translation" xml:lang="en" xml:id="quote272-2">
-        <anchor xml:id="testimonia-272.en.1" corresp="#testimonia-272.la.1"/>Year of the Romans Year of the Jews 201st Olympiad [25 C.E.] 12
+        <anchor xml:id="testimonia-272.en.1" corresp="#testimonia-272.la.1"/>
+        Year of the Romans Year of the Jews 201st Olympiad [25 C.E.] 12
             (172i) Philip the Tetrarch named Paneas, where 12 he had built many shrines, Caesarea
             Philippi, and (he named) another city Julias. [26 C.E.] 13 (173a) Pilatus is sent by
             Tiberius to be governor of Judaea. 13 [27 C.E.] 14 (b) Votienus Montanus of Narbonne, an
-            orator banished 14 to the Balearic Islands by Tiberius, dies there.<ab type="source" source="#bib272-2"/><idno type="CTS-URN"/><ref target="http://www.tertullian.org/fathers/jerome_chronicle_03_part2.htm"/><note xml:lang="en" type="translation">Trans. J. L. Rife with ref. to Pearse 2005</note></ab>
+            orator banished 14 to the Balearic Islands by Tiberius, dies there.
+        
+        
+        
+        
+      <ab type="source" source="#bib272-2"/>
+        <idno type="CTS-URN"/>
+        <ref target="http://www.tertullian.org/fathers/jerome_chronicle_03_part2.htm"/>
+        <note xml:lang="en" type="translation">Trans. J. L. Rife with ref. to Pearse 2005</note>
+      </ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib272-1">
@@ -295,14 +317,18 @@
           <ptr target="https://caesarea-maritima.org/bibl/7JSD2DS2"/>
         </bibl>
       </listBibl>
+    
+      
+      
+      
     <note type="related-texts">
         <p>Dionysius of Tel Mahre 46</p>
         <p>Easter Chronicle p. 389</p>
         <p>Eusebius, Church History 1.9.2</p>
         <p>George Syncellus, Chronicle p. 320</p>
         <p>John Zonaras, Epitome of History 6.4=p. 477</p>
-        <p>Josephus, Jewish War 2.169</p>
         <p>Josephus, Jewish Antiquities 18.35</p>
+        <p>Josephus, Jewish War 2.169</p>
       </note>
       <note type="geography">
         <p>Balearic Islands</p>

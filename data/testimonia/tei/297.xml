@@ -243,7 +243,8 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Letters</title> <ref n="e" target="#bib297-1">92.1</ref> written by <persName role="author" ref="http://viaf.org/viaf/309472433">Jerome</persName> in <origDate notBefore="0385" notAfter="0415" period="#byzantine">ca. 400 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Letters</title>
+        <ref target="#bib297-1">92.1</ref> written by <persName role="author" ref="http://viaf.org/viaf/309472433">Jerome</persName> in <origDate notBefore="" notAfter="" period="#">0400</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</creation>
       <langUsage>
         <language ident="la">Latin</language>
       </langUsage>
@@ -256,6 +257,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc status="draft">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
     </revisionDesc>
   </teiHeader>
@@ -264,42 +266,51 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/297</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract297-1">Caesarea Maritima is indirectly attested at <persName role="author" ref="http://viaf.org/viaf/309472433">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Letters</title> <ref n="e" target="#bib297-1">92.1</ref>. This passage was written ca. <origDate notBefore="0385" notAfter="0415" period="#byzantine">ca. 400 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract297-1">Caesarea Maritima is indirectly attested at <persName role="author" ref="http://viaf.org/viaf/309472433">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Letters</title> <ref target="#bib297-1">92.1</ref>. This passage was written ca. <origDate notBefore="" notAfter="" period="#">0400</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</desc>
       <desc type="context">Among the voluminous correspondence of St. Jerome is this letter, his
-            translation into Latin of a Greek original written by Theophilus, Patriarch of
-            Alexandria, in 400 C.E. The letter addresses the bishops of Palestine and Cyprus
-            following the council in Alexandria, where Theophilus and the amenable participants
-            condemned the Origenist “heresy” as it was specifically identified with the Nitrian
-            monasteries and Theophilus’ former associate Isidore. This condemnation marked a
-            volte-face for Theophilus, who only in the previous year had openly spurned the concept
-            of divine corporeality. The list of Palestinian addressees at the start of this letter
-            begins with Eulogius, the archbishop at Caesarea. Jerome’s translation of this synodical
-            letter is important testimony for his own engagement in the Origenist controversy that
-            had embroiled the see of Jerusalem at the end of the 4th century. Once an admirer of
-            Origen as an intellectual and scholastic model who was well represented in the Library
-            at Caesarea (see Letter 34.1), Jerome had turned to oppose his thought by the late 390s.
-            He joined in vehement debate over the spiritual and corporeal nature of the divine with
-            his neighbors John, the bishop of Jerusalem, and Tyrannius Rufinus, the learned monk at
-            the Mount of Olives (see Related Texts).</desc>
+        translation into Latin of a Greek original written by Theophilus, Patriarch of Alexandria,
+        in 400 C.E. The letter addresses the bishops of Palestine and Cyprus following the council
+        in Alexandria, where Theophilus and the amenable participants condemned the Origenist
+        “heresy” as it was specifically identified with the Nitrian monasteries and Theophilus’
+        former associate Isidore. This condemnation marked a volte-face for Theophilus, who only in
+        the previous year had openly spurned the concept of divine corporeality. The list of
+        Palestinian addressees at the start of this letter begins with Eulogius, the archbishop at
+        Caesarea. Jerome’s translation of this synodical letter is important testimony for his own
+        engagement in the Origenist controversy that had embroiled the see of Jerusalem at the end
+        of the 4th century. Once an admirer of Origen as an intellectual and scholastic model who
+        was well represented in the Library at Caesarea (see <title>Letter</title> 34.1), Jerome had
+        turned to oppose his thought by the late 390s. He joined in vehement debate over the
+        spiritual and corporeal nature of the divine with his neighbors John, the bishop of
+        Jerusalem, and Tyrannius Rufinus, the learned monk at the Mount of Olives (see Related
+        Texts).</desc>
       <ab type="edition" xml:lang="la" xml:id="quote297-1">
-        <anchor xml:id="testimonia-297.la.1" corresp="#testimonia-297.en.1"/>Haec epistula uniformis ad Palaestinos et ad Cyprios episcopos missa
+        <anchor xml:id="testimonia-297.la.1" corresp="#testimonia-297.en.1"/>
+        Haec epistula uniformis ad Palaestinos et ad Cyprios episcopos missa
             est. utriusque principia tulimus. Ad Palaestinos: Dominis dilectissimis, fratribus et
             coepiscopis Eulogio, Iohanni, Zebinno, Auxentio, Dionysio, Gennadio, Zenoni, Theudosio,
             Dictenio, Porphyrio, Saturnino, Alani, Paulo, Ammonio, Heliano, alteri Paulo, Eusebio et
             omnibus, qui in Aeliae encaeniis congregati sunt, catholicis episcopis Theophilus in
-            domino salutem dicit.<ab type="source" source="#bib297-1"/>
+            domino salutem dicit.
+        
+        
+        
+        
+      <ab type="source" source="#bib297-1"/>
         <idno type="CTS-URN"/>
         <ref/>
         <note xml:lang="en" type="textual">Ed. Hilberg and Slovak 1996</note>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote297-2">
-        <anchor xml:id="testimonia-297.en.1" corresp="#testimonia-297.la.1"/>This letter has been sent in identical copies to the Palestinian and
+        <anchor xml:id="testimonia-297.en.1" corresp="#testimonia-297.la.1"/>
+        This letter has been sent in identical copies to the Palestinian and
             Cypriot bishops. We give the first lines of both copies. To the Palestinian bishops: To
             the Lord’s beloved, brothers and fellow bishops Eulogius, John, Zebinnus, Auxentius,
             Dionysius, Gennadius, Zeno, Theodosius, Dictenios, Porphyry, Saturninus, Alan, Paul,
             Ammonius, Aelian, the second Paul, Eusebius, and all the catholic bishops who gathered
             in Aelia to celebrate the consecration (of the Holy Sepulcher): Theophilus greets you in
             the Lord.<note xml:lang="en" type="translation">Trans. J. L. Rife</note>
+        
+        
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -317,6 +328,10 @@
           <ptr target="https://caesarea-maritima.org/bibl/MUU4ALR4"/>
         </bibl>
       </listBibl>
+    
+      
+      
+      
     <note type="related-texts"/>
       <note type="geography">
         <p>Cyprus</p>

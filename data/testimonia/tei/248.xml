@@ -243,7 +243,11 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Easter Chronicle</title> <ref n="d" target="#bib248-1">430.6-13</ref> written by <persName role="author">Unknown</persName> in <origDate notBefore="0615" notAfter="0645" period="#byzantine #earlyIslamic">ca. 630 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Easter
+          Chronicle</title>
+        <ref target="#bib248-1">430.6-13</ref> written by <persName role="author">Unknown</persName>
+        in <origDate notBefore="" notAfter="" period="#">0630</origDate>. This work was likely
+        written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
       <langUsage>
         <language ident="grc">Ancient Greek</language>
       </langUsage>
@@ -256,6 +260,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc status="draft">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
     </revisionDesc>
   </teiHeader>
@@ -265,36 +270,45 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/248</idno>
       </ab>
       <desc type="abstract" xml:id="abstract248-1"><quote><placeName>τὴν Παλαιστίνην
-               Καισάρειαν</placeName></quote>, and <quote><placeName>Caesarea
-               Palestinae</placeName></quote> are directly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Easter Chronicle</title> <ref n="d" target="#bib248-1">430.6-13</ref>. This passage was written ca. <origDate notBefore="0615" notAfter="0645" period="#byzantine #earlyIslamic">ca. 630 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
-      <desc type="context">The so-called Easter Chronicle (Chronicon Paschale) is a universal
-            history from the Creation down to the later reign of Heraclius, when it was composed,
-            based an amalgam of biblical, Christian, and secular sources. While the work shows a
-            particular interest in the dating of religious festivals, it contains a wealth of
-            historical and geographic information. Like other chronographic works in the Byzantine
-            tradition—John Malalas before and Theophanes the Confessor and George Syncellus
-            after—the Easter Chronicle is organized annalistically with successive entries by year.
-            In this passage the author cites the conversions of the Ethiopian eunuch and Cornelius
-            by Philip and Peter.</desc>
+               Καισάρειαν</placeName></quote>, and <quote><placeName>Caesarea Palestinae</placeName></quote> are directly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Easter
+          Chronicle</title> <ref target="#bib248-1">430.6-13</ref>. This passage was written ca. <origDate notBefore="" notAfter="" period="#">0630</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+      <desc type="context">The so-called <title>Easter Chronicle</title> (<title>Chronicon
+          paschale</title>) is a universal history from the Creation down to the later reign of
+        Heraclius, when it was composed, based on an amalgam of biblical, Christian, and secular
+        sources. While the work shows a particular interest in the dating of religious festivals, it
+        contains a wealth of historical and geographic information. Like other chronographic works
+        in the Byzantine tradition—John Malalas before and Theophanes the Confessor and George
+        Syncellus after—the <title>Easter Chronicle</title> is organized annalistically with
+        successive entries by year. In this passage the author cites the conversions of the
+        Ethiopian eunuch and Cornelius by Philip and Peter.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote248-1">
-        <anchor xml:id="testimonia-248.grc.1" corresp="#testimonia-248.en.1"/>Τούτῳ τῷ δευτέρῳ ἔτει τῆς εἰς οὐρανοὺς ἀναλήψεως τοῦ κυρίου, Φίλιππος ὁ
+        <anchor xml:id="testimonia-248.grc.1" corresp="#testimonia-248.en.1"/>
+        Τούτῳ τῷ δευτέρῳ ἔτει τῆς εἰς οὐρανοὺς ἀναλήψεως τοῦ κυρίου, Φίλιππος ὁ
             ἀπόστολος τὸν εὐνοῦχον Κανδάκης τῆς βασιλίσσης Αἰθιόπων ἀπαρχὴν τῆς τῶν ἐθνῶν κλήσεως τῷ
             τοῦ Χριστοῦ κηρύηματι ὑπηγάγετο. Τῷ αὐτῷ ἔτει πρῶτος τῶν κατὰ <placeName>τὴν Παλαιστίνην
                Καισάρειαν</placeName> Κορνήλιος σὺν ὅλῳ τῷ οἰκῷ αὐτοῦ δι’ ἐπιφανείας θείας, ὑπουργίᾳ
-            δὲ Πέτρου τοῦ ἀποστόλου, τὴν εἰς Χριστὸν πίστιν κατεδέξατο.<ab type="source" source="#bib248-1"/>
+            δὲ Πέτρου τοῦ ἀποστόλου, τὴν εἰς Χριστὸν πίστιν κατεδέξατο.
+        
+        
+        
+        
+      <ab type="source" source="#bib248-1"/>
         <idno type="CTS-URN"/>
         <ref/>
         <note xml:lang="en" type="textual">Ed.
                Dindorf 1832</note>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote248-2">
-        <anchor xml:id="testimonia-248.en.1" corresp="#testimonia-248.grc.1"/>[32 C.E.] In this the second year after the Assumption of the Lord
-            into the heavens, Philip the Apostle led the eunuch of Candace, queen of the Ethiopians,
-            under the preaching of Christ, the first-offering of the call to the gentiles. In the
-            same year Cornelius accepted faith in Christ, the first of those in <placeName>Caesarea
-               Palestinae</placeName>, along with his entire household, through divine epiphany and
-            with the helpful service of Peter the Apostle.<note xml:lang="en" type="translation">Trans. J. L.
-               Rife</note>
+        <anchor xml:id="testimonia-248.en.1" corresp="#testimonia-248.grc.1"/>
+        [32 C.E.] In this the
+        second year after the Assumption of the Lord into the heavens, Philip the Apostle led the
+        eunuch of Candace, queen of the Ethiopians, under the preaching of Christ, the
+        first-offering of the call to the Gentiles. In the same year Cornelius accepted faith in
+        Christ, the first of those in <placeName>Caesarea Palestinae</placeName>, along with his
+        entire household, through divine epiphany and with the helpful service of Peter the
+          Apostle.<note xml:lang="en" type="translation">Trans. J. L. Rife</note>
+        
+        
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -305,6 +319,10 @@
           <citedRange unit="p">430.6-13</citedRange>
         </bibl>
       </listBibl>
+    
+      
+      
+      
     <note type="related-texts"/>
       <note type="geography">
         <p>Ethiopia</p>

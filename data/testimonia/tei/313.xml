@@ -244,7 +244,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Suda</title> <ref n="f" target="#bib313-1">ω 182.618.13-35</ref> written by <persName role="author">Unknown</persName> in <origDate notBefore="0976" notAfter="0990" period="#earlyIslamic">976-990 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Suda</title> <ref target="#bib313-1">ω 182.618.13-35</ref> written by <persName role="author">Unknown</persName> in <origDate notBefore="0976" notAfter="0990" period="#earlyIslamic">976-990 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
          <langUsage>
             <language ident="grc">Ancient Greek</language>
          </langUsage>
@@ -257,6 +257,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc status="draft">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
          <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
       </revisionDesc>
    </teiHeader>
@@ -265,17 +266,18 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/313</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract313-1">Caesarea Maritima is indirectly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Suda</title> <ref n="f" target="#bib313-1">ω 182.618.13-35</ref>. This passage was written ca. <origDate notBefore="0976" notAfter="0990" period="#earlyIslamic">976-990 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
-         <desc type="context">The Suda (“Stronghold”) is an encyclopedic lexicon written by an
-            unknown scholar during the late 10th century. It compiles copious information in
-            alphabetical entries for use by the learned philologist, in particular on grammar,
-            history, and biography, referring to a broad range of sources from Classical Antiquity
-            to the Early Byzantine period. This passage from the lemma on Origen (s.v. Ὠριγένης)
-            describes how Origen prepared his famous edition of the Bible at Caesarea in the early
-            3rd century. Here the author depends on the account of Eusebius written roughly 650 year
-            earlier.</desc>
+         <desc type="abstract" xml:id="abstract313-1">Caesarea Maritima is indirectly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Suda</title> <ref target="#bib313-1">ω 182.618.13-35</ref>. This passage was written ca. <origDate notBefore="0976" notAfter="0990" period="#earlyIslamic">976-990 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+         <desc type="context">The <title>Suda</title> (“Stronghold”) is an encyclopedic lexicon
+            written by an unknown scholar during the late 10th century. It compiles copious
+            information in alphabetical entries for use by the learned philologist, in particular on
+            grammar, history, and biography, referring to a broad range of sources from Classical
+            Antiquity to the Early Byzantine period. This passage from the lemma on Origen (s.v.
+            Ὠριγένης) describes how Origen prepared his famous edition of the Bible at Caesarea in
+            the early 3rd century. Here the author depends on the account of Eusebius written
+            roughly 650 year earlier.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote313-1">
-        <anchor xml:id="testimonia-313.grc.1" corresp="#testimonia-313.en.1"/>τοσαύτην δὲ ἔσχε σπουδὴν περὶ τὰς θείας γραφάς, ὥστε καὶ τὴν ῾Εβραϊκὴν
+        <anchor xml:id="testimonia-313.grc.1" corresp="#testimonia-313.en.1"/>
+        τοσαύτην δὲ ἔσχε σπουδὴν περὶ τὰς θείας γραφάς, ὥστε καὶ τὴν ῾Εβραϊκὴν
             διάλεκτον, ἐναντιουμένην τῇ τε ἡλικίᾳ καὶ τῇ οἰκείᾳ φύσει, ἐκμαθει̂ν, καὶ δίχα τῶν οʹ
             ἑρμηνευτῶν ἄλλας ἐκδόσεις εἰς ἓν συναγαγεῖν, ᾽Ακύλα λέγω τοῦ Ποντικοῦ καὶ Θεοδοτίωνος
             καὶ Συμμάχου τω̂ν ᾽Εβιωναίων (αἵρεσις δέ ἐστιν αὐτω̂ν ψιλὸν τὸν Χριστὸν ἄνθρωπον
@@ -292,31 +294,46 @@
             ταύτας δὲ ἁπάσας εἰς ἓν συναγαγὼν διελθών τε πρὸς κῶλον καὶ ἀντιπαραθεὶς ἀλλήλαις μετὰ
             καὶ αὐτῆς τῆς Ἑβραίων σημειώσεως, τὰ τῶν λεγομένων ῾Εξαπλῶν ἡμῖν ἀντίγραφα καταλέλοιπεν,
             ἰδίως δὲ τὴν ᾽Ακύλου καὶ Συμμάχου καὶ Θεοδοτίωνος ἔκδοσιν ἅμα τῇ τῶν οʹ ἐν τοι̂ς
-            Τετραπλοι̂ς ἐπισκευάσας.<ab type="source" source="#bib313-1"/><idno type="CTS-URN"/><ref target="https://archive.org/details/adler-a.-suidae-lexicon-3 ./Adler%20A.%2C%20Suidae%20Lexicon%203%20%28%CE%9A-%CE%9F.%20%CE%A9%29/page/n315/mode/2up"/><note xml:lang="en" type="textual">Ed. Adler 1933</note></ab>
-         <ab type="translation" xml:lang="en" xml:id="quote313-2">
-        <anchor xml:id="testimonia-313.en.1" corresp="#testimonia-313.grc.1"/>Moreover, Origen possessed such diligence for the Divine Scriptures
-            that he made a thorough study of Hebrew, contrary to his age and natural inclination.
-            Alongside the translation by the Seventy he compiled other editions (of the Bible) into
-            a single work. I am referring to those by Aquila of Pontus, Theodotion, and Symmachus, a
-            member of the Ebionites (their heresy was the belief that Christ was a mere man). These
-            (Ebionites) wrote a commentary on the Gospel of Matthew with which they are eager to
-            validate their own doctrine. Likewise he edited the fifth, sixth, and seventh editions.
-            From the history of Eusebius Pamphili concerning Origen. Origen subjected the Divine
-            Words to such meticulous scrutiny that he personally acquired only original manuscripts
-            in the actual Hebrew; he tracked down editions by other translators besides the Seventy;
-            and, having translated those editions, he discovered certain others to take the place of
-            the hackneyed translations by Aquila, Symmachus, and Theodotion—from secret sources, I
-            have no idea where—which, although having disappeared long ago, he tracked down and
-            brought to light. Moreover, in the Hexapla text of Psalms, he inserted, after these four
-            well-known versions, not only a fifth but also a sixth and a seventh translation. On one
-            of them he has noted that it was found at Jericho in a storage jar. Gathering all of
-            these into a single work, he divided them into clauses, comparing and contrasting them
-            against one another, along with the very notations of the Hebrew scholars. He has left
-            us copies of the so-called Hexapla, and prepared separately a version that contains
-            Aquila and Symmachus and Theodotion together with the Seventy in the Tetrapla.<note xml:lang="en" type="translation">Adapted from SOL (trans. P. Little et al., 2000-)</note>
+            Τετραπλοι̂ς ἐπισκευάσας.
+        
+        
+        
+        
+      <ab type="source" source="#bib313-1"/>
         <idno type="CTS-URN"/>
-        <ref target="https://www.cs.uky.edu/~raphael/sol/sol-entries/omega/182"/>
+        <ref target="https://archive.org/details/adler-a.-suidae-lexicon-3 ./Adler%20A.%2C%20Suidae%20Lexicon%203%20%28%CE%9A-%CE%9F.%20%CE%A9%29/page/n315/mode/2up"/>
+        <note xml:lang="en" type="textual">Ed. Adler 1933</note>
       </ab>
+         <ab type="translation" xml:lang="en" xml:id="quote313-2">
+        <anchor xml:id="testimonia-313.en.1" corresp="#testimonia-313.grc.1"/>
+            Moreover, Origen
+            possessed such diligence for the Divine Scriptures that he made a thorough study of
+            Hebrew, contrary to his age and natural inclination. Alongside the translation by the
+            Seventy he compiled other editions (of the Bible) into a single work. I am referring to
+            those by Aquila of Pontus, Theodotion, and Symmachus, a member of the Ebionites (their
+            heresy was the belief that Christ was a mere man). These (Ebionites) wrote a commentary
+            on the Gospel of Matthew with which they are eager to validate their own doctrine.
+            Likewise he edited the fifth, sixth, and seventh editions. From the history of Eusebius
+            Pamphili concerning Origen. Origen subjected the Divine Words to such meticulous
+            scrutiny that he personally acquired only original manuscripts in the actual Hebrew; he
+            tracked down editions by other translators besides the Seventy; and, having translated
+            those editions, he discovered certain others to take the place of the hackneyed
+            translations by Aquila, Symmachus, and Theodotion—from secret sources, I have no idea
+            where—which, although having disappeared long ago, he tracked down and brought to light.
+            Moreover, in the Hexapla text of Psalms, he inserted, after these four well-known
+            versions, not only a fifth but also a sixth and a seventh translation. On one of them he
+            has noted that it was found at Jericho in a storage jar. Gathering all of these into a
+            single work, he divided them into clauses, comparing and contrasting them against one
+            another, along with the very notations of the Hebrew scholars. He has left us copies of
+            the so-called <title>Hexapla</title>, and prepared separately a version that contains
+            Aquila and Symmachus and Theodotion together with the Seventy in the
+               <title>Tetrapla</title>.<note xml:lang="en" type="translation">Adapted from SOL (trans. P. Little
+               et al., 2000-)</note>
+            
+            
+            <idno type="CTS-URN"/>
+            <ref target="https://www.cs.uky.edu/~raphael/sol/sol-entries/omega/182"/>
+         </ab>
          <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib313-1">
@@ -331,7 +348,11 @@
           <ptr target="https://caesarea-maritima.org/bibl/753625E4"/>
         </bibl>
       </listBibl>
-      <note type="related-texts">
+      
+      
+      
+      
+    <note type="related-texts">
         <p>Enneapla</p>
         <p>Hexapla</p>
         <p>Matthew</p>

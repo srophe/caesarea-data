@@ -244,7 +244,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Commentary on the Gospel of John </title> <ref n="a" target="#bib331-1">6.2.8-10</ref> written by <persName ref="http://viaf.org/viaf/95155322" role="author">Origen</persName> in <origDate notBefore="0231" notAfter="0233" period="#lateRoman">231-233 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Commentary on the Gospel of John </title> <ref target="#bib331-1">6.2.8-10</ref> written by <persName ref="http://viaf.org/viaf/95155322" role="author">Origen</persName> in <origDate notBefore="0231" notAfter="0233" period="#lateRoman">231-233 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</creation>
          <langUsage>
             <language ident="grc">Ancient Greek</language>
          </langUsage>
@@ -257,6 +257,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc status="draft">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
          <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
       </revisionDesc>
    </teiHeader>
@@ -265,22 +266,23 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/331</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract331-1">Caesarea Maritima is indirectly attested at <persName ref="http://viaf.org/viaf/95155322" role="author">Origen</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Commentary on the Gospel of John </title> <ref n="a" target="#bib331-1">6.2.8-10</ref>. This passage was written ca. <origDate notBefore="0231" notAfter="0233" period="#lateRoman">231-233 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</desc>
-         <desc type="context">Among Origen’s vast output is his Commentary on the Gospel of John.
-            This enormous work, which originally filled more than 30 volumes but of which only parts
-            survive, is a systematic and erudite exegesis that in part refuted the Valentinian
-            Gnostic interpretation by Heracleon, replete with mysticism and allegoresis. This
-            important passage attests to pivotal events in Origen’s career. He began writing the
-            Commentary at his homebase in Alexandria, where his wealthy associate Ambrose encouraged
-            and supported his writing, including the provision of secretaries. As a growing
-            intellectual luminary and popular teacher, Origen’s theology came under harsh criticism
-            from the bishop Demetrios; and consequently Origen, in 231, moved from Alexandria to
-            Caesarea in Palestine, where the bishops Theoctistus and Alexander ordained him to
+         <desc type="abstract" xml:id="abstract331-1">Caesarea Maritima is indirectly attested at <persName ref="http://viaf.org/viaf/95155322" role="author">Origen</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Commentary on the Gospel of John </title> <ref target="#bib331-1">6.2.8-10</ref>. This passage was written ca. <origDate notBefore="0231" notAfter="0233" period="#lateRoman">231-233 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</desc>
+         <desc type="context">Among Origen’s vast output is his <title>Commentary on the Gospel of
+               John</title>. This enormous work, which originally filled more than 30 volumes but of
+            which only parts survive, is a systematic and erudite exegesis that in part refuted the
+            Valentinian-Gnostic interpretation by Heracleon, replete with mysticism and allegoresis.
+            This important passage attests to pivotal events in Origen’s career. He began writing
+            the <title>Commentary</title> at his homebase in Alexandria, where his wealthy associate
+            Ambrose encouraged and supported his writing, including the provision of secretaries. As
+            a growing intellectual luminary and popular teacher, Origen’s theology came under harsh
+            criticism from the bishop Demetrios. Consequently Origen, in 231, moved from Alexandria
+            to Caesarea in Palestine, where the bishops Theoctistus and Alexander ordained him to
             preach and teach, not without controversy. Here Origen describes the travails
-            surrounding his move and the hiatus in his work on the Commentary metaphorically,
-            evoking the Exodus, delivery from storms, and failed attacks.</desc>
+            surrounding his move and the hiatus in his work on the <title>Commentary</title>
+            metaphorically, evoking the Exodus, delivery from storms, and failed attacks.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote331-1">
-        <anchor xml:id="testimonia-331.grc.1" corresp="#testimonia-331.en.1"/>(8) Καὶ μέχρι γε τοῦ πέμπτου τόμου, εἰ καὶ ὁ κατὰ τὴν Ἀλεξανδρείαν
+        <anchor xml:id="testimonia-331.grc.1" corresp="#testimonia-331.en.1"/>
+        (8) Καὶ μέχρι γε τοῦ πέμπτου τόμου, εἰ καὶ ὁ κατὰ τὴν Ἀλεξανδρείαν
             χειμὼν ἀντιπράττειν ἐδόκει, τὰ διδόμενα ὑπηγορεύσαμεν, ἐπιτιμῶντος τοῖς ἀνέμοις καὶ τοῖς
             κύμασι τῆς θαλάσσης τοῦ Ἰησοῦ· καὶ ἕκτου δὲ ἐπὶ ποσὸν προεληλυθότες ἐξειλκύσθημεν ἀπὸ
             γῆς Αἰγύπτου, ῥυσαμένου ἡμᾶς τοῦ θεοῦ τοῦ ἐξαγαγόντος τὸν λαὸν αὐτοῦ ἀπ’ αὐτῆς. (9)
@@ -294,28 +296,48 @@
             συμβεβηκόσι διὰ τὸν οὐράνιον λόγον φέρειν ῥᾷον βιάζεται τὰς γεγενημένας ἐπιβουλάς,
             ὡσπερεὶ ποσῆς εὐδίας λαβόμενοι οὐκέτι ὑπερτιθέμενοι ὑπαγορεύειν τὰ ἀκόλουθα βουλόμεθα,
             θεὸν διδάσκαλον ὑπηχοῦντα ἐν τῷ ἀδύτῳ τῆς ψυχῆς ἡμῶν παρεῖναι εὐχόμενοι, ἵνα τέλος λάβῃ
-            ἡ τῆς διηγήσεως τοῦ κατὰ Ἰωάννην εὐαγγελίου οἰκοδομή.<ab type="source" source="#bib331-1"/><idno type="CTS-URN"/><ref target="https://archive.org/details/desgregoriosthau00greg/page/40/mode/2up"/><note xml:lang="en" type="textual">Ed. Blanc 1970
-               </note></ab>
+            ἡ τῆς διηγήσεως τοῦ κατὰ Ἰωάννην εὐαγγελίου οἰκοδομή.
+        
+        
+        
+        
+      <ab type="source" source="#bib331-1"/>
+        <idno type="CTS-URN"/>
+        <ref target="https://archive.org/details/desgregoriosthau00greg/page/40/mode/2up"/>
+        <note xml:lang="en" type="textual">Ed. Blanc 1970
+               </note>
+      </ab>
          <ab type="translation" xml:lang="en" xml:id="quote331-2">
-        <anchor xml:id="testimonia-331.en.1" corresp="#testimonia-331.grc.1"/>(8) I composed the material given me as far as the fifth volume (of
-            the Commentary) even though the storm in Alexandria seemed to work against me, just as
-            Jesus rebuked the winds and the waves of the sea. After I had moved on to part of the
-            sixth (volume) I was brought out of Egypt by God delivering me, He who led His people
-            forth from there. (9) Then, when the enemy assailed me with all bitterness in his new
-            writings, so truly hostile to the Gospel, and stirred up against me all the winds of
-            wickedness in Egypt, reason called me instead to stand fast for the conflict and to
-            preserve my guiding principle, so that evil counsels should never gain the strength to
-            bring the storm also into my soul, or even to compose the next part (of the Commentary)
-            at the wrong time, before my mind had returned to calm. Moreover, the absence of my
-            usual scribes prevented me from adhering to my practice of dictation. (10) But now that
-            the many flaming arrows shot at me are blunted by God as he extinguishes them, and (now
+        <anchor xml:id="testimonia-331.en.1" corresp="#testimonia-331.grc.1"/>
+            (8) I composed the
+            material given me as far as the fifth volume (of the <title>Commentary</title>) even
+            though the storm in Alexandria seemed to work against me, just as Jesus rebuked the
+            winds and the waves of the sea. After I had moved on to part of the sixth (volume), I
+            was brought out of Egypt by God delivering me, He who led His people forth from there.
+            (9) Then, when the enemy assailed me with all bitterness in his new writings, so truly
+            hostile to the Gospel, and stirred up against me all the winds of wickedness in Egypt,
+            reason called me instead to stand fast for the conflict and to preserve my guiding
+            principle, so that evil counsels should never gain the strength to bring the storm also
+            into my soul, or even to compose the next part (of the <title>Commentary</title>) at the
+            wrong time, before my mind had returned to calm. Moreover, the absence of my usual
+            scribes prevented me from adhering to my practice of dictation. (10) But now that the
+            many flaming arrows shot at me are blunted by God as he extinguishes them, and (now
             that) my soul, which had grown used to such occurrences, is compelled through the
             heavenly Word to withstand more easily the plots that have arisen, I wish, as though
             instilled with a certain tranquillity, to continue writing without further delay. I pray
             that God will be with me and utter his teachings in the inner chamber of my soul, so
-            that the building I have begun—the interpretation of the Gospel of John—may be
-               finished.<ab type="source" source="#bib331-2"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="translation">Trans. J. L. Rife with ref. to Menzies
-               1899</note></ab>
+            that the building I have begun—the interpretation of the <title>Gospel of
+            John</title>—may be finished.
+            
+            
+            
+            
+         <ab type="source" source="#bib331-2"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        <note xml:lang="en" type="translation">Trans. J. L. Rife with ref. to
+               Menzies 1899</note>
+      </ab>
          <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib331-1">
@@ -328,7 +350,11 @@
           <citedRange unit="p">349-350</citedRange>
         </bibl>
       </listBibl>
-      <note type="related-texts">
+      
+      
+      
+      
+    <note type="related-texts">
         <p>Eusebius, Church History 6.23.4-5</p>
         <p>Eusebius, Church History 6.8.4-5</p>
         <p>Jerome, Apology against Rufinus 2.18</p>

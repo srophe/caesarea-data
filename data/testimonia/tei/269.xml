@@ -243,7 +243,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Book of Pilgrimage</title> <ref n="b" target="#bib269-1">29.11-21</ref> written by <persName role="author" ref="http://viaf.org/viaf/24957020 ">Thietmar</persName> in <origDate notBefore="1217" notAfter="1218" period="#crusader">1217-1218 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Book of Pilgrimage</title> <ref target="#bib269-1">29.11-21</ref> written by <persName role="author" ref="http://viaf.org/viaf/24957020 ">Thietmar</persName> in <origDate notBefore="1217" notAfter="1218" period="#crusader">1217-1218 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</creation>
       <langUsage>
         <language ident="la">Latin</language>
       </langUsage>
@@ -252,10 +252,11 @@
           <idno type="CTS-URN"/>
         </classCode>
         <catRef scheme="#CM-Testimonia-Type" target="#direct"/>
-        <catRef scheme="#CM-NEAEH" target="#earlyRoman #herodian #crusader"/>
+        <catRef scheme="#CM-NEAEH" target="#crusader"/>
       </textClass>
     </profileDesc>
     <revisionDesc status="draft">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
     </revisionDesc>
   </teiHeader>
@@ -264,42 +265,65 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/269</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract269-1"><quote><placeName>Cesariensem</placeName></quote>, <quote><placeName>Cesariensis</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/24957020 ">Thietmar</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Book of Pilgrimage</title> <ref n="b" target="#bib269-1">29.11-21</ref>. This passage was written ca. <origDate notBefore="1217" notAfter="1218" period="#crusader">1217-1218 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract269-1"><quote><placeName>Cesariensem</placeName></quote>, <quote><placeName>Cesariensis</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/24957020 ">Thietmar</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Book of Pilgrimage</title> <ref target="#bib269-1">29.11-21</ref>. This passage was written ca. <origDate notBefore="1217" notAfter="1218" period="#crusader">1217-1218 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
       <desc type="context">Thietmar was a German Christian, perhaps a learned cleric from
-            Westphalia, who undertook two pilgrimages from Acre during the course of the Fifth
-            Crusade, one eastward to the Monastery of Mary at Saydnaya in southwestern Syria in 1217
-            and one southward to the Monastery of St. Catherine in the Sinai in 1218. This work
-            survives in 18 manuscripts of different lengths and dates; we prefer the earlier, fuller
-            version in Codex Hamburgensis 143b on the authority of Laurent and Pringle. Thietmar
-            gives a detailed itinerary of the Holy Land as well as his sojourn to Damascus,
-            including much detail about the experience of contemporary Europeans and the local
-            inhabitants, alongside usual observations concerning the historical landscape. In this
-            passage that concludes the work, he outlines the episcopal structure of the Patriarchate
-            of Jerusalem, noting the jurisdiction of the archbishopric of Caesarea.</desc>
+        Westphalia. He undertook two pilgrimages from Acre during the course of the Fifth Crusade,
+        one eastward to the Monastery of Mary at Saydnaya in southwestern Syria in 1217 and one
+        southward to the Monastery of St. Catherine in the Sinai in 1218. This work survives in 18
+        manuscripts of different lengths and dates; we prefer the earlier, fuller version in Codex
+        Hamburgensis 143b on the authority of Laurent and Pringle. Thietmar gives a detailed
+        itinerary of the Holy Land as well as his sojourn to Damascus, including much detail about
+        the experience of contemporary Europeans and the local inhabitants, alongside usual
+        observations concerning the historical landscape. In this passage concluding the work, he
+        outlines the episcopal structure of the Patriarchate of Jerusalem, noting the jurisdiction
+        of the archbishopric of Caesarea.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote269-1">
-        <anchor xml:id="testimonia-269.la.1" corresp="#testimonia-269.en.1"/>(11) Patriarche sunt quatuor: primus Constantinopolitanus, secundus
-            Alexandrinus, tsertius Antiochenus, quartus Iherosolomitanus. (12) Item patriarcha
-            Jerosolimitanus quatuor sub se habet archiepiscopos: primum in provincia Palestina: <placeName>Cesariensem</placeName>, (13) qui supra modum pinguis, cum vidi eum. (14)
-            Alium in Fenicea: Tirrenum. (15) Tercium in Galilea: Nazarenum. (16) Quartum in regione
-            Moabitarum: Petracensum. (17) <placeName>Cesariensis</placeName> unum habet
-            suffraganeum: Sebastenum episcopum, (18) ubi sepultus fuit sanctus Johannes baptista.
-            (19) Tirrenus quatuor habet suffraganeos: Acconensem, Sydoniensem, Beritensem, et illum,
-            qui est de Cesarea Philippi. (20) Nazarenus unum habet suffraganeum: episcopum
-            Tyberiensem. (21) Habet eciam patriarcha istos episcopos, nullo mediante:
-            Bethleemitanum, Liddeum et illum de Ebron.<ab type="source" source="#bib269-1"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="textual">Ed. Laurent
-               1873</note><note xml:lang="en" type="textual">Codex Hamburgensis 143b</note></ab>
+        <anchor xml:id="testimonia-269.la.1" corresp="#testimonia-269.en.1"/>
+        (11) Patriarche sunt
+        quatuor: primus Constantinopolitanus, secundus Alexandrinus, tertius Antiochenus, quartus
+        Iherosolomitanus. (12) Item patriarcha Jerosolimitanus quatuor sub se habet archiepiscopos:
+        primum in provincia Palestina: <placeName>Cesariensem</placeName>, (13) qui supra modum
+        pinguis, cum vidi eum. (14) Alium in Fenicea: Tirrenum. (15) Tercium in Galilea: Nazarenum.
+        (16) Quartum in regione Moabitarum: Petracensum. (17) <placeName>Cesariensis</placeName>
+        unum habet suffraganeum: Sebastenum episcopum, (18) ubi sepultus fuit sanctus Johannes
+        baptista. (19) Tirrenus quatuor habet suffraganeos: Acconensem, Sydoniensem, Beritensem, et
+        illum, qui est de Cesarea Philippi. (20) Nazarenus unum habet suffraganeum: episcopum
+        Tyberiensem. (21) Habet eciam patriarcha istos episcopos, nullo mediante: Bethleemitanum,
+        Liddeum et illum de Ebron.
+        
+        
+        
+        
+        
+      <ab type="source" source="#bib269-1"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        <note xml:lang="en" type="textual">Ed. Laurent 1873</note>
+        <note xml:lang="en" type="textual">Codex Hamburgensis 143b</note>
+      </ab>
       <ab type="translation" xml:lang="en" xml:id="quote269-2">
-        <anchor xml:id="testimonia-269.en.1" corresp="#testimonia-269.la.1"/>(11) There are four patriarchs: first that of Constantinople, second
-            that of Alexandria, third that of Antioch, fourth that of Jerusalem. (12) Likewise the
-            patriarch of Jerusalem has under him four archbishops: first in the province of
-            Palestine the archibishop of <placeName>Caesarea</placeName>, (13) who was more than
-            moderately fat when I saw him. (14) Another in Phoenicia, the archibishop of Tyre. (15)
-            The third in Galilee, the archibishop of Nazareth. (16) The fourth in the region of the
-            Moabites, the archbishop at Petra. (17) The archbishop of <placeName>Caesarea</placeName> has one suffragan: the bishop at Sebaste, (18) where
-            St. John the Baptist is buried. (19) The archbishop of Tyre has four suffragans: the
-            bishops of Acco, Sydon, Beritus, and Caesarea Philippi. (20) The archbishop of Nazareth
-            has one suffragan: the bishop of Tyberias. (21) The patriarch also has the following
-            bishops, with no intermediary: those of Bethlehem, Lidda, and Hebron.<ab type="source" source="#bib269-2"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="translation">Rev. from Pringle 2018</note></ab>
+        <anchor xml:id="testimonia-269.en.1" corresp="#testimonia-269.la.1"/>
+        (11) There are four
+        patriarchs: first that of Constantinople, second that of Alexandria, third that of Antioch,
+        fourth that of Jerusalem. (12) Likewise the patriarch of Jerusalem has under him four
+        archbishops: first in the province of Palestine the archibishop of
+          <placeName>Caesarea</placeName>, (13) who was more than moderately fat when I saw him.
+        (14) Another in Phoenicia, the archibishop of Tyre. (15) The third in Galilee, the
+        archibishop of Nazareth. (16) The fourth in the region of the Moabites, the archbishop at
+        Petra. (17) The archbishop of <placeName>Caesarea</placeName> has one suffragan: the bishop
+        at Sebaste, (18) where St. John the Baptist is buried. (19) The archbishop of Tyre has four
+        suffragans: the bishops of Acco, Sydon, Beritus, and Caesarea Philippi. (20) The archbishop
+        of Nazareth has one suffragan: the bishop of Tyberias. (21) The patriarch also has the
+        following bishops, with no intermediary: those of Bethlehem, Lidda, and Hebron.
+        
+        
+        
+        
+      <ab type="source" source="#bib269-2"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        <note xml:lang="en" type="translation">Rev. Pringle 2018</note>
+      </ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib269-1">
@@ -313,6 +337,10 @@
           <citedRange unit="section">29</citedRange>
         </bibl>
       </listBibl>
+    
+      
+      
+      
     <note type="related-texts"/>
       <note type="geography">
         <p>Alexandria</p>

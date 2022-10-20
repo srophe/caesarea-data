@@ -243,7 +243,8 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Letters</title> <ref n="a" target="#bib324-1">33.1</ref> written by <persName role="author" ref="http://viaf.org/viaf/309472433">Jerome</persName> in <origDate notBefore="0369" notAfter="0399" period="#byzantine">ca. 384 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Letters</title>
+        <ref target="#bib324-1">33.1</ref> written by <persName role="author" ref="http://viaf.org/viaf/309472433">Jerome</persName> in <origDate notBefore="" notAfter="" period="#">0384</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</creation>
       <langUsage>
         <language ident="la">Latin</language>
       </langUsage>
@@ -256,6 +257,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc status="draft">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
     </revisionDesc>
   </teiHeader>
@@ -264,34 +266,46 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/324</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract324-1">Caesarea Maritima is indirectly attested at <persName role="author" ref="http://viaf.org/viaf/309472433">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Letters</title> <ref n="a" target="#bib324-1">33.1</ref>. This passage was written ca. <origDate notBefore="0369" notAfter="0399" period="#byzantine">ca. 384 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
-      <desc type="context">Among the voluminous correspondence of St. Jerome is this letter,
-            written at the end of his service to Pope Damasus I at Rome and addressed to Paula, a
-            wealthy widow who belonged to his circle in the Imperial capital. At the opening he
-            pairs Varro and Origen (Chalcenterus) as paragons of scholarly productivity, and
-            criticizes a declining enthusiasm for classical learning (saeculares litterae). Origen
-            flourished as a scholar and teacher at Caesarea Maritima.</desc>
+      <desc type="abstract" xml:id="abstract324-1">Caesarea Maritima is indirectly attested at <persName role="author" ref="http://viaf.org/viaf/309472433">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Letters</title> <ref target="#bib324-1">33.1</ref>. This passage was written ca. <origDate notBefore="" notAfter="" period="#">0384</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+      <desc type="context">Among the voluminous correspondence of St. Jerome is this letter, written
+        at the end of his service to Pope Damasus I at Rome and addressed to Paula, a wealthy widow
+        who belonged to his circle in the Imperial capital. At the opening he pairs Varro and Origen
+          (<foreign>Chalcenterus</foreign>) as paragons of scholarly productivity, and criticizes a
+        declining enthusiasm for classical learning (<foreign>saeculares litterae</foreign>). Origen
+        flourished as a scholar and teacher at Caesarea.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote324-1">
-        <anchor xml:id="testimonia-324.la.1" corresp="#testimonia-324.en.1"/>Marcum Terentium Varronem miratur antiquitas, quod apud Latinos tam
+        <anchor xml:id="testimonia-324.la.1" corresp="#testimonia-324.en.1"/>
+        Marcum Terentium Varronem miratur antiquitas, quod apud Latinos tam
             innumerabiles libros scripserit. Graeci Chalcenterum miris efferunt laudibus, quod
             tantos libros conposuerit, quantos quivis nostrum alienos sua manu describere non
             potest, et quia nunc otiosum est apud Latinos Graecorum voluminum indicem texere, de eo,
             qui Latine scripsit, aliqua commemorabo, ut intellegamus nos Epimenidis dormire somnum
             et studium, quod illi posuerunt in eruditione saecularium litterarum, in congregandis
-            opibus ponere.<ab type="source" source="#bib324-1"/>
+            opibus ponere.
+        
+        
+        
+        
+      <ab type="source" source="#bib324-1"/>
         <idno type="CTS-URN"/>
         <ref/>
         <note xml:lang="en" type="textual">Ed. Hilberg and Slovak 1996</note>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote324-2">
-        <anchor xml:id="testimonia-324.en.1" corresp="#testimonia-324.la.1"/>Antiquity marvels at Marcus Terentius Varro, because of the
+        <anchor xml:id="testimonia-324.en.1" corresp="#testimonia-324.la.1"/>
+        Antiquity marvels at Marcus Terentius Varro, because of the
             countless books which he wrote for Latin readers. Greek writers are extravagant in their
             praise of Brass-Guts, because he has written more works than one of us could so much as
             copy. But because now it would be tiresome for Latin readers to assemble a list of Greek
             writings, I shall confine myself to the one (sc. Varro) who wrote in Latin. I intend for
             us to understand that we are sleeping the sleep of Epimenides and devoting to the
             accrual of wealth the zeal that our predecessors gave to learning in secular
-               literature.<ab type="source" source="#bib324-2"/>
+               literature.
+        
+        
+        
+        
+      <ab type="source" source="#bib324-2"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
         <note xml:lang="en" type="translation">Rev. Fremantle 1893</note>
@@ -307,6 +321,10 @@
           <ptr target="https://caesarea-maritima.org/bibl/4KIJIT36"/>
         </bibl>
       </listBibl>
+    
+      
+      
+      
     <note type="related-texts">
         <p>Jerome, Letters 33.4-6</p>
       </note>

@@ -245,7 +245,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref n="c" target="#bib337-1">30.32-31.15</ref> written by <persName role="author" ref="http://viaf.org/viaf/54944687">Theophanes the
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref target="#bib337-1">30.32-31.15</ref> written by <persName role="author" ref="http://viaf.org/viaf/54944687">Theophanes the
                Confessor</persName> in <origDate notBefore="0810" notAfter="0814" period="#earlyIslamic">810-814 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/511218">Cyzicus</origPlace>.</creation>
          <langUsage>
             <language ident="grc">Ancient Greek</language>
@@ -259,6 +259,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc status="draft">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
          <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
       </revisionDesc>
    </teiHeader>
@@ -267,8 +268,8 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/337</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract337-1">and <quote><placeName>Καισάρειαν</placeName></quote> is directly attested at <persName role="author" ref="http://viaf.org/viaf/54944687">Theophanes the
-               Confessor</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref n="c" target="#bib337-1">30.32-31.15</ref>. This passage was written ca. <origDate notBefore="0810" notAfter="0814" period="#earlyIslamic">810-814 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/511218">Cyzicus</origPlace>.</desc>
+         <desc type="abstract" xml:id="abstract337-1"><quote><placeName>Καισάρειαν</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/54944687">Theophanes the
+               Confessor</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref target="#bib337-1">30.32-31.15</ref>. This passage was written ca. <origDate notBefore="0810" notAfter="0814" period="#earlyIslamic">810-814 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/511218">Cyzicus</origPlace>.</desc>
          <desc type="context">Theophanes, born to noble parents in Constantinople, was raised in the
             Palace under Constantine V (740-775 C.E.) He spent much of his career as a member and
             leader of monastic communities around the Sea of Marmara, before his condemnation and
@@ -278,10 +279,11 @@
             style and format of Byzantine chronography. In his entry for the year 334/5 C.E. he
             describes the campaign against Athanasius of Alexandria, the stalwart champion of Nicene
             orthodoxy, by Eusebius of Nicomedia, which culminated in the First Synod of Tyre.
-            Dalmatius, the Caesar in Antioch, planned the trial to occur at Caesarea Maritima, but
-            the city’s bishop Eusebius intervened on Athanasius’ behalf.</desc>
+            Dalmatius, the Caesar in Antioch, planned the trial to occur at Caesarea, but the city’s
+            bishop Eusebius intervened on Athanasius’ behalf.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote337-1">
-        <anchor xml:id="testimonia-337.grc.1" corresp="#testimonia-337.en.1"/>τῷ δ’ αὐτῷ ἔτει καὶ ἡ κατὰ Ἰσχύραν ἐπιβουλὴ Ἀθανασίου ἐτυρεύθη ἐν τῷ
+        <anchor xml:id="testimonia-337.grc.1" corresp="#testimonia-337.en.1"/>
+        τῷ δ’ αὐτῷ ἔτει καὶ ἡ κατὰ Ἰσχύραν ἐπιβουλὴ Ἀθανασίου ἐτυρεύθη ἐν τῷ
             Μαρεώτῃ. οὗτος ὁ Ἰσχύρας ἱερέα ἑαυτὸν σχηματίσας περιῄει ἱερουργῶν· ὅπερ μαθὼν Ἀθανάσιος
             τοῦτον ἐκώλυσε τοῦ τολμήματος διὰ Μακαρίου πρεσβυτέρου. ὁ δὲ φυγὼν ἦλθε πρὸς Εὐσέβιον
             τὸν Νικομηδείας, κατηγορῶν Ἀθανασίου ὡς ἱερὰ σκεύη τῷ καιρῷ τῆς μυσταγωγίας ἐκ τοῦ
@@ -293,24 +295,44 @@
             ἐν Τύρῳ κρίνεται ὑπὸ τῶν ἀντιδίκων τῆς ἀληθείας, Εὐσεβίου, φημί, τοῦ Νικομηδείας
             ἀπατήσαντος τὸν βασιλέα ἐπιθυμίᾳ δῆθεν τῶν οἰκοδομηθέντων ἁγίων τόπων καὶ τοῦ εὑρεθῆναι
             εἰς τὸν ἐγκαινισμὸν αὐτῶν. ὃν καὶ μετὰ μεγάλης τιμῆς ἀπέλυσε κελεύσας λυθῆναι τὰς κατὰ
-            Ἀθανασίου διαβολάς, καὶ οὕτω σὺν Ἀθανασίῳ εἰς τὴν ἑορτὴν τῶν ἐγκαινίων γενέσθαι.<ab type="source" source="#bib337-1"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="textual">Ed. de Boor 1883 </note></ab>
+            Ἀθανασίου διαβολάς, καὶ οὕτω σὺν Ἀθανασίῳ εἰς τὴν ἑορτὴν τῶν ἐγκαινίων γενέσθαι. 
+        
+        
+        
+        
+      <ab type="source" source="#bib337-1"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        <note xml:lang="en" type="textual">Ed. de Boor 1883 </note>
+      </ab>
          <ab type="translation" xml:lang="en" xml:id="quote337-2">
-        <anchor xml:id="testimonia-337.en.1" corresp="#testimonia-337.grc.1"/>[A.M. 5827=334/5 C.E.] In the same year Ischyras concocted a plot
-            against Athanasius in Mareotis. This man Ischyras, having disguised himself as a priest,
-            travelled about celebrating mass. When Athanasius learned of this, he forbade this
-            outrageous behaviour through the presbyter Macarius. Ischyras then fled to Eusebius of
-            Nicomedia and accused Athanasius of having thrown the sacred vessels off the altar at
-            the time of the divine service and of having burned the sacred books through the agency
-            of Macarius. They also lied about the much vaunted hand of Arsenius, claiming that he
-            had used it for magic, and so shamelessly slandered the holy man. When the emperor had
-            heard of these accusations against Athanasius he first entrusted the inquiry to his
-            nephew Dalmatius who was in Antioch. He later transferred the trial to Caesarea, but
-            since Athanasius put it off because of Eusebius Pamphili, he was tried at Tyre by those
+        <anchor xml:id="testimonia-337.en.1" corresp="#testimonia-337.grc.1"/>
+            [A.M. 5827=334/5
+            C.E.] In the same year Ischyras concocted a plot against Athanasius in Mareotis. This
+            man Ischyras, having disguised himself as a priest, travelled about celebrating mass.
+            When Athanasius learned of this, he forbade this outrageous behaviour through the
+            presbyter Macarius. Ischyras then fled to Eusebius of Nicomedia and accused Athanasius
+            of having thrown the sacred vessels off the altar at the time of the divine service and
+            of having burned the sacred books through the agency of Macarius. They also lied about
+            the much vaunted hand of Arsenius, claiming that he had used it for magic, and so
+            shamelessly slandered the holy man. When the emperor had heard of these accusations
+            against Athanasius he first entrusted the inquiry to his nephew Dalmatius who was in
+            Antioch. He later transferred the trial to <placeName>Caesarea</placeName>, but since
+            Athanasius put it off because of Eusebius Pamphili, he was tried at Tyre by those
             opponents of truth, particularly Eusebius of Nicomedia, who had tricked the emperor with
             his supposed longing (to see) the holy sites that had been built up and to be present at
             their consecration. The emperor (Constantine) sent Eusebius on his way with great honor,
             ordering that the slanders against Athanasius be dismissed, and thereafter that he
-            together with Athanasius should be present at the feast for the consecration.<ab type="source" source="#bib337-2"/><idno type="CTS-URN"/><ref target="https://ccel.org/ccel/schaff/anf06/anf06.iii.iii.iv.v.html"/><note xml:lang="en" type="translation">Trans. Mango, Scott, and Greatrex 1997</note></ab>
+            together with Athanasius should be present at the feast for the consecration. 
+            
+            
+            
+            
+         <ab type="source" source="#bib337-2"/>
+        <idno type="CTS-URN"/>
+        <ref target="https://ccel.org/ccel/schaff/anf06/anf06.iii.iii.iv.v.html"/>
+        <note xml:lang="en" type="translation">Trans. Mango, Scott, and Greatrex 1997</note>
+      </ab>
          <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib337-1">
@@ -322,7 +344,11 @@
           <citedRange unit="p">51</citedRange>
         </bibl>
       </listBibl>
-      <note type="related-texts">
+      
+      
+      
+      
+    <note type="related-texts">
         <p>Socrates Scholasticus 1.27</p>
         <p>Sozomen 2.21, 23</p>
         <p>Theodore the Reader 42-44 (20.18-21.34)</p>
@@ -339,8 +365,8 @@
         <p>Athanasius of Alexandria</p>
         <p>Constantine I, emperor</p>
         <p>Dalmatius, emperor</p>
-        <p>Eusebius of Nicomedia</p>
         <p>Eusebius of Caesarea</p>
+        <p>Eusebius of Nicomedia</p>
         <p>Ischyras</p>
         <p>Macarius</p>
       </note>

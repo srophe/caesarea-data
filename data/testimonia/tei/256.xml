@@ -243,7 +243,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Booklet on Holy Places</title> <ref n="b" target="#bib256-1">1538-1541</ref> written by <persName role="author" ref="http://viaf.org/viaf/7379102">Dietrich</persName> in <origDate notBefore="1170" notAfter="1173" period="#crusader">1170-1173 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Booklet on Holy Places</title> <ref target="#bib256-1">1538-1541</ref> written by <persName role="author" ref="http://viaf.org/viaf/7379102">Dietrich</persName> in <origDate notBefore="1170" notAfter="1173" period="#crusader">1170-1173 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</creation>
       <langUsage>
         <language ident="la">Latin</language>
       </langUsage>
@@ -256,6 +256,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc status="draft">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
     </revisionDesc>
   </teiHeader>
@@ -264,19 +265,41 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/256</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract256-1"><quote><placeName>Cesaream</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/7379102">Dietrich</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Booklet on Holy Places</title> <ref n="b" target="#bib256-1">1538-1541</ref>. This passage was written ca. <origDate notBefore="1170" notAfter="1173" period="#crusader">1170-1173 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract256-1"><quote><placeName>Cesaream</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/7379102">Dietrich</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Booklet on Holy Places</title> <ref target="#bib256-1">1538-1541</ref>. This passage was written ca. <origDate notBefore="1170" notAfter="1173" period="#crusader">1170-1173 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
       <desc type="context">Dietrich (Theodericus) was a German priest of the 12th century who
-            travelled to the Holy Land under the Kingdom of Jerusalem. His account survives in only
-            two manuscripts of the 15th century that derive from a common ancestor: Österreichische
-            Staatsbibliothek, Vienna 3529 and Bell Library, University of Minnesota 1424/Co. In this
-            passage Dietrich describes major roads in his itinerary.</desc>
+        travelled to the Holy Land under the Kingdom of Jerusalem. His account survives in only two
+        manuscripts of the 15th century that derive from a common ancestor: Österreichische
+        Staatsbibliothek, Vienna 3529 and Bell Library, University of Minnesota 1424/Co. In this
+        passage, Dietrich describes major roads in his itinerary.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote256-1">
-        <anchor xml:id="testimonia-256.la.1" corresp="#testimonia-256.en.1"/>Hec ergo via, que ab Achon per Nazareth et Samariam atque Neapolim
-            Ierosolimam ducit, ‘superior’ vocatur, et illa que per <placeName>Cesaream</placeName> et Liddam ab Achon Ierosolimam tendit ‘Maritima’ appellatur.<ab type="source" source="#bib256-1"/><idno type="CTS-URN"/><ref/><note xml:lang="en" type="textual">Ed.
-               Huygens 1994</note></ab>
+        <anchor xml:id="testimonia-256.la.1" corresp="#testimonia-256.en.1"/>
+        Hec ergo via, que ab
+        Achon per Nazareth et Samariam atque Neapolim Ierosolimam ducit, superior vocatur, et illa
+        que per <placeName>Cesaream</placeName> et Liddam ab Achon Ierosolimam tendit Maritima
+          appellatur.
+        
+        
+        
+        
+      <ab type="source" source="#bib256-1"/>
+        <idno type="CTS-URN"/>
+        <ref/>
+        <note xml:lang="en" type="textual">Ed. Huygens 1994</note>
+        <note xml:lang="en" type="corrigenda">Minor corr. (punctuation)</note>
+      </ab>
       <ab type="translation" xml:lang="en" xml:id="quote256-2">
-        <anchor xml:id="testimonia-256.en.1" corresp="#testimonia-256.la.1"/>Now this road which leads from Accon through Nazareth, Samaria, and
-            Neapolis to Jerusalem is called the High Road; and that which leads from Achon through <placeName>Caesarea</placeName> and Lidda to Jerusalem is called the Coastal Road.<ab type="source" source="#bib256-2"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="translation">Adapted from Stewart 1896</note></ab>
+        <anchor xml:id="testimonia-256.en.1" corresp="#testimonia-256.la.1"/>
+        Now this road which leads from Accon through Nazareth, Samaria, and
+            Neapolis to Jerusalem is called the High Road; and that which leads from Achon through <placeName>Caesarea</placeName> and Lidda to Jerusalem is called the Coastal Road.
+        
+        
+        
+        
+      <ab type="source" source="#bib256-2"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        <note xml:lang="en" type="translation">Adapted from Stewart 1896</note>
+      </ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib256-1">
@@ -290,6 +313,10 @@
           <citedRange unit="section">39</citedRange>
         </bibl>
       </listBibl>
+    
+      
+      
+      
     <note type="related-texts"/>
       <note type="geography">
         <p>Jerusalem</p>

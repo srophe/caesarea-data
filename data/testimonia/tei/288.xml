@@ -243,7 +243,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Illustrious Men</title> <ref n="d" target="#bib288-1">54.22-31</ref> written by <persName role="author" ref="http://viaf.org/viaf/95147024">Jerome</persName> in <origDate notBefore="0392" notAfter="0393" period="#byzantine">392-393 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Illustrious Men</title> <ref target="#bib288-1">54.22-31</ref> written by <persName role="author" ref="http://viaf.org/viaf/95147024">Jerome</persName> in <origDate notBefore="0392" notAfter="0393" period="#byzantine">392-393 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</creation>
       <langUsage>
         <language ident="la">Latin</language>
       </langUsage>
@@ -256,6 +256,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc status="draft">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
     </revisionDesc>
   </teiHeader>
@@ -264,7 +265,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/288</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract288-1"> is directly attested at <persName role="author" ref="http://viaf.org/viaf/95147024">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Illustrious Men</title> <ref target="#bib288-1">54.22-31</ref>. This passage was written circa <origDate notBefore="0392" notAfter="0393" period="#byzantine">392-393 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract288-1"><quote><placeName>Caesareae</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/95147024">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Illustrious Men</title> <ref target="#bib288-1">54.22-31</ref>. This passage was written ca. <origDate notBefore="0392" notAfter="0393" period="#byzantine">392-393 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</desc>
       <desc type="context">Among his many works, St. Jerome wrote a catalog of renowned thinkers
             of the Roman world during the first years after his move from Rome to Bethlehem. In
             mostly brief sketches he describes the intellectual achievements, particularly writings,
@@ -272,24 +273,45 @@
             Origen’s interactions with the Cappadocian Church and the Imperial family from his base
             at Caesarea in the 230s C.E.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote288-1">
-        <anchor xml:id="testimonia-288.la.1" corresp="#testimonia-288.en.1"/>Quantae autem gloriae fuerit, hinc apparet, quod Firmillianus, Caesareae
-            episcopus, cum omni Cappadocia eum invitavit et diu tenuit et postea sub occasione
-            sanctorum locorum Palestinam veniens diu Caesareae ab eo in sanctis scripturis eruditus
-            est; sed et illud quod ad Mameam, matrem Alexandri imperatoris, religiosam feminam
-            rogatus venit Antiochiam et summo honore habitus est, et ad Philippum imperatorem, qui
-            primus de regibus Romanis Christianus fuit, et ad matrem eius litteras fecit quae usque
-            hodie extant.<ab type="source" source="#bib288-1"/><idno type="CTS-URN"/><ref target="https://archive.org/details/devirisinlustri00jerogoog/page/n67/mode/2up"/><note xml:lang="en" type="textual">Ed. Bernoulli 1895</note></ab>
+        <anchor xml:id="testimonia-288.la.1" corresp="#testimonia-288.en.1"/>
+        Quantae autem gloriae
+        fuerit, hinc apparet, quod Firmillianus, <placeName>Caesareae</placeName> episcopus, cum
+        omni Cappadocia eum invitavit et diu tenuit et postea sub occasione sanctorum locorum
+        Palestinam veniens diu <placeName>Caesareae</placeName> ab eo in sanctis scripturis eruditus
+        est; sed et illud quod ad Mameam, matrem Alexandri imperatoris, religiosam feminam rogatus
+        venit Antiochiam et summo honore habitus est, et ad Philippum imperatorem, qui primus de
+        regibus Romanis Christianus fuit, et ad matrem eius litteras fecit quae usque hodie
+          extant.
+        
+        
+        
+        
+      <ab type="source" source="#bib288-1"/>
+        <idno type="CTS-URN"/>
+        <ref target="https://archive.org/details/devirisinlustri00jerogoog/page/n67/mode/2up"/>
+        <note xml:lang="en" type="textual">Ed. Bernoulli 1895</note>
+      </ab>
       <ab type="translation" xml:lang="en" xml:id="quote288-2">
-        <anchor xml:id="testimonia-288.en.1" corresp="#testimonia-288.la.1"/>One can see how great Origen’s glory was from the fact that
-            Firmillianus, bishop of Caesarea, with all the Cappadocian bishops invited and hosted
-            him for a long stay; and later, when (Firmillianus) was travelling to Palestine to visit
-            the Holy Places, he received instruction on the Holy Scriptures from Origen for a long
-            time at Caesarea. But there is also the fact that (Origen) went to Antioch at the
-            request of Mamea, mother of the emperor Alexander and a woman of religious devotion, and
-            he was treated with the highest regard. And he sent letters to the emperor Philip, who
-            was the first Christian among the Roman rulers, and to his mother, letters which still
-            exist today.<ab type="source" source="#bib288-2"/><idno type="CTS-URN"/><ref/><note xml:lang="en" type="translation">Adapted from Schaff 1892 and Halton
-               1999</note></ab>
+        <anchor xml:id="testimonia-288.en.1" corresp="#testimonia-288.la.1"/>
+        One can see how great
+        Origen’s glory was from the fact that Firmillianus, bishop of
+          <placeName>Caesarea</placeName>, with all the Cappadocian bishops invited and hosted him
+        for a long stay; and later, when (Firmillianus) was travelling to Palestine to visit the
+        Holy Places, he received instruction on the Holy Scriptures from Origen for a long time at
+          <placeName>Caesarea</placeName>. But there is also the fact that (Origen) went to Antioch
+        at the request of Mamea, mother of the emperor Alexander and a woman of religious devotion,
+        and he was treated with the highest regard. And he sent letters to the emperor Philip, who
+        was the first Christian among the Roman rulers, and to his mother, letters which still exist
+          today.
+        
+        
+        
+        
+      <ab type="source" source="#bib288-2"/>
+        <idno type="CTS-URN"/>
+        <ref/>
+        <note xml:lang="en" type="translation">Adapted from Schaff 1892 and Halton 1999</note>
+      </ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib288-1">
@@ -303,6 +325,10 @@
           <citedRange unit="ch">54.5</citedRange>
         </bibl>
       </listBibl>
+    
+      
+      
+      
     <note type="related-texts">
         <p>Eusebius, Church History</p>
         <p>Suda ω 182.39-41</p>

@@ -245,8 +245,8 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Panegyric to Origen </title> <ref n="c" target="#bib327-1">16.63-92</ref> written by <persName ref="http://viaf.org/viaf/88726043" role="author">Gregory the
-               Miracle-Worker</persName> in <origDate notBefore="0224" notAfter="0254" period="#lateRoman">ca. 239 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Panegyric to Origen </title> <ref target="#bib327-1">16.63-92</ref> written by <persName ref="http://viaf.org/viaf/88726043" role="author">Gregory the
+               Miracle-Worker</persName> in <origDate notBefore="" notAfter="" period="#">NaN CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</creation>
          <langUsage>
             <language ident="grc">Ancient Greek</language>
          </langUsage>
@@ -259,6 +259,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc status="draft">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
          <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
       </revisionDesc>
    </teiHeader>
@@ -268,7 +269,7 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/327</idno>
          </ab>
          <desc type="abstract" xml:id="abstract327-1">Caesarea Maritima is indirectly attested at <persName ref="http://viaf.org/viaf/88726043" role="author">Gregory the
-               Miracle-Worker</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Panegyric to Origen </title> <ref n="c" target="#bib327-1">16.63-92</ref>. This passage was written ca. <origDate notBefore="0224" notAfter="0254" period="#lateRoman">ca. 239 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</desc>
+               Miracle-Worker</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Panegyric to Origen </title> <ref target="#bib327-1">16.63-92</ref>. This passage was written ca. <origDate notBefore="" notAfter="" period="#">NaN CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</desc>
          <desc type="context">Theodore, who later became known as Gregory the Miracle-Worker (ὁ
             Θαυματουργός), was a Christian convert from a leading family of Pontic Neocaesarea who
             became an influential theologian and bishop during the middle decades of the 3rd
@@ -281,7 +282,8 @@
             rejoining his mundane existence in some place that is dangerous and without inspiration,
             like the Jews deported to Babylon.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote327-1">
-        <anchor xml:id="testimonia-327.grc.1" corresp="#testimonia-327.en.1"/>Πολέμιοί ποτε λέγονται ἐπελθόντες πόλει μεγάλῃ καὶ ἱερᾷ, ἐν ᾗ τὸ θεῖον
+        <anchor xml:id="testimonia-327.grc.1" corresp="#testimonia-327.en.1"/>
+        Πολέμιοί ποτε λέγονται ἐπελθόντες πόλει μεγάλῃ καὶ ἱερᾷ, ἐν ᾗ τὸ θεῖον
             ἐθεραπεύετο, αἰχμαλώτους κατασῦραι τοὺς ἐνοικοῦντας καὶ ὑμνῳδοὺς καὶ θεολόγους εἰς τὴν
             αὐτὴν χώραν, Βαβυλωνία δὲ ἦν· τοὺς δ’ ἐνεχθέντας εἰς αὐτήν, μηδ’ ἀξιουμένους ὑπὸ τῶν
             κρατούντων ὑμνεῖν ἐθέλειν τὸ θεῖον, μηδὲ ψάλλειν ἐν γῇ βεβήλῳ· ἀλλὰ τὰ μὲν ὄργανα τὰ
@@ -299,13 +301,19 @@
             ἐκπεπολεμημένος, ἐξὸν μένειν, τάχα καὶ ἀπιὼν ἐντεῦθεν οὐκ ἀσφαλῶς πορεύσομαι, ὡς ἀπὸ
             ἀσφαλοῦς καὶ εἰρηνευομένης τινὸς πόλεως ἐξελθών· εἰκὸς δὲ ὡς ἄρα ὁδοιπορῶν καὶ λῃσταῖς
             συντεύξομαι καὶ συλληφθήσομαι, καὶ γυμνωθεὶς τρωθήσομαι τραύμασι πολλοῖς, καὶ κείσομαί
-            που ἡμιθνὴς ἐρριμμένος.<ab type="source" source="#bib327-1"/>
+            που ἡμιθνὴς ἐρριμμένος.
+        
+        
+        
+        
+      <ab type="source" source="#bib327-1"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
         <note xml:lang="en" type="textual">Ed. Crouzel 1969</note>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote327-2">
-        <anchor xml:id="testimonia-327.en.1" corresp="#testimonia-327.grc.1"/>It is told that that the enemy once assailed a great and sacred city
+        <anchor xml:id="testimonia-327.en.1" corresp="#testimonia-327.grc.1"/>
+        It is told that that the enemy once assailed a great and sacred city
             in which the God was worshipped, and dragged away its inhabitants as prisoners, both
             singers and prophets, into their own country, Babylonia. And it is told that the
             captives in that land were unwilling, even when it was demanded by their conquerors, to
@@ -326,7 +334,12 @@
             here I will embark on a dangerous journey, as can befalls one who leaves a safe and
             peaceful city. To be sure, it is likely that I will run into robbers on the road, they
             will capture me, strip me naked, cripple me with many wounds, and throw me away to lie
-            somewhere half-dead.<ab type="source" source="#bib327-2"/>
+            somewhere half-dead.
+        
+        
+        
+        
+      <ab type="source" source="#bib327-2"/>
         <idno type="CTS-URN"/>
         <ref target="https://ccel.org/ccel/schaff/anf06/anf06.iii.iii.iv.xvi.html"/>
         <note xml:lang="en" type="translation">Adapted from Salmond 1886</note>
@@ -342,7 +355,11 @@
           <ptr target="https://caesarea-maritima.org/bibl/RTCA5XRS"/>
         </bibl>
       </listBibl>
-      <note type="related-texts"/>
+      
+      
+      
+      
+    <note type="related-texts"/>
       <note type="geography">
         <p>Babylon</p>
         <p>Babylonia</p>
@@ -352,12 +369,12 @@
         <p>Origen</p>
       </note>
       <note type="themes">
-        <p>Society and Culture</p>
         <p>Christianity</p>
         <p>Education (sacred)</p>
         <p>Government and Law</p>
         <p>History of Israel</p>
         <p>Judaism</p>
+        <p>Society and Culture</p>
         <p>Travel</p>
       </note>
     </body>

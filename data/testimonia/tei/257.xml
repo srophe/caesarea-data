@@ -243,7 +243,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Dictionary of Place Names</title> <ref n="b" target="#bib257-1">108</ref> written by <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius</persName> in <origDate notBefore="0290" notAfter="0325" period="#lateRoman #byzantine">290-325 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Dictionary of Place Names</title> <ref target="#bib257-1">108</ref> written by <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius</persName> in <origDate notBefore="0290" notAfter="0325" period="#lateRoman #byzantine">290-325 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</creation>
       <langUsage>
         <language ident="grc">Ancient Greek</language>
       </langUsage>
@@ -256,6 +256,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc status="draft">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
     </revisionDesc>
   </teiHeader>
@@ -264,21 +265,35 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/257</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract257-1"><quote><placeName>Καισαρείας</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Dictionary of Place Names</title> <ref n="b" target="#bib257-1">108</ref>. This passage was written ca. <origDate notBefore="0290" notAfter="0325" period="#lateRoman #byzantine">290-325 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract257-1"><quote><placeName>Καισαρείας</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Dictionary of Place Names</title> <ref target="#bib257-1">108</ref>. This passage was written ca. <origDate notBefore="0290" notAfter="0325" period="#lateRoman #byzantine">290-325 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</desc>
       <desc type="context">In his lexicon of place names in Hebrew Scripture, Eusebius wrote that
-            Iapheth named at Joshua 19:12 was in his time a coastal village called Ioppe, Sykaminos,
-            or Efa (Haifa) on the road from Caesarea to Ptolemaïs (Akko). The same information is
-            recorded in the parallel passage at Jerome, Book of Places 109, written roughly one
-            century after Eusebius’ work.</desc>
+        Iapheth, named at <title>Joshua</title> 19:12, was in his time a coastal village called
+        Ioppe, Sykaminos, or Efa (Haifa) on the road from Caesarea to Ptolemaïs (Akko). The same
+        information is recorded in the parallel passage at Jerome, <title>Book of Places</title>
+        109, written roughly one century after Eusebius’ work.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote257-1">
-        <anchor xml:id="testimonia-257.grc.1" corresp="#testimonia-257.en.1"/>Ἰάφεθ. κλήρου Ζαβουλών ἀνάβασίς, καλεῖται καὶ Ἰόππη. καὶ ἡ Συκάμινος δὲ
+        <anchor xml:id="testimonia-257.grc.1" corresp="#testimonia-257.en.1"/>
+        Ἰάφεθ. κλήρου Ζαβουλών ἀνάβασίς, καλεῖται καὶ Ἰόππη. καὶ ἡ Συκάμινος δὲ
             ἀπιόντων εἰς Πτολεμαίδα ἀπὸ <placeName>Καισαρείας</placeName>, κώμη πάραλος πλησίον τοῦ
-            Καρμήλου, Ἡφὰ λέγεται.<ab type="source" source="#bib257-1"/><idno type="CTS-URN"/><ref target=""/><note>Ed. Klosterman 1904 [cited by page]</note></ab>
+            Καρμήλου, Ἡφὰ λέγεται.
+        
+        
+        
+        
+        
+      <ab type="source" source="#bib257-1"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        <note xml:lang="en">Ed. Klosterman 1904 [cited by page]</note>
+      </ab>
       <ab type="translation" xml:lang="en" xml:id="quote257-2">
-        <anchor xml:id="testimonia-257.en.1" corresp="#testimonia-257.grc.1"/>Iapheth. The Ascent of the Plot of Zebulon, also called Ioppe. It is
+        <anchor xml:id="testimonia-257.en.1" corresp="#testimonia-257.grc.1"/>
+        Iapheth. The Ascent of the Plot of Zebulon, also called Ioppe. It is
             also Sykaminos for those traveling to Ptolemais from <placeName>Caesarea</placeName>, a
             coastal village near Carmel, called Hepha.<note xml:lang="en" type="translation">Trans. J. L.
                Rife</note>
+        
+        
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -289,6 +304,10 @@
           <citedRange unit="p">108</citedRange>
         </bibl>
       </listBibl>
+    
+      
+      
+      
     <note type="related-texts">
         <p>Jerome, Book of Places 109</p>
         <p>Joshua 9:12</p>

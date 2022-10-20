@@ -244,7 +244,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Suda</title> <ref n="g" target="#bib314-1">ω 182.618.36-619.14</ref> written by <persName role="author">Unknown</persName> in <origDate notBefore="0976" notAfter="0990" period="#earlyIslamic">976-990 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Suda</title> <ref target="#bib314-1">ω 182.618.36-619.14</ref> written by <persName role="author">Unknown</persName> in <origDate notBefore="0976" notAfter="0990" period="#earlyIslamic">976-990 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
          <langUsage>
             <language ident="grc">Ancient Greek</language>
          </langUsage>
@@ -257,6 +257,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc status="draft">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
          <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
       </revisionDesc>
    </teiHeader>
@@ -265,17 +266,18 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/314</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract314-1">Caesarea Maritima is indirectly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Suda</title> <ref n="g" target="#bib314-1">ω 182.618.36-619.14</ref>. This passage was written ca. <origDate notBefore="0976" notAfter="0990" period="#earlyIslamic">976-990 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
-         <desc type="context">The Suda (“Stronghold”) is an encyclopedic lexicon written by an
-            unknown scholar during the late 10th century. It compiles copious information in
-            alphabetical entries for use by the learned philologist, in particular on grammar,
-            history, and biography, referring to a broad range of sources from Classical Antiquity
-            to the Early Byzantine period. This passage from the lemma on Origen (s.v. Ὠριγένης)
-            addresses the impact of his biblical exegesis as well as his philosophical program as a
-            teacher and scholar at Caesarea in the early 3rd century. Here the author depends
-            chiefly on the account of Eusebius written roughly 650 year earlier.</desc>
+         <desc type="abstract" xml:id="abstract314-1">Caesarea Maritima is indirectly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Suda</title> <ref target="#bib314-1">ω 182.618.36-619.14</ref>. This passage was written ca. <origDate notBefore="0976" notAfter="0990" period="#earlyIslamic">976-990 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+         <desc type="context">The <title>Suda</title> (“Stronghold”) is an encyclopedic lexicon
+            written by an unknown scholar during the late 10th century. It compiles copious
+            information in alphabetical entries for use by the learned philologist, in particular on
+            grammar, history, and biography, referring to a broad range of sources from Classical
+            Antiquity to the Early Byzantine period. This passage from the lemma on Origen (s.v.
+            Ὠριγένης) addresses the impact of his biblical exegesis as well as his philosophical
+            program as a teacher and scholar at Caesarea in the early 3rd century. Here the author
+            depends chiefly on the account of Eusebius written roughly 650 year earlier.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote314-1">
-        <anchor xml:id="testimonia-314.grc.1" corresp="#testimonia-314.en.1"/>καὶ ἁπλῶς πᾶσαν γραφὴν ὑποσημηνάμενος ἐκκλησιαστικὴν πλεῖστα καὶ
+        <anchor xml:id="testimonia-314.grc.1" corresp="#testimonia-314.en.1"/>
+        καὶ ἁπλῶς πᾶσαν γραφὴν ὑποσημηνάμενος ἐκκλησιαστικὴν πλεῖστα καὶ
             ἀναρίθμητα καταλέλοιπεν, ὡς ἐξ ἐκείνου πάντας τοὺς μετέπειτα τῆς ἐκκλησίας διδασκάλους
             τὰς ἀφορμὰς εἰληφέναι, ὡς ὁ θεολόγος φάσκει Γρηγόριος: ̓Ωριγένης ἡ πάντων ἡμῶν ἀκόνη. οὐ
             μόνον δὲ τῇ καθ' ἡμᾶς ἐκκλησίᾳ, ἀλλὰ καὶ τοῖς τῶν ἔξωθεν πολλὴν παρείχετο τὴν ὠφέλειαν,
@@ -287,10 +289,18 @@
             κηρύττεσθαι. μάρτυρες δὲ τῆς περὶ ταῦτα αὐτοῦ κατορθώσεως αὐτῶν ̔Ελλήνων οἱ κατ’ αὐτὸν
             ἠκμακότες φιλόσοφοι, ὥν ἐν συγγράμμασι πολλὴν μνήμην εὕρομεν τοῦ ἀνδρός, τοτὲ μὲν αὐτῷ
             προσφωνούντων, τοτὲ δὲ οἷα διδασκάλῳ ἐς τὴν αὐτοῦ κρίσιν τοὺς ἰδίους ἀναφερόντων
-               πόνους.<ab type="source" source="#bib314-1"/><idno type="CTS-URN">https://archive.org/details/adler-a.-suidae-lexicon-3
-               ./Adler%20A.%2C%20Suidae%20Lexicon%203%20%28%CE%9A-%CE%9F.%20%CE%A9%29/page/n315/mode/2up</idno><note xml:lang="en" type="textual">Ed. Adler 1933</note></ab>
+               πόνους.
+        
+        
+        
+      <ab type="source" source="#bib314-1"/>
+        <idno type="CTS-URN">https://archive.org/details/adler-a.-suidae-lexicon-3
+               ./Adler%20A.%2C%20Suidae%20Lexicon%203%20%28%CE%9A-%CE%9F.%20%CE%A9%29/page/n315/mode/2up</idno>
+        <note xml:lang="en" type="textual">Ed. Adler 1933</note>
+      </ab>
          <ab type="translation" xml:lang="en" xml:id="quote314-2">
-        <anchor xml:id="testimonia-314.en.1" corresp="#testimonia-314.grc.1"/>Having examined canonical scripture as a whole, he left behind such
+        <anchor xml:id="testimonia-314.en.1" corresp="#testimonia-314.grc.1"/>
+        Having examined canonical scripture as a whole, he left behind such
             vast and innumerable writings that all subsequent teachings of the Church would take
             them as a starting point. And so the theologian Gregory (of Nazianzus) claims, “Origen
             is the whetstone of us all.” He provided a great service not only to our Church but to
@@ -305,6 +315,8 @@
             dedicating the work to him, sometimes submitting their own work to his judgment as if to
             a teacher.<note xml:lang="en" type="translation">Adapted from SOL (trans. P. Little et al.,
                2000-)</note>
+        
+        
         <idno type="CTS-URN"/>
         <ref target="https://www.cs.uky.edu/~raphael/sol/sol-entries/omega/182"/>
       </ab>
@@ -322,7 +334,11 @@
           <ptr target="https://caesarea-maritima.org/bibl/753625E4"/>
         </bibl>
       </listBibl>
-      <note type="related-texts"/>
+      
+      
+      
+      
+    <note type="related-texts"/>
       <note type="geography">
         <p>Pontus</p>
       </note>

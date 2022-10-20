@@ -247,7 +247,7 @@
             <p/>
          </abstract>
          <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Description of the Holy
-               Land</title> <ref n="b" target="#bib203-1">7.17</ref> written by <persName ref="http://viaf.org/viaf/100899506" role="author">Burchard of Mt.
+               Land</title> <ref target="#bib203-1">7.17</ref> written by <persName ref="http://viaf.org/viaf/100899506" role="author">Burchard of Mt.
                Sion</persName> in <origDate notBefore="1274" notAfter="1285" period="#crusader">1274-1285 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</creation>
          <langUsage>
             <language ident="la">Latin</language>
@@ -261,6 +261,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc status="draft">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
          <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
       </revisionDesc>
    </teiHeader>
@@ -271,27 +272,38 @@
          </ab>
          <desc type="abstract" xml:id="abstract203-1"><quote><placeName>Caesaream Palestine</placeName></quote>, and <quote><placeName>Caesarea Palestinae</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/100899506" role="author">Burchard of Mt.
                Sion</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Description of the Holy
-               Land</title> <ref n="b" target="#bib203-1">7.17</ref>. This passage was written ca. <origDate notBefore="1274" notAfter="1285" period="#crusader">1274-1285 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
+               Land</title> <ref target="#bib203-1">7.17</ref>. This passage was written ca. <origDate notBefore="1274" notAfter="1285" period="#crusader">1274-1285 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
          <desc type="context">Burchard of Mt. Sion was a Dominican friar from Magdeburg in Lower
             Saxony who wrote the the most important description of the Holy Land from the 13th
             century. The earliest and longest account of his pilgrimage, which grew particularly
-            popular during the 14th-18th centuries, described his long trip from northern Germany to
+            popular during the 14th-18th centuries, described his journey from northern Germany to
             the Levant, where he stayed from 1274 to 1284, shortly before the fall of Acre, the last
             Crusader stronghold in the Holy Land, in 1291. The content of his description is based
             upon personal experience, research into ancient writings and earlier itineraries, and
             close study of scripture. In this passage about Samaria Sebaste, Burchard describes its
             excellent location with a view to the Mediterranean coast, including Caesarea.</desc>
          <ab type="edition" xml:lang="la" xml:id="quote203-1">
-        <anchor xml:id="testimonia-203.la.1" corresp="#testimonia-203.en.1"/>Breviter dico, quod magis non potest dici de civitate ista, que ad
+        <anchor xml:id="testimonia-203.la.1" corresp="#testimonia-203.en.1"/>
+        Breviter dico, quod magis non potest dici de civitate ista, que ad
             tantam miseriam nunc devenit, ut rei veritate sit ortus olerum, sicut Achab, rex eius,
             facere voluit de vinea Naboth Iesrahelite, eo quod esset prope domum suam. Et revera
             nunc iusto Dei iudicio non sοlum vinea ipsa, sed et palacium ipsum regis est in ortum
             olerum commutatum. Situs huius civitatis valde pulcher erat; erat enim inde prospectus
             usque ad mare Ioppes et Antipatridem et <placeName>Caesaream Palestine</placeName>, per
             totum quoque montem Effraym usque Ramathaym Sophim et ad Carmelum maris iuxta Accon. Et
-            habundat fontibus et ortis et olivetis et bonis omnibus que requirit mundus iste.<ab type="source" source="#bib203-1"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="textual">Ed. Laurent 1873</note></ab>
+            habundat fontibus et ortis et olivetis et bonis omnibus que requirit mundus iste.
+        
+        
+        
+        
+      <ab type="source" source="#bib203-1"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        <note xml:lang="en" type="textual">Ed. Laurent 1873</note>
+      </ab>
          <ab type="translation" xml:lang="en" xml:id="quote203-2">
-        <anchor xml:id="testimonia-203.en.1" corresp="#testimonia-203.la.1"/>In short, there is no more to be said about this city (sc. Samaria
+        <anchor xml:id="testimonia-203.en.1" corresp="#testimonia-203.la.1"/>
+        In short, there is no more to be said about this city (sc. Samaria
             Sebaste), which has now come to such misery that in real truth it is a garden of herbs,
             just like Ahab, its king, wanted to make of the vineyard of Naboth the Jezreelite,
             because it was near his house. Indeed today, by the just judgement of God, not only that
@@ -300,7 +312,16 @@
             sea at Joppa, to Antipatris and <placeName>Caesarea Palestinae</placeName>, as well as
             over the entire Mount Ephraim as far as Ramathaim Zophim, and to Carmel by the sea near
             Acre. It abounds with springs, gardens, olive groves, and all the good things that an
-            honest man requires.<ab type="source" source="#bib203-2"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="translation">Adapted from Pringle 2018</note></ab>
+            honest man requires.
+        
+        
+        
+        
+      <ab type="source" source="#bib203-2"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        <note xml:lang="en" type="translation">Adapted from Pringle 2018</note>
+      </ab>
          <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib203-1">
@@ -314,16 +335,20 @@
           <citedRange unit="p">277</citedRange>
         </bibl>
       </listBibl>
-      <note type="related-texts">
+      
+      
+      
+      
+    <note type="related-texts">
         <p>I Kings 21:1-16</p>
       </note>
       <note type="geography">
-        <p>Ptolemais (Acco, Accho, Acre, Akko)</p>
         <p>Antipatris</p>
         <p>Carmel, Mount</p>
         <p>Ephraim, Mount</p>
         <p>Jezreel Valley</p>
         <p>Joppa</p>
+        <p>Ptolemais (Acco, Accho, Acre, Akko)</p>
         <p>Ramathaim Zophim</p>
         <p>Samaria Sebaste</p>
       </note>
@@ -332,11 +357,11 @@
         <p>Naboth</p>
       </note>
       <note type="themes">
-        <p>Natural Environment</p>
         <p>Crusades</p>
         <p>Geography</p>
         <p>Hebrew Bible</p>
         <p>Medieval History</p>
+        <p>Natural Environment</p>
         <p>Pilgrimage</p>
         <p>Urban Topography</p>
       </note>

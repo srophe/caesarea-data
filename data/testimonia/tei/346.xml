@@ -243,7 +243,8 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Apology Against Rufinus</title> <ref n="a" target="#bib346-1">1.9-10</ref> written by <persName role="author" ref="http://viaf.org/viaf/95147024">Jerome</persName> in <origDate when="0401" period="#byzantine">401 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Apology Against Rufinus</title>
+        <ref target="#bib346-1">1.9-10</ref> written by <persName role="author" ref="http://viaf.org/viaf/95147024">Jerome</persName> in <origDate notBefore="" notAfter="" period="#">0401</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</creation>
       <langUsage>
         <language ident="la">Latin</language>
       </langUsage>
@@ -256,6 +257,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc status="draft">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
     </revisionDesc>
   </teiHeader>
@@ -264,75 +266,84 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/346</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract346-1">Caesarea Maritima is indirectly attested at <persName role="author" ref="http://viaf.org/viaf/95147024">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Apology Against Rufinus</title> <ref n="a" target="#bib346-1">1.9-10</ref>. This passage was written ca. <origDate when="0401" period="#byzantine">401 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract346-1">Caesarea Maritima is indirectly attested at <persName role="author" ref="http://viaf.org/viaf/95147024">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Apology Against Rufinus</title> <ref target="#bib346-1">1.9-10</ref>. This passage was written ca. <origDate notBefore="" notAfter="" period="#">0401</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</desc>
       <desc type="context">In a long letter he wrote to his associates Pammachius and Marcella in
-            401, Jerome struck at first a defensive and then an offensive stance in the ongoing
-            Origenist controversy that had embroiled the episcopate of Jerusalem since the early
-            390s. Jerome’s old friend Tyrannius Rufinus had emerged as a prominent intellectual and
-            founding leader among the monks on the Mount of Olives during the same time as Jerome
-            was settling into his own monastic base at Bethlehem. During an episode of intense
-            theological dispute, Jerome in his orthodoxy grew increasingly annoyed and outraged by
-            Rufinus’ support for John bishop of Jerusalem, his translation of writings by Origen,
-            and his characterization of Jerome as a sympathizer. After learning of an apology by
-            Rufinus that was circulating in Aquileia and Rome, Jerome immediately responded with his
-            own bitter polemic. In this passage Jerome discusses the literary activity of Pamphilus,
-            the martyr and giant of Caesarean scholarship. Here Jerome impugns the integrity of
-            Rufinus on the grounds that he had misrepresented the authorship of the Apology for
-            Origen.</desc>
+        401, Jerome struck at first a defensive and then an offensive stance in the ongoing
+        Origenist controversy that had embroiled the episcopate of Jerusalem since the early 390s.
+        Jerome’s old friend Tyrannius Rufinus had emerged as a prominent intellectual and founding
+        leader among the monks on the Mount of Olives during the same time as Jerome was settling
+        into his own monastic base at Bethlehem. During an episode of intense theological dispute,
+        Jerome in his orthodoxy grew increasingly annoyed and outraged by Rufinus’ support for John
+        the bishop of Jerusalem, his translation of writings by Origen, and his characterization of
+        Jerome as a sympathizer. After learning of an apology by Rufinus that was circulating in
+        Aquileia and Rome, Jerome immediately responded with his own bitter polemic. In this
+        passage, Jerome discusses the literary activity of Pamphilus, the martyr and giant of
+        Caesarean scholarship. Here Jerome impugns the integrity of Rufinus on the grounds that he
+        had misrepresented the authorship of the <title>Apology for Origen</title>.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote346-1">
-        <anchor xml:id="testimonia-346.la.1" corresp="#testimonia-346.en.1"/>(9) Quid tibi animi fuisse dicam, amice simplicissime? Tene potuisse
-            haeretici hominis libro martyris nomen imponere, et ignaros, sub auctoritate testis
-            Christi, Origenis facere defensores? Pro eruditione qua polles et inclytus συγγραφεὺς in
-            Occidente laudaris, ita ut coryphaeum te omnes tuae partis nominent, non reor te
-            ignorasse Eusebii σύνταγμα, et Pamphilum martyrem nihil omnino operis condidisse. Ipse
-            enim Eusebius, amator et praeco et contubernalis Pamphili, tres libros scripsit
-            elegantissimos vitam Pamphili continentes, in quibus cum cetera miris laudibus
-            praedicaret humilitatemque eius ferret in caelum, etiam hoc in tertio libro addidit,
-            “Quis studiosorum amicus non fuit Pamphili? Si quos videbat ad victum necessariis
-            indigere, praebebat large quae poterat. Scripturas quoque sanctas non ad legendum
-            tantum, sed et ad habendum tribuebat promptissime, nec solum viris, sed et feminis quas
-            vidisset lectioni deditas. Unde et multos codices praeparabat, ut, cum necessitas
-            poposcisset, volentibus largiretur. Et ipse quidem proprii operis nihil omnino scripsit,
-            exceptis epistulis quas ad amicos forte mittebat, in tantum se humilitatem deiecerat.
-            Veterum autem scriptorum tractatus legebat studiosissime et in eorum meditatione iugiter
-            versabatur.”<lb/>(10) Defensor Origenis et laudator Pamphili dicit Pamphilum nihil omnino
-            scripsisse, nec proprii quidquam condidisse sermonis; et hoc dicit iam Pamphilo martyrio
-            coronato, ne habeas suffugium post editos ab Eusebio libros hoc Pamphilum
-               conscripsisse.<ab type="source" source="#bib346-1"/>
+        <anchor xml:id="testimonia-346.la.1" corresp="#testimonia-346.en.1"/>
+        (9) Quid tibi animi
+        fuisse dicam, amice simplicissime? Tene potuisse haeretici hominis libro martyris nomen
+        imponere, et ignaros, sub auctoritate testis Christi, Origenis facere defensores? Pro
+        eruditione qua polles et inclytus συγγραφεὺς in Occidente laudaris, ita ut coryphaeum te
+        omnes tuae partis nominent, non reor te ignorasse Eusebii σύνταγμα, et Pamphilum martyrem
+        nihil omnino operis condidisse. Ipse enim Eusebius, amator et praeco et contubernalis
+        Pamphili, tres libros scripsit elegantissimos vitam Pamphili continentes, in quibus cum
+        cetera miris laudibus praedicaret humilitatemque eius ferret in caelum, etiam hoc in tertio
+        libro addidit, “Quis studiosorum amicus non fuit Pamphili? Si quos videbat ad victum
+        necessariis indigere, praebebat large quae poterat. Scripturas quoque sanctas non ad
+        legendum tantum, sed et ad habendum tribuebat promptissime, nec solum viris, sed et feminis
+        quas vidisset lectioni deditas. Unde et multos codices praeparabat, ut, cum necessitas
+        poposcisset, volentibus largiretur. Et ipse quidem proprii operis nihil omnino scripsit,
+        exceptis epistulis quas ad amicos forte mittebat, in tantum se humilitatem deiecerat.
+        Veterum autem scriptorum tractatus legebat studiosissime et in eorum meditatione iugiter
+        versabatur.”<lb/>(10) Defensor Origenis et laudator Pamphili dicit Pamphilum nihil omnino
+        scripsisse, nec proprii quidquam condidisse sermonis; et hoc dicit iam Pamphilo martyrio
+        coronato, ne habeas suffugium post editos ab Eusebio libros hoc Pamphilum
+          conscripsisse.
+        
+        
+        
+        
+        
+      <ab type="source" source="#bib346-1"/>
         <idno type="CTS-URN"/>
         <ref target="https://archive.org/details/patrologiaecurs01goog/page/n216/mode/2up"/>
-        <note xml:lang="en" type="textual">Ed. Migne 1883</note>
-        <note xml:lang="en" type="textual">Checked
-               against Lardet 1982</note>
+        <note xml:lang="en" type="textual">Ed. Migne 1883 with ref. to Lardet 1982</note>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote346-2">
-        <anchor xml:id="testimonia-346.en.1" corresp="#testimonia-346.la.1"/>(9) Shall I say what your intention was, my most simple-minded
-            friend? Surely you could not have placed the name of a marytr (sc. Pamphilus) on the
-            book of a heretic (sc. Origen) and thus, under the guarantee of Christ’s witness, made
-            uninformed men the defenders of Origen? Considering the learning for which you are
-            renowned and praised in the West as an illustrious littérateur, to the extent that all
-            men in your party call you their leader, I will not suppose that you do not know
-            Eusebius’ catalog and the fact that the martyr Pamphilus never wrote a single book.
-            Indeed Eusebius himself, the lover and herald and companion of Pamphilus, wrote three
-            most eloquent books containing the Life of Pamphilus. In these he commends his various
-            qualities with extraordinary praises and extols his humility to the sky, and even added
-            this in his third book: “Who among those dedicated to study was not a friend of
-            Pamphilus? If he saw anyone lacking the necessities for their sustenance, he generously
-            provided them what he could. He used to grant them eagerly the Holy Scriptures not only
-            to read but even to keep, not only to men but also to women whom he saw indulging in
-            reading. For that reason he prepared many copies, so that he could grant them to those
-            who wanted as need demanded. He himself however wrote no work of his own at all besides
-            the letters he sometimes sent to friends, so low did he humiliate himself. But the
-            treatises of ancient writers he read with the greatest diligence, and he was constantly
-            occupied with meditating on them.”<lb/>(10) The one who defends Origen and praises
-            Pamphilus says that Pamphilus wrote nothing at all and composed no text; and he says
-            this when Pamphilus had already received the crown of martyrdom, to deprive you of the
-            loophole in claiming that Pamphilus wrote this work after the publication of Eusebius’
-               books.<ab type="source" source="#bib346-2"/>
+        <anchor xml:id="testimonia-346.en.1" corresp="#testimonia-346.la.1"/>
+        (9) Shall I say what
+        your intention was, my most simple-minded friend? Surely you could not have placed the name
+        of a marytr (sc. Pamphilus) on the book of a heretic (sc. Origen) and thus, under the
+        guarantee of Christ’s witness, made uninformed men the defenders of Origen? Considering the
+        learning for which you are renowned and praised in the West as an illustrious littérateur,
+        to the extent that all men in your party call you their leader, I will not suppose that you
+        do not know Eusebius’ catalog and the fact that the martyr Pamphilus never wrote a single
+        book. Indeed Eusebius himself, the lover and herald and companion of Pamphilus, wrote three
+        most eloquent books containing the <title>Life of Pamphilus</title>. In these he commends
+        his various qualities with extraordinary praises and extols his humility to the sky, and
+        even added this in his third book: “Who among those dedicated to study was not a friend of
+        Pamphilus? If he saw anyone lacking the necessities for their sustenance, he generously
+        provided them what he could. He used to grant them eagerly the Holy Scriptures not only to
+        read but even to keep, not only to men but also to women whom he saw indulging in reading.
+        For that reason he prepared many copies, so that he could grant them to those who wanted as
+        need demanded. He himself however wrote no work of his own at all besides the letters he
+        sometimes sent to friends, so low did he humiliate himself. But the treatises of ancient
+        writers he read with the greatest diligence, and he was constantly occupied with meditating
+        on them.”<lb/>(10) The one who defends Origen and praises Pamphilus says that Pamphilus
+        wrote nothing at all and composed no text; and he says this when Pamphilus had already
+        received the crown of martyrdom, to deprive you of the loophole in claiming that Pamphilus
+        wrote this work after the publication of Eusebius’ books.
+        
+        
+        
+        
+      <ab type="source" source="#bib346-2"/>
         <idno type="CTS-URN"/>
         <ref/>
-        <note xml:lang="en" type="translation">Adapted from Fremantle 1892 with ref. to Lardet
-               1983</note>
+        <note xml:lang="en" type="translation">Adapted
+          from Fremantle 1892 with ref. to Lardet 1983</note>
       </ab>
       <listBibl>
         <head>Works Cited</head>
@@ -362,6 +373,10 @@
           <ptr target="https://caesarea-maritima.org/bibl/MUU4ALR4"/>
         </bibl>
       </listBibl>
+    
+      
+      
+      
     <note type="related-texts"/>
       <note type="geography"/>
       <note type="prosopography">

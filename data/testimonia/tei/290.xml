@@ -246,7 +246,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Book of Places</title> <ref n="a" target="#bib290-1">23</ref> written by <persName ref="http://viaf.org/viaf/95147024" role="author">Jerome</persName> in <origDate notBefore="0390" notAfter="0420" period="#byzantine">390-420 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Book of Places</title> <ref target="#bib290-1">23</ref> written by <persName ref="http://viaf.org/viaf/95147024" role="author">Jerome</persName> in <origDate notBefore="0390" notAfter="0420" period="#byzantine">390-420 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</creation>
       <langUsage>
         <language ident="la">Latin</language>
       </langUsage>
@@ -259,6 +259,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc status="draft">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
     </revisionDesc>
   </teiHeader>
@@ -267,28 +268,41 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/290</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract290-1"><quote><placeName>turrim Stratonis</placeName></quote>, <quote><placeName>Casaream</placeName></quote>, <quote><placeName>Strato’s Tower</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/95147024" role="author">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Book of Places</title> <ref n="a" target="#bib290-1">23</ref>. This passage was written ca. <origDate notBefore="0390" notAfter="0420" period="#byzantine">390-420 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</desc>
-      <desc type="context">In his book of place names in Hebrew Scripture, Jerome wrote that in
-            his time some believed that Accaron named at Joshua 13:3 was Strato’s Tower, the
-            predecessor to Caesarea Maritima. This information is not included in the parallel
-            passage at Eusebius, Dictionary of Place Names 22, which was written roughly one century
-            before Jerome’s work.</desc>
+      <desc type="abstract" xml:id="abstract290-1"><quote><placeName>turrim Stratonis</placeName></quote>, <quote><placeName>Casaream</placeName></quote>, <quote><placeName>Strato’s Tower</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/95147024" role="author">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Book of Places</title> <ref target="#bib290-1">23</ref>. This passage was written ca. <origDate notBefore="0390" notAfter="0420" period="#byzantine">390-420 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</desc>
+      <desc type="context">In his book of place names in Hebrew Scripture, Jerome wrote that in his
+        time some believed that Accaron, named at <title>Joshua</title> 13:3, was Strato’s Tower,
+        the predecessor to Caesarea Maritima. This information is not included in the parallel
+        passage at Eusebius, <title>Dictionary of Place Names</title> 22, which was written roughly
+        one century before Jerome’s work.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote290-1">
-        <anchor xml:id="testimonia-290.la.1" corresp="#testimonia-290.en.1"/>Accaron in triba Dan, sine ut ego arbitror in tribu Iudae, ad laevam
+        <anchor xml:id="testimonia-290.la.1" corresp="#testimonia-290.en.1"/>
+        Accaron in triba Dan, sine ut ego arbitror in tribu Iudae, ad laevam
             Chananaeorum. urbs una de quinque olim satrapiis Palaestinae. et decreta est quidem
             tribui Iudae, nec tamen tenta ab ea, quia habitatores pristinos nequivit expellere. sed
             et usque hodie grandis vicus civium Iudaeorum Accaron dicitur, inter Azotum et Iamniam,
             ad orientem respiciens. quidam putant Accaron <placeName>turrim Stratonis</placeName>,
-            postea <placeName>Casaream</placeName> nuncupatam.<ab type="source" source="#bib290-1"/><idno type="CTS-URN"/><ref target="urn:cts:greekLit:tlg2018.tlg011.opp-lat1:1"/><note xml:lang="en" type="textual">Ed. Klosterman
-               1904</note></ab>
+            postea <placeName>Casaream</placeName> nuncupatam.
+        
+        
+        
+        
+      <ab type="source" source="#bib290-1"/>
+        <idno type="CTS-URN"/>
+        <ref target="urn:cts:greekLit:tlg2018.tlg011.opp-lat1:1"/>
+        <note xml:lang="en" type="textual">Ed. Klosterman
+               1904</note>
+      </ab>
       <ab type="translation" xml:lang="en" xml:id="quote290-2">
-        <anchor xml:id="testimonia-290.en.1" corresp="#testimonia-290.la.1"/>Accaron in the tribe of Dan—or, I think, in the tribe of Judah—to
+        <anchor xml:id="testimonia-290.en.1" corresp="#testimonia-290.la.1"/>
+        Accaron in the tribe of Dan—or, I think, in the tribe of Judah—to
             the left of the Caananites. This city was one of the five former satrapies of Palestine.
             It was indeed assigned to the tribe of Judah but nevertheless not held by it, because it
             could not expel the ancient inhabitants. Even up to today there is a large village of
             Jews called Accaron between Azotus and Iamnia to the east. Some people think that
             Accaron is <placeName>Strato’s Tower</placeName>, later called <placeName>Caesarea</placeName>.<note xml:lang="en" type="translation">Trans. J. L.
                Rife</note>
+        
+        
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -305,6 +319,10 @@
           <ptr target="https://caesarea-maritima.org/bibl/66T989F7"/>
         </bibl>
       </listBibl>
+    
+      
+      
+      
     <note type="related-texts">
         <p>Eusebius, Dictionary of Place Names 22</p>
         <p>Joshua 13:3</p>

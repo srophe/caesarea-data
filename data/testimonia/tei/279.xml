@@ -283,7 +283,12 @@
             persecutionem movet (e) Antonius monachus in Aegypto nascitur (f) Romae amphitheatrum
             incensum (g) Alexandro Hierosolymarum episcopo aput <placeName>Caesariam
                Palestinae</placeName> ob martyrium interfecto et Antiochiae Babyla Mazabanus et
-            Fabius episcopi constituuntur (h) Decius cum filio in Abryto occiditur<ab type="source" source="#bib279-1"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="textual">Ed. Helm 1956</note><note xml:lang="en" type="corrigenda">Minor corr. J. L. Rife</note></ab>
+            Fabius episcopi constituuntur (h) Decius cum filio in Abryto occiditur<ab type="source" source="#bib279-1"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        <note xml:lang="en" type="textual">Ed. Helm 1956</note>
+        <note xml:lang="en" type="corrigenda">Minor corr. J. L. Rife</note>
+      </ab>
       <ab type="translation" xml:lang="en" xml:id="quote279-2">
         <anchor xml:id="testimonia-279.en.1" corresp="#testimonia-279.la.1"/>Year of the Romans 267th Olympiad ….. [251 C.E.] 7 ….. 25th
             (emperor) of the Romans, Decius, ruled for 1 year, 3 months (c) Decius from Pannonia
@@ -292,7 +297,11 @@
             against the Christians. (e) Antony the monk is born in Egypt. (f) The amphitheater at
             Rome burned. (g) After Alexander, bishop of Jerusalem, was slain as a martyr at <placeName>Caesarea Palestine</placeName> and Babylas (likewise) at Antioch,
             Mazabanus and Fabius are appointed bishops. (h) Decius is killed with his son at
-            Abrytus.<ab type="source" source="#bib279-2"/><idno type="CTS-URN"/><ref target="http://www.tertullian.org/fathers/jerome_chronicle_03_part2.htm"/><note xml:lang="en" type="translation">Trans. J. L. Rife with ref. to Pearse 2005</note></ab>
+            Abrytus.<ab type="source" source="#bib279-2"/>
+        <idno type="CTS-URN"/>
+        <ref target="http://www.tertullian.org/fathers/jerome_chronicle_03_part2.htm"/>
+        <note xml:lang="en" type="translation">Trans. J. L. Rife with ref. to Pearse 2005</note>
+      </ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib279-1">

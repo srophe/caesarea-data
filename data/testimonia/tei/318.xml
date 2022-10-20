@@ -244,7 +244,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Suda</title> <ref n="b" target="#bib318-1">ε 3737</ref> written by <persName role="author">Unknown</persName> in <origDate notBefore="0976" notAfter="0990" period="#earlyIslamic">976-990 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Suda</title> <ref target="#bib318-1">ε 3737</ref> written by <persName role="author">Unknown</persName> in <origDate notBefore="0976" notAfter="0990" period="#earlyIslamic">976-990 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
          <langUsage>
             <language ident="grc">Ancient Greek</language>
          </langUsage>
@@ -257,6 +257,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc status="draft">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
          <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
       </revisionDesc>
    </teiHeader>
@@ -265,17 +266,19 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/318</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract318-1">and <quote><placeName>Καισαρείας τῆς Παλαιστίνης</placeName></quote> is directly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Suda</title> <ref n="b" target="#bib318-1">ε 3737</ref>. This passage was written ca. <origDate notBefore="0976" notAfter="0990" period="#earlyIslamic">976-990 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
-         <desc type="context">The Suda (“Stronghold”) is an encyclopedic lexicon written by an
-            unknown scholar during the late 10th century. It compiles copious information in
-            alphabetical entries for use by the learned philologist, in particular on grammar,
-            history, and biography, referring to a broad range of sources from Classical Antiquity
-            to the Early Byzantine period. This lemma on Eusebius (s.v. Εὐσέβιος) records his
-            voluminous writings at the Ecclesiastical Library in Caesarea during the 4th century.
-            Here the author depends on the universal history written by Hesychius of Miletus roughly
-            400 years earlier.</desc>
+         <desc type="abstract" xml:id="abstract318-1"><quote><placeName>Καισαρείας τῆς Παλαιστίνης</placeName></quote>, and <quote><placeName>Caesarea
+               Palestinae</placeName></quote> are directly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Suda</title> <ref target="#bib318-1">ε 3737</ref>. This passage was written ca. <origDate notBefore="0976" notAfter="0990" period="#earlyIslamic">976-990 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+         <desc type="context">The <title>Suda</title> (“Stronghold”) is an encyclopedic lexicon
+            written by an unknown scholar during the late 10th century. It compiles copious
+            information in alphabetical entries for use by the learned philologist, in particular on
+            grammar, history, and biography, referring to a broad range of sources from Classical
+            Antiquity to the Early Byzantine period. This lemma on Eusebius (s.v. Εὐσέβιος) records
+            his voluminous writings at the Ecclesiastical Library in Caesarea during the 4th
+            century. Here the author depends on the universal history written by Hesychius of
+            Miletus roughly 400 years earlier.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote318-1">
-        <anchor xml:id="testimonia-318.grc.1" corresp="#testimonia-318.en.1"/>Εὐσέβιος, ὁ Παμφίλου, προσκείμενος τῇ Ἀρειανικῇ αἱρέσει, ἐπίσκοπος
+        <anchor xml:id="testimonia-318.grc.1" corresp="#testimonia-318.en.1"/>
+        Εὐσέβιος, ὁ Παμφίλου, προσκείμενος τῇ Ἀρειανικῇ αἱρέσει, ἐπίσκοπος
                <placeName>Καισαρείας τῆς Παλαιστίνης</placeName>, σπουδαῖος ἐν ταῖς θείαις γραφαῖς
             καὶ τῆς θείας βιβλιοθήκης ἅμα Παμφίλῳ τῷ μάρτυρι ἐπιμελέστατος ἀνιχνευτής. ἐξέδωκε πολλὰ
             τεύχη, ὧν εἰσι τάδε: Εὐαγγελικῆς ἀποδείξεως λόγοι κʹ, Εὐαγγελικῆς προπαρασκευῆς λόγοι
@@ -289,28 +292,43 @@
             Εὐσέβιος ὁ Παμφίλου: οὗτος ὁ Εὐσέβιος ἔγραψε καὶ πρὸς Μαρῖνον, ἐν ᾧ λέγει, ὅτι ἡ Χριστοῦ
             ἐκκλησία δύο βίους νομοθετεῖ καὶ τρόπους: τὸν μὲν ὑπερφυᾶ καὶ τῆς ἀνθρωπίνης πολιτείας
             ἐπέκεινα, οἷος ἐστὶν ὁ μοναδικός: τὸν δὲ ὑποβεβηκότα καὶ ἀνθρωπινώτερον, ὃς καὶ γάμοις
-            ὑποτίθεται συγκοινωνεῖν.<ab type="source" source="#bib318-1"/><idno type="CTS-URN">https://archive.org/details/adler-a.-suidae-lexicon-3-./Adler%20A.%2C%20Suidae%20Lexicon%202%20%28%CE%94-%CE%98%29/page/472/mode/2up
-            </idno><note xml:lang="en" type="textual">Ed. Adler 1931</note></ab>
-         <ab type="translation" xml:lang="en" xml:id="quote318-2">
-        <anchor xml:id="testimonia-318.en.1" corresp="#testimonia-318.grc.1"/>Eusebius, (called) son of Pamphilus, inclined to the Arian heresy,
-            bishop of Caesarea Palestinae, zealous in the Divine Scriptures, and diligent researcher
-            with Pamphilus the martyr at the Divine Library. He published many volumes, among which
-            are the following: Proof of the Gospel in 20 books; Preparation for the Gospel in 15
-            books; Theophany in 5 books; Church History in 10 books; Chronological Canons of
-            Universal History and their Epitome. Also Differences between the Gospels; On the
-            Prophet Isaiah in 10 books; Against Porphyry (the one who was then writing in Sicily, as
-            some think) in 30 books; Topics in a single book; Apology for Origen in 6 books; On the
-            Life of Pamphilus in 3 books; other compositions concerning martyrs; approved
-            Commentaries on the 150 Psalms; and many other works. He flourished most notably in the
-            reigns of the emperors Constantine and Constantius; and, because of his friendship with
-            the martyr Pamphilus, he was found worthy of bearing his name.<lb/>Eusebius the son of
-            Pamphilus: this Eusebius also wrote To Marinus, in which he says that the Church of
-            Christ prescribes two lives and thus two directions: the one extraordinary and beyond
-            everyday society, such as is the monastic life. The other, inferior and mundane by
-            comparison, which also presupposes participation in marriage.<note xml:lang="en" type="translation">Rev. SOL (trans. C. Roth et al., 2002-)</note>
-        <idno type="CTS-URN"/>
-        <ref target="http://www.cs.uky.edu/~raphael/sol/sol-entries/epsilon/3737"/>
+            ὑποτίθεται συγκοινωνεῖν.
+        
+        
+        
+      <ab type="source" source="#bib318-1"/>
+        <idno type="CTS-URN">https://archive.org/details/adler-a.-suidae-lexicon-3-./Adler%20A.%2C%20Suidae%20Lexicon%202%20%28%CE%94-%CE%98%29/page/472/mode/2up
+            </idno>
+        <note xml:lang="en" type="textual">Ed. Adler 1931</note>
       </ab>
+         <ab type="translation" xml:lang="en" xml:id="quote318-2">
+        <anchor xml:id="testimonia-318.en.1" corresp="#testimonia-318.grc.1"/>
+            Eusebius, (called)
+            son of Pamphilus, inclined to the Arian heresy, bishop of <placeName>Caesarea
+               Palestinae</placeName>, zealous in the Divine Scriptures, and diligent researcher
+            with Pamphilus the martyr at the Divine Library. He published many volumes, among which
+            are the following: <title>Proof of the Gospel </title>in 20 books; <title>Preparation
+               for the Gospel</title> in 15 books; <title>Theophany</title> in 5 books;
+               <title>Church History</title> in 10 books; <title>Chronological Canons of Universal
+               History and their Epitome</title>. Also <title>Differences between the
+               Gospels</title>; <title>On the Prophet Isaiah</title> in 10 books; <title>Against
+               Porphyry</title> (the one who was then writing in Sicily, as some think) in 30 books;
+               <title>Topics</title> in a single book; <title>Apology for Origen</title> in 6 books;
+               <title>On the Life of Pamphilus</title> in 3 books; other compositions concerning
+            martyrs; approved <title>Commentaries on the 150 Psalms</title>; and many other works.
+            He flourished most notably in the reigns of the emperors Constantine and Constantius;
+            and, because of his friendship with the martyr Pamphilus, he was found worthy of bearing
+            his name.<lb/>Eusebius the son of Pamphilus: this Eusebius also wrote <title>To
+               Marinus</title>, in which he says that the Church of Christ prescribes two lives and
+            thus two directions: the one extraordinary and beyond everyday society, such as is the
+            monastic life. The other, inferior and mundane by comparison, which also presupposes
+            participation in marriage.<note xml:lang="en" type="translation">Rev. SOL (trans. C. Roth et al.,
+               2002-)</note>
+            
+            
+            <idno type="CTS-URN"/>
+            <ref target="http://www.cs.uky.edu/~raphael/sol/sol-entries/epsilon/3737"/>
+         </ab>
          <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib318-1">
@@ -325,7 +343,11 @@
           <ptr target="https://caesarea-maritima.org/bibl/753625E4"/>
         </bibl>
       </listBibl>
-      <note type="related-texts">
+      
+      
+      
+      
+    <note type="related-texts">
         <p>Eusebius, Against Porphyry</p>
         <p>Eusebius, Apology for Origen</p>
         <p>Eusebius, Chronological Canons of Universal History and their Epitome</p>

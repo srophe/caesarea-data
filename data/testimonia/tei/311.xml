@@ -243,7 +243,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Pilgrimages to Jerusalem</title> <ref n="a" target="#bib311-1">1-4</ref> written by <persName role="author">Unknown</persName> in <origDate notBefore="1250" notAfter="1295" period="#crusader #lateIslamic">1250-1295 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Pilgrimages to Jerusalem</title> <ref target="#bib311-1">1-4</ref> written by <persName role="author">Unknown</persName> in <origDate notBefore="1250" notAfter="1295" period="#crusader #lateIslamic">1250-1295 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</creation>
       <langUsage>
         <language ident="fro">Old French</language>
       </langUsage>
@@ -256,6 +256,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc status="draft">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
     </revisionDesc>
   </teiHeader>
@@ -264,18 +265,20 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/311</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract311-1"><quote><placeName>Cesaire</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Pilgrimages to Jerusalem</title> <ref n="a" target="#bib311-1">1-4</ref>. This passage was written ca. <origDate notBefore="1250" notAfter="1295" period="#crusader #lateIslamic">1250-1295 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract311-1"><quote><placeName>Cesaire</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Pilgrimages to Jerusalem</title> <ref target="#bib311-1">1-4</ref>. This passage was written ca. <origDate notBefore="1250" notAfter="1295" period="#crusader #lateIslamic">1250-1295 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
       <desc type="context">A late-13th-century guide for pilgrims to Jerusalem and Galilee of
-            unknown authorship survives under the title Les pelerinaiges por aler en Iherusalem. It
-            appears at the end of a French translation and continuation of the chronicle by William
-            of Tyre in a manuscript written at Rome in May of 1295, and an expanded version appears
-            in a 14th-century French compilation. The work parallels the content of Ways and
-            Pilgrimages of the Holy Land A but exhibits enough variation to indicate that, while
-            both works most likely belong to the same general era, they descend from a common
-            source. In the passage on the sites between Acre and Ioppa, the author describes locales
-            in the hinterland of Caesarea as well as in its immediate vicinity or interior.</desc>
+        unknown authorship survives under the title <title>Les pelerinaiges por aler en
+          Iherusalem</title>. It appears at the end of a French translation and continuation of the
+        chronicle by William of Tyre in a manuscript written at Rome in May of 1295, and an expanded
+        version appears in a 14th-century French compilation. The work parallels the content of
+          <title>Ways and Pilgrimages of the Holy Land</title> A but exhibits enough variation to
+        indicate that, while both works most likely belong to the same general era, they descend
+        from a common source. In the passage on the sites between Acre and Ioppa, the author
+        describes locales in the hinterland of Caesarea as well as in its immediate vicinity or
+        interior.</desc>
       <ab type="edition" xml:lang="fro" xml:id="quote311-1">
-        <anchor xml:id="testimonia-311.fro.1" corresp="#testimonia-311.en.1"/>(1) Premierement l’en va d’Acres à Cayfas où il a .iiij. lieues. Après
+        <anchor xml:id="testimonia-311.fro.1" corresp="#testimonia-311.en.1"/>
+        (1) Premierement l’en va d’Acres à Cayfas où il a .iiij. lieues. Après
             d’iqui est la montaigne du Carme où monseignor saint Denis est, qui fu nés à une ville
             qui est apelée Francheville, auquel lieu est une chapele desouz l’autel en une petite
             caverne où il fu nés, &amp; encore i pert le lieu. Emprès la chapele a une petite valée;
@@ -311,10 +314,22 @@
             près de la mer sus .j. tertre de sablon, liqués chastiaus fu de l’Ospital; auquel chemin
             par desus est une roche taillie, &amp; i a un mauvès pas, &amp; là se herbergent
             mauvaises gens aucune foiz, por desrober &amp; por taillier le chemin à ceus qui vont a
-               Iaffe.<ab type="source" source="#bib311-1"/><idno type="CTS-URN"/><ref target="https://archive.org/details/itinrairesajrus00parigoog/page/n129/mode/2up"/><note xml:lang="en" type="textual">Ed. Michelant and Raynaud 1882</note><note xml:lang="en" type="textual">Paris, Bibliothèque Nationale, fr. 9082 (anc. supp. fr. 104, Noailles), folios
-               343a-435a (Rome, dated May 1295)</note></ab>
+               Iaffe.
+        
+        
+        
+        
+        
+      <ab type="source" source="#bib311-1"/>
+        <idno type="CTS-URN"/>
+        <ref target="https://archive.org/details/itinrairesajrus00parigoog/page/n129/mode/2up"/>
+        <note xml:lang="en" type="textual">Ed. Michelant and Raynaud 1882</note>
+        <note xml:lang="en" type="textual">Paris, Bibliothèque Nationale, fr. 9082 (anc. supp. fr. 104, Noailles), folios
+               343a-435a (Rome, dated May 1295)</note>
+      </ab>
       <ab type="translation" xml:lang="en" xml:id="quote311-2">
-        <anchor xml:id="testimonia-311.en.1" corresp="#testimonia-311.fro.1"/>(1) First of all one goes from Acre to Cayfas, a journey of 4
+        <anchor xml:id="testimonia-311.en.1" corresp="#testimonia-311.fro.1"/>
+        (1) First of all one goes from Acre to Cayfas, a journey of 4
             leagues. After that is Mount Carmel where my lord St. Denys is, where he was born in a
             town called Freetown (Francheville). There is a chapel there, and beneath its altar is a
             small cave where he was born, and the place can still be seen. Near the chapel is a
@@ -354,8 +369,17 @@
             there by a lord of <placeName>Caesarea</placeName>, who had them brought from Egypt.<lb/>(4) From <placeName>Caesarea</placeName> to Assur is 2 leagues. That castle is close to
             the sea on a sandy knoll; it belonged to the Hospital. Along the road and up from it is
             a cut rock, a bad place where bad people encamp from time to time to rob and to cut off
-            the road to those going to Iaphe.<ab type="source" source="#bib311-2"/><idno type="CTS-URN"/><ref/><note xml:lang="en" type="translation">Adapted from Pringle
-               2018</note></ab>
+            the road to those going to Iaphe.
+        
+        
+        
+        
+      <ab type="source" source="#bib311-2"/>
+        <idno type="CTS-URN"/>
+        <ref/>
+        <note xml:lang="en" type="translation">Adapted from Pringle
+               2018</note>
+      </ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib311-1">
@@ -368,6 +392,10 @@
           <citedRange unit="p">42-43, 208-213</citedRange>
         </bibl>
       </listBibl>
+    
+      
+      
+      
     <note type="related-texts">
         <p>Acts 10:1-48</p>
         <p>Acts 21:8-9</p>

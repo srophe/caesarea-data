@@ -245,9 +245,9 @@
         <p/>
       </abstract>
       <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Pilgrimages and Pardons of
-               Acre</title> <ref n="a" target="#bib221-1">1.1</ref> written by <persName role="author">Unknown</persName> in <origDate notBefore="1258" notAfter="1263" period="#crusader">1258-1263 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</creation>
+               Acre</title> <ref target="#bib221-1">1.1</ref> written by <persName role="author">Unknown</persName> in <origDate notBefore="1258" notAfter="1263" period="#crusader">1258-1263 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</creation>
       <langUsage>
-        <language ident="fro">Old French</language>
+        <language ident="xno">Old French</language>
       </langUsage>
       <textClass>
         <classCode scheme="https://distributed-text-services.github.io/specifications">
@@ -258,6 +258,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc status="draft">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
     </revisionDesc>
   </teiHeader>
@@ -267,15 +268,16 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/221</idno>
       </ab>
       <desc type="abstract" xml:id="abstract221-1"><quote><placeName>Cesarie</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Pilgrimages and Pardons of
-               Acre</title> <ref n="a" target="#bib221-1">1.1</ref>. This passage was written ca. <origDate notBefore="1258" notAfter="1263" period="#crusader">1258-1263 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
+               Acre</title> <ref target="#bib221-1">1.1</ref>. This passage was written ca. <origDate notBefore="1258" notAfter="1263" period="#crusader">1258-1263 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
       <desc type="context">The work written by an unknown pilgrim during the third quarter of the
-            13th century survives in one manuscript in Anglo-Norman French of the 14th century. It
-            has two parts, the first describing an itinerary that abbreviates Ways and Pilgrimages,
-            and the second describing pious visits to churches and hospices in Acre that can reduce
-            the Christian’s soul’s stay in purgatory (i.e., indulgences). The work begins abruptly
-            with this passage on the coastal route from Acre to Jaffa.</desc>
-      <ab type="edition" xml:lang="fro" xml:id="quote221-1">
-        <anchor xml:id="testimonia-221.fro.1" corresp="#testimonia-221.en.1"/>Ces sunt le pelrinages communes, que crestiens fount en la Seinre Terre.
+        13th century survives in one manuscript in Anglo-Norman French of the 14th century. It has
+        two parts, the first describing an itinerary that abbreviates <title>Ways and
+          Pilgrimages</title>, and the second describing pious visits to churches and hospices in
+        Acre that can reduce the Christian’s soul’s stay in purgatory (i.e., indulgences). The work
+        begins abruptly with this passage on the coastal route from Acre to Jaffa.</desc>
+      <ab type="edition" xml:lang="xno" xml:id="quote221-1">
+        <anchor xml:id="testimonia-221.xno.1" corresp="#testimonia-221.en.1"/>
+        Ces sunt le pelrinages communes, que crestiens fount en la Seinre Terre.
             De la vyle de Acres à Seym Elye: iiij. liwes; de cele terre, e de la Cave Seynt Elye à
             la Carme, .j. liwe; e de la Carme à Seint Iohan de Tyr .i. liwe. Là yl y a une vile de
             Seint Iohan le Baptistre, e à .j. liwe de ileque est le peroun sur qui Dieu se reposa,
@@ -284,11 +286,23 @@
             fitz, pur doute des Gyws. E de ileqe à Nostre Dame de Marreis .iij. liwes: là Nostre
             Dame se reposa. E d’yleoque à <placeName>Cesarie</placeName>.j. liwe. E de yleqe à
             Iaphet .xij. liwes: là est un peron qe wn apele le Peroun Seint Iak, e une chapele où
-            seint Abakuc soleint meindre.<ab type="source" source="#bib221-1"/><idno type="CTS-URN"/><ref target="https://archive.org/details/itinrairesjrusa00michgoog/page/n251/mode/2up"/><note xml:lang="en" type="textual">Ed. Michelant and Raynaud
-               1882</note><note xml:lang="en" type="textual">British Library, Harl. 2253, folios
-               68b-70b</note></ab>
+            seint Abakuc soleint meindre.
+        
+        
+        
+        
+        
+      <ab type="source" source="#bib221-1"/>
+        <idno type="CTS-URN"/>
+        <ref target="https://archive.org/details/itinrairesjrusa00michgoog/page/n251/mode/2up"/>
+        <note xml:lang="en" type="textual">Ed. Michelant and Raynaud
+               1882</note>
+        <note xml:lang="en" type="textual">British Library, Harl. 2253, folios
+               68b-70b</note>
+      </ab>
       <ab type="translation" xml:lang="en" xml:id="quote221-2">
-        <anchor xml:id="testimonia-221.en.1" corresp="#testimonia-221.fro.1"/>These are the common pilgrimages that Christians make in the Holy
+        <anchor xml:id="testimonia-221.en.1" corresp="#testimonia-221.xno.1"/>
+        These are the common pilgrimages that Christians make in the Holy
             Land. From the town of Acre to St. Elias is four leages; from that place and from the
             Cave of St. Elias to the Carmel(ite Monastery) is one league; and from the Carmel(ite
             Monastery) to St. John of Tyr is one league. There is a town of St. John the Baptist,
@@ -298,7 +312,16 @@
             Jews. And from there to Our Lady of the Marsh is three Leagues; there Our Lady rested.
             And from there to <placeName>Caesarea</placeName> is one league. And from ther to Iaphet
             is twelve leagues: there is a stone called the Stone of St. James, and a chapel where
-            Habukkuk used to live.<ab type="source" source="#bib221-2"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="translation">Adapted from Pringle 2018</note></ab>
+            Habukkuk used to live.
+        
+        
+        
+        
+      <ab type="source" source="#bib221-2"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        <note xml:lang="en" type="translation">Adapted from Pringle 2018</note>
+      </ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib221-1">
@@ -318,11 +341,15 @@
           <citedRange unit="p">109-117</citedRange>
         </bibl>
       </listBibl>
+    
+      
+      
+      
     <note type="related-texts">
         <p>Holy Pilgrimages 7-9</p>
         <p>Pilgrimages to Jerusalem 2-3</p>
-        <p>Ways and Pilgrimages of the Holy Land B 1.1-1.3</p>
         <p>Ways and Pilgrimages of the Holy Land A 1.1-1.3</p>
+        <p>Ways and Pilgrimages of the Holy Land B 1.1-1.3</p>
       </note>
       <note type="geography">
         <p>Acres (Acco)</p>

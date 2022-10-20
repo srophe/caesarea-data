@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="en" level="a">Procopius, <title level="m">Secret History</title> 30.18</title>
+        <title xml:lang="en" level="a">Procopius, <title level="m">Secret History</title> 30.17-30.19</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
         <sponsor>Vanderbilt University</sponsor>
         <principal>Joseph L. Rife</principal>
@@ -245,20 +245,20 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:greekLit:tlg4029.tlg002" type="uniform" level="m">Secret History</title>
-        <ref n="e" target="#bib201-1">30.18</ref> written by <persName ref="http://viaf.org/viaf/100172302" role="author">Procopius</persName> in <origDate period="#byzantine" notBefore="0550" notAfter="0558">550 - 558 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Secret History</title> <ref target="#bib201-1">30.17-30.19</ref> written by <persName ref="http://viaf.org/viaf/100172302" role="author">Procopius</persName> in <origDate notBefore="0550" notAfter="0560" period="#byzantine">550-560 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
       <langUsage>
         <language ident="grc">Ancient Greek</language>
       </langUsage>
       <textClass>
         <classCode scheme="https://distributed-text-services.github.io/specifications">
-          <idno xml:base="http://data.perseus.org/citations/" type="CTS-URN">urn:cts:greekLit:tlg4029.tlg002:30.18</idno>
+          <idno type="CTS-URN"/>
         </classCode>
-        <catRef scheme="#CM-Testimonia-Type" target=""/>
-        <catRef scheme="#CM-NEAEH" target=""/>
+        <catRef scheme="#CM-Testimonia-Type" target="#direct"/>
+        <catRef scheme="#CM-NEAEH" target="#byzantine"/>
       </textClass>
     </profileDesc>
     <revisionDesc status="published">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#wpotter" when="2020-06-10-05:00">ADDED: testimonium ID, URNs, URLs to edition and translation, and Bibl URIs</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#wpotter" when="2020-06-10-05:00">CREATED: testimonium</change>
     </revisionDesc>
@@ -268,37 +268,91 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/201</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract201-1"><quote><placeName xml:lang="grc">ἐν Καισαρείᾳ</placeName></quote>, and <quote><placeName xml:lang="en">at Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/100172302" role="author">Procopius</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg4029.tlg002" type="uniform" level="m">Secret History</title> <ref n="e" target="#bib201-1">30.18</ref>. This passage was written ca. <origDate period="#byzantine" notBefore="0550" notAfter="0558">550 - 558 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract201-1"><quote><placeName>Καισαρείᾳ</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/100172302" role="author">Procopius</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Secret History</title> <ref target="#bib201-1">30.17-30.19</ref>. This passage was written ca. <origDate notBefore="0550" notAfter="0560" period="#byzantine">550-560 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+      <desc type="context">Procopius, a native of Caesarea Maritima who excelled in his classical
+            education and legal training, was the preeminent historian of the reign of Justinian. As
+            a field advisor to the general Belisarius and a ranking member of the governing class in
+            Constantinople, he could write with firsthand knowledge and personal authority on policy
+            and society in the late Empire. Among his influential writings was the unusual “secret”
+            or “unpublished history” (ἀπόκρυφη/ἀνεκδοτή ἱστορία), a collection of vignettes often
+            with a polemical or satirical flavor that portrayed the vices and failures of the
+            emperor, the empress, and their entourage. In this passage Procopius records the
+            fortunes of Evangelos, a professional orator at Caesarea whom Procopius may have
+            known.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote201-1">
-        <anchor xml:id="testimonia-201.grc.1" corresp="#testimonia-201.en.1"/>τῶν <placeName xml:lang="grc">ἐν Καισαρείᾳ</placeName> ῥητόρων Εὐάγγελός τις ἦν οὐκ ἄσημος ἀνὴρ, ὅσπερ ἐπιφόρου οἱ τοῦ τῆς τύχης πνεύματος γενομένου χρημάτων τε ἄλλων καὶ χώρας πολλῆς κύριος γέγονεν.<ab type="source" source="#bib201-1"/><idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg4029.tlg002.perseus-grc1:30.18</idno><ref target="http://data.perseus.org/citations/urn:cts:greekLit:tlg4029.tlg002.perseus-grc1:30.18"/></ab>
+        <anchor xml:id="testimonia-201.grc.1" corresp="#testimonia-201.en.1"/>
+        (17) Τὰ μὲν οὖν σπουδαιότατα τῇ πολιτείᾳ ἐ[πε]φέρετο τῇδε. οὐδὲν δὲ
+            χεῖρον καί τινος αὐτοῦ τῶν γελοίων ἐπιμνησθῆναι. (18) τῶν ἐν<placeName>Καισαρείᾳ</placeName>ῥητόρων Εὐάγγελός τις ἦν οὐκ ἄσημος ἀνὴρ, ὅσπερ
+            ἐπιφόρου οἱ τοῦ τῆς τύχης πνεύματος γενομένου χρημάτων τε ἄλλων καὶ χώρας πολλῆς κύριος
+            γέγονεν. (19) ὕστερον δὲ καὶ κώμην ἐπιθαλασσίαν τινὰ, Πορφυρεῶνα ὄνομα, τριῶν χρυσίου
+            κεντηναρίων ἐπρίατο. ταῦτα μαθὼν Ἰουστινιανος βασιλεὺς ἀφείλετο [αὐτῷ] τὸ χωρίον εὐθὺς
+            ὀλίγην αὐτῷ τινα τοῦ τιμήματος προέμενος μοῖραν, καὶ τοῦτο ἀποφθεγξάμενος, ὡς Εὐαγγέλῳ
+            ῥήτορι ὄντι οὐ μήποτε εὐπρεπὲς εἴη κώμης τοιαύτης κυρίῳ εἶναι. (20) ἀλλὰ περὶ μὲν
+            τούτων, ἀμηγέπη αὐτῶν ἐπιμνησθέντες, παυσόμεθα λέγειν.
+        
+        
+        
+      <ab type="source" source="#bib201-1"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+      </ab>
       <ab type="translation" xml:lang="en" xml:id="quote201-2">
-        <anchor xml:id="testimonia-201.en.1" corresp="#testimonia-201.grc.1"/>Among the lawyers <placeName xml:lang="en">at Caesarea</placeName> was one Evangelius, a man of no mean distinction, who, favored by the winds of Fate, became the master of much money and much land.<ab type="source" source="#bib201-2"/><idno type="CTS-URN"/><ref target="https://sourcebooks.fordham.edu/basis/procop-anec.asp#atwater"/></ab>
+        <anchor xml:id="testimonia-201.en.1" corresp="#testimonia-201.grc.1"/>
+        (17) So this is how the most important affairs of the state were
+            going. There is no harm in mentioning one of his (sc. Justinian’s) ridiculous acts. (18)
+            Among the orators at<placeName>Caesarea</placeName>was one Evangelos, a man not
+            without distinction, who, when the winds of Fortune blew profitably in his direction,
+            became owner of diverse assets, including much land. (19) Later he even purchased a town
+            on the sea named Porphyreon for 300 pounds of gold. When he learned of this, the emperor
+            Justinian immediately took away the village, giving the man only a small fraction of its
+            value, and declaring that it would never be appropriate for an orator like Evangelos to
+            be the owner of such a town. (20) But now that I have mentioned these matters in a
+            summary fashion, I will stop discussing them.
+        
+        
+        
+      <ab type="source" source="#bib201-2"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+      </ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib201-1">
-          <ptr target="https://caesarea-maritima.org/bibl/SW5BHIPQ"/>
-          <citedRange unit="section">30.18</citedRange>
+          <ptr target="https://caesarea-maritima.org/bibl/RP9TVX8C"/>
+          <citedRange unit="ch">30</citedRange>
+          <citedRange unit="section">17-20</citedRange>
         </bibl>
         <bibl xml:id="bib201-2">
-          <ptr target="https://caesarea-maritima.org/bibl/6IIKXJFN"/>
-          <citedRange unit="section">30</citedRange>
+          <ptr target="https://caesarea-maritima.org/bibl/62J2HCU3"/>
+          <citedRange unit="p">352-355</citedRange>
         </bibl>
       </listBibl>
       <listBibl>
         <head>Additional Bibliography</head>
         <bibl>
-          <ptr target="https://caesarea-maritima.org/bibl/8K7THZJK"/>
-          <citedRange unit="section">30.18</citedRange>
-        </bibl>
-        <bibl>
-          <ptr target="https://caesarea-maritima.org/bibl/XLTS4FNE"/>
-          <citedRange unit="section">30</citedRange>
+          <ptr target="https://caesarea-maritima.org/bibl/M5H2RHII"/>
+          <citedRange unit="p">190-191</citedRange>
         </bibl>
       </listBibl>
+    
+      
+      
+      
     <note type="related-texts"/>
-      <note type="geography"/>
-      <note type="prosopography"/>
-      <note type="themes"/>
+      <note type="geography">
+        <p>Porphyreon</p>
+      </note>
+      <note type="prosopography">
+        <p>Evangelos</p>
+        <p>Justinian I, emperor</p>
+      </note>
+      <note type="themes">
+        <p>Byzantine History</p>
+        <p>Economy</p>
+        <p>Geography</p>
+        <p>Government and Law</p>
+        <p>Society and Culture</p>
+      </note>
     </body>
   </text>
 </TEI>

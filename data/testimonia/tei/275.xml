@@ -246,7 +246,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref n="e" target="#bib275-1">181f-182a</ref> written by <persName ref="http://viaf.org/viaf/95147024" role="author">Jerome</persName> in <origDate notBefore="0380" notAfter="0381" period="#byzantine">380-381 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref target="#bib275-1">181f-182a</ref> written by <persName ref="http://viaf.org/viaf/95147024" role="author">Jerome</persName> in <origDate notBefore="0380" notAfter="0381" period="#byzantine">380-381 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
       <langUsage>
         <language ident="la">Latin</language>
       </langUsage>
@@ -255,10 +255,11 @@
           <idno type="CTS-URN"/>
         </classCode>
         <catRef scheme="#CM-Testimonia-Type" target="#direct"/>
-        <catRef scheme="#CM-NEAEH" target="#earlyRoman #byzantine"/>
+        <catRef scheme="#CM-NEAEH" target="#earlyRoman"/>
       </textClass>
     </profileDesc>
     <revisionDesc status="draft">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
     </revisionDesc>
   </teiHeader>
@@ -267,7 +268,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/275</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract275-1"><quote><placeName>Caesarea Palestinae</placeName></quote>, and <quote><placeName>Caesarea Maritima</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/95147024" role="author">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref n="e" target="#bib275-1">181f-182a</ref>. This passage was written ca. <origDate notBefore="0380" notAfter="0381" period="#byzantine">380-381 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract275-1"><quote><placeName>Caesarea Palestinae</placeName></quote>, and <quote><placeName>Caesarea Maritima</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/95147024" role="author">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref target="#bib275-1">181f-182a</ref>. This passage was written ca. <origDate notBefore="0380" notAfter="0381" period="#byzantine">380-381 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
       <desc type="context">St. Jerome undertook to write a universal history of the world early
             in his illustrious career. His work translated and annotated the second half of
             Eusebius’ work, finished over a half century earlier, which was organized into a
@@ -277,14 +278,35 @@
             covers the start of Nero’s reign, including the Jewish uprising of 55 C.E. in
             Caesarea.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote275-1">
-        <anchor xml:id="testimonia-275.la.1" corresp="#testimonia-275.en.1"/>Romanorum Judaeorum Romanorum VI regnavit Nero ann(is) XIII mens(ibus)
+        <anchor xml:id="testimonia-275.la.1" corresp="#testimonia-275.en.1"/>
+        Romanorum Judaeorum Romanorum VI regnavit Nero ann(is) XIII mens(ibus)
             VII dieb(us) XXVIII I (f) Huius avunculus fuit Gaius Caligula XI (182a) Felici regente
             Judaeam seditio in <placeName>Caesarea Palestinae</placeName> orta magnam Judaeorum
-            multitudinem perdidit<ab type="source" source="#bib275-1"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="textual">Ed. Helm 1956</note><note xml:lang="en" type="corrigenda">Minor corr. J. L. Rife</note></ab>
+            multitudinem perdidit
+        
+        
+        
+        
+      <ab type="source" source="#bib275-1"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        <note xml:lang="en" type="textual">Ed. Helm 1956</note>
+        <note xml:lang="en" type="corrigenda">Minor corr. J. L. Rife</note>
+      </ab>
       <ab type="translation" xml:lang="en" xml:id="quote275-2">
-        <anchor xml:id="testimonia-275.en.1" corresp="#testimonia-275.la.1"/>Year of the Romans Year of the Jews 6th (emperor) of the Romans,
+        <anchor xml:id="testimonia-275.en.1" corresp="#testimonia-275.la.1"/>
+        Year of the Romans Year of the Jews 6th (emperor) of the Romans,
             Nero, ruled 13 years, 7 months, 28 days [55 C.E.] 1 (181f) (Nero’s) uncle was Gaius
-            Caligula. 11 (182a) When Felix was governor in Judea, a revolt arose in <placeName>Caesarea Maritima</placeName> and destroyed a great number of Jews.<ab type="source" source="#bib275-2"/><idno type="CTS-URN"/><ref target="http://www.tertullian.org/fathers/jerome_chronicle_03_part2.htm"/><note xml:lang="en" type="translation">Trans. J. L. Rife with ref. to Pearse 2005</note></ab>
+            Caligula. 11 (182a) When Felix was governor in Judea, a revolt arose in <placeName>Caesarea Maritima</placeName> and destroyed a great number of Jews.
+        
+        
+        
+        
+      <ab type="source" source="#bib275-2"/>
+        <idno type="CTS-URN"/>
+        <ref target="http://www.tertullian.org/fathers/jerome_chronicle_03_part2.htm"/>
+        <note xml:lang="en" type="translation">Trans. J. L. Rife with ref. to Pearse 2005</note>
+      </ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib275-1">
@@ -295,6 +317,10 @@
           <ptr target="https://caesarea-maritima.org/bibl/7JSD2DS2"/>
         </bibl>
       </listBibl>
+    
+      
+      
+      
     <note type="related-texts">
         <p>Dionysius of Tel Mahre 50 anno 2072</p>
         <p>Eusebius, Church History 2.21.1-2</p>

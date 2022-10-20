@@ -246,7 +246,7 @@
         <p/>
       </abstract>
       <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Secrets for Those Faithful to the
-               Cross</title> <ref n="g" target="#bib342-1">3.11.10</ref> written by <persName role="author" ref="http://viaf.org/viaf/1018158675954427500005">Marino Sanudo
+               Cross</title> <ref target="#bib342-1">3.11.10</ref> written by <persName role="author" ref="http://viaf.org/viaf/1018158675954427500005">Marino Sanudo
                the Elder</persName> in <origDate notBefore="1306" notAfter="1321" period="#lateIslamic">1306-1321 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/560221">Aegean Greece</origPlace>.</creation>
       <langUsage>
         <language ident="la">Latin</language>
@@ -260,6 +260,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc status="draft">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
     </revisionDesc>
   </teiHeader>
@@ -270,21 +271,22 @@
       </ab>
       <desc type="abstract" xml:id="abstract342-1">and <quote><placeName>Caesareae</placeName></quote> is directly attested at <persName role="author" ref="http://viaf.org/viaf/1018158675954427500005">Marino Sanudo
                the Elder</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Secrets for Those Faithful to the
-               Cross</title> <ref n="g" target="#bib342-1">3.11.10</ref>. This passage was written ca. <origDate notBefore="1306" notAfter="1321" period="#lateIslamic">1306-1321 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/560221">Aegean Greece</origPlace>.</desc>
-      <desc type="context">Marino Sanudo the Elder of Torcello, from a wealthy and powerful
-            Venetian family, was a statesman and geographer who spent much of his career from the
-            late 13th century until his death in 1338 living and travelling abroad, particularly in
-            the Peloponnese and Aegean islands, Cyprus and Cilicia, Constantinople, the Levant, and
-            Egypt, but also in western and northern Europe. A learned and eloquent advocate for a
-            new crusade to the Holy Land, he wrote the voluminous Secrets for Those Faithful to the
-            Cross (Secreta fidelium Crucis), a strategic manual full of economic, military, and
-            geographic detail as well as maps, and presented different versions of it to popes
-            Clement V (in 1307) and John XXII (in 1321). This passage from his account of the Holy
-            Land relates events shortly before the Sixth Crusade. The pilgrims assembled at Acre
-            undertook to strengthen the fortifications at Sidon and Caesarea between the fall of
-            1227 and the summer of 1228.</desc>
+               Cross</title> <ref target="#bib342-1">3.11.10</ref>. This passage was written ca. <origDate notBefore="1306" notAfter="1321" period="#lateIslamic">1306-1321 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/560221">Aegean Greece</origPlace>.</desc>
+      <desc type="context">Marino Sanudo the Elder of Torcello, from a wealthy and powerful Venetian
+        family, was a statesman and geographer who spent much of his career from the late 13th
+        century until his death in 1338 living and travelling abroad, particularly in the
+        Peloponnese and Aegean islands, Cyprus and Cilicia, Constantinople, the Levant, and Egypt,
+        but also in western and northern Europe. A learned and eloquent advocate for a new crusade
+        to the Holy Land, he wrote the voluminous <title>Secrets for Those Faithful to the
+          Cross</title> (<title>Secreta fidelium Crucis</title>), a strategic manual full of
+        economic, military, and geographic detail as well as maps, and presented different versions
+        of it to popes Clement V (in 1307) and John XXII (in 1321). This passage from his account of
+        the Holy Land relates events shortly before the Sixth Crusade. The pilgrims assembled at
+        Acre undertook to strengthen the fortifications at Sidon and Caesarea between the fall of
+        1227 and the summer of 1228.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote342-1">
-        <anchor xml:id="testimonia-342.la.1" corresp="#testimonia-342.en.1"/>Cum vero Imperator transire deberet et cum eo Patriarcha
+        <anchor xml:id="testimonia-342.la.1" corresp="#testimonia-342.en.1"/>
+        Cum vero Imperator transire deberet et cum eo Patriarcha
             Ierosolymitanus, coepit infirmitate gravari, et datis Patriarchae galeis duabus
             profectus est. Tunc peregrini qui Ptolomaydae Imperatoris adventum expectabant, nolentes
             torpere otio, Henricum ducem de Lamborc sibi capitaneum elegerunt, et habita
@@ -297,24 +299,43 @@
             transeunt castrum <placeName>Caesareae</placeName>, quod destruxerat Conradinus. Eo
             etiam tempore Philippus de Ybelyn, qui a morta Hugonis regis Cypri baylivus regni
             fuerate, mortuus est. Imperatrix vero MCCXIII—enixa est puerum vocatum Conradum in quo
-            Ierosolymitani regni ius remansit—eo vero herede relicto, defuncta est.<ab type="source" source="#bib342-1"/><idno type="CTS-URN"/><note xml:lang="en" type="textual">Ed. Bongars 1611</note><note xml:lang="en" type="corrigenda">Minor corr. J. L. Rife</note></ab>
+            Ierosolymitani regni ius remansit—eo vero herede relicto, defuncta est.
+        
+        
+        
+      <ab type="source" source="#bib342-1"/>
+        <idno type="CTS-URN"/>
+        <note xml:lang="en" type="textual">Ed. Bongars 1611</note>
+        <note xml:lang="en" type="corrigenda">Minor corr. J. L. Rife</note>
+      </ab>
       <ab type="translation" xml:lang="en" xml:id="quote342-2">
-        <anchor xml:id="testimonia-342.en.1" corresp="#testimonia-342.la.1"/>When the Emperor (sc. Frederick II) should have made the crossing
-            and with him the Patriarch of Jerusalem (sc. Gerold of Lausanne), he fell seriously ill
-            and gave two galleys to the Patriarch to proceed. Then the pilgrims who were awaiting
-            the Emperor’s arrival in Ptolomayda, not wanting to grow sluggish from leisure, elected
-            Henry, Duke of Lamborg, to be their captain. After deliberation they move in haste to
-            strengthen the city and castle of Sarepta in 1227. But when the pilgrims arrived at the
-            site, the scale of the operation and the work terrified them. Accordingly they changed
-            their plan for the island and built two towers with a wall in front of a gate, beginning
-            on the Feast of St. Martin (=November 11) and ending in the middle of Quadragesima (i.e.
-            Lent). In the meantime, Conradinus the Sultan of Damascus died leaving his 12-year-old
-            son, Melecel Naser, under the guardianship of the Emir Esedinebec, who was lord of the
-            Castle of Saquet. From there the the pilgrims traveled over to strengthen the fortress
-            of Caesarea, which Conradinus had destroyed. At the same time Philip of Ibelin, who
-            since the death of King Hugh had been the regent of the Kingdom (of Cyprus), died. And
-            in 1228 the empress (sc. Isabella II)—she had given birth to a boy named Conrad, in whom
-            continued the rule of the Kingdom of Jerusalem—died, leaving him behind as heir.<ab type="source" source="#bib342-2"/><idno type="CTS-URN"/><ref target=""/><note xml:lang="en" type="translation">Adapted from Lock 2011</note></ab>
+        <anchor xml:id="testimonia-342.en.1" corresp="#testimonia-342.la.1"/>
+        When the Emperor (sc.
+        Frederick II) should have made the crossing and with him the Patriarch of Jerusalem (sc.
+        Gerold of Lausanne), he fell seriously ill and gave two galleys to the Patriarch to proceed.
+        Then the pilgrims who were awaiting the Emperor’s arrival in Ptolomayda, not wanting to grow
+        sluggish from leisure, elected Henry, Duke of Lamborg, to be their captain. After
+        deliberation they move in haste to strengthen the city and castle of Sarepta in 1227. But
+        when the pilgrims arrived at the site, the scale of the operation and the work terrified
+        them. Accordingly they changed their plan for the island and built two towers with a wall in
+        front of a gate, beginning on the Feast of St. Martin [=November 11] and ending in the
+        middle of Quadragesima [i.e. Lent]. In the meantime, Conradinus the Sultan of Damascus died
+        leaving his 12-year-old son, Melecel Naser, under the guardianship of the Emir Esedinebec,
+        who was lord of the Castle of Saquet. From there the the pilgrims traveled over to
+        strengthen the fortress of Caesarea, which Conradinus had destroyed. At the same time Philip
+        of Ibelin, who since the death of King Hugh had been the regent of the Kingdom (of Cyprus),
+        died. And in 1228 the empress (sc. Isabella II)—she had given birth to a boy named Conrad,
+        in whom continued the rule of the Kingdom of Jerusalem—died, leaving him behind as
+          heir.
+        
+        
+        
+        
+      <ab type="source" source="#bib342-2"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        <note xml:lang="en" type="translation">Adapted from Lock 2011</note>
+      </ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib342-1">
@@ -327,6 +348,10 @@
           <citedRange unit="p">335</citedRange>
         </bibl>
       </listBibl>
+    
+      
+      
+      
     <note type="related-texts"/>
       <note type="geography">
         <p>Damascus</p>
