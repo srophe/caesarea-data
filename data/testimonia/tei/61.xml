@@ -245,7 +245,7 @@
             <p/>
          </abstract>
          <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Letters</title>
-            <ref target="#bib61-1">108.8.1-2</ref> written by <persName role="author" ref="http://viaf.org/viaf/309472433">Jerome</persName> in <origDate notBefore="" notAfter="" period="#">0403</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</creation>
+            <ref target="#bib61-1">108.8.1-2</ref> written by <persName role="author" ref="http://viaf.org/viaf/309472433">Jerome</persName> in <origDate notBefore="0388" notAfter="0418" period="#byzantine">ca. 403 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</creation>
          <langUsage>
             <language ident="la">Latin</language>
          </langUsage>
@@ -268,7 +268,7 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/61</idno>
          </ab>
          <desc type="abstract" xml:id="abstract61-1"><quote><placeName>Stratonis turrem</placeName></quote>, <quote><placeName>Caesaream</placeName></quote>, <quote><placeName>Strato’s
-               Tower</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/309472433">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Letters</title> <ref target="#bib61-1">108.8.1-2</ref>. This passage was written ca. <origDate notBefore="" notAfter="" period="#">0403</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</desc>
+               Tower</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/309472433">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Letters</title> <ref target="#bib61-1">108.8.1-2</ref>. This passage was written ca. <origDate notBefore="0388" notAfter="0418" period="#byzantine">ca. 403 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</desc>
          <desc type="context">Among the voluminous correspondence of St. Jerome is this famous
             letter, written as a consolation to Eustochium on the death of her pious mother Paula.
             Paula lived a life of opulence as a prominent aristocrat at Rome before converting to

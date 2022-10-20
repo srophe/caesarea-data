@@ -245,7 +245,7 @@
             <p/>
          </abstract>
          <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Weights and Measures</title>
-            <ref target="#bib338-1">18.506-518</ref> written by <persName ref="http://viaf.org/viaf/13651211" role="author">Epiphanius</persName> in <origDate notBefore="" notAfter="" period="#">0392 CE</origDate>. This work was likely written
+            <ref target="#bib338-1">18.506-518</ref> written by <persName ref="http://viaf.org/viaf/13651211" role="author">Epiphanius</persName> in <origDate notBefore="0377" notAfter="0407" period="#byzantine">ca. 392 CE</origDate>. This work was likely written
             in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
          <langUsage>
             <language ident="grc">Ancient Greek</language>
@@ -269,7 +269,7 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/338</idno>
          </ab>
          <desc type="abstract" xml:id="abstract338-1"><quote><placeName>Καισαρείᾳ</placeName></quote>, <quote><placeName>Καισάρειαν
-               τὴν Στράτωνος</placeName></quote>, <quote><placeName>Caesarea</placeName></quote>, <quote><placeName>Straton’s Caesarea</placeName></quote>, and <quote><placeName>Hexapla</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/13651211" role="author">Epiphanius</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Weights and Measures</title> <ref target="#bib338-1">18.506-518</ref>. This passage was written ca. <origDate notBefore="" notAfter="" period="#">0392 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+               τὴν Στράτωνος</placeName></quote>, <quote><placeName>Caesarea</placeName></quote>, <quote><placeName>Straton’s Caesarea</placeName></quote>, and <quote><placeName>Hexapla</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/13651211" role="author">Epiphanius</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Weights and Measures</title> <ref target="#bib338-1">18.506-518</ref>. This passage was written ca. <origDate notBefore="0377" notAfter="0407" period="#byzantine">ca. 392 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
          <desc type="context">Epiphanius, who spent his early life and career as a student and monk
             in southern Palestine and Egypt, was appointed bishop of Salamis on Cyprus in ca.
             365-367 C.E., a post he held until his death in 403 C.E. Apart from his staunch defense

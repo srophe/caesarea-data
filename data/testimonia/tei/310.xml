@@ -247,7 +247,7 @@
       </abstract>
       <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Description of the Holy
                Places</title> <ref target="#bib310-1">430-431</ref> written by <persName role="author" ref="http://viaf.org/viaf/260149196658874792805">Rorgo
-               Fretellus</persName> in <origDate notBefore="" notAfter="" period="#">NaN CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678299">Nazareth</origPlace>.</creation>
+               Fretellus</persName> in <origDate notBefore="1122" notAfter="1152" period="#crusader">ca. 1137 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678299">Nazareth</origPlace>.</creation>
       <langUsage>
         <language ident="la">Latin</language>
       </langUsage>
@@ -271,7 +271,7 @@
       </ab>
       <desc type="abstract" xml:id="abstract310-1"><quote><placeName>Caesaream</placeName></quote>, <quote><placeName>Caesarea</placeName></quote>, <quote><placeName>Turris Stratonis</placeName></quote>, <quote><placeName>Caesareae</placeName></quote>, and <quote><placeName>Strato’s Tower</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/260149196658874792805">Rorgo
                Fretellus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Description of the Holy
-               Places</title> <ref target="#bib310-1">430-431</ref>. This passage was written ca. <origDate notBefore="" notAfter="" period="#">NaN CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678299">Nazareth</origPlace>.</desc>
+               Places</title> <ref target="#bib310-1">430-431</ref>. This passage was written ca. <origDate notBefore="1122" notAfter="1152" period="#crusader">ca. 1137 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678299">Nazareth</origPlace>.</desc>
       <desc type="context">Rorgo Fretellus (or Fetellus) was a priest originally from the feudal
             county of Ponthieu in northern France who travelled to the Holy Land in 1110 C.E. Over
             the next several decades he served various ecclesiastical offices in Galilee, possibly

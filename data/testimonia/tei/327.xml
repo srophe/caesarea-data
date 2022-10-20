@@ -246,7 +246,7 @@
             <p/>
          </abstract>
          <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Panegyric to Origen </title> <ref target="#bib327-1">16.63-92</ref> written by <persName ref="http://viaf.org/viaf/88726043" role="author">Gregory the
-               Miracle-Worker</persName> in <origDate notBefore="" notAfter="" period="#">NaN CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</creation>
+               Miracle-Worker</persName> in <origDate notBefore="0224" notAfter="0254" period="#lateRoman">ca. 239 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</creation>
          <langUsage>
             <language ident="grc">Ancient Greek</language>
          </langUsage>
@@ -269,7 +269,7 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/327</idno>
          </ab>
          <desc type="abstract" xml:id="abstract327-1">Caesarea Maritima is indirectly attested at <persName ref="http://viaf.org/viaf/88726043" role="author">Gregory the
-               Miracle-Worker</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Panegyric to Origen </title> <ref target="#bib327-1">16.63-92</ref>. This passage was written ca. <origDate notBefore="" notAfter="" period="#">NaN CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</desc>
+               Miracle-Worker</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Panegyric to Origen </title> <ref target="#bib327-1">16.63-92</ref>. This passage was written ca. <origDate notBefore="0224" notAfter="0254" period="#lateRoman">ca. 239 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</desc>
          <desc type="context">Theodore, who later became known as Gregory the Miracle-Worker (ὁ
             Θαυματουργός), was a Christian convert from a leading family of Pontic Neocaesarea who
             became an influential theologian and bishop during the middle decades of the 3rd

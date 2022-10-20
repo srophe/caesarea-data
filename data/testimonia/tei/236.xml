@@ -245,7 +245,7 @@
         <p/>
       </abstract>
       <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Description of the Holy
-               Land</title> <ref target="#bib236-1">489-495</ref> written by <persName role="author" ref="http://viaf.org/viaf/306432747">John of Würzburg</persName> in <origDate notBefore="" notAfter="" period="#">NaN CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</creation>
+               Land</title> <ref target="#bib236-1">489-495</ref> written by <persName role="author" ref="http://viaf.org/viaf/306432747">John of Würzburg</persName> in <origDate notBefore="1145" notAfter="1175" period="#crusader">ca. 1160 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</creation>
       <langUsage>
         <language ident="la">Latin</language>
       </langUsage>
@@ -271,7 +271,7 @@
                Palaestina</placeName></quote>, <quote><placeName>Turris Strathonis</placeName></quote>, <quote><placeName>Caesarea
                Palaestina</placeName></quote>, and <quote><placeName>Strato’s
                Tower</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/306432747">John of Würzburg</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Description of the Holy
-               Land</title> <ref target="#bib236-1">489-495</ref>. This passage was written ca. <origDate notBefore="" notAfter="" period="#">NaN CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
+               Land</title> <ref target="#bib236-1">489-495</ref>. This passage was written ca. <origDate notBefore="1145" notAfter="1175" period="#crusader">ca. 1160 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
       <desc type="context">John was a cleric in Würzburg in Bavaria during the 12th century who
         travelled on a pilgrimage to the Holy Land under the Kingdom of Jerusalem. In his itinerary
         south from Mount Carmel, he describes Caesarea as a city associated with the early Church
