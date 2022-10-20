@@ -247,7 +247,7 @@
             <p/>
          </abstract>
          <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Description of the Holy
-               Land</title> <ref target="#bib204-1">10.1-5</ref> written by <persName ref="https://pleiades.stoa.org/places/687995" role="author">Burchard of Mt.
+               Land</title> <ref n="c" target="#bib204-1">10.1-5</ref> written by <persName ref="https://pleiades.stoa.org/places/687995" role="author">Burchard of Mt.
                Sion</persName> in <origDate notBefore="1274" notAfter="1285" period="#crusader">1274-1285 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/1001939">Palestine</origPlace>.</creation>
          <langUsage>
             <language ident="la">Latin</language>

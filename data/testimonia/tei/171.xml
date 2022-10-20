@@ -244,7 +244,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Eastern History</title> <ref target="#bib171-1">23-25</ref> written by <persName ref="http://viaf.org/viaf/177480349" role="author">Jacques de Vitry</persName> in <origDate notBefore="1216" notAfter="1225" period="#crusader">1216-1225 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678010">Acre</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Eastern History</title> <ref n="a" target="#bib171-1">23-25</ref> written by <persName ref="http://viaf.org/viaf/177480349" role="author">Jacques de Vitry</persName> in <origDate notBefore="1216" notAfter="1225" period="#crusader">1216-1225 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678010">Acre</origPlace>.</creation>
          <langUsage>
             <language ident="la">Latin</language>
          </langUsage>

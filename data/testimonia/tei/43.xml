@@ -249,7 +249,7 @@
         <p/>
       </abstract>
       <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:latinLit:phi0978.phi001" type="uniform" level="m">Natural History</title>
-        <ref target="#bib43-1">5.14.68-69</ref> written by <persName ref="http://viaf.org/viaf/100219162" role="author">Pliny the Elder</persName> in <origDate period="#nabateanKingdom #earlyRoman" when="0077">0070 0077</origDate>. This work was
+        <ref n="a" target="#bib43-1">5.14.68-69</ref> written by <persName ref="http://viaf.org/viaf/100219162" role="author">Pliny the Elder</persName> in <origDate period="#nabateanKingdom #earlyRoman" when="0077">0070 0077</origDate>. This work was
         likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</creation>
       <langUsage>
         <language ident="la">Latin</language>

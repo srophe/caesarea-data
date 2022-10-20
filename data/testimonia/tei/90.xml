@@ -247,7 +247,7 @@
       </abstract>
       <creation>This entry is taken from <title ref="" type="uniform" level="m">Apostolic
           Constitutions</title>
-        <ref target="#bib90-1">7.46.1-5</ref> written by <persName ref="" role="author">Unknown</persName> in <origDate period="#byzantine" notBefore="0350" notAfter="0380">0375
+        <ref n="a" target="#bib90-1">7.46.1-5</ref> written by <persName ref="" role="author">Unknown</persName> in <origDate period="#byzantine" notBefore="0350" notAfter="0380">0375
           0380</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/658381">Antioch</origPlace>.</creation>
       <langUsage>
         <language ident="grc">Ancient Greek</language>

@@ -244,7 +244,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Short History</title> <ref target="#bib52-1">7.10.3</ref> written by <persName role="author" ref="http://viaf.org/viaf/25396473">Eutropius</persName> in <origDate notBefore="0367" notAfter="0369" period="#byzantine">367-369 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Short History</title> <ref n="a" target="#bib52-1">7.10.3</ref> written by <persName role="author" ref="http://viaf.org/viaf/25396473">Eutropius</persName> in <origDate notBefore="0367" notAfter="0369" period="#byzantine">367-369 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
          <langUsage>
             <language ident="la">Latin</language>
          </langUsage>

@@ -244,7 +244,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Plots</title> <ref target="#bib217-1">162.22-36</ref> written by <persName role="author" ref="http://viaf.org/viaf/13108540">Constantine
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Plots</title> <ref n="a" target="#bib217-1">162.22-36</ref> written by <persName role="author" ref="http://viaf.org/viaf/13108540">Constantine
                Porphyrogenitus</persName> in <origDate notBefore="0930" notAfter="0955" period="#earlyIslamic">930-955 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
       <langUsage>
         <language ident="grc">Ancient Greek</language>

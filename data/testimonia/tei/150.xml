@@ -252,7 +252,7 @@
       </abstract>
       <creation>This entry is taken from <title xml:lang="en" type="uniform" level="m">Church
           History</title>
-        <ref target="#bib150-1">2.4</ref> written by <persName ref="https://viaf.org/viaf/55571017" role="author">Socrates of Constantinople</persName> in <origDate period="#byzantine" when="0439">0439 0450</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
+        <ref n="a" target="#bib150-1">2.4</ref> written by <persName ref="https://viaf.org/viaf/55571017" role="author">Socrates of Constantinople</persName> in <origDate period="#byzantine" when="0439">0439 0450</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
       <langUsage>
         <language ident="grc">Ancient Greek</language>
       </langUsage>

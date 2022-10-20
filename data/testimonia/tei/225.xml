@@ -245,7 +245,7 @@
         <p/>
       </abstract>
       <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Exhibit of the Whole World and its
-               Peoples</title> <ref target="#bib225-1">26</ref> written by <persName role="author">Unknown</persName> in <origDate notBefore="0500" notAfter="0600" period="#byzantine">500-600 CE</origDate>. This work was likely written in <origPlace/>.</creation>
+               Peoples</title> <ref n="a" target="#bib225-1">26</ref> written by <persName role="author">Unknown</persName> in <origDate notBefore="0500" notAfter="0600" period="#byzantine">500-600 CE</origDate>. This work was likely written in <origPlace/>.</creation>
       <langUsage>
         <language ident="la">Latin</language>
       </langUsage>

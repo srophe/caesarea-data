@@ -250,7 +250,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" type="uniform" level="m">Parsings</title> <ref target="#bib45-1">63</ref> written by <persName role="author" ref="http://viaf.org/viaf/3886149368839785980008">Pseudo-Aelius
+         <creation>This entry is taken from <title xml:lang="en" type="uniform" level="m">Parsings</title> <ref n="a" target="#bib45-1">63</ref> written by <persName role="author" ref="http://viaf.org/viaf/3886149368839785980008">Pseudo-Aelius
                Herodianus</persName> in <origDate notBefore="1100" notAfter="1400" period="#crusader #lateIslamic">1100-1400 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
          <langUsage>
             <language ident="grc">Ancient Greek</language>

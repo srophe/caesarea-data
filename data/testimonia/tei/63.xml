@@ -249,7 +249,7 @@
             <p/>
          </abstract>
          <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Honors for an Athlete,
-               IAph2007</title> <ref target="#bib63-1">12.214</ref> written by <persName ref="" role="author">Unknown</persName> in <origDate notBefore="0138" notAfter="0169" period="#lateRoman">138-169 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/638753">Aphrodisias</origPlace>.</creation>
+               IAph2007</title> <ref n="a" target="#bib63-1">12.214</ref> written by <persName ref="" role="author">Unknown</persName> in <origDate notBefore="0138" notAfter="0169" period="#lateRoman">138-169 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/638753">Aphrodisias</origPlace>.</creation>
          <langUsage>
             <language ident="grc">Ancient Greek</language>
          </langUsage>

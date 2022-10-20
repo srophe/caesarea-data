@@ -245,7 +245,7 @@
         <p/>
       </abstract>
       <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Description of the Holy
-               Land</title> <ref target="#bib236-1">489-495</ref> written by <persName role="author" ref="http://viaf.org/viaf/306432747">John of Würzburg</persName> in <origDate notBefore="1145" notAfter="1175" period="#crusader">ca. 1160 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</creation>
+               Land</title> <ref n="a" target="#bib236-1">489-495</ref> written by <persName role="author" ref="http://viaf.org/viaf/306432747">John of Würzburg</persName> in <origDate notBefore="1145" notAfter="1175" period="#crusader">ca. 1160 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</creation>
       <langUsage>
         <language ident="la">Latin</language>
       </langUsage>

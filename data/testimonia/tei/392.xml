@@ -286,7 +286,7 @@
             <p/>
          </abstract>
          <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Apology Against Rufinus</title>
-            <ref target="#bib392-1">2.18</ref> written by <persName role="author" ref="http://viaf.org/viaf/95147024">Jerome</persName> in <origDate when="0401" period="#byzantine">401 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</creation>
+            <ref n="b" target="#bib392-1">2.18</ref> written by <persName role="author" ref="http://viaf.org/viaf/95147024">Jerome</persName> in <origDate when="0401" period="#byzantine">401 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</creation>
          <langUsage>
             <language ident="la">Latin</language>
          </langUsage>

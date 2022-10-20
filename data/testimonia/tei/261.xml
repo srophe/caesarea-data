@@ -243,7 +243,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Etymologies</title> <ref target="#bib261-1">5.1.75</ref> written by <persName role="author" ref="http://viaf.org/viaf/803890">Isidore</persName> in <origDate notBefore="0610" notAfter="0636" period="#byzantine">610-636 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/256210 ">Seville</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Etymologies</title> <ref n="a" target="#bib261-1">5.1.75</ref> written by <persName role="author" ref="http://viaf.org/viaf/803890">Isidore</persName> in <origDate notBefore="0610" notAfter="0636" period="#byzantine">610-636 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/256210 ">Seville</origPlace>.</creation>
       <langUsage>
         <language ident="la">Latin</language>
       </langUsage>

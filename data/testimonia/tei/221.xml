@@ -245,7 +245,7 @@
         <p/>
       </abstract>
       <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Pilgrimages and Pardons of
-               Acre</title> <ref target="#bib221-1">1.1</ref> written by <persName role="author">Unknown</persName> in <origDate notBefore="1258" notAfter="1263" period="#crusader">1258-1263 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</creation>
+               Acre</title> <ref n="a" target="#bib221-1">1.1</ref> written by <persName role="author">Unknown</persName> in <origDate notBefore="1258" notAfter="1263" period="#crusader">1258-1263 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</creation>
       <langUsage>
         <language ident="xno">Old French</language>
       </langUsage>

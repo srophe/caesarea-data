@@ -245,7 +245,7 @@
       </abstract>
       <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Easter
           Chronicle</title>
-        <ref target="#bib245-1">62.8-19</ref> written by <persName role="author">Unknown</persName>
+        <ref n="a" target="#bib245-1">62.8-19</ref> written by <persName role="author">Unknown</persName>
         in <origDate notBefore="0615" notAfter="0645" period="#byzantine #earlyIslamic">ca. 630 CE</origDate>. This work was likely
         written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
       <langUsage>

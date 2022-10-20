@@ -246,7 +246,7 @@
             <p/>
          </abstract>
          <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Journey in the Holy Land </title>
-            <ref target="#bib51-1">2.2-2.3</ref> written by <persName role="author" ref="http://viaf.org/viaf/398143">Wilbrand of Oldenburg</persName> in <origDate notBefore="1211" notAfter="1212" period="#crusader">1211-1212 CE</origDate>. This
+            <ref n="a" target="#bib51-1">2.2-2.3</ref> written by <persName role="author" ref="http://viaf.org/viaf/398143">Wilbrand of Oldenburg</persName> in <origDate notBefore="1211" notAfter="1212" period="#crusader">1211-1212 CE</origDate>. This
             work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</creation>
          <langUsage>
             <language ident="la">Latin</language>

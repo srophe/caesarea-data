@@ -247,7 +247,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref target="#bib347-1">1.373.13-1.374.3</ref> written by <persName ref="http://viaf.org/viaf/248629519" role="author">George the Monk</persName> in <origDate notBefore="0845" notAfter="0865" period="#earlyIslamic">845-865 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref n="a" target="#bib347-1">1.373.13-1.374.3</ref> written by <persName ref="http://viaf.org/viaf/248629519" role="author">George the Monk</persName> in <origDate notBefore="0845" notAfter="0865" period="#earlyIslamic">845-865 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
          <langUsage>
             <language ident="grc">Ancient Greek</language>
          </langUsage>

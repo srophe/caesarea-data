@@ -247,7 +247,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Invocation of Isis, P.Oxy.</title> <ref target="#bib406-1">XI 1380.93-99</ref> written by <persName ref="" role="author">Unknown</persName> in <origDate notBefore="0100" notAfter="0149" period="#nabateanKingdom #earlyRoman #lateRoman">100-149 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/981503">Egypt</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Invocation of Isis, P.Oxy.</title> <ref n="a" target="#bib406-1">XI 1380.93-99</ref> written by <persName ref="" role="author">Unknown</persName> in <origDate notBefore="0100" notAfter="0149" period="#nabateanKingdom #earlyRoman #lateRoman">100-149 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/981503">Egypt</origPlace>.</creation>
          <langUsage>
             <language ident="grc">Ancient Greek</language>
          </langUsage>

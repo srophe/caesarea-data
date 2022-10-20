@@ -245,7 +245,7 @@
             <p/>
          </abstract>
          <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Commentary on Daniel</title>
-            <ref target="#bib323-1">11.44-45.425-445</ref> written by <persName ref=" http://viaf.org/viaf/175367750" role="author">Jerome</persName> in <origDate notBefore="0392" notAfter="0422" period="#byzantine">ca. 407 CE</origDate>. This work was likely written in
+            <ref n="a" target="#bib323-1">11.44-45.425-445</ref> written by <persName ref=" http://viaf.org/viaf/175367750" role="author">Jerome</persName> in <origDate notBefore="0392" notAfter="0422" period="#byzantine">ca. 407 CE</origDate>. This work was likely written in
                <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</creation>
          <langUsage>
             <language ident="la">Latin</language>

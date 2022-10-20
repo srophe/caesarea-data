@@ -245,7 +245,7 @@
         <p/>
       </abstract>
       <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Prologue and Notes on Theodosius of Alexandria’s Introductory Rules</title>
-        <ref target="#bib228-1">303.12-20</ref> written by <persName ref="http://viaf.org/viaf/34444948" role="author">George Choeroboscus</persName> in
+        <ref n="a" target="#bib228-1">303.12-20</ref> written by <persName ref="http://viaf.org/viaf/34444948" role="author">George Choeroboscus</persName> in
           <origDate notBefore="0800" notAfter="0860" period="#earlyIslamic">ca. 815-845 CE</origDate>. This work was likely
         written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
       <langUsage>

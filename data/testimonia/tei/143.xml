@@ -246,7 +246,7 @@
         <p/>
       </abstract>
       <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:greekLit:tlg3389.tlg001" type="uniform" level="m">Illustrious Men</title>
-        <ref target="#bib143-1">130</ref> written by <persName ref="http://viaf.org/viaf/95147024 " role="author">Jerome</persName> in <origDate period="#byzantine" when="0392">0392
+        <ref n="j" target="#bib143-1">130</ref> written by <persName ref="http://viaf.org/viaf/95147024 " role="author">Jerome</persName> in <origDate period="#byzantine" when="0392">0392
           0393</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</creation>
       <langUsage>
         <language ident="la">Latin</language>

@@ -243,7 +243,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Letters</title> <ref target="#bib295-1">34.1</ref> written by <persName ref="http://viaf.org/viaf/309472433" role="author">Jerome</persName> in <origDate notBefore="0382" notAfter="0384" period="#byzantine">382-384 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Letters</title> <ref n="c" target="#bib295-1">34.1</ref> written by <persName ref="http://viaf.org/viaf/309472433" role="author">Jerome</persName> in <origDate notBefore="0382" notAfter="0384" period="#byzantine">382-384 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</creation>
       <langUsage>
         <language ident="la">Latin</language>
       </langUsage>

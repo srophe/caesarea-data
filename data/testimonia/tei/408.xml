@@ -247,7 +247,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Letter to Dorotheos, P.Oxy.</title> <ref target="#bib408-1">LVI 3864</ref> written by <persName ref="" role="author">Apammon</persName> in <origDate notBefore="0400" notAfter="0499" period="#byzantine">400-499 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/727221">Chaireou</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Letter to Dorotheos, P.Oxy.</title> <ref n="a" target="#bib408-1">LVI 3864</ref> written by <persName ref="" role="author">Apammon</persName> in <origDate notBefore="0400" notAfter="0499" period="#byzantine">400-499 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/727221">Chaireou</origPlace>.</creation>
          <langUsage>
             <language ident="grc">Ancient Greek</language>
          </langUsage>

@@ -247,7 +247,7 @@
          </abstract>
          <creation>This entry is taken from <title xml:lang="en" type="uniform" level="m">History
                for Lausus</title>
-            <ref target="#bib329-1">64</ref> written by <persName role="author" ref="http://viaf.org/viaf/61550437">Palladius of Galatia</persName> in <origDate notBefore="0419" notAfter="0420" period="#byzantine">0419 0420</origDate>. This work
+            <ref n="a" target="#bib329-1">64</ref> written by <persName role="author" ref="http://viaf.org/viaf/61550437">Palladius of Galatia</persName> in <origDate notBefore="0419" notAfter="0420" period="#byzantine">0419 0420</origDate>. This work
             was likely written in <origPlace ref="https://pleiades.stoa.org/places/619161">Aspuna</origPlace>.</creation>
          <langUsage>
             <language ident="grc">Ancient Greek</language>

@@ -248,7 +248,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Embassy to Gaius</title> <ref target="#bib1-1">37.299</ref> written by <persName ref="http://viaf.org/viaf/30151776786218011787" role="author">Philo</persName> in <origDate notBefore="0040" notAfter="" period="#nabateanKingdom #earlyRoman #herodian #middleNabatean">40 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/727070">Alexandria</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Embassy to Gaius</title> <ref n="b" target="#bib1-1">37.299</ref> written by <persName ref="http://viaf.org/viaf/30151776786218011787" role="author">Philo</persName> in <origDate notBefore="0040" notAfter="" period="#nabateanKingdom #earlyRoman #herodian #middleNabatean">40 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/727070">Alexandria</origPlace>.</creation>
       <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
       </langUsage>

@@ -244,7 +244,7 @@
         <p/>
       </abstract>
       <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Against John of Jerusalem</title>
-        <ref target="#bib370-1">37.407a-b</ref> written by <persName role="author" ref="http://viaf.org/viaf/95147024">Jerome</persName> in <origDate notBefore="0382" notAfter="0412" period="#byzantine">ca. 397 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</creation>
+        <ref n="a" target="#bib370-1">37.407a-b</ref> written by <persName role="author" ref="http://viaf.org/viaf/95147024">Jerome</persName> in <origDate notBefore="0382" notAfter="0412" period="#byzantine">ca. 397 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</creation>
       <langUsage>
         <language ident="la">Latin</language>
       </langUsage>
