@@ -247,7 +247,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Chronographic Selection</title> <ref target="#bib354-1">632.10-632.20</ref> written by <persName ref="http://viaf.org/viaf/39386582" role="author">George Syncellus</persName> in <origDate notBefore="0808" notAfter="0815" period="#earlyIslamic">808-815 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Chronographic Selection</title> <ref n="f" target="#bib354-1">632.10-632.20</ref> written by <persName ref="http://viaf.org/viaf/39386582" role="author">George Syncellus</persName> in <origDate notBefore="0808" notAfter="0815" period="#earlyIslamic">808-815 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
          <langUsage>
             <language ident="grc">Ancient Greek</language>
          </langUsage>

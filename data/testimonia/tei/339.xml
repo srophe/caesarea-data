@@ -246,7 +246,7 @@
         <p/>
       </abstract>
       <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Secrets for Those Faithful to the
-               Cross</title> <ref target="#bib339-1">3.11.3</ref> written by <persName role="author" ref="http://viaf.org/viaf/1018158675954427500005">Marino Sanudo
+               Cross</title> <ref n="g" target="#bib339-1">3.11.3</ref> written by <persName role="author" ref="http://viaf.org/viaf/1018158675954427500005">Marino Sanudo
                the Elder</persName> in <origDate notBefore="1306" notAfter="1321" period="#lateIslamic">1306-1321 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/560221">Aegean Greece</origPlace>.</creation>
       <langUsage>
         <language ident="la">Latin</language>
