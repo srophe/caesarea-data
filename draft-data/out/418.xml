@@ -326,7 +326,7 @@
          <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Commentary on Matthew</title> <ref n="a" target="#bib418-1">28:1</ref> written by <persName ref="" role="author">Ishoʿdad of Merv</persName> in <origDate notBefore="0840" notAfter="0850" period="#earlyIslamic">840-850 CE</origDate>. This work was likely written in <origPlace ref="">Ḥḏattā</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="syr">Syriac</language>
-           <language ana="#caesarea-language-of-original"ident="syr">Syriac</language>
+           <language ana="#caesarea-language-of-original" ident="syr">Syriac</language>
       </langUsage>
          <textClass>
             <classCode scheme="https://distributed-text-services.github.io/specifications">
