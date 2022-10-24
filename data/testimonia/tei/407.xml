@@ -303,18 +303,18 @@
          <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib407-1">
-          <ptr target="https://caesarea-maritima.org/bibl/https:"/>
+          <ptr target="https://caesarea-maritima.org/bibl/Q4XVR2NU"/>
           <citedRange unit="entry">59004</citedRange>
           <citedRange unit="line">1-13</citedRange>
         </bibl>
         <bibl xml:id="bib407-2">
-          <ptr target="https://caesarea-maritima.org/bibl/https:"/>
+          <ptr target="https://caesarea-maritima.org/bibl/4GYMYX9L"/>
         </bibl>
       </listBibl>
          <listBibl>
         <head>Additional Bibliography</head>
         <bibl>
-          <ptr target="https://caesarea-maritima.org/bibl/https:"/>
+          <ptr target="https://caesarea-maritima.org/bibl/RBCZ2X2N"/>
           <citedRange unit="entry">6777</citedRange>
           <citedRange unit="line">1-13</citedRange>
         </bibl>
