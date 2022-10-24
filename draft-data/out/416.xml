@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -349,13 +346,8 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/416</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract416-1">
-        <quote>
-          <placeName>ܩܣܪܝܐ</placeName>
-        </quote>, and <quote>
-          <placeName>Caesarea</placeName>
-        </quote> are directly attested at <persName ref="" role="author">Pseudo-Clement of Rome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Pseudo-Clementine
-               Recognitions</title> <ref target="#bib416-1">2.62.3-2.63.3</ref>. This passage was written ca. <origDate notBefore="0220" notAfter="0373" period="#lateRoman #byzantine">220-373 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/658457">Edessa?</origPlace>.</desc>
+         <desc type="abstract" xml:id="abstract416-1"><quote><placeName>ܩܣܪܝܐ</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="" role="author">Pseudo-Clement of Rome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Pseudo-Clementine
+               Recognitions</title> <ref n="a" target="#bib416-1">2.62.3-2.63.3</ref>. This passage was written ca. <origDate notBefore="0220" notAfter="0373" period="#lateRoman #byzantine">220-373 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/658457">Edessa?</origPlace>.</desc>
          <desc type="context">The Pseudo-Clementine body of literature purports to relate the
             interactions between Clement of Rome, a first century Christian bishop of Rome, and the
             Apostle Peter (the traditional first bishop of Rome)., including a meeting of the two in
