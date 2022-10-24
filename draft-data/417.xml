@@ -1,0 +1,308 @@
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
+            <sponsor>Vanderbilt University</sponsor>
+            <principal>Joseph L. Rife</principal>
+            <editor role="general"
+               ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L.
+               Rife</editor>
+            <editor role="general"
+               ref="https://caesarea-maritima.org/documentation/editors.xml#plieberman">Phillip I.
+               Lieberman</editor>
+            <editor role="general"
+               ref="https://caesarea-maritima.org/documentation/editors.xml#dmichelson">David A.
+               Michelson</editor>
+            <editor role="technical"
+               ref="https://caesarea-maritima.org/documentation/editors.xml#dmichelson">David A.
+               Michelson</editor>
+            <editor role="technical"
+               ref="https://caesarea-maritima.org/documentation/editors.xml#dschwartz">Daniel L.
+               Schwartz</editor>
+            <editor role="technical"
+               ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L.
+               Potter</editor>
+            <editor role="creator"
+               ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L.
+               Rife</editor>
+            <!-- Static metadata -->
+            <respStmt>
+               <resp>Testimonia identified by</resp>
+               <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L.
+                  Rife</name>
+            </respStmt>
+            <!-- Static metadata -->
+         </titleStmt>
+         <editionStmt>
+            <edition n="1.0"/>
+         </editionStmt>
+         <!-- Static metadata -->
+         <publicationStmt>
+            <authority>Caesarea City and Port Exploration Project</authority>
+            <!-- Static metadata -->
+            <idno type="URI">417</idno>
+            <!-- Just need numerical sequence -->
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by/4.0">
+                  <p>Except for materials quoted from other sources, this entry is copyright 2021 by
+                     the contributors (Joseph L. Rife, et al.) and the Caesarea City and Port
+                     Exploration Project. It is licensed under the Attribution 4.0 International (CC
+                     BY 4.0) license.</p>
+                  <p>Some texts quoted in this entry may be in the public domain in the United
+                     States. No copyright is asserted for these quotations.</p>
+                  <p>Some texts quoted in this entry may have copyright restrictions and are reused
+                     under Section 107 of the Copyright Act of 1976 (Title 17 of the United States
+                     Code) which permits “fair use” of copyrighted materials for purposes such as
+                     criticism, comment, scholarship, and research. These texts remain under
+                     copyright of their owners. No copyright infringement is intended.</p>
+               </licence>
+            </availability>
+            <date/>
+            <!-- add via post-processing -->
+         </publicationStmt>
+         <seriesStmt>
+            <title level="s" xml:lang="en">Caesarea-Maritima.org: A Digital Archive</title>
+            <editor role="general"
+               ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L.
+               Rife</editor>
+            <editor role="general"
+               ref="https://caesarea-maritima.org/documentation/editors.xml#plieberman">Phillip I.
+               Lieberman</editor>
+            <editor role="general"
+               ref="https://caesarea-maritima.org/documentation/editors.xml#dmichelson">David A.
+               Michelson</editor>
+         </seriesStmt>
+         <!-- Static metadata -->
+         <sourceDesc>
+            <p>Born digital.</p>
+         </sourceDesc>
+         <!-- Static metadata -->
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>Authors of testimonia are identified with URIs from The Virtual International
+               Authority File, see <ref target="http://viaf.org">http://viaf.org</ref>. When
+               multiple VIAF URIs exist, preference has been given to VIAF record linked to the
+               Library of Congress authority file.</p>
+            <p>Geographic locations are identified with URIs from Pleiades: A Gazetteer of Past
+               Places, see <ref target="https://pleiades.stoa.org/docs"
+                  >https://pleiades.stoa.org/docs</ref>.</p>
+            <p>When possible, textual works have been cited using URNs according to the Distributed
+               Text Services (DTS) system, see <ref
+                  target="https://distributed-text-services.github.io/specifications"
+                  >https://distributed-text-services.github.io/specifications</ref>. Additional
+               identifiers have been adopted from the systems used by the Perseus Digital Library
+                  (<ref target="http://www.perseus.tufts.edu/hopper"
+                  >http://www.perseus.tufts.edu/hopper</ref>), Syriaca.org (<ref
+                  target="http://syriaca.org">http://syriaca.org</ref>), and other relevant
+               authority systems such as WorldCat Identities or OCLC numbers (<ref
+                  target="https://www.worldcat.org">https://www.worldcat.org</ref>).</p>
+            <p>Bibliographic items are identified by a unique Caesarea-Maritima.org URI, which is
+               linked, when possible, to OCLC numbers and other identifiers.</p>
+            <p>Dates have been encoded following the ISO 8601 standard, <ref
+                  target="https://www.iso.org/iso-8601-date-and-time-format.html"
+                  >https://www.iso.org/iso-8601-date-and-time-format.html</ref>, and the best
+               practices established for the Srophé App, see <ref target="http://srophe.app"
+                  >http://srophe.app</ref>.</p>
+            <p>Languages have been encoded using ISO 639-1 (<ref
+                  target="https://www.iso.org/standard/22109.html"
+                  >https://www.iso.org/standard/22109.html</ref>), 639-2 (<ref
+                  target="https://www.iso.org/standard/4767.html"
+                  >https://www.iso.org/standard/4767.html</ref>), and 639-3 (<ref
+                  target="https://www.iso.org/standard/39534.html"
+                  >https://www.iso.org/standard/39534.html</ref>) codes, following best practices of
+               the TEI guidelines, see <ref
+                  target="https://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html"
+                  >https://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html</ref>.</p>
+         </editorialDecl>
+         <!-- Static metadata -->
+         <classDecl>
+            <taxonomy xml:id="CM-Testimonia-Type">
+               <desc>
+                  <title>Caesarea-Maritima.org Testimonia Typology</title>: This typology defines
+                  three subsets of testimonia employed by the project and is used in the
+                     <gi>catRef</gi> below to further categorize a given testimonia record. </desc>
+               <category xml:id="direct">
+                  <catDesc>A "direct testimonium" contains a word or phrase that is a direct
+                     reference to, or name for, the conceptual place Caeseara Maritima or its
+                     environs in part or in whole. When a "direct testimonium" also contains
+                     indirect references, the classification by type is nevertheless marked only as
+                     "direct".</catDesc>
+               </category>
+               <category xml:id="indirect">
+                  <catDesc>An "indirect testimonium" makes only an indirect reference to the
+                     conceptual place Caeseara Maritima or its environs in part or in whole. This
+                     indirect reference may take the form of a common noun or may be implied by
+                     context.</catDesc>
+               </category>
+               <category xml:id="toponymic-epithet">
+                  <catDesc>A "toponymic testimonium" contains a toponymic epithet related to the
+                     conceptual place Caeseara Maritima or its environs. When a "direct testimonium"
+                     also contain a "toponymic testimonium", the testimonium is marked as belonging
+                     to both types. These two types do not always overlap and thus our data set also
+                     includes "toponymic testimonia" which are not "direct testimonia".</catDesc>
+               </category>
+            </taxonomy>
+            <taxonomy xml:id="CM-Language-Usage">
+               <desc>The <title>Caesarea-Maritima.org Language Usage</title> taxonomy describes how
+                  language codes applied to individual testimonia records should be interpreted.
+                  These are used in the <att>ana</att> attributes in the elements found in the
+                     <gi>langUsage</gi>.</desc>
+               <category xml:id="caesarea-language-of-original">
+                  <catDesc>The original language of a testimonia's composition, which may differ
+                     from the linguistic expression recorded in the testimonia record. For example,
+                     Severus of Antioch's Letters were originally composed in Greek but survive only
+                     in an ancient Syriac translation. The testimonia representing the Syriac
+                     version of Severus's Letters would use this category to record the original
+                     language, Greek</catDesc>
+               </category>
+               <category xml:id="caesarea-language-of-testimonia">
+                  <catDesc>The linguistic expression recorded in this particular testimonia record,
+                     which may differ from the original language of composition. For example,
+                     Severus of Antioch's Letters were originally composed in Greek but survive only
+                     in an ancient Syriac translation. The testimonia representing the Syriac
+                     version of Severus's Letters would use this category to record the language,
+                     Syriac</catDesc>
+               </category>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <abstract>
+            <p/>
+         </abstract>
+         <creation>
+            <title xml:lang="en" ref="" type="uniform" level="m">Commentary on Matthew</title>
+            <ref>16:13</ref>
+            <persName ref="" role="author">Dionysios bar Ṣalibi</persName>
+            <origDate>1144 1171</origDate>
+            <origPlace ref="https://pleiades.stoa.org/places/658474"> Caesarea
+               Germanicia</origPlace>
+         </creation>
+         <langUsage>
+            <language ana="#caesarea-language-of-testimonia" ident="syr"/>
+            <language ana="#caesarea-language-of-original" ident=""/>
+         </langUsage>
+         <textClass>
+            <classCode scheme="https://distributed-text-services.github.io/specifications">
+               <idno type="CTS-URN"/>
+            </classCode>
+            <catRef scheme="#CM-Testimonia-Type" target="#direct"/>
+            <catRef scheme="#CM-NEAEH" target="#herodian"/>
+         </textClass>
+      </profileDesc>
+      <revisionDesc status="draft">
+         <change who="dmichelson" when="">ADDED: testimonium ID, URNs, URLs to edition and
+            translation, and Bibl URIs</change>
+         <change who="dmichelson" when="">CREATED: testimonium</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="identifier">
+            <idno type="URI"/>
+         </ab>
+         <desc type="abstract"/>
+         <desc type="context">Bar Ṣalibi was one of the most prolific commentators to write in
+            Syriac. He composed commentaries on both biblical testaments as well as on Aristotle,
+            Evagrius of Pontus, and other texts. His scholarly productivity is usually seen as part
+            of what historians now call “The Syriac Renaissance of the 12-13th centuries.” In this
+            testimonium, Bar Ṣalibi is commenting on the Gospel of Matthew, chapter 16, verse 13, a
+            passage in which Jesus is questioning his disciples near the city of Caesarea Philippi.
+            Perhaps because Bar Ṣalibi was himself writing in a city also called Caesarea, he pauses
+            to attempt at clarifying the different cities named Caesarea mentioned in the New
+            Testament and elsewhere. His commentary, while muddled, draws on earlier commentaries
+            including the ninth-century commentary of Ishoʿdad of Merv.</desc>
+         <ab type="edition">ܐܬ̣ܐ ܝܫܘܥ ܠܐܬܪܐ ܕܩܣܪܝܐ ܕܦܝܠܝܦܘܣ ܃ ܠܡܥܡܪܢܗ̇ ܕܡܕܝܢܬܐ ܡܕܟܪ ܀ ܐܚܪܢܐ̈ ܂ ܗ̣ܘ
+            ܦܝܠܝܦܘܣ ܥܡ̇ܪ ܗܘ̣ܐ ܒܩܣܪܝܐ ܡܕܝܢܬܐ ܂ ܘܡܛܠ ܕܐܝܬ ܗܘ̣ܐ ܐܦ <placeName>ܩܣܪܝܐ ܕܐܣܛܪܐܛܘܢ</placeName> ܡܬܩܪܝܐ ܗܘ̣ܬ̇ ܆ ܘܠܐ
+            ܒܗ̇ܝ ܆ ܐܠܐ ܒܗܕܐ ܕܦܝܠܠܝܦܘܣ ܫ̇ܐܠ ܐܢܘܢ ܀ ܐܚܪܢܐ̈ ܂ ܗܕܐ ܠܡ ܩܣܪ ܐ <placeName>ܡܓܕܠܐ ܕܐܣܛܪܐܛܘܢ</placeName> ܡܬܩܪܝܐ ܗܘܬ̣
+            ܒܙܒܢ ܂ ܒܬܪ ܕܝܢ ܫܒܥ̈ ܫܢܝܢ̈ ܕܡܠܟܘܬܐ ܕܛܝܒܪܝܘܣ ܩܣܪ ܂ ܒܢܗ̇ ܘܐܘܪܒܗ̇ ܦܝܠܝܦܘܣ ܛܛܪܪܟܐ ܝ ܘܩܪܗ
+            ܩܣܪܝܐ܂ ܘܐܦ ܐܝܪܘܕܝܣ ܐܚܘܗܝ ܂ ܒܢ̣ܐ ܡܕܝܢܬܐ ܘܩ̣ܪܗ̇ ܥܠ ܫܡܗ ܕܛܝܒܪܝܘܣ ܛܝܒܪܝܝܐ ܂ ܐܘܣܦ ܕܝܢ ܥܠ ܗ̇ܝ
+            ܕܩܣܪܝܐ ܗ̇ܝ ܕܦܝܠܝܦܘܣ ܃ ܗ̇ ܂ ܕܬܬܦܪܫܝ ܡܢ̇ܩܣܪܝܐ ܕܩܦܕܘܩܝܐ ܂ ܘܡܢ ܢܐܘܩܣܪܝܐ ܕܒܐܪܡܢܝܐ.<note
+               xml:lang="en" type="textual"/><note xml:lang="en" type="textual"/><note xml:lang="en"
+               type="discussion"/><note xml:lang="en" type="corrigenda"/><idno type="CTS-URN"/><ref
+               target=""/></ab>
+         <ab type="translation">"And Jesus went to Caesarea Philippi." [The name of Caesarea
+            Philippi] recalls the founder of the city. Other [commentators say], he—Philip—founded
+            the city (in Caesarea) because there was already a “<placeName>Caesarea</placeName>”
+            which was called “<placeName>Stratonis</placeName>”. (And it was not in that one, but in
+            this “Philippi” in which [Jesus] questioned [the disciples]). [Still] other
+            [commentators, however, say] that “Caesarea” was called “<placeName>The Tower of
+               Strato</placeName>” in times past, but after the seventh year of the reign of the
+            emperor Tiberius Caesar, Philip the Tetrarch built and expanded it, and called it
+            “Caesarea”. And also Herod, his brother, built the city and called it by the name of
+            Tiberius, i.e. “Tiberius”. [Philip] added the “Philippi” to “Caesarea” in order that it
+            should be distinguished from Caesarea of Cappadocia and from Neo-Caesarea which is in
+            Inner Armenia.<note xml:lang="en" type="translation">Trans. Michelson, with reference to
+               J. Sedlacek</note><note xml:lang="en" type="discussion">On the one hand, Bar Ṣalibi
+               is aware of a commentary tradition which rightly understands that Caesarea Maritima
+               and Caesarea Philippi are two distinct cities in first century Palestine. On the
+               other hand, he also repeats a competing tradition that seems to conflate not only the
+               two Caesareas but a third capital of the Herodian tetrarchy as well.</note><note
+               xml:lang="en" type="corrigenda"/><idno type="CTS-URN"/><ref target=""/></ab>
+         <listBibl>
+            <head>Works Cited</head>
+            <bibl>
+               <ptr target="7DC3ZGK6"/>
+               <citedRange unit="p">377-378</citedRange>
+               <citedRange unit=""/>
+            </bibl>
+            <bibl>
+               <ptr target=""/>
+               <citedRange unit=""/>
+               <citedRange unit=""/>
+            </bibl>
+         </listBibl>
+         <listBibl>
+            <head>Additional Bibliography</head>
+            <bibl>
+               <ptr target="WUSBJNAG"/>
+               <citedRange unit=""/>
+               <citedRange unit=""/>
+            </bibl>
+            <bibl>
+               <ptr target="B9EUWM53"/>
+               <citedRange unit=""/>
+               <citedRange unit=""/>
+            </bibl>
+            <bibl>
+               <ptr target=""/>
+               <citedRange unit=""/>
+               <citedRange unit=""/>
+            </bibl>
+            <bibl>
+               <ptr target=""/>
+               <citedRange unit=""/>
+               <citedRange unit=""/>
+            </bibl>
+            <bibl>
+               <ptr target=""/>
+               <citedRange unit=""/>
+               <citedRange unit=""/>
+            </bibl>
+            <bibl>
+               <ptr target=""/>
+               <citedRange unit=""/>
+               <citedRange unit=""/>
+            </bibl>
+            <bibl>
+               <ptr target=""/>
+               <citedRange unit=""/>
+               <citedRange unit=""/>
+            </bibl>
+            <bibl>
+               <ptr target=""/>
+               <citedRange unit=""/>
+               <citedRange unit=""/>
+            </bibl>
+         </listBibl>
+         <note type="related-texts"/>
+         <note type="geography"/>
+         <note type="prosopography"/>
+         <note type="themes"/>
+      </body>
+   </text>
+</TEI>
