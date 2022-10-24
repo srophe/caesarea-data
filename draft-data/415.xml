@@ -293,7 +293,8 @@
                <citedRange unit=""/>
             </bibl>
          </listBibl>
-         <note type="related-texts">Acts 10<p>Italy</p><p>Joppa</p></note>
+         <note type="related-texts"><p>Acts 10</p></note>
+         <note type="geography"><p>Italy</p><p>Joppa</p></note>
          <note type="prosopography">
             <p>Cornelius, early Christian at Caesarea</p>
             <p>Peter the Apostle</p>
