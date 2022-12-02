@@ -300,8 +300,7 @@
         <note xml:lang="en" type="textual">Ed. Edgar 1925</note>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote407-2">
-        <anchor xml:id="testimonia-407.en.1" corresp="#testimonia-407.grc.1"/>(Amounts of) flour:<lb/>At <placeName>Stato’s Tower</placeName> artabai 5<lb/>At Jerusalem 7 |
-            At Jericho 5<lb/>At Abella 3<lb/>At Sourabit artabai 9<lb/>At Lakasa 14<lb/>At Noe 10<lb/>At
+        <anchor xml:id="testimonia-407.en.1" corresp="#testimonia-407.grc.1"/>(Amounts of) flour:<lb/>At <placeName>Stato’s Tower</placeName> artabai 5<lb/>At Jerusalem 7<lb/>At Jericho 5<lb/>At Abella 3<lb/>At Sourabit artabai 9<lb/>At Lakasa 14<lb/>At Noe 10<lb/>At
             Heitos 7<lb/>At Baitianata 14<lb/>At Kydisos 2<lb/>At Ptolemais 4<lb/>Total: 79 artabai<ab type="source" source="#bib407-2"/>
         <idno type="CTS-URN"/>
         <ref target=""/>

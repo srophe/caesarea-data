@@ -274,9 +274,9 @@
          </ab>
          <desc type="abstract" xml:id="abstract406-1">
         <quote>
-          <placeName>Στρ[άτω]ν[ος | Πύργῳ</placeName>
+          <placeName>Στρ[άτω]ν[ος<lb/>Πύργῳ</placeName>
         </quote>, and <quote>
-          <placeName>Strato’s | Tower</placeName>
+          <placeName>Strato’s<lb/>Tower</placeName>
         </quote> are directly attested at <persName ref="" role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Invocation of Isis, P.Oxy.</title> <ref n="a" target="#bib406-1">XI 1380.93-99</ref>. This passage was written ca. <origDate notBefore="0100" notAfter="0149" period="#nabateanKingdom #earlyRoman #lateRoman">100-149 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/981503">Egypt</origPlace>.</desc>
          <desc type="context">This papyrus of the early 2nd century C.E. from Oxyrhynchus in Middle
             Egypt contains a long invocation of the goddess Isis. The first part of this text is a
@@ -286,17 +286,16 @@
             worship of Isis as “Hellas” (the personification of Greece) and “the Good” at Caesarea
             Maritima, which he anachronistically called Strato’s Tower.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote406-1">
-        <anchor xml:id="testimonia-406.grc.1" corresp="#testimonia-406.en.1"/>ἐν Ῥεινοκορούλοις παντόπ̣[τιν·| ἐν Δώροις φιλίαν· ἐν
-               <placeName>Στρ[άτω]ν[ος | Πύργῳ</placeName> ᾿Ελλάδα, ἀγαθήν[·] ἐν (95)<lb/>Ἀσκάλῳ
-            κρατίστην· ἐν Σινώ<lb/>πη πολυώνυμον· ἐν Ῥαφέᾳ δυ<lb/>νάστιν· ἐν Τριπόλει ὀρθωσίαν· ἐν |
-            Γάζῃ εὐπλέαν …<ab type="source" source="#bib406-1"/>
+        <anchor xml:id="testimonia-406.grc.1" corresp="#testimonia-406.en.1"/>ἐν Ῥεινοκορούλοις παντόπ̣[τιν·<lb/>ἐν Δώροις φιλίαν· ἐν
+               <placeName>Στρ[άτω]ν[ος<lb/>Πύργῳ</placeName> ᾿Ελλάδα, ἀγαθήν[·] ἐν (95)<lb/>Ἀσκάλῳ
+            κρατίστην· ἐν Σινώ<lb/>πη πολυώνυμον· ἐν Ῥαφέᾳ δυ<lb/>νάστιν· ἐν Τριπόλει ὀρθωσίαν· ἐν<lb/>Γάζῃ εὐπλέαν …<ab type="source" source="#bib406-1"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
         <note xml:lang="en" type="textual">Ed. Grenfell and Hunt 1915</note>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote406-2">
         <anchor xml:id="testimonia-406.en.1" corresp="#testimonia-406.grc.1"/>at Rheinokourouloi, the All Seeing;<lb/>at Doroi, the Friendly; at
-               <placeName>Strato’s | Tower</placeName>, Hellas, the Good; at (95)<lb/>Askalon, the
+               <placeName>Strato’s<lb/>Tower</placeName>, Hellas, the Good; at (95)<lb/>Askalon, the
             Strongest; at<lb/>Sinope, the Many-Named at Rhafea,<lb/>the Powerful; at Tripolis, the
             Upright; at<lb/>Gaze, the Smooth-Sailing …<note xml:lang="en" type="translation">Trans. J. L.
                Rife</note>
