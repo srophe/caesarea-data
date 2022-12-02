@@ -313,22 +313,22 @@
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib340-1">
-          <ptr target="https://caesarea-maritima.org/testimonia/48ZUTZTI/"/>
+          <ptr target="https://caesarea-maritima.org/bibl/48ZUTZTI"/>
           <citedRange unit="section">2.9.1-5</citedRange>
         </bibl>
         <bibl xml:id="bib340-2">
-          <ptr target="https://caesarea-maritima.org/testimonia/ZKWVT3EK/"/>
+          <ptr target="https://caesarea-maritima.org/bibl/ZKWVT3EK"/>
           <citedRange unit="p">112</citedRange>
         </bibl>
       </listBibl>
       <listBibl>
         <head>Additional Bibliography</head>
         <bibl>
-          <ptr target="https://caesarea-maritima.org/testimonia/YMSN6NC9/"/>
+          <ptr target="https://caesarea-maritima.org/bibl/YMSN6NC9"/>
           <citedRange unit="section">2.9.1-5</citedRange>
         </bibl>
         <bibl>
-          <ptr target="https://caesarea-maritima.org/testimonia/K6BV8Z5T/"/>
+          <ptr target="https://caesarea-maritima.org/bibl/K6BV8Z5T"/>
           <citedRange unit="p">2.38-2.41</citedRange>
         </bibl>
       </listBibl>
