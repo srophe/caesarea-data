@@ -1,6 +1,4 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -251,7 +249,7 @@
         <p/>
       </abstract>
       <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:latinLit:phi0978.phi001" type="uniform" level="m">Natural History</title>
-        <ref n="a" target="#bib43-1">5.14.68-69</ref> written by <persName ref="http://viaf.org/viaf/100219162" role="author">Pliny the Elder</persName> in <origDate period="#nabateanKingdom #earlyRoman" when="0077">0070 0077</origDate>. This work was
+        <ref n="a" target="#bib43-1">5.14.68-69</ref> written by <persName ref="http://viaf.org/viaf/100219162" role="author">Pliny the Elder</persName> in <origDate notBefore="0070" notAfter="0077" period="#nabateanKingdom #earlyRoman #herodian">70-77 CE</origDate>. This work was
         likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</creation>
       <langUsage>
         <language ident="la">Latin</language>

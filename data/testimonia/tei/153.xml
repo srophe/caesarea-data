@@ -1,6 +1,4 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -247,7 +245,7 @@
             <p/>
          </abstract>
          <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Medicine Cabinet, or Against Heresies</title>
-            <ref n="a" target="#bib153-1">69.4.3-5</ref> written by <persName ref="http://viaf.org/viaf/13651211" role="author">Epiphanius</persName> in <origDate notBefore="0374" notAfter="0377" period="#byzantine">0374 0377</origDate>. This work
+            <ref n="a" target="#bib153-1">69.4.3-5</ref> written by <persName ref="http://viaf.org/viaf/13651211" role="author">Epiphanius</persName> in <origDate notBefore="0374" notAfter="0377" period="#byzantine">374-377 CE</origDate>. This work
             was likely written in <origPlace ref="https://pleiades.stoa.org/places/707617">Cypriot
                Salamis</origPlace>.</creation>
          <langUsage>

@@ -1,6 +1,4 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -248,7 +246,7 @@
         <p/>
       </abstract>
       <creation>This entry is taken from <title xml:lang="en" type="uniform" level="m">Letters</title>
-        <ref n="a" target="#bib48-1">11</ref> written by <persName ref="http://viaf.org/viaf/25393339 " role="author">Apollonius of Tyana</persName> in <origDate period="#nabateanKingdom #earlyRoman #herodian #middleNabatean" notBefore="0004" notAfter="0097">0045 0090</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/837">Asia Minor</origPlace>.</creation>
+        <ref n="a" target="#bib48-1">11</ref> written by <persName ref="http://viaf.org/viaf/25393339 " role="author">Apollonius of Tyana</persName> in <origDate notBefore="0045" notAfter="0090" period="#nabateanKingdom #earlyRoman #herodian #middleNabatean">45-90 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/837">Asia Minor</origPlace>.</creation>
       <langUsage>
         <language ident="grc">Ancient Greek</language>
       </langUsage>

@@ -1,6 +1,4 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -246,7 +244,7 @@
         <p/>
       </abstract>
       <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Circumnavigation of the Inhabited World</title>
-        <ref n="a" target="#bib222-1">104</ref> written by <persName role="author" ref="http://viaf.org/viaf/291988135">Pseudo-Scylax</persName> in <origDate notBefore="0338" notAfter="0337" period="#byzantine">0338 0337</origDate>. This work was
+        <ref n="a" target="#bib222-1">104</ref> written by <persName role="author" ref="http://viaf.org/viaf/291988135">Pseudo-Scylax</persName> in <origDate notBefore="0338" notAfter="0337" period="#byzantine">338-337 CE</origDate>. This work was
         likely written in <origPlace ref="https://pleiades.stoa.org/places/579885">Athens</origPlace>.</creation>
       <langUsage>
         <language ident="grc">Ancient Greek</language>
