@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -266,7 +268,12 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/298</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract298-1"><quote><placeName>Καισάρεια</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/306432747" role="author">John Phocas</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Short Description of the Holy
+      <desc type="abstract" xml:id="abstract298-1">
+        <quote>
+          <placeName>Καισάρεια</placeName>
+        </quote>, and <quote>
+          <placeName>Caesarea</placeName>
+        </quote> are directly attested at <persName ref="http://viaf.org/viaf/306432747" role="author">John Phocas</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Short Description of the Holy
                Places</title> <ref n="a" target="#bib298-1">30</ref>. This passage was written ca. <origDate notBefore="1175" notAfter="1195" period="#crusader">1175-1195 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
       <desc type="context">John Phocas wrote an account of his pilgrimage to the Holy Land during
             the last quarter of the 12th century. He was an educated priest probably from the

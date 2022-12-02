@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -345,8 +347,19 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/417</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract417-1"><quote><placeName>ܩܣܪܝܐ ܕܐܣܛܪܐܛܘܢ</placeName></quote>, <quote><placeName>ܡܓܕܠܐ ܕܐܣܛܪܐܛܘܢ</placeName></quote>, <quote><placeName>Caesarea</placeName></quote>, <quote><placeName>Stratonis</placeName></quote>, and <quote><placeName>The Tower of
-               Strato</placeName></quote> are directly attested at <persName ref="" role="author">Dionysios bar Ṣalibi</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Commentary on Matthew</title> <ref n="a" target="#bib417-1">16:13</ref>. This passage was written ca. <origDate notBefore="1144" notAfter="1171" period="#crusader">1144-1171 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/658474"> Caesarea
+         <desc type="abstract" xml:id="abstract417-1">
+        <quote>
+          <placeName>ܩܣܪܝܐ ܕܐܣܛܪܐܛܘܢ</placeName>
+        </quote>, <quote>
+          <placeName>ܡܓܕܠܐ ܕܐܣܛܪܐܛܘܢ</placeName>
+        </quote>, <quote>
+          <placeName>Caesarea</placeName>
+        </quote>, <quote>
+          <placeName>Stratonis</placeName>
+        </quote>, and <quote>
+          <placeName>The Tower of
+               Strato</placeName>
+        </quote> are directly attested at <persName ref="" role="author">Dionysios bar Ṣalibi</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Commentary on Matthew</title> <ref n="a" target="#bib417-1">16:13</ref>. This passage was written ca. <origDate notBefore="1144" notAfter="1171" period="#crusader">1144-1171 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/658474"> Caesarea
                Germanicia</origPlace>.</desc>
          <desc type="context">Bar Ṣalibi was one of the most prolific commentators to write in
             Syriac. He composed commentaries on both biblical testaments as well as on Aristotle,

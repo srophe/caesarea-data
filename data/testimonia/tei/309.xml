@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -266,7 +268,12 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/309</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract309-1"><quote><placeName>Caesaream vero Palestinae</placeName></quote>, and <quote><placeName>Caesarea Palestinae</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/90775767">Peter the Deacon</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Holy Places</title> <ref n="a" target="#bib309-1">5.1</ref>. This passage was written ca. <origDate notBefore="1131" notAfter="1160" period="#crusader">1131-1160 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/65661952">Monte Cassino</origPlace>.</desc>
+         <desc type="abstract" xml:id="abstract309-1">
+        <quote>
+          <placeName>Caesaream vero Palestinae</placeName>
+        </quote>, and <quote>
+          <placeName>Caesarea Palestinae</placeName>
+        </quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/90775767">Peter the Deacon</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Holy Places</title> <ref n="a" target="#bib309-1">5.1</ref>. This passage was written ca. <origDate notBefore="1131" notAfter="1160" period="#crusader">1131-1160 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/65661952">Monte Cassino</origPlace>.</desc>
          <desc type="context">Peter the Deacon, a native of Latium, served as librarian of the great
             archives at the Monastery of Monte Cassino from 1131 probably until his death around the
             1160s. He wrote several works in Latin, many on the history of Monte Cassino and

@@ -1,9 +1,10 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="en" level="a">Eusebius of Caesarea, <title level="m">Ecclesiastical
-            History</title> 5.23.3</title>
+        <title xml:lang="en" level="a">Eusebius of Caesarea, <title level="m">Ecclesiastical History</title> 5.23.3</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
         <sponsor>Vanderbilt University</sponsor>
         <principal>Joseph L. Rife</principal>
@@ -309,7 +310,12 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/98</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract98-1"><quote><placeName xml:lang="grc">Καισαρείᾳ</placeName></quote>, and <quote><placeName xml:lang="en">the diocese of Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Ecclesiastical History</title> <ref n="f" target="#bib98-1">5.23.3</ref>. This passage was written ca. <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract98-1">
+        <quote>
+          <placeName xml:lang="grc">Καισαρείᾳ</placeName>
+        </quote>, and <quote>
+          <placeName xml:lang="en">the diocese of Caesarea</placeName>
+        </quote> are directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Ecclesiastical History</title> <ref n="f" target="#bib98-1">5.23.3</ref>. This passage was written ca. <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote98-1">
         <anchor xml:id="testimonia-98.grc.1" corresp="#testimonia-98.en.1"/>φέρεται δ᾿ εἰσέτι νῦν τῶν
         κατὰ Παλαιστίνην τηνικάδε συγκεκροτημένων γραφὴ, ὧν προυτέτακτο Θεόφιλος τῆς ἐν <placeName xml:lang="grc">Καισαρείᾳ</placeName> παροικίας ἐπίσκοπος καὶ Νάρκισσος τῆς ἐν

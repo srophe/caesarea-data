@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -266,7 +268,16 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/299</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract299-1"><quote><placeName>Caesareae</placeName></quote>, <quote><placeName>Turris Stratonis</placeName></quote>, <quote><placeName>Caesarea</placeName></quote>, and <quote><placeName>Strato’s Tower</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/309472433">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Letters</title> <ref n="g" target="#bib299-1">119.6</ref>. This passage was written ca. <origDate notBefore="0391" notAfter="0421" period="#byzantine">ca. 406 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract299-1">
+        <quote>
+          <placeName>Caesareae</placeName>
+        </quote>, <quote>
+          <placeName>Turris Stratonis</placeName>
+        </quote>, <quote>
+          <placeName>Caesarea</placeName>
+        </quote>, and <quote>
+          <placeName>Strato’s Tower</placeName>
+        </quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/309472433">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Letters</title> <ref n="g" target="#bib299-1">119.6</ref>. This passage was written ca. <origDate notBefore="0391" notAfter="0421" period="#byzantine">ca. 406 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</desc>
       <desc type="context">Among the voluminous correspondence of St. Jerome is this letter, which
         he wrote to Minervius and Alexander, two monks in Toulouse (Roman
         <foreign>Tolosa</foreign>). They had asked him to analyze several scriptural passages and he

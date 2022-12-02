@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -270,7 +272,12 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/406</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract406-1"><quote><placeName>Στρ[άτω]ν[ος | Πύργῳ</placeName></quote>, and <quote><placeName>Strato’s | Tower</placeName></quote> are directly attested at <persName ref="" role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Invocation of Isis, P.Oxy.</title> <ref n="a" target="#bib406-1">XI 1380.93-99</ref>. This passage was written ca. <origDate notBefore="0100" notAfter="0149" period="#nabateanKingdom #earlyRoman #lateRoman">100-149 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/981503">Egypt</origPlace>.</desc>
+         <desc type="abstract" xml:id="abstract406-1">
+        <quote>
+          <placeName>Στρ[άτω]ν[ος | Πύργῳ</placeName>
+        </quote>, and <quote>
+          <placeName>Strato’s | Tower</placeName>
+        </quote> are directly attested at <persName ref="" role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Invocation of Isis, P.Oxy.</title> <ref n="a" target="#bib406-1">XI 1380.93-99</ref>. This passage was written ca. <origDate notBefore="0100" notAfter="0149" period="#nabateanKingdom #earlyRoman #lateRoman">100-149 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/981503">Egypt</origPlace>.</desc>
          <desc type="context">This papyrus of the early 2nd century C.E. from Oxyrhynchus in Middle
             Egypt contains a long invocation of the goddess Isis. The first part of this text is a
             litany in which the author called upon the deity with her many epithets by town or

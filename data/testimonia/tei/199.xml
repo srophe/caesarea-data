@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -268,7 +270,12 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/199</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract199-1"><quote><placeName xml:lang="grc">Καισάρειαν</placeName></quote>, and <quote><placeName xml:lang="en">Cæsarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg003" type="uniform" level="m">Martyrs of Palestine</title> <ref n="y" target="#bib199-1">11.31</ref>. This passage was written ca. <origDate period="#lateRoman" notBefore="0315" notAfter="0316">315 – 316 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract199-1">
+        <quote>
+          <placeName xml:lang="grc">Καισάρειαν</placeName>
+        </quote>, and <quote>
+          <placeName xml:lang="en">Cæsarea</placeName>
+        </quote> are directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg003" type="uniform" level="m">Martyrs of Palestine</title> <ref n="y" target="#bib199-1">11.31</ref>. This passage was written ca. <origDate period="#lateRoman" notBefore="0315" notAfter="0316">315 – 316 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote199-1">
         <anchor xml:id="testimonia-199.grc.1" corresp="#testimonia-199.en.1"/>μνημονεῦσαι δ’ ἔτι ἄξιον ἐνταῦθα τοῦ λόγου ὡς ἄρα οὐκ εἰς μακρὸν τῆς οὐρανίου προνοίας τοὺς δυσσεβεῖς ἄρχοντας αὐτοῖς τυράννοις μετελθούσης. ὁ γὰρ τὰ τοσαῦτα κατὰ τῶν τοῦ Χριστοῦ μαρτύρων παροινήσας, αὐτὸς δὴ ὁ Φιρμιλλιανὸς, μετὰ τῶν ἄλλων ἐσχάτην ὑπομείνας τιμωρίαν ξίφει τὴν ζωὴν καταστρέφει. καὶ τὰ μὲν κατὰ <placeName xml:lang="grc">Καισάρειαν</placeName> ἐφ’ ὅλοις τοῖς τοῦ διωγμοῦ χρόνοις ἐπιτελεσθέντα μαρτύρια τοιαῦτα.<ab type="source" source="#bib199-1"/>
         <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg003.1st1K-grc1:11.31</idno>

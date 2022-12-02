@@ -1,8 +1,10 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="en" level="a">Apollonius of Tyana, <title level="m">Epistles</title> 11</title>
+        <title xml:lang="en" level="a">Apollonius of Tyana, <title level="m">Letters</title> 11</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
         <sponsor>Vanderbilt University</sponsor>
         <principal>Joseph L. Rife</principal>
@@ -269,7 +271,9 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/48</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract48-1">and <quote><placeName>Caesarea</placeName></quote> is directly attested at <persName ref="http://viaf.org/viaf/25393339 " role="author">Apollonius of Tyana</persName>, <title xml:lang="en" type="uniform" level="m">Letters</title> <ref n="a" target="#bib48-1">11</ref>. This passage was written ca. <origDate period="#nabateanKingdom #earlyRoman #herodian #middleNabatean" notBefore="0004" notAfter="0097">0045 0090</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/837">Asia Minor</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract48-1">and <quote>
+          <placeName>Caesarea</placeName>
+        </quote> is directly attested at <persName ref="http://viaf.org/viaf/25393339 " role="author">Apollonius of Tyana</persName>, <title xml:lang="en" type="uniform" level="m">Letters</title> <ref n="a" target="#bib48-1">11</ref>. This passage was written ca. <origDate period="#nabateanKingdom #earlyRoman #herodian #middleNabatean" notBefore="0004" notAfter="0097">0045 0090</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/837">Asia Minor</origPlace>.</desc>
       <desc type="context">[Ἀπολλώνιος] <placeName>Καισαρέων</placeName> προβούλοις. Πρῶτον εἰς
         πάντα θεῶν ἄνθρωποι δέονται καὶ περὶ παντός, ἔπειτα πόλεων, τιμητέον γὰρ δεύτερον πόλεις
         μετὰ θεοὺς καὶ τὰ πόλεως προκριτέον παντὶ νοῦν ἔχοντι. εἰ δὲ μὴ πόλις μόνον εἴη, ἀλλὰ καὶ

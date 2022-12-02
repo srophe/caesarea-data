@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -268,7 +270,14 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/179</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract179-1"><quote><placeName>Cezaire</placeName></quote>, <quote><placeName>Sezaire</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Ways and Pilgrimages of the Holy
+         <desc type="abstract" xml:id="abstract179-1">
+        <quote>
+          <placeName>Cezaire</placeName>
+        </quote>, <quote>
+          <placeName>Sezaire</placeName>
+        </quote>, and <quote>
+          <placeName>Caesarea</placeName>
+        </quote> are directly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Ways and Pilgrimages of the Holy
                Land A</title> <ref n="a" target="#bib179-1">1.1-1.3</ref>. This passage was written ca. <origDate notBefore="1261" notAfter="1265" period="#crusader">1261-1265 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/1001939">Palestine</origPlace>.</desc>
          <desc type="context">Two versions of <title>Ways and Pilgrimages of the Holy Land</title>
             (A and B) survive from the middle of the 13th century, both of which show a close

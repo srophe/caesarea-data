@@ -1,8 +1,11 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="en" level="a">Socrates Scholasticus , <title level="m">Ecclesiastical History</title> 2.4</title>
+        <title xml:lang="en" level="a">Socrates of Constantinople, <title level="m">Church
+          History</title> 2.4</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
         <sponsor>Vanderbilt University</sponsor>
         <principal>Joseph L. Rife</principal>
@@ -275,7 +278,12 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/150</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract150-1"><quote><placeName>Παλαιστίνῃ Καισαρείας</placeName></quote>, and <quote><placeName>Caesarea in Palestine</placeName></quote> are directly attested at <persName ref="https://viaf.org/viaf/55571017" role="author">Socrates of Constantinople</persName>, <title xml:lang="en" type="uniform" level="m">Church
+      <desc type="abstract" xml:id="abstract150-1">
+        <quote>
+          <placeName>Παλαιστίνῃ Καισαρείας</placeName>
+        </quote>, and <quote>
+          <placeName>Caesarea in Palestine</placeName>
+        </quote> are directly attested at <persName ref="https://viaf.org/viaf/55571017" role="author">Socrates of Constantinople</persName>, <title xml:lang="en" type="uniform" level="m">Church
           History</title> <ref n="a" target="#bib150-1">2.4</ref>. This passage was written ca. <origDate period="#byzantine" when="0439">0439 0450</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
       <desc type="context">Socrates of Constantinople, the “Scholastic,” was an otherwise unknown
         historian during the reign of Theodosius II during the early 5th century. He wrote his

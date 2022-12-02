@@ -1,8 +1,11 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="en" level="a">Socrates Scholasticus , <title level="m">Ecclesiastical History</title> 2.9.1-5</title>
+        <title xml:lang="en" level="a">Socrates of Constantinople, <title level="m">Church
+          History</title> 2.9.1-5</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
         <sponsor>Vanderbilt University</sponsor>
         <principal>Joseph L. Rife</principal>
@@ -263,7 +266,12 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/340</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract340-1"><quote><placeName>Καισαρείᾳ</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="https://viaf.org/viaf/55571017" role="author">Socrates of Constantinople</persName>, <title xml:lang="en" type="uniform" level="m">Church
+      <desc type="abstract" xml:id="abstract340-1">
+        <quote>
+          <placeName>Καισαρείᾳ</placeName>
+        </quote>, and <quote>
+          <placeName>Caesarea</placeName>
+        </quote> are directly attested at <persName ref="https://viaf.org/viaf/55571017" role="author">Socrates of Constantinople</persName>, <title xml:lang="en" type="uniform" level="m">Church
           History</title> <ref n="b" target="#bib340-1">2.9.1-5</ref>. This passage was written ca. <origDate period="#byzantine" when="0439">439 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
       <desc type="context">Socrates of Constantinople, the “Scholastic,” was an otherwise unknown
         historian during the reign of Theodosius II during the early 5th century. He wrote his
@@ -284,7 +292,8 @@
         (4) Μετὰ ταῦτα δὲ ἐπιδημήσαντος αὐτοῦ τῇ Ἀντιοχείᾳ, ἐπεὶ συνέβη Εὐστάθιον ὑπὸ Κύρου
         κατηγορηθέντα τοῦ Βεροιέως καθαιρεθῆναι ὡς σαβελλίζοντα, (5) εἶτ’ αὖθις τὸν Εὐσέβιον
         συνεῖναι Εὐφρονίῳ τῷ διαδεξαμένῳ Εὐστάθιον, φεύγοντά τε τὴν ἱερωσύνην καταλαβεῖν τὴν
-        Ἀλεξάνδρειαν κἀκεῖ μαθεῖν τὰ φιλόσοφα.<ab type="source" source="#bib340-1"/><note xml:lang="en" type="textual">Ed. Hussey and Bright 1893</note>
+        Ἀλεξάνδρειαν κἀκεῖ μαθεῖν τὰ φιλόσοφα.<ab type="source" source="#bib340-1"/>
+        <note xml:lang="en" type="textual">Ed. Hussey and Bright 1893</note>
         <note xml:lang="en" type="corrigenda">Minor corr. with ref. to Hansen 1995 [cited by
           book-chapter-section]</note>
         <idno type="CTS-URN"/>
@@ -303,7 +312,8 @@
         Afterwards, when he lived in Antioch, it happened that Eustathius, bishop of Alexandria, was
         deposed on the accusation of Cyrus of Beroea for holding the tenets of Sabellius. (5) Then
         again Eusebius associated with Euphronius, successor of Eustathius, and avoiding office in
-        the Church returned to Alexandria, and there studied philosophy.<ab type="source" source="#bib340-2"/><note xml:lang="en" type="translation">Adapted from Zenos 1890 with ref. to Périchon and Maraval 2005</note>
+        the Church returned to Alexandria, and there studied philosophy.<ab type="source" source="#bib340-2"/>
+        <note xml:lang="en" type="translation">Adapted from Zenos 1890 with ref. to Périchon and Maraval 2005</note>
         <idno type="CTS-URN"/>
         <ref/>
       </ab>

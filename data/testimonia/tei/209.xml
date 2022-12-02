@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -271,7 +273,14 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/209</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract209-1"><quote><placeName>Caesaream Palestinam</placeName></quote>, <quote><placeName>Caesarea</placeName></quote>, and <quote><placeName>Caesarea of Palestine</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/89288448 ">Ludolf von
+         <desc type="abstract" xml:id="abstract209-1">
+        <quote>
+          <placeName>Caesaream Palestinam</placeName>
+        </quote>, <quote>
+          <placeName>Caesarea</placeName>
+        </quote>, and <quote>
+          <placeName>Caesarea of Palestine</placeName>
+        </quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/89288448 ">Ludolf von
                Sudheim<ptr/>
         </persName>, <title xml:lang="en" ref="" type="uniform" level="m">Journey in the Holy Land <hi rend="italic">Book of Pilgrimage </hi>
         </title> <ref n="a" target="#bib209-1">28</ref>. This passage was written ca. <origDate notBefore="1336" notAfter="1345" period="#lateIslamic">1336-1345 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>

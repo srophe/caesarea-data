@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -264,7 +266,16 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/251</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract251-1"><quote><placeName>Cesarea Palestine</placeName></quote>, <quote><placeName>Turris Stratonis</placeName></quote>, <quote><placeName>Caesarea Palestinae</placeName></quote>, and <quote><placeName>Strato’s Tower</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/7379102">Dietrich</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Booklet on Holy Places</title> <ref n="a" target="#bib251-1">1298-1301</ref>. This passage was written ca. <origDate notBefore="1170" notAfter="1173" period="#crusader">1170-1173 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract251-1">
+        <quote>
+          <placeName>Cesarea Palestine</placeName>
+        </quote>, <quote>
+          <placeName>Turris Stratonis</placeName>
+        </quote>, <quote>
+          <placeName>Caesarea Palestinae</placeName>
+        </quote>, and <quote>
+          <placeName>Strato’s Tower</placeName>
+        </quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/7379102">Dietrich</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Booklet on Holy Places</title> <ref n="a" target="#bib251-1">1298-1301</ref>. This passage was written ca. <origDate notBefore="1170" notAfter="1173" period="#crusader">1170-1173 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
       <desc type="context">Dietrich (Theodericus) was a German priest of the 12th century who
             travelled to the Holy Land under the Kingdom of Jerusalem. His account survives in only
             two manuscripts of the 15th century that derive from a common ancestor: Österreichische
