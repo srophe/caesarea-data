@@ -1,6 +1,4 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -267,14 +265,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/269</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract269-1">
-        <quote>
-          <placeName>Cesariensem</placeName>
-        </quote>, <quote>
-          <placeName>Cesariensis</placeName>
-        </quote>, and <quote>
-          <placeName>Caesarea</placeName>
-        </quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/24957020 ">Thietmar</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Book of Pilgrimage</title> <ref n="b" target="#bib269-1">29.11-21</ref>. This passage was written ca. <origDate notBefore="1217" notAfter="1218" period="#crusader">1217-1218 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract269-1"><quote><placeName>Cesariensem</placeName></quote>, <quote><placeName>Cesariensis</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/24957020 ">Thietmar</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Book of Pilgrimage</title> <ref n="b" target="#bib269-1">29.11-21</ref>. This passage was written ca. <origDate notBefore="1217" notAfter="1218" period="#crusader">1217-1218 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
       <desc type="context">Thietmar was a German Christian, perhaps a learned cleric from
         Westphalia. He undertook two pilgrimages from Acre during the course of the Fifth Crusade,
         one eastward to the Monastery of Mary at Saydnaya in southwestern Syria in 1217 and one

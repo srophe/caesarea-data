@@ -273,14 +273,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/43</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract43-1">
-        <quote>
-          <placeName>Stratonis Turris</placeName>
-        </quote>, <quote>
-          <placeName>Caesarea</placeName>
-        </quote>, and <quote>
-          <placeName>Strato’s Tower</placeName>
-        </quote> are directly attested at <persName ref="http://viaf.org/viaf/100219162" role="author">Pliny the Elder</persName>, <title xml:lang="en" ref="urn:cts:latinLit:phi0978.phi001" type="uniform" level="m">Natural History</title> <ref n="a" target="#bib43-1">5.14.68-69</ref>. This passage was written ca. <origDate period="#nabateanKingdom #earlyRoman" when="0077">0070 0077</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract43-1"><quote><placeName>Stratonis Turris</placeName></quote>, <quote><placeName>Caesarea</placeName></quote>, and <quote><placeName>Strato’s Tower</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/100219162" role="author">Pliny the Elder</persName>, <title xml:lang="en" ref="urn:cts:latinLit:phi0978.phi001" type="uniform" level="m">Natural History</title> <ref n="a" target="#bib43-1">5.14.68-69</ref>. This passage was written ca. <origDate notBefore="0070" notAfter="0077" period="#nabateanKingdom #earlyRoman #herodian">70-77 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
       <desc type="context">Gaius Plinius Secundus, or Pliny the Elder, from a family of the
         equestian class in northern Italy, was a luminary in the fields of natural history and
         philosophy. Later in life, as a close associate of Vespasian, he served several

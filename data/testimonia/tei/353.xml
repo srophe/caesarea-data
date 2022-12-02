@@ -1,6 +1,4 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -272,12 +270,7 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/353</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract353-1">
-        <quote>
-          <placeName>Καισαρείᾳ</placeName>
-        </quote>, and <quote>
-          <placeName>Caesarea</placeName>
-        </quote> are directly attested at <persName ref="http://viaf.org/viaf/39386582" role="author">George Syncellus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Chronographic Selection</title> <ref n="e" target="#bib353-1">627.17-628.8</ref>. This passage was written ca. <origDate notBefore="0808" notAfter="0815" period="#earlyIslamic">808-815 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+         <desc type="abstract" xml:id="abstract353-1"><quote><placeName>Καισαρείᾳ</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/39386582" role="author">George Syncellus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Chronographic Selection</title> <ref n="e" target="#bib353-1">627.17-628.8</ref>. This passage was written ca. <origDate notBefore="0808" notAfter="0815" period="#earlyIslamic">808-815 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
          <desc type="context">George Syncellus (“cellmate”), whose career spanned the late 8th to
             very early 9th centuries, was a Palestinian monk before his appointment as the assistant
             to Tarasius, Patriarch of Contantinople. Apparently facing hostility from the emperor

@@ -1,6 +1,4 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -268,12 +266,7 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/322</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract322-1">
-        <quote>
-          <placeName>Καισαρείας</placeName>
-        </quote>, and <quote>
-          <placeName>Caesarea</placeName>
-        </quote> are directly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Suda</title> <ref n="h" target="#bib322-1">ω 182.619.14-24</ref>. This passage was written ca. <origDate notBefore="0976" notAfter="0990" period="#earlyIslamic">976-990 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+         <desc type="abstract" xml:id="abstract322-1"><quote><placeName>Καισαρείας</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Suda</title> <ref n="h" target="#bib322-1">ω 182.619.14-24</ref>. This passage was written ca. <origDate notBefore="0976" notAfter="0990" period="#earlyIslamic">976-990 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
          <desc type="context">The <title>Suda</title> (“Stronghold”) is an encyclopedic lexicon
             written by an unknown scholar during the late 10th century. It compiles copious
             information in alphabetical entries for use by the learned philologist, in particular on

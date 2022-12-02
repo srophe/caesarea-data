@@ -1,6 +1,4 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -275,12 +273,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/116</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract116-1">
-        <quote>
-          <placeName xml:lang="grc">Καισαρείας</placeName>
-        </quote>, and <quote>
-          <placeName xml:lang="en">Caesarea</placeName>
-        </quote> are directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>, <title ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Historia ecclesiastica</title> <ref n="e" target="#bib116-1">7.28.1</ref>. This passage was written ca. <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract116-1"><quote><placeName xml:lang="grc">Καισαρείας</placeName></quote>, and <quote><placeName xml:lang="en">Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>, <title ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Historia ecclesiastica</title> <ref n="e" target="#bib116-1">7.28.1</ref>. This passage was written ca. <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote116-1">
         <anchor xml:id="testimonia-116.grc.1" corresp="#testimonia-116.en.1"/>Τούτων οἳ μάλιστα διέπρεπον, Φιρμιλλιανὸς μὲν τῆς Καππαδοκῶν Καισαρείας ἐπίσκοπος ἦν, Γρηγόριος δὲ καὶ Ἀθηνόδωρος ἀδελφοὶ, τῶν κατὰ Πόντον παροικιῶν ποιμένες, καὶ ἐπὶ τούτοις Ἕλενος τῆς ἐν Ταρσῷ παροικίας, καὶ Νικομᾶς τῆς ἐν Ἰκονίῳ· οὐ μὴν ἀλλὰ καὶ τῆς ἐν Ἱεροσολύμοις ἐκκλησίας Ὑμέναιος, τῆς τε ὁμόρου ταύτης <placeName xml:lang="grc">Καισαρείας</placeName> Θεότεκνος, Μάξιμος ἔτι πρὸς τούτοις· τῶν κατὰ Βόστραν δὲ καὶ οὗτος ἀδελφῶν διαπρεπῶς ἡγεῖτο· μυρίους τε ἄλλους οὐκ ἂν ἀπορήσαι τις ἅμα πρεσβυτέροις καὶ διακόνοις τῆς αὐτῆς ἕνεκεν αἰτίας ἐν τῇ προειρημένῃ πόλει τηνικάδε συγκροτηθέντας ἀπαριθμούμενος, ἀλλὰ τούτων γε οἱ μάλιστα ἐπιφανεῖς οἵδε ἦσαν.<ab type="source" source="#bib116-1"/>
         <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg002.1st1K-grc2:7.28.1</idno>

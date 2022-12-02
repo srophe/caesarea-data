@@ -1,6 +1,4 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -274,13 +272,8 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/412</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract412-1">
-        <quote>
-          <placeName>Και-<lb/>[σ]α̣ρε[ίᾳ τῆς Στρ]άτω-<lb/>[νο]ς̣</placeName>
-        </quote>, and <quote>
-          <placeName>Straton’s
-               Caesarea</placeName>
-        </quote> are directly attested at <persName ref="" role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Honors for a Musician,
+         <desc type="abstract" xml:id="abstract412-1"><quote><placeName>Και-<lb/>[σ]α̣ρε[ίᾳ τῆς Στρ]άτω-<lb/>[νο]ς̣</placeName></quote>, and <quote><placeName>Straton’s
+               Caesarea</placeName></quote> are directly attested at <persName ref="" role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Honors for a Musician,
                IAph2007</title> <ref n="a" target="#bib412-1">1.182</ref>. This passage was written ca. <origDate notBefore="0200" notAfter="0249" period="#lateRoman">200-249 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/638753">Aphrodisias</origPlace>.</desc>
          <desc type="context">This text was inscribed on two adjacent faces (a, b) of a white marble
             statue-base with molded panels and probably a cornice, found in the area of the

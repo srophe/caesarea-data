@@ -1,6 +1,4 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -268,17 +266,8 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/300</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract300-1">
-        <quote>
-          <placeName>Cesaream Palestinam</placeName>
-        </quote>, <quote>
-          <placeName>Cesarea</placeName>
-        </quote>, <quote>
-          <placeName>Caesarea
-               Palestina</placeName>
-        </quote>, and <quote>
-          <placeName>Caesarea</placeName>
-        </quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/210752672 ">Saewulf</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Pilgrimage to Jerusalem and the
+      <desc type="abstract" xml:id="abstract300-1"><quote><placeName>Cesaream Palestinam</placeName></quote>, <quote><placeName>Cesarea</placeName></quote>, <quote><placeName>Caesarea
+               Palestina</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/210752672 ">Saewulf</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Pilgrimage to Jerusalem and the
                Holy Land</title> <ref n="a" target="#bib300-1">501-506</ref>. This passage was written ca. <origDate notBefore="1102" notAfter="1103" period="#crusader">1102-1103 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
       <desc type="context">Saewulf was a English pilgrim to the Holy Land after the conquest of
             Jerusalen by the First Crusade in 1099. This pilgrim may be the same person as Saewulf

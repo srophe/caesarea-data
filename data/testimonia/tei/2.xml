@@ -1,6 +1,4 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -274,16 +272,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/2</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract2-1">
-        <quote>
-          <placeName>Στράτωνος πύργον</placeName>
-        </quote>, <quote>
-          <placeName>Καισάρεια</placeName>
-        </quote>, <quote>
-          <placeName>Strato's Tower</placeName>
-        </quote>, and <quote>
-          <placeName>Caesarea</placeName>
-        </quote> are directly attested at <persName ref="http://viaf.org/viaf/22143666" role="author">Josephus</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg001" type="uniform" level="m">Antiquities of the Jews</title> <ref n="c" target="#bib2-1">14.76</ref>. This passage was written ca. <origDate period="#nabateanKingdom #earlyRoman" notBefore="0093" notAfter="0094">93 – 94 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract2-1"><quote><placeName>Στράτωνος πύργον</placeName></quote>, <quote><placeName>Καισάρεια</placeName></quote>, <quote><placeName>Strato's Tower</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/22143666" role="author">Josephus</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg001" type="uniform" level="m">Antiquities of the Jews</title> <ref n="c" target="#bib2-1">14.76</ref>. This passage was written ca. <origDate period="#nabateanKingdom #earlyRoman" notBefore="0093" notAfter="0094">93 – 94 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote2-1">
         <anchor xml:id="testimonia-2.grc.1" corresp="#testimonia-2.en.1"/>
         καὶ ταύτας μὲν ἐν τῇ μεσογείῳ χωρὶς τῶν κατεσκαμμένων, Γάζαν δὲ πρὸς τῇ θαλάττῃ καὶ Ἰόππην καὶ Δῶρα καὶ <placeName>Στράτωνος πύργον</placeName>, ἣ κτίσαντος αὐτὴν Ἡρώδου μεγαλοπρεπῶς καὶ λιμέσιν τε καὶ ναοῖς κοσμήσαντος, <placeName>Καισάρεια</placeName> μετωνομάσθη, πάσας ὁ Πομπήιος ἀφῆκεν ἐλευθέρας καὶ προσένειμεν τῇ ἐπαρχίᾳ.<ab type="source" source="#bib2-1"/>

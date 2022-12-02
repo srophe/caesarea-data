@@ -1,6 +1,4 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -266,12 +264,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/340</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract340-1">
-        <quote>
-          <placeName>Καισαρείᾳ</placeName>
-        </quote>, and <quote>
-          <placeName>Caesarea</placeName>
-        </quote> are directly attested at <persName ref="https://viaf.org/viaf/55571017" role="author">Socrates of Constantinople</persName>, <title xml:lang="en" type="uniform" level="m">Church
+      <desc type="abstract" xml:id="abstract340-1"><quote><placeName>Καισαρείᾳ</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="https://viaf.org/viaf/55571017" role="author">Socrates of Constantinople</persName>, <title xml:lang="en" type="uniform" level="m">Church
           History</title> <ref n="b" target="#bib340-1">2.9.1-5</ref>. This passage was written ca. <origDate period="#byzantine" when="0439">439 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
       <desc type="context">Socrates of Constantinople, the “Scholastic,” was an otherwise unknown
         historian during the reign of Theodosius II during the early 5th century. He wrote his

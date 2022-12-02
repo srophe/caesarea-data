@@ -1,6 +1,4 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -346,12 +344,7 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/418</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract418-1">
-        <quote>
-          <placeName>ܡܓܕܠܐ ܕܐܣܛܪܝܛ</placeName>
-        </quote>, and <quote>
-          <placeName> Magdala Stratonis</placeName>
-        </quote> are directly attested at <persName ref="" role="author">Ishoʿdad of Merv</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Commentary on Matthew</title> <ref n="a" target="#bib418-1">28:1</ref>. This passage was written ca. <origDate notBefore="0840" notAfter="0850" period="#earlyIslamic">840-850 CE</origDate> possibly in <origPlace ref="">Ḥḏattā</origPlace>.</desc>
+         <desc type="abstract" xml:id="abstract418-1"><quote><placeName>ܡܓܕܠܐ ܕܐܣܛܪܝܛ</placeName></quote>, and <quote><placeName> Magdala Stratonis</placeName></quote> are directly attested at <persName ref="" role="author">Ishoʿdad of Merv</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Commentary on Matthew</title> <ref n="a" target="#bib418-1">28:1</ref>. This passage was written ca. <origDate notBefore="0840" notAfter="0850" period="#earlyIslamic">840-850 CE</origDate> possibly in <origPlace ref="">Ḥḏattā</origPlace>.</desc>
          <desc type="context">Ishoʿdad was born in the early ninth-century C.E. in Merv, an ancient
             capital of Khorasan, a city now in modern day Turkemistan. At some point he travelled
             westward to upper Mesopotamia, where in 837 C.E he was named bishop of Ḥdatta, a city

@@ -269,10 +269,8 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/48</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract48-1">and <quote>
-          <placeName>Caesarea</placeName>
-        </quote> is directly attested at <persName ref="http://viaf.org/viaf/25393339 " role="author">Apollonius of Tyana</persName>, <title xml:lang="en" type="uniform" level="m">Letters</title> <ref n="a" target="#bib48-1">11</ref>. This passage was written ca. <origDate period="#nabateanKingdom #earlyRoman #herodian #middleNabatean" notBefore="0004" notAfter="0097">0045 0090</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/837">Asia Minor</origPlace>.</desc>
-      <desc type="context"></desc>
+      <desc type="abstract" xml:id="abstract48-1"><quote><placeName>Καισαρέων</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/25393339 " role="author">Apollonius of Tyana</persName>, <title xml:lang="en" type="uniform" level="m">Letters</title> <ref n="a" target="#bib48-1">11</ref>. This passage was written ca. <origDate notBefore="0045" notAfter="0090" period="#nabateanKingdom #earlyRoman #herodian #middleNabatean">45-90 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/837">Asia Minor</origPlace>.</desc>
+      <desc type="context"/>
       <ab type="edition" xml:lang="grc" xml:id="quote48-1">
         <anchor xml:id="testimonia-48.grc.1" corresp="#testimonia-48.en.1"/>
         [Ἀπολλώνιος] <placeName>Καισαρέων</placeName> προβούλοις. Πρῶτον εἰς

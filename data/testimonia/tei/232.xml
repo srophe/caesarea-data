@@ -1,6 +1,4 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -271,22 +269,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/232</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract232-1">
-        <quote>
-          <placeName>Cesaream</placeName>
-        </quote>, <quote>
-          <placeName>Cesarea Palestine</placeName>
-        </quote>, <quote>
-          <placeName>turris Stratonis</placeName>
-        </quote>, <quote>
-          <placeName>Cesarea</placeName>
-        </quote>, <quote>
-          <placeName>Caesarea</placeName>
-        </quote>, <quote>
-          <placeName>Caearea Palestinae</placeName>
-        </quote>, and <quote>
-          <placeName>Strato's Tower</placeName>
-        </quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/106967420">Pseudo-Odoric of Pordenone</persName>, <title xml:lang="en" ref="" type="uniform" level="m">The
+      <desc type="abstract" xml:id="abstract232-1"><quote><placeName>Cesaream</placeName></quote>, <quote><placeName>Cesarea Palestine</placeName></quote>, <quote><placeName>turris Stratonis</placeName></quote>, <quote><placeName>Cesarea</placeName></quote>, <quote><placeName>Caesarea</placeName></quote>, <quote><placeName>Caearea Palestinae</placeName></quote>, and <quote><placeName>Strato's Tower</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/106967420">Pseudo-Odoric of Pordenone</persName>, <title xml:lang="en" ref="" type="uniform" level="m">The
           Holy Land</title> <ref n="a" target="#bib232-1">65-66</ref>. This passage was written ca. <origDate notBefore="1350" notAfter="1500" period="#lateIslamic">1350-1500 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
       <desc type="context">Nothing about this work attaches it to the known career of the Franciscan
         Odoric, who famously travelled to China, though admittedly our knowledge of his career

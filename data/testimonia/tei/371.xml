@@ -1,6 +1,4 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -272,19 +270,8 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/371</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract371-1">
-        <quote>
-          <placeName>Caesareae</placeName>
-        </quote>, <quote>
-          <placeName>urbem Stratonis</placeName>
-        </quote>, <quote>
-          <placeName>Caesaream</placeName>
-        </quote>, <quote>
-          <placeName>Caesarea</placeName>
-        </quote>, and <quote>
-          <placeName>city of
-               Straton</placeName>
-        </quote> are directly attested at <persName ref="http://viaf.org/viaf/74028786" role="author">Albert of Aachen</persName>, <title xml:lang="en" ref="" type="uniform" level="m">History of the Journey to Jerusalem </title> <ref n="a" target="#bib371-1">5.41-5.42</ref>. This passage was written ca. <origDate notBefore="1120" notAfter="1140" period="#crusader">1120-1140 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/108749">Aachen</origPlace>.</desc>
+         <desc type="abstract" xml:id="abstract371-1"><quote><placeName>Caesareae</placeName></quote>, <quote><placeName>urbem Stratonis</placeName></quote>, <quote><placeName>Caesaream</placeName></quote>, <quote><placeName>Caesarea</placeName></quote>, and <quote><placeName>city of
+               Straton</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/74028786" role="author">Albert of Aachen</persName>, <title xml:lang="en" ref="" type="uniform" level="m">History of the Journey to Jerusalem </title> <ref n="a" target="#bib371-1">5.41-5.42</ref>. This passage was written ca. <origDate notBefore="1120" notAfter="1140" period="#crusader">1120-1140 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/108749">Aachen</origPlace>.</desc>
          <desc type="context">Albert was a priest and sacristan at Aachen, or Aix-la-Chapelle,
             during roughly the first half of the 12th century. He wrote a detailed history of the
             First Crusade and the early years of the Kingdom of Jerusalem based not on his own

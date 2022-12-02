@@ -1,6 +1,4 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -272,13 +270,8 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/348</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract348-1">
-        <quote>
-          <placeName>Καισαρείᾳ τῆς Παλαιστίνης</placeName>
-        </quote>, and <quote>
-          <placeName>Caesarea
-               Palestinae</placeName>
-        </quote> are directly attested at <persName ref="http://viaf.org/viaf/14775071" role="author">Photius</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Library</title> <ref n="c" target="#bib348-1">59.18b18-33</ref>. This passage was written ca. <origDate notBefore="0845" notAfter="0855" period="#earlyIslamic">845-855 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+         <desc type="abstract" xml:id="abstract348-1"><quote><placeName>Καισαρείᾳ τῆς Παλαιστίνης</placeName></quote>, and <quote><placeName>Caesarea
+               Palestinae</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/14775071" role="author">Photius</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Library</title> <ref n="c" target="#bib348-1">59.18b18-33</ref>. This passage was written ca. <origDate notBefore="0845" notAfter="0855" period="#earlyIslamic">845-855 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
          <desc type="context">Photius I was ecumenical patriarch of Constantinople in 858-867 and
             877-886, as well as an unparalleled intellectual luminary for his age. Apart from his
             distinguished ecclesiastical career, he engaged in polymathic teaching and research,

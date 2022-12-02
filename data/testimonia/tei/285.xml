@@ -1,6 +1,4 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -267,12 +265,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/285</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract285-1">
-        <quote>
-          <placeName>Caesariensi</placeName>
-        </quote>, and <quote>
-          <placeName>Caesarea</placeName>
-        </quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/95147024">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Illustrious Men</title> <ref n="a" target="#bib285-1">3.1-8</ref>. This passage was written ca. <origDate notBefore="0392" notAfter="0393" period="#byzantine">392-393 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract285-1"><quote><placeName>Caesariensi</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/95147024">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Illustrious Men</title> <ref n="a" target="#bib285-1">3.1-8</ref>. This passage was written ca. <origDate notBefore="0392" notAfter="0393" period="#byzantine">392-393 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</desc>
       <desc type="context">Among his many works, St. Jerome wrote a catalog of renowned thinkers
             of the Roman world during the first years after his move from Rome to Bethlehem. In
             mostly brief sketches he describes the intellectual achievements, particularly writings,

@@ -1,6 +1,4 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -267,12 +265,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/223</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract223-1">
-        <quote>
-          <placeName>Cesaire</placeName>
-        </quote>, and <quote>
-          <placeName>Caesarea</placeName>
-        </quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/9212160667777103560005">Ernoul</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref n="a" target="#bib223-1">10.13</ref>. This passage was written ca. <origDate notBefore="1172" notAfter="1202" period="#crusader">ca. 1187 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract223-1"><quote><placeName>Cesaire</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/9212160667777103560005">Ernoul</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref n="a" target="#bib223-1">10.13</ref>. This passage was written ca. <origDate notBefore="1172" notAfter="1202" period="#crusader">ca. 1187 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
       <desc type="context">This <title>Chronicle</title> is a pastiche of accounts of the Kingdom of
         Jerusalem built around a core narrative written in Old French by one Ernoul (Ernoldus),
         squire to Balian of Ibelin, that focused on events up to 1187; separate versions of the same

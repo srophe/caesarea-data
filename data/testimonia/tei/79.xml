@@ -1,6 +1,4 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -270,12 +268,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/79</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract79-1">
-        <quote>
-          <placeName xml:lang="la">Caesarienses</placeName>
-        </quote>, and <quote>
-          <placeName xml:lang="en">Caesarea</placeName>
-        </quote> are directly attested at <persName ref="https://viaf.org/viaf/88881722" role="author">Justinian I</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Digesta L</title> <ref n="b" target="#bib79-1">15.8.7</ref>. This passage was written ca. <origDate period="#byzantine" notBefore="0530" notAfter="0533">530 - 533 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract79-1"><quote><placeName xml:lang="la">Caesarienses</placeName></quote>, and <quote><placeName xml:lang="en">Caesarea</placeName></quote> are directly attested at <persName ref="https://viaf.org/viaf/88881722" role="author">Justinian I</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Digesta L</title> <ref n="b" target="#bib79-1">15.8.7</ref>. This passage was written ca. <origDate period="#byzantine" notBefore="0530" notAfter="0533">530 - 533 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote79-1">
         <anchor xml:id="testimonia-79.la.1" corresp="#testimonia-79.en.1"/>Divus Vespasianus <placeName xml:lang="la">Caesarienses</placeName> colonos fecit non adiecto, ut et iuris Italici essent, sed tributum his remisit capitis: sed divus Titus etiam solum immune factum interpretatus est. Similes his capitulenses esse videntur.<ab type="source" source="#bib79-1"/>
         <idno type="CTS-URN"/>

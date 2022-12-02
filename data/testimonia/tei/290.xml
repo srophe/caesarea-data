@@ -1,6 +1,4 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -270,16 +268,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/290</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract290-1">
-        <quote>
-          <placeName>turrim Stratonis</placeName>
-        </quote>, <quote>
-          <placeName>Casaream</placeName>
-        </quote>, <quote>
-          <placeName>Strato’s Tower</placeName>
-        </quote>, and <quote>
-          <placeName>Caesarea</placeName>
-        </quote> are directly attested at <persName ref="http://viaf.org/viaf/95147024" role="author">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Book of Places</title> <ref n="a" target="#bib290-1">23</ref>. This passage was written ca. <origDate notBefore="0390" notAfter="0420" period="#byzantine">390-420 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract290-1"><quote><placeName>turrim Stratonis</placeName></quote>, <quote><placeName>Casaream</placeName></quote>, <quote><placeName>Strato’s Tower</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/95147024" role="author">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Book of Places</title> <ref n="a" target="#bib290-1">23</ref>. This passage was written ca. <origDate notBefore="0390" notAfter="0420" period="#byzantine">390-420 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</desc>
       <desc type="context">In his book of place names in Hebrew Scripture, Jerome wrote that in his
         time some believed that Accaron, named at <title>Joshua</title> 13:3, was Strato’s Tower,
         the predecessor to Caesarea Maritima. This information is not included in the parallel

@@ -1,6 +1,4 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -270,12 +268,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/92</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract92-1">
-        <quote>
-          <placeName xml:lang="grc">τὴν Παλαιστινῶν Καισάρειαν</placeName>
-        </quote>, and <quote>
-          <placeName xml:lang="en">Palestinian Caesarea</placeName>
-        </quote> are directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Ecclesiastical History</title> <ref n="a" target="#bib92-1">2.3.3</ref>. This passage was written ca. <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract92-1"><quote><placeName xml:lang="grc">τὴν Παλαιστινῶν Καισάρειαν</placeName></quote>, and <quote><placeName xml:lang="en">Palestinian Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Ecclesiastical History</title> <ref n="a" target="#bib92-1">2.3.3</ref>. This passage was written ca. <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote92-1">
         <anchor xml:id="testimonia-92.grc.1" corresp="#testimonia-92.en.1"/>ἀλλὰ γὰρ τῆς χάριτος ἤδη τῆς θείας καὶ ἐπὶ τὰ λοιπὰ χεομένης ἔθνη, καὶ πρώτου μὲν κατὰ <placeName xml:lang="grc">τὴν Παλαιστινῶν Καισάρειαν</placeName> Κορνηλίου σὺν ὅλῳ τῷ οἴκῳ δι ἐπιφανείας θειοτέρας ὑπουργίας τε Πέτρου τὴν εἰς τὸν Χριστὸν πίστιν καταδεξαμένου, πλείστων τε καὶ ἄλλων ἐπ Ἀντιοχείας Ἑλλήνων, οἷς οἱ κατὰ τὸν Στεφάνου διωγμὸν διασπαρέντες ἐκήρυξαν, ἀνθούσης ἄρτι καὶ πληθυούσης τῆς κατὰ Ἀντιόχειαν ἐκκλησίας, ἐν ταὐτῷ τε ἐπιπαρόντων πλείστων ὅσων τῶν τε ἀπὸ Ἱεροσολύμων προφητῶν, καὶ σὺν αὐτοῖς Βαρνάβα καὶ Παύλου, ἑτέρου τε πλήθους ἐπὶ τούτοις ἀδελφῶν, ἡ Χριστιανῶν προσηγορία τότε πρῶτον αὐτόθι ὥσπερ ἀπ εὐθαλοῦς καὶ γονίμου πηγῆς ἀναδίδοται.<ab type="source" source="#bib92-1"/>
         <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg002.1st1K-grc2:2.3</idno>

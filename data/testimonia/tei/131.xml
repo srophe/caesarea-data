@@ -273,7 +273,7 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/131</idno>
       </ab>
       <desc type="abstract" xml:id="abstract131-1">Caesarea Maritima is indirectly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius</persName>, <title xml:lang="en" type="uniform" level="m">Life of
-          Constantine</title> <ref n="b" target="#bib131-1">4.36-4.37</ref>. This passage was written ca. <origDate period="#byzantine" when="0339">0335 0339</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
+          Constantine</title> <ref n="b" target="#bib131-1">4.36-4.37</ref>. This passage was written ca. <origDate notBefore="0335" notAfter="0339" period="#byzantine">335-339 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
       <desc type="context">In this famous passage from his biography of Constantine the Great,
         Eusebius directly quoted a letter he had received as bishop of Caesarea from the emperor.
         The letter probably dates from the late autumn of 335 C.E. or winter of 335-336 C.E. By then

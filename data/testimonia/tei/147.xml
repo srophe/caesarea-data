@@ -1,6 +1,4 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -270,12 +268,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/147</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract147-1">
-        <quote>
-          <placeName xml:lang="Greek">Καισαρείας Παλαιστίνης</placeName>
-        </quote>, and <quote>
-          <placeName xml:lang="en">Bishop of Caesarea in Palestine</placeName>
-        </quote> are directly attested at <persName ref="https://viaf.org/viaf/6200152139996611100009" role="author">Photius</persName>, <title ref="" type="uniform" level="m">Bibliotheca</title> <ref n="a" target="#bib147-1">89</ref>. This passage was written ca. <origDate period="#earlyIslamic" notBefore="0820" notAfter="0891">820 – 891 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract147-1"><quote><placeName xml:lang="Greek">Καισαρείας Παλαιστίνης</placeName></quote>, and <quote><placeName xml:lang="en">Bishop of Caesarea in Palestine</placeName></quote> are directly attested at <persName ref="https://viaf.org/viaf/6200152139996611100009" role="author">Photius</persName>, <title ref="" type="uniform" level="m">Bibliotheca</title> <ref n="a" target="#bib147-1">89</ref>. This passage was written ca. <origDate period="#earlyIslamic" notBefore="0820" notAfter="0891">820 – 891 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
       <ab type="edition" xml:lang="Greek" xml:id="quote147-1">
         <anchor xml:id="testimonia-147.Greek.1" corresp="#testimonia-147.en.1"/>"Η δε λοιπή βίβλος επιγραφήν μεν έχει τοιαύτην "προοίμιον επισκόπε <placeName xml:lang="Greek">Καισαρείας Παλαιστίνης</placeName> εις τα μετά την εκκλησιαστικήν ιστορίαν Ευσεβία τό Παμφίλε;" άρχεται δε έτω "τές μέν άλλους επί το συγγράφειν ώρμημένες και των γενομένων τάς ιστορίας τη μνήμη παραπέμπειν εγνωκότας" και εξής, λέγει δε αυτόν ανεψιόν προς μητρός Κυρίλλε το Ιεροσολύμων, και υπ' εκείνε πρoτραπήναι εις τήνδε την συγγραφήν, ημείς δε εύρομεν ανεγνωκότες εν άλλοις ότι αυτός τε Κύριλλος και Γελάσιος έτος την Ρεφίνε το Ρωμαίου μετέφρασαν ιστορίαν εις την Ελλάδα γλώσσαν, ε μέντοι ότι ιδίαν συνετάξαντο ιστορίαν, δήλον δ' ώς αρχαιότερος ήν έτος το προειρημένε, είγε κατά Κύριλλον ήκμασε τον Ιεροσολύμων, αλλ' έτος μεν ο Γελάσιος εκείνε και τη φράσει επί το λογιώτερον διαφέρει, εκάτερος μέντοι αυτών πολύ τό κατά Ανομοίων συγγεγραφότος ενδεέστερος υπάρχει επίσκοπος δ' άρα κακείνος της αυτής επιγράφεθ Παλαιστίνης, αλλ' εκείνός γε ο Γελάσιος τή τε φράσει και τη πολυμαθία και ταις λογικαίς εφόδοις, αίς ουκ οίδ" όπως ειπείν και απειροκάλως κατεχρήσατο, παρά πολύ τότες την εν τοις λόγοις ελάττονα τάξιν επέχειν απελαύνει, ει δέ τις τέτων αυτός εστιν ο γράψας, και ταύτα χρόνω συλλέξας και συναυξήσας τα λείποντα, έπω μαθειν έχον. "<ab type="source" source="#bib147-1"/>
         <idno type="CTS-URN"/>

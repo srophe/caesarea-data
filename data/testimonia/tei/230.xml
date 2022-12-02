@@ -1,6 +1,4 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -270,14 +268,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/230</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract230-1">
-        <quote>
-          <placeName>Καίσαρος πόλιν</placeName>
-        </quote>, <quote>
-          <placeName>τῆς Καίσαρος </placeName>
-        </quote>, and <quote>
-          <placeName>city of Caesar</placeName>
-        </quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/296114344">Evagrius
+      <desc type="abstract" xml:id="abstract230-1"><quote><placeName>Καίσαρος πόλιν</placeName></quote>, <quote><placeName>τῆς Καίσαρος </placeName></quote>, and <quote><placeName>city of Caesar</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/296114344">Evagrius
                Scholasticus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Church History</title> <ref n="c" target="#bib230-1">4.7b</ref>. This passage was written ca. <origDate notBefore="0593" notAfter="0598" period="#byzantine">593-598 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/658381">Antioch on the
                Orontes</origPlace>.</desc>
       <desc type="context">Evagrius Scholasticus came from a background of wealth and education in

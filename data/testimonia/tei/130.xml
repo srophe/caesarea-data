@@ -272,8 +272,7 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/130</idno>
       </ab>
       <desc type="abstract" xml:id="abstract130-1">Caesarea Maritima is indirectly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius</persName>, <title xml:lang="en" type="uniform" level="m">Life of
-          Constantine</title> <ref n="a" target="#bib130-1">1.19</ref>. This passage was written ca. <origDate period="#byzantine" when="0339">0335
-          0339</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
+          Constantine</title> <ref n="a" target="#bib130-1">1.19</ref>. This passage was written ca. <origDate notBefore="0335" notAfter="0339" period="#byzantine">335-339 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
       <desc type="context">In this passage from his biography of Constantine the Great, Eusebius
         describes the physical and spritual virtues of the adolescent. The historian refers to
         seeing Constantine himself, presumably at Caesarea, during the young man’s visit to
