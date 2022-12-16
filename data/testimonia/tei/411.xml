@@ -272,8 +272,7 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/411</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract411-1"><quote><placeName>Καισαρείαν<lb/>τῆς Στράτωνος</placeName></quote>, and <quote><placeName>Straton's
-               Caesarea</placeName></quote> are directly attested at <persName ref="" role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Honors for an Athlete,
+         <desc type="abstract" xml:id="abstract411-1"><quote><placeName>Καισαρείαν τῆς Στράτωνος</placeName></quote>, and <quote><placeName>Straton's Caesarea</placeName></quote> are directly attested at <persName ref="" role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Honors for an Athlete,
                IAph2007</title> <ref n="b" target="#bib411-1">12.920</ref>. This passage was written ca. <origDate notBefore="0138" notAfter="0169" period="#lateRoman">138-169 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/638753">Aphrodisias</origPlace>.</desc>
          <desc type="context">This text in two parts (i, ii) was inscribed on three faces (a, b, c)
             of a marble statue-base with molded panels found near the western city-wall at
