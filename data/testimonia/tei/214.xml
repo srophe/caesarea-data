@@ -292,7 +292,7 @@
             διὰ τοῦ -ι· τὰ δὲ ἐπὶ χώρας ὄντα διὰ τοῦ -ι γράφεται καὶ παροξύνεται, Λυκία, Πισιδία,
             Κιλικία, Σικελία, Παφλαγονία, Ἀρμενία, Συρία, Καππαδοκία, Ἰταλία, Ἀσία, Θεσσαλία,
             Βοιωτία, Βιθυνία, Ἰτουρία.<ab type="source" source="#bib214-1"/>
-        <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/"/>
+        <idno type="CTS-URN"/>
         <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg0087.tlg011.1st1K-grc1:2.2.4.127"/>
         <note type="textual" xml:lang="en">Ed. Lentz 1868 [cited by page-line]</note>
       </ab>

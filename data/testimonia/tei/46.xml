@@ -294,7 +294,7 @@
             γραίας, γαῖα γαίας, Μήδεια Μηδείας (τὸ γὰρ “Μηδείης ὑπ᾿ ἔρωτι” Ἰωνικόν ἐστι), Κράτεια
             Κρατείας, Ἀλεξάνδρεια Ἀλεξανδρείας, <placeName>Καισάρεια</placeName> Καισαρείας,
             Ἀντιόχεια Ἀντιοχείας.<ab type="source" source="#bib46-1"/>
-        <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/"/>
+        <idno type="CTS-URN"/>
         <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg0087.tlg011.1st1K-grc1:2.2.4.127"/>
         <note xml:lang="en" type="textual">Ed. Lentz 1868</note>
       </ab>
