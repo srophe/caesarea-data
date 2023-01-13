@@ -288,8 +288,7 @@
         <placeName>Καισαρείας</placeName>, Ἀντιόχεια Ἀντιοχείας.<ab type="source" source="#bib228-1"/>
         <idno type="CTS-URN"/>
         <ref target="urn:cts:greekLit:tlg0087.tlg011.1st1K-grc1:2.2.4.127"/>
-        <note xml:lang="en">Ed. Hilgard
-               1889</note>
+        <note type="textual" xml:lang="en">Ed. Hilgard 1889</note>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote228-2">
         <anchor xml:id="testimonia-228.en.1" corresp="#testimonia-228.grc.1"/>
