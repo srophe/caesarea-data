@@ -1,9 +1,11 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="en" level="a">Unknown, <title level="m">Honors for an Athlete,
-               IAph2007</title> 12.920</title>
+            <title xml:lang="en" level="a">Eusebius, <title level="m">Life of Constantine</title> 3.51-3.53</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
             <sponsor>Vanderbilt University</sponsor>
             <principal>Joseph L. Rife</principal>
@@ -38,10 +40,10 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/411/tei</idno>
             <availability>
                <licence target="http://creativecommons.org/licenses/by/4.0">
-                  <p>Except for materials quoted from other sources, this entry is copyright 2023 by the contributors (Joseph L. Rife, et al.) and the Caesarea City and Port Exploration Project. It is licensed under the Attribution 4.0 International (CC BY 4.0) license.</p> <p>Some texts quoted in this entry may be in the public domain in the United States. No copyright is asserted for these quotations.</p> <p>Some texts quoted in this entry may have copyright restrictions and are reused under Section 107 of the Copyright Act of 1976 (Title 17 of the United States Code) which permits “fair use” of copyrighted materials for purposes such as criticism, comment, scholarship, and research. These texts remain under copyright of their owners. No copyright infringement is intended.</p>
+                  <p>Except for materials quoted from other sources, this entry is copyright 2021 by the contributors (Joseph L. Rife, et al.) and the Caesarea City and Port Exploration Project. It is licensed under the Attribution 4.0 International (CC BY 4.0) license.</p> <p>Some texts quoted in this entry may be in the public domain in the United States. No copyright is asserted for these quotations.</p> <p>Some texts quoted in this entry may have copyright restrictions and are reused under Section 107 of the Copyright Act of 1976 (Title 17 of the United States Code) which permits “fair use” of copyrighted materials for purposes such as criticism, comment, scholarship, and research. These texts remain under copyright of their owners. No copyright infringement is intended.</p>
                </licence>
             </availability>
-            <date>2022-10-19-05:00</date>
+            <date>2023-01-20-06:00</date>
          </publicationStmt>
          <seriesStmt>
             <title level="s" xml:lang="en">Caesarea-Maritima.org: A Digital Archive</title>
@@ -248,17 +250,16 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Honors for an Athlete,
-               IAph2007</title> <ref n="b" target="#bib411-1">12.920</ref> written by <persName ref="" role="author">Unknown</persName> in <origDate notBefore="0138" notAfter="0169" period="#lateRoman">138-169 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/638753">Aphrodisias</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Life of Constantine</title> <ref target="#bib411-1">3.51-3.53</ref> written by <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius</persName> in <origDate notBefore="0355" notAfter="0359" period="#byzantine">355-359 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</creation>
          <langUsage>
-            <language ident="grc">Ancient Greek</language>
-         </langUsage>
+        <language ident="grc">Ancient Greek</language>
+      </langUsage>
          <textClass>
             <classCode scheme="https://distributed-text-services.github.io/specifications">
                <idno type="CTS-URN"/>
             </classCode>
-            <catRef scheme="#CM-Testimonia-Type" target="#direct"/>
-            <catRef scheme="#CM-NEAEH" target="#lateRoman"/>
+            <catRef scheme="#CM-Testimonia-Type" target="#direct #indirect"/>
+            <catRef scheme="#CM-NEAEH" target="#byzantine"/>
          </textClass>
       </profileDesc>
       <revisionDesc status="draft">
@@ -272,203 +273,178 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/411</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract411-1"><quote><placeName>Καισαρείαν τῆς Στράτωνος</placeName></quote>, and <quote><placeName>Straton's Caesarea</placeName></quote> are directly attested at <persName ref="" role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Honors for an Athlete,
-               IAph2007</title> <ref n="b" target="#bib411-1">12.920</ref>. This passage was written ca. <origDate notBefore="0138" notAfter="0169" period="#lateRoman">138-169 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/638753">Aphrodisias</origPlace>.</desc>
-         <desc type="context">This text in two parts (i, ii) was inscribed on three faces (a, b, c)
-            of a marble statue-base with molded panels found near the western city-wall at
-            Aphrodisias in Caria, western Asia Minor. The 123 total lines written in the mid-2nd
-            century recognize the public honors for T. Aelius Aurelius Menander. He was a victorious
-            athlete who specialized in the <foreign>pankration</foreign>, a combat sport that
-            combined the skills of boxing and wrestling. The impressive list of his competitions
-            spans the eastern Mediterranean but particularly Asia Minor to Syria and Palestine,
-            including Caesaea Maritima (ii.52-53). This is the full version of the same victor’s
-            list found in abbreviated form at <title>IAph2007</title> 12.914.</desc>
+         <desc type="abstract" xml:id="abstract411-1">Caesarea Maritima is indirectly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Life of Constantine</title> <ref target="#bib411-1">3.51-3.53</ref>. This passage was written ca. <origDate notBefore="0355" notAfter="0359" period="#byzantine">355-359 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</desc>
+         <desc type="context">In his biography of Constantine the Great, after recording the death
+            of St. Helena, Eusebius describes the emperor’s efforts to erect churches and other
+            places of Christian devotion across Palestine and in Constantinople, Nicomedia, and
+            Syrian Antioch (3.47-3.53). In particular, he ordered that a “house of prayer” (οἶκον
+            εὐκτήριον) be erected at the site of the Oak of Mamre near Hebron, where in ancient
+            times Abraham received the theophany (<title>Genesis</title> 18:1-33) but had more
+            recently been overrun by some pagan apparatus. Eusebius included the text of a letter
+            sent to Macarius, bishop of Jerusalem, and other bishops instructing them and provincial
+            authorities to develop the holy site. Among the attested correspondence of Constantine,
+            this letter, received and quoted by Eusebius as bishop, draws a direct connection
+            between Constantine and the Church at Caesarea; see also Eusebius, <title>Life of
+               Constantine</title> 4.35-4.37.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote411-1">
-        <anchor xml:id="testimonia-411.grc.1" corresp="#testimonia-411.en.1"/>Part i side a<lb/>[ἔδοξ]ε̣ τῇ ἱερᾷ ξυστικ[ῇ ?περιπολιστικῇ συνόδῳ τῶν περὶ
-            τὸν]<lb/>[Ἡρα]κλέα καὶ τὸν ἀγώ[νιον καὶ αὐτοκράτορας Μ(ᾶρκον) Αὐρ(ήλιον) Ἀντ-]<lb/>[ω]ν̣εῖνον stop καὶ stop Λ(ούκιον) stop Αὐ[ρ(ήλιον) Οὐῆρον]<lb/>[ἀ]πὸ τῆς οἰκουμέ[νης
-            ἱερονεικῶν στεφανειτῶν ἐν ?Ἀντιοχείᾳ]<lb/>Καισαρείᾳ stop Κο[λωνείᾳ (e.g)ἐπὶ τὸν ἀγῶνα] (5)
-           <lb/>ταλαντια̣ῖ̣[ον ·· ? ··]<lb/>[·· ? ··Α ?εἰσηγ]η̣σαμένου Τ(ίτου) Αἰ̣λ̣[ί]ου Μ[·]<lb/>[·· ?
-            ··]ΚΑ[·· c. 7 ·· π]αλαιστοῦ παραδόξο[υ]<lb/>[ἐπεὶ] Αἴλιος Αὐρήλιος Μένανδρος<lb/>παράδοξος
-            καὶ διὰ βίου ξυστάρχης (10)<lb/>τῶν ἐν κολωνείᾳ Ἀντιοχείᾳ ἀγώνων<lb/>ἀθλήσας ἐνδόξως καὶ
-            ἐπιμελῶς ἐπὶ το-<lb/>σοῦτον δόξης προέβη ὡς πρῶτον μὲν<lb/>[ἀ]νελέσθαι εὐτυχῶς τοσούτους
-            ἀγῶ-<lb/>[ν]ας καὶ δοξάσαι καθ' ἕκαστον ἀγῶνα τὴν (15)<lb/>[λ]αμπροτάτην πατρίδα αὐτοῦ
-            κηρυγμα-<lb/>[σ]ιν καὶ στεφάνοις μάλιστα δὲ καὶ ἐπὶ<lb/>[θ]εοῦ Ἀντωνείνου ὡς οὐ μόνον
-            στε[φαν]-<lb/>[ω]θῆναι ταῖς ἐκείνου χειρσὶν ἀλλὰ καὶ<lb/>[τει]μ̣αῖς ἐξαιρέτοις τειμηθῆναι
-            μεταξὺ (20)<lb/>[δὲ γ]ενόμενος ξυστάρχης τοσαύτῃ προ-<lb/>ν̣οίᾳ καὶ ἐπιμελείᾳ μετὰ σπουδῆς
-            ἁπά-<lb/>σης κήδεται τῶν ἡμεῖν διαφερόν-<lb/>των τὰ κάλλιστα καὶ ἄριστα πολειτευ-<lb/>όμενος
-            ἐν ἡμεῖν καὶ διὰ ταῦτα καὶ ἄλλο- (25)<lb/>τε μέν πολλάκις καὶ τὰ νῦν ἐπαινοῦν-<lb/>[τ]ες τὸν
-            ἄνδρα καὶ μαρτυροῦντες αὐτῷ<lb/>ψηφίσματα τοῖς κυρίοις Αὐτοκράτορ-<lb/>[σ]ιν πεπόμφαμεν
-            ἡγούμενοι μεγίσ-<lb/>[τ]ας καὶ ἀνταξίας ἀμοιβὰς αὐτῷ γενεσ- (30)<lb/>[θ]αι ἀντὶ τῆς περὶ
-            ἡμᾶς εὐνοίας καὶ ὅτι δα-<lb/>[π]ανήμασιν ἱκανοῖς καὶ κόπῳ πολλῷ περι-<lb/>εγένετο καὶ
-            διεπράξατο ἀχθῆναι τὸν ἔναγ-<lb/>χ̣ος ἀγῶνα παρὰ τοῖς Ἀντιοχεῦσιν ὡς νομί-<lb/>ζειν ἡμᾶς
-            οἰκόθεν παρ' αὐτοῦ ἀνῃρῆσθαι (35)<lb/>τὰ θέματα διὰ ταῦτα δεδόχθαι τύχῃ ἀγαθῇ<lb/>εὐχαριστῆσαι τῷ Μενάνδρῳ ἐπί τε τῆς ἱερω-<lb/>τάτης βουλῆς καὶ τοῦ λαμπροτάτου δήμου<lb/>Ἀφροδεισιέων περὶ τῶν προηγορευμένων<lb/>τειμῆσαί τε αὐτὸν ἀνδριάντων ἀναστάσει καὶ (40)<lb/>εἰκόνων ἀναθέσει ἐν τῷ ἐπισημοτάτῳ<lb/>τῆς πατρίδος τόπῳ ἐπιγραφησομένων<lb/>τῶν τειμῶν τῇ
-            προγραφῇ τοῦδε τοῦ ψη-<lb/>φίσματος πρὸς τὸ ἀιδίους ὑπάρξαι αὐ-<lb/>τῷ τὰς παρ' ἡμῶν τειμάς
-            leaf (45)<lb/>vacat<lb/>ἔστιν δὲ καὶ πολείτης πόλεων τῶν ὑπο-<lb/>γεγραμμένων stop Περγαμηνῶν
-            Ἀντιοχέ-<lb/>ων Καισαρέων Κολωνῶν καὶ βουλευτὴς<lb/>Θηβαίων καὶ βουλευτὴς stop Ἀπολλωνιατῶν
-           <lb/>Λυκίων Θρακῶν καὶ βουλευτὴς stop Μειλη- (50)<lb/>σίων stop Πεσσινουντίων stop
-            Κλαυδιοπολειτῶν<lb/>ἐπιμεληθέντος τῶν τειμῶν Ζήνωνος (55)<lb/>τοῦ Ἀπολλωνίου τοῦ Μενάνδρου
-            τοῦ<lb/>scroll ἀδελφοῦ αὐτοῦ scroll<lb/><lb/>Part ii side b<lb/>[?(e.g) ἡ βουλὴ καὶ ὁ δῆμος]<lb/>ἐτείμησαν τα[ῖς καλλίσταις]<lb/>καὶ μεγίσταις τ[ειμαῖς ·· c. 5 ··]<lb/>Αἴλιον stop Αὐρήλιον
-            [ stop Μένανδρον]<lb/>ἀθλήσαντα ἐνδόξως [καὶ ἐπιμελῶς πλει]-<lb/>στονείκην stop
-            πανκρατια̣[στὴν παρά]- (5)<lb/>δοξον ξυστάρχην stop γ[ένους πρώ]-<lb/>του καὶ ἐνδόξου stop
-            πρῶ[τον καὶ μό]-<lb/>νον τῶν stop ἀπ' αἰώνος stop ἀγ[ωνισάμε]-<lb/>νον stop τριετίᾳ τὰς
-            τρεῖς κρίσ[εις παῖδα]<lb/>ἀγένειον stop ἄνδρα stop καὶ νεική[σαντα] (10)<lb/>ἱεροὺς stop καὶ
-            ταλαντιαίους stop κ[αὶ πλείσ]-<lb/>τους ἄλλους ἀγῶνας vac.<lb/>Νέαν πόλιν Σεβαστὰ παίδων
-            Κλαυ-<lb/>διανῶν πανκράτιν stop Νέμεια παίδων<lb/>πανκράτιν stop Ἴσθμια ἀγενείων πανκρά-
-            (15)<lb/>τιν stop Ἔφεσον Βαλβιλληα ἀγενείων<lb/>πανκράτιν stop ἱερὰν Πέργαμον κοινὸν<lb/>Ἀσίας
-            ἀνδρῶν πανκράτιν stop Ἔφεσον<lb/>Βαλβιλληα ἀνδρῶν πανκράτιν stop Σμυρ-<lb/>ναν κοινὸν Ἀσίας
-            ἀνδρῶν πανκράτιν stop (20)<lb/>ἑβδόμῃ Παναθηναίδι Παναθήναια<lb/>ἀνδρῶν πανκράτιν πρῶτον
-            stop Ἀφροδει-<lb/>σιέων stop Νέμεια ἀνδρῶν πανκράτιν<lb/>καὶ τὰ stop ἑξῆς Νέμεια ἀνδρῶν
-            πανκρά-<lb/>τιν stop ἱερὰν Ὀλύμπεια ἐν Ἀθήναις ἀν- (25)<lb/>δρῶν πανκράτιν πρῶτον Ἀφροδεισι-
-           <lb/>έων stop Πύθια ἀνδρῶν πανκράτιν<lb/>Ῥώμην Καπετώλεια Ὀλύμπια stop ἀν-<lb/>δρῶν πανκράτιν
-            πρῶτον Ἀφροδεισι-<lb/>scroll έων leaf (30)<lb/><lb/>Part ii side c<lb/>[·· c. 22 ··] ΕΝ<lb/>[·· c.
-            21 ··] ΟΝ ἀ-<lb/>[νδρῶν πανκράτιν πρῶτον Ἀφ]ροδει -<lb/>[σιέων ·· c. 15 ·· κοι]νὸν Ἀσί-<lb/>[ας ἀνδρῶν πανκράτι]ν̣ Μιτυλή- (35)<lb/>[νην ἀνδρῶν παν]κράτιν stop Ἀδρα<lb/>[μύττιον
-            ἀνδρῶ]ν πανκράτιν stop<lb/>[·· c. 8 ·· ἀνδ]ρῶν πανκράτιν<lb/>[·· c. 8 ··] ἀνδρῶν πανκράτιν<lb/>[·· c. 7 ··]Α ἀνδρῶν πανκράτιν (40)<lb/>[?Νεικομήδ]ειαν ἀνδρῶν παν-<lb/>[κράτιν ? stop ]
-            Νεικέαν ἀνδρῶν παν<lb/>[κράτ]ιν stop Προυσιάδα ἀνδρῶν<lb/>[πα]νκράτιν stop Κλαυδιόπολιν stop
-            β´<lb/>[ἀ]ν̣δρῶν πανκράτιν Ἄνκυραν (45)<lb/>τ̣ῆς Γαλατίας ἀνδρῶν πανκρά-<lb/>τιν stop
-            Πεσσινοῦντα ἀνδρῶν<lb/>πανκράτιν stop Δαμασκὸν stop β´ stop ἀν-<lb/>δρῶν πανκράτιν stop
-            Βηρυτὸν ἀν-<lb/>δρῶν πανκράτιν stop Τύρον ἀν- (50)<lb/>δρῶν πανκράτιν stop
-               <placeName>Καισαρείαν<lb/>τῆς Στράτωνος</placeName> ἀνδρῶν παν-<lb/>κράτιν stop Νέανπόλιν
-            τῆς Σαμαρί-<lb/>ας ἀνδρῶν πανκράτιν stop Σκυ-<lb/>θόπολιν stop ἀνδρῶν πανκράτιν (55)<lb/>Γάζαν
-            ἀνδρῶν πανκράτιν stop Και-<lb/>σάρειαν Πανιάδα stop β´ stop ἀνδρῶν παν-<lb/>κράτιν stop
-            Ἱερόπολιν ἀνδρῶν stop παν<lb/>κράτιν stop Ἀναζαρβὸν ἀνδρῶν παν-<lb/>κράτιν stop Μοψουεστίαν
-            ἀνδρῶν (60)<lb/>πανκράτιν stop Τρίπολιν τῆς Συρίας<lb/>ἀνδρῶν πανκράτιν stop Φιλαδέλφει<lb/>αν
-            τῆς Ἀραβίας stop ἀνδρῶν πανκρά-<lb/>τιν stop Ζεῦγμα πρὸς τῷ Εὐφράτῃ<lb/>ἀνδρῶν πανκράτιν
-            stop Κιβύραν (65)<lb/>vac. ἀνδρῶν πανκράτιν vac.<ab type="source" source="#bib411-1"/>
+        <anchor xml:id="testimonia-411.grc.1" corresp="#testimonia-411.en.1"/>(51) Τάδε μὲν οὖν τὰ ἐξοχώτατα τῶν βασιλέως ἐτύγχανεν ἀφιερώματα.
+            πυθόμενος δέ τοι ἕνα καὶ τὸ αὐτὸν σωτῆρα τὸν {τε} ἔναγχος ἐπιφανέντα τῷ βίῳ καὶ πρόπαλαι
+            θεοφανείας πεποιῆσθαι φιλοθέοις ἀνδράσι τῆς Παλαιστίνης ἀμφὶ τὴν καλουμένην δρῦν Μαμβρῆ,
+            κἀνταῦθα οἶκον εὐκτήριον ἀνεγεῖραι τῷ ὀφθέντι θεῷ διακελεύεται. τοῖς μὲν οὖν τῶν ἐθνῶν
+            ἄρχουσιν αὐθεντία βασιλικὴ διὰ τῶν πρὸς ἕκαστον ἐπισταλθέντων γραμμάτων ἐπεφοίτα, εἰς
+            πέρας ἀγαγεῖν τὸ προσταχθὲν διακελευομένη, ἡμῖν δὲ τοῖς τήνδε γράφουσι τὴν ἱστορίαν
+            λογικωτέραν κατέπεμπε διδασκαλίαν, ἧς ἔμοιγε δοκεῖ τὸ ἴσον γράμμα τῷ παρόντι συνάψαι
+            λόγῳ εἰς ἀκριβῆ διάγνωσιν τῆς τοῦ θεοφιλοῦς ἐπιμελείας. καταμεμψάμενος γοῦν ἡμῖν ἐφ’ οἷς
+            ἐπύθετο πραττομένοις αὐτόθι τάδε κατὰ λέξιν ἔγραφε.<lb/>(52) “Νικητὴς Κωνσταντῖνος
+            Μέγιστος Σεβαστὸς Μακαρίῳ καὶ λοιποῖς ἐπισκόποις Παλαιστίνης.<lb/>Ἓν καὶ τοῦτο μέγιστον
+            τῆς ὁσιωτάτης μου κηδεστρίας γέγονεν εἰς ἡμᾶς εὐεργέτημα τὸ λανθάνουσαν μέχρι νῦν παρ’
+            ὑμῖν ἐναγῶν ἀνθρώπων ἀπόνοιαν διὰ τῶν πρὸς ἡμᾶς γνωρίσαι γραμμάτων, ὡς τῆς πρεπούσης
+            ἀπόνοιαν διὰ τῶν πρὸς ἡμᾶς γνωρίσαι γραμμάτων, ὡς τῆς πρεπούσης ἐπανορθώσεως καὶ
+            θεραπείας εἰ καὶ βραδέως ἀλλ’ ὅμως ἀναγκαίως δι’ ἡμῶν τὸ παροφθὲν ἁμάρτημα τυχεῖν. καὶ
+            γάρ ἐστιν ὡς ἀληθῶς δυσσέβημα παμμέγεθες τοὺς ἁγίους τόπους ὑπὸ τῶν ἀνοσίων χραίνεσθαι
+            μιασμάτων. τί οὖν ἐστιν, ἀδελφοὶ προσφιλέστατοι, ὃ τὴν ὑμετέραν παρελθὸν ἀγχίνοιαν ἡ
+            προειρημένη διὰ τὴν πρὸς τὸ θεῖον εὐλάβειαν οὐχ οἵα τε γέγονεν ἀποσιωπῆσαι;<lb/>(53) τὸ
+            χωρίον, ὅπερ παρὰ τὴν δρῦν τὴν Μαμβρῆ προσαγορεύεται, ἐν ᾧ τὸν Ἀβραὰμ τὴν ἑστίαν
+            ἐσχηκέναι μανθάνομεν, παντοίως ὑπό τινων δεισιδαιμόνων μιαίνεσθαί φησιν· εἴδωλά τε γὰρ
+            πάσης ἐξωλείας ἄξια παρ’ αὐτὴν ἱδρῦσθαι καὶ βωμὸν ἐδήλωσεν πλησίον ἑστάναι καὶ θυσίας
+            ἀκαθάρτους συνεχῶς ἐπιτελεῖσθαι. ὅθεν ἐπειδὴ καὶ τῶν καιρῶν τῶν ἡμετέρων ἀλλότριον καὶ
+            τῆς τοῦ τόπου ἁγιότητος ἀνάξιον καταφαίνεται, γινώσκειν ὑμῶν τὴν σεμνότητα βούλομαι
+            δεδηλῶσθαι παρ’ ἡμῶν πρὸς Ἀκάκιον τὸν διασημότατον κόμητα καὶ φίλον ἡμέτερον γράμμα, ἵν’
+            ἄνευ τινὸς ὑπερθέσεως καὶ τὰ εἴδωλα ὅσα δ’ ἂν ἐπὶ τοῦ προειρημένου εὑρίσκοιτο τόπου πυρὶ
+            παραδοθῇ, καὶ ὁ βωμὸς ἐκ βάθρων ἀνατραπῇ, καὶ ἁπλῶς εἰπεῖν, πάντων τῶν τοιούτων ἐκεῖθεν
+            ἄρδην ἀφανισθέντων, παντὶ σθένει καὶ τρόπῳ τὸ περιέχον ὅλον ἐκκαθᾶραι σπουδάσῃ, καὶ μετὰ
+            ταῦτα, καθὼς ἂν αὐτοὶ διατυπώσητε, ἀξίαν τῆς καθολικῆς καὶ ἀποστολικῆς ἐκκλησίας
+            βασιλικὴν ἀνοικοδομηθῆναι ἐπὶ τοῦ αὐτοῦ ποιῆσαι χωρίου. λοιπὸν ἔσται τῆς ὑμετέρας
+            συνέσεώς τε καὶ εὐλαβείας, ἐπειδὰν πάντα ἐκεῖθεν τὰ μυσαρὰ παντελῶς ἀνῃρῆσθαι μάθητε,
+            εἰς ταὐτὸ συνελθεῖν ἅμα τοῖς ἐκ Φοινίκης ἐπισκόποις, οὓς προσκαλέσασθαι ἐξ αὐθεντίας τοῦ
+            γράμματος τούτου δυνήσεσθε, καὶ διαγράψαι βασιλικὴν τῆς ἐμῆς φιλοτιμίας ἀξίαν, ὅπως τοῖς
+            προσταχθεῖσιν ἀκολούθως μετὰ πάσης ταχυτῆτος ἡ τοῦ ἔργου φαιδρότης κατ’ ἀξίαν τῆς τοῦ
+            τόπου ἀρχαιότητός τε καὶ σεμνότητος προνοίᾳ τοῦ προειρημένου ἡμῶν κόμητος
+            τελεσιουργηθῆναι δυνηθῇ.<lb/>ἐκεῖνο δὲ πρόγε ἁπάντων παραφυλάξαι ὑμᾶς βούλομαι, ὅπως
+            μηδεὶς πρὸς τοὐπιὸν τῶν ἐναγῶν ἐκείνων καὶ μυσαρῶν ἀνθρώπων τῷ τόπῳ πλησιάσαι τολμήσῃ·
+            ἔστι γὰρ ὡς ἀληθῶς ἡμῖν ἀφόρητον καὶ πᾶσι τοῖς τολμῶσι τιμωρίας ἄξιον μετὰ τὴν ἡμετέραν
+            κέλευσιν ἀσεβές τι ἐν τῷ τοιούτῳ τόπῳ πραχθῆναι, ὃν καθαρῷ βασιλικῆς οἰκοδομήματι
+            κοσμεῖσθαι διετάξαμεν, ὅπως ἁγίων ἀνθρώπων ἄξιον συνέδριον ἀποδειχθῇ. εἰ δέ τι παρὰ τὸ
+            προσταχθὲν γενέσθαι συμβαίη, χωρίς τινος μελλήσεως τῇ ἡμετέρᾳ ἡμερότητι δι’ ὑμετέρων
+            δηλαδὴ γραμμάτων γνωρισθῆναι πρέπει, ἵνα τὸν ἁλισκόμενον ὡς παρανομήσαντα τὴν ἀνωτάτω
+            κόλασιν ὑποστῆναι προστάξωμεν.<lb/>οὐ γὰρ ἀγνοεῖτε ἐκεῖ πρῶτον τὸν τῶν ὅλων δεσπότην θεὸν
+            καὶ ὦφθαι τῷ Ἀβραὰμ καὶ διειλέχθαι. ἐκεῖ μὲν οὖν πρῶτον ἡ τοῦ ἁγίου νόμου θρησκεία τὴν
+            καταρχὴν εἴληφεν, ἐκεῖ πρῶτον ὁ σωτὴρ αὐτὸς μετὰ τῶν δύο ἀγγέλων τὴν ἑαυτοῦ ἐπιφάνειαν
+            τῷ Ἀβραὰμ ἐπεδαψιλεύσατο, ἐκεῖ τοῖς ἀνθρώποις ὁ θεὸς ἤρξατο φαίνεσθαι, ἐκεῖ τῷ Ἀβραὰμ
+            περὶ τοῦ μέλλοντος αὐτῷ σπέρματος προηγόρευσεν καὶ παραχρῆμά γε τὴν ἐπαγγελίαν
+            ἐπλήρωσεν, ἐκεῖ πλείστων ὅσων ἐθνῶν ἔσεσθαι αὐτὸν πατέρα προεκήρυξεν. Ὧν οὕτως ἐχόντων
+            ἄξιόν ἐστιν, ὥς γέ μοι καταφαίνεται, διὰ τῆς ἡμετέρας φροντίδος καὶ καθαρὸν ἀπὸ παντὸς
+            μιάσματος τὸν τόπον τοῦτον φυλάττεσθαι καὶ πρὸς τὴν ἀρχαίαν ἁγιότητα ἀνακαλέσασθαι, ὡς
+            μηδὲν ἕτερον ἐπ’ αὐτοῦ πράττεσθαι ἢ τὴν πρέπουσαν τῷ παντοκράτορι καὶ σωτῆρι ἡμῶν καὶ
+            τῶν ὅλων δεσπότῃ θεῷ τελεῖσθαι θρησκείαν· ὅπερ μετὰ τῆς δεούσης προσῆκεν φυλάττειν ὑμᾶς
+            φροντίδος, εἴ γέ μοι τὰ καταθύμια τῆς θεοσεβείας ἐξαιρέτως ἠρτημένα, ὥσπερ οὖν
+            πέπεισμαι, ἡ ὑμετέρα σεμνότης πληροῦσθαι βούλεται.<lb/>Ὁ θεὸς ὑμᾶς διαφυλάξοι, ἀδελφοὶ
+               ἀγαπητοί.”<ab type="source" source="#bib411-1"/>
         <idno type="CTS-URN"/>
-        <ref target="http://insaph.kcl.ac.uk/iaph2007/iAph120920.html#edition"/>
-        <note xml:lang="en" type="textual">Ed. Roueché 1993 and
-               Reynolds, Roueché, and Bodard 2007</note>
+        <ref target=""/>
+        <note xml:lang="en" type="textual">Ed. Winkelmann 1991</note>
+        <note xml:lang="en" type="textual">Minor
+               corr. (punctuation)</note>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote411-2">
-        <anchor xml:id="testimonia-411.en.1" corresp="#testimonia-411.grc.1"/>Part i side a<lb/>[It was resolved] by the sacred xystic [?travelling
-            synod under] Herakles and the agonistic one (i.e. Hermes) [and the emperors M(arcus)
-            Aur(elius) Anto]ninus and L(ucius) Au[r(elius) Verus, of sacred and crowned victors]
-            from the whole world [?at Antioch] Caesaria Co[lonia ?on the occasion of the contest
-            worth ?one] talent: [Proposer ....] seconded by T(itus) Aelius M[...], wrestler,
-            extraordinary: since Aelius Aurelius Menandros, (10) extraordinary, and xystarch for
-            life of the contests in Colonia Antiochia, who practised as an athlete with honor and
-            with concern, has reached such honor that, firstly, he has won with good fortune so many
-            contests and has brought honor at each contest to his splendid homeland by proclamations
-            and crowns and especially also in the time of the divine Antoninus, so that he was not
-            only crowned at his hands, but also honored with (20) particular honors; meanwhile,
-            having become xystarch, he cared with such forethought and concern, and with all zeal,
-            for our interests, exercising his office excellently well; for these reasons both on
-            many other occasions and now praising the man and bearing witness to him we have sent
-            resolutions to the lords emperors, considering that (these would be) the greatest and
-            (30) appropriate returns to him for his goodwill towards us, and because with sufficient
-            expenditure and much effort he succeeded in arranging that the recent contest was
-            conducted among the people of Antioch, so that we think that the prizes were obtained
-            from his own resources. Therefore it has been decreed, with good fortune to thank
-            Menandros before the most sacred Council and the most splendid People of the
-            Aphrodisians concerning what has been described, (40) and to honor him with the erection
-            of statues and the dedication of images in the most distinguished location of his
-            homeland; the honors are to be inscribed with the publication of this decree, in order
-            that his honors from us should be perpetual.<lb/>He is also citizen of the following
-            cities: of the Pergamenes, of the Antiochenes, Caesarean colonists, and councillor of
-            the Thebans, and councillor of the Apolloniatai, (50) Lycian and Thracian, and
-            councillor of the Milesians, the Pessinuntii, the Claudiopolitai.<lb/>Zenon son of
-            Apollonios son of Menandros, his brother, was responsible for the honors.<lb/><lb/>Part ii
-            side b<lb/>[?The Council and People] honored with the [finest] and greatest [?honors]
-            Aelius Aurelius Menandros, who practised as an athlete with distinction [and with
-            diligence], multiple victor, pancratiast, extraordinary, xystarch, of an honorable and
-            [leading family], who was the first and only man of all time to contest over three years
-            in the three categories, as [boy] and (10) as young man and as adult, and who won sacred
-            (contests) and (contests) with prizes to the value of a talent and very many other
-            contests:<lb/>(He won) at Neapolis, in the Sebasta, the pancration of the Claudian boys;
-            in the Nemea, the boys' pancration; in the Isthmia, the young men's pancration; at
-            Ephesus, in the Balbillea, the young men's pancration - - a contest with no outright
-            victor; at Pergamum, in the provincial festival of Asia, the men's pancration; at
-            Ephesus, in the Balbillea, the men's pancration; at Smyrna, (20) in the provincial
-            festival of Asia, the men's pancration; on the occasion of the seventh Panathenais in
-            the Panathenaia, the men's pancration, first Aphrodisian (to do so); in the Nemeia, the
-            men's pancration, and in the following Nemeia, the men's pancration -- a contest with no
-            outright victor; in the Olympia at Athens, the men's pancration, the first Aphrodisian
-            (to do so); in the Pythia, the men's pancration; at Rome, in the Capitolia Olympia, the
-            men's pancration, the first Aphrodisian (to do so); (30)[... , the men's pancration, the
-            first] Aphrodisian (to do so);<lb/><lb/>Psrt ii side c<lb/>[ at ? ... , in the provincial]
-            festival of Asia, [the men's pancration;] at Mitylene, [the men's pan]cration; at
-            Adra[myttion, the men's] pancration; [at ? ...], the men's pancration; [at ? ...], the
-            men's pancration; (40) [in the ?], the men's pancration; [at ? Nicomed]ia, the men's
-            pancration; at Nicea, the men's pancration; at Prusias, the men's pancration; at
-            Claudiopolis, twice, the men's pancration; at Ancyra of Galatia, the men's pancration;
-            at Pessinus, the men’s (50) pancration; at Damascus, twice, the men's pancration; at
-            Beirut, the men's pancration; at Tyre, the men's pancration; at <placeName>Straton's
-               Caesarea</placeName>, the men's pancration; at Neapolis of Samaria, the men's
-            pancration; at Scythopolis, the men's pancration; at Gaza, the men's pancration; at
-            Caesarea Panias, the men's pancration; at Hieropolis, the men's pancration; at
-            Anazarbus, the men's pancration; (60) at Mopsuestia, the men's pancration; at Tripolis
-            of Syria, the men's pancration; at Philadelphia of Arabia, the men's pancration; at
-            Zeugma by the Euphrates, the men's pancration; at Kibyra, the men's pancration. <note xml:lang="en" type="translation">Rev. Reynolds, Roueché, and Bodard 2007</note>
+        <anchor xml:id="testimonia-411.en.1" corresp="#testimonia-411.grc.1"/>(51) These were the most important of the emperor’s (sc.
+            Constantine’s) dedications. But when he learned that the same savior who had recently
+            appeared to the world had also in ancient times manifested himself to Godloving men in
+            Palestine near the oak tree called Mamre, he also ordered that a house of prayer by
+            erected there in honor of the God who had been seen there. To the governors of the
+            provinces an Imperial mandate was circulated through letters sent to each of them,
+            commanding them to fulfill his instructions completely. But he also dispatched to the
+            author of the present history a reasoned admonition, a copy of which I should, I think,
+            add to the present work to enable the concern of the Godbeloved to be accurately
+            appreciated. He took us to task for what he had heard was going on here, and wrote in
+            these exact terms:<lb/>(52) “The Victor Constantine Maximus Augustus to Macarius and the
+            other bishops of Palestine.<lb/>The greatest single service to us of my most saintly
+            mother-in-law has been to inform us through her letters to us of the mad folly of evil
+            men, which has so far escaped attention among you, so that the neglected fault may
+            receive appropriate corrective and restorative action from us, late perhaps but yet
+            necessary. It is certainly a monstrous evil that the holy sites should be marred by
+            sacrilegious abominations. What then is it, wellbeloved brothers, which has escaped your
+            Intelligence, and the aforesaid lady’s (sc. Helena’s) reverence for the divine would not
+            let her suppress?<lb/>(53) The place by the oak tree which is known as Mamre, where we
+            understand Abraham made his home, has been completely spoiled, she says, by
+            superstitious persons. Idols fit only for absolutely destruction have been set up beside
+            it, she explains, and an altar stands nearby, and foul sacrifices are constantly
+            conducted there. Since therefore this appears to be both alien to our times and unworthy
+            of the sanctity of the site, I would have your Reverences know that a letter has been
+            written by us to Acacius our most distinguished <foreign>comes</foreign> and friend,
+            directing that without delay such idols as he may find on the aforementioned site be
+            consigned to the flames, the altar completely demolished, and in short, when all such
+            things there have been got rid of, he should devote all possible effort and endeavor to
+            clearing out the whole area. After that, according to such instructions as you
+            yourselves may give, he is to have built on the same spot a basilica worthy of the
+            catholic and apostolic Church. It will then be for your Wisdom and Reverence, as soon as
+            you learn that all the defilements there have been completely removed, to come together
+            at the same place with the bishops from Phoenicia, whom you will be able to summon on
+            the authority of this letter, and to design a basilica worthy of my munificence, so that
+            in accordance with my oders and with all speed the splendor of the building can be
+            brought to completion under the supervision of our aforesaid <foreign>comes</foreign> in
+            a manner fitting the antiquity and sacredness of the site.<lb/>Above all I wish you to
+            take particular care that in future none of those accursed and foul people dare to come
+            near the place. It is to us quite intolerable and for all the culprits a punishable
+            crime if any sacrilege is commited in such a place after our order, when we have given
+            instructions that it is to be adorned with a pure basilica church in order to become a
+            meeting-place fit for holy persons. Should anything occur contrary to this order, it is
+            well that without any hesitation it should be reported to our Clemency by letters from
+            you, so that we may order the person apprehended be subjected to the severest punishment
+            as having broken the law.<lb/>You are surely aware that there first God the Lord of the
+            Universe both appeared to Abraham and spoke with him. It was there trherefore that the
+            religion of the holy Law first had its beginning, there that the Savior himself with the
+            two angels first vouchsafed the manifestation of himself to Abraham, there that God
+            began to reveal himself to humanity, there that he spoke to Abraham about his future
+            seed and instantly fulfilled his promise, and there that he predicted he would be the
+            father of very many nations. In these circumstances it is right, so it seems to me, that
+            by our provision this site should be both kept clear of every defilement and restored to
+            its ancient holy esteem, so that no other activity goes on there except the performance
+            of the cult appropriate to God the Almighty, our Saviour and Lord of the Universe. It is
+            your duty to protect it with the necessary care, if indeed the fulfilment of my desires,
+            which particularly accord with godly religion, so I firmly believe, is the wish of your
+            Reverences.<lb/>God preserve you, dear brothers.”<ab type="source" source="#bib411-2"/>
         <idno type="CTS-URN"/>
-        <ref target="http://insaph.kcl.ac.uk/iaph2007/iAph120920.html#edition"/>
+        <ref target=""/>
+        <note xml:lang="en" type="translation">Rev. Cameron and
+               Hill 1999</note>
       </ab>
          <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib411-1">
-          <ptr target="https://caesarea-maritima.org/bibl/VU3ISTBV"/>
-          <citedRange unit="entry">12.920</citedRange>
+          <ptr target="https://caesarea-maritima.org/bibl/SHY4C57D"/>
+          <citedRange unit="bk">3</citedRange>
+          <citedRange unit="ch">51-53</citedRange>
         </bibl>
-      </listBibl>
-         <listBibl>
-        <head>Additional Bibliography</head>
-        <bibl>
-          <ptr target="https://caesarea-maritima.org/bibl/J6X733SP"/>
-          <citedRange unit="p">231-235</citedRange>
-          <citedRange unit="entry">91</citedRange>
+        <bibl xml:id="bib411-2">
+          <ptr target="https://caesarea-maritima.org/bibl/SWZIE2ME"/>
+          <citedRange unit="">141-143, 299-300</citedRange>
         </bibl>
       </listBibl>
       <note type="related-texts">
-        <p>IAph2007 1.182</p>
-        <p>IAph2007 12.290</p>
+        <p>Socrates of Constantinople, Church History 1.18.5-6</p>
+        <p>Sozomen, Church History 2.3.6</p>
       </note>
       <note type="geography">
-        <p>Adrymettium</p>
-        <p>Anazarbus</p>
-        <p>Antioch on the Orontes</p>
-        <p>Aphrodisias</p>
-        <p>Asia</p>
-        <p>Athens</p>
-        <p>Beirut</p>
-        <p>Caesarea Panias</p>
-        <p>Cibyra</p>
-        <p>Claudiopolis</p>
-        <p>Damascus</p>
-        <p>Ephesus</p>
-        <p>Gaza</p>
-        <p>Hieropolis</p>
-        <p>Isthmus</p>
-        <p>Lycia</p>
-        <p>Miletus</p>
-        <p>Mopsuestia</p>
-        <p>Mytilene</p>
-        <p>Neapolis of Samaria</p>
-        <p>Nemea</p>
-        <p>Nicaea</p>
-        <p>Nicomedia</p>
-        <p>Pergamum</p>
-        <p>Pessinus</p>
-        <p>Philadelphia of Arabia</p>
-        <p>Prusias</p>
-        <p>Rome</p>
-        <p>Scythopolis</p>
-        <p>Smyrna</p>
-        <p>Thebes</p>
-        <p>Thrace</p>
-        <p>Tripolis of Syria</p>
-        <p>Tyre</p>
-        <p>Zeugma by the Euphrates</p>
+        <p>Mamre</p>
+        <p>Palestine</p>
+        <p>Phoenicia</p>
       </note>
       <note type="prosopography">
-        <p>Antoninus Pius, emperor</p>
-        <p>Lucius Verus, emperor</p>
-        <p>Marcus Aurelius, emperor</p>
-        <p>T. Aelius Aurelius Menander</p>
+        <p>Acacius, comes</p>
+        <p>Constantine I, emperor and saint</p>
+        <p>Eusebius, bishop of Caesarea</p>
+        <p>Helena, empress and saint</p>
+        <p>Macarius, bishop of Jerusalem</p>
       </note>
       <note type="themes">
-        <p>Entertainment</p>
-        <p>Geography</p>
+        <p>Byzantine History</p>
+        <p>Christian Bible</p>
+        <p>Christianity</p>
+        <p>Education (sacred)</p>
         <p>Government and Law</p>
-        <p>Roman History</p>
+        <p>Hebrew Bible</p>
+        <p>Society and Culture</p>
       </note>
     </body>
    </text>

@@ -5,7 +5,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="en" level="a">Photius, <title level="m">Library</title> 89.67a27-67b9</title>
+            <title xml:lang="en" level="a">Tacitus, <title level="m">Histories</title> 5.9</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
             <sponsor>Vanderbilt University</sponsor>
             <principal>Joseph L. Rife</principal>
@@ -37,7 +37,7 @@
          </editionStmt>
          <publicationStmt>
             <authority>Caesarea City and Port Exploration Project</authority>
-            <idno type="URI">https://caesarea-maritima.org/testimonia/147/tei</idno>
+            <idno type="URI">https://caesarea-maritima.org/testimonia/420/tei</idno>
             <availability>
                <licence target="http://creativecommons.org/licenses/by/4.0">
                   <p>Except for materials quoted from other sources, this entry is copyright 2021 by the contributors (Joseph L. Rife, et al.) and the Caesarea City and Port Exploration Project. It is licensed under the Attribution 4.0 International (CC BY 4.0) license.</p> <p>Some texts quoted in this entry may be in the public domain in the United States. No copyright is asserted for these quotations.</p> <p>Some texts quoted in this entry may have copyright restrictions and are reused under Section 107 of the Copyright Act of 1976 (Title 17 of the United States Code) which permits “fair use” of copyrighted materials for purposes such as criticism, comment, scholarship, and research. These texts remain under copyright of their owners. No copyright infringement is intended.</p>
@@ -250,16 +250,16 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Library</title> <ref target="#bib147-1">89.67a27-67b9</ref> written by <persName ref="http://viaf.org/viaf/14775071" role="author">Photius</persName> in <origDate notBefore="0845" notAfter="0855" period="#earlyIslamic">845-855 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Histories</title> <ref target="#bib420-1">5.9</ref> written by <persName ref="http://viaf.org/viaf/100226923" role="author">Tacitus</persName> in <origDate notBefore="0100" notAfter="0110" period="#nabateanKingdom #earlyRoman">100-110 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</creation>
          <langUsage>
-        <language ident="grc">Ancient Greek</language>
+        <language ident="la">Latin</language>
       </langUsage>
          <textClass>
             <classCode scheme="https://distributed-text-services.github.io/specifications">
                <idno type="CTS-URN"/>
             </classCode>
-            <catRef scheme="#CM-Testimonia-Type" target="#direct"/>
-            <catRef scheme="#CM-NEAEH" target="#byzantine"/>
+            <catRef scheme="#CM-Testimonia-Type" target="#indirect"/>
+            <catRef scheme="#CM-NEAEH" target="#lateHellenistic #earlyRoman #herodian"/>
          </textClass>
       </profileDesc>
       <revisionDesc status="draft">
@@ -271,103 +271,113 @@
    <text>
       <body>
          <ab type="identifier">
-            <idno type="URI">https://caesarea-maritima.org/testimonia/147</idno>
+            <idno type="URI">https://caesarea-maritima.org/testimonia/420</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract147-1">
-        <quote><placeName>Καισαρείας Παλαιστίνης</placeName></quote>, and <quote><placeName>Caesarea Palestinae</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/14775071" role="author">Photius</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Library</title> <ref target="#bib147-1">89.67a27-67b9</ref>. This passage was written ca. <origDate notBefore="0845" notAfter="0855" period="#earlyIslamic">845-855 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
-         <desc type="context">Photius I was ecumenical patriarch of Constantinople in 858-867 and
-            877-886, as well as an unparalleled intellectual luminary for his age. Apart from his
-            distinguished ecclesiastical career, he engaged in polymathic teaching and research,
-            supported by his vast personal library. Photius wrote an expansive compendium of
-            classical writings in 280 volumes or codices, his <title>Library</title> (Βιβλιοθήκη) or
-               <title>Thousandsfold Book</title> (Μυριόβιβλον), which included epitomes, excerpts,
-            and commentaries mainly on historical, rhetorical, and theological works, many of which
-            are otherwise lost. Several passages discuss the renowned leaders of the Church at
-            Caesarea in Palestine. In this passage, Photius continues his discussion from the
-            previous section about the writings by two or three different bishops of Caesarea all
-            named Gelasius, in this case a continuator of <title>Church History</title> by
-            Eusebius.</desc>
-         <ab type="edition" xml:lang="grc" xml:id="quote147-1">
-        <anchor xml:id="testimonia-147.grc.1" corresp="#testimonia-147.en.1"/>Ἡ δὲ λοιπὴ βίβλος ἐπιγραφὴν μὲν ἔχει τοιαύτην· «Προοίμιον ἐπισκόπου
-               <placeName>Καισαρείας Παλαιστίνης</placeName> εἰς τὰ μετὰ τὴν ἐκκλησιαστικὴν ἱστορίαν
-            Εὐσεβίου τοῦ Παμφίλου», ἄρχεται δὲ οὕτω· «Τοὺς μὲν ἄλλους ἐπὶ τὸ συγγράφειν ὡρμημένους
-            καὶ τῶν γενομένων τὰς ἱστορίας τῇ μνήμῃ παραπέμπειν ἐγνωκότας» καὶ ἑξῆς. Λέγει δ’ ἑαυτὸν
-            ἀνεψιὸν πρὸς μητρὸς Κυρίλλου τοῦ Ἱεροσολύμων καὶ ὑπ’ ἐκείνου προτραπῆναι εἰς τήνδε τὴν
-            συγγραφήν. Ἡμεῖς δὲ εὕρομεν, ἀνεγνωκότες ἐν ἄλλοις, ὅτι αὐτός τε Κύριλλος καὶ Γελάσιος
-            οὗτος τὴν Ῥουφίνου τοῦ Ῥωμαίου μετέφρασαν ἱστορίαν εἰς τὴν Ἑλλάδα γλῶσσαν, οὐ μέντοι
-            ἰδίαν συνετάξαντο ἱστορίαν. Δῆλον δ’ ὡς ἀρχαιότερος ἦν οὗτος τοῦ προειρημένου, εἴ γε
-            κατὰ Κύριλλον ἤκμασε τὸν Ἱεροσολύμων. Ἀλλ’ οὗτος μὲν ὁ Γελάσιος ἐκείνου καὶ τῇ φράσει
-            ἐπὶ τὸ λογιώτερον διαφέρει. Ἑκάτερος μέντοι αὐτῶν πολὺ τοῦ κατὰ Ἀνομοίων συγγεγραφότος
-            ἐνδεέστερος ὑπάρχει. Ἐπίσκοπος δ’ ἄρα κἀκεῖνος τῆς αὐτῆς ἐπιγράφεται Παλαιστίνης. Ἀλλ’
-            ἐκεῖνός γε ὁ Γελάσιος τῇ φράσει καὶ πολυμαθίᾳ καὶ ταῖς λογικαῖς ἐφόδοις, αἷς οὐκ οἶδ’
-            ὅπως εἰπεῖν καὶ ἀπειροκάλως κατεχρήσατο, παρὰ πολὺ τούτους τὴν ἐν τοῖς λόγοις ἐλάττονα
-            τάξιν ἐπέχειν ἀπελαύνει. Εἰ δέ τις τούτων αὐτός ἐστιν ὁ γράψας, καὶ ταῦτα χρόνῳ συλλέξας
-            καὶ συναυξήσας τὰ λείποντα, οὔπω μαθεῖν ἔσχον. <ab type="source" source="#bib147-1"/>
+         <desc type="abstract" xml:id="abstract420-1">Caesarea Maritima is indirectly attested at <persName ref="http://viaf.org/viaf/100226923" role="author">Tacitus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Histories</title> <ref target="#bib420-1">5.9</ref>. This passage was written ca. <origDate notBefore="0100" notAfter="0110" period="#nabateanKingdom #earlyRoman">100-110 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+         <desc type="context">Cornelius Tacitus (ca. 56-ca. 120 C.E.) was an ancient historian of
+            the Roman Empire held in high esteem by scholars today. He enjoyed a successful career
+            as a prominent lawyer, a rising official in both the civic and provincial spheres, and
+            eventually suffect consul in 97 C.E. and then governor of Asia in 112-113 C.E. His major
+            historical works, <title>Histories</title> and so-called <title>Annals</title> (“From
+            the Departure of Augustus the God,” <foreign>ab excessu divi Augusti</foreign>), offered
+            a detailed narrative with penetrating political analysis of the Imperial government and
+            its ruling class from the death of Augustus through the Flavian dynasty, probably the
+            death of Domitian (14-96 C.E.) | Before his account of the fall of Jerusalem to Titus in
+            70 C.E. (<title>Histories</title> 5), Tacitus delivers a long excursus on the history,
+            culture, and geography of the region. In this passage, he describes stages in the Roman
+            subjugation of the Jews, from Pompey the Great (63 B.C.E.) to the Antonius Felix, the
+            procurator of Judaea whose base was Caesarea (52-60 C.E.)</desc>
+         <ab type="edition" xml:lang="la" xml:id="quote420-1">
+        <anchor xml:id="testimonia-420.la.1" corresp="#testimonia-420.en.1"/>Romanorum primus Cn. Pompeius Iudaeos domuit templumque iure victoriae
+            ingressus est: inde vulgatum nulla intus deum effigie vacuam sedem et inania arcana.
+            Muri Hierosolymorum diruti, delubrum mansit. mox civili inter nos bello, postquam in
+            dicionem M. Antonii provinciae cesserant, rex Parthorum Pacorus Iudaea potitus
+            interfectusque a P. Ventidio, et Parthi trans Euphraten redacti: Iudaeos C. Sosius
+            subegit. Regnum ab Antonio Herodi datum victor Augustus auxit. Post mortem Herodis,
+            nihil expectato Caesare, Simo quidam regium nomen invaserat. Is a Quintilio Varo
+            obtinente Syriam punitus, et gentem coercitam liberi Herodis tripertito rexere. Sub
+            Tiberio quies. Dein iussi a C. Caesare effigiem eius in templo locare arma potius
+            sumpsere, quem motum Caesaris mors diremit. Claudius, defunctis regibus aut ad modicum
+            redactis, Iudaeam provinciam equitibus Romanis aut libertis permisit, e quibus Antonius
+            Felix per omnem saevitiam ac libidinem ius regium servili ingenio exercuit, Drusilla
+            Cleopatrae et Antonii nepte in matrimonium accepta, ut eiusdem Antonii Felix progener,
+            Claudius nepos esset.<ab type="source" source="#bib420-1"/>
         <idno type="CTS-URN"/>
-        <ref target="https://babel.hathitrust.org/cgi/pt?id=inu.32000000323156&amp;view=1up&amp;seq=77&amp;skin=2021"/>
-        <note xml:lang="en" type="textual">Ed. Bekker 1824-1825
-               with ref. Henry 1959</note>
+        <ref target=""/>
+        <note xml:lang="en" type="textual">Ed. Fisher 2008</note>
       </ab>
-         <ab type="translation" xml:lang="en" xml:id="quote147-2">
-        <anchor xml:id="testimonia-147.en.1" corresp="#testimonia-147.grc.1"/>The other book [i.e., besides the one mentioned in codex 88] is
-            entitled <title>Preface of the Bishop of <placeName>Caesarea Palestinae</placeName> to
-               the Continuation of the History of Eusebius Pamphili</title>. It begins as follows:
-            “Others who have applied themselves to writing and have determined to hand down to
-            posterity a record of events,” and so on. The author states that he was on his mother’s
-            side nephew of Cyril, bishop of Jerusalem, and that he had been urged by (Cyril) to
-            compose this work. I have read elsewhere that Cyril himself and this Gelasius translated
-            the history of the Roman Rufinus into Greek, but did not compose any history of their
-            own. It is evident that this (author) was older than the other (Gelasius), if indeed he
-            reached his professional peak in the time of Cyril of Jerusalem. This Gelasius also
-            differs from the other in the greater eloquence of his expression; both however are
-            inferior to the author of <title>Against the Anomoeans</title>, who was also identified
-            on the cover as bishop of Palestine. For that Gelasius, by his expression, learning, and
-            logical methods, which he applies let’s say ineptly, leaves the other two far behind at
-            an inferior level of writing. I have not yet been able to learn whether one of these
-            (Gelasii) is the author of the work (mentioned), after he compiled the information over
-            time and supplemented what was left out.<ab type="source" source="#bib147-2"/>
+         <ab type="translation" xml:lang="en" xml:id="quote420-2">
+        <anchor xml:id="testimonia-420.en.1" corresp="#testimonia-420.la.1"/>The first Roman to subdue the Jews and enter their Temple by right
+            of conquest was Gnaeus Pompey [in 63 B.C.E.]. From then on it was widely known that
+            there were no images of the divine inside, but the sacred place was vacant and the
+            secret shrine empty. The walls of Jerusalem were raised but the Sanctuary remained
+            standing. Later, during our Civil Wars, after these provinces had fallen under the
+            control of Mark Antony, the king of the Parthians, Pecorus, seized Judaea, but he was
+            killed by Publius Ventidius, and the Parthians were driven back beyond the Euphrates;
+            and Gaius Sosius subdued the Jews [in 37 B.C.E]. Antony gave the kingdom to Herod, and
+            Augustus, after his victory, magnified it [in 31 B.C.E.] After the death of Herod, a
+            certain Simon assumed the royal title without waiting for Caesar’s sanction [in 4
+            B.C.E.] He was punished by Quintilius Varus, governor of Syria, and, after the
+            supression of the Jews, the sons of Herod ruled over a kingdom divided three ways. Under
+            Tiberius all was quiet. Then, when Gaius Caesar (Caligula) to set up his statue in their
+            Temple, they took up arms instead, but the emperor’s death put an end to the uprising
+            [in 41 C.E.]. Now that the kings were dead or had been reduced to insignificance,
+            Claudius made Judaea a province and entrusted it to Roman equestrians or to freedmen.
+            One of the latter, Antonius Felix, perpetrating every kind of cruelty and lust,
+            exercised his ruling power with a servile instinct [from 42 C.E.]. He married Drusilla,
+            the granddaughter of Cleopatra and Antony, and so he was Antony’s grandson-in-law, while
+            Claudius was Antony’s grandson.<ab type="source" source="#bib420-2"/>
         <idno type="CTS-URN"/>
-        <ref target="https://archive.org/details/libraryofphotius00phot/page/154/mode/2up"/>
-        <note xml:lang="en" type="translation">Adapted from Freese
-               1920 with ref. to Henry 1959</note>
+        <ref target=""/>
+        <note xml:lang="en" type="translation">Adapted from Moore
+               1925</note>
       </ab>
          <listBibl>
         <head>Works Cited</head>
-        <bibl xml:id="bib147-1">
-          <ptr target="https://caesarea-maritima.org/bibl/KK4EKZ9D"/>
-          <citedRange unit="bk">89</citedRange>
-          <citedRange unit="p">67a27-67b9</citedRange>
+        <bibl xml:id="bib420-1">
+          <ptr target="https://caesarea-maritima.org/bibl/VD7GNWAE"/>
+          <citedRange unit="bk">5</citedRange>
+          <citedRange unit="ch">9</citedRange>
         </bibl>
-        <bibl xml:id="bib147-2">
-          <ptr target="https://caesarea-maritima.org/bibl/9VU2XC27"/>
+        <bibl xml:id="bib420-2">
+          <ptr target="https://caesarea-maritima.org/bibl/38WGHKRS"/>
           <citedRange unit="vol">2</citedRange>
-          <citedRange unit="p">15</citedRange>
-        </bibl>
-      </listBibl>
-         <listBibl>
-        <head>Additional Bibliography</head>
-        <bibl>
-          <ptr target="https://caesarea-maritima.org/bibl/9UDPPPSU"/>
-          <citedRange unit="p">155-156</citedRange>
+          <citedRange unit="p">190-191</citedRange>
         </bibl>
       </listBibl>
       <note type="related-texts">
-        <p>* Photius, Library 102</p>
-        <p>* Photius, Library 88</p>
+        <p>Josephus, Jewish Antiquities 20.7</p>
+        <p>Suetonius, Biography of the Caesars: Claudius 28.1</p>
       </note>
       <note type="geography">
+        <p>Euphrates River</p>
         <p>Jerusalem</p>
+        <p>Judaea</p>
+        <p>Parthia</p>
+        <p>Syria</p>
       </note>
       <note type="prosopography">
-        <p>Eusebius of Caesarea</p>
-        <p>Gelasius, bishop</p>
-        <p>Rufinus</p>
+        <p>Antonius Felix, governor</p>
+        <p>Augustus, emperor</p>
+        <p>Claudius, emperor</p>
+        <p>Cleopatra VII, Ptolemaic queen</p>
+        <p>Drusilla, daughter of Antonia Minor</p>
+        <p>Gaius (Caligula), emperor</p>
+        <p>Gaius Sosius, general</p>
+        <p>Gnaeus Pompeius, general</p>
+        <p>Herod I, king</p>
+        <p>Marcus Antonius, triumvir</p>
+        <p>Pecorus, king of the Parthian</p>
+        <p>Publius Ventidius, general</p>
+        <p>Quintilius Varus, governor</p>
+        <p>Simon</p>
+        <p>Tiberius, emperor</p>
       </note>
       <note type="themes">
-        <p>Christianity</p>
-        <p>Culture and Society</p>
-        <p>Education (sacred)</p>
-        <p>Greek Language</p>
+        <p>Military</p>
+        <p>Family</p>
+        <p>Government and Law</p>
+        <p>Roman History</p>
       </note>
     </body>
    </text>
