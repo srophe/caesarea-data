@@ -5,7 +5,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="en" level="a">Photius, <title level="m">Library</title> 89.67a27-67b9</title>
+            <title xml:lang="en" level="a">Pomponius, <title level="m">Petition from Veterans, PSI</title> 9.1026A</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
             <sponsor>Vanderbilt University</sponsor>
             <principal>Joseph L. Rife</principal>
@@ -37,7 +37,7 @@
          </editionStmt>
          <publicationStmt>
             <authority>Caesarea City and Port Exploration Project</authority>
-            <idno type="URI">https://caesarea-maritima.org/testimonia/147/tei</idno>
+            <idno type="URI">https://caesarea-maritima.org/testimonia/49/tei</idno>
             <availability>
                <licence target="http://creativecommons.org/licenses/by/4.0">
                   <p>Except for materials quoted from other sources, this entry is copyright 2021 by the contributors (Joseph L. Rife, et al.) and the Caesarea City and Port Exploration Project. It is licensed under the Attribution 4.0 International (CC BY 4.0) license.</p> <p>Some texts quoted in this entry may be in the public domain in the United States. No copyright is asserted for these quotations.</p> <p>Some texts quoted in this entry may have copyright restrictions and are reused under Section 107 of the Copyright Act of 1976 (Title 17 of the United States Code) which permits “fair use” of copyrighted materials for purposes such as criticism, comment, scholarship, and research. These texts remain under copyright of their owners. No copyright infringement is intended.</p>
@@ -250,16 +250,16 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Library</title> <ref target="#bib147-1">89.67a27-67b9</ref> written by <persName ref="http://viaf.org/viaf/14775071" role="author">Photius</persName> in <origDate notBefore="0845" notAfter="0855" period="#earlyIslamic">845-855 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Petition from Veterans, PSI</title> <ref target="#bib49-1">9.1026A</ref> written by <persName ref="" role="author">Pomponius</persName> in <origDate notBefore="0150" notAfter="" period="#lateRoman">150 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</creation>
          <langUsage>
-        <language ident="grc">Ancient Greek</language>
+        <language ident="la">Latin</language>
       </langUsage>
          <textClass>
             <classCode scheme="https://distributed-text-services.github.io/specifications">
                <idno type="CTS-URN"/>
             </classCode>
             <catRef scheme="#CM-Testimonia-Type" target="#direct"/>
-            <catRef scheme="#CM-NEAEH" target="#byzantine"/>
+            <catRef scheme="#CM-NEAEH" target="#lateRoman"/>
          </textClass>
       </profileDesc>
       <revisionDesc status="draft">
@@ -271,103 +271,153 @@
    <text>
       <body>
          <ab type="identifier">
-            <idno type="URI">https://caesarea-maritima.org/testimonia/147</idno>
+            <idno type="URI">https://caesarea-maritima.org/testimonia/49</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract147-1">
-        <quote><placeName>Καισαρείας Παλαιστίνης</placeName></quote>, and <quote><placeName>Caesarea Palestinae</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/14775071" role="author">Photius</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Library</title> <ref target="#bib147-1">89.67a27-67b9</ref>. This passage was written ca. <origDate notBefore="0845" notAfter="0855" period="#earlyIslamic">845-855 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
-         <desc type="context">Photius I was ecumenical patriarch of Constantinople in 858-867 and
-            877-886, as well as an unparalleled intellectual luminary for his age. Apart from his
-            distinguished ecclesiastical career, he engaged in polymathic teaching and research,
-            supported by his vast personal library. Photius wrote an expansive compendium of
-            classical writings in 280 volumes or codices, his <title>Library</title> (Βιβλιοθήκη) or
-               <title>Thousandsfold Book</title> (Μυριόβιβλον), which included epitomes, excerpts,
-            and commentaries mainly on historical, rhetorical, and theological works, many of which
-            are otherwise lost. Several passages discuss the renowned leaders of the Church at
-            Caesarea in Palestine. In this passage, Photius continues his discussion from the
-            previous section about the writings by two or three different bishops of Caesarea all
-            named Gelasius, in this case a continuator of <title>Church History</title> by
-            Eusebius.</desc>
-         <ab type="edition" xml:lang="grc" xml:id="quote147-1">
-        <anchor xml:id="testimonia-147.grc.1" corresp="#testimonia-147.en.1"/>Ἡ δὲ λοιπὴ βίβλος ἐπιγραφὴν μὲν ἔχει τοιαύτην· «Προοίμιον ἐπισκόπου
-               <placeName>Καισαρείας Παλαιστίνης</placeName> εἰς τὰ μετὰ τὴν ἐκκλησιαστικὴν ἱστορίαν
-            Εὐσεβίου τοῦ Παμφίλου», ἄρχεται δὲ οὕτω· «Τοὺς μὲν ἄλλους ἐπὶ τὸ συγγράφειν ὡρμημένους
-            καὶ τῶν γενομένων τὰς ἱστορίας τῇ μνήμῃ παραπέμπειν ἐγνωκότας» καὶ ἑξῆς. Λέγει δ’ ἑαυτὸν
-            ἀνεψιὸν πρὸς μητρὸς Κυρίλλου τοῦ Ἱεροσολύμων καὶ ὑπ’ ἐκείνου προτραπῆναι εἰς τήνδε τὴν
-            συγγραφήν. Ἡμεῖς δὲ εὕρομεν, ἀνεγνωκότες ἐν ἄλλοις, ὅτι αὐτός τε Κύριλλος καὶ Γελάσιος
-            οὗτος τὴν Ῥουφίνου τοῦ Ῥωμαίου μετέφρασαν ἱστορίαν εἰς τὴν Ἑλλάδα γλῶσσαν, οὐ μέντοι
-            ἰδίαν συνετάξαντο ἱστορίαν. Δῆλον δ’ ὡς ἀρχαιότερος ἦν οὗτος τοῦ προειρημένου, εἴ γε
-            κατὰ Κύριλλον ἤκμασε τὸν Ἱεροσολύμων. Ἀλλ’ οὗτος μὲν ὁ Γελάσιος ἐκείνου καὶ τῇ φράσει
-            ἐπὶ τὸ λογιώτερον διαφέρει. Ἑκάτερος μέντοι αὐτῶν πολὺ τοῦ κατὰ Ἀνομοίων συγγεγραφότος
-            ἐνδεέστερος ὑπάρχει. Ἐπίσκοπος δ’ ἄρα κἀκεῖνος τῆς αὐτῆς ἐπιγράφεται Παλαιστίνης. Ἀλλ’
-            ἐκεῖνός γε ὁ Γελάσιος τῇ φράσει καὶ πολυμαθίᾳ καὶ ταῖς λογικαῖς ἐφόδοις, αἷς οὐκ οἶδ’
-            ὅπως εἰπεῖν καὶ ἀπειροκάλως κατεχρήσατο, παρὰ πολὺ τούτους τὴν ἐν τοῖς λόγοις ἐλάττονα
-            τάξιν ἐπέχειν ἀπελαύνει. Εἰ δέ τις τούτων αὐτός ἐστιν ὁ γράψας, καὶ ταῦτα χρόνῳ συλλέξας
-            καὶ συναυξήσας τὰ λείποντα, οὔπω μαθεῖν ἔσχον. <ab type="source" source="#bib147-1"/>
+         <desc type="abstract" xml:id="abstract49-1">
+        <quote><placeName>c̣[o]l(onia) I Fl(avia) Aug(usta) Caes(area)</placeName></quote>, and <quote><placeName>First Flavian Colony of Caesarea</placeName></quote> are directly attested at <persName ref="" role="author">Pomponius</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Petition from Veterans, PSI</title> <ref target="#bib49-1">9.1026A</ref>. This passage was written ca. <origDate notBefore="0150" notAfter="" period="#lateRoman">150 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</desc>
+         <desc type="context">This long text survives in two copies on papyrus at the Bibliotheca
+            Medicea Laurenziana (inv. 14488): A with writing mostly on the front and a single short
+            column against the fibers on the back, and B with writing on one side. It contains a
+            petition to the Imperial legate Vilius Cadus in Caesarea Maritima written by one
+            Pomponius, presented by one Lucius Petronius Saturninus, and signed by 22 soldiers, who
+            had posted it in a Portico of Junia Ba[?] at Caesarea Maritima (B line 1). They had
+            served honorably in Legio X Fretensis, long stationed in Palestine, and were returning
+            to their home town of Alexandria following discharge from duty. They now requested a
+            written document or proof (<foreign>instrumentum</foreign>) to affirm their discharge
+            “if circumstances demand” (<foreign>rebus necessariis</foreign>, line 9), presumably in
+            an effort to secure citizenship for themselves or their children, or to garner any other
+            benefit that such recognition of honorable service to the State might confer. The legate
+            added his endorsement to the bottom of the recorded petition, promising to produce a
+            document for the Prefect of Egypt—but not formal certification or
+               <foreign>diplomata</foreign>, which, as he states, was not standard practice—in his
+            offices at Caesarea on January 22, 150 C.E. On the back of the first copy (A
+               <foreign>verso</foreign>) nine more soldiers, some of Legio VI Ferrata, signed on to
+            the petition. Both copies have Greek transliterations intermixed sparsely with Latin.
+            The texts stored in Florence were recovered from somewhere in Egypt, where the veterans
+            brought them on their way home. Apart from its rich evidence for personal names and
+            military communications during the High Empire, this text attests to concerns among
+            legionary veterans over their legal status in retirement. It also gives the sole
+            testimony for a named portico at Caesarea where notices were posted.</desc>
+         <ab type="edition" xml:lang="la" xml:id="quote49-1">
+        <anchor xml:id="testimonia-49.la.1" corresp="#testimonia-49.en.1"/>Recto<lb/>Descriptum et recogn[i]ṭ[u]ṃ ex libello proposito cum ali&lt;i&gt;s
+            in p̣ọrtị[co] Iu[niae ̣ ̣ ̣ ̣ ̣]ae,<lb/>in quo scriptum eṛat id qụod i&lt;n&gt;fra scriptum
+            est: Vịlio Kado&lt;.&gt; ḷe[g(ato)] Ạug(usti) pr(o)pr(aetore) [ab] veteranis<lb/>leg(ionis) X
+            Fr(etensis) n(umero) XXII qui militare coeperunt Glabr[io]ne ẹṭ Tọṛ[quato i]ṭem
+            Pạ[ulino] et<lb/>Aquilino co(n)s(ulibus), quoṛum nomina subiecṭạ ṣụṇt. Cum
+            militaveri[imus, domine, in classe] (5)<lb/>praetoria Misenensi{s} et ex indulgentia divi
+            Hadriani in leg(ionem) Fr(etensem) translatiṣ [a(nnos) s]uper XX (5)<lb/>omnia nobis uti
+            bonis militibus coṇṣṭitẹṛi{n}t, nunc quo[que] felicissimis temporibus<lb/>sacramento
+            absoluti sumus, et ịṇ patriam Alexandriam ad Aegypto ituri pẹtimus et<lb/>rogamus digneris
+            nobis adfirmare a te missos esse, ut ex adfirmatione tua appareat<lb/>nos ex eadem legione
+            missos esse, non ex classe, ut possit ṛ[e]bus neces[sari]&lt;i&gt;s sub-<lb/>scriptio ṭụạ
+            [inst]ṛụmenti c̣ạusa nobịṣ prodesse eṭ h[u]maṇịtati tuạẹ [i]ṇ per[petuo] gratias (10)<lb/>agamus. C(aius) V[ ca. 12 ] (centuria) Pe[ ̣ ̣ ̣]ni Firmi· C(aius) Longi[ ca. 10 ]
+            (centuria) I[ ̣ ̣ ̣ ̣]ni Ae-<lb/>ternalis· C(aius) Praesenṭius Proculus (centuria) Iuli
+            Sabini· C(aius) Crispus Apolḷịṇaris (centuria) [C]laudi<lb/>Macedonis· C(aius) Sabinus
+            Capetolinus (centuria) Flaui Longini· C(aius) Iulius Crispinus (centuria) Pon[ ̣ ̣ ̣ ̣
+            ̣]<lb/>Magni p(rimi)p(ili)· C(aius) Aurelius Pṛịscus (centuria) [ ̣ ̣ ̣ ]ni Proculi·
+            L(ucius) Petronius Saturninus (centuria) Ṇụ-<lb/>mis[ ̣]troni Seveṛi· C(aius) Longinus
+            Priscus (centuria) Verui Rufi· C(aius) Longinus Priṣc̣us (centuria) ẹạḍẹṃ (15)<lb/>C(aius)
+            Apollinnaris Maximus (centuria) Petr[ ̣ ̣]i· Firmi· C(aius) Iulius ̣ ̣p̣ịṭ ̣ (centuria)
+            Pḷoti Celeris· M(arcus) Sabiṇụṣ<lb/>Apọllinaris (centuria) eadem· C(aius) Cṛispus A[ ca.
+            10 ] (centuria) Ae[ ̣]i Artoṛị· [ ̣ ̣ ̣ ̣ ̣]us ̣[ ̣ ̣ ̣ ̣] ̣[ ̣ ̣ ̣ ̣ ̣ ̣ ̣]ṇị<lb/>Rufi·
+            C[ ca. 15 ]ịs (centuria) I[ ca. 40 ]uạ<lb/>leri[ ca. 15 ]ce[ ca. 45 ]ụṣ<lb/>Max̣ịmus
+            (centuria)· C̣ḷạụḍ[ ca. 9 ] T(itus)· Flavius Maximus (centuria) ẹadẹm· [ ̣ ̣ ̣]l[ ̣]riụṣ
+            Ap̣[o]ḷḷ[i]n[aris] (20)<lb/>(centuria) Flavi Longini. Ḷ(ucius) [P]etronius Saturninus
+            edidị pr[o] me et c̣onveteranis ṃẹis. Pom-<lb/>ponius scribsi. Subsc̣ṛiptiọ: Veterani ex
+            legioṇịbus instrumentum accip̣ẹṛẹ<lb/>non solent, attamẹṇ sacramentọ vos a me iuṣsu
+            imperatoris ṇ(ostri) solutos notum<lb/>fieri praefecto Aẹg̣ỵp̣ti desideratis. Sportulam
+            dabo pr ̣ ̣ ̣ ̣e. Actum in <placeName>c̣[o]l(onia) I Fl(avia) Aug(usta)<lb/>Caes(area)</placeName> XI Kal(endas)
+            F̣ebrụạṛ(ias) Squịlla Gallicano et Carminnio Vetere cos(ulibus) (25)<lb/>Verso<lb/>(hand 1)
+            Υαλεριυς Υαλεριανυς υετ(ερανυς)<lb/>leg(ionis) VI Ferr(atae) signa[vi]<lb/>(hand 2) ̣ ̣ ̣
+            ̣us Valeṇṣ<lb/>(hand 3) ̣ ̣ ̣ ̣ius Valeṇṣ<lb/>vẹ[t]eranus leg(ionis) VI Ferr(atae) (30)<lb/>(hand 4) [Ι]υλιυς Ιυλιανυς<lb/>[leg(ionis)] VI F̣ẹṛr(atae)<lb/>(hand 5) traces<lb/>(hand 5)
+            traces<lb/>(hand 6) ̣ ̣ ̣ ̣ ka[ ̣] ̣s veteran ̣s (35)<lb/>̣ ̣ ̣ ̣<lb/>(hand 7) [ ca. ? ] ̣ ̣ ̣
+            ̣[ ̣ ̣ ̣ ̣]l ̣s vẹṭ(eranus) <ab type="source" source="#bib49-1"/>
         <idno type="CTS-URN"/>
-        <ref target="https://babel.hathitrust.org/cgi/pt?id=inu.32000000323156&amp;view=1up&amp;seq=77&amp;skin=2021"/>
-        <note xml:lang="en" type="textual">Ed. Bekker 1824-1825
-               with ref. Henry 1959</note>
+        <ref target="http://papyri.info/ddbdp/psi;9;1026"/>
+        <note xml:lang="en" type="textual">Ed. Vitelli 1928 with ref. to Smallwood
+               1966</note>
+        <note xml:lang="en" type="corrigenda">Minor corr. (resolved personal names, clear reconstructions, punctuation,
+               capitalization)</note>
       </ab>
-         <ab type="translation" xml:lang="en" xml:id="quote147-2">
-        <anchor xml:id="testimonia-147.en.1" corresp="#testimonia-147.grc.1"/>The other book [i.e., besides the one mentioned in codex 88] is
-            entitled <title>Preface of the Bishop of <placeName>Caesarea Palestinae</placeName> to
-               the Continuation of the History of Eusebius Pamphili</title>. It begins as follows:
-            “Others who have applied themselves to writing and have determined to hand down to
-            posterity a record of events,” and so on. The author states that he was on his mother’s
-            side nephew of Cyril, bishop of Jerusalem, and that he had been urged by (Cyril) to
-            compose this work. I have read elsewhere that Cyril himself and this Gelasius translated
-            the history of the Roman Rufinus into Greek, but did not compose any history of their
-            own. It is evident that this (author) was older than the other (Gelasius), if indeed he
-            reached his professional peak in the time of Cyril of Jerusalem. This Gelasius also
-            differs from the other in the greater eloquence of his expression; both however are
-            inferior to the author of <title>Against the Anomoeans</title>, who was also identified
-            on the cover as bishop of Palestine. For that Gelasius, by his expression, learning, and
-            logical methods, which he applies let’s say ineptly, leaves the other two far behind at
-            an inferior level of writing. I have not yet been able to learn whether one of these
-            (Gelasii) is the author of the work (mentioned), after he compiled the information over
-            time and supplemented what was left out.<ab type="source" source="#bib147-2"/>
+         <ab type="translation" xml:lang="en" xml:id="quote49-2">
+        <anchor xml:id="testimonia-49.en.1" corresp="#testimonia-49.la.1"/>A front<lb/>Recorded and authenticated from the petition published
+            along with others in the Portico of Junia [----], in which was written the text which is
+            written out below.<lb/>To Vilius Cadus, legate of the Emperor with propraetorian power,
+            from 22 veterans of the Legion X Fretensis, who began their military service in the
+            consulship of Glabrio and Torquatus or in the consulship of Paulinus and Aquilinus [=
+            124 and 125 C.E.], and whose names are listed below. Since, sire, we served in the
+            praetorian fleet at Misenum and then, after transfer to the Fretensis Legion through the
+            generosity of Hadrian the god, conducted ourselves over 20 [years] in every respect as
+            good soldiers should, now indeed in these most felicitous times we have been
+            [discharged] from our military oath and, as we are about to return to Egypt, to our
+            native city of Alexandria, we ask and request that you should think it appropriate to
+            affirm for us that we have been discharged by you, in order that it may be obvious from
+            your affirmation that we have been discharged from this very legion, not from the fleet,
+            so that your endorsement may serve us as written evidence if circumstances demand, and
+            so that we may be eternally grateful for your compassion.<lb/>Caius V[---], (century of)
+            Pe[---]us Firmus<lb/>Caius Longi[---], (century of) I[----] Aeternalis<lb/>Caius Praesentius
+            Proculus, (century) of Julius Sabinus<lb/>Caius Crispus Apollinaris, (century) of Claudius
+            Macedon<lb/>Caius Sabinus Capitolinus, (century) of Flavius Longinus<lb/>Caius Iulius
+            Crispinus, (century) of Pon[----] Magnus, senior centurion<lb/>Caius Aurelius Priscus,
+            (century of) [----]nus Proculus<lb/>Lucius Petronius Saturninus, (century of) Numistronus
+            Severus<lb/>Caius Longinus Priscus, (century of) Verus Rufus<lb/>Caius Longinus Priscus,
+            same (century)<lb/>Caius Apollinaris Maximus, (century of) Petr[----]us Firmus<lb/>Caius
+            Julius [----], (century of) Plotus Celer<lb/>Marcus Sabinus Apollinarus, same (century)<lb/>Caius Crispus A[----], (century of) Ae[----] Artorus<lb/>[----, (century of) ----] Rufus<lb/>Caius [----], (century) of I[----]<lb/>[names of legionaries?]<lb/>[----] Max̣ịmus, (century
+            of) Claud[ius ----]<lb/>Titus Flavius Maximus, same (century)<lb/>[----]lerius Apollinaris,
+            (century of) Flavius Longinus<lb/>I, Lucius Petronius Saturninus, presented (this
+            petition) on behalf of myself and my fellow veterans. I, Pomponius, wrote it.
+            Endorsement: Veterans from the legions do not usually receive a written document.
+            However, you wish it to be made known to the prefect of Egypt that you have been
+            discharged from your military oath by me on the orders of our emperor. I shall give you
+            your bonus. [Publish this?] Executed in the <placeName>First Flavian Colony of Caesarea</placeName>, 22
+            January, in the consulship of Squilla Gallicanus and Carminius Vetus.<lb/>A back<lb/>(hand
+            1) Valerius Valerianus, veteran, Legio VI Ferrata, I signed<lb/>(hand 2) [----]us Valens<lb/>(hand 3) [----]us Valens, veteran, Legio VI Ferrata<lb/>(hand 4) Julius Julianus, Legio VI
+            Ferrata<lb/>(hand 5) [----]<lb/>(hand 5) [----]<lb/>(hand 6) [----], veteran<lb/>[----]<lb/>(hand
+            7) [----], veteran<ab type="source" source="#bib49-2"/>
         <idno type="CTS-URN"/>
-        <ref target="https://archive.org/details/libraryofphotius00phot/page/154/mode/2up"/>
-        <note xml:lang="en" type="translation">Adapted from Freese
-               1920 with ref. to Henry 1959</note>
+        <ref target=""/>
+        <note xml:lang="en" type="translation">Rev. Campbell 1994 with ref. to Palme
+               2006</note>
       </ab>
          <listBibl>
         <head>Works Cited</head>
-        <bibl xml:id="bib147-1">
-          <ptr target="https://caesarea-maritima.org/bibl/KK4EKZ9D"/>
-          <citedRange unit="bk">89</citedRange>
-          <citedRange unit="p">67a27-67b9</citedRange>
+        <bibl xml:id="bib49-1">
+          <ptr target="https://caesarea-maritima.org/bibl/9MNT2DP5"/>
+          <citedRange unit="vol">9.1026A</citedRange>
+          <citedRange unit="p">39-41</citedRange>
         </bibl>
-        <bibl xml:id="bib147-2">
-          <ptr target="https://caesarea-maritima.org/bibl/9VU2XC27"/>
-          <citedRange unit="vol">2</citedRange>
-          <citedRange unit="p">15</citedRange>
+        <bibl xml:id="bib49-2">
+          <ptr target="https://caesarea-maritima.org/bibl/988MEXXQ"/>
+          <citedRange unit="p">201-202</citedRange>
+          <citedRange unit="entry">329</citedRange>
         </bibl>
       </listBibl>
          <listBibl>
         <head>Additional Bibliography</head>
         <bibl>
-          <ptr target="https://caesarea-maritima.org/bibl/9UDPPPSU"/>
-          <citedRange unit="p">155-156</citedRange>
+          <ptr target="https://caesarea-maritima.org/bibl/TXTKJC38"/>
+          <citedRange unit="p">113</citedRange>
+          <citedRange unit="entry">330</citedRange>
+        </bibl>
+        <bibl>
+          <ptr target="https://caesarea-maritima.org/bibl/T3CWCCQ4"/>
+          <citedRange unit="p">296-297</citedRange>
         </bibl>
       </listBibl>
       <note type="related-texts">
-        <p>* Photius, Library 102</p>
-        <p>* Photius, Library 88</p>
+        <p>Pomponius, Petition from Veterans, PSI 9.1026B</p>
       </note>
       <note type="geography">
-        <p>Jerusalem</p>
+        <p>Alexandria</p>
+        <p>Egypt</p>
+        <p>Misenum</p>
       </note>
-      <note type="prosopography">
-        <p>Eusebius of Caesarea</p>
-        <p>Gelasius, bishop</p>
-        <p>Rufinus</p>
-      </note>
+      <note type="prosopography"/>
       <note type="themes">
-        <p>Christianity</p>
-        <p>Culture and Society</p>
-        <p>Education (sacred)</p>
-        <p>Greek Language</p>
+        <p>Military</p>
+        <p>Law and Government</p>
+        <p>Roman History</p>
+        <p>Urban Topography</p>
       </note>
     </body>
    </text>

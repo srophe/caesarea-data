@@ -1,18 +1,19 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="en" level="a">al-Yaʿqūbī, <title level="m">Book of Lands</title> 115-116</title>
+            <title xml:lang="en" level="a">Al-Yaʿqūbī, <title level="m">Book of Lands</title> 115-116</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
             <sponsor>Vanderbilt University</sponsor>
             <principal>Joseph L. Rife</principal>
         <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
         <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#plieberman">Phillip I. Lieberman</editor>
-        <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#dmichelson">David A. Michelson</editor>
         <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#dmichelson">David A. Michelson</editor>
         <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</editor>
         <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
-        <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#tmarashi">Taryn Marashi</editor>
          <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
@@ -23,7 +24,7 @@
         </respStmt>
         <respStmt>
           <resp>Electronic text added by</resp>
-          <name ref="https://caesarea-maritima.org/documentation/editors.xml#tmarashi">Taryn Marashi</name>
+          <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
         <respStmt>
                <resp>Testimonia identified by</resp>
@@ -37,17 +38,16 @@
             <authority>Caesarea City and Port Exploration Project</authority>
             <idno type="URI">https://caesarea-maritima.org/testimonia/395/tei</idno>
             <availability>
-              <licence target="http://creativecommons.org/licenses/by/4.0">
-                <p>Except for materials quoted from other sources, this entry is copyright 2023 by the contributors (Joseph L. Rife, et al.) and the Caesarea City and Port Exploration Project. It is licensed under the Attribution 4.0 International (CC BY 4.0) license.</p> <p>Some texts quoted in this entry may be in the public domain in the United States. No copyright is asserted for these quotations.</p> <p>Some texts quoted in this entry may have copyright restrictions and are reused under Section 107 of the Copyright Act of 1976 (Title 17 of the United States Code) which permits “fair use” of copyrighted materials for purposes such as criticism, comment, scholarship, and research. These texts remain under copyright of their owners. No copyright infringement is intended.</p>
-              </licence>
+               <licence target="http://creativecommons.org/licenses/by/4.0">
+                  <p>Distributed under a Creative Commons Attribution 4.0 Unported License.</p>
+               </licence>
             </availability>
-            <date>2022-09-30-05:00</date>
+            <date>2023-01-20-06:00</date>
          </publicationStmt>
          <seriesStmt>
             <title level="s" xml:lang="en">Caesarea-Maritima.org: A Digital Archive</title>
             <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
             <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#plieberman">Phillip I. Lieberman</editor>
-           <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#dmichelson">David A. Michelson</editor>
          </seriesStmt>
          <sourceDesc>
             <p>Born digital.</p>
@@ -248,10 +248,10 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Book of Lands</title> <ref n="a" target="#bib395-1">115-116</ref> written by <persName role="author" ref="http://viaf.org/viaf/39629789">al-Yaʿqūbī</persName> in <origDate notBefore="0889" notAfter="0890" period="#earlyIslamic">889-890 CE</origDate>. This work was likely written in <origPlace/>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Book of Lands</title> <ref target="#bib395-1">115-116</ref> written by <persName role="author" ref="http://viaf.org/viaf/39629789">Al-Yaʿqūbī</persName> in <origDate notBefore="0889" notAfter="0890" period="#earlyIslamic">889-890 CE</origDate>. This work was likely written in <origPlace/>.</creation>
          <langUsage>
-            <language ident="ar">Arabic</language>
-         </langUsage>
+        <language ident="la">Latin</language>
+      </langUsage>
          <textClass>
             <classCode scheme="https://distributed-text-services.github.io/specifications">
                <idno type="CTS-URN"/>
@@ -263,7 +263,7 @@
       <revisionDesc status="draft">
          <change who="jrife" when="">ADDED: testimonium ID, URNs, URLs to edition and translation,
             and Bibl URIs</change>
-         <change who="tmarashi" when="">CREATED: testimonium</change>
+         <change who="jrife" when="">CREATED: testimonium</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -271,7 +271,8 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/395</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract395-1"><quote><placeName>قَيسارية</placeName></quote>, <quote><placeName>قيسارية</placeName></quote>, and <quote><placeName>Qaysāriyya</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/39629789">al-Yaʿqūbī</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Book of Lands</title> <ref n="a" target="#bib395-1">115-116</ref>. This passage was written ca. <origDate notBefore="0889" notAfter="0890" period="#earlyIslamic">889-890 CE</origDate> possibly in <origPlace/>.</desc>
+         <desc type="abstract" xml:id="abstract395-1">
+        <quote><placeName>قَيسارية</placeName></quote>, <quote><placeName>قيسارية</placeName></quote>, and <quote><placeName>Qaysāriyya</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/39629789">Al-Yaʿqūbī</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Book of Lands</title> <ref target="#bib395-1">115-116</ref>. This passage was written ca. <origDate notBefore="0889" notAfter="0890" period="#earlyIslamic">889-890 CE</origDate> possibly in <origPlace/>.</desc>
          <desc type="context">Aḥmad b. Isḥāq (Abī Yaʿqūb) bin Jaʿfar bin Wahb bin Wāḍiḥ al-Yaʿqūbī
             (died Egypt, ca. 284 AH/897 CE), or al-Yaʿqūbī, was a Arab historian and geographer of
             the 9th century who wrote <title>Tāʾrīkh Ibn Wāḍiḥ</title> (<title>History of Ibn Wāḍiḥ</title>) and <title>Kitāb al-Buldān</title> (<title>Book of Lands</title>). While much of his early life is difficult to
@@ -280,8 +281,8 @@
             in Khurasan, al-Yaʿqūbī reportedly wrote his history and compiled his geographic text
             after his tenure. In <title>Book of Lands</title>, al-Yaʿqūbī refers to Caesarea in the
             section on the military districts of Palestine.</desc>
-         <ab type="edition" xml:lang="ar" xml:id="quote395-1">
-        <anchor xml:id="testimonia-395.ar.1" corresp="#testimonia-395.en.1"/>جند فلسطين: ومن جند الاردّن الى جند فلسطين ثلث مراحل ومدينة فلسطين
+         <ab type="edition" xml:lang="la" xml:id="quote395-1">
+        <anchor xml:id="testimonia-395.la.1" corresp="#testimonia-395.en.1"/>جند فلسطين: ومن جند الاردّن الى جند فلسطين ثلث مراحل ومدينة فلسطين
             القديمة كانت مدينة يقال لها لدّ فلما ولى سليمان ابن عبد الملك الخلافة ابتنى مدينة فلسطين
             ولها نهر صغير منه شرب اهلها ونهر ابى فُطْتُس منها على اثنى عشر ميلًا وشرب اهل الرملة
             ايضاء من ماء الابار ومن صهاريج يجرى فيها ماء المطر واهل المدينة اخلاط من الناس من العرب
@@ -309,12 +310,12 @@
                1892</note>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote395-2">
-        <anchor xml:id="testimonia-395.en.1" corresp="#testimonia-395.ar.1"/>Section on the military district of Palestine: From the military
+        <anchor xml:id="testimonia-395.en.1" corresp="#testimonia-395.la.1"/>Section on the military district of Palestine: From the military
             units of Jordan to the military units of Palestine is three stages. The old city of
             Palestine was a city called Ludd. When Sulaymān ibn ʿAbd al-Mālik became caliph, he
             erected the city of al-Ramla; he destroyed the city of Ludd and relocated its
             inhabitants to al-Ramla. Al-Ramla is the main city of Palestine. It has a small river
-            from which locals drink, and the river Abū Fuṭris is 12 miles away. The inhabitants of
+            from which locals drink, and the river Abū Fuṭrus is 12 miles away. The inhabitants of
             al-Ramla also drink from well water and from cisterns containing rainwater. The people
             of the city are a mixture of Arabs and non-Arabs, and its non-Muslims are Samaritans.
             Palestine has these districts: Īlyā, which is Jerusalem, and in it are the monuments of
@@ -339,13 +340,13 @@
             the year 16 AH after a lengthy siege, until ʿUmar bin al-Khaṭṭāb left and granted a
             treaty to the inhabitants of the district of Īlyā, which is in Bayt al-Maqdis. They
             said, “We will not agree to a treaty except with the caliph himself.” So he went to them
-            until he made peace with them. He erected most of the districts of Palestine except for
-               <placeName>Qaysāriyya</placeName>. Abū ʿUbayda bin al-Jarrāḥ made Muʿāwiya bin Abī
+            until he made peace with them. Most of the districts of Palestine were conquered except
+            for <placeName>Qaysāriyya</placeName>. Abū ʿUbayda bin al-Jarrāḥ made Muʿāwiya bin Abī
             Sufyān his deputy over them, and he erected the city in the year 18 AH. The amount of
             land tax of the military district of Palestine, with what came from the land estates,
             amounts to 300,000 dinars. Whoever wants to travel from al-Shām by way of Palestine to
             Mecca travels along a rugged, crude mountain area until he reaches Ayla and then Maydan.
-            He then continues on the road to the inhabitants of Egypt and North Africa.<ab type="source" source="#bib395-2"/>
+            He then continues on the road to the inhabitants of Egypt and North Africa. <ab type="source" source="#bib395-2"/>
         <idno type="CTS-URN"/>
         <ref/>
         <note xml:lang="en" type="translation">Trans. T. Marashi with ref. to Gordon et al. 2018</note>
@@ -364,7 +365,7 @@
       </listBibl>
       <note type="related-texts"/>
       <note type="geography">
-        <p>Abū Fuṭris river</p>
+        <p>Abū Fuṭrus river</p>
         <p>Al-Ramla</p>
         <p>Ayla</p>
         <p>Bayt Jibrīn</p>

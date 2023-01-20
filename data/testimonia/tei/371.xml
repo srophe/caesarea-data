@@ -1,4 +1,7 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -37,10 +40,10 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/371/tei</idno>
             <availability>
                <licence target="http://creativecommons.org/licenses/by/4.0">
-                  <p>Except for materials quoted from other sources, this entry is copyright 2023 by the contributors (Joseph L. Rife, et al.) and the Caesarea City and Port Exploration Project. It is licensed under the Attribution 4.0 International (CC BY 4.0) license.</p> <p>Some texts quoted in this entry may be in the public domain in the United States. No copyright is asserted for these quotations.</p> <p>Some texts quoted in this entry may have copyright restrictions and are reused under Section 107 of the Copyright Act of 1976 (Title 17 of the United States Code) which permits “fair use” of copyrighted materials for purposes such as criticism, comment, scholarship, and research. These texts remain under copyright of their owners. No copyright infringement is intended.</p>
+                  <p>Except for materials quoted from other sources, this entry is copyright 2021 by the contributors (Joseph L. Rife, et al.) and the Caesarea City and Port Exploration Project. It is licensed under the Attribution 4.0 International (CC BY 4.0) license.</p> <p>Some texts quoted in this entry may be in the public domain in the United States. No copyright is asserted for these quotations.</p> <p>Some texts quoted in this entry may have copyright restrictions and are reused under Section 107 of the Copyright Act of 1976 (Title 17 of the United States Code) which permits “fair use” of copyrighted materials for purposes such as criticism, comment, scholarship, and research. These texts remain under copyright of their owners. No copyright infringement is intended.</p>
                </licence>
             </availability>
-            <date>2022-10-19-05:00</date>
+            <date>2023-01-20-06:00</date>
          </publicationStmt>
          <seriesStmt>
             <title level="s" xml:lang="en">Caesarea-Maritima.org: A Digital Archive</title>
@@ -247,10 +250,10 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">History of the Journey to Jerusalem </title> <ref n="a" target="#bib371-1">5.41-5.42</ref> written by <persName ref="http://viaf.org/viaf/74028786" role="author">Albert of Aachen</persName> in <origDate notBefore="1120" notAfter="1140" period="#crusader">1120-1140 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/108749">Aachen</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">History of the Journey to Jerusalem </title> <ref target="#bib371-1">5.41-5.42</ref> written by <persName ref="http://viaf.org/viaf/74028786" role="author">Albert of Aachen</persName> in <origDate notBefore="1120" notAfter="1140" period="#crusader">1120-1140 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/108749">Aachen</origPlace>.</creation>
          <langUsage>
-            <language ident="la">Latin</language>
-         </langUsage>
+        <language ident="la">Latin</language>
+      </langUsage>
          <textClass>
             <classCode scheme="https://distributed-text-services.github.io/specifications">
                <idno type="CTS-URN"/>
@@ -270,8 +273,8 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/371</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract371-1"><quote><placeName>Caesareae</placeName></quote>, <quote><placeName>urbem Stratonis</placeName></quote>, <quote><placeName>Caesaream</placeName></quote>, <quote><placeName>Caesarea</placeName></quote>, and <quote><placeName>city of
-               Straton</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/74028786" role="author">Albert of Aachen</persName>, <title xml:lang="en" ref="" type="uniform" level="m">History of the Journey to Jerusalem </title> <ref n="a" target="#bib371-1">5.41-5.42</ref>. This passage was written ca. <origDate notBefore="1120" notAfter="1140" period="#crusader">1120-1140 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/108749">Aachen</origPlace>.</desc>
+         <desc type="abstract" xml:id="abstract371-1">
+        <quote><placeName>Caesareae</placeName></quote>, <quote><placeName>urbem Stratonis</placeName></quote>, <quote><placeName>Caesaream</placeName></quote>, <quote><placeName>Caesarea</placeName></quote>, and <quote><placeName>city of Straton</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/74028786" role="author">Albert of Aachen</persName>, <title xml:lang="en" ref="" type="uniform" level="m">History of the Journey to Jerusalem </title> <ref target="#bib371-1">5.41-5.42</ref>. This passage was written ca. <origDate notBefore="1120" notAfter="1140" period="#crusader">1120-1140 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/108749">Aachen</origPlace>.</desc>
          <desc type="context">Albert was a priest and sacristan at Aachen, or Aix-la-Chapelle,
             during roughly the first half of the 12th century. He wrote a detailed history of the
             First Crusade and the early years of the Kingdom of Jerusalem based not on his own
@@ -336,9 +339,10 @@
             Advent of the Holy Spirit [= May 29, 1099].<lb/>(42) And so, passing by these
             aforementioned cities untouched, on Monday, Tuesday, and Wednesday they continued their
             journey in the territory and wide plain of the aforementioned
-               <placeName>Caesarea</placeName>, in the land of the Palestinians. And on Thursday [=
-            June 2, 1099] they established camp at the river of the town Rama or Ramnes, and at the
-            base of the riverbed they pitched their tents and decided to spend the night.<ab type="source" source="#bib371-2"/>
+               <placeName>Caesarea</placeName> of Cornelius, in the land of the Palestinians. And on
+            Thursday [= June 2, 1099] they established camp at the river of the town Rama or Ramnes,
+            and at the base of the riverbed they pitched their tents and decided to spend the
+               night.<ab type="source" source="#bib371-2"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
         <note xml:lang="en" type="translation">Adapted from Edgington 2007</note>

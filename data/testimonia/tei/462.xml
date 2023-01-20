@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title xml:lang="en" level="a">Unknown, <title level="m">Honors for an Athlete,
+               IAph2007</title> 12.920</title>
+        <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
+            <sponsor>Vanderbilt University</sponsor>
+            <principal>Joseph L. Rife</principal>
+        <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
+        <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#plieberman">Phillip I. Lieberman</editor>
+        <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#dmichelson">David A. Michelson</editor>
+        <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
+        <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</editor>
+        <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
+         <respStmt>
+          <resp>TEI encoding by</resp>
+          <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
+        </respStmt>
+        <respStmt>
+          <resp>URNs and other metadata added by</resp>
+          <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
+        </respStmt>
+        <respStmt>
+          <resp>Electronic text added by</resp>
+          <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
+        </respStmt>
+        <respStmt>
+               <resp>Testimonia identified by</resp>
+               <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
+            </respStmt>
+      </titleStmt>
+         <editionStmt>
+            <edition n="1.0"/>
+         </editionStmt>
+         <publicationStmt>
+            <authority>Caesarea City and Port Exploration Project</authority>
+            <idno type="URI">https://caesarea-maritima.org/testimonia/462/tei</idno>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by/4.0">
+                  <p>Except for materials quoted from other sources, this entry is copyright 2021 by the contributors (Joseph L. Rife, et al.) and the Caesarea City and Port Exploration Project. It is licensed under the Attribution 4.0 International (CC BY 4.0) license.</p> <p>Some texts quoted in this entry may be in the public domain in the United States. No copyright is asserted for these quotations.</p> <p>Some texts quoted in this entry may have copyright restrictions and are reused under Section 107 of the Copyright Act of 1976 (Title 17 of the United States Code) which permits “fair use” of copyrighted materials for purposes such as criticism, comment, scholarship, and research. These texts remain under copyright of their owners. No copyright infringement is intended.</p>
+               </licence>
+            </availability>
+            <date>2023-01-20-06:00</date>
+         </publicationStmt>
+         <seriesStmt>
+            <title level="s" xml:lang="en">Caesarea-Maritima.org: A Digital Archive</title>
+            <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
+            <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#plieberman">Phillip I. Lieberman</editor>
+            <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#dmichelson">David A. Michelson</editor>
+         </seriesStmt>
+         <sourceDesc>
+            <p>Born digital.</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>Authors of testimonia are identified with URIs from The Virtual International Authority File, see <ref target="http://viaf.org">http://viaf.org</ref>. When multiple VIAF URIs exist, preference has been given to VIAF record linked to the Library of Congress authority file.</p>
+            <p>Geographic locations are identified with URIs from Pleiades: A Gazetteer of Past Places, see <ref target="https://pleiades.stoa.org/docs">https://pleiades.stoa.org/docs</ref>.</p>
+            <p>When possible, textual works have been cited using URNs according to the Distributed Text Services (DTS) system, see <ref target="https://distributed-text-services.github.io/specifications">https://distributed-text-services.github.io/specifications</ref>. Additional identifiers have been adopted from the systems used by the Perseus Digital Library (<ref target="http://www.perseus.tufts.edu/hopper">http://www.perseus.tufts.edu/hopper</ref>), Syriaca.org (<ref target="http://syriaca.org">http://syriaca.org</ref>), and other relevant authority systems such as WorldCat Identities or OCLC numbers (<ref target="https://www.worldcat.org">https://www.worldcat.org</ref>).</p>
+            <p>Bibliographic items are identified by a unique Caesarea-Maritima.org URI, which is linked, when possible, to OCLC numbers and other identifiers.</p>
+            <p>Dates have been encoded following the ISO 8601 standard, <ref target="https://www.iso.org/iso-8601-date-and-time-format.html">https://www.iso.org/iso-8601-date-and-time-format.html</ref>, and the best practices established for the Srophé App, see <ref target="http://srophe.app">http://srophe.app</ref>.</p>
+            <p>Languages have been encoded using ISO 639-1 (<ref target="https://www.iso.org/standard/22109.html">https://www.iso.org/standard/22109.html</ref>), 639-2 (<ref target="https://www.iso.org/standard/4767.html">https://www.iso.org/standard/4767.html</ref>), and 639-3 (<ref target="https://www.iso.org/standard/39534.html">https://www.iso.org/standard/39534.html</ref>) codes, following best practices of the TEI guidelines, see <ref target="https://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html">https://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html</ref>.</p>
+         </editorialDecl>
+         <classDecl>
+        <taxonomy xml:id="CM-NEAEH">
+          <desc>
+            <title>Caesarea-Maritima.org Chronology</title>: This chronology is adapted from
+                  the chronology used in <bibl>
+              <title>The New Encyclopedia of Archaeological Excavations in the Holy
+                        Land</title>
+              <ptr target="https://caesarea-maritima.org/bibl/HG492LV3"/>
+            </bibl>. This taxonomy is used in the <gi>catRef</gi> encoding to classify the
+                  testimonia according to the time period(s) of the events described, rather than
+                  the date of composition of the testimonium. For example, Josephus may describe
+                  events occuring well before the period of his writing.</desc>
+          <category xml:id="lowerPaleolithic">
+            <catDesc>Lower Paleolithic, 999999-119999 BCE</catDesc>
+          </category>
+          <category xml:id="upperAcheulean">
+            <catDesc>Upper Acheulean, 498050-148050 BP</catDesc>
+          </category>
+          <category xml:id="acheulean">
+            <catDesc>Acheulean, 298050-148050 BP</catDesc>
+          </category>
+          <category xml:id="middlePaleolithic">
+            <catDesc>Middle Paleolithic, 119999-44999 BCE</catDesc>
+          </category>
+          <category xml:id="mousterian">
+            <catDesc>Mousterian, 118050-38050 BCE</catDesc>
+          </category>
+          <category xml:id="upperPaleolithic">
+            <catDesc>Upper Paleolithic, 44999-17999 BCE</catDesc>
+          </category>
+          <category xml:id="kebaran">
+            <catDesc>Kebaran, 18050-13050 BP</catDesc>
+          </category>
+          <category xml:id="epipaleolithic">
+            <catDesc>Epipaleolithic, 17999-8299 BCE</catDesc>
+          </category>
+          <category xml:id="geometricKebaran">
+            <catDesc>Geometric Kebaran, 12499-10899 BCE</catDesc>
+          </category>
+          <category xml:id="natufianCulture">
+            <catDesc>Natufian Culture, 10799-8499 BCE</catDesc>
+          </category>
+          <category xml:id="pre-potteryNeolithic">
+            <catDesc>Pre-Pottery Neolithic, 8299-5499 BCE</catDesc>
+          </category>
+          <category xml:id="potteryNeolithic">
+            <catDesc>Pottery Neolithic, 5499-4499 BCE</catDesc>
+          </category>
+          <category xml:id="chalcolithic">
+            <catDesc>Chalcolithic, 4499-3299 BCE</catDesc>
+          </category>
+          <category xml:id="earlyBronzeAge">
+            <catDesc>Early Bronze Age , 3299-2199 BCE</catDesc>
+          </category>
+          <category xml:id="bronzeAge">
+            <catDesc>Bronze Age, 3299-1199 BCE</catDesc>
+          </category>
+          <category xml:id="earlyBronzeAgeIa-b">
+            <catDesc>Early Bronze Age IA-B, 3299-2999 BCE</catDesc>
+          </category>
+          <category xml:id="earlyBronzeAgeIi">
+            <catDesc>Early Bronze Age II, 2999-2699 BCE</catDesc>
+          </category>
+          <category xml:id="earlyBronzeAgeIii">
+            <catDesc>Early Bronze Age III, 2699-2199 BCE</catDesc>
+          </category>
+          <category xml:id="middleBronzeAge">
+            <catDesc>Middle Bronze Age, 2199-1549 BCE</catDesc>
+          </category>
+          <category xml:id="middleBronzeAgeI">
+            <catDesc>Middle Bronze Age I, 2199-1999 BCE</catDesc>
+          </category>
+          <category xml:id="middleBronzeAgeIia">
+            <catDesc>Middle Bronze Age IIA, 1999-1749 BCE</catDesc>
+          </category>
+          <category xml:id="middleBronzeAgeIib">
+            <catDesc>Middle Bronze Age IIB, 1749-1549 BCE</catDesc>
+          </category>
+          <category xml:id="lateBronzeAge">
+            <catDesc>Late Bronze Age, 1599-1200 BCE</catDesc>
+          </category>
+          <category xml:id="lateBronzeAgeI">
+            <catDesc>Late Bronze Age I, 1549-1399 BCE</catDesc>
+          </category>
+          <category xml:id="lateBronzeAgeIia">
+            <catDesc>Late Bronze Age IIA, 1399-1299 BCE</catDesc>
+          </category>
+          <category xml:id="lateBronzeAgeIib">
+            <catDesc>Late Bronze Age IIB, 1299-1199 BCE</catDesc>
+          </category>
+          <category xml:id="ironAge">
+            <catDesc>Iron Age, 1199-585 BCE</catDesc>
+          </category>
+          <category xml:id="ironAgeIa">
+            <catDesc>Iron Age IA, 1199-1149 BCE</catDesc>
+          </category>
+          <category xml:id="ironAgeIb">
+            <catDesc>Iron Age IB, 1149-999 BCE</catDesc>
+          </category>
+          <category xml:id="ironAgeIia">
+            <catDesc>Iron Age IIA, 999-899 BCE</catDesc>
+          </category>
+          <category xml:id="ironAgeIib">
+            <catDesc>Iron Age IIB, 899-699 BCE</catDesc>
+          </category>
+          <category xml:id="ironAgeIic">
+            <catDesc>Iron Age IIC, 699-585 BCE</catDesc>
+          </category>
+          <category xml:id="babylonianAndPersian">
+            <catDesc>Babylonian and Persian Periods, 585-331 BCE</catDesc>
+          </category>
+          <category xml:id="classicalPeriod">
+            <catDesc>Classical Period, 480-336 BCE</catDesc>
+          </category>
+          <category xml:id="earlyHellenistic">
+            <catDesc>Early Hellenistic Period, 331-166 BCE</catDesc>
+          </category>
+          <category xml:id="hellenistic">
+            <catDesc>Hellenistic Period, 331-36 BCE</catDesc>
+          </category>
+          <category xml:id="earlyNabatean">
+            <catDesc>Early Nabatean Period, 331-36 BCE</catDesc>
+          </category>
+          <category xml:id="nabateanKingdom">
+            <catDesc>Nabatean Kingdom, 167 BCE-106 CE</catDesc>
+          </category>
+          <category xml:id="lateHellenistic">
+            <catDesc>Late Hellenistic Period, 166-36 BCE</catDesc>
+          </category>
+          <category xml:id="earlyRoman">
+            <catDesc>Early Roman Period, 36 BCE-132 CE</catDesc>
+          </category>
+          <category xml:id="herodian">
+            <catDesc>Herodian Period, 36 BCE-70 CE</catDesc>
+          </category>
+          <category xml:id="middleNabatean">
+            <catDesc>Middle Nabatean Period, 24 BCE-50 CE</catDesc>
+          </category>
+          <category xml:id="lateRoman">
+            <catDesc>Late Roman Period, 132-324 CE</catDesc>
+          </category>
+          <category xml:id="byzantine">
+            <catDesc>Byzantine Period, 324-638 CE</catDesc>
+          </category>
+          <category xml:id="earlyIslamic">
+            <catDesc>Early Islamic Period, 638-1099 CE</catDesc>
+          </category>
+          <category xml:id="crusader">
+            <catDesc>Crusader Period, 1099-1291 CE</catDesc>
+          </category>
+          <category xml:id="lateIslamic">
+            <catDesc>Late Islamic Period, 1291-1516 CE</catDesc>
+          </category>
+          <category xml:id="ottoman">
+            <catDesc>Ottoman period, 1516-1917 CE</catDesc>
+          </category>
+          <category xml:id="britishTerritorialAdministration">
+            <catDesc>British Territorial Administration, 1917-1920 CE</catDesc>
+          </category>
+          <category xml:id="britishMandate">
+            <catDesc>British Mandate Period, 1920-1948 CE</catDesc>
+          </category>
+          <category xml:id="modernState">
+            <catDesc>Modern State, 1948- CE</catDesc>
+          </category>
+        </taxonomy>
+            <taxonomy xml:id="CM-Testimonia-Type">
+                <desc>
+                <title>Caesarea-Maritima.org Testimonia Typology</title>: This typology defines three subsets of testimonia employed by the project and is used in the <gi>catRef</gi> below to further categorize a given testimonia record.
+                </desc>
+                <category xml:id="direct">
+                    <catDesc>A "direct testimonium" contains a word or phrase that is a direct reference to, or name for, the conceptual place Caeseara Maritima or its environs in part or in whole. When a "direct testimonium" also contains indirect references, the classification by type is nevertheless marked only as "direct".</catDesc>
+                </category>
+                <category xml:id="indirect">
+                    <catDesc>An "indirect testimonium" makes only an indirect reference to the conceptual place Caeseara Maritima or its environs in part or in whole. This indirect reference may take the form of a common noun or may be implied by context.</catDesc>
+                </category>
+                <category xml:id="toponymic-epithet">
+                    <catDesc>A "toponymic testimonium" contains a toponymic epithet related to the conceptual place Caeseara Maritima or its environs. When a "direct testimonium" also contain a "toponymic testimonium", the testimonium is marked as belonging to both types. These two types do not always overlap and thus our data set also includes "toponymic testimonia" which are not "direct testimonia".</catDesc>
+                </category> 
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <abstract>
+            <p/>
+         </abstract>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Honors for an Athlete,
+               IAph2007</title> <ref target="#bib462-1">12.920</ref> written by <persName ref="" role="author">Unknown</persName> in <origDate notBefore="0138" notAfter="0169" period="#lateRoman">138-169 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/638753">Aphrodisias</origPlace>.</creation>
+         <langUsage>
+        <language ident="grc">Ancient Greek</language>
+      </langUsage>
+         <textClass>
+            <classCode scheme="https://distributed-text-services.github.io/specifications">
+               <idno type="CTS-URN"/>
+            </classCode>
+            <catRef scheme="#CM-Testimonia-Type" target="#direct"/>
+            <catRef scheme="#CM-NEAEH" target="#lateRoman"/>
+         </textClass>
+      </profileDesc>
+      <revisionDesc status="draft">
+         <change who="jrife" when="">ADDED: testimonium ID, URNs, URLs to edition and translation,
+            and Bibl URIs</change>
+         <change who="jrife" when="">CREATED: testimonium</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="identifier">
+            <idno type="URI">https://caesarea-maritima.org/testimonia/462</idno>
+         </ab>
+         <desc type="abstract" xml:id="abstract462-1">
+        <quote><placeName>Καισαρείαν τῆς Στράτωνος</placeName></quote>, and <quote><placeName>Straton's Caesarea</placeName></quote> are directly attested at <persName ref="" role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Honors for an Athlete,
+               IAph2007</title> <ref target="#bib462-1">12.920</ref>. This passage was written ca. <origDate notBefore="0138" notAfter="0169" period="#lateRoman">138-169 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/638753">Aphrodisias</origPlace>.</desc>
+         <desc type="context">This text in two parts (i, ii) was inscribed on three faces (a, b, c)
+            of a marble statue-base with molded panels found near the western city-wall at
+            Aphrodisias in Caria, western Asia Minor. The 123 total lines written in the mid-2nd
+            century recognize the public honors for T. Aelius Aurelius Menander. He was a victorious
+            athlete who specialized in the <foreign>pankration</foreign>, a combat sport that
+            combined the skills of boxing and wrestling. The impressive list of his competitions
+            spans the eastern Mediterranean but particularly Asia Minor to Syria and Palestine,
+            including Caesaea Maritima (ii.52-53). This is the full version of the same victor’s
+            list found in abbreviated form at <title>IAph2007</title> 12.914.</desc>
+         <ab type="edition" xml:lang="grc" xml:id="quote462-1">
+        <anchor xml:id="testimonia-462.grc.1" corresp="#testimonia-462.en.1"/>Part i side a<lb/>[ἔδοξ]ε̣ τῇ ἱερᾷ ξυστικ[ῇ ?περιπολιστικῇ συνόδῳ τῶν περὶ
+            τὸν]<lb/>[Ἡρα]κλέα καὶ τὸν ἀγώ[νιον καὶ αὐτοκράτορας Μ(ᾶρκον) Αὐρ(ήλιον) Ἀντ-]<lb/>[ω]ν̣εῖνον stop καὶ stop Λ(ούκιον) stop Αὐ[ρ(ήλιον) Οὐῆρον]<lb/>[ἀ]πὸ τῆς οἰκουμέ[νης
+            ἱερονεικῶν στεφανειτῶν ἐν ?Ἀντιοχείᾳ]<lb/>Καισαρείᾳ stop Κο[λωνείᾳ (e.g)ἐπὶ τὸν ἀγῶνα] (5)<lb/>ταλαντια̣ῖ̣[ον ·· ? ··]<lb/>[·· ? ··Α ?εἰσηγ]η̣σαμένου Τ(ίτου) Αἰ̣λ̣[ί]ου Μ[·]<lb/>[·· ?
+            ··]ΚΑ[·· c. 7 ·· π]αλαιστοῦ παραδόξο[υ]<lb/>[ἐπεὶ] Αἴλιος Αὐρήλιος Μένανδρος<lb/>παράδοξος
+            καὶ διὰ βίου ξυστάρχης (10)<lb/>τῶν ἐν κολωνείᾳ Ἀντιοχείᾳ ἀγώνων<lb/>ἀθλήσας ἐνδόξως καὶ
+            ἐπιμελῶς ἐπὶ το-<lb/>σοῦτον δόξης προέβη ὡς πρῶτον μὲν<lb/>[ἀ]νελέσθαι εὐτυχῶς τοσούτους
+            ἀγῶ-<lb/>[ν]ας καὶ δοξάσαι καθ' ἕκαστον ἀγῶνα τὴν (15)<lb/>[λ]αμπροτάτην πατρίδα αὐτοῦ
+            κηρυγμα-<lb/>[σ]ιν καὶ στεφάνοις μάλιστα δὲ καὶ ἐπὶ<lb/>[θ]εοῦ Ἀντωνείνου ὡς οὐ μόνον
+            στε[φαν]-<lb/>[ω]θῆναι ταῖς ἐκείνου χειρσὶν ἀλλὰ καὶ<lb/>[τει]μ̣αῖς ἐξαιρέτοις τειμηθῆναι
+            μεταξὺ (20)<lb/>[δὲ γ]ενόμενος ξυστάρχης τοσαύτῃ προ-<lb/>ν̣οίᾳ καὶ ἐπιμελείᾳ μετὰ σπουδῆς
+            ἁπά-<lb/>σης κήδεται τῶν ἡμεῖν διαφερόν-<lb/>των τὰ κάλλιστα καὶ ἄριστα πολειτευ-<lb/>όμενος
+            ἐν ἡμεῖν καὶ διὰ ταῦτα καὶ ἄλλο- (25)<lb/>τε μέν πολλάκις καὶ τὰ νῦν ἐπαινοῦν-<lb/>[τ]ες τὸν
+            ἄνδρα καὶ μαρτυροῦντες αὐτῷ<lb/>ψηφίσματα τοῖς κυρίοις Αὐτοκράτορ-<lb/>[σ]ιν πεπόμφαμεν
+            ἡγούμενοι μεγίσ-<lb/>[τ]ας καὶ ἀνταξίας ἀμοιβὰς αὐτῷ γενεσ- (30)<lb/>[θ]αι ἀντὶ τῆς περὶ
+            ἡμᾶς εὐνοίας καὶ ὅτι δα-<lb/>[π]ανήμασιν ἱκανοῖς καὶ κόπῳ πολλῷ περι-<lb/>εγένετο καὶ
+            διεπράξατο ἀχθῆναι τὸν ἔναγ-<lb/>χ̣ος ἀγῶνα παρὰ τοῖς Ἀντιοχεῦσιν ὡς νομί-<lb/>ζειν ἡμᾶς
+            οἰκόθεν παρ' αὐτοῦ ἀνῃρῆσθαι (35)<lb/>τὰ θέματα διὰ ταῦτα δεδόχθαι τύχῃ ἀγαθῇ<lb/>εὐχαριστῆσαι τῷ Μενάνδρῳ ἐπί τε τῆς ἱερω-<lb/>τάτης βουλῆς καὶ τοῦ λαμπροτάτου δήμου<lb/>Ἀφροδεισιέων περὶ τῶν προηγορευμένων<lb/>τειμῆσαί τε αὐτὸν ἀνδριάντων ἀναστάσει καὶ (40)<lb/>εἰκόνων ἀναθέσει ἐν τῷ ἐπισημοτάτῳ<lb/>τῆς πατρίδος τόπῳ ἐπιγραφησομένων<lb/>τῶν τειμῶν τῇ
+            προγραφῇ τοῦδε τοῦ ψη-<lb/>φίσματος πρὸς τὸ ἀιδίους ὑπάρξαι αὐ-<lb/>τῷ τὰς παρ' ἡμῶν τειμάς
+            leaf (45)<lb/>vacat<lb/>ἔστιν δὲ καὶ πολείτης πόλεων τῶν ὑπο-<lb/>γεγραμμένων stop Περγαμηνῶν
+            Ἀντιοχέ-<lb/>ων Καισαρέων Κολωνῶν καὶ βουλευτὴς<lb/>Θηβαίων καὶ βουλευτὴς stop Ἀπολλωνιατῶν<lb/>Λυκίων Θρακῶν καὶ βουλευτὴς stop Μειλη- (50)<lb/>σίων stop Πεσσινουντίων stop
+            Κλαυδιοπολειτῶν<lb/>ἐπιμεληθέντος τῶν τειμῶν Ζήνωνος (55)<lb/>τοῦ Ἀπολλωνίου τοῦ Μενάνδρου
+            τοῦ<lb/>scroll ἀδελφοῦ αὐτοῦ scroll<lb/>
+        <lb/>Part ii side b<lb/>[?(e.g) ἡ βουλὴ καὶ ὁ δῆμος]<lb/>ἐτείμησαν τα[ῖς καλλίσταις]<lb/>καὶ μεγίσταις τ[ειμαῖς ·· c. 5 ··]<lb/>Αἴλιον stop Αὐρήλιον
+            [ stop Μένανδρον]<lb/>ἀθλήσαντα ἐνδόξως [καὶ ἐπιμελῶς πλει]-<lb/>στονείκην stop
+            πανκρατια̣[στὴν παρά]- (5)<lb/>δοξον ξυστάρχην stop γ[ένους πρώ]-<lb/>του καὶ ἐνδόξου stop
+            πρῶ[τον καὶ μό]-<lb/>νον τῶν stop ἀπ' αἰώνος stop ἀγ[ωνισάμε]-<lb/>νον stop τριετίᾳ τὰς
+            τρεῖς κρίσ[εις παῖδα]<lb/>ἀγένειον stop ἄνδρα stop καὶ νεική[σαντα] (10)<lb/>ἱεροὺς stop καὶ
+            ταλαντιαίους stop κ[αὶ πλείσ]-<lb/>τους ἄλλους ἀγῶνας vac.<lb/>Νέαν πόλιν Σεβαστὰ παίδων
+            Κλαυ-<lb/>διανῶν πανκράτιν stop Νέμεια παίδων<lb/>πανκράτιν stop Ἴσθμια ἀγενείων πανκρά-
+            (15)<lb/>τιν stop Ἔφεσον Βαλβιλληα ἀγενείων<lb/>πανκράτιν stop ἱερὰν Πέργαμον κοινὸν<lb/>Ἀσίας
+            ἀνδρῶν πανκράτιν stop Ἔφεσον<lb/>Βαλβιλληα ἀνδρῶν πανκράτιν stop Σμυρ-<lb/>ναν κοινὸν Ἀσίας
+            ἀνδρῶν πανκράτιν stop (20)<lb/>ἑβδόμῃ Παναθηναίδι Παναθήναια<lb/>ἀνδρῶν πανκράτιν πρῶτον
+            stop Ἀφροδει-<lb/>σιέων stop Νέμεια ἀνδρῶν πανκράτιν<lb/>καὶ τὰ stop ἑξῆς Νέμεια ἀνδρῶν
+            πανκρά-<lb/>τιν stop ἱερὰν Ὀλύμπεια ἐν Ἀθήναις ἀν- (25)<lb/>δρῶν πανκράτιν πρῶτον Ἀφροδεισι-<lb/>έων stop Πύθια ἀνδρῶν πανκράτιν<lb/>Ῥώμην Καπετώλεια Ὀλύμπια stop ἀν-<lb/>δρῶν πανκράτιν
+            πρῶτον Ἀφροδεισι-<lb/>scroll έων leaf (30)<lb/>
+        <lb/>Part ii side c<lb/>[·· c. 22 ··] ΕΝ<lb/>[·· c.
+            21 ··] ΟΝ ἀ-<lb/>[νδρῶν πανκράτιν πρῶτον Ἀφ]ροδει -<lb/>[σιέων ·· c. 15 ·· κοι]νὸν Ἀσί-<lb/>[ας ἀνδρῶν πανκράτι]ν̣ Μιτυλή- (35)<lb/>[νην ἀνδρῶν παν]κράτιν stop Ἀδρα<lb/>[μύττιον
+            ἀνδρῶ]ν πανκράτιν stop<lb/>[·· c. 8 ·· ἀνδ]ρῶν πανκράτιν<lb/>[·· c. 8 ··] ἀνδρῶν πανκράτιν<lb/>[·· c. 7 ··]Α ἀνδρῶν πανκράτιν (40)<lb/>[?Νεικομήδ]ειαν ἀνδρῶν παν-<lb/>[κράτιν ? stop ]
+            Νεικέαν ἀνδρῶν παν<lb/>[κράτ]ιν stop Προυσιάδα ἀνδρῶν<lb/>[πα]νκράτιν stop Κλαυδιόπολιν stop
+            β´<lb/>[ἀ]ν̣δρῶν πανκράτιν Ἄνκυραν (45)<lb/>τ̣ῆς Γαλατίας ἀνδρῶν πανκρά-<lb/>τιν stop
+            Πεσσινοῦντα ἀνδρῶν<lb/>πανκράτιν stop Δαμασκὸν stop β´ stop ἀν-<lb/>δρῶν πανκράτιν stop
+            Βηρυτὸν ἀν-<lb/>δρῶν πανκράτιν stop Τύρον ἀν- (50)<lb/>δρῶν πανκράτιν stop
+               <placeName>Καισαρείαν<lb/>τῆς Στράτωνος</placeName> ἀνδρῶν παν-<lb/>κράτιν stop Νέανπόλιν
+            τῆς Σαμαρί-<lb/>ας ἀνδρῶν πανκράτιν stop Σκυ-<lb/>θόπολιν stop ἀνδρῶν πανκράτιν (55)<lb/>Γάζαν
+            ἀνδρῶν πανκράτιν stop Και-<lb/>σάρειαν Πανιάδα stop β´ stop ἀνδρῶν παν-<lb/>κράτιν stop
+            Ἱερόπολιν ἀνδρῶν stop παν<lb/>κράτιν stop Ἀναζαρβὸν ἀνδρῶν παν-<lb/>κράτιν stop Μοψουεστίαν
+            ἀνδρῶν (60)<lb/>πανκράτιν stop Τρίπολιν τῆς Συρίας<lb/>ἀνδρῶν πανκράτιν stop Φιλαδέλφει<lb/>αν
+            τῆς Ἀραβίας stop ἀνδρῶν πανκρά-<lb/>τιν stop Ζεῦγμα πρὸς τῷ Εὐφράτῃ<lb/>ἀνδρῶν πανκράτιν
+            stop Κιβύραν (65)<lb/>vac. ἀνδρῶν πανκράτιν vac. <ab type="source" source="#bib462-1"/>
+        <idno type="CTS-URN"/>
+        <ref target="http://insaph.kcl.ac.uk/iaph2007/iAph120920.html#edition"/>
+        <note xml:lang="en" type="textual">Ed. Roueché 1993 and
+               Reynolds, Roueché, and Bodard 2007</note>
+      </ab>
+         <ab type="translation" xml:lang="en" xml:id="quote462-2">
+        <anchor xml:id="testimonia-462.en.1" corresp="#testimonia-462.grc.1"/>Part i side a<lb/>[It was resolved] by the sacred xystic [?travelling
+            synod under] Herakles and the agonistic one (i.e. Hermes) [and the emperors M(arcus)
+            Aur(elius) Anto]ninus and L(ucius) Au[r(elius) Verus, of sacred and crowned victors]
+            from the whole world [?at Antioch] Caesaria Co[lonia ?on the occasion of the contest
+            worth ?one] talent: [Proposer ....] seconded by T(itus) Aelius M[...], wrestler,
+            extraordinary: since Aelius Aurelius Menandros, (10) extraordinary, and xystarch for
+            life of the contests in Colonia Antiochia, who practised as an athlete with honor and
+            with concern, has reached such honor that, firstly, he has won with good fortune so many
+            contests and has brought honor at each contest to his splendid homeland by proclamations
+            and crowns and especially also in the time of the divine Antoninus, so that he was not
+            only crowned at his hands, but also honored with (20) particular honors; meanwhile,
+            having become xystarch, he cared with such forethought and concern, and with all zeal,
+            for our interests, exercising his office excellently well; for these reasons both on
+            many other occasions and now praising the man and bearing witness to him we have sent
+            resolutions to the lords emperors, considering that (these would be) the greatest and
+            (30) appropriate returns to him for his goodwill towards us, and because with sufficient
+            expenditure and much effort he succeeded in arranging that the recent contest was
+            conducted among the people of Antioch, so that we think that the prizes were obtained
+            from his own resources. Therefore it has been decreed, with good fortune to thank
+            Menandros before the most sacred Council and the most splendid People of the
+            Aphrodisians concerning what has been described, (40) and to honor him with the erection
+            of statues and the dedication of images in the most distinguished location of his
+            homeland; the honors are to be inscribed with the publication of this decree, in order
+            that his honors from us should be perpetual.<lb/>He is also citizen of the following
+            cities: of the Pergamenes, of the Antiochenes, Caesarean colonists, and councillor of
+            the Thebans, and councillor of the Apolloniatai, (50) Lycian and Thracian, and
+            councillor of the Milesians, the Pessinuntii, the Claudiopolitai.<lb/>Zenon son of
+            Apollonios son of Menandros, his brother, was responsible for the honors.<lb/>
+        <lb/>Part ii
+            side b<lb/>[?The Council and People] honored with the [finest] and greatest [?honors]
+            Aelius Aurelius Menandros, who practised as an athlete with distinction [and with
+            diligence], multiple victor, pancratiast, extraordinary, xystarch, of an honorable and
+            [leading family], who was the first and only man of all time to contest over three years
+            in the three categories, as [boy] and (10) as young man and as adult, and who won sacred
+            (contests) and (contests) with prizes to the value of a talent and very many other
+            contests:<lb/>(He won) at Neapolis, in the Sebasta, the pancration of the Claudian boys;
+            in the Nemea, the boys' pancration; in the Isthmia, the young men's pancration; at
+            Ephesus, in the Balbillea, the young men's pancration - - a contest with no outright
+            victor; at Pergamum, in the provincial festival of Asia, the men's pancration; at
+            Ephesus, in the Balbillea, the men's pancration; at Smyrna, (20) in the provincial
+            festival of Asia, the men's pancration; on the occasion of the seventh Panathenais in
+            the Panathenaia, the men's pancration, first Aphrodisian (to do so); in the Nemeia, the
+            men's pancration, and in the following Nemeia, the men's pancration -- a contest with no
+            outright victor; in the Olympia at Athens, the men's pancration, the first Aphrodisian
+            (to do so); in the Pythia, the men's pancration; at Rome, in the Capitolia Olympia, the
+            men's pancration, the first Aphrodisian (to do so); (30)[... , the men's pancration, the
+            first] Aphrodisian (to do so);<lb/>
+        <lb/>Psrt ii side c<lb/>[ at ? ... , in the provincial]
+            festival of Asia, [the men's pancration;] at Mitylene, [the men's pan]cration; at
+            Adra[myttion, the men's] pancration; [at ? ...], the men's pancration; [at ? ...], the
+            men's pancration; (40) [in the ?], the men's pancration; [at ? Nicomed]ia, the men's
+            pancration; at Nicea, the men's pancration; at Prusias, the men's pancration; at
+            Claudiopolis, twice, the men's pancration; at Ancyra of Galatia, the men's pancration;
+            at Pessinus, the men’s (50) pancration; at Damascus, twice, the men's pancration; at
+            Beirut, the men's pancration; at Tyre, the men's pancration; at <placeName>Straton's
+               Caesarea</placeName>, the men's pancration; at Neapolis of Samaria, the men's
+            pancration; at Scythopolis, the men's pancration; at Gaza, the men's pancration; at
+            Caesarea Panias, the men's pancration; at Hieropolis, the men's pancration; at
+            Anazarbus, the men's pancration; (60) at Mopsuestia, the men's pancration; at Tripolis
+            of Syria, the men's pancration; at Philadelphia of Arabia, the men's pancration; at
+            Zeugma by the Euphrates, the men's pancration; at Kibyra, the men's pancration. <note xml:lang="en" type="translation">Rev. Reynolds, Roueché, and Bodard 2007</note>
+        <idno type="CTS-URN"/>
+        <ref target="http://insaph.kcl.ac.uk/iaph2007/iAph120920.html#edition"/>
+      </ab>
+         <listBibl>
+        <head>Works Cited</head>
+        <bibl xml:id="bib462-1">
+          <ptr target="https://caesarea-maritima.org/bibl/VU3ISTBV"/>
+          <citedRange unit="entry">12.920</citedRange>
+        </bibl>
+      </listBibl>
+         <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target="https://caesarea-maritima.org/bibl/J6X733SP"/>
+          <citedRange unit="p">231-235</citedRange>
+          <citedRange unit="entry">91</citedRange>
+        </bibl>
+      </listBibl>
+      <note type="related-texts">
+        <p>IAph2007 1.182</p>
+        <p>IAph2007 12.290</p>
+      </note>
+      <note type="geography">
+        <p>Adrymettium</p>
+        <p>Anazarbus</p>
+        <p>Antioch on the Orontes</p>
+        <p>Aphrodisias</p>
+        <p>Asia</p>
+        <p>Athens</p>
+        <p>Beirut</p>
+        <p>Caesarea Panias</p>
+        <p>Cibyra</p>
+        <p>Claudiopolis</p>
+        <p>Damascus</p>
+        <p>Ephesus</p>
+        <p>Gaza</p>
+        <p>Hieropolis</p>
+        <p>Isthmus</p>
+        <p>Lycia</p>
+        <p>Miletus</p>
+        <p>Mopsuestia</p>
+        <p>Mytilene</p>
+        <p>Neapolis of Samaria</p>
+        <p>Nemea</p>
+        <p>Nicaea</p>
+        <p>Nicomedia</p>
+        <p>Pergamum</p>
+        <p>Pessinus</p>
+        <p>Philadelphia of Arabia</p>
+        <p>Prusias</p>
+        <p>Rome</p>
+        <p>Scythopolis</p>
+        <p>Smyrna</p>
+        <p>Thebes</p>
+        <p>Thrace</p>
+        <p>Tripolis of Syria</p>
+        <p>Tyre</p>
+        <p>Zeugma by the Euphrates</p>
+      </note>
+      <note type="prosopography">
+        <p>Antoninus Pius, emperor</p>
+        <p>Lucius Verus, emperor</p>
+        <p>Marcus Aurelius, emperor</p>
+        <p>T. Aelius Aurelius Menander</p>
+      </note>
+      <note type="themes">
+        <p>Entertainment</p>
+        <p>Geography</p>
+        <p>Government and Law</p>
+        <p>Roman History</p>
+      </note>
+    </body>
+   </text>
+</TEI>
