@@ -297,9 +297,9 @@
         <idno type="CTS-URN"/>
         <ref target=""/>
         <note xml:lang="en" type="textual">Ed. Thurn 2000</note>
-        <note xml:lang="en" type="textual">Thurn’s text of this passage gives the reading of Codex Boccianus 182
+        <note type="textual">Thurn’s text of this passage gives the reading of Codex Boccianus 182
           at Oxford (12th century), which varies throughout from the parallel passage at Constantine
-          Porphyrogenitus,  173.13-29.</note>
+          Porphyrogenitus, <title>Plots</title> 173.13-29.</note>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote244-2">
         <anchor xml:id="testimonia-244.en.1" corresp="#testimonia-244.grc.1"/>

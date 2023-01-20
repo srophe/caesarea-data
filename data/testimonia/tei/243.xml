@@ -296,12 +296,12 @@
         <idno type="CTS-URN"/>
         <ref target=""/>
         <note xml:lang="en" type="textual">Ed. Thurn 2000</note>
-        <note xml:lang="en" type="textual">Thurn’s text of this passage follows the parallel passage at
-          Constantine Porphygenitus,  162.22-36 where it diverges from the text
+        <note type="textual">Thurn’s text of this passage follows the parallel passage at
+          Constantine Porphygenitus, <title>Plots</title> 162.22-36 where it diverges from the text
           of the Codex Barrocianus 182 (Oxford, 12th century).</note>
-        <note xml:lang="en" type="discussion">The noun χριστιανοὺς (“Christians”) appears in the Cod. Barroc. but
+        <note type="discussion">The noun χριστιανοὺς (“Christians”) appears in the Cod. Barroc. but
           not the medieval Slavonic translations or the parallel passages at Const. Porphyr. or the
-             603.19-604.13; Thurn sets it apart thus with {
+          <title>Eastern Chronicle</title> 603.19-604.13; Thurn sets it apart thus with {
           }.</note>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote243-2">

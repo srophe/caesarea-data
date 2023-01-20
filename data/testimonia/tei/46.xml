@@ -312,8 +312,8 @@
                <placeName>Kaisareia</placeName> -Kaisareias</foreign>,
                <foreign>Antiocheia-Antiocheias</foreign>.<note xml:lang="en" type="translation">Trans. J. L.
                Rife</note>
-            <note xml:lang="en" type="discussion">The Greek verse “Medeies hyp’ eroti” is quoted from Apollonius
-               of Rhodes,  3.31.</note>
+           <note type="discussion">The Greek verse “<foreign>Medeies hyp’ eroti</foreign>” is quoted from Apollonius
+             of Rhodes, <title>Voyage of the Argo</title> 3.31.</note>
             <idno type="CTS-URN"/>
             <ref target=""/>
          </ab>
