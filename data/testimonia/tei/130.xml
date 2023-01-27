@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="en" level="a">Eusebius, <title level="m">Life of
+        <title xml:lang="en" level="a">Eusebius of Caesarea, <title level="m">Life of
           Constantine</title> 1.19</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
         <sponsor>Vanderbilt University</sponsor>
@@ -248,7 +248,7 @@
       </abstract>
       <creation>This entry is taken from <title xml:lang="en" type="uniform" level="m">Life of
           Constantine</title>
-        <ref n="a" target="#bib130-1">1.19</ref> written by <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius</persName> in <origDate notBefore="0335" notAfter="0339" period="#byzantine">335-339 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</creation>
+        <ref n="a" target="#bib130-1">1.19</ref> written by <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName> in <origDate notBefore="0335" notAfter="0339" period="#byzantine">335-339 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</creation>
       <langUsage>
         <language ident="grc">Ancient Greek</language>
       </langUsage>
@@ -261,6 +261,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc status="published">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2023-01-20-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#wpotter" when="2020-06-10-05:00">ADDED: testimonium ID, URNs, URLs to edition and translation, and Bibl URIs</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#wpotter" when="2020-06-10-05:00">CREATED: testimonium</change>
@@ -271,7 +272,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/130</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract130-1">Caesarea Maritima is indirectly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius</persName>, <title xml:lang="en" type="uniform" level="m">Life of
+      <desc type="abstract" xml:id="abstract130-1">Caesarea Maritima is indirectly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>, <title xml:lang="en" type="uniform" level="m">Life of
           Constantine</title> <ref n="a" target="#bib130-1">1.19</ref>. This passage was written ca. <origDate notBefore="0335" notAfter="0339" period="#byzantine">335-339 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
       <desc type="context">In this passage from his biography of Constantine the Great, Eusebius
         describes the physical and spritual virtues of the adolescent. The historian refers to
@@ -288,12 +289,12 @@
         ἐπλεονέκτει τοὺς ὁμήλικας ὡς καὶ φοβερὸν αὐτοῖς εἶναι, ταῖς δὲ κατὰ ψυχὴν ἀρεταῖς μᾶλλον ἢ
         τοῖς κατὰ τὸ σῶμα πλεονεκτήμασιν ἐνηβρύνετο, σωφροσύνῃ πρώτιστα τὴν ψυχὴν κοσμούμενος
         πάντων, κἄπειτα παιδεύσει λόγων φρονήσει τ’ ἐμφύτῳ καὶ τῇ θεοσδότῳ σοφίᾳ διαφερόντως
-          ἐκπρέπων.<ab type="source" source="#bib130-1"/>
+        ἐκπρέπων.<ab type="source" source="#bib130-1"/>
         <idno type="CTS-URN"/>
         <note xml:lang="en" type="textual">Ed. Winkelmann 1991</note>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote130-2">
-        <anchor xml:id="testimonia-130.en.1" corresp="#testimonia-130.grc.1"/>This son (sc.
+        <anchor xml:id="testimonia-130.en.1" corresp="#testimonia-130.grc.1"/>TThis son (sc.
         Constantine) was with his imperial colleagues (sc. the tetrarchs); and in their midst, as
         has been said, he conducted himself in the same way as the ancient prophet of God. Now that
         he had passed from childhood to youth, he was granted highest honor among them. As such we
@@ -309,7 +310,7 @@
         <ref/>
         <note xml:lang="en" type="translation">Rev. Cameron and
           Hill 1999</note>
-        <note xml:lang="en" type="discussion">“as has been said, he conducted himself in the same way as the
+        <note type="discussion">“as has been said, he conducted himself in the same way as the
           ancient prophet of God”: the simile compares Constantine among the tetrarchs to Moses
           among the Egyptians.</note>
       </ab>

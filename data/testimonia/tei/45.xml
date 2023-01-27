@@ -264,6 +264,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc status="draft">
+        <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2023-01-20-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
          <change who="wpotter" when="">ADDED: testimonium ID, URNs, URLs to edition and translation, and Bibl URIs</change>
          <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
@@ -286,35 +287,32 @@
             the element <foreign>kai</foreign>.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote45-1">
         <anchor xml:id="testimonia-45.grc.1" corresp="#testimonia-45.en.1"/>
-        Πλὴν τοῦ καὶ, συνδεσμοῦ· καινὸν, τὸ νέον καὶ παράδοξον, ὅθεν καινοτομία,
-            ἡ νέα πράξις ἢ ἡ παράδοξος· καινοτομῶ, τὸ νεοπραγῶ· Καίσαρ, Καίσαρος· Καισάρεια πόλις,
-            καὶ Καισαρεὺς ὁ ἀπὸ <placeName>Καισαρείας</placeName>· καιρὸς ὁ χρόνος, ὅθεν καὶ
-            καίριον, τὸ ἔγκαιριον· καιροφυλακῶ· καιροσκοπῶ· καιρία πληγὴ, ὁ θανάσιμος· καικίας,
-            ἄνεμος· Καινεὺς, κύριον, καὶ κλίνεται Καινέως· καίω, ῥῆμα, τὸ φλογίζω· καὶ καίνω, τὸ
-            κόπτω, ὅθεν καὶ καινὶς, ἡ μάχαιρα.<ab type="source" source="#bib45-1"/>
+           Πλὴν τοῦ καὶ,
+           συνδεσμοῦ· καινὸν, τὸ νέον καὶ παράδοξον, ὅθεν καινοτομία, ἡ νέα πράξις ἢ ἡ παράδοξος·
+           καινοτομῶ, τὸ νεοπραγῶ· Καίσαρ, Καίσαρος· <placeName>Καισάρεια</placeName> πόλις, καὶ
+           Καισαρεὺς ὁ ἀπὸ <placeName>Καισαρείας</placeName>· καιρὸς ὁ χρόνος, ὅθεν καὶ καίριον, τὸ
+           ἔγκαιριον· καιροφυλακῶ· καιροσκοπῶ· καιρία πληγὴ, ὁ θανάσιμος· καικίας, ἄνεμος· Καινεὺς,
+           κύριον, καὶ κλίνεται Καινέως· καίω, ῥῆμα, τὸ φλογίζω· καὶ καίνω, τὸ κόπτω, ὅθεν καὶ
+           καινὶς, ἡ μάχαιρα.<ab type="source" source="#bib45-1"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
         <note xml:lang="en" type="textual">Ed. Boissonade 1819</note>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote45-2">
         <anchor xml:id="testimonia-45.en.1" corresp="#testimonia-45.grc.1"/>
-            Besides
-               <foreign>kai</foreign>, conjunction: <foreign>kainon</foreign>, the new and
-            incredible, from which we also get <foreign>kainotomia</foreign>, a new practice or
-            paradox; <foreign>kainotomo</foreign>, verb “to render new”; <foreign>Kaisar,
-               Kaisaros</foreign>; <foreign>
-          <placeName>Kaisareia</placeName>
-        </foreign> the city, and
-               <foreign>Kaisareus</foreign>, the man from
-               <foreign>
-          <placeName>Kaisareia</placeName>
-        </foreign>; <foreign>kairos</foreign>, the
-            time, from which we also get <foreign>kairion</foreign>, <foreign>engkairion</foreign>;
-               <foreign>kairophylako</foreign>; <foreign>kairoskopo</foreign>; <foreign>kairia
-               plege</foreign>, the death-blow; <foreign>kaikias</foreign>, wind;
-               <foreign>Kaineus</foreign>, proper noun, declined <foreign>Kaineos</foreign>;
-               <foreign>kaio</foreign>, verb, “to set afire”; and <foreign>kaino</foreign>, verb “to
-            cut”, from which we also get <foreign>kainis</foreign>, knife.<note xml:lang="en" type="translation">Trans. J. L. Rife</note>
+           Besides
+           <foreign>kai</foreign>, conjunction: <foreign>kainon</foreign>, the new and
+           incredible, from which we also get <foreign>kainotomia</foreign>, a new practice or
+           paradox; <foreign>kainotomo</foreign>, verb “to render new”; <foreign>Kaisar,
+             Kaisaros</foreign>; <foreign><placeName>Kaisareia</placeName></foreign> the city, and
+           <foreign>Kaisareus</foreign>, the man from
+           <foreign><placeName>Kaisareia</placeName></foreign>; <foreign>kairos</foreign>, the
+           time, from which we also get <foreign>kairion</foreign>, <foreign>engkairion</foreign>;
+           <foreign>kairophylako</foreign>; <foreign>kairoskopo</foreign>; <foreign>kairia
+             plege</foreign>, the death-blow; <foreign>kaikias</foreign>, wind;
+           <foreign>Kaineus</foreign>, proper noun, declined <foreign>Kaineos</foreign>;
+           <foreign>kaio</foreign>, verb, “to set afire”; and <foreign>kaino</foreign>, verb “to
+           cut”, from which we also get <foreign>kainis</foreign>, knife.<note xml:lang="en" type="translation">Trans. J. L. Rife</note>
             <idno type="CTS-URN"/>
             <ref target=""/>
          </ab>

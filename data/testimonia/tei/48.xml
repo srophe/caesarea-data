@@ -259,6 +259,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc status="published">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2023-01-20-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#wpotter" when="2020-06-10-05:00">ADDED: testimonium ID, URNs, URLs to edition and translation, and Bibl URIs</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#wpotter" when="2020-06-10-05:00">CREATED: testimonium</change>
@@ -270,23 +271,29 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/48</idno>
       </ab>
       <desc type="abstract" xml:id="abstract48-1"><quote><placeName>Καισαρέων</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/25393339 " role="author">Apollonius of Tyana</persName>, <title xml:lang="en" type="uniform" level="m">Letters</title> <ref n="a" target="#bib48-1">11</ref>. This passage was written ca. <origDate notBefore="0045" notAfter="0090" period="#nabateanKingdom #earlyRoman #herodian #middleNabatean">45-90 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/837">Asia Minor</origPlace>.</desc>
-      <desc type="context"/>
+      <desc type="context">A collection of over 50 letters from various sources is associated with
+        the name of Apollonius of Tyana. He was the celebrated Neopythagorean teacher of the late
+        1st century C.E. whom Philostratus portrayed colorfully as a pagan holy man and thaumaturge
+        in his biography of the early 3rd century. This body of correspondence mixes fictitious and
+        authentic documents on a range of topics. <title>Letter</title> 11, given in full here, is a
+        genuine letter from Apollonius to the councillors of Caesarea that praises their city,
+        noting in particular its “Greek customs” (ἤθεσιν Ἑλληνικοῖς).</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote48-1">
         <anchor xml:id="testimonia-48.grc.1" corresp="#testimonia-48.en.1"/>
-        [Ἀπολλώνιος] <placeName>Καισαρέων</placeName> προβούλοις. Πρῶτον εἰς
-        πάντα θεῶν ἄνθρωποι δέονται καὶ περὶ παντός, ἔπειτα πόλεων, τιμητέον γὰρ δεύτερον πόλεις
-        μετὰ θεοὺς καὶ τὰ πόλεως προκριτέον παντὶ νοῦν ἔχοντι. εἰ δὲ μὴ πόλις μόνον εἴη, ἀλλὰ καὶ
-        μεγίστη τῆς Παλαιστίνης, ἀρίστη τε τῶν αὐτόθι μεγέθει καὶ νόμοις καὶ ἐπιτηδεύμασι, καὶ
-        προγόνων κατὰ πόλεμον ἀρεταῖς, ἔτι τε ἤθεσι κατ᾿ εἰρήνην, καθάπερ ἡ ὑμετέρα πόλις, μάλιστα
-        πασῶν τῶν ἄλλων ἐμοί τε θαυμαστέα τιμητέα τε καὶ ἄλλῳ δὲ ὁμοίως παντὶ νοῦν ἔχοντι. τοῦτο μὲν
-        οὖν ἐκ λόγου κοινοῦ τὸ προκριτικὸν ἂν εἴη, τὸ κατὰ σύγκρισιν τῶν πολλῶν. ὅταν δὲ καὶ ἄρχῃ
-        πόλις ποτὲ τῆς πρὸς ἕνα τιμῆς ἄνδρα, ποιοῦσα τοῦτον ἑαυτῆς ξένον καὶ ἄποθεν, τί ἢ τούτου τοῦ
-        ἀνδρὸς πρὸς ἀμοιβὴν ἢ ὑμῶν πρὸς τίσιν ἄξιον εἴη; τοῦτο μόνον ἴσως, εἰ θεοφιλής τις ὢν τύχοι
-        διά τινα φύσεως ἐπιτηδειότητα, τὸ εὔχεσθαι τῇ πόλει τὰ ἀγαθὰ τυγχάνειν τε τῆς εὐχῆς, ὅπερ ἂν
-        διατελέσαιμι κἀγὼ πράττων ὑπὲρ ὑμῶν, ἐπείπερ ἥσθην ἤθεσιν Ἑλληνικοῖς φαίνουσι τὸ ἴδιον
-        ἀγαθὸν καὶ διὰ γραμμάτων κοινῶν. Ἀπολλωνίδην δὲ τὸν Ἀφροδισίου, νεανίαν ἐρρωμενεστάτης
-        φύσεως ἀξίας τε τοῦ ἡμετέρου ὀνόματος, πειράσομαι χρήσιμον ὑμῖν παρασκευάζειν εἰς ἕκαστα
-        μετὰ καὶ τύχης τινὸς ἀγαθῆς.
+        [Ἀπολλώνιος]
+        <placeName>Καισαρέων</placeName> προβούλοις. Πρῶτον εἰς πάντα θεῶν ἄνθρωποι δέονται καὶ
+        περὶ παντός, ἔπειτα πόλεων, τιμητέον γὰρ δεύτερον πόλεις μετὰ θεοὺς καὶ τὰ πόλεως προκριτέον
+        παντὶ νοῦν ἔχοντι. εἰ δὲ μὴ πόλις μόνον εἴη, ἀλλὰ καὶ μεγίστη τῆς Παλαιστίνης, ἀρίστη τε τῶν
+        αὐτόθι μεγέθει καὶ νόμοις καὶ ἐπιτηδεύμασι, καὶ προγόνων κατὰ πόλεμον ἀρεταῖς, ἔτι τε ἤθεσι
+        κατ᾿ εἰρήνην, καθάπερ ἡ ὑμετέρα πόλις, μάλιστα πασῶν τῶν ἄλλων ἐμοί τε θαυμαστέα τιμητέα τε
+        καὶ ἄλλῳ δὲ ὁμοίως παντὶ νοῦν ἔχοντι. τοῦτο μὲν οὖν ἐκ λόγου κοινοῦ τὸ προκριτικὸν ἂν εἴη,
+        τὸ κατὰ σύγκρισιν τῶν πολλῶν. ὅταν δὲ καὶ ἄρχῃ πόλις ποτὲ τῆς πρὸς ἕνα τιμῆς ἄνδρα, ποιοῦσα
+        τοῦτον ἑαυτῆς ξένον καὶ ἄποθεν, τί ἢ τούτου τοῦ ἀνδρὸς πρὸς ἀμοιβὴν ἢ ὑμῶν πρὸς τίσιν ἄξιον
+        εἴη; τοῦτο μόνον ἴσως, εἰ θεοφιλής τις ὢν τύχοι διά τινα φύσεως ἐπιτηδειότητα, τὸ εὔχεσθαι
+        τῇ πόλει τὰ ἀγαθὰ τυγχάνειν τε τῆς εὐχῆς, ὅπερ ἂν διατελέσαιμι κἀγὼ πράττων ὑπὲρ ὑμῶν,
+        ἐπείπερ ἥσθην ἤθεσιν Ἑλληνικοῖς φαίνουσι τὸ ἴδιον ἀγαθὸν καὶ διὰ γραμμάτων κοινῶν.
+        Ἀπολλωνίδην δὲ τὸν Ἀφροδισίου, νεανίαν ἐρρωμενεστάτης φύσεως ἀξίας τε τοῦ ἡμετέρου ὀνόματος,
+        πειράσομαι χρήσιμον ὑμῖν παρασκευάζειν εἰς ἕκαστα μετὰ καὶ τύχης τινὸς ἀγαθῆς.
         <ab type="source" source="#bib48-1"/>
         <idno type="CTS-URN"/>
         <ref target="https://www-loebclassics-com.proxy.library.vanderbilt.edu/view/apollonius_tyana-letters/2006/pb_LCL458.17.xml?mainRsKey=Ti6YQQ&amp;result=1&amp;rskey=t5gvpn"/>

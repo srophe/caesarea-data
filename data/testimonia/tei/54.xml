@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="en" level="a">Procopius, <title level="m">Secret History</title> 11.29</title>
+        <title xml:lang="en" level="a">Photius, <title level="m">Library</title> 88.66b30-67a11</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
         <sponsor>Vanderbilt University</sponsor>
         <principal>Joseph L. Rife</principal>
@@ -248,20 +248,21 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:greekLit:tlg4029.tlg002" type="uniform" level="m">Secret History</title>
-        <ref n="b" target="#bib54-1">11.29</ref> written by <persName ref="http://viaf.org/viaf/100172302" role="author">Procopius</persName> in <origDate period="#byzantine" notBefore="0550" notAfter="0558">550 - 558 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Library</title>
+        <title xml:lang="en" ref="" type="uniform" level="m">Library</title> written by <persName ref="http://viaf.org/viaf/14775071" role="author">Photius</persName> in <origDate period="#earlyIslamic" notBefore="0845" notAfter="0855">845 - 855 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
       <langUsage>
         <language ident="grc">Ancient Greek</language>
       </langUsage>
       <textClass>
         <classCode scheme="https://distributed-text-services.github.io/specifications">
-          <idno xml:base="http://data.perseus.org/citations/" type="CTS-URN">urn:cts:greekLit:tlg4029.tlg002:11.29</idno>
+          <idno type="CTS-URN"/>
         </classCode>
-        <catRef scheme="#CM-Testimonia-Type" target=""/>
-        <catRef scheme="#CM-NEAEH" target="#"/>
+        <catRef scheme="#CM-Testimonia-Type" target="#direct"/>
+        <catRef scheme="#CM-NEAEH" target="#middleBronzeAge #byzantine"/>
       </textClass>
     </profileDesc>
     <revisionDesc status="published">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2023-01-20-05:00">CHANGED: Proofreading and general edits</change>
       <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-03-30-04:00">CHANGED: Update bibl elements with full citation information from Syriaca.org entry.</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#wpotter" when="2020-03-09-05:00">ADDED: testimonium ID, URNs, URLs to edition and translation, and Bibl URIs</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#wpotter" when="2020-03-09-05:00">CREATED: testimonium</change>
@@ -272,46 +273,99 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/54</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract54-1"> is directly attested at <persName ref="http://viaf.org/viaf/100172302" role="author">Procopius</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg4029.tlg002" type="uniform" level="m">Secret History</title> <ref target="#bib54-1">11.29</ref>. This passage was written circa <origDate period="#byzantine" notBefore="0550" notAfter="0558">550 - 558 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract54-1"><quote><placeName>Καισαρείας τῆς Παλαιστίνης</placeName></quote>, <quote><placeName>Καισαρείας τῆς κατὰ Παλαιστίνην</placeName></quote>, <quote><placeName>Caesarea Palestinae</placeName></quote>, and <quote><placeName>Caesarea in Palestine</placeName></quote>, are directly attested at <persName ref="http://viaf.org/viaf/14775071" role="author">Photius</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Library</title> <title xml:lang="en" ref="" type="uniform" level="m">Library</title>. This passage was written circa <origDate period="#earlyIslamic" notBefore="0845" notAfter="0855">845 - 855 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+      <desc type="context">Photius I was ecumenical patriarch of Constantinople in 858-867 and
+        877-886, as well as an unparalleled intellectual luminary for his age. Apart from his
+        distinguished ecclesiastical career, he engaged in polymathic teaching and research,
+        supported by his vast personal library. Photius wrote an expansive compendium of
+        classical writings in 280 volumes or codices, his <title>Library</title> (Βιβλιοθήκη) or
+        <title>Thousandsfold Book</title> (Μυριόβιβλον), which included epitomes, excerpts,
+        and commentaries mainly on historical, rhetorical, and theological works, many of which
+        are otherwise lost. Several passages discuss the renowned leaders of the Church at
+        Caesarea in Palestine. In this passage, Photius reports on a historical account of the
+        Council of Nicaea in 325 written by Gelasius of Cyzicus in the late 5th century. The
+        patriarch notes that he had seen a copy of the book instead attributing it to Gelasius,
+        bishop of Caesarea, evidently in error; but also that two or three Gelasii served the
+        same see and left behind writings.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote54-1">
-        καὶ λέγονται μυριάδες ἀνθρώπων δέκα ἐν τῷ πόνῳ τούτῳ ἀπολωλέναι, καὶ χώρα ἡ πάσης γῆς ἀγαθὴ μάλιστα ἔρημος γεωργῶν ἀπ̓ αὐτοῦ γέγονε.<ab type="source" source="#bib54-1"/>
-        <idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg4029.tlg002.perseus-grc1:11.29</idno>
-        <ref target="http://data.perseus.org/citations/urn:cts:greekLit:tlg4029.tlg002.perseus-grc1:11.29"/>
+        <anchor xml:id="testimonia-54.grc.1" corresp="#testimonia-54.en.1"/>
+        Καὶ ταῦτα μὲν τόδε τὸ βιβλίον· οὐ γὰρ ἐπεγέγραπτο αὐτῷ ἡ κλῆσις τοῦ
+        γράψαντος. Ἐν ἄλλῳ μέντοι ἔχοντι τὰ αὐτά, Γελασίου τοῦ ἐπισκόπου <placeName>Καισαρείας
+          τῆς Παλαιστίνης</placeName> εὗρον τὸ βιβλίον ἐπιγραφόμενον. Ἡ δὲ φράσις εἰς τὸ
+        ταπεινὸν καὶ χυδαῖον τοῦ λόγου λίαν κατενηνεγμένη. Τίς ποτε δέ ἐστιν ὁ Γελάσιος οὗτος,
+        οὐκ ἔχω σαφῶς ἐκμαθεῖν. Μέχρι γὰρ νῦν τριῶν, πρόσεστιν εἰκάσαι, Γελασίων καὶ ἐπισκόπων
+        <placeName>Καισαρείας τῆς κατὰ Παλαιστίνην</placeName> βιβλίοις ἐνετύχομεν, ἢ πάντως
+        γε δύο. Αἱ δὲ βίβλοι αἷς ἐνετύχομεν, ἡ μέν ἐστι κατὰ Ἀνομοίων συντεταγμένη, αἱ δὲ ἄλλαι
+        δύο ἐκκλησιαστικὰς ἀναγράφουσι πράξεις, ὧν μία ἧς νῦν ὡς ἐν κεφαλαίῳ ἐπεμνήσθημεν. Ἔχει
+        δὲ αὕτη, ἐν οἷς αὐτὴν ἐπιγεγραμμένην εὕρομεν, ἐπιγραφήν, ὥσπερ εἴρηται· «Γελασίου
+        ἐπισκόπου <placeName>Καισαρείας τῆς κατὰ Παλαιστίνην</placeName> ἱστορίας ἐκκλησιαστικῆς
+        λόγοι γʹ» καὶ ἀπάρχεται δὲ οὕτω· «Τὰ κατὰ τὴν ἁγίαν καὶ μεγάλην καὶ οἰκουμενικὴν τῶν
+        ἐπισκόπων συναθροισθεῖσαν σύνοδον ἐκ πασῶν ὡς ἔπος εἰπεῖν, τῶν τοῦ Ῥωμαίου κόσμου
+        ἐπαρχιῶν καὶ Περσίδος» καὶ ἑξῆς. Καὶ τελευτᾷ δὲ εἰς τὴν τοῦ μεγάλου Κωνσταντίνου
+        τελευτήν, ἐν ᾗ καὶ τὸ τῆς ἀφέσεως ἐδέξατο θεῖον λουτρόν, τὰς ἐν βίῳ κηλῖδας, οἷα εἰκὸς
+        ἄνθρωπον ὄντα ταύτας ἐφέλκεσθαι ἀπολουσάμενος.<ab type="source" source="#bib54-1"/>
+        <ref
+          target="https://babel.hathitrust.org/cgi/pt?id=inu.32000000323156&amp;view=1up&amp;seq=76&amp;skin=2021"
+        />
+        <note type="textual">Ed. Bekker 1824-1825 with ref. Henry 1959</note>
+      </ab>
+      <ab type="translation" xml:lang="en" xml:id="quote54-2">
+        <anchor xml:id="testimonia-54.en.1" corresp="#testimonia-54.grc.1"/>
+        Such are the contents of this book, and yet the name of the writer
+        is not inscribed on it. However, in another copy with the same text, I found the book
+        inscribed “by Gelasius, bishop of <placeName>Caesarea Palestinae</placeName>.” The style
+        of expression has been brought far down to the level of base and vulgar language. I have
+        been unable to discover for certain who this Gelasius is, because until now I have come
+        upon books by an estimated three Gelasii, bishops of <placeName>Caesarea
+          Palestinae</placeName>, or in any case two. The books I have come upon are a
+        compilation <title>Against the Anamoeans</title> and two others record ecclesiastical
+        proceedings; one of them is the (work) I just briefly mentioned. This one, in the copy
+        where we found it with the author’s name, is entitled, as I said, <title>Three Books of
+          Ecclesiastical History by Gelasius, Bishop of <placeName>Caesarea in
+            Palestine</placeName></title>. It begins thus: “Acts of the holy and great
+        ecumenical synod of bishops assembled from almost all provinces of the Roman world and
+        from Persia” and so on. It ends with the death of Constantine the Great, when he
+        received the divine bath of remission, which washed away the impurities a man naturally
+        acquires in his life.<ab type="source" source="#bib54-2"/>
+        <ref target="https://archive.org/details/libraryofphotius00phot/page/154/mode/2up"/>
+        <note type="translation">Adapted from Freese 1920 with ref. to Henry 1959</note>
       </ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib54-1">
-          <ptr target="https://caesarea-maritima.org/bibl/SW5BHIPQ"/>
-          <citedRange unit="section">11.29</citedRange>
-        <title level="m">Historia Arcana (Anecdota): Machine Readable Text</title>
-          <author>
-            <name>Procopius</name>
-          </author>
-          <editor>
-            <forename>Michael</forename>
-            <surname>Krascheninnikov</surname>
-          </editor>
+          <ptr target="https://caesarea-maritima.org/bibl/KK4EKZ9D"/>
+          <citedRange unit="bk">88</citedRange>
+          <citedRange unit="p">66b30-67a11</citedRange>
+        </bibl>
+        <bibl xml:id="bib54-2">
+          <ptr target="https://caesarea-maritima.org/bibl/9VU2XC27"/>
+          <citedRange unit="vol">2</citedRange>
+          <citedRange unit="p">14</citedRange>
         </bibl>
       </listBibl>
       <listBibl>
         <head>Additional Bibliography</head>
         <bibl>
-          <ptr target="https://caesarea-maritima.org/bibl/8K7THZJK"/>
-          <citedRange unit="section">11.29</citedRange>
-        <title level="m">Procopii Caesariensis Anecdota qvae dicvntvr</title>
-          <author>
-            <name>Procopius</name>
-          </author>
-          <editor>
-            <forename>Mikhail Nikitich</forename>
-            <surname>Krasheninnikov</surname>
-          </editor>
+          <ptr target="https://caesarea-maritima.org/bibl/9UDPPPSU"/>
+          <citedRange unit="p">154-155</citedRange>
         </bibl>
       </listBibl>
-    <note type="related-texts"/>
-      <note type="geography"/>
-      <note type="prosopography"/>
-      <note type="themes"/>
+        <note type="related-texts">
+          <p>* Photius, Library 88</p>
+          <p>* Photius, Library 102</p>
+        </note>
+        <note type="geography">
+          <p>Persia</p>
+        </note>
+        <note type="prosopography">
+          <p>Gelasius, bishop</p>
+        </note>
+        <note type="themes">
+          <p>Christianity</p>
+          <p>Culture and Society</p>
+          <p>Education (sacred)</p>
+          <p> Greek Language</p>
+        </note>
     </body>
   </text>
 </TEI>
