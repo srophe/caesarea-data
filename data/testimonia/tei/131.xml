@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="en" level="a">Eusebius, <title level="m">Life of
+        <title xml:lang="en" level="a">Eusebius of Caesarea, <title level="m">Life of
           Constantine</title> 4.36-4.37</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
         <sponsor>Vanderbilt University</sponsor>
@@ -248,7 +248,7 @@
       </abstract>
       <creation>This entry is taken from <title xml:lang="en" type="uniform" level="m">Life of
           Constantine</title>
-        <ref n="b" target="#bib131-1">4.36-4.37</ref> written by <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius</persName> in <origDate notBefore="0335" notAfter="0339" period="#byzantine">335-339 CE</origDate>. This work was likely written in
+        <ref n="b" target="#bib131-1">4.36-4.37</ref> written by <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName> in <origDate notBefore="0335" notAfter="0339" period="#byzantine">335-339 CE</origDate>. This work was likely written in
           <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</creation>
       <langUsage>
         <language ident="grc">Ancient Greek</language>
@@ -262,6 +262,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc status="published">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2023-01-20-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#wpotter" when="2020-06-10-05:00">ADDED: testimonium ID, URNs, URLs to edition and translation, and Bibl URIs</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#wpotter" when="2020-06-10-05:00">CREATED: testimonium</change>
@@ -272,7 +273,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/131</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract131-1">Caesarea Maritima is indirectly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius</persName>, <title xml:lang="en" type="uniform" level="m">Life of
+      <desc type="abstract" xml:id="abstract131-1">Caesarea Maritima is indirectly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>, <title xml:lang="en" type="uniform" level="m">Life of
           Constantine</title> <ref n="b" target="#bib131-1">4.36-4.37</ref>. This passage was written ca. <origDate notBefore="0335" notAfter="0339" period="#byzantine">335-339 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
       <desc type="context">In this famous passage from his biography of Constantine the Great,
         Eusebius directly quoted a letter he had received as bishop of Caesarea from the emperor.
@@ -309,7 +310,7 @@
         <note xml:lang="en" type="textual">Ed. Winkelmann 1991</note>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote131-2">
-        <anchor xml:id="testimonia-131.en.1" corresp="#testimonia-131.grc.1"/> … (A)nd the
+        <anchor xml:id="testimonia-131.en.1" corresp="#testimonia-131.grc.1"/>… (A)nd the
         letter on the provision of Divine Readings goes as follows. “Victor Constantine Maximus
         Augustus to Eusebius. Through the sustaining Providence of God our Savior, it happens that
         great numbers have united themselves to the most Holy Church in the city which is called by
@@ -333,7 +334,7 @@
         <ref/>
         <note xml:lang="en" type="translation">Adapted from Cameron
           and Hill 1999</note>
-        <note xml:lang="en" type="discussion">The interpolation of “carriages” (ὀχημάτων) from Socrates of
+        <note type="discussion">The interpolation of “carriages” (ὀχημάτων) from Socrates of
           Constantinople, Theodoret of Cyrrus, and Gelasius of Cyzicus raises the question of how
           wheeled vehicles were to be used for the deacon’s delivery to Constantine. An overland
           journey up the Syrian coast and across Anatolia would have been long and arduous; perhaps

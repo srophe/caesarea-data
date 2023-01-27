@@ -258,6 +258,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc status="published">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2023-01-20-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#wpotter" when="2020-06-10-05:00">ADDED: testimonium ID, URNs, URLs to edition and translation, and Bibl URIs</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#wpotter" when="2020-06-10-05:00">CREATED: testimonium</change>
@@ -270,25 +271,26 @@
       </ab>
       <desc type="abstract" xml:id="abstract201-1"><quote><placeName>Καισαρείᾳ</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/100172302" role="author">Procopius</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Secret History</title> <ref n="e" target="#bib201-1">30.17-30.19</ref>. This passage was written ca. <origDate notBefore="0550" notAfter="0560" period="#byzantine">550-560 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
       <desc type="context">Procopius, a native of Caesarea Maritima who excelled in his classical
-            education and legal training, was the preeminent historian of the reign of Justinian. As
-            a field advisor to the general Belisarius and a ranking member of the governing class in
-            Constantinople, he could write with firsthand knowledge and personal authority on policy
-            and society in the late Empire. Among his influential writings was the unusual “secret”
-            or “unpublished history” (ἀπόκρυφη/ἀνεκδοτή ἱστορία), a collection of vignettes often
-            with a polemical or satirical flavor that portrayed the vices and failures of the
-            emperor, the empress, and their entourage. In this passage Procopius records the
-            fortunes of Evangelos, a professional orator at Caesarea whom Procopius may have
-            known.</desc>
+        education and legal training, was the preeminent historian of the reign of Justinian. As
+        a field advisor to the general Belisarius and a ranking member of the governing class in
+        Constantinople, he could write with firsthand knowledge and personal authority on policy
+        and society in the late Empire. Among his influential writings was the unusual “secret”
+        or “unpublished history” (ἀπόκρυφη/ἀνεκδοτή ἱστορία), a collection of vignettes often
+        with a polemical or satirical flavor that portrayed the vices and failures of the
+        emperor, the empress, and their entourage. In this passage Procopius records the
+        fortunes of Evangelos, a professional orator at Caesarea whom Procopius may have
+        known.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote201-1">
         <anchor xml:id="testimonia-201.grc.1" corresp="#testimonia-201.en.1"/>
-        (17) Τὰ μὲν οὖν σπουδαιότατα τῇ πολιτείᾳ ἐ[πε]φέρετο τῇδε. οὐδὲν δὲ
-            χεῖρον καί τινος αὐτοῦ τῶν γελοίων ἐπιμνησθῆναι. (18) τῶν ἐν<placeName>Καισαρείᾳ</placeName>ῥητόρων Εὐάγγελός τις ἦν οὐκ ἄσημος ἀνὴρ, ὅσπερ
-            ἐπιφόρου οἱ τοῦ τῆς τύχης πνεύματος γενομένου χρημάτων τε ἄλλων καὶ χώρας πολλῆς κύριος
-            γέγονεν. (19) ὕστερον δὲ καὶ κώμην ἐπιθαλασσίαν τινὰ, Πορφυρεῶνα ὄνομα, τριῶν χρυσίου
-            κεντηναρίων ἐπρίατο. ταῦτα μαθὼν Ἰουστινιανος βασιλεὺς ἀφείλετο [αὐτῷ] τὸ χωρίον εὐθὺς
-            ὀλίγην αὐτῷ τινα τοῦ τιμήματος προέμενος μοῖραν, καὶ τοῦτο ἀποφθεγξάμενος, ὡς Εὐαγγέλῳ
-            ῥήτορι ὄντι οὐ μήποτε εὐπρεπὲς εἴη κώμης τοιαύτης κυρίῳ εἶναι. (20) ἀλλὰ περὶ μὲν
-            τούτων, ἀμηγέπη αὐτῶν ἐπιμνησθέντες, παυσόμεθα λέγειν.<ab type="source" source="#bib201-1"/>
+        ((17) Τὰ μὲν οὖν σπουδαιότατα τῇ πολιτείᾳ ἐ[πε]φέρετο τῇδε. οὐδὲν δὲ
+        χεῖρον καί τινος αὐτοῦ τῶν γελοίων ἐπιμνησθῆναι. (18) τῶν ἐν
+        <placeName>Καισαρείᾳ</placeName> ῥητόρων Εὐάγγελός τις ἦν οὐκ ἄσημος ἀνὴρ, ὅσπερ
+        ἐπιφόρου οἱ τοῦ τῆς τύχης πνεύματος γενομένου χρημάτων τε ἄλλων καὶ χώρας πολλῆς κύριος
+        γέγονεν. (19) ὕστερον δὲ καὶ κώμην ἐπιθαλασσίαν τινὰ, Πορφυρεῶνα ὄνομα, τριῶν χρυσίου
+        κεντηναρίων ἐπρίατο. ταῦτα μαθὼν Ἰουστινιανος βασιλεὺς ἀφείλετο [αὐτῷ] τὸ χωρίον εὐθὺς
+        ὀλίγην αὐτῷ τινα τοῦ τιμήματος προέμενος μοῖραν, καὶ τοῦτο ἀποφθεγξάμενος, ὡς Εὐαγγέλῳ
+        ῥήτορι ὄντι οὐ μήποτε εὐπρεπὲς εἴη κώμης τοιαύτης κυρίῳ εἶναι. (20) ἀλλὰ περὶ μὲν
+        τούτων, ἀμηγέπη αὐτῶν ἐπιμνησθέντες, παυσόμεθα λέγειν.<ab type="source" source="#bib201-1"/>
             <note type="textual">Ed. Wirth 1963 [cited by chapter-section]</note>
         <idno type="CTS-URN"/>
         <ref target=""/>
@@ -296,15 +298,15 @@
       <ab type="translation" xml:lang="en" xml:id="quote201-2">
         <anchor xml:id="testimonia-201.en.1" corresp="#testimonia-201.grc.1"/>
         (17) So this is how the most important affairs of the state were
-            going. There is no harm in mentioning one of his (sc. Justinian’s) ridiculous acts. (18)
-            Among the orators at<placeName>Caesarea</placeName>was one Evangelos, a man not
-            without distinction, who, when the winds of Fortune blew profitably in his direction,
-            became owner of diverse assets, including much land. (19) Later he even purchased a town
-            on the sea named Porphyreon for 300 pounds of gold. When he learned of this, the emperor
-            Justinian immediately took away the village, giving the man only a small fraction of its
-            value, and declaring that it would never be appropriate for an orator like Evangelos to
-            be the owner of such a town. (20) But now that I have mentioned these matters in a
-            summary fashion, I will stop discussing them.<ab type="source" source="#bib201-2"/>
+        going. There is no harm in mentioning one of his (sc. Justinian’s) ridiculous acts. (18)
+        Among the orators at <placeName>Caesarea</placeName> was one Evangelos, a man not
+        without distinction, who, when the winds of Fortune blew profitably in his direction,
+        became owner of diverse assets, including much land. (19) Later he even purchased a town
+        on the sea named Porphyreon for 300 pounds of gold. When he learned of this, the emperor
+        Justinian immediately took away the village, giving the man only a small fraction of its
+        value, and declaring that it would never be appropriate for an orator like Evangelos to
+        be the owner of such a town. (20) But now that I have mentioned these matters in a
+        summary fashion, I will stop discussing them.<ab type="source" source="#bib201-2"/>
             <note type="translation">Adapted from Dewing 1935 and Williamson 1966</note>
         <idno type="CTS-URN"/>
         <ref target=""/>
