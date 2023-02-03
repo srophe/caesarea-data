@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -14,7 +16,8 @@
         <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
         <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</editor>
         
-        <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#bgardner">Bianca Gardner</editor><editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
+        <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#bgardner">Bianca Gardner</editor>
+        <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
         <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L.
@@ -242,6 +245,15 @@
                 <catDesc>A "toponymic testimonium" contains a toponymic epithet related to the conceptual place Caeseara Maritima or its environs. When a "direct testimonium" also contain a "toponymic testimonium", the testimonium is marked as belonging to both types. These two types do not always overlap and thus our data set also includes "toponymic testimonia" which are not "direct testimonia".</catDesc>
             </category>
         </taxonomy>
+        <taxonomy xml:id="CM-Language-Usage">
+          <desc>The <title>Caesarea-Maritima.org Language Usage</title> taxonomy describes how language codes applied to individual testimonia records should be interpreted. These are used in the <att>ana</att> attributes in the elements found in the <gi>langUsage</gi>.</desc>
+          <category xml:id="caesarea-language-of-original">
+            <catDesc>The original language of a testimonium's composition, which may differ in language from the expression of the testimonium recorded here. For example, Severus of Antioch's Letters were originally composed in Greek but survive only in an ancient Syriac translation. The testimonium representing the Syriac version of Severus's Letters would use this category to record the original language, Greek</catDesc>
+          </category>
+          <category xml:id="caesarea-language-of-testimonia">
+            <catDesc>The language used in the particular expression of the testimonium recorded here, which may differ from the original language of composition. For example, Severus of Antioch's Letters were originally composed in Greek but survive only in an ancient Syriac translation. The testimonium representing the Syriac version of Severus's Letters would use this category to record the language, Syriac</catDesc>
+          </category>
+        </taxonomy>
       </classDecl>
     </encodingDesc>
     <profileDesc>
@@ -251,7 +263,8 @@
       <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg004" type="uniform" level="m">The Jewish War</title>
         <ref n="n" target="#bib29-1">2.449-2.460</ref> written by <persName ref="http://viaf.org/viaf/22143666" role="author">Josephus</persName> in <origDate period="#nabateanKingdom #earlyRoman #herodian" notBefore="0070" notAfter="0090">70 - 90 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</creation>
       <langUsage>
-        <language ident="grc">Ancient Greek</language>
+        <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
+        <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>
       </langUsage>
       <textClass>
         <classCode scheme="https://distributed-text-services.github.io/specifications">
@@ -272,7 +285,8 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/29</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract29-1"><quote><placeName xml:lang="grc">Καισαρεῖς</placeName></quote>, <quote><placeName xml:lang="grc">τὴν Καισάρειαν</placeName></quote>, <quote><placeName xml:lang="grc">τῆς Καισαρείας</placeName></quote>, <quote><placeName xml:lang="grc">Καισάρειαν</placeName></quote>, and <quote><placeName xml:lang="en">Cesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/22143666" role="author">Josephus</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg004" type="uniform" level="m">The Jewish War</title> <ref n="n" target="#bib29-1">2.449-2.460</ref>. This passage was written ca. <origDate period="#nabateanKingdom #earlyRoman #herodian" notBefore="0070" notAfter="0090">70 - 90 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract29-1">
+        <quote><placeName xml:lang="grc">Καισαρεῖς</placeName></quote>, <quote><placeName xml:lang="grc">τὴν Καισάρειαν</placeName></quote>, <quote><placeName xml:lang="grc">τῆς Καισαρείας</placeName></quote>, <quote><placeName xml:lang="grc">Καισάρειαν</placeName></quote>, and <quote><placeName xml:lang="en">Cesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/22143666" role="author">Josephus</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg004" type="uniform" level="m">The Jewish War</title> <ref n="n" target="#bib29-1">2.449-2.460</ref>. This passage was written ca. <origDate period="#nabateanKingdom #earlyRoman #herodian" notBefore="0070" notAfter="0090">70 - 90 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote29-1">
         <anchor xml:id="testimonia-29.grc.1" corresp="#testimonia-29.en.1"/>
         Ὁ μὲν οὖν δῆμος, ὡς ἔφην, εἰς ταῦτα συνήργησεν ἐλπίζων τινὰ τῆς ὅλης στάσεως διόρθωσιν: οἱ δ᾽ οὐ καταλῦσαι τὸν πόλεμον σπεύδοντες, ἀλλ᾽ ἀδεέστερον πολεμεῖν Μανάημον ἀνῃρήκεσαν. ἀμέλει πολλὰ τοῦ δήμου τοῖς στρατιώταις ἀνεῖναι τὴν πολιορκίαν παρακαλοῦντος, οἱ δὲ προσέκειντο χαλεπώτερον, μέχρι μηκέτι ἀντέχοντες οἱ περὶ τὸν Μετίλιον, οὗτος γὰρ ἦν τῶν Ῥωμαίων ἔπαρχος, διαπέμπονται πρὸς τοὺς περὶ τὸν Ἐλεάζαρον ἐξαιτούμενοι μόνας τὰς ψυχὰς ὑποσπόνδους, τὰ δ᾽ ὅπλα καὶ τὴν λοιπὴν κτῆσιν παραδώσειν λέγοντες. οἱ δὲ καὶ τὴν ἱκεσίαν ἁρπάσαντες ἀνέπεμψαν πρὸς αὐτοὺς Γωρίονά τε Νικομήδους υἱὸν καὶ Ἀνανίαν Σαδούκι καὶ Ἰούδαν Ἰωνάθου δεξιάν τε καὶ ὅρκους δώσοντας. ὧν γενομένων κατῆγεν τοὺς στρατιώτας ὁ Μετίλιος. οἱ δὲ μέχρι μὲν ἦσαν ἐν τοῖς ὅπλοις, οὔτ᾽ ἐπεχείρει τις τῶν στασιαστῶν αὐτοῖς οὔτ᾽ ἐνέφαινεν ἐπιβουλήν: ὡς δὲ κατὰ τὰς συνθήκας ἅπαντες ἀπέθεντο τοὺς θυρεοὺς καὶ τὰ ξίφη καὶ μηδὲν ἔτι ὑποπτεύοντες ἀνεχώρουν, ὥρμησαν ἐπ᾽ αὐτοὺς οἱ περὶ τὸν Ἐλεάζαρον καὶ περισχόντες ἀνῄρουν οὔτε ἀμυνομένους οὔτε ἱκετεύοντας, μόνας δὲ τὰς συνθήκας καὶ τοὺς ὅρκους ἀναβοῶντας. οἱ μὲν οὖν οὕτως ὠμῶς ἀπεσφάγησαν ἅπαντες πλὴν Μετιλίου, τοῦτον γὰρ ἱκετεύσαντα καὶ μέχρι περιτομῆς ἰουδαΐσειν ὑποσχόμενον διέσωσαν μόνον, τὸ δὲ πάθος Ῥωμαίοις μὲν ἦν κοῦφον, ἐκ γὰρ ἀπλέτου δυνάμεως ἀπαναλώθησαν ὀλίγοι, Ἰουδαίων δὲ προοίμιον ἁλώσεως ἔδοξεν. καὶ κατιδόντες ἀνηκέστους μὲν ἤδη τὰς αἰτίας τοῦ πολέμου, τὴν δὲ πόλιν τηλικούτῳ μιάσματι πεφυρμένην, ἐξ οὗ δαιμόνιόν τι μήνιμα προσδοκᾶν εἰκὸς ἦν, εἰ καὶ μὴ τὴν ἐκ Ῥωμαίων ἄμυναν, ἐπένθουν δημοσίᾳ, καὶ πλήρης μὲν κατηφείας ἦν ἡ πόλις, ἕκαστος δὲ τῶν μετρίων ὡς αὐτὸς ὑπὲρ τῶν στασιαστῶν δίκας δώσων τετάρακτο. καὶ γὰρ δὴ σαββάτῳ συνέβη πραχθῆναι τὸν φόνον, ἐν ᾧ διὰ τὴν θρησκείαν καὶ τῶν ὁσίων ἔργων ἔχουσιν ἐκεχειρίαν. Τῆς δ᾽ αὐτῆς ἡμέρας καὶ ὥρας ὥσπερ ἐκ δαιμονίου προνοίας ἀνῄρουν <placeName xml:lang="grc">Καισαρεῖς</placeName> τοὺς παρ᾽ ἑαυτοῖς Ἰουδαίους, ὡς ὑπὸ μίαν ὥραν ἀποσφαγῆναι μὲν ὑπὲρ δισμυρίους, κενωθῆναι δὲ πᾶσαν Ἰουδαίων <placeName xml:lang="grc">τὴν Καισάρειαν</placeName> : καὶ γὰρ τοὺς διαφεύγοντας ὁ Φλῶρος συλλαβὼν κατῆγεν δεσμώτας εἰς τὰ νεώρια. πρὸς δὲ τὴν ἐκ <placeName xml:lang="grc">τῆς Καισαρείας</placeName> πληγὴν ὅλον τὸ ἔθνος ἐξαγριοῦται, καὶ διαμερισθέντες τάς τε κώμας τῶν Σύρων καὶ τὰς προσεχούσας ἐπόρθουν πόλεις, Φιλαδέλφειάν τε καὶ Ἐσεβωνῖτιν καὶ Γέρασα καὶ Πέλλαν καὶ Σκυθόπολιν. ἔπειτα Γαδάροις καὶ Ἵππῳ καὶ τῇ Γαυλανίτιδι προσπεσόντες τὰ μὲν καταστρεψάμενοι, τὰ δ᾽ ὑποπρήσαντες ἐχώρουν ἐπὶ Κάδασα τὴν Τυρίων καὶ Πτολεμαΐδα Γάβαν τε καὶ <placeName xml:lang="grc">Καισάρειαν</placeName>. ἀντέσχον δὲ οὔτε Σεβαστὴ ταῖς ὁρμαῖς αὐτῶν οὔτε Ἀσκάλων, ἀλλ᾽ ἐπὶ ταύταις πυρποληθείσαις Ἀνθηδόνα καὶ Γάζαν κατέσκαπτον. πολλαὶ δὲ καθ᾽ ἑκάστην τούτων τῶν πόλεων ἀνηρπάζοντο κῶμαι, καὶ τῶν ἁλισκομένων ἀνδρῶν φόνος ἦν ἄπειρος.<ab type="source" source="#bib29-1"/>

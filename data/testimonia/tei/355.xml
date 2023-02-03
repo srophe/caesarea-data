@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -241,6 +243,15 @@
                     <catDesc>A "toponymic testimonium" contains a toponymic epithet related to the conceptual place Caeseara Maritima or its environs. When a "direct testimonium" also contain a "toponymic testimonium", the testimonium is marked as belonging to both types. These two types do not always overlap and thus our data set also includes "toponymic testimonia" which are not "direct testimonia".</catDesc>
                 </category> 
             </taxonomy>
+        <taxonomy xml:id="CM-Language-Usage">
+          <desc>The <title>Caesarea-Maritima.org Language Usage</title> taxonomy describes how language codes applied to individual testimonia records should be interpreted. These are used in the <att>ana</att> attributes in the elements found in the <gi>langUsage</gi>.</desc>
+          <category xml:id="caesarea-language-of-original">
+            <catDesc>The original language of a testimonium's composition, which may differ in language from the expression of the testimonium recorded here. For example, Severus of Antioch's Letters were originally composed in Greek but survive only in an ancient Syriac translation. The testimonium representing the Syriac version of Severus's Letters would use this category to record the original language, Greek</catDesc>
+          </category>
+          <category xml:id="caesarea-language-of-testimonia">
+            <catDesc>The language used in the particular expression of the testimonium recorded here, which may differ from the original language of composition. For example, Severus of Antioch's Letters were originally composed in Greek but survive only in an ancient Syriac translation. The testimonium representing the Syriac version of Severus's Letters would use this category to record the language, Syriac</catDesc>
+          </category>
+        </taxonomy>
          </classDecl>
       </encodingDesc>
       <profileDesc>
@@ -249,8 +260,9 @@
          </abstract>
          <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Chronographic Selection</title> <ref n="g" target="#bib355-1">637.6-637.18</ref> written by <persName ref="http://viaf.org/viaf/39386582" role="author">George Syncellus</persName> in <origDate notBefore="0808" notAfter="0815" period="#earlyIslamic">808-815 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
          <langUsage>
-            <language ident="grc">Ancient Greek</language>
-         </langUsage>
+        <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
+        <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>
+      </langUsage>
          <textClass>
             <classCode scheme="https://distributed-text-services.github.io/specifications">
                <idno type="CTS-URN"/>
@@ -270,9 +282,14 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/355</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract355-1"><quote><placeName>Καισαρείας τῆς
-               Παλαιστίνης</placeName></quote>, and <quote><placeName>Caesarea
-               Palestinae</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/39386582" role="author">George Syncellus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Chronographic Selection</title> <ref n="g" target="#bib355-1">637.6-637.18</ref>. This passage was written ca. <origDate notBefore="0808" notAfter="0815" period="#earlyIslamic">808-815 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+         <desc type="abstract" xml:id="abstract355-1">
+        <quote>
+          <placeName>Καισαρείας τῆς
+               Παλαιστίνης</placeName>
+        </quote>, and <quote>
+          <placeName>Caesarea
+               Palestinae</placeName>
+        </quote> are directly attested at <persName ref="http://viaf.org/viaf/39386582" role="author">George Syncellus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Chronographic Selection</title> <ref n="g" target="#bib355-1">637.6-637.18</ref>. This passage was written ca. <origDate notBefore="0808" notAfter="0815" period="#earlyIslamic">808-815 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
          <desc type="context">George Syncellus (“cellmate”), whose career spanned the late 8th to
             very early 9th centuries, was a Palestinian monk before his appointment as the assistant
             to Tarasius, Patriarch of Contantinople. Apparently facing hostility from the emperor

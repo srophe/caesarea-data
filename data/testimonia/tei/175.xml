@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -14,7 +16,8 @@
         <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</editor>
         
         <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#jwoods">Joshua Woods</editor>
-        <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#eyonan">Eliana Yonan</editor><editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
+        <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#eyonan">Eliana Yonan</editor>
+        <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
         <respStmt>
         <resp>TEI encoding by</resp>
         <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
@@ -244,6 +247,15 @@
                   <catDesc>A "toponymic testimonium" contains a toponymic epithet related to the conceptual place Caeseara Maritima or its environs. When a "direct testimonium" also contain a "toponymic testimonium", the testimonium is marked as belonging to both types. These two types do not always overlap and thus our data set also includes "toponymic testimonia" which are not "direct testimonia".</catDesc>
               </category>
           </taxonomy>
+        <taxonomy xml:id="CM-Language-Usage">
+          <desc>The <title>Caesarea-Maritima.org Language Usage</title> taxonomy describes how language codes applied to individual testimonia records should be interpreted. These are used in the <att>ana</att> attributes in the elements found in the <gi>langUsage</gi>.</desc>
+          <category xml:id="caesarea-language-of-original">
+            <catDesc>The original language of a testimonium's composition, which may differ in language from the expression of the testimonium recorded here. For example, Severus of Antioch's Letters were originally composed in Greek but survive only in an ancient Syriac translation. The testimonium representing the Syriac version of Severus's Letters would use this category to record the original language, Greek</catDesc>
+          </category>
+          <category xml:id="caesarea-language-of-testimonia">
+            <catDesc>The language used in the particular expression of the testimonium recorded here, which may differ from the original language of composition. For example, Severus of Antioch's Letters were originally composed in Greek but survive only in an ancient Syriac translation. The testimonium representing the Syriac version of Severus's Letters would use this category to record the language, Syriac</catDesc>
+          </category>
+        </taxonomy>
         </classDecl>
       </encodingDesc>
     <profileDesc>
@@ -253,7 +265,8 @@
       <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg001" type="uniform" level="m">Antiquities of the Jews</title>
         <ref n="d" target="#bib175-1">15.7.3</ref> written by <persName ref="http://viaf.org/viaf/22143666 " role="author">Josephus </persName> in <origDate period="#nabateanKingdom #earlyRoman" notBefore="0093" notAfter="0094">93 - 94 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</creation>
       <langUsage>
-        <language ident="grc">Ancient Greek</language>
+        <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
+        <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>
       </langUsage>
       <textClass>
         <classCode scheme="https://distributed-text-services.github.io/specifications">
@@ -273,7 +286,8 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/175</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract175-1"><quote><placeName xml:lang="grc">Στράτωνος πύργον.</placeName></quote>, <quote><placeName xml:lang="en">Herod</placeName></quote>, and <quote><placeName xml:lang="en">Strato's Tower</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/22143666 " role="author">Josephus </persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg001" type="uniform" level="m">Antiquities of the Jews</title> <ref n="d" target="#bib175-1">15.7.3</ref>. This passage was written ca. <origDate period="#nabateanKingdom #earlyRoman" notBefore="0093" notAfter="0094">93 - 94 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract175-1">
+        <quote><placeName xml:lang="grc">Στράτωνος πύργον.</placeName></quote>, <quote><placeName xml:lang="en">Herod</placeName></quote>, and <quote><placeName xml:lang="en">Strato's Tower</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/22143666 " role="author">Josephus </persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg001" type="uniform" level="m">Antiquities of the Jews</title> <ref n="d" target="#bib175-1">15.7.3</ref>. This passage was written ca. <origDate period="#nabateanKingdom #earlyRoman" notBefore="0093" notAfter="0094">93 - 94 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote175-1">
         <anchor xml:id="testimonia-175.grc.1" corresp="#testimonia-175.en.1"/>Συνιδοῦσαι δ᾽ οὕτως αὐτὸν ἔχοντα πρὸς τὴν Μαριάμμην ἥ τε ἀδελφὴ καὶ ἡ μήτηρ κάλλιστον ᾠήθησαν τὸν καιρὸν τοῦ πρὸς ἐκείνην μίσους εἰληφέναι καὶ διελάλουν οὐ μικρῶς παροξύνουσαι τὸν Ἡρώδην διαβολαῖς μῖσος ὁμοῦ καὶ ζηλοτυπίαν ἐμποιεῖν δυνησομέναις. ὁ δ᾽ οὔτε τῶν τοιούτων ἀηδῶς ἤκουσεν λόγων οὔτε δρᾶν τι κατὰ τῆς γυναικὸς ὡς πεπιστευκὼς ἀπεθάρρει, χεῖρον μέντοι πρὸς αὐτὴν εἶχεν ἀεὶ καὶ τὸ πάθος ἀντεξεκαίετο, τῆς μὲν οὐκ ἀποκρυπτομένης τὴν διάθεσιν, τοῦ δὲ τὸν ἔρωτα πρὸς ὀργὴν ἀεὶ μεταλαμβάνοντος. κἂν εὐθὺς ἐπράχθη τι τῶν ἀνηκέστων: νῦν δὲ Καίσαρος ἀγγελθέντος κρατεῖν τῷ πολέμῳ καὶ τεθνηκότων Ἀντωνίου καὶ Κλεοπάτρας ἔχειν Αἴγυπτον, ἐπειγόμενος εἰς τὸ Καίσαρι ἀπαντᾶν κατέλιπεν ὡς εἶχεν τὰ περὶ τὴν οἰκίαν. ἐξιόντι δὲ Μαριάμμη παραστησομένη τὸν Σόαιμον πολλήν τε χάριν τῆς ἐπιμελείας ὡμολόγει καὶ μεριδαρχίαν αὐτῷ παρὰ τοῦ βασιλέως ᾐτήσατο. κἀκεῖνος μὲν τυγχάνει τῆς τιμῆς. Ἡρώδης δὲ γενόμενος ἐν Αἰγύπτῳ Καίσαρί τε μετὰ πλείονος παρρησίας εἰς λόγους ἦλθεν ὡς ἤδη φίλος καὶ μεγίστων ἠξιώθη: τῶν τε γὰρ Κλεοπάτραν δορυφορούντων Γαλατῶν τετρακοσίοις αὐτὸν ἐδωρήσατο καὶ τὴν χώραν ἀπέδωκεν αὐτῷ πάλιν, ἣν δι᾽ ἐκείνης ἀφῃρέθη. προσέθηκεν δὲ καὶ τῇ βασιλείᾳ Γάδαρα καὶ Ἵππον καὶ Σαμάρειαν ἔτι δὲ τῆς παραλίου Γάζαν καὶ Ἀνθηδόνα καὶ Ἰόπην καὶ <placeName xml:lang="grc">Στράτωνος πύργον.</placeName>
         <ab type="source" source="#bib175-1"/>

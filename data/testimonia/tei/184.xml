@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -13,7 +15,8 @@
         <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
         <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</editor>
         
-        <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#eyonan">Eliana Yonan</editor><editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
+        <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#eyonan">Eliana Yonan</editor>
+        <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
         <respStmt>
         <resp>TEI encoding by</resp>
         <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
@@ -239,6 +242,15 @@
                   <catDesc>A "toponymic testimonium" contains a toponymic epithet related to the conceptual place Caeseara Maritima or its environs. When a "direct testimonium" also contain a "toponymic testimonium", the testimonium is marked as belonging to both types. These two types do not always overlap and thus our data set also includes "toponymic testimonia" which are not "direct testimonia".</catDesc>
               </category>
           </taxonomy>
+        <taxonomy xml:id="CM-Language-Usage">
+          <desc>The <title>Caesarea-Maritima.org Language Usage</title> taxonomy describes how language codes applied to individual testimonia records should be interpreted. These are used in the <att>ana</att> attributes in the elements found in the <gi>langUsage</gi>.</desc>
+          <category xml:id="caesarea-language-of-original">
+            <catDesc>The original language of a testimonium's composition, which may differ in language from the expression of the testimonium recorded here. For example, Severus of Antioch's Letters were originally composed in Greek but survive only in an ancient Syriac translation. The testimonium representing the Syriac version of Severus's Letters would use this category to record the original language, Greek</catDesc>
+          </category>
+          <category xml:id="caesarea-language-of-testimonia">
+            <catDesc>The language used in the particular expression of the testimonium recorded here, which may differ from the original language of composition. For example, Severus of Antioch's Letters were originally composed in Greek but survive only in an ancient Syriac translation. The testimonium representing the Syriac version of Severus's Letters would use this category to record the language, Syriac</catDesc>
+          </category>
+        </taxonomy>
         </classDecl>
       </encodingDesc>
     <profileDesc>
@@ -248,7 +260,8 @@
       <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg003" type="uniform" level="m">Martyrs of Palestine</title>
         <ref n="m" target="#bib184-1">6.7</ref> written by <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName> in <origDate period="#lateRoman" notBefore="0315" notAfter="0316">315 – 316 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</creation>
       <langUsage>
-        <language ident="grc">Ancient Greek</language>
+        <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
+        <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>
       </langUsage>
       <textClass>
         <classCode scheme="https://distributed-text-services.github.io/specifications">
@@ -268,7 +281,8 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/184</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract184-1"><quote><placeName xml:lang="grc">δεσμωτήριον</placeName></quote>, and <quote><placeName xml:lang="en">prison.</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg003" type="uniform" level="m">Martyrs of Palestine</title> <ref n="m" target="#bib184-1">6.7</ref>. This passage was written ca. <origDate period="#lateRoman" notBefore="0315" notAfter="0316">315 – 316 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract184-1">
+        <quote><placeName xml:lang="grc">δεσμωτήριον</placeName></quote>, and <quote><placeName xml:lang="en">prison.</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg003" type="uniform" level="m">Martyrs of Palestine</title> <ref n="m" target="#bib184-1">6.7</ref>. This passage was written ca. <origDate period="#lateRoman" notBefore="0315" notAfter="0316">315 – 316 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote184-1">
         <anchor xml:id="testimonia-184.grc.1" corresp="#testimonia-184.en.1"/>καὶ τοῦτ εἰπὼν ἅμα λόγῳ τοὔργον ἐπάγει, δρομαῖος ἄντικρυς ἀπολυθείσῃ κατ αὐτοῦ ἄρκτῳ ὑπαντιάσας, ταύτῃ. τε ἑαυτὸν ἀσμενέστατα ἐπιδεδωκὼς εἰς βορὰν, μεθ ἣν ἔμπνους εἰς τὸ <placeName xml:lang="grc">δεσμωτήριον</placeName> αἴρεται. μίαν τε ἐνταῦθα ἐπιβιώσας ἡμέ ραν τῇ ἑξῆς λίθων αὐτοῦ προσαρτηθέντων τοῖς ποσὶ μέσῳ πελάγει καταποντοῦται. τοιοῦτο καὶ τὸ τοῦ Ἀγαπίου μαρτύριον.<ab type="source" source="#bib184-1"/>
         <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg003.1st1K-grc1:6.7</idno>

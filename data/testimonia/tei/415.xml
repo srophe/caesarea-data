@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -345,7 +347,8 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/415</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract415-1"><quote><placeName>ܩܣܪܝܐ ܡܕܝܢܬܐ</placeName></quote>, and <quote><placeName>the city of Caesarea</placeName></quote> are directly attested at <persName ref="" role="author">Gregorius bar Hebraeus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Candelabrum of the
+         <desc type="abstract" xml:id="abstract415-1">
+        <quote><placeName>ܩܣܪܝܐ ܡܕܝܢܬܐ</placeName></quote>, and <quote><placeName>the city of Caesarea</placeName></quote> are directly attested at <persName ref="" role="author">Gregorius bar Hebraeus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Candelabrum of the
                Sanctuary</title> <ref n="a" target="#bib415-1">IV.III.1.2.1.3.xii</ref>. This passage was written ca. <origDate notBefore="1266" notAfter="" period="#crusader">1266 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/874621">Mosul</origPlace>.</desc>
          <desc type="context">Gregorius bar Hebraus was a polymath of the thirteenth century C.E.
             who wrote over fourty different works in genres ranging from Christian theology to
