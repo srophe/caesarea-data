@@ -14,6 +14,34 @@
             <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
             <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</editor>
             <!-- Static metadata -->
+            <respStmt>
+               <resp>Testimonium identified by</resp>
+               <name ref="jrife"/>
+            </respStmt>
+            <respStmt>
+               <resp>Testimonium transcribed by</resp>
+               <name ref="jrife"/>
+            </respStmt>
+            <respStmt>
+               <resp>Testimonium translated by</resp>
+               <name ref="jrife"/>
+            </respStmt>
+            <respStmt>
+               <resp>TEI record created by</resp>
+               <name ref="jrife"/>
+            </respStmt>
+            <respStmt>
+               <resp>Testimonium edited by</resp>
+               <name ref=""/>
+            </respStmt>
+            <respStmt>
+               <resp>Editorial review by</resp>
+               <name ref=""/>
+            </respStmt>
+            <respStmt>
+               <resp>Research assistance by</resp>
+               <name ref=""/>
+            </respStmt>
          </titleStmt>
          <editionStmt>
             <edition n="1.0"/>
@@ -101,8 +129,6 @@
          </textClass>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="" when="">ADDED: testimonium ID, URNs, URLs to edition and translation, and Bibl URIs</change>
-         <change who="" when="">CREATED: testimonium</change>
       </revisionDesc>
    </teiHeader>
    <text>
