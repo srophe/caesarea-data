@@ -139,7 +139,7 @@
          <desc type="abstract"/>
          <desc type="context"/>
          <ab type="edition"><note xml:lang="en" type="textual"/><note xml:lang="en" type="textual"/><note xml:lang="en" type="discussion"/> <note xml:lang="en" type="corrigenda"/><idno type="CTS-URN"/><ref target=""/></ab>
-         <ab type="translation"><note xml:lang="en" type="translation"/><note xml:lang="en" type="discussion"/><note xml:lang="en" type="corrigenda"/><idno type="CTS-URN"/><ref target=""/></ab>
+         <ab type="translation"><note xml:lang="en" type="translation">Trans. {source}</note><note xml:lang="en" type="discussion"/><note xml:lang="en" type="corrigenda"/><idno type="CTS-URN"/><ref target=""/></ab>
          <listBibl>
             <head>Works Cited</head>
             <bibl>
