@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -17,6 +19,10 @@
             <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
         </respStmt>
         <respStmt>
           <resp>Electronic text added by</resp>
@@ -302,18 +308,25 @@
             Παῦλος ἔτη ιβʹ<lb/>αʹ ηʹ αʹ θʹ<lb/>Τούτῳ τῷ ἔτει παραλαμβάνει Μαυΐας <placeName>Καισάρειαν
                τῆς Παλαιστίνης</placeName> μετὰ ἑπταετίαν τῆς πολιορκίας αὐτῆς· καὶ κτένει ἐν αὐτῇ
             Ῥωμαίους χιλιάδας ἑπτά.<ab type="source" source="#bib136-1"/>
+        <note xml:lang="en" type="textual">Ed. de Boor 1883</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
-        <note xml:lang="en" type="textual">Ed. de Boor 1883</note>
+        
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote136-2">
         <anchor xml:id="testimonia-136.en.1" corresp="#testimonia-136.grc.1"/>[A.M. 6133=640/1 C.E.]<lb/>Heraklonas, emperor of the Romans, (6
             months)<lb/>1st year Oumaros<lb/>8th year Paul, bishop of Constantinople (12 years), 1st
             year<lb/>Cyrus, 9th year<lb/>In this year Mauias takes <placeName>Caesarea
                Palestinae</placeName> after a seven-year siege and kills 7,000 Romans in it.<ab type="source" source="#bib136-2"/>
+        <note xml:lang="en" type="translation">Rev. Mango, Scott, and Greatrex 1997</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
-        <note xml:lang="en" type="translation">Rev. Mango, Scott, and Greatrex 1997</note>
+        
       </ab>
          <listBibl>
         <head>Works Cited</head>
@@ -324,6 +337,49 @@
         <bibl xml:id="bib136-2">
           <ptr target="https://caesarea-maritima.org/bibl/9634RWJV"/>
           <citedRange unit="p">474-475</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
       <note type="related-texts">

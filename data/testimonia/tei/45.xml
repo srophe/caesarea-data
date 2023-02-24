@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -19,6 +21,10 @@
             <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
         </respStmt>
         <respStmt>
           <resp>URNs and other metadata added by</resp>
@@ -287,7 +293,11 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/45</idno>
          </ab>
          <desc type="abstract" xml:id="abstract45-1">
-        <quote><placeName>Καισαρείας</placeName></quote>, and <quote><placeName>Kaisareia</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/3886149368839785980008">Pseudo-Aelius
+        <quote>
+          <placeName>Καισαρείας</placeName>
+        </quote>, and <quote>
+          <placeName>Kaisareia</placeName>
+        </quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/3886149368839785980008">Pseudo-Aelius
                Herodianus</persName>, <title xml:lang="en" type="uniform" level="m">Parsings</title> <ref n="a" target="#bib45-1">63</ref>. This passage was written ca. <origDate notBefore="1100" notAfter="1400" period="#crusader #lateIslamic">1100-1400 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
          <desc type="context">Although we do not know the authorship or date of the grammatical
             treatise <title>Parsings </title>(Ἐπιμερισμοί), its language points to the late phase of
@@ -306,9 +316,13 @@
            ἔγκαιριον· καιροφυλακῶ· καιροσκοπῶ· καιρία πληγὴ, ὁ θανάσιμος· καικίας, ἄνεμος· Καινεὺς,
            κύριον, καὶ κλίνεται Καινέως· καίω, ῥῆμα, τὸ φλογίζω· καὶ καίνω, τὸ κόπτω, ὅθεν καὶ
            καινὶς, ἡ μάχαιρα.<ab type="source" source="#bib45-1"/>
+        <note xml:lang="en" type="textual">Ed. Boissonade 1819</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
-        <note xml:lang="en" type="textual">Ed. Boissonade 1819</note>
+        
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote45-2">
         <anchor xml:id="testimonia-45.en.1" corresp="#testimonia-45.grc.1"/>
@@ -328,15 +342,23 @@
              plege</foreign>, the death-blow; <foreign>kaikias</foreign>, wind;
            <foreign>Kaineus</foreign>, proper noun, declined <foreign>Kaineos</foreign>;
            <foreign>kaio</foreign>, verb, “to set afire”; and <foreign>kaino</foreign>, verb “to
-           cut”, from which we also get <foreign>kainis</foreign>, knife.<note xml:lang="en" type="translation">Trans. J. L. Rife</note>
+           cut”, from which we also get <foreign>kainis</foreign>, knife.
             <idno type="CTS-URN"/>
             <ref target=""/>
-         </ab>
+         <note xml:lang="en" type="translation">Trans. J. L. Rife</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+      </ab>
          <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib45-1">
           <ptr target="https://caesarea-maritima.org/bibl/UPCYXMFD"/>
           <citedRange unit="p">63</citedRange>
+        </bibl>
+      <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
          <listBibl>
@@ -344,6 +366,41 @@
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/MUALGQEU"/>
           <citedRange unit="p">325-345</citedRange>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

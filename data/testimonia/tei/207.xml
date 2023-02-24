@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -18,6 +20,10 @@
             <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
         </respStmt>
         <respStmt>
           <resp>Electronic text added by</resp>
@@ -281,7 +287,9 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/207</idno>
          </ab>
          <desc type="abstract" xml:id="abstract207-1">
-        <quote><placeName>Στράτωνος πύργος</placeName></quote>, and <quote>
+        <quote>
+          <placeName>Στράτωνος πύργος</placeName>
+        </quote>, and <quote>
           <placeName>Straton’s
                Tower</placeName>
         </quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/61154369">Marcianus of
@@ -302,9 +310,13 @@
             “Συνεχῶς δʼ ἐστὶ <placeName>Στράτωνος πύργος</placeName>, εἶτα ἔνι Δῶρα, ἐπὶ
             χερσονησοειδοῦς τόπου κείμενον πολισμάτιον, ἀρχομένου τοῦ ὄρους τοῦ Καρμήλου.” Καὶ ἐν θʹ
             Γεωγραφουμένων τὸ αὐτό.<ab type="source" source="#bib207-1"/>
+        <note xml:lang="en" type="textual">Ed. Müller 1855</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref/>
-        <note xml:lang="en" type="textual">Ed. Müller 1855</note>
+        
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote207-2">
         <anchor xml:id="testimonia-207.en.1" corresp="#testimonia-207.grc.1"/>
@@ -313,15 +325,66 @@
             called Doros in the old times but today Dora.” And Artemidorus mentions the city Dora in
                <title>Epitome</title> of 11 books: “Continuing on is <placeName>Straton’s
                Tower</placeName>, and then Dora, a town situated on the peninsula where Mount Carmel
-            begins.” And the same thing in <title>Geographic Description</title> 9.<note xml:lang="en" type="translation">Trans. J. L. Rife</note>
+            begins.” And the same thing in <title>Geographic Description</title> 9.
             <idno type="CTS-URN"/>
             <ref target=""/>
-         </ab>
+         <note xml:lang="en" type="translation">Trans. J. L. Rife</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+      </ab>
          <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib207-1">
           <ptr target="https://caesarea-maritima.org/bibl/P32Y86WM"/>
           <citedRange unit="p">576.19-27</citedRange>
+        </bibl>
+      <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

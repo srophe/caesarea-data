@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -19,6 +21,10 @@
         <resp>TEI encoding by</resp>
         <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
       </respStmt>
+        <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
+        </respStmt>
         <respStmt>
         <resp>Electronic text added by</resp>
         <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
@@ -280,14 +286,26 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/72</idno>
       </ab>
       <desc type="abstract" xml:id="abstract72-1">
-        <quote><placeName xml:lang="grc">Καισαρίαν</placeName></quote>, and <quote><placeName xml:lang="en">Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/305863610" role="author">Luke the Evangelist</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg0031.tlg005" type="uniform" level="m">Acts</title> <ref n="h" target="#bib72-1">12.19-12.23</ref>. This passage was written ca. <origDate period="#nabateanKingdom #earlyRoman" notBefore="0080" notAfter="0090">80 – 90 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
+        <quote>
+          <placeName xml:lang="grc">Καισαρίαν</placeName>
+        </quote>, and <quote>
+          <placeName xml:lang="en">Caesarea</placeName>
+        </quote> are directly attested at <persName ref="http://viaf.org/viaf/305863610" role="author">Luke the Evangelist</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg0031.tlg005" type="uniform" level="m">Acts</title> <ref n="h" target="#bib72-1">12.19-12.23</ref>. This passage was written ca. <origDate period="#nabateanKingdom #earlyRoman" notBefore="0080" notAfter="0090">80 – 90 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
+      <desc type="context"/>
       <ab type="edition" xml:lang="grc" xml:id="quote72-1">
         <anchor xml:id="testimonia-72.grc.1" corresp="#testimonia-72.en.1"/>Ἡρῴδης δὲ ἐπιζητήσας αὐτὸν καὶ μὴ εὑρὼν ἀνακρίνας τοὺς φύλακας ἐκέλευσεν ἀπαχθῆναι, καὶ κατελθὼν ἀπὸ τῆς Ἰουδαίας εἰς <placeName xml:lang="grc">Καισαρίαν</placeName> διέτριβεν. Ἦν δὲ θυμομαχῶν Τυρίοις καὶ Σιδωνίοις· ὁμοθυμαδὸν δὲ παρῆσαν πρὸς αὐτόν, καὶ πείσαντες Βλάστον τὸν ἐπὶ τοῦ κοιτῶνος τοῦ βασιλέως ᾐτοῦντο εἰρήνην διὰ τὸ τρέφεσθαι αὐτῶν τὴν χώραν ἀπὸ τῆς βασιλικῆς. τακτῇ δὲ ἡμέρᾳ [ὁ] Ἡρῴδης ἐνδυσάμενος ἐσθῆτα βασιλικὴν καθίσας ἐπὶ τοῦ βήματος ἐδημηγόρει πρὸς αὐτούς· ὁ δὲ δῆμος ἐπεφώνει Θεοῦ φωνὴ καὶ οὐκ ἀνθρώπου. παραχρῆμα δὲ ἐπάταξεν αὐτὸν ἄγγελος Κυρίου ἀνθʼ ὧν οὐκ ἔδωκεν τὴν δόξαν τῷ θεῷ, καὶ γενόμενος σκωληκόβρωτος ἐξέψυξͅεν.<ab type="source" source="#bib72-1"/>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg0031.tlg005.perseus-grc2:12.19-12.23</idno>
         <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg0031.tlg005.perseus-grc2:12.19-12.23"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote72-2">
         <anchor xml:id="testimonia-72.en.1" corresp="#testimonia-72.grc.1"/>"When Herod had sought for him, and didn't find him, he examined the guards, and commanded that they should be put to death. He went down from Judea to <placeName xml:lang="en">Caesarea</placeName>, and stayed there. Now Herod was highly displeased with those of Tyre and Sidon. They came with one accord to him, and, having made Blastus, the king's chamberlain, their friend, they asked for peace, because their country depended on the king's country for food. On an appointed day, Herod dressed himself in royal clothing, sat on the throne, and gave a speech to them. The people shouted, "The voice of a god, and not of a man!" Immediately an angel of the Lord struck him, because he didn't give God the glory, and he was eaten by worms, and he died."<ab type="source" source="#bib72-2"/>
+        <note xml:lang="en" type="translation">Trans. {Source}</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg0031.tlg005.perseus-eng2:12.19-12.23</idno>
         <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg0031.tlg005.perseus-eng2:12.19-12.23"/>
       </ab>
@@ -311,6 +329,36 @@
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/A8CENJCA"/>
           <citedRange unit="section">12.19-12.23</citedRange>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -20,6 +22,10 @@
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L.
           Potter</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
         </respStmt>
         <respStmt>
           <resp>Electronic text added by</resp>
@@ -284,16 +290,34 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/15</idno>
       </ab>
       <desc type="abstract" xml:id="abstract15-1">
-        <quote><placeName xml:lang="grc">Καισάρειαν</placeName></quote>, <quote><placeName xml:lang="grc">Καισαρείας</placeName></quote>, <quote><placeName xml:lang="grc">Στράτωνος πύργον</placeName></quote>, <quote><placeName xml:lang="en">Cesarea</placeName></quote>, and <quote><placeName xml:lang="en">Strato's Tower</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/22143666" role="author">Josephus</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg001" type="uniform" level="m">Antiquities of the Jews</title> <ref n="p" target="#bib15-1">20.173</ref>. This passage was written ca. <origDate period="#nabateanKingdom #earlyRoman" notBefore="0093" notAfter="0094">93 - 94 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+        <quote>
+          <placeName xml:lang="grc">Καισάρειαν</placeName>
+        </quote>, <quote>
+          <placeName xml:lang="grc">Καισαρείας</placeName>
+        </quote>, <quote>
+          <placeName xml:lang="grc">Στράτωνος πύργον</placeName>
+        </quote>, <quote>
+          <placeName xml:lang="en">Cesarea</placeName>
+        </quote>, and <quote>
+          <placeName xml:lang="en">Strato's Tower</placeName>
+        </quote> are directly attested at <persName ref="http://viaf.org/viaf/22143666" role="author">Josephus</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg001" type="uniform" level="m">Antiquities of the Jews</title> <ref n="p" target="#bib15-1">20.173</ref>. This passage was written ca. <origDate period="#nabateanKingdom #earlyRoman" notBefore="0093" notAfter="0094">93 - 94 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+      <desc type="context"/>
       <ab type="edition" xml:lang="grc" xml:id="quote15-1">
         <anchor xml:id="testimonia-15.grc.1" corresp="#testimonia-15.en.1"/>
         Γίνεται δὲ καὶ τῶν <placeName xml:lang="grc">Καισάρειαν</placeName> οἰκούντωνἸουδαίων στάσις πρὸς τοὺς ἐν αὐτῇ Σύρους περὶ ἰσοπολιτείας: οἱ μὲν γὰρ Ἰουδαῖοιπρωτεύειν ἠξίουν διὰ τὸ τὸν κτίστην τῆς <placeName xml:lang="grc">Καισαρείας</placeName> Ἡρώδην αὐτῶν βασιλέαγεγονέναι τὸ γένος Ἰουδαῖον, Σύροι δὲ τὰ μὲνπερὶ τὸν Ἡρώδην ὡμολόγουν, ἔφασκον δὲτὴν <placeName xml:lang="grc">Καισάρειαν</placeName> <placeName xml:lang="grc">Στράτωνος πύργον</placeName> τὸπρότερον καλεῖσθαι καὶ τότε μηδέναγεγονέναι τῆς πόλεως αὐτῶν Ἰουδαῖονοἰκήτορα.<ab type="source" source="#bib15-1"/>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg0526.tlg001.perseus-grc1:20.173</idno>
         <ref target="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg001.perseus-grc1:20.173"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote15-2">
         <anchor xml:id="testimonia-15.en.1" corresp="#testimonia-15.grc.1"/>
         And now it was that a great sedition arose between the Jews that inhabited <placeName xml:lang="en">Cesarea</placeName>, and the Syrians who dwelt there also, concerning their equal right to the privileges belonging to citizens; for the Jews claimed the pre-eminence, because Herod their king was the builder of <placeName xml:lang="en">Cesarea</placeName>, and because he was by birth a Jew. Now the Syrians did not deny what was alleged about Herod; but they said that <placeName xml:lang="en">Cesarea</placeName> was formerly called <placeName xml:lang="en">Strato's Tower</placeName>, and that then there was not one Jewish inhabitant.<ab type="source" source="#bib15-2"/>
+        <note xml:lang="en" type="translation">Trans. {Source}</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg0526.tlg001.perseus-eng1:20.173</idno>
         <ref target="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg001.perseus-eng1:20.173"/>
       </ab>
@@ -344,6 +368,36 @@
             <forename>Flavius</forename>
             <surname>Josephus</surname>
           </author>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

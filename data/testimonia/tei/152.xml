@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -20,6 +22,10 @@
         <resp>TEI encoding by</resp>
         <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
       </respStmt>
+        <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
+        </respStmt>
         <respStmt>
         <resp>Electronic text added by</resp>
         <name ref="https://caesarea-maritima.org/documentation/editors.xml#jwoods">Joshua Woods</name>
@@ -286,7 +292,11 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/152</idno>
       </ab>
       <desc type="abstract" xml:id="abstract152-1">
-        <quote><placeName xml:lang="grc">ἐν Καισαρείᾳ τῆς Παλαιστίνης</placeName></quote>, and <quote><placeName xml:lang="en">Cæsarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/305409681" role="author">Sozomen</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg2048.tlg001" type="uniform" level="m">Church History</title> <ref n="a" target="#bib152-1">3.2.9</ref>. This passage was written ca. <origDate period="#byzantine" notBefore="0440" notAfter="0450">440 - 450 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+        <quote>
+          <placeName xml:lang="grc">ἐν Καισαρείᾳ τῆς Παλαιστίνης</placeName>
+        </quote>, and <quote>
+          <placeName xml:lang="en">Cæsarea</placeName>
+        </quote> are directly attested at <persName ref="http://viaf.org/viaf/305409681" role="author">Sozomen</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg2048.tlg001" type="uniform" level="m">Church History</title> <ref n="a" target="#bib152-1">3.2.9</ref>. This passage was written ca. <origDate period="#byzantine" notBefore="0440" notAfter="0450">440 - 450 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
       <desc type="context">Salaminius Hermias Sozomenos, or Sozomen, was an important ecclesiastical
         historian of the first half of the 5th century. Born to a wealthy Christian family in the
         region of Gaza, he learned classical and sacred literature under the guidance of local
@@ -304,6 +314,10 @@
         πολλὰ συγγράμματα λόγου ἄξια καταλιπεῖν.<ab type="source" source="#bib152-1"/>
         <note type="textual">Ed. Bidez and Hansen
           1995</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote152-2">
         <anchor xml:id="testimonia-152.en.1" corresp="#testimonia-152.grc.1"/>Around this time
@@ -313,6 +327,9 @@
         so that he left many writings worthy of commendation.<ab type="source" source="#bib152-2"/>
         <note type="translation">Adapted from
           Hartranft 1890</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        
       </ab>
       <listBibl>
         <head>Works Cited</head>
@@ -323,6 +340,49 @@
         <bibl xml:id="bib152-2">
           <ptr target="https://caesarea-maritima.org/bibl/583DGC2T"/>
           <citedRange unit="p">284</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

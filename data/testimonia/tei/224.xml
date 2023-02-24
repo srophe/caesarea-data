@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -16,6 +18,10 @@
         <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
         </respStmt>
         <respStmt>
           <resp>Electronic text added by</resp>
@@ -275,7 +281,9 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/224</idno>
       </ab>
       <desc type="abstract" xml:id="abstract224-1">
-        <quote><placeName>Cesarea Palestine</placeName></quote>, and <quote>
+        <quote>
+          <placeName>Cesarea Palestine</placeName>
+        </quote>, and <quote>
           <placeName>Caesarea
                Palestinae</placeName>
         </quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/7379102">Dietrich</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Booklet on Holy Places</title> <ref n="c" target="#bib224-1">1616-1624</ref>. This passage was written ca. <origDate notBefore="1170" notAfter="1173" period="#crusader">1170-1173 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
@@ -292,10 +300,14 @@
             australis venti flatum naufragoso, post hec nichilominus in ordine Gaza sive Gazara et
             civitas munitissima Ascalona, de quibus omnibus supradictum est: hee omnes civitates
             maritime sunt et omnes magne atque murate sunt.<ab type="source" source="#bib224-1"/>
-        <idno type="CTS-URN"/>
-        <ref/>
         <note xml:lang="en" type="textual">Ed. Huygens
                1994</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref/>
+        
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote224-2">
         <anchor xml:id="testimonia-224.en.1" corresp="#testimonia-224.la.1"/>Four miles further comes Accaron or Ptolemaïs, and three miles
@@ -305,10 +317,13 @@
             because of southerly gales. After these in order are Gaza or Gazara and the very strong
             fortress of Ascalona, all of which have been described already. All these cities are on
             the sea coast, and all are large and enclosed by walls.<ab type="source" source="#bib224-2"/>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
         <note xml:lang="en" type="translation">Adapted
                from Stewart 1896</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        
       </ab>
       <listBibl>
         <head>Works Cited</head>
@@ -321,6 +336,49 @@
           <ptr target="https://caesarea-maritima.org/bibl/KZEMGJVT"/>
           <citedRange unit="p">73</citedRange>
           <citedRange unit="section">51</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

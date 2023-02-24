@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -17,6 +19,10 @@
         <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
         </respStmt>
         <respStmt>
           <resp>Electronic text added by</resp>
@@ -292,20 +298,27 @@
         <anchor xml:id="testimonia-266.grc.1" corresp="#testimonia-266.en.1"/>
         Τούτῳ τῷ ἔτει Μάξιμον τὸν Ἱεροσολύμων καθεῖλεν Ἀκάκιος ὁ <placeName>Καισαρείας</placeName> καὶ Πατρόφιλος ὁ Σκυθοπόλεως Ἀρειανοὶ ὄντες, καὶ
             ἀντεισήγαγον Κύριλλον δοκοῦντες ἔχειν αὐτὸν ὁμόφρονα.<ab type="source" source="#bib266-1"/>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
         <note xml:lang="en" type="textual">Ed. de Boor
                1883</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote266-2">
         <anchor xml:id="testimonia-266.en.1" corresp="#testimonia-266.grc.1"/>
         In this year Acacius of <placeName>Caesarea</placeName> and
             Patrophilos of Scythopolis, being Arians, deposed Maximus of Jerusalem and replaced him
             with Cyril, whom they believed to be of their persuasion.<ab type="source" source="#bib266-2"/>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
         <note xml:lang="en" type="translation">Rev.
                Mango, Scott, and Greatrex 1997</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        
       </ab>
       <listBibl>
         <head>Works Cited</head>
@@ -316,6 +329,49 @@
         <bibl xml:id="bib266-2">
           <ptr target="https://caesarea-maritima.org/bibl/9634RWJV"/>
           <citedRange unit="p">70</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

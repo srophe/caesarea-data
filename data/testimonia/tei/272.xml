@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -16,6 +18,10 @@
         <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
         </respStmt>
         <respStmt>
           <resp>Electronic text added by</resp>
@@ -291,10 +297,14 @@
             aliam civitatem. XIII (173a) Pilatus procurator Iudaeae a Tiberio mittitur XIII XIIII
             (b) Votienus Montanus Narbonensis orator in Balearibus XIIII Insulis moritur illuc a
             Tiberio relegatus<ab type="source" source="#bib272-1"/>
+        <note xml:lang="en" type="textual">Ed. Helm 1956</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda">Minor corr. J. L. Rife</note>
         <idno type="CTS-URN"/>
         <ref/>
-        <note xml:lang="en" type="textual">Ed. Helm 1956</note>
-        <note xml:lang="en" type="corrigenda">Minor corr. J. L. Rife</note>
+        
+        
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote272-2">
         <anchor xml:id="testimonia-272.en.1" corresp="#testimonia-272.la.1"/>
@@ -303,9 +313,12 @@
             Philippi, and (he named) another city Julias. [26 C.E.] 13 (173a) Pilatus is sent by
             Tiberius to be governor of Judaea. 13 [27 C.E.] 14 (b) Votienus Montanus of Narbonne, an
             orator banished 14 to the Balearic Islands by Tiberius, dies there.<ab type="source" source="#bib272-2"/>
+        <note xml:lang="en" type="translation">Trans. J. L. Rife with ref. to Pearse 2005</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target="http://www.tertullian.org/fathers/jerome_chronicle_03_part2.htm"/>
-        <note xml:lang="en" type="translation">Trans. J. L. Rife with ref. to Pearse 2005</note>
+        
       </ab>
       <listBibl>
         <head>Works Cited</head>
@@ -315,6 +328,49 @@
         </bibl>
         <bibl xml:id="bib272-2">
           <ptr target="https://caesarea-maritima.org/bibl/7JSD2DS2"/>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

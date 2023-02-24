@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -18,6 +20,10 @@
             <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
         </respStmt>
         <respStmt>
           <resp>Electronic text added by</resp>
@@ -282,7 +288,11 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/56</idno>
          </ab>
          <desc type="abstract" xml:id="abstract56-1">
-        <quote><placeName>Καισαρείᾳ</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author" ref=" http://viaf.org/viaf/27943834">Julian of
+        <quote>
+          <placeName>Καισαρείᾳ</placeName>
+        </quote>, and <quote>
+          <placeName>Caesarea</placeName>
+        </quote> are directly attested at <persName role="author" ref=" http://viaf.org/viaf/27943834">Julian of
                Ascalon</persName>, <title xml:lang="en" ref="" type="uniform" level="m">From the Laws or Customs in
                Palestine</title> <ref n="a" target="#bib56-1">35.1-4</ref>. This passage was written ca. <origDate notBefore="0531" notAfter="0533" period="#byzantine">531-533 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
         <desc type="context">The treatise <title>From the Laws or Customs in Palestine</title> by
@@ -313,12 +323,16 @@
            (4) Εἰ δὲ ἐν ταῖς στέγαις οἴνους ἢ ὄσπρια ἤ τι τοιοῦτον ἐν ὡρίοις ἀποτιθέασι, τῆς
            δοκώσεως διδόναι τοὺς ὑπερκειμένους τὸ δίμοιρον μέρος, τοῦ ὑποκειμένου παρέχοντος τὸ
            λοιπὸν τρίτον.<ab type="source" source="#bib56-1"/>
-        <idno type="CTS-URN"/>
-        <ref/>
         <note xml:lang="en" type="textual">Ed. Saliou 1996</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
         <note type="corrigenda">J. L. Rife adopts the reading of ὑποκείμενον (Genausensis gr.
              23) instead of ὑπερκείμενον (Vaticanus Ottobonianus gr. 440); cf. Saliou 1996, p.
              59.</note>
+        <idno type="CTS-URN"/>
+        <ref/>
+        
+        
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote56-2">
         <anchor xml:id="testimonia-56.en.1" corresp="#testimonia-56.grc.1"/>
@@ -340,15 +354,23 @@
            make use of the structures nevertheless contribute to the project in planks and nails,
            in proportion to the part of the building each owns. (4) If they store wine, beans, or
            some such seasonal produce on the floors, then the owners above (must) give two-thirds
-           for the joists, (while) the lower one (must) provide the remaining one-third.<note xml:lang="en" type="translation">Trans. J. L. Rife with ref. to Saliou 1996</note>
+           for the joists, (while) the lower one (must) provide the remaining one-third.
         <idno type="CTS-URN"/>
         <ref/>
+      <note xml:lang="en" type="translation">Trans. J. L. Rife with ref. to Saliou 1996</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
       </ab>
          <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib56-1">
           <ptr target="https://caesarea-maritima.org/bibl/SCGMDIM2"/>
           <citedRange unit="ch">35.1-4</citedRange>
+        </bibl>
+      <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
          <listBibl>
@@ -358,6 +380,36 @@
         </bibl>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/H7VYQD5N"/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

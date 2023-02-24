@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -18,6 +20,10 @@
             <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
         </respStmt>
         <respStmt>
           <resp>Electronic text added by</resp>
@@ -281,10 +287,18 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/204</idno>
          </ab>
          <desc type="abstract" xml:id="abstract204-1">
-        <quote><placeName>Cesarea</placeName></quote>, <quote>
+        <quote>
+          <placeName>Cesarea</placeName>
+        </quote>, <quote>
           <placeName>Pyrgus
                Stratonis</placeName>
-        </quote>, <quote><placeName>Cesaream</placeName></quote>, <quote><placeName>Caesarea</placeName></quote>, and <quote><placeName>Pyrgus Stratonis</placeName></quote> are directly attested at <persName ref="https://pleiades.stoa.org/places/687995" role="author">Burchard of Mt.
+        </quote>, <quote>
+          <placeName>Cesaream</placeName>
+        </quote>, <quote>
+          <placeName>Caesarea</placeName>
+        </quote>, and <quote>
+          <placeName>Pyrgus Stratonis</placeName>
+        </quote> are directly attested at <persName ref="https://pleiades.stoa.org/places/687995" role="author">Burchard of Mt.
                Sion</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Description of the Holy
                Land</title> <ref n="c" target="#bib204-1">10.1-5</ref>. This passage was written ca. <origDate notBefore="1274" notAfter="1285" period="#crusader">1274-1285 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/1001939">Palestine</origPlace>.</desc>
          <desc type="context">Burchard of Mt. Sion was a Dominican friar from Magdeburg in Lower
@@ -321,9 +335,13 @@
             quondam tamen Antipatrida dicebatur ab Antipatre, patre Herodis Magni. Que fuit fratrum
             de hospitali sancti Iohannis, qui licet eam perdiderunt, tamen solvunt domino de Assur
             et heredibus eius XXVIII milia bysantinorum aureorum singulis annis.<ab type="source" source="#bib204-1"/>
+        <note xml:lang="en" type="textual">Ed. Laurent 1873</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
-        <note xml:lang="en" type="textual">Ed. Laurent 1873</note>
+        
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote204-2">
         <anchor xml:id="testimonia-204.en.1" corresp="#testimonia-204.la.1"/>
@@ -351,10 +369,13 @@
             Antipatris after Antipater, Herod the Great's father. It belonged to the brothers of the
             Hospital of St. John, who, although they have lost it, still pay 28,000 gold bezants a
             year to the Lord of Assur and his heirs.<ab type="source" source="#bib204-2"/>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
         <note xml:lang="en" type="translation">Adapted from Pringle
                2018</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        
       </ab>
          <listBibl>
         <head>Works Cited</head>
@@ -367,6 +388,49 @@
           <ptr target="https://caesarea-maritima.org/bibl/JPPNQCCZ"/>
           <citedRange unit="ch">10.1-5</citedRange>
           <citedRange unit="p">307-308</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -20,6 +22,10 @@
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L.
           Potter</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
         </respStmt>
         <respStmt>
           <resp>Electronic text added by</resp>
@@ -284,16 +290,30 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/30</idno>
       </ab>
       <desc type="abstract" xml:id="abstract30-1">
-        <quote><placeName xml:lang="grc">Καισάρειαν</placeName></quote>, <quote><placeName xml:lang="grc">τῆς Καισαρείας</placeName></quote>, and <quote><placeName xml:lang="en">Cesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/22143666" role="author">Josephus</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg004" type="uniform" level="m">The Jewish War</title> <ref n="o" target="#bib30-1">2.507-2.513</ref>. This passage was written ca. <origDate period="#nabateanKingdom #earlyRoman #herodian" notBefore="0070" notAfter="0090">70 - 90 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+        <quote>
+          <placeName xml:lang="grc">Καισάρειαν</placeName>
+        </quote>, <quote>
+          <placeName xml:lang="grc">τῆς Καισαρείας</placeName>
+        </quote>, and <quote>
+          <placeName xml:lang="en">Cesarea</placeName>
+        </quote> are directly attested at <persName ref="http://viaf.org/viaf/22143666" role="author">Josephus</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg004" type="uniform" level="m">The Jewish War</title> <ref n="o" target="#bib30-1">2.507-2.513</ref>. This passage was written ca. <origDate period="#nabateanKingdom #earlyRoman #herodian" notBefore="0070" notAfter="0090">70 - 90 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+      <desc type="context"/>
       <ab type="edition" xml:lang="grc" xml:id="quote30-1">
         <anchor xml:id="testimonia-30.grc.1" corresp="#testimonia-30.en.1"/>
         Ὁ δὲ Κέστιος ἀναζεύξας ἀπὸ τῆς Πτολεμαΐδος αὐτὸς μὲν εἰς <placeName xml:lang="grc">Καισάρειαν</placeName> ἀφικνεῖται, μοῖραν δὲ τῆς στρατιᾶς προέπεμψεν εἰς Ἰόππην, προστάξας, εἰ μὲν καταλαβέσθαι δυνηθεῖεν τὴν πόλιν, φρουρεῖν, εἰ δὲ προαίσθοιντο τὴν ἔφοδον, περιμένειν αὐτόν τε καὶ τὴν ἄλλην δύναμιν. τῶν δὲ οἱ μὲν κατὰ θάλασσαν οἱ δὲ κατὰ γῆν ἐπειχθέντες ἀμφοτέρωθεν αἱροῦσιν τὴν πόλιν ῥᾳδίως: καὶ μηδὲ φυγεῖν φθασάντων τῶν οἰκητόρων, οὐχ ὅπως παρασκευάσασθαι πρὸς μάχην, ἐμπεσόντες ἅπαντας ἀνεῖλον σὺν ταῖς γενεαῖς καὶ τὴν πόλιν διαρπάσαντες ἐνέπρησαν: ὁ δὲ ἀριθμὸς τῶν φονευθέντων τετρακόσιοι πρὸς ὀκτακισχιλίοις. ὁμοίως δὲ καὶ εἰς τὴν ὅμορον <placeName xml:lang="grc">τῆς Καισαρείας</placeName> Ναρβατηνὴν τοπαρχίαν ἔπεμψεν συχνοὺς τῶν ἱππέων, οἳ τήν τε γῆν ἔτεμον καὶ πολὺ πλῆθος διέφθειραν τῶν ἐπιχωρίων τάς τε κτήσεις διήρπασαν καὶ τὰς κώμας κατέφλεξαν. Εἰς δὲ τὴν Γαλιλαίαν ἀπέστειλεν Καισέννιον Γάλλον ἡγεμόνα τοῦ δωδεκάτου τάγματος παραδοὺς δύναμιν ὅσην ἀρκέσειν πρὸς τὸ ἔθνος ὑπελάμβανεν. τοῦτον ἡ καρτερωτάτη τῆς Γαλιλαίας πόλις Σέπφωρις μετ᾽ εὐφημίας δέχεται, καὶ πρὸς τὴν ταύτης εὐβουλίαν αἱ λοιπαὶ πόλεις ἠρέμουν. τὸ δὲ στασιῶδες καὶ λῃστρικὸν πᾶν ἔφυγεν εἰς τὸ μεσαίτατον τῆς Γαλιλαίας ὄρος, ὃ κεῖται μὲν ἀντικρὺ τῆς Σεπφώρεως, καλεῖται δὲ Ἀσαμών. τούτοις ὁ Γάλλος ἐπῆγε τὴν δύναμιν. οἱ δὲ ἕως μὲν ἦσαν ὑπερδέξιοι, ῥᾳδίως τοὺς Ῥωμαίους ἠμύναντο προσιόντας καὶ πρὸς διακοσίους αὐτῶν ἀνεῖλον, περιελθόντων δὲ καὶ γενομένων ἐν τοῖς ὑψηλοτέροις ἡττῶντο ταχέως, καὶ οὔτε γυμνῆτες ὁπλίτας συστάδην ἔφερον οὔτε ἐν τῇ τροπῇ τοὺς ἱππεῖς ἐξέφευγον, ὥστε ὀλίγους μὲν ἐν ταῖς δυσχωρίαις διαλαθεῖν, ἀναιρεθῆναι δὲ ὑπὲρ δισχιλίους. Γάλλος μὲν οὖν ὡς οὐδὲν ἔτι ἑώρα κατὰ τὴν Γαλιλαίαν νεωτεριζόμενον, ὑπέστρεφεν μετὰ τῆς στρατιᾶς εἰς <placeName xml:lang="grc">Καισάρειαν</placeName> : Κέστιος δὲ μετὰ πάσης τῆς δυνάμεως ἀναζεύξας ἐνέβαλεν εἰς Ἀντιπατρίδα, καὶ πυθόμενος ἔν τινι πύργῳ Ἀφεκοῦ καλουμένῳ συνηθροῖσθαι Ἰουδαίων δύναμιν οὐκ ὀλίγην προέπεμπεν τοὺς συμβαλοῦντας.<ab type="source" source="#bib30-1"/>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg0526.tlg004.perseus-grc1:2.507-2.513</idno>
         <ref target="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-grc1:2.507-2.513"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote30-2">
         <anchor xml:id="testimonia-30.en.1" corresp="#testimonia-30.grc.1"/>
         And now Cestius himself marched from Ptolemais, and came to <placeName xml:lang="en">Cesarea</placeName>; but he sent part of his army before him to Joppa, and gave order, that if they could take that city [by surprise] they should keep it; but that in case the citizens should perceive they were coming to attack them, that they then should stay for him, and for the rest of the army. So some of them made a brisk march by the sea-side, and some by land, and so coming upon them on both sides, they took the city with ease; and as the inhabitants had made no provision beforehand for a flight, nor had gotten any thing ready for fighting, the soldiers fell upon them, and slew them all, with their families, and then plundered and burnt the city. The number of the slain was eight thousand four hundred. In like manner, Cestius sent also a considerable body of horsemen to the toparchy of Narbatene, that adjoined to <placeName xml:lang="en">Cesarea</placeName>, who destroyed the country, and slew a great multitude of its people; they also plundered what they had, and burnt their villages. But Cestius sent Gallus, the commander of the twelfth legion, into Galilee, and delivered to him as many of his forces as he supposed sufficient to subdue that nation. He was received by the strongest city of Galilee, which was Sepphoris, with acclamations of joy; which wise conduct of that city occasioned the rest of the cities to be in quiet; while the seditious part and the robbers ran away to that mountain which lies in the very middle of Galilee, and is situated over against Sepphoris; it is called Asamon. So Gallus brought his forces against them; but while those men were in the superior parts above the Romans, they easily threw their darts upon the Romans, as they made their approaches, and slew about two hundred of them. But when the Romans had gone round the mountains, and were gotten into the parts above their enemies, the others were soon beaten; nor could they who had only light armor on sustain the force of them that fought them armed all over; nor when they were beaten could they escape the enemies' horsemen; insomuch that only some few concealed themselves in certain places hard to be come at, among the mountains, while the rest, above two thousand in number, were slain. AND now Gallus, seeing nothing more that looked towards an innovation in Galilee, returned with his army to <placeName xml:lang="en">Cesarea</placeName> : but Cestius removed with his whole army, and marched to Antipatris; and when he was informed that there was a great body of Jewish forces gotten together in a certain tower called Aphek, he sent a party before to fight them; but this party dispersed the Jews by affrighting them before it came to a battle<ab type="source" source="#bib30-2"/>
+        <note xml:lang="en" type="translation">Trans. {Source}</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:2.507-2.513</idno>
         <ref target="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:2.507-2.513"/>
       </ab>
@@ -344,6 +364,36 @@
             <forename>Flavius</forename>
             <surname>Josephus</surname>
           </author>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

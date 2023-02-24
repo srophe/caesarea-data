@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -18,6 +20,10 @@
             <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
         </respStmt>
         <respStmt>
           <resp>Electronic text added by</resp>
@@ -281,7 +287,9 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/202</idno>
          </ab>
          <desc type="abstract" xml:id="abstract202-1">
-        <quote><placeName>Cesarea Palestine</placeName></quote>, and <quote>
+        <quote>
+          <placeName>Cesarea Palestine</placeName>
+        </quote>, and <quote>
           <placeName>Cesarea
             maritima</placeName>
         </quote> are directly attested at <persName ref="http://viaf.org/viaf/100899506" role="author">Burchard of Mt.
@@ -309,9 +317,13 @@
             Castro Peregrinorum, et se extendens usque Basan contra austrum. Tercia est, cuius
             metropolis est Bethsan, sita sub monte Gelboe iuxta Iordanem. Hec quondam Scythopolis
             dicebatur. Ista Palestina dicitur proprie Galilea sive campus magnus Esdraelon.<ab type="source" source="#bib202-1"/>
+        <note xml:lang="en" type="textual">Laurent 1873</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
-        <note xml:lang="en" type="textual">Laurent 1873</note>
+        
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote202-2">
         <anchor xml:id="testimonia-202.en.1" corresp="#testimonia-202.la.1"/>
@@ -325,10 +337,13 @@
             to Bashan. Palestine III is the one whose capital is Beth Shan, located below Mount
             Gilboa next to the Jordan. This city was formerly called Scythopolis. This Palestine is
             properly called Galilee, or the great Plain of Esdraelon.<ab type="source" source="#bib202-2"/>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
         <note xml:lang="en" type="translation">Trans.
                J. L. Rife with ref. to Pringle 2018</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        
       </ab>
          <listBibl>
         <head>Works Cited</head>
@@ -341,6 +356,49 @@
           <ptr target="https://caesarea-maritima.org/bibl/JPPNQCCZ"/>
           <citedRange unit="ch">1.3</citedRange>
           <citedRange unit="p">244</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -16,6 +18,10 @@
         <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
         </respStmt>
         <respStmt>
           <resp>Electronic text added by</resp>
@@ -303,8 +309,6 @@
         οἶκον τῆς ἁγίας θεοτόκου Μαρίας, ἀνανεώσας καὶ τὸν ἅγιον Προκόπιον, ποιήσας διάταξιν μὴ
         στρατεύεσθαι Σαμαρείτην, δημεύσας καὶ τοὺς εὐπόρους αὐτῶν· καὶ ἐγένετο φόβος καὶ
           εἰρήνη.<ab type="source" source="#bib243-1"/>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
         <note xml:lang="en" type="textual">Ed. Thurn 2000</note>
         <note type="textual">Thurn’s text of this passage follows the parallel passage at
           Constantine Porphygenitus, <title>Plots</title> 162.22-36 where it diverges from the text
@@ -313,6 +317,12 @@
           not the medieval Slavonic translations or the parallel passages at Const. Porphyr. or the
           <title>Eastern Chronicle</title> 603.19-604.13; Thurn sets it apart thus with {
           }.</note>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        
+        
+        
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote243-2">
         <anchor xml:id="testimonia-243.en.1" corresp="#testimonia-243.grc.1"/>
@@ -326,11 +336,14 @@
             Mount Garizim into a house of prayer for Mary, Holy Mother of God. He also renovated
             (the Church of) St. Procopius, issued an edict that a Samaritan could not hold a
             military post, and confiscated the property of their wealthy. There was fear and peace.<ab type="source" source="#bib243-2"/>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
         <note xml:lang="en" type="translation">Adapted from Jeffreys et al. 2017</note>
         <note xml:lang="en" type="discussion">J. L. Rife adapted the translation by Jeffreys, Jeffreys, and Scott
                in places to follow Thurn’s text.</note>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        
+        
       </ab>
       <listBibl>
         <head>Works Cited</head>
@@ -343,6 +356,49 @@
           <ptr target="https://caesarea-maritima.org/bibl/YYEJCD9W"/>
           <citedRange unit="bk">15.8</citedRange>
           <citedRange unit="p">212</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -17,6 +19,10 @@
         <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
         </respStmt>
         <respStmt>
           <resp>Electronic text added by</resp>
@@ -277,7 +283,9 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/225</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract225-1">and <quote><placeName>Caesarea</placeName></quote> is directly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Exhibit of the Whole World and its
+      <desc type="abstract" xml:id="abstract225-1">and <quote>
+          <placeName>Caesarea</placeName>
+        </quote> is directly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Exhibit of the Whole World and its
                Peoples</title> <ref n="a" target="#bib225-1">26</ref>. This passage was written ca. <origDate notBefore="0500" notAfter="0600" period="#byzantine">500-600 CE</origDate> possibly in <origPlace/>.</desc>
       <desc type="context">
         <title>Exhibit of the Whole World and its Peoples</title> was composed by
@@ -297,9 +305,13 @@
         <lb/>B) Similiter et <placeName>Caesarea</placeName>, civitas
         deliciosissima, cuius tertrapilum nominatur ubique, quod unum et novum spectaculum
           praebet.<ab type="source" source="#bib225-1"/>
+        <note xml:lang="en" type="textual">Ed. Rougé 1966</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref/>
-        <note xml:lang="en" type="textual">Ed. Rougé 1966</note>
+        
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote225-2">
         <anchor xml:id="testimonia-225.en.1" corresp="#testimonia-225.la.1"/>
@@ -309,15 +321,66 @@
         everywhere, a new, one-of-a-kind sight.<lb/>
         <lb/>B) Then <placeName>Caesarea</placeName> too is
         a most enjoyable city. Its Tetrapylon is celebrated everywhere, a new, one-of-a-kind
-          sight.<note xml:lang="en" type="translation">Trans. J. L. Rife with reference to Rougé 1966</note>
+          sight.
         <idno type="CTS-URN"/>
         <ref target=""/>
+      <note xml:lang="en" type="translation">Trans. J. L. Rife with reference to Rougé 1966</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
       </ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib225-1">
           <ptr target="https://caesarea-maritima.org/bibl/7WH68SGE"/>
           <citedRange unit="ch">26</citedRange>
+        </bibl>
+      <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

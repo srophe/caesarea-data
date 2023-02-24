@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -16,6 +18,10 @@
         <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
         </respStmt>
         <respStmt>
           <resp>Electronic text added by</resp>
@@ -276,7 +282,11 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/216</idno>
       </ab>
       <desc type="abstract" xml:id="abstract216-1">
-        <quote><placeName>Caesaream</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="" role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Apocryphal Acts of Peter</title> <ref n="a" target="#bib216-1">49.20-50.10</ref>. This passage was written ca. <origDate notBefore="0200" notAfter="0400" period="#lateRoman #byzantine">200-400 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/1052">Italy</origPlace>.</desc>
+        <quote>
+          <placeName>Caesaream</placeName>
+        </quote>, and <quote>
+          <placeName>Caesarea</placeName>
+        </quote> are directly attested at <persName ref="" role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Apocryphal Acts of Peter</title> <ref n="a" target="#bib216-1">49.20-50.10</ref>. This passage was written ca. <origDate notBefore="0200" notAfter="0400" period="#lateRoman #byzantine">200-400 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/1052">Italy</origPlace>.</desc>
       <desc type="context">The Greek account of Peter's apostolic career survives only in a Late
         Roman Latin translation in a single manuscript. This <title>Acts of the Apostle
           Peter</title>, perhaps entitled Πράξεις Πέτρου τοῦ ἀποστόλου, was written circa 180-190
@@ -303,15 +313,19 @@
         sed tantum nos feliciter navigemus.” Petrus autem oblationi illius gratias agens, ipse autem
         in navi jejunabat, lugens animo et iterum comfortans se, quod deus dignum eum habuisset in
         ministerio suo ministrum.<ab type="source" source="#bib216-1"/>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
         <note xml:lang="en" type="textual">Ed. Lipsius 1891</note>
+        <note xml:lang="en" type="textual"/>
         <note xml:lang="en" type="discussion">Codex Vercellensis 158, Capitulary Library (probably Italy, 3rd/4th
           century)</note>
         <note type="corrigenda">
           <foreign>epimenia</foreign> ("provisions for a month") instead of
           manuscript reading <foreign>epsimenia</foreign> (Latin transliteration of Greek ἡψημένα,
           "boiled foods"?).</note>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        
+        
+        
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote216-2">
         <anchor xml:id="testimonia-216.en.1" corresp="#testimonia-216.la.1"/>
@@ -331,10 +345,13 @@
             share with you everything we have? Let us have a safe voyage.” Peter thanked him for his
             offer. And he fasted in the ship, being dejected in his mind and yet again comforting
             himself, because God considered him to be a worthy servant in his service.<ab type="source" source="#bib216-2"/>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
         <note xml:lang="en" type="translation">Adapted from Schneemelcher and Wilson 1992 and Elliott
                1993</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        
       </ab>
       <listBibl>
         <head>Works Cited</head>
@@ -354,6 +371,41 @@
           <ptr target="https://caesarea-maritima.org/bibl/46FV5KZU"/>
           <citedRange unit="p">401-402</citedRange>
           <citedRange unit="ch">5</citedRange>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

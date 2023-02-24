@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -17,6 +19,10 @@
             <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
         </respStmt>
         <respStmt>
           <resp>Electronic text added by</resp>
@@ -310,9 +316,13 @@
             χρήσιμα ἐσόμενα εἰς τὴν τῶν ἱερῶν γραφῶν διήγησιν· ἵν’, ὅπερ φασὶ φιλοσόφων παῖδες περὶ
             γεωμετρίας καὶ μουσικῆς γραμματικῆς τε καὶ ῥητορικῆς καὶ ἀστρονομίας, ὡς συνερίθων
             φιλοσοφίᾳ, τοῦθ’ἡμεῖς εἴπωμεν καὶ περὶ αὐτῆς φιλοσοφίας πρὸς χριστιανισμόν.<ab type="source" source="#bib330-1"/>
+        <note xml:lang="en" type="textual">Ed. Koetschau 1894</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target="https://archive.org/details/desgregoriosthau00greg/page/40/mode/2up"/>
-        <note xml:lang="en" type="textual">Ed. Koetschau 1894</note>
+        
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote330-2">
         <anchor xml:id="testimonia-330.en.1" corresp="#testimonia-330.grc.1"/>
@@ -329,10 +339,13 @@
             so, just as the children of philosophers say that geometry and music, grammar and
             rhetoric, and astronomy are ancillary to philosophy, we say that philosophy is ancillary
             to Christianity.<ab type="source" source="#bib330-2"/>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
         <note xml:lang="en" type="translation">Trans. J. L. Rife with ref. to Menzies
                1899</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        
       </ab>
          <listBibl>
         <head>Works Cited</head>
@@ -344,6 +357,49 @@
         <bibl xml:id="bib330-2">
           <ptr target="https://caesarea-maritima.org/bibl/CIWLGVXY"/>
           <citedRange unit="p">295</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

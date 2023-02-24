@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -20,6 +22,10 @@
         <resp>TEI encoding by</resp>
         <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
       </respStmt>
+        <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
+        </respStmt>
         <respStmt>
         <resp>Electronic text added by</resp>
         <name ref="https://caesarea-maritima.org/documentation/editors.xml#eyonan">Eliana Yonan</name>
@@ -301,8 +307,12 @@
         τοῖς κατὰ τὸ σῶμα πλεονεκτήμασιν ἐνηβρύνετο, σωφροσύνῃ πρώτιστα τὴν ψυχὴν κοσμούμενος
         πάντων, κἄπειτα παιδεύσει λόγων φρονήσει τ’ ἐμφύτῳ καὶ τῇ θεοσδότῳ σοφίᾳ διαφερόντως
         ἐκπρέπων.<ab type="source" source="#bib130-1"/>
-        <idno type="CTS-URN"/>
         <note xml:lang="en" type="textual">Ed. Winkelmann 1991</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote130-2">
         <anchor xml:id="testimonia-130.en.1" corresp="#testimonia-130.grc.1"/>TThis son (sc.
@@ -317,13 +327,16 @@
         physical superiority, ennobling his soul first and foremost with self-control, and
         thereafter distinguishing himself by the excellence of his rhetorical education, his
         instinctive shrewdness and his God-given wisdom.<ab type="source" source="#bib130-2"/>
-        <idno type="CTS-URN"/>
-        <ref/>
         <note xml:lang="en" type="translation">Rev. Cameron and
           Hill 1999</note>
         <note type="discussion">“as has been said, he conducted himself in the same way as the
           ancient prophet of God”: the simile compares Constantine among the tetrarchs to Moses
           among the Egyptians.</note>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref/>
+        
+        
       </ab>
       <listBibl>
         <head>Works Cited</head>
@@ -334,6 +347,49 @@
         <bibl xml:id="bib130-2">
           <ptr target="https://caesarea-maritima.org/bibl/SWZIE2ME"/>
           <citedRange unit="p">77, 197-198</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -16,6 +18,10 @@
             <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
         </respStmt>
         <respStmt>
           <resp>Electronic text added by</resp>
@@ -307,10 +313,14 @@
             ὡσπερεὶ ποσῆς εὐδίας λαβόμενοι οὐκέτι ὑπερτιθέμενοι ὑπαγορεύειν τὰ ἀκόλουθα βουλόμεθα,
             θεὸν διδάσκαλον ὑπηχοῦντα ἐν τῷ ἀδύτῳ τῆς ψυχῆς ἡμῶν παρεῖναι εὐχόμενοι, ἵνα τέλος λάβῃ
             ἡ τῆς διηγήσεως τοῦ κατὰ Ἰωάννην εὐαγγελίου οἰκοδομή.<ab type="source" source="#bib331-1"/>
-        <idno type="CTS-URN"/>
-        <ref target="https://archive.org/details/desgregoriosthau00greg/page/40/mode/2up"/>
         <note xml:lang="en" type="textual">Ed. Blanc 1970
                </note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref target="https://archive.org/details/desgregoriosthau00greg/page/40/mode/2up"/>
+        
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote331-2">
         <anchor xml:id="testimonia-331.en.1" corresp="#testimonia-331.grc.1"/>
@@ -333,10 +343,13 @@
             that God will be with me and utter his teachings in the inner chamber of my soul, so
             that the building I have begun—the interpretation of the <title>Gospel of
             John</title>—may be finished.<ab type="source" source="#bib331-2"/>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
         <note xml:lang="en" type="translation">Trans. J. L. Rife with ref. to
                Menzies 1899</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        
       </ab>
          <listBibl>
         <head>Works Cited</head>
@@ -348,6 +361,49 @@
         <bibl xml:id="bib331-2">
           <ptr target="https://caesarea-maritima.org/bibl/D2P5ND4C"/>
           <citedRange unit="p">349-350</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

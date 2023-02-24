@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -16,6 +18,10 @@
         <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
         </respStmt>
         <respStmt>
           <resp>Electronic text added by</resp>
@@ -275,10 +281,16 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/283</idno>
       </ab>
       <desc type="abstract" xml:id="abstract283-1">
-        <quote><placeName>Cesarea</placeName></quote>, <quote>
+        <quote>
+          <placeName>Cesarea</placeName>
+        </quote>, <quote>
           <placeName>Turris
                Stratonis</placeName>
-        </quote>, <quote><placeName>Caesarea</placeName></quote>, and <quote><placeName>Strato’s Tower</placeName></quote> are directly attested at <persName role="author">Anonymous Pilgrim V</persName>, <title xml:lang="en" ref="" type="uniform" level="m">[Untitled]</title> <ref n="d" target="#bib283-1">2.23</ref>. This passage was written ca. <origDate notBefore="1180" notAfter="1205" period="#crusader">1180-1205 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
+        </quote>, <quote>
+          <placeName>Caesarea</placeName>
+        </quote>, and <quote>
+          <placeName>Strato’s Tower</placeName>
+        </quote> are directly attested at <persName role="author">Anonymous Pilgrim V</persName>, <title xml:lang="en" ref="" type="uniform" level="m">[Untitled]</title> <ref n="d" target="#bib283-1">2.23</ref>. This passage was written ca. <origDate notBefore="1180" notAfter="1205" period="#crusader">1180-1205 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
       <desc type="context">We know next to nothing about the European traveller to the Holy Land
             called Anonymous Pilgrim V, whose account survives in the manuscript Heiligenkreuz
             Bibliothek 88. The editor Wilhelm Neumann argued that, while his journey seems to have
@@ -297,10 +309,14 @@
             sic semper dicta fuit. Que nunc Sanctus Georgius dicitur, Lidda¬ dicta fuit. <placeName>Cesarea</placeName> primo Dor, postea <placeName>Turris
                Stratonis</placeName>, nunc <placeName>Cesarea</placeName> ad honorem Cesar est
             vocata. Caifa, primo Porfiria. Acon postea Ptolomaida.<ab type="source" source="#bib283-1"/>
-        <idno type="CTS-URN"/>
-        <ref/>
         <note xml:lang="en" type="textual">Ed. Neumann
                1866</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref/>
+        
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote283-2">
         <anchor xml:id="testimonia-283.en.1" corresp="#testimonia-283.la.1"/>The names of cities and places have changed gradually due to the
@@ -313,10 +329,13 @@
             The place that is today St. George was called Lidda. <placeName>Caesarea</placeName> was
             at first Dor, later <placeName>Strato’s Tower</placeName>, and now it is called <placeName>Caesarea</placeName> in honor of Caesar. Caifa was at first Porphyria.
             Accon came after Ptolemaïs.<ab type="source" source="#bib283-2"/>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
         <note xml:lang="en" type="translation">Adapted from Stewart
                1894</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        
       </ab>
       <listBibl>
         <head>Works Cited</head>
@@ -328,6 +347,49 @@
           <ptr target="https://caesarea-maritima.org/bibl/XFZD5DB4"/>
           <citedRange unit="p">35</citedRange>
           <citedRange unit="section">2.23</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

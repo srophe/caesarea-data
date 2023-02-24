@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -16,6 +18,10 @@
             <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
         </respStmt>
         <respStmt>
           <resp>Electronic text added by</resp>
@@ -347,10 +353,14 @@
             profitetur. Cumque ille tota epistula Demetrium Alexandrinae urbis pontificem laceret,
             et in totius orbis episcopos et clericos invehatur,et frustra ab Ecclesiis
             excommunicatum esse se dicat, nec velle in maledictis referre vicem …<ab type="source" source="#bib392-1"/>
-        <idno type="CTS-URN">https://archive.org/details/patrologiaecurs01goog/page/n236/mode/2up</idno>
         <note xml:lang="en" type="textual">Ed. Migne 1883 </note>
         <note xml:lang="en" type="textual">Ref. Lardet
                1982</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN">https://archive.org/details/patrologiaecurs01goog/page/n236/mode/2up</idno>
+        
+        
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote392-2">
         <anchor xml:id="testimonia-392.en.1" corresp="#testimonia-392.la.1"/>
@@ -367,9 +377,12 @@
             whole letter is to savage Demetrius the pontiff of Alexandria, and to inveigh against
             bishops and clerics throughout the world, and to tell them that their excommunication of
             him is invalid; and he says he does not wish to respond to their evil speech …<ab type="source" source="#bib392-2"/>
+        <note xml:lang="en" type="translation">Adapted from Fremantle 1892 with ref. to Lardet 1983</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref/>
-        <note xml:lang="en" type="translation">Adapted from Fremantle 1892 with ref. to Lardet 1983</note>
+        
       </ab>
          <listBibl>
         <head>Works Cited</head>
@@ -397,6 +410,26 @@
         </bibl>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/MUU4ALR4"/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

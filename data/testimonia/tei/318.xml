@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -16,6 +18,10 @@
             <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
         </respStmt>
         <respStmt>
           <resp>Electronic text added by</resp>
@@ -277,7 +283,9 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/318</idno>
          </ab>
          <desc type="abstract" xml:id="abstract318-1">
-        <quote><placeName>Καισαρείας τῆς Παλαιστίνης</placeName></quote>, and <quote>
+        <quote>
+          <placeName>Καισαρείας τῆς Παλαιστίνης</placeName>
+        </quote>, and <quote>
           <placeName>Caesarea
                Palestinae</placeName>
         </quote> are directly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Suda</title> <ref n="b" target="#bib318-1">ε 3737</ref>. This passage was written ca. <origDate notBefore="0976" notAfter="0990" period="#earlyIslamic">976-990 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
@@ -306,9 +314,13 @@
             ἐκκλησία δύο βίους νομοθετεῖ καὶ τρόπους: τὸν μὲν ὑπερφυᾶ καὶ τῆς ἀνθρωπίνης πολιτείας
             ἐπέκεινα, οἷος ἐστὶν ὁ μοναδικός: τὸν δὲ ὑποβεβηκότα καὶ ἀνθρωπινώτερον, ὃς καὶ γάμοις
             ὑποτίθεται συγκοινωνεῖν.<ab type="source" source="#bib318-1"/>
+        <note xml:lang="en" type="textual">Ed. Adler 1931</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN">https://archive.org/details/adler-a.-suidae-lexicon-3-./Adler%20A.%2C%20Suidae%20Lexicon%202%20%28%CE%94-%CE%98%29/page/472/mode/2up
             </idno>
-        <note xml:lang="en" type="textual">Ed. Adler 1931</note>
+        
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote318-2">
         <anchor xml:id="testimonia-318.en.1" corresp="#testimonia-318.grc.1"/>
@@ -331,11 +343,14 @@
                Marinus</title>, in which he says that the Church of Christ prescribes two lives and
             thus two directions: the one extraordinary and beyond everyday society, such as is the
             monastic life. The other, inferior and mundane by comparison, which also presupposes
-            participation in marriage.<note xml:lang="en" type="translation">Rev. SOL (trans. C. Roth et al.,
-               2002-)</note>
+            participation in marriage.
             <idno type="CTS-URN"/>
             <ref target="http://www.cs.uky.edu/~raphael/sol/sol-entries/epsilon/3737"/>
-         </ab>
+         <note xml:lang="en" type="translation">Rev. SOL (trans. C. Roth et al.,
+               2002-)</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+      </ab>
          <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib318-1">
@@ -343,11 +358,52 @@
           <citedRange unit="letter">ε</citedRange>
           <citedRange unit="entry">3737.473.17-35</citedRange>
         </bibl>
+      <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
       </listBibl>
          <p/>
          <listBibl>
+        <head>Additional Bibliography</head>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/753625E4"/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

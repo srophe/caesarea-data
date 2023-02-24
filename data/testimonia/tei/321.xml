@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -17,6 +19,10 @@
             <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
         </respStmt>
         <respStmt>
           <resp>Electronic text added by</resp>
@@ -312,9 +318,13 @@
             ἡμᾶς, τῆς ἡμετέρας πειραθήσεται φιλανθρωπίας. ὁ θεὸς διαφυλάξει σε, ἀδελφὲ ἀγαπητέ.”
             (4.6) Ἱκανὰ μὲν οὖν καὶ ταῦτα τεκμηριῶσαι, μᾶλλον δὲ διδάξαι σαφῶς, ὅπως ὁ πανεύφημος
             βασιλεύς, ὡς καὶ ἀνωτέρω εἰρήκαμεν, πᾶσαν εἰς τὰ θεῖα μετατέθεικε τὴν σπουδήν.<ab type="source" source="#bib321-1"/>
+        <note xml:lang="en" type="textual">Ed. Hansen 2002</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
-        <note xml:lang="en" type="textual">Ed. Hansen 2002</note>
+        
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote321-2">
         <anchor xml:id="testimonia-321.en.1" corresp="#testimonia-321.grc.1"/>
@@ -339,10 +349,13 @@
             entrusted with this service, who, on his arrival here, will enjoy my generosity. God
             will protect you, dear brother!” (6) That is enough to give evidence, or rather to teach
             us clearly, that the all-blessed emperor, as we said above, dedicated all his attention
-            to the workship of God.<note xml:lang="en" type="translation">Trans. J. L. Rife with ref. to Cameron
-               and Hill 1999</note>
+            to the workship of God.
         <idno type="CTS-URN"/>
         <ref/>
+      <note xml:lang="en" type="translation">Trans. J. L. Rife with ref. to Cameron
+               and Hill 1999</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
       </ab>
          <listBibl>
         <head>Works Cited</head>
@@ -351,11 +364,51 @@
           <citedRange unit="bk">3.3.6-3.4.6</citedRange>
           <citedRange unit="p">115-116</citedRange>
         </bibl>
+      <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
       </listBibl>
          <listBibl>
         <head>Additional Bibliography</head>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/SWZIE2ME"/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

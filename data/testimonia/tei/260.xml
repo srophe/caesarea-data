@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -18,6 +20,10 @@
         <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
         </respStmt>
         <respStmt>
           <resp>Electronic text added by</resp>
@@ -279,7 +285,9 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/260</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract260-1">and <quote><placeName>Caesarea</placeName></quote> is directly attested at <persName role="author" ref="http://viaf.org/viaf/1018158675954427500005">Marino Sanudo
+      <desc type="abstract" xml:id="abstract260-1">and <quote>
+          <placeName>Caesarea</placeName>
+        </quote> is directly attested at <persName role="author" ref="http://viaf.org/viaf/1018158675954427500005">Marino Sanudo
                the Elder</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Secrets for Those Faithful to the
                Cross</title> <ref n="k" target="#bib260-1">3.14.1</ref>. This passage was written ca. <origDate notBefore="1306" notAfter="1321" period="#lateIslamic">1306-1321 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/560221">Aegean Greece</origPlace>.</desc>
       <desc type="context">Marino Sanudo the Elder of Torcello, from a wealthy and powerful Venetian
@@ -302,11 +310,15 @@
         usque desertum Cadesbarne; haec stricte Iudaea dicitur nomine totius parti attributo.
         Septima Syria est alia Palestina: cuius metropolis est Bethsan, sita sub monte Gelboe iuxta
         Iordanem; quae Galilea et campus magnus Esdrelon.<ab type="source" source="#bib260-1"/>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
         <note xml:lang="en" type="textual">Ed. Bongars
           1611</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
         <note xml:lang="en" type="corrigenda">Minor corr. J. L. Rife</note>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        
+        
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote260-2">
         <anchor xml:id="testimonia-260.en.1" corresp="#testimonia-260.la.1"/>
@@ -319,10 +331,13 @@
         country is called Judaea, the name of a part being given to the whole. The Seventh Syria is
         the third Palestine. Its chief city is Beth Shan, located below Mount Gilboa near the
         Jordan. It contains Galilee and the great plain of Esdrelon.<ab type="source" source="#bib260-2"/>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
         <note xml:lang="en" type="translation">Adapted
           from Lock 2011</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        
       </ab>
       <listBibl>
         <head>Works Cited</head>
@@ -334,6 +349,49 @@
         <bibl xml:id="bib260-2">
           <ptr target="https://caesarea-maritima.org/bibl/46ITBHCT"/>
           <citedRange unit="p">389</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

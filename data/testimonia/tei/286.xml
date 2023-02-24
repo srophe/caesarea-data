@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -16,6 +18,10 @@
         <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
         </respStmt>
         <respStmt>
           <resp>Electronic text added by</resp>
@@ -289,9 +295,13 @@
             Neronis eo tempore quo Festus, procurator Iudeae, successit Felici, Romam vinctus
             mittitur et biennium in libera manens custodia adversum Iudeos de adventu Christi
             cottidie disputavit.<ab type="source" source="#bib286-1"/>
+        <note xml:lang="en" type="textual">Ed. Bernoulli 1895</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target="https://archive.org/details/devirisinlustri00jerogoog/page/n67/mode/2up"/>
-        <note xml:lang="en" type="textual">Ed. Bernoulli 1895</note>
+        
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote286-2">
         <anchor xml:id="testimonia-286.en.1" corresp="#testimonia-286.la.1"/>
@@ -301,10 +311,13 @@
         C.E.], at the time when when Festus succeeded Felix as governor of Judaea, (Paul) was sent
         to Rome in chains. Remaining there for two years in open custody, he carried on daily
         debates against the Jews concerning the coming of Christ.<ab type="source" source="#bib286-2"/>
-        <idno type="CTS-URN"/>
-        <ref/>
         <note xml:lang="en" type="translation">Adapted
           from Schaff 1892 and Halton 1999</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref/>
+        
       </ab>
       <listBibl>
         <head>Works Cited</head>
@@ -323,6 +336,41 @@
         <head>Additional Bibliography</head>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/UFDQ7288"/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

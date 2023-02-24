@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -16,6 +18,10 @@
         <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
         </respStmt>
         <respStmt>
           <resp>URNs and other metadata added by</resp>
@@ -289,10 +295,14 @@
         <anchor xml:id="testimonia-277.la.1" corresp="#testimonia-277.en.1"/>Romanorum XII ….. CCXXVII Olymp(ias) (a) Nicopolis et <placeName>Caesarea</placeName> terrae motu conciderunt XIII (b) Antinous puer regius
             eximiae pulchritudinis in Aegypto moritur. Quem Hadrianus vehementer deperiens—nam in
             deliciis habuerat—in deos refert. Ex cuius nomine etiam urbs appellata est<ab type="source" source="#bib277-1"/>
+        <note xml:lang="en" type="textual">Ed. Helm 1956</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda">Minor corr. J. L. Rife</note>
         <idno type="CTS-URN"/>
         <ref target=""/>
-        <note xml:lang="en" type="textual">Ed. Helm 1956</note>
-        <note xml:lang="en" type="corrigenda">Minor corr. J. L. Rife</note>
+        
+        
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote277-2">
         <anchor xml:id="testimonia-277.en.1" corresp="#testimonia-277.la.1"/>Year of the Romans [128 C.E.] 12 ….. 227th Olympiad (a) Nicopolis
@@ -300,10 +310,13 @@
             Antinous, the royal youth of exceptional beauty, dies in Egypt. Hadrian, feeling deeply
             dejected, for he considered (Antinous) his favorite, enlists him into the ranks of the
             gods. There was furthermore a city named after him.<ab type="source" source="#bib277-2"/>
-        <idno type="CTS-URN"/>
-        <ref target="http://www.tertullian.org/fathers/jerome_chronicle_03_part2.htm"/>
         <note xml:lang="en" type="translation">Trans. J.
                L. Rife with ref. to Pearse 2005</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref target="http://www.tertullian.org/fathers/jerome_chronicle_03_part2.htm"/>
+        
       </ab>
       <listBibl>
         <head>Works Cited</head>
@@ -313,6 +326,49 @@
         </bibl>
         <bibl xml:id="bib277-2">
           <ptr target="https://caesarea-maritima.org/bibl/7JSD2DS2"/>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

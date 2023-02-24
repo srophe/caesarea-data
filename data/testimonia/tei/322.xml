@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -16,6 +18,10 @@
             <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
         </respStmt>
         <respStmt>
           <resp>Electronic text added by</resp>
@@ -277,7 +283,11 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/322</idno>
          </ab>
          <desc type="abstract" xml:id="abstract322-1">
-        <quote><placeName>Καισαρείας</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Suda</title> <ref n="h" target="#bib322-1">ω 182.619.14-24</ref>. This passage was written ca. <origDate notBefore="0976" notAfter="0990" period="#earlyIslamic">976-990 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+        <quote>
+          <placeName>Καισαρείας</placeName>
+        </quote>, and <quote>
+          <placeName>Caesarea</placeName>
+        </quote> are directly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Suda</title> <ref n="h" target="#bib322-1">ω 182.619.14-24</ref>. This passage was written ca. <origDate notBefore="0976" notAfter="0990" period="#earlyIslamic">976-990 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
          <desc type="context">The <title>Suda</title> (“Stronghold”) is an encyclopedic lexicon
             written by an unknown scholar during the late 10th century. It compiles copious
             information in alphabetical entries for use by the learned philologist, in particular on
@@ -297,9 +307,13 @@
             ἄσκησιν ἀντικαταλλάξασθαι προετρέψατο. πέντε δὲ ὅλοις ἔτεσιν αὐτῷ συγγενόμενοι τοσαύτην
             ἀπηνέγκαντο περὶ τὰ θεῖα βελτίωσιν, ὡς ἔτι νέους ἄμφω ἐπισκοπῆς τῶν κατὰ Πόντον
             ἐκκλησιῶν ἀξιωθῆναι.<ab type="source" source="#bib322-1"/>
+        <note xml:lang="en" type="textual">Ed. Adler 1933</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN">https://archive.org/details/adler-a.-suidae-lexicon-3
                ./Adler%20A.%2C%20Suidae%20Lexicon%203%20%28%CE%9A-%CE%9F.%20%CE%A9%29/page/n315/mode/2up</idno>
-        <note xml:lang="en" type="textual">Ed. Adler 1933</note>
+        
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote322-2">
         <anchor xml:id="testimonia-322.en.1" corresp="#testimonia-322.grc.1"/>
@@ -312,10 +326,13 @@
             in them a love of divine philosophy and persuaded them to give up their former devotion
             in favor of rigorous theological study. After being with him for five full years, they
             made such great progress in divine matters that, although still young, both were
-            considered deserving of the episcopate over the Pontic churches.<note xml:lang="en" type="translation">Adapted from SOL (trans. P. Little et al., 2000-)</note>
+            considered deserving of the episcopate over the Pontic churches.
             <idno type="CTS-URN"/>
             <ref target="https://www.cs.uky.edu/~raphael/sol/sol-entries/omega/182"/>
-         </ab>
+         <note xml:lang="en" type="translation">Adapted from SOL (trans. P. Little et al., 2000-)</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+      </ab>
          <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib322-1">
@@ -323,10 +340,51 @@
           <citedRange unit="letter">ω</citedRange>
           <citedRange unit="entry">182.619.14-24</citedRange>
         </bibl>
+      <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
       </listBibl>
          <listBibl>
+        <head>Additional Bibliography</head>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/753625E4"/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -17,6 +19,10 @@
         <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
         </respStmt>
         <respStmt>
           <resp>Electronic text added by</resp>
@@ -278,7 +284,11 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/254</idno>
       </ab>
       <desc type="abstract" xml:id="abstract254-1">
-        <quote><placeName>Καισαρείας</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/13651211" role="author">Epiphanius</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Medicine Cabinet, or Against
+        <quote>
+          <placeName>Καισαρείας</placeName>
+        </quote>, and <quote>
+          <placeName>Caesarea</placeName>
+        </quote> are directly attested at <persName ref="http://viaf.org/viaf/13651211" role="author">Epiphanius</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Medicine Cabinet, or Against
                Heresies</title> <ref n="d" target="#bib254-1">73.25.10</ref>. This passage was written ca. <origDate notBefore="0374" notAfter="0377" period="#byzantine">374-377 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/707617">Cypriot Salamis</origPlace>.</desc>
       <desc type="context">Epiphanius, who spent his early life and career as a student and monk in
         southern Palestine and Egypt, was appointed bishop of Salamis on Cyprus in ca. 365-367 C.E.,
@@ -306,9 +316,13 @@
             ἐπίσκοπος Λαρίσσης τῆς Συρίας Σέρας ἐπίσκοπος ἐκ Παραιτωνίου τῆς Λιβύης Παῦλος ἐπίσκοπος
             Ἐμίσης Εὐστάθιος ἐπίσκοπος Ἐπιφανίας Εἰρηναῖος ἐπίσκοπος Τριπόλεως τῆς Φοινίκης Εὐσέβιος
             ἐπίσκοπος Σελευκείας τῆς Συρίας …<ab type="source" source="#bib254-1"/>
+        <note xml:lang="en" type="textual">Ed. Holl 1933</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
-        <note xml:lang="en" type="textual">Ed. Holl 1933</note>
+        
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote254-2">
         <anchor xml:id="testimonia-254.en.1" corresp="#testimonia-254.grc.1"/>
@@ -320,10 +334,13 @@
             Eleutheropolis Zoilus, bishop of Larissa in Syria Seras, bishop of Paraetonium in Libya
             Paul, bishop of Emisa Eustathius, bishop of Epiphania Ireneaus, bishop of Tripoli in
             Phoenicia Eusebius, bishop of Seleucia in Syria …<ab type="source" source="#bib254-2"/>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
         <note xml:lang="en" type="translation">Adapted from
                Williams 2013</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        
       </ab>
       <listBibl>
         <head>Works Cited</head>
@@ -336,6 +353,49 @@
           <ptr target="https://caesarea-maritima.org/bibl/JPPNQCCZ"/>
           <citedRange unit="bk">73.25.10</citedRange>
           <citedRange unit="p">471</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

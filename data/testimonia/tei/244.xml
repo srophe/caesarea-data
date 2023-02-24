@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -16,6 +18,10 @@
         <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
         </respStmt>
         <respStmt>
           <resp>Electronic text added by</resp>
@@ -304,12 +310,16 @@
         τοὺς μὲν ἐφούρκισεν, ἑτέρους δὲ ἀπεκεφάλισε καὶ ἄλλους ἐδεξιοκόπησε καί τινας ἐδήμευσε· καὶ
         ἐγένετο φόβος μέγας ἐν τῇ πόλει <placeName>Καισαρείας</placeName> καὶ ἐν τοῖς ἀνατολικοῖς
           μέρεσι.<ab type="source" source="#bib244-1"/>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
         <note xml:lang="en" type="textual">Ed. Thurn 2000</note>
         <note type="textual">Thurn’s text of this passage gives the reading of Codex Boccianus 182
           at Oxford (12th century), which varies throughout from the parallel passage at Constantine
           Porphyrogenitus, <title>Plots</title> 173.13-29.</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        
+        
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote244-2">
         <anchor xml:id="testimonia-244.en.1" corresp="#testimonia-244.grc.1"/>
@@ -326,9 +336,12 @@
         those who had committed the murders. He hanged some, beheaded others, cut off the right
         hands of others, and confiscated the property of others. And there was great fear in the
         city of <placeName>Caesarea</placeName> and the eastern regions.<ab type="source" source="#bib244-2"/>
+        <note xml:lang="en" type="translation">Adapted from Jeffreys et al. 2017</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
-        <note xml:lang="en" type="translation">Adapted from Jeffreys et al. 2017</note>
+        
       </ab>
       <listBibl>
         <head>Works Cited</head>
@@ -341,6 +354,49 @@
           <ptr target="https://caesarea-maritima.org/bibl/YYEJCD9W"/>
           <citedRange unit="bk">18.119</citedRange>
           <citedRange unit="p">294-295</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -16,6 +18,10 @@
         <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
         </respStmt>
         <respStmt>
           <resp>Electronic text added by</resp>
@@ -279,7 +285,11 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/259</idno>
       </ab>
       <desc type="abstract" xml:id="abstract259-1">
-        <quote><placeName>Καισαρείας</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Dictionary of Place Names</title> <ref n="a" target="#bib259-1">162</ref>. This passage was written ca. <origDate notBefore="0290" notAfter="0325" period="#lateRoman #byzantine">290-325 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea
+        <quote>
+          <placeName>Καισαρείας</placeName>
+        </quote>, and <quote>
+          <placeName>Caesarea</placeName>
+        </quote> are directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Dictionary of Place Names</title> <ref n="a" target="#bib259-1">162</ref>. This passage was written ca. <origDate notBefore="0290" notAfter="0325" period="#lateRoman #byzantine">290-325 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea
           Maritima</origPlace>.</desc>
       <desc type="context">In his lexicon of place names in Hebrew Scripture, Eusebius wrote
         concerning marshy Saron, named at <title>Isaiah</title> 33:9, that in his time there were
@@ -290,24 +300,79 @@
         <anchor xml:id="testimonia-259.grc.1" corresp="#testimonia-259.en.1"/>
         Σαρῶν. Ἠσαΐας· “ἓλη ἐγένετο ὁ Σαρών”. καὶ νῦν δὲ καλεῖται Σαρωνᾶς ἡ ἀπὸ
             τοῦ ὄρους Θαβὼρ ἐπὶ τὴν Τιβεριάδα λίμνην χώρα. καὶ ἄλλος ἐστὶ Σαρωνᾶς ἡ ἀπὸ <placeName>Καισαρείας</placeName> εἰς Ἰόππην χώρα.<ab type="source" source="#bib259-1"/>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
         <note type="textual" xml:lang="en">Ed. Klosterman 1904 [cited by
                page]</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote259-2">
         <anchor xml:id="testimonia-259.en.1" corresp="#testimonia-259.grc.1"/>
         Saron. Isaiah: “Saron became marshland.” Today the land from Mount
-            Thabor to Lake Tiberias is called Saronas. A second Saronas is the land from <placeName>Caesarea</placeName> to Joppa.<note xml:lang="en" type="translation">Trans. J. L.
-               Rife</note>
+            Thabor to Lake Tiberias is called Saronas. A second Saronas is the land from <placeName>Caesarea</placeName> to Joppa.
         <idno type="CTS-URN"/>
         <ref target=""/>
+      <note xml:lang="en" type="translation">Trans. J. L.
+               Rife</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
       </ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib259-1">
           <ptr target="https://caesarea-maritima.org/bibl/ARSF2XBM"/>
           <citedRange unit="p">162</citedRange>
+        </bibl>
+      <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -17,6 +19,10 @@
         <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
         </respStmt>
         <respStmt>
           <resp>Electronic text added by</resp>
@@ -280,7 +286,15 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/246</idno>
       </ab>
       <desc type="abstract" xml:id="abstract246-1">
-        <quote><placeName>Καισάρειαν</placeName></quote>, <quote><placeName>Στράτωνος πύργον</placeName></quote>, <quote><placeName>Caesarea</placeName></quote>, and <quote><placeName>Strato’s Tower</placeName></quote> are directly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Easter
+        <quote>
+          <placeName>Καισάρειαν</placeName>
+        </quote>, <quote>
+          <placeName>Στράτωνος πύργον</placeName>
+        </quote>, <quote>
+          <placeName>Caesarea</placeName>
+        </quote>, and <quote>
+          <placeName>Strato’s Tower</placeName>
+        </quote> are directly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Easter
           Chronicle</title> <ref n="b" target="#bib246-1">366.15-367.5</ref>. This passage was written ca. <origDate notBefore="0615" notAfter="0645" period="#byzantine #earlyIslamic">ca. 630 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
       <desc type="context">The so-called <title>Easter Chronicle</title> (<title>Chronicon
           paschale</title>) is a universal history from the Creation down to the later reign of
@@ -298,9 +312,13 @@
             κηʹ. ὑπ. Νέρωνος καὶ Κλάρου. Ἰνδ. δʹ. κθʹ. ὑπ. Μεσσάλα καὶ Κυρινίου. Ἡρώδης <placeName>Καισάρειαν</placeName> εἰς ὄνομα Καίσαρος Αὐγούστου ἔκτισεν, <placeName>Στράτωνος πύργον</placeName> τὸ πρὶν καλουμένην. ὁ αὐτὸς δὲ καὶ Ἀνθεδόνα
             ἐπικτίσας Ἀγρίππειαν ἐκάλεσεν, ἔτι δὲ καὶ Περσαβίνην εἰς ὄνομα Ἀντιπάτρου τοῦ ἰδίου
                πατρός.<ab type="source" source="#bib246-1"/>
+        <note xml:lang="en" type="textual">Ed. Dindorf 1832</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref/>
-        <note xml:lang="en" type="textual">Ed. Dindorf 1832</note>
+        
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote246-2">
         <anchor xml:id="testimonia-246.en.1" corresp="#testimonia-246.grc.1"/>
@@ -311,15 +329,66 @@
         and Quirinius. [12 B.C.] Herod founded <placeName>Caesarea</placeName> in the name of Caesar
         Augustus, the place previously called <placeName>Strato’s Tower</placeName>. The same man
         also refounded Anthedon and called it Agrippeia as well as Persabine in the name of his own
-        father Antipater.<note xml:lang="en" type="translation">Trans. J. L. Rife</note>
+        father Antipater.
         <idno type="CTS-URN"/>
         <ref target=""/>
+      <note xml:lang="en" type="translation">Trans. J. L. Rife</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
       </ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib246-1">
           <ptr target="https://caesarea-maritima.org/bibl/4ICC3ERG"/>
           <citedRange unit="p">366.15-367.5</citedRange>
+        </bibl>
+      <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

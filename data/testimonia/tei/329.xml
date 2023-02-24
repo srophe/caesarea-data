@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -17,6 +19,10 @@
             <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
         </respStmt>
         <respStmt>
           <resp>Electronic text added by</resp>
@@ -315,10 +321,14 @@
             παρθένῳ ἐν Καισαρείᾳ, κρυπτόμενος παρ’ αὐτῇ· ἥτις ἔλεγε παρ’ αὐτοῦ Συμμάχου τοῦ ἑρμηνέως
             τῶν Ἰουδαίων αὐτὸ εἰληφέναι.”<lb/>Οὐ παρέργως δὲ τέθεικα καὶ τὰς ἀρετὰς τούτων τῶν
             γυναικῶν, ἵνα μάθωμεν ὅτι πολυτρόπως ἔνεστι κερδαίνειν ἐὰν ἐθέλωμεν.<ab type="source" source="#bib329-1"/>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
         <note xml:lang="en" type="textual">Ed. Bartelink 1974</note>
         <note xml:lang="en" type="textual">Minor corr. J. L. Rife</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        
+        
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote329-2">
         <anchor xml:id="testimonia-329.en.1" corresp="#testimonia-329.grc.1"/>
@@ -331,10 +341,13 @@
             she had received it from Symmachus himself, the Jewish translator.”<lb/>I have inserted
             the virtuous acts of these women as part of my plan, that we may know that it is
             possible to gain excellence in many ways, if we desire.<ab type="source" source="#bib329-2"/>
-        <idno type="CTS-URN"/>
-        <ref target="https://archive.org/details/lausiachistoryof002802mbp/page/n173/mode/2up"/>
         <note xml:lang="en" type="translation">Rev.
                Clarke 1918</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref target="https://archive.org/details/lausiachistoryof002802mbp/page/n173/mode/2up"/>
+        
       </ab>
          <listBibl>
         <head>Works Cited</head>
@@ -356,6 +369,36 @@
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/J4B3ATLY"/>
           <citedRange unit="p">16-17</citedRange>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

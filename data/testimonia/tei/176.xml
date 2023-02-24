@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -20,6 +22,10 @@
         <resp>TEI encoding by</resp>
         <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
       </respStmt>
+        <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
+        </respStmt>
         <respStmt>
         <resp>Electronic text added by</resp>
         <name ref="https://caesarea-maritima.org/documentation/editors.xml#jwoods">Joshua Woods</name>
@@ -285,14 +291,30 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/176</idno>
       </ab>
       <desc type="abstract" xml:id="abstract176-1">
-        <quote><placeName xml:lang="grc">Στράτωνος πύργον</placeName></quote>, <quote><placeName xml:lang="grc">Καισάρειαν.</placeName></quote>, <quote><placeName xml:lang="en">Strato's Tower,</placeName></quote>, and <quote><placeName xml:lang="en">Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/22143666 " role="author">Josephus </persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg004" type="uniform" level="m">The Jewish War</title> <ref n="a" target="#bib176-1">1.7.7</ref>. This passage was written ca. <origDate period="#nabateanKingdom #earlyRoman #herodian" notBefore="0070" notAfter="0090">70 - 90 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+        <quote>
+          <placeName xml:lang="grc">Στράτωνος πύργον</placeName>
+        </quote>, <quote>
+          <placeName xml:lang="grc">Καισάρειαν.</placeName>
+        </quote>, <quote>
+          <placeName xml:lang="en">Strato's Tower,</placeName>
+        </quote>, and <quote>
+          <placeName xml:lang="en">Caesarea</placeName>
+        </quote> are directly attested at <persName ref="http://viaf.org/viaf/22143666 " role="author">Josephus </persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg004" type="uniform" level="m">The Jewish War</title> <ref n="a" target="#bib176-1">1.7.7</ref>. This passage was written ca. <origDate period="#nabateanKingdom #earlyRoman #herodian" notBefore="0070" notAfter="0090">70 - 90 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+      <desc type="context"/>
       <ab type="edition" xml:lang="grc" xml:id="quote176-1">
         <anchor xml:id="testimonia-176.grc.1" corresp="#testimonia-176.en.1"/>Ἀφελόμενος δὲ τοῦ ἔθνους καὶ τὰς ἐν κοίλῃ Συρίᾳ πόλεις, ἃς εἷλον, ὑπέταξεν τῷ κατ᾽ ἐκεῖνο Ῥωμαίων στρατηγῷ κατατεταγμένῳ καὶ μόνοις αὐτοὺς τοῖς ἰδίοις ὅροις περιέκλεισεν. ἀνακτίζει δὲ καὶ Γάδαρα ὑπὸ Ἰουδαίων κατεστραμμένην Γαδαρεῖ τινὶ τῶν ἰδίων ἀπελευθέρων Δημητρίῳ χαριζόμενος. ἠλευθέρωσεν δὲ ἀπ᾽ αὐτῶν καὶ τὰς ἐν τῇ μεσογείᾳ πόλεις, ὅσας μὴ φθάσαντες κατέσκαψαν, Ἵππον Σκυθόπολίν τε καὶ Πέλλαν καὶ Σαμάρειαν καὶ Ἰάμνειαν καὶ Μάρισαν Ἄζωτόν τε καὶ Ἀρέθουσαν, ὁμοίως δὲ καὶ τὰς παραλίους Γάζαν Ἰόππην Δῶρα καὶ τὴν πάλαι μὲν <placeName xml:lang="grc">Στράτωνος πύργον</placeName> καλουμένην, ὕστερον δὲ μετακτισθεῖσάν τε ὑφ᾽ Ἡρώδου βασιλέως λαμπροτάτοις κατασκευάσμασιν καὶ μετονομασθεῖσαν <placeName xml:lang="grc">Καισάρειαν.</placeName> ἃς πάσας τοῖς γνησίοις ἀποδοὺς πολίταις κατέταξεν εἰς τὴν Συριακὴν ἐπαρχίαν. παραδοὺς δὲ ταύτην τε καὶ τὴν Ἰουδαίαν καὶ τὰ μέχρις Αἰγύπτου καὶ Εὐφράτου Σκαύρῳ διέπειν καὶ δύο τῶν ταγμάτων, αὐτὸς διὰ Κιλικίας εἰς Ῥώμην ἠπείγετο τὸν Ἀριστόβουλον ἄγων μετὰ τῆς γενεᾶς αἰχμάλωτον. δύο δ᾽ ἦσαν αὐτῷ θυγατέρες καὶ δύο υἱεῖς, ὧν ὁ ἕτερος μὲν Ἀλέξανδρος ἐκ τῆς ὁδοῦ διαδιδράσκει, σὺν δὲ ταῖς ἀδελφαῖς ὁ νεώτερος Ἀντίγονος εἰς Ῥώμην ἐκομίζετο.<ab type="source" source="#bib176-1"/>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg0526.tlg004.perseus-grc1:1.7.7</idno>
         <ref target="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-grc1:1.7.7"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote176-2">
         <anchor xml:id="testimonia-176.en.1" corresp="#testimonia-176.grc.1"/>He also took away from the nation all those cities that they had formerly taken, and that belonged to Celesyria, and made them subject to him that was at that time appointed to be the Roman president there; and reduced Judea within its proper bounds. He also rebuilt Gadara, that had been demolished by the Jews, in order to gratify one Demetrius, who was of Gadara, and was one of his own freed-men. He also made other cities free from their dominion, that lay in the midst of the country, such, I mean, as they had not demolished before that time; Hippos, and Scythopolis, as also Pella, and Samaria, and Marissa; and besides these Ashdod, and Jamnia, and Arethusa; and in like manner dealt he with the maritime cities, Gaza, and Joppa, and Dora, and that which was anciently called <placeName xml:lang="en">Strato's Tower,</placeName> but was afterward rebuilt with the most magnificent edifices, and had its name changed to <placeName xml:lang="en">Caesarea</placeName>, by king Herod. All which he restored to their own citizens, and put them under the province of Syria; which province, together with Judea, and the countries as far as Egypt and Euphrates, he committed to Scaurus as their governor, and gave him two legions to support him; while he made all the haste he could himself to go through Cilicia, in his way to Rome, having Aristobulus and his children along with him as his captives. They were two daughters and two sons; the one of which sons, Alexander, ran away as he was going; but the younger, Antigonus, with his sisters, were carried to Rome.<ab type="source" source="#bib176-2"/>
+        <note xml:lang="en" type="translation">Trans. {Source}</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.7.7</idno>
         <ref target="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.7.7"/>
       </ab>
@@ -316,6 +338,36 @@
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/Z56XEGGL"/>
           <citedRange unit="section">1.7.7</citedRange>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -16,6 +18,10 @@
             <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
         </respStmt>
         <respStmt>
           <resp>Electronic text added by</resp>
@@ -296,9 +302,13 @@
             ᾽Αμβρόσιος παρεστήσατο: ναὶ μὴν καὶ ἐν τῇ περὶ τὰ θεῖα λόγια ἀσκήσει τε καὶ σπουδῇ
             προθυμίαν ἄφατον αὐτῷ συνεισέφερεν, ᾗ καὶ μάλιστα αὐτὸν προέτρεπεν ἐπὶ τὴν τῶν
             ὑπομνημάτων σύνταξιν.<ab type="source" source="#bib312-1"/>
+        <note xml:lang="en" type="textual">Ed. Adler 1933</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target="https://archive.org/details/adler-a.-suidae-lexicon-3 ./Adler%20A.%2C%20Suidae%20Lexicon%203%20%28%CE%9A-%CE%9F.%20%CE%A9%29/page/n315/mode/2up"/>
-        <note xml:lang="en" type="textual">Ed. Adler 1933</note>
+        
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote312-2">
         <anchor xml:id="testimonia-312.en.1" corresp="#testimonia-312.grc.1"/>
@@ -311,11 +321,14 @@
             calligraphy. Ambrose supplied abundant resources to meet all their needs. Far beyond
             that, he imbued (Origen) with exceeding enthusiasm through his own study of God’s
             pronouncements, and a zeal which gave Origen special encouragement in preparing his
-            commentaries. <note xml:lang="en" type="translation">Adapted from SOL (trans. P. Little et al.,
-               2000-)</note>
+            commentaries. 
             <idno type="CTS-URN"/>
             <ref target="https://www.cs.uky.edu/~raphael/sol/sol-entries/omega/182"/>
-         </ab>
+         <note xml:lang="en" type="translation">Adapted from SOL (trans. P. Little et al.,
+               2000-)</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+      </ab>
          <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib312-1">
@@ -323,10 +336,51 @@
           <citedRange unit="letter">ω</citedRange>
           <citedRange unit="entry">182.618.2-13</citedRange>
         </bibl>
+      <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
       </listBibl>
          <listBibl>
+        <head>Additional Bibliography</head>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/753625E4"/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

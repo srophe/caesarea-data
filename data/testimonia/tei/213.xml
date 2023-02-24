@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -17,6 +19,10 @@
             <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
         </respStmt>
         <respStmt>
           <resp>Electronic text added by</resp>
@@ -279,7 +285,11 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/213</idno>
          </ab>
          <desc type="abstract" xml:id="abstract213-1">
-        <quote><placeName>Cesaire</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/34451801">Matthew Paris</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Itinerary from London to
+        <quote>
+          <placeName>Cesaire</placeName>
+        </quote>, and <quote>
+          <placeName>Caesarea</placeName>
+        </quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/34451801">Matthew Paris</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Itinerary from London to
                Jerusalem</title> <ref n="a" target="#bib213-1">16</ref>. This passage was written ca. <origDate notBefore="1250" notAfter="1259" period="#crusader">1250-1259 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/79739">St. Albans</origPlace>.</desc>
          <desc type="context">Matthew Paris was an English historian, cartographer, and Benedictine
             monk who lived at St. Albans Abbey in Hertfordshire from 1217 until his death in ca.
@@ -304,12 +314,16 @@
             chemin de Iafes à Ierusalem—Escaloine—Le Darun—Damiette C: Kaifas—Chastel
                Pelerin—<placeName>Cesaire</placeName>—Iaphes—Ascaloine—Le Darun—Damiette, ki [est]
             en terre d’Egipte<ab type="source" source="#bib213-1"/>
-        <idno type="CTS-URN"/>
-        <ref target="https://archive.org/stream/itinrairesjr00michuoft?ref=ol#page/136/mode/2up"/>
         <note xml:lang="en" type="textual">Ed. Michelant and Raynaud
                1882</note>
+        <note xml:lang="en" type="textual"/>
         <note xml:lang="en" type="discussion">The map from volume II did not depict
                Caesarea.</note>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref target="https://archive.org/stream/itinrairesjr00michuoft?ref=ol#page/136/mode/2up"/>
+        
+        
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote213-2">
         <anchor xml:id="testimonia-213.en.1" corresp="#testimonia-213.fro.1"/>
@@ -317,9 +331,12 @@
             the road from Jaffa to Jerusalem—Ascalon—Al-Darum—Damietta C: Haifa—Pilgrim’s
                Castle—<placeName>Caesarea</placeName>—Jaffa—Ascalon—Al-Darum—Damietta, which (is) in
             the country of Egypt<ab type="source" source="#bib213-2"/>
+        <note xml:lang="en" type="translation">Trans. Pringle 2012</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
-        <note xml:lang="en" type="translation">Trans. Pringle 2012</note>
+        
       </ab>
          <listBibl>
         <head>Works Cited</head>
@@ -339,6 +356,41 @@
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/IBXFRYLN"/>
           <citedRange unit="">74-93, figs. 40, 41</citedRange>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

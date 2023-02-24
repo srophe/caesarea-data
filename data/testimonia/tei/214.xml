@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -19,6 +21,10 @@
             <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
         </respStmt>
         <respStmt>
           <resp>URNs and other metadata added by</resp>
@@ -289,7 +295,11 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/214</idno>
          </ab>
          <desc type="abstract" xml:id="abstract214-1">
-        <quote><placeName>Καισάρεια</placeName></quote>, and <quote><placeName>Kaisareia</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/88626271" role="author">Aelius Herodian</persName>, <title xml:lang="en" type="uniform" level="m">Correct
+        <quote>
+          <placeName>Καισάρεια</placeName>
+        </quote>, and <quote>
+          <placeName>Kaisareia</placeName>
+        </quote> are directly attested at <persName ref="http://viaf.org/viaf/88626271" role="author">Aelius Herodian</persName>, <title xml:lang="en" type="uniform" level="m">Correct
                Spelling</title> <ref n="a" target="#bib214-1">2.2.4.127</ref>. This passage was written ca. <origDate notBefore="0150" notAfter="0200" period="#lateRoman">150-200 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/727070">Alexandria</origPlace>.</desc>
          <desc type="context">Aelius Herodian studied and taught language and literature (“grammar”)
             in Alexandria, the intellectual and cultural center of the Roman East, before moving to
@@ -304,9 +314,13 @@
             διὰ τοῦ -ι· τὰ δὲ ἐπὶ χώρας ὄντα διὰ τοῦ -ι γράφεται καὶ παροξύνεται, Λυκία, Πισιδία,
             Κιλικία, Σικελία, Παφλαγονία, Ἀρμενία, Συρία, Καππαδοκία, Ἰταλία, Ἀσία, Θεσσαλία,
             Βοιωτία, Βιθυνία, Ἰτουρία.<ab type="source" source="#bib214-1"/>
+        <note type="textual" xml:lang="en">Ed. Lentz 1868 [cited by page-line]</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg0087.tlg011.1st1K-grc1:2.2.4.127"/>
-        <note type="textual" xml:lang="en">Ed. Lentz 1868 [cited by page-line]</note>
+        
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote214-2">
         <anchor xml:id="testimonia-214.en.1" corresp="#testimonia-214.grc.1"/>
@@ -314,10 +328,13 @@
             e.g., Alexandreia, Apameia, <placeName>Kaisareia</placeName>, Antiocheia, Thespeia.
             Thespia in -i is a noun spoken oxytone. Nouns for regions in -i are written and spoken
             paroxytone: Lykia, Pisidia, Kilikia, Sikelia, Paphlagonia, Armenia, Syria, Kappadokia,
-            Italia, Asia, Thessalia, Boiotia, Bithynia, Itouria.<note xml:lang="en" type="translation">Trans. J.
-               L. Rife</note>
+            Italia, Asia, Thessalia, Boiotia, Bithynia, Itouria.
         <idno type="CTS-URN"/>
         <ref target=""/>
+      <note xml:lang="en" type="translation">Trans. J.
+               L. Rife</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
       </ab>
          <listBibl>
         <head>Works Cited</head>
@@ -325,6 +342,54 @@
           <ptr target="https://caesarea-maritima.org/bibl/CFHZ6J2I"/>
           <citedRange unit="p">451</citedRange>
           <citedRange unit="line">22-27</citedRange>
+        </bibl>
+      <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

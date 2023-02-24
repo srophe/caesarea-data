@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -17,6 +19,10 @@
         <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
         </respStmt>
         <respStmt>
           <resp>Electronic text added by</resp>
@@ -278,10 +284,16 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/219</idno>
       </ab>
       <desc type="abstract" xml:id="abstract219-1">
-        <quote><placeName>Καισάρειαν</placeName></quote>, <quote>
+        <quote>
+          <placeName>Καισάρειαν</placeName>
+        </quote>, <quote>
           <placeName>Στράτωνος
                πύργος</placeName>
-        </quote>, <quote><placeName>Caesarea</placeName></quote>, and <quote><placeName>Straton’s Tower</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/1679057 ">Stephanus of
+        </quote>, <quote>
+          <placeName>Caesarea</placeName>
+        </quote>, and <quote>
+          <placeName>Straton’s Tower</placeName>
+        </quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/1679057 ">Stephanus of
                Byzantium</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Book of Nations</title> <ref n="a" target="#bib219-1">Δ 150</ref>. This passage was written ca. <origDate notBefore="0530" notAfter="0560" period="#byzantine">530-560 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
       <desc type="context">Stephanus of Byzantium was a polymath who compiled the magnificent
           <title>Book of Nations</title> (Ἐθνικά) in the eastern capital during the age of
@@ -314,9 +326,13 @@
             Δῶρον καλεῖ ἐν Χρονικῶν δʹ “εἰς Δῶρον οὖσαν ἐπιθαλάττιον πόλιν.” καὶ Ἀλέξανδρος ἐν Ἀσίᾳ·
             “Δῶρός τ’ ἀγχίαλος τ’ Ἰόπη προύχουσα θαλάσσης.” καὶ Χάραξ ιαʹ “Τρύφων ἐν Δώρῳ τῆς κοίλης
             Συρίας πόλει πολιορκούμενος ὑπ’ Ἀντιόχου ἔφυγεν εἰς Πτολεμαΐδα τὴν Ἄκην λεγομένην.”<ab type="source" source="#bib219-1"/>
+        <note xml:lang="en" type="textual">Ed. Billerbeck and Zubler 2011</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref/>
-        <note xml:lang="en" type="textual">Ed. Billerbeck and Zubler 2011</note>
+        
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote219-2">
         <anchor xml:id="testimonia-219.en.1" corresp="#testimonia-219.grc.1"/>
@@ -339,10 +355,13 @@
           <title>Geography</title> 9. But Apollodoros calls it Doros in Chronicle 4: “to Doros, a
         coastal city.” Alexander in [his book on] Asia: “both Doros and waterside Iope projecting
         into the sea.” And Charax [in book] 11: “Tryphon, beseiged by Antiochus at Dor, a city in
-        Koile Syria, fled to Ptolemaïs, also called Ake.”<note xml:lang="en" type="translation">Trans. J. L. Rife
-          with ref. to Billerbeck and Zubler 2011</note>
+        Koile Syria, fled to Ptolemaïs, also called Ake.”
         <idno type="CTS-URN"/>
         <ref target=""/>
+      <note xml:lang="en" type="translation">Trans. J. L. Rife
+          with ref. to Billerbeck and Zubler 2011</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
       </ab>
       <listBibl>
         <head>Works Cited</head>
@@ -350,6 +369,54 @@
           <ptr target="https://caesarea-maritima.org/bibl/VI9AWBXK"/>
           <citedRange unit="letter">Δ</citedRange>
           <citedRange unit="entry">150</citedRange>
+        </bibl>
+      <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

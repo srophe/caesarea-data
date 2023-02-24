@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -16,6 +18,10 @@
         <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
         </respStmt>
         <respStmt>
           <resp>Electronic text added by</resp>
@@ -276,7 +282,11 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/261</idno>
       </ab>
       <desc type="abstract" xml:id="abstract261-1">
-        <quote><placeName>Caesaream</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/803890">Isidore</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Etymologies</title> <ref n="a" target="#bib261-1">5.1.75</ref>. This passage was written ca. <origDate notBefore="0610" notAfter="0636" period="#byzantine">610-636 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/256210 ">Seville</origPlace>.</desc>
+        <quote>
+          <placeName>Caesaream</placeName>
+        </quote>, and <quote>
+          <placeName>Caesarea</placeName>
+        </quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/803890">Isidore</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Etymologies</title> <ref n="a" target="#bib261-1">5.1.75</ref>. This passage was written ca. <origDate notBefore="0610" notAfter="0636" period="#byzantine">610-636 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/256210 ">Seville</origPlace>.</desc>
       <desc type="context">Isidore, born to an aristocratic family in Cartagena, was an influential
         scholar and Archbishop of Seville at the dawn of the Middle Ages. Beyond his bold
         ecclesiastical leadership in the old Roman province and his program to integrate the Spanish
@@ -289,18 +299,25 @@
         <anchor xml:id="testimonia-261.la.1" corresp="#testimonia-261.en.1"/>
         Caesaream Mauretaniae oppidum Iuba rex Maurorum in honorem Caesaris
             Augusti condidit, quam ex eius nomine Caesaream appellavit; sicut Herodes aliam <placeName>Caesaream</placeName> in Palaestina, quae nunc urbs est clarissima.<ab type="source" source="#bib261-1"/>
+        <note xml:lang="en" type="textual">Ed. Lindsay 1911</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref/>
-        <note xml:lang="en" type="textual">Ed. Lindsay 1911</note>
+        
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote261-2">
         <anchor xml:id="testimonia-261.en.1" corresp="#testimonia-261.la.1"/>
         Juba, king of the Moors, founded Caesarea, a town in Mauretania, in
             honor of Caesar Augustus, and called it Caesarea from his name, just as Herod (did in
             the case of) another <placeName>Caesarea</placeName>, in Palestine, which is now a most
-            famous city.<note xml:lang="en" type="translation">Trans. J. L. Rife</note>
+            famous city.
         <idno type="CTS-URN"/>
         <ref target=""/>
+      <note xml:lang="en" type="translation">Trans. J. L. Rife</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
       </ab>
       <listBibl>
         <head>Works Cited</head>
@@ -308,6 +325,11 @@
           <ptr target="https://caesarea-maritima.org/bibl/TYEZ83HM"/>
           <citedRange unit="bk">5</citedRange>
           <citedRange unit="ch">1.75</citedRange>
+        </bibl>
+      <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
       <listBibl>
@@ -317,6 +339,36 @@
         </bibl>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/AQ6CUTBN"/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

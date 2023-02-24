@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -21,6 +23,10 @@
         <resp>TEI encoding by</resp>
         <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
       </respStmt>
+        <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
+        </respStmt>
         <respStmt>
         <resp>Electronic text added by</resp>
         <name ref="https://caesarea-maritima.org/documentation/editors.xml#jwoods">Joshua Woods</name>
@@ -289,7 +295,15 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/150</idno>
       </ab>
       <desc type="abstract" xml:id="abstract150-1">
-        <quote><placeName xml:lang="grc">τὴν ἐπισκοπὴν Καισαρείας</placeName></quote>, <quote><placeName xml:lang="grc">τῆς ἐν Παλαιστίνῃ Καισαρείας</placeName></quote>, <quote><placeName xml:lang="en">Bishopric of Cæsarea.</placeName></quote>,  and <quote><placeName xml:lang="en">of Cæsarea in Palestine,</placeName></quote> are directly attested at <persName ref="https://viaf.org/viaf/55571017" role="author">Socrates of Constantinople</persName>, <title xml:lang="en" type="uniform" level="m">Church
+        <quote>
+          <placeName xml:lang="grc">τὴν ἐπισκοπὴν Καισαρείας</placeName>
+        </quote>, <quote>
+          <placeName xml:lang="grc">τῆς ἐν Παλαιστίνῃ Καισαρείας</placeName>
+        </quote>, <quote>
+          <placeName xml:lang="en">Bishopric of Cæsarea.</placeName>
+        </quote>,  and <quote>
+          <placeName xml:lang="en">of Cæsarea in Palestine,</placeName>
+        </quote> are directly attested at <persName ref="https://viaf.org/viaf/55571017" role="author">Socrates of Constantinople</persName>, <title xml:lang="en" type="uniform" level="m">Church
         History</title> <ref n="a" target="#bib150-1">2.9.1-2.9.5</ref>. This passage was written ca. <origDate notBefore="0439" notAfter="0450" period="#byzantine">439-450 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
       <desc type="context">Socrates of Constantinople, the “Scholastic,” was an otherwise unknown
         historian during the reign of Theodosius II during the early 5th century. He wrote his
@@ -311,9 +325,13 @@
         κατηγορηθέντα τοῦ Βεροιέως καθαιρεθῆναι ὡς σαβελλίζοντα, (5) εἶτ’ αὖθις τὸν Εὐσέβιον
         συνεῖναι Εὐφρονίῳ τῷ διαδεξαμένῳ Εὐστάθιον, φεύγοντά τε τὴν ἱερωσύνην καταλαβεῖν τὴν
         Ἀλεξάνδρειαν κἀκεῖ μαθεῖν τὰ φιλόσοφα.<ab type="source" source="#bib150-1"/>
+        <note type="textual">Ed. Hussey and Bright 1893 with ref. to Hansen 1995</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref/>
-        <note type="textual">Ed. Hussey and Bright 1893 with ref. to Hansen 1995</note>
+        
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote150-2">
         <anchor xml:id="testimonia-150.en.1" corresp="#testimonia-150.grc.1"/>(1) On the ground
@@ -329,9 +347,12 @@
         deposed on the accusation of Cyrus of Beroea for holding the tenets of Sabellius. (5) Then
         again Eusebius associated with Euphronius, successor of Eustathius, and avoiding office in
         the Church returned to Alexandria, and there studied philosophy.<ab type="source" source="#bib150-2"/>
+        <note type="translation">Adapted from Zenos 1890 with ref. to Périchon and Maraval 2005</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref/>
-        <note type="translation">Adapted from Zenos 1890 with ref. to Périchon and Maraval 2005</note>
+        
       </ab>
       <listBibl>
         <head>Works Cited</head>
@@ -353,6 +374,36 @@
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/K6BV8Z5T"/>
           <citedRange unit="p">2.38-2.41</citedRange>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
       <note type="related-texts">

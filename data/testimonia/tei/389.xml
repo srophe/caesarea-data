@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -17,6 +19,10 @@
             <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
         </respStmt>
         <respStmt>
           <resp>Electronic text added by</resp>
@@ -298,9 +304,13 @@
             Νικομηδείας, Εὐζώϊόν τε καὶ Ἀκάκιον, Θεόγνιν καὶ Εὐφρόνιον καὶ τοὺς λοιποὺς
             ἀνεθεμάτισεν, πρὸς τούτοις δὲ καὶ Μακεδόνιον τὸν πνευματομάχον, Εὐδόξιόν τε καὶ Ἀέτιον
             καὶ Εὐνόμιον ἀπεκήρυξεν.<ab type="source" source="#bib389-1"/>
+        <note xml:lang="en" type="textual">Ed. de Boor 1883 </note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
-        <note xml:lang="en" type="textual">Ed. de Boor 1883 </note>
+        
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote389-2">
         <anchor xml:id="testimonia-389.en.1" corresp="#testimonia-389.grc.1"/>[A.M. 5876=383/4 C.E.] The holy ecumenical synod validated the
@@ -311,9 +321,12 @@
             mentioned. The holy synod anathematized Arius and Eusebius of Nicomedia, Euzoius and
             Acacius, Theognis and Euphronius and the others, and in addition to these it condemned
             Macedonius, the enemy of the Spirit, Eudoxius, Aëtius, and Eunomius.<ab type="source" source="#bib389-2"/>
+        <note xml:lang="en" type="translation">Rev. Mango, Scott, and Greatrex 1997</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref/>
-        <note xml:lang="en" type="translation">Rev. Mango, Scott, and Greatrex 1997</note>
+        
       </ab>
          <listBibl>
         <head>Works Cited</head>
@@ -324,6 +337,49 @@
         <bibl xml:id="bib389-2">
           <ptr target="https://caesarea-maritima.org/bibl/9634RWJV"/>
           <citedRange unit="p">105</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
       <note type="related-texts">

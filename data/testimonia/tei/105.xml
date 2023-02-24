@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -19,6 +21,10 @@
         <resp>TEI encoding by</resp>
         <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
       </respStmt>
+        <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
+        </respStmt>
         <respStmt>
         <resp>Electronic text added by</resp>
         <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
@@ -280,17 +286,31 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/105</idno>
       </ab>
       <desc type="abstract" xml:id="abstract105-1">
-        <quote><placeName xml:lang="grc">τὴν Καισάρειαν</placeName></quote>, <quote><placeName xml:lang="grc">Καισαρείας</placeName></quote>, and <quote><placeName xml:lang="en">Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Ecclesiastical History</title> <ref n="j" target="#bib105-1">6.26.1</ref>. This passage was written ca. <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
+        <quote>
+          <placeName xml:lang="grc">τὴν Καισάρειαν</placeName>
+        </quote>, <quote>
+          <placeName xml:lang="grc">Καισαρείας</placeName>
+        </quote>, and <quote>
+          <placeName xml:lang="en">Caesarea</placeName>
+        </quote> are directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Ecclesiastical History</title> <ref n="j" target="#bib105-1">6.26.1</ref>. This passage was written ca. <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
+      <desc type="context"/>
       <ab type="edition" xml:lang="grc" xml:id="quote105-1">
         <anchor xml:id="testimonia-105.grc.1" corresp="#testimonia-105.en.1"/>Ἔτος δ’ ἦν τοῦτο δέκατον τῆς δηλουμένης ἡγεμονίας, καθ’ ὃ τὴν ἀπ’ Ἀλεξανδρείας μετανάστασιν ἐπὶ <placeName xml:lang="grc">τὴν Καισάρειαν</placeName> ὁ Ὠριγένης ποιησάμενος, Ἡρακλᾷ τὸ τῆς κατηχήσεως τῶν αὐτόθι διδασκαλεῖον καταλείπει. οὐκ εἰς μακρὸν δὲ καὶ Δημήτριος ὁ τῆς Ἀλεξανδρέων ἐκκλησίας ἐπίσκοπος τελευτᾷ, ἐφ’ ὅλοις ἔτεσι τρισὶ καὶ τεσσαράκοντα τῇ λειτουργίᾳ διαρκέσας· διαδέχεται δ’ αὐτὸν ὁ Ἡρακλᾶς. διέπρεπε δὲ ἐν τούτῳ Φιρμιλλιανὸς, <placeName xml:lang="grc">Καισαρείας</placeName> τῆς Καππαδοκῶν ἐπίσκοπος,<ab type="source" source="#bib105-1"/>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg002.1st1K-grc2:6.26.1</idno>
         <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2018.tlg002.1st1K-grc2:6.26.1"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote105-2">
         <anchor xml:id="testimonia-105.en.1" corresp="#testimonia-105.grc.1"/>But this must suffice on these matters. Now it was in the tenth year of the above-mentioned reign that Origen removed from Alexandria to <placeName xml:lang="en">Caesarea</placeName>, leaving to Heraclas the Catechetical School for those in the city. And not long afterwards Demetrius, the bishop of the church of the Alexandrians, died, having continued in the ministry for forty-three entire years. He was succeeded by Heraclas. Now at this time Firmilian, bishop of <placeName xml:lang="en">Caesarea</placeName> in Cappadocia, was distinguished.<ab type="source" source="#bib105-2"/>
+        <note xml:lang="en" type="translation">Trans. {Source}</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda">Inaccuracies found in the transcription of the electronic text compared to its printed source have been corrected.</note>
         <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg002.1st1K-eng1:6.26</idno>
         <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2018.tlg002.1st1K-eng1:6.26"/>
-        <note xml:lang="en" type="corrigenda">Inaccuracies found in the transcription of the electronic text compared to its printed source have been corrected.</note>
+        
       </ab>
       <listBibl>
         <head>Works Cited</head>
@@ -312,6 +332,36 @@
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/N73TPKH5"/>
           <citedRange unit="section">6.26</citedRange>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

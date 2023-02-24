@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -16,6 +18,10 @@
         <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
         </respStmt>
         <respStmt>
           <resp>Electronic text added by</resp>
@@ -276,7 +282,11 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/256</idno>
       </ab>
       <desc type="abstract" xml:id="abstract256-1">
-        <quote><placeName>Cesaream</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/7379102">Dietrich</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Booklet on Holy Places</title> <ref n="b" target="#bib256-1">1538-1541</ref>. This passage was written ca. <origDate notBefore="1170" notAfter="1173" period="#crusader">1170-1173 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
+        <quote>
+          <placeName>Cesaream</placeName>
+        </quote>, and <quote>
+          <placeName>Caesarea</placeName>
+        </quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/7379102">Dietrich</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Booklet on Holy Places</title> <ref n="b" target="#bib256-1">1538-1541</ref>. This passage was written ca. <origDate notBefore="1170" notAfter="1173" period="#crusader">1170-1173 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
       <desc type="context">Dietrich (Theodericus) was a German priest of the 12th century who
         travelled to the Holy Land under the Kingdom of Jerusalem. His account survives in only two
         manuscripts of the 15th century that derive from a common ancestor: Österreichische
@@ -288,18 +298,25 @@
         Achon per Nazareth et Samariam atque Neapolim Ierosolimam ducit, superior vocatur, et illa
         que per <placeName>Cesaream</placeName> et Liddam ab Achon Ierosolimam tendit Maritima
           appellatur.<ab type="source" source="#bib256-1"/>
+        <note xml:lang="en" type="textual">Ed. Huygens 1994</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda">Minor corr. (punctuation)</note>
         <idno type="CTS-URN"/>
         <ref/>
-        <note xml:lang="en" type="textual">Ed. Huygens 1994</note>
-        <note xml:lang="en" type="corrigenda">Minor corr. (punctuation)</note>
+        
+        
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote256-2">
         <anchor xml:id="testimonia-256.en.1" corresp="#testimonia-256.la.1"/>
         Now this road which leads from Accon through Nazareth, Samaria, and
             Neapolis to Jerusalem is called the High Road; and that which leads from Achon through <placeName>Caesarea</placeName> and Lidda to Jerusalem is called the Coastal Road.<ab type="source" source="#bib256-2"/>
+        <note xml:lang="en" type="translation">Adapted from Stewart 1896</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
-        <note xml:lang="en" type="translation">Adapted from Stewart 1896</note>
+        
       </ab>
       <listBibl>
         <head>Works Cited</head>
@@ -312,6 +329,49 @@
           <ptr target="https://caesarea-maritima.org/bibl/KZEMGJVT"/>
           <citedRange unit="p">58-59</citedRange>
           <citedRange unit="section">39</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

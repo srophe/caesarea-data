@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -21,6 +23,10 @@
         <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L.
           Potter</name>
       </respStmt>
+        <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
+        </respStmt>
         <respStmt>
         <resp>Electronic text added by</resp>
         <name ref="https://caesarea-maritima.org/documentation/editors.xml#bgardner">Bianca
@@ -284,16 +290,32 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/3</idno>
       </ab>
       <desc type="abstract" xml:id="abstract3-1">
-        <quote><placeName>Στράτωνος πύργον</placeName></quote>, <quote><placeName>Καισάρειαν</placeName></quote>, <quote><placeName>Strato's Tower</placeName></quote>, and <quote><placeName>Cesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/22143666" role="author">Josephus</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg001" type="uniform" level="m">Antiquities of the Jews</title> <ref n="e" target="#bib3-1">15.293</ref>. This passage was written ca. <origDate period="#nabateanKingdom #earlyRoman" notBefore="0093" notAfter="0094">93 – 94 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+        <quote>
+          <placeName>Στράτωνος πύργον</placeName>
+        </quote>, <quote>
+          <placeName>Καισάρειαν</placeName>
+        </quote>, <quote>
+          <placeName>Strato's Tower</placeName>
+        </quote>, and <quote>
+          <placeName>Cesarea</placeName>
+        </quote> are directly attested at <persName ref="http://viaf.org/viaf/22143666" role="author">Josephus</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg001" type="uniform" level="m">Antiquities of the Jews</title> <ref n="e" target="#bib3-1">15.293</ref>. This passage was written ca. <origDate period="#nabateanKingdom #earlyRoman" notBefore="0093" notAfter="0094">93 – 94 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+      <desc type="context"/>
       <ab type="edition" xml:lang="grc" xml:id="quote3-1">
         <anchor xml:id="testimonia-3.grc.1" corresp="#testimonia-3.en.1"/>
         οἰόμενος δὲ κατὰ τῆς χώρας οὐδὲν ἔλαττον ἰσχυροποιεῖν τὸν τόπον, ἀπέχοντα μὲν Ἱεροσολύμων μιᾶς ὁδὸν ἡμέρας, εὔχρηστον δ᾽ ὄντα καὶ κοινὸν ἐπί τε τοῖς ἐν τῇ πόλει καὶ τῇ χώρᾳ γενησόμενον. τῷ δὲ ἔθνει παντὶ φρούριον ἐνῳκοδόμησεν τὸ πάλαι μὲν καλούμενον <placeName>Στράτωνος πύργον</placeName>, <placeName>Καισάρειαν</placeName> δ᾽ ὑπ᾽ αὐτοῦ προσαγορευθέν.<ab type="source" source="#bib3-1"/>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg0526.tlg001.perseus-grc1:15.293</idno>
         <ref target="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg001.perseus-grc1:15.293"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote3-2">
         <anchor xml:id="testimonia-3.en.1" corresp="#testimonia-3.grc.1"/>
         So he fortified that place, which was a day's journey distant from Jerusalem, and which would be useful to him in common, to keep both the country and the city in awe. He also built another fortress for the whole nation; it was of old called <placeName>Strato's Tower</placeName>, but was by him named <placeName>Cesarea</placeName>.<ab type="source" source="#bib3-2"/>
+        <note xml:lang="en" type="translation">Trans. {Source}</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg0526.tlg001.perseus-eng1:15.292</idno>
         <ref target="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg001.perseus-eng1:15.292"/>
       </ab>
@@ -344,6 +366,36 @@
             <forename>Flavius</forename>
             <surname>Josephus</surname>
           </author>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

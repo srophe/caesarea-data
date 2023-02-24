@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -20,6 +22,10 @@
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L.
           Potter</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
         </respStmt>
         <respStmt>
           <resp>Electronic text added by</resp>
@@ -285,7 +291,13 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/43</idno>
       </ab>
       <desc type="abstract" xml:id="abstract43-1">
-        <quote><placeName>Stratonis Turris</placeName></quote>, <quote><placeName>Caesarea</placeName></quote>, and <quote><placeName>Strato’s Tower</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/100219162" role="author">Pliny the Elder</persName>, <title xml:lang="en" ref="urn:cts:latinLit:phi0978.phi001" type="uniform" level="m">Natural History</title> <ref n="a" target="#bib43-1">5.14.68-69</ref>. This passage was written ca. <origDate notBefore="0070" notAfter="0077" period="#nabateanKingdom #earlyRoman #herodian">70-77 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+        <quote>
+          <placeName>Stratonis Turris</placeName>
+        </quote>, <quote>
+          <placeName>Caesarea</placeName>
+        </quote>, and <quote>
+          <placeName>Strato’s Tower</placeName>
+        </quote> are directly attested at <persName ref="http://viaf.org/viaf/100219162" role="author">Pliny the Elder</persName>, <title xml:lang="en" ref="urn:cts:latinLit:phi0978.phi001" type="uniform" level="m">Natural History</title> <ref n="a" target="#bib43-1">5.14.68-69</ref>. This passage was written ca. <origDate notBefore="0070" notAfter="0077" period="#nabateanKingdom #earlyRoman #herodian">70-77 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
       <desc type="context">Gaius Plinius Secundus, or Pliny the Elder, from a family of the
         equestian class in northern Italy, was a luminary in the fields of natural history and
         philosophy. Later in life, as a close associate of Vespasian, he served several
@@ -308,10 +320,14 @@
         rege condita, nunc colonia Prima Flavia a Vespasiano Imperatore deducta, finis Palaestines,
         CLXXXVIIII p. a confinio Arabiae. dein Phoenice; intus autem Samariae oppida Neapolis, quod
         antea Mamortha dicebatur, Sebaste in monte, et altiore Gamala.<ab type="source" source="#bib43-1"/>
-        <idno type="CTS-URN"/>
-        <ref/>
         <note xml:lang="en" type="textual">Ed.
           Mayhoff 1906</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref/>
+        
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote43-2">
         <anchor xml:id="testimonia-43.en.1" corresp="#testimonia-43.la.1"/> (68) After Pelusium
@@ -329,9 +345,12 @@
         border of Palestine is 189 miles from bordering Arabia. Then Phoenice and inland Samaria;
         the towns are Neapolis, previously called Mamortha, Sebaste on a mountain, and higher up
           Gamala.<ab type="source" source="#bib43-2"/>
+        <note xml:lang="en" type="translation">Trans. J. L. Rife with ref. to Rackham 1942</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref/>
-        <note xml:lang="en" type="translation">Trans. J. L. Rife with ref. to Rackham 1942</note>
+        
       </ab>
       <listBibl>
         <head>Works Cited</head>
@@ -348,6 +367,41 @@
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/KUWIIZF4"/>
           <citedRange unit="section">5.14.68-69</citedRange>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -17,6 +19,10 @@
         <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
         </respStmt>
         <respStmt>
           <resp>Electronic text added by</resp>
@@ -297,25 +303,80 @@
             ὑπ. Κράσσου καὶ Πίσωνος. Ἐπὶ τούτων τῶν ὑπάτων Πόντιος Πιλᾶτος ἐπίτροπος τῆς Ἰουδαίας
             ὑπὸ Τιβερίου ἐκπέμπεται ιβʹ ἔτει τῆς βασιλείας αὐτοῦ, ὡς ἱστορεῖ Ἰώσηπος. Ἰνδ. ιδʹ. ιγʹ.
             ὑπ. Σιλανοῦ καὶ Νερούα. Ἰνδ. ιεʹ. ιδʹ. ὑπ. Γεμίνου καὶ Γεμίνου.<ab type="source" source="#bib247-1"/>
-        <idno type="CTS-URN"/>
-        <ref/>
         <note xml:lang="en" type="textual">Ed.
                Dindorf 1832</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref/>
+        
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote247-2">
         <anchor xml:id="testimonia-247.en.1" corresp="#testimonia-247.grc.1"/>
         Olympiad 201 Indiction 12. Year 11. Consuls Gaetulicus and Sabinus.
             [26 C.E.] Indiction 13. Year 12. Consuls Crassus and Piso. [27 C.E.] Under these consuls
             Pontius Pilate was sent to be prοcurator of Judaea by Tiberius in the 12th year of his
-            reign, as Josephus records. Indiction 14. Year 13. Consuls Silanus and Nerva. [28 C.E.]<note xml:lang="en" type="translation">Trans. J. L. Rife</note>
+            reign, as Josephus records. Indiction 14. Year 13. Consuls Silanus and Nerva. [28 C.E.]
         <idno type="CTS-URN"/>
         <ref target=""/>
+      <note xml:lang="en" type="translation">Trans. J. L. Rife</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
       </ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib247-1">
           <ptr target="https://caesarea-maritima.org/bibl/4ICC3ERG"/>
           <citedRange unit="p">389.4-11</citedRange>
+        </bibl>
+      <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

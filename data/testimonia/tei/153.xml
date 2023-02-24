@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -16,6 +18,10 @@
             <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
         </respStmt>
         <respStmt>
           <resp>Electronic text added by</resp>
@@ -280,7 +286,11 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/153</idno>
          </ab>
          <desc type="abstract" xml:id="abstract153-1">
-        <quote><placeName>Καισαρείᾳ</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/13651211" role="author">Epiphanius</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Medicine Cabinet, or Against Heresies</title> <ref n="a" target="#bib153-1">69.4.3-5</ref>. This passage was written ca. <origDate notBefore="0374" notAfter="0377" period="#byzantine">374-377 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/707617">Cypriot
+        <quote>
+          <placeName>Καισαρείᾳ</placeName>
+        </quote>, and <quote>
+          <placeName>Caesarea</placeName>
+        </quote> are directly attested at <persName ref="http://viaf.org/viaf/13651211" role="author">Epiphanius</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Medicine Cabinet, or Against Heresies</title> <ref n="a" target="#bib153-1">69.4.3-5</ref>. This passage was written ca. <origDate notBefore="0374" notAfter="0377" period="#byzantine">374-377 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/707617">Cypriot
                Salamis</origPlace>.</desc>
          <desc type="context">Epiphanius, who spent his early life and career as a student and monk
             in southern Palestine and Egypt, was appointed bishop of Salamis on Cyprus in ca.
@@ -311,9 +321,13 @@
             μὲν λέγοντες μὴ ὑπο- δέχεσθαι τοῦτον, ἄλλοι δὲ κατὰ ἄγνοιαν ὑποδέχεσθαι, ἕτεροι δὲ
             φάσκοντες, ὡς διὰ τῆς ὑποδοχῆς κερδῆσαι αὐτόν, ἀπολογούμενοι. καὶ πολλή τίς ἐστιν ἡ περὶ
             τούτων ὑπόθεσις.<ab type="source" source="#bib153-1"/>
+        <note xml:lang="en" type="textual">Ed. Holl 1933</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
-        <note xml:lang="en" type="textual">Ed. Holl 1933</note>
+        
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote153-2">
         <anchor xml:id="testimonia-153.en.1" corresp="#testimonia-153.grc.1"/>
@@ -329,9 +343,12 @@
             others that they had received him in ignorance, and others claiming in self-defense that
             they had won him over by hospitality. And the story about these matters is a long
                one.<ab type="source" source="#bib153-2"/>
+        <note xml:lang="en" type="translation">Rev. Williams 2013</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
-        <note xml:lang="en" type="translation">Rev. Williams 2013</note>
+        
       </ab>
          <listBibl>
         <head>Works Cited</head>
@@ -344,6 +361,49 @@
           <ptr target="https://caesarea-maritima.org/bibl/JPPNQCCZ"/>
           <citedRange unit="bk">69.4.3-5</citedRange>
           <citedRange unit="p">336</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

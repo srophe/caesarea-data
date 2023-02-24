@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -16,6 +18,10 @@
         <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
         </respStmt>
         <respStmt>
           <resp>Electronic text added by</resp>
@@ -299,11 +305,15 @@
             quoque saecularium litterarum sectatores haberet et interpraetaretur eis cottidie,
             concursusque ad eum miri fierent. Quos ille propterea recipiebat, ut sub occasione
             saecularis litteraturae in fide eos Christi institueret.<ab type="source" source="#bib289-1"/>
-        <idno type="CTS-URN"/>
-        <ref target="https://archive.org/details/devirisinlustri00jerogoog/page/n91/mode/2up"/>
         <note xml:lang="en" type="textual">Ed.
                Bernoulli 1895</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
         <note xml:lang="en" type="corrigenda">Minor corr. J. L. Rife</note>
+        <idno type="CTS-URN"/>
+        <ref target="https://archive.org/details/devirisinlustri00jerogoog/page/n91/mode/2up"/>
+        
+        
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote289-2">
         <anchor xml:id="testimonia-289.en.1" corresp="#testimonia-289.la.1"/>
@@ -324,9 +334,12 @@
         daily, and incredible crowds flocked to him. These he received with the goal that, under the
         pretext of an opportunity (to learn) about secular literature, he might establish them in
         the faith of Christ.<ab type="source" source="#bib289-2"/>
+        <note xml:lang="en" type="translation">Adapted from Schaff 1892 and Halton 1999</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref/>
-        <note xml:lang="en" type="translation">Adapted from Schaff 1892 and Halton 1999</note>
+        
       </ab>
       <listBibl>
         <head>Works Cited</head>
@@ -339,6 +352,49 @@
           <ptr target="https://caesarea-maritima.org/bibl/UFDQ7288"/>
           <citedRange unit="p">78-79</citedRange>
           <citedRange unit="ch">54.6-8</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

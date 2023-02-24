@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -20,6 +22,10 @@
         <resp>TEI encoding by</resp>
         <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
       </respStmt>
+        <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
+        </respStmt>
         <respStmt>
         <resp>Electronic text added by</resp>
         <name ref="https://caesarea-maritima.org/documentation/editors.xml#jwoods">Joshua Woods</name>
@@ -286,7 +292,11 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/154</idno>
       </ab>
       <desc type="abstract" xml:id="abstract154-1">
-        <quote><placeName xml:lang="grc">Καισαρείας τῆς Παλαιστίνης,</placeName></quote>, and <quote><placeName xml:lang="en">Cæsarea in Palestine,</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/77111352" role="author">Theodoret</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg4089.tlg003" type="uniform" level="m">Church History</title> <ref n="a" target="#bib154-1">5.8.4-5.8.6</ref>. This passage was written ca. <origDate period="#byzantine" notBefore="0449" notAfter="0458">449 – 458 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/658446">Cyrrhus</origPlace>.</desc>
+        <quote>
+          <placeName xml:lang="grc">Καισαρείας τῆς Παλαιστίνης,</placeName>
+        </quote>, and <quote>
+          <placeName xml:lang="en">Cæsarea in Palestine,</placeName>
+        </quote> are directly attested at <persName ref="http://viaf.org/viaf/77111352" role="author">Theodoret</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg4089.tlg003" type="uniform" level="m">Church History</title> <ref n="a" target="#bib154-1">5.8.4-5.8.6</ref>. This passage was written ca. <origDate period="#byzantine" notBefore="0449" notAfter="0458">449 – 458 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/658446">Cyrrhus</origPlace>.</desc>
       <desc type="context">Theodoret served as bishop of Cyrrhus in northwestern Syria in
         423-457. Following his wide education in both the Christian and the Greek traditions and
         a brief monastic devotion, he became a vigorous leader of his diocese, distinguished by
@@ -307,6 +317,10 @@
         ἕτεροι πλεῖστοι τῆς ἀρετῆς ἀθληταί. (6) τότε δὴ οὖν οὗτοι πάντες τῶν Αἰγυπτίων σφὰς
         αὐτοὺς ἀποκρίναντες, σὺν τῷ μεγάλω Γρηγορίῳ τὰς πανηγύρεις ἐπετέλουν τὰς θείας.<ab type="source" source="#bib154-1"/>
         <note type="textual">Ed. Parmentier and Hansen 1998</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote154-2">
         <anchor xml:id="testimonia-154.en.1" corresp="#testimonia-154.grc.1"/>(4) (The assembled bishops) were admirable men and full of divine
@@ -317,8 +331,11 @@
           Palestine</placeName>, celebrated for his learning and career, and many other
         athletes of virtue. All these then separated themselves from the Egyptians and
         celebrated divine service with the great Gregory.<ab type="source" source="#bib154-2"/>
-        <idno type="CTS-URN"/>
         <note type="translation">Adapted from Jackson 1892 and Parmentier, Hansen, and Bouffartigue 2009</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        
       </ab>
       <listBibl>
         <head>Works Cited</head>
@@ -338,6 +355,41 @@
           <ptr target="https://caesarea-maritima.org/bibl/TSG9AN9M"/>
           <citedRange unit="bk">5</citedRange>
           <citedRange unit="ch">8.4-8.6</citedRange>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -19,6 +21,10 @@
         <resp>TEI encoding by</resp>
         <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
       </respStmt>
+        <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
+        </respStmt>
         <respStmt>
         <resp>Electronic text added by</resp>
         <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
@@ -280,17 +286,29 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/93</idno>
       </ab>
       <desc type="abstract" xml:id="abstract93-1">
-        <quote><placeName xml:lang="grc">τὴν Καισάρειαν</placeName></quote>, and <quote><placeName xml:lang="en">Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Ecclesiastical History</title> <ref n="b" target="#bib93-1">2.10.1</ref>. This passage was written ca. <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
+        <quote>
+          <placeName xml:lang="grc">τὴν Καισάρειαν</placeName>
+        </quote>, and <quote>
+          <placeName xml:lang="en">Caesarea</placeName>
+        </quote> are directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Ecclesiastical History</title> <ref n="b" target="#bib93-1">2.10.1</ref>. This passage was written ca. <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
+      <desc type="context"/>
       <ab type="edition" xml:lang="grc" xml:id="quote93-1">
         <anchor xml:id="testimonia-93.grc.1" corresp="#testimonia-93.en.1"/>Τὰ δέ γε τῆς κατὰ τῶν ἀποστόλων ἐγχειρήσεως τοῦ βασιλέως οὐκέτ᾿ ἀναβολῆς εἴχετο, ἀλλά γέ τοι αὐτὸν ὁ τῆς θείας δίκης τιμωρὸς διάκονος μετῄει, παραυτίκα μετὰ τὴν τῶν ἀποστόλων ἐπιβουλὴν, ὡς ἡ τῶν Πράξεων ἱστορεῖ γραφὴ, ὁρμήσαντα μὲν ἐπὶ <placeName xml:lang="grc">τὴν Καισάρειαν</placeName>, ἐν ἐπισήμῳ δ᾿ ἐνταῦθα ἑορτῆς ἡμέρᾳ λαμπρᾷ καὶ βασιλικῇ κοσμησάμενον ἐσθῆτι, ὑψηλόν τε πρὸ βήματος δημηγορήσαντα· τοῦ γάρ τοι δήμου παντὸς ἐπευφημήσαντος τῇ δημηγορίᾳ , ὡς ἐπὶ θεοῦ φωνῇ καὶ οὐκ ἀνθρώπου, παραχρῆμα τὸ λόγιον πατάξαι αὐτὸν ἄγγελον κυρίου ἱστορεῖ , γενόμενόν τε σκωληκόβρωτον ἐκψῦξαι.<ab type="source" source="#bib93-1"/>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg002.1st1K-grc2:2.10.1</idno>
         <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2018.tlg002.1st1K-grc2:2.10.1"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote93-2">
         <anchor xml:id="testimonia-93.en.1" corresp="#testimonia-93.grc.1"/>As the king's attempt on the Apostles there was no more delay, but the avenging minister of the sentence of God Overtook him at once, immediatedly after his plot against the Apostles, as the Scripture relates in the Acts. He had gone to <placeName xml:lang="en">Caesarea</placeName>, and there on the set day of the feast, adorned with splendid and royal robes, he addressed the standing on high before his judgement-seat. The whole people applauded his address, as though at the voice of a god and not of a man, and the story relates that an angel of the Lord smote him at once, and he was eaten of worms and expired.<ab type="source" source="#bib93-2"/>
+        <note xml:lang="en" type="translation">Trans. {Source}</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda">Inaccuracies found in the transcription of the electronic text compared to its printed source have been corrected.</note>
         <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg002.1st1K-eng1:2.10</idno>
         <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2018.tlg002.1st1K-eng1:2.10"/>
-        <note xml:lang="en" type="corrigenda">Inaccuracies found in the transcription of the electronic text compared to its printed source have been corrected.</note>
+        
       </ab>
       <listBibl>
         <head>Works Cited</head>
@@ -312,6 +330,36 @@
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/N73TPKH5"/>
           <citedRange unit="section">2.1</citedRange>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

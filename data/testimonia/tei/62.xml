@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -16,6 +18,10 @@
             <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
         </respStmt>
         <respStmt>
           <resp>Electronic text added by</resp>
@@ -276,10 +282,14 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/62</idno>
          </ab>
          <desc type="abstract" xml:id="abstract62-1">
-        <quote><placeName>turris Stratonis</placeName></quote>, <quote>
+        <quote>
+          <placeName>turris Stratonis</placeName>
+        </quote>, <quote>
           <placeName>Caesarea
                Palaestinae</placeName>
-        </quote>, <quote><placeName>Strato’s Tower</placeName></quote>, and <quote>
+        </quote>, <quote>
+          <placeName>Strato’s Tower</placeName>
+        </quote>, and <quote>
           <placeName>Caesarea of
                Palestine</placeName>
         </quote> are directly attested at <persName ref="" role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Piacenza Itinerary</title> <ref n="a" target="#bib62-1">46</ref>. This passage was written ca. <origDate notBefore="0570" notAfter="0580" period="#byzantine">570-580 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/383741">Piacenza</origPlace>.</desc>
@@ -301,11 +311,15 @@
             baptistae qui est missus in doleo vitreo, quem etiam intra doleum oculis nostris vidimus
             et adoravimus. Exinde transeuntes per civitates, hoc est Larissa Aristosa et Epifania,
             venimus in civitatem splendidissimam Apamiam, in qua est omnis nobilitas Syrorum.<ab type="source" source="#bib62-1"/>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
         <note xml:lang="en" type="textual">Ed. Guyer 1965</note>
         <note xml:lang="en" type="textual">Sangallensis 133, Turicensis
                73 (9th-10th centuries) </note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        
+        
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote62-2">
         <anchor xml:id="testimonia-62.en.1" corresp="#testimonia-62.la.1"/>Arriving again at Jerusalem, I remained there sick for a long time.
@@ -321,10 +335,13 @@
             jar; we saw it in the jar with our own eyes, and we worshipped it. From there, passing
             through the cities of Larissa, Aristosa, and Epifania, we came to the most magnificent
             city of Apamia, where all the nobles of Syria dwell.<ab type="source" source="#bib62-2"/>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
         <note xml:lang="en" type="translation">Adapted
                from Stewart 1887</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        
       </ab>
          <listBibl>
         <head>Works Cited</head>
@@ -336,6 +353,49 @@
           <ptr target="https://caesarea-maritima.org/bibl/KT9S6NLG"/>
           <citedRange unit="p">35-36</citedRange>
           <citedRange unit="section">XLVI</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
       <note type="related-texts"/>

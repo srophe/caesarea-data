@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -15,6 +17,10 @@
          <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
         </respStmt>
         <respStmt>
           <resp>URNs and other metadata added by</resp>
@@ -281,7 +287,11 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/441</idno>
          </ab>
          <desc type="abstract" xml:id="abstract441-1">
-        <quote><placeName>τὴν Καίσαρος</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/48159479" role="author">Procopius of Gaza</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Letters</title> <ref target="#bib441-1">29</ref>. This passage was written ca. <origDate notBefore="0500" notAfter="0525" period="#byzantine">500-525 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687902">Gaza</origPlace>.</desc>
+        <quote>
+          <placeName>τὴν Καίσαρος</placeName>
+        </quote>, and <quote>
+          <placeName>Caesarea</placeName>
+        </quote> are directly attested at <persName ref="http://viaf.org/viaf/48159479" role="author">Procopius of Gaza</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Letters</title> <ref target="#bib441-1">29</ref>. This passage was written ca. <origDate notBefore="0500" notAfter="0525" period="#byzantine">500-525 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687902">Gaza</origPlace>.</desc>
          <desc type="context">Procopius, later followed by his student Choricius, was a leading
             figure in the rhetorical flowering at Late Antique Gaza. During his career spanning the
             late 5th to early 6th centuries, he was a celebrated teacher and orator whose extant
@@ -303,10 +313,14 @@
             ἀλλ’ ἵνα μὴ τὰ τῆς φιλίας τῇ σιγῇ πρὸς λήθην ἐλθόντα κατὰ μικρὸν ὑπορρέῃ, ἀνανεοῦμαι
             πάλιν τὸ πρᾶγμα καὶ γίνομαί σοι φιλανθρωπότερος. καὶ σύ, πρὸς Φιλίου, παῖζε πρὸς ἡμᾶς τὰ
             συνήθη καὶ τῆς σῆς χάριτος ἄξια.<ab type="source" source="#bib441-1"/>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
         <note xml:lang="en" type="textual">Ed. Garzya and Loenertz 1963 with
                ref. to Amato and Ciccolella 2010</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote441-2">
         <anchor xml:id="testimonia-441.en.1" corresp="#testimonia-441.grc.1"/>To Diodorus,<lb/>Are you still silent? Do you still despise our news?
@@ -325,8 +339,6 @@
             to oblivion because of silence, do not slowly wash away, I renew again our relationship
             and become more benevolent toward you. And you, by Zeus the god of friendship, bring to
             us the usual delight, a delight worthy of your grace.<ab type="source" source="#bib441-2"/>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
         <note xml:lang="en" type="translation">Trans. J.
                L. Rife with ref. to Amato and Ciccolella 2010</note>
         <note xml:lang="en" type="discussion">The
@@ -336,6 +348,11 @@
                153-159), and in any case would seem to symbolize the distance between the author of
                the letter and its recipient; see Amato and Ciccolella 2010, p. 455 n.
                263.</note>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        
+        
       </ab>
          <listBibl>
         <head>Works Cited</head>
@@ -347,6 +364,49 @@
         <bibl xml:id="bib441-2">
           <ptr target="https://caesarea-maritima.org/bibl/VAT7W2JF"/>
           <citedRange unit="p">314-315</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
       <note type="related-texts">

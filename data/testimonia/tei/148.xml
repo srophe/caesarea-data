@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -19,6 +21,10 @@
         <resp>TEI encoding by</resp>
         <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
       </respStmt>
+        <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
+        </respStmt>
         <respStmt>
         <resp>Electronic text added by</resp>
         <name ref="https://caesarea-maritima.org/documentation/editors.xml#eyonan">Eliana Yonan</name>
@@ -281,7 +287,17 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/148</idno>
       </ab>
       <desc type="abstract" xml:id="abstract148-1">
-        <quote><placeName xml:lang="Greek">της Καισαρείας</placeName></quote>, <quote><placeName xml:lang="Greek">εν Καισαρεία</placeName></quote>, <quote><placeName xml:lang="en">at Caesarea</placeName></quote>, <quote><placeName xml:lang="en">bishop of Caesarea in Palestine,</placeName></quote>, and <quote><placeName xml:lang="en">at Caesarea,</placeName></quote> are directly attested at <persName ref="https://viaf.org/viaf/6200152139996611100009" role="author">Photius</persName>, <title ref="" type="uniform" level="m">Bibliotheca</title> <ref n="b" target="#bib148-1">118.92a41-93a29</ref>. This passage was written ca. <origDate period="#earlyIslamic" notBefore="0845" notAfter="0855">845 – 855 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+        <quote>
+          <placeName xml:lang="Greek">της Καισαρείας</placeName>
+        </quote>, <quote>
+          <placeName xml:lang="Greek">εν Καισαρεία</placeName>
+        </quote>, <quote>
+          <placeName xml:lang="en">at Caesarea</placeName>
+        </quote>, <quote>
+          <placeName xml:lang="en">bishop of Caesarea in Palestine,</placeName>
+        </quote>, and <quote>
+          <placeName xml:lang="en">at Caesarea,</placeName>
+        </quote> are directly attested at <persName ref="https://viaf.org/viaf/6200152139996611100009" role="author">Photius</persName>, <title ref="" type="uniform" level="m">Bibliotheca</title> <ref n="b" target="#bib148-1">118.92a41-93a29</ref>. This passage was written ca. <origDate period="#earlyIslamic" notBefore="0845" notAfter="0855">845 – 855 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
       <desc type="context">Photius I was ecumenical patriarch of Constantinople in 858-867 and
         877-886, as well as an unparalleled intellectual luminary for his age. Apart from his
         distinguished ecclesiastical career, he engaged in polymathic teaching and research,
@@ -337,9 +353,13 @@
         νεὼς καὶ οἶκοι ὑπὸ τῶν εὐσεβούντων ἱδρύθησαν. Ὁ δὲ θεῖος Πάμφιλος πρεσβύτερος ἦν. Καὶ
         πολλὰ δὲ τῶν Ὠριγένους εἰς τὴν θείαν γραφὴν ἐξηγήσεων ἰδίᾳ χειρὶ λέγουσιν αὐτὸν
         γεγραφέναι.<ab type="source" source="#bib148-1"/>
+        <note type="textual">Ed. Bekker 1824-1825 with ref. Henry 1959</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target="https://archive.org/details/bibliothecaexrec00photuoft/page/92/mode/2up"/>
-        <note type="textual">Ed. Bekker 1824-1825 with ref. Henry 1959</note>
+        
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote148-2">
         <anchor xml:id="testimonia-148.en.1" corresp="#testimonia-148.grc.1"/>Read In Defense of Origen by Pamphilus the martyr and Eusebius. The
@@ -389,6 +409,9 @@
         Churches and houses (of prayer?) were established by the faithful for them. Saint
         Pamphilus was a priest, and they say that he copied by his own hand many of Origen’s
         commentaries on holy scripture.<ab type="source" source="#bib148-2"/>
+        <note xml:lang="en" type="translation">Trans. {Source}</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target="https://archive.org/details/libraryofphotius00phot/page/208/mode/2up"/>
       </ab>
@@ -410,6 +433,41 @@
           <ptr target="https://caesarea-maritima.org/bibl/9VU2XC27"/>
           <citedRange unit="vol">2</citedRange>
           <citedRange unit="p">90-92</citedRange>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
       <note type="related-texts">

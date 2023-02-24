@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -16,6 +18,10 @@
             <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
         </respStmt>
         <respStmt>
           <resp>Electronic text added by</resp>
@@ -283,7 +289,11 @@
         </quote>, <quote>
           <placeName>Caesarea
                Palestina</placeName>
-        </quote>, <quote><placeName>Caearea Palestinae</placeName></quote>, and <quote><placeName>Caesarea Palestina</placeName></quote> are directly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Bordeaux Itinerary</title> <ref n="a" target="#bib211-1">584.1-586.2</ref>. This passage was written ca. <origDate notBefore="0333" notAfter="0334" period="#byzantine">333-334 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
+        </quote>, <quote>
+          <placeName>Caearea Palestinae</placeName>
+        </quote>, and <quote>
+          <placeName>Caesarea Palestina</placeName>
+        </quote> are directly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Bordeaux Itinerary</title> <ref n="a" target="#bib211-1">584.1-586.2</ref>. This passage was written ca. <origDate notBefore="0333" notAfter="0334" period="#byzantine">333-334 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
          <desc type="context">The earliest surviving firsthand account of Christian pilgrimage was
             written by an unknown man from Bordeaux in southwestern France (Roman
                <foreign>Burdigala</foreign>) who travelled overland to Syria and Palestine in
@@ -301,10 +311,14 @@
                Palestina</placeName> milia LXXIII, mutationes II, mansiones III. ibi est balneus
             Cornelii centurionis, qui multas elymosynas faciebat. Inde est tertio miliario mons
             Syna, ubi fons est, in quem mulier si laverit, gravida fit.<ab type="source" source="#bib211-1"/>
-        <idno type="CTS-URN"/>
-        <ref/>
         <note xml:lang="en" type="textual">Ed.
                Cuntz 1929</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref/>
+        
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote211-2">
         <anchor xml:id="testimonia-211.en.1" corresp="#testimonia-211.la.1"/>
@@ -316,9 +330,12 @@
             Judaea) 8 miles <placeName>Caesarea Palestina</placeName> is 73 miles from Tyre, two
             exchanges, three overnights. Located there is the bath of the centurion Cornelius, who
             did many charitable acts. From there at the third milestone is located Mount Syna, where
-            there is the spring where, if a woman bathes in it, she becomes pregnant. <note xml:lang="en" type="translation">Trans. J. L. Rife</note>
+            there is the spring where, if a woman bathes in it, she becomes pregnant. 
         <idno type="CTS-URN"/>
         <ref target=""/>
+      <note xml:lang="en" type="translation">Trans. J. L. Rife</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
       </ab>
          <listBibl>
         <head>Works Cited</head>
@@ -326,11 +343,51 @@
           <ptr target="https://caesarea-maritima.org/bibl/4F6HPBGX"/>
           <citedRange unit="section">584.1-586.2</citedRange>
         </bibl>
+      <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
       </listBibl>
          <listBibl>
         <head>Additional Bibliography</head>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/SSAVC63T"/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

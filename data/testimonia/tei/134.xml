@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -16,6 +18,10 @@
             <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
         </respStmt>
         <respStmt>
           <resp>Electronic text added by</resp>
@@ -278,7 +284,11 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/134</idno>
          </ab>
          <desc type="abstract" xml:id="abstract134-1">
-        <quote><placeName>Καισαρείας Παλαιστίνης</placeName></quote>, and <quote><placeName>Caesarea of Palestine</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/88969561">John Malalas</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref n="b" target="#bib134-1">10.2</ref>. This passage was written ca. <origDate notBefore="0530" notAfter="0532" period="#byzantine">530-532 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/658381">Antioch on the
+        <quote>
+          <placeName>Καισαρείας Παλαιστίνης</placeName>
+        </quote>, and <quote>
+          <placeName>Caesarea of Palestine</placeName>
+        </quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/88969561">John Malalas</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref n="b" target="#bib134-1">10.2</ref>. This passage was written ca. <origDate notBefore="0530" notAfter="0532" period="#byzantine">530-532 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/658381">Antioch on the
                Orontes</origPlace>.</desc>
          <desc type="context">John Malalas, a moniker probably derived from Aramaic
                <foreign>malolo</foreign> meaning “orator”, was an educated Syrian who moved from
@@ -298,10 +308,14 @@
             γενόμενος ἐπίσκοπος <placeName>Καισαρείας Παλαιστίνης</placeName> τῇ μὲν ἕκτῃ χιλιάδι
             τῶν ἐνιαυτῶν λέγει καὶ αὐτὸς φανῆναι τὸν ὅλων σωτῆρα καὶ κύριον Ἰησοῦν Χριστόν, κατὰ τὸν
             ἀριθμὸν τῶν ἓξ ἡμερῶν τῆς πλάσεως τοῦ Ἀδάμ …<ab type="source" source="#bib134-1"/>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
         <note xml:lang="en" type="textual">Ed. Thurn
                2000</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote134-2">
         <anchor xml:id="testimonia-134.en.1" corresp="#testimonia-134.grc.1"/>
@@ -313,10 +327,13 @@
                <placeName>Caesarea of Palestine</placeName>, also says that the Lord Jesus Christ,
             the Savior of all, appeared in the sixth millenium, corresponding to the number of the
             six days of Adam’s creation.<ab type="source" source="#bib134-2"/>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
         <note xml:lang="en" type="translation">Adapted from Jeffreys et al.
                2017</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        
       </ab>
          <listBibl>
         <head>Works Cited</head>
@@ -328,6 +345,49 @@
           <ptr target="https://caesarea-maritima.org/bibl/YYEJCD9W"/>
           <citedRange unit="bk">10.2</citedRange>
           <citedRange unit="p">173-174</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

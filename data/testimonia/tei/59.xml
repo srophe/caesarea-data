@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -17,6 +19,10 @@
             <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
         </respStmt>
         <respStmt>
           <resp>Electronic text added by</resp>
@@ -307,9 +313,13 @@
             Ἀμαντίῳ τῷ στρατηλάτῃ κατελθεῖν ἐν Παλαιστίνῃ καὶ τὸν φόνον τοῦ Στεφάνου ἐκζητῆσαι·
             ὅστις εὑρὼν τοὺς μὲν ἐφούρκισεν, τοὺς δὲ ἀπεκεφάλισεν, τοὺς δὲ ἠκρωτηρίασε καὶ
             ἐδήμευσεν. καὶ ἐγένετο φόβος μέγας ἐν πᾶσι τοῖς ἀνατολικοῖς μέρεσιν.<ab type="source" source="#bib59-1"/>
+        <note xml:lang="en" type="textual">Ed. de Boor 1883</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
-        <note xml:lang="en" type="textual">Ed. de Boor 1883</note>
+        
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote59-2">
         <anchor xml:id="testimonia-59.en.1" corresp="#testimonia-59.grc.1"/>
@@ -324,11 +334,14 @@
                militum</foreign>, to go down to Palestine and investigate Stephen's murder. Having
             found the culprits, Amantius hanged some, beheaded some, mutilated some, and fined
             others. So great fear prevailed in all the eastern parts.<ab type="source" source="#bib59-2"/>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
         <note xml:lang="en" type="translation">Rev.
                Mango, Scott, and Greatrex 1997</note>
+        <note xml:lang="en" type="discussion"/>
         <note xml:lang="en" type="corrigenda">Minor corr. (toponymy)</note>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        
+        
       </ab>
          <listBibl>
         <head>Works Cited</head>
@@ -339,6 +352,49 @@
         <bibl xml:id="bib59-2">
           <ptr target="https://caesarea-maritima.org/bibl/9634RWJV"/>
           <citedRange unit="p">337-338</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

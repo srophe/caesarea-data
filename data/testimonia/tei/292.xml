@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -16,6 +18,10 @@
         <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
         </respStmt>
         <respStmt>
           <resp>Electronic text added by</resp>
@@ -275,7 +281,9 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/292</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract292-1">and <quote><placeName>Caesarea</placeName></quote> is directly attested at <persName ref="http://viaf.org/viaf/95147024" role="author">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Book of Places</title> <ref n="c" target="#bib292-1">109</ref>. This passage was written ca. <origDate notBefore="0390" notAfter="0420" period="#byzantine">390-420 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract292-1">and <quote>
+          <placeName>Caesarea</placeName>
+        </quote> is directly attested at <persName ref="http://viaf.org/viaf/95147024" role="author">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Book of Places</title> <ref n="c" target="#bib292-1">109</ref>. This passage was written ca. <origDate notBefore="0390" notAfter="0420" period="#byzantine">390-420 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</desc>
       <desc type="context">In his lexicon of place names in Hebrew Scripture, Jerome wrote that
         Iafthie, named at <title>Joshua</title> 19:12, was in his time a coastal village called
         Ioppe, Sykaminos, or Efa (Haifa?) on the road from Caesarea to Ptolemaïs (Akko). This same
@@ -286,19 +294,26 @@
         Iafthie in tribu Zabulon. nunc usque Ioppe vocatur ascensus Iafo. sed et
             oppidum Sycaminum nomine de <placeName>Caesarea</placeName> Ptolomaidem pergentibus
             super mare propter montem Carmelum Efa dicitur.<ab type="source" source="#bib292-1"/>
-        <idno type="CTS-URN"/>
-        <ref target="urn:cts:greekLit:tlg2018.tlg011.opp-lat1:9"/>
         <note xml:lang="en" type="textual">Ed. Klosterman
                1904</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref target="urn:cts:greekLit:tlg2018.tlg011.opp-lat1:9"/>
+        
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote292-2">
         <anchor xml:id="testimonia-292.en.1" corresp="#testimonia-292.la.1"/>
         Iafthie in the tribe of
         Zebulon. Until now it is called Ioppe, the Ascent of Iafo. It is also the town Sycaminus by
         name for those traveling from <placeName>Caesarea</placeName> to Ptolemaïs, on the sea
-        beside Mount Carmel, called Efa.<note xml:lang="en" type="translation">Trans. J. L. Rife</note>
+        beside Mount Carmel, called Efa.
         <idno type="CTS-URN"/>
         <ref target=""/>
+      <note xml:lang="en" type="translation">Trans. J. L. Rife</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
       </ab>
       <listBibl>
         <head>Works Cited</head>
@@ -306,11 +321,51 @@
           <ptr target="https://caesarea-maritima.org/bibl/ARSF2XBM"/>
           <citedRange unit="p">109</citedRange>
         </bibl>
+      <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
       </listBibl>
       <listBibl>
         <head>Additional Bibliography</head>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/66T989F7"/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

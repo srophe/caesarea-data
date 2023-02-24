@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -19,6 +21,10 @@
         <resp>TEI encoding by</resp>
         <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
       </respStmt>
+        <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
+        </respStmt>
         <respStmt>
         <resp>Electronic text added by</resp>
         <name ref="https://caesarea-maritima.org/documentation/editors.xml#eyonan">Eliana Yonan</name>
@@ -280,14 +286,26 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/112</idno>
       </ab>
       <desc type="abstract" xml:id="abstract112-1">
-        <quote><placeName xml:lang="grc">Θεόκτιστος ἐν ‟Καισαρείᾳ,</placeName></quote>, and <quote><placeName xml:lang="en">Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>, <title ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Historia ecclesiastica</title> <ref n="a" target="#bib112-1">7.5.1</ref>. This passage was written ca. <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
+        <quote>
+          <placeName xml:lang="grc">Θεόκτιστος ἐν ‟Καισαρείᾳ,</placeName>
+        </quote>, and <quote>
+          <placeName xml:lang="en">Caesarea</placeName>
+        </quote> are directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>, <title ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Historia ecclesiastica</title> <ref n="a" target="#bib112-1">7.5.1</ref>. This passage was written ca. <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
+      <desc type="context"/>
       <ab type="edition" xml:lang="grc" xml:id="quote112-1">
         <anchor xml:id="testimonia-112.grc.1" corresp="#testimonia-112.en.1"/>“Ἴσθι δὲ νῦν, ἀδελφὲ, ὅτι ἥνωνται “αἱ πρότερον διεσχισμέναι κατά τε τὴν ‟ἐκκλησίαι καὶ ἔτι προσωτέρω. καὶ πάντες εἰσὶν “ὁμόφρονες οἱ πανταχοῦ προεστῶτες, χαίροντες καθ’ “ὑπερβολὴν ἐπὶ τῇ παρὰ προσδοκίαν εἰρήνῃ γενο-μένῃ, Δημητριανὸς ἐν Ἀντιοχείᾳ, <placeName xml:lang="grc">Θεόκτιστος ἐν ‟Καισαρείᾳ,</placeName> Μαζαβάνης ἐν Αἰλίᾳ, Μαρῖνος ἐν Τυρῷ κοιμηθέντος Ἀλεξάνδρου, Ἡλιόδωρος ἐν Λαοδικείᾳ ‟ἀναπαυσαμένου Θηλυμίδρου, Ἕλενος ἐν Ταρσῷ καὶ ‘πᾶσαι αἶ τῆς Κιλικίας ἐκκλησίαι, Φιρμιλλιανὸς καὶ πᾶσα Καππαδοκία. τοὺ ’ς γὰρ περιφανεστέρους μό- ‟νους τῶν ἐπισκόπων ὠνόμασα, ἵνα μήτε μῆκος τῇ ‟ἐπιστολῇ μήτε βάρος προσάψω τῷ λόγῳ.<ab type="source" source="#bib112-1"/>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg002.1st1K-grc2:7.5.1</idno>
         <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2018.tlg002.1st1K-grc2:7.5.1"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote112-2">
         <anchor xml:id="testimonia-112.en.1" corresp="#testimonia-112.grc.1"/>But know now, brother, that all the churches in the East and still further away, which were formerly divided, have been united, and all their presidents everywhere are of like mind, rejoicing above measure at the unexpected arrival of peace: Demetrian at Antioch, Theoctistus at <placeName xml:lang="en">Caesarea</placeName>, Mazabanes at Aelia, Marinus at Tyre (Alexander having fallen asleep), Heliodorus at Laodicea (for Thelymidres has entered into his rest), Helenus at Tarsus and all the churches of Cilicia, Firmilian and all Cappadocia. For I name only the more eminent bishops, to avoid making my letter long and my discourse tedious.<ab type="source" source="#bib112-2"/>
+        <note xml:lang="en" type="translation">Trans. {Source}</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg002.1st1K-eng1:7.5</idno>
         <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2018.tlg002.1st1K-eng1:7.5"/>
       </ab>
@@ -311,6 +329,36 @@
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/N73TPKH5"/>
           <citedRange unit="section">7.5</citedRange>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

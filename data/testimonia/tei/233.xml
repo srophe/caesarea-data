@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -18,6 +20,10 @@
         <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
         </respStmt>
         <respStmt>
           <resp>Electronic text added by</resp>
@@ -281,7 +287,13 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/233</idno>
       </ab>
       <desc type="abstract" xml:id="abstract233-1">
-        <quote><placeName>Cesaream</placeName></quote>, <quote><placeName>Cesarea</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/41413317">Riccoldo da Monte di Croce<ptr/>
+        <quote>
+          <placeName>Cesaream</placeName>
+        </quote>, <quote>
+          <placeName>Cesarea</placeName>
+        </quote>, and <quote>
+          <placeName>Caesarea</placeName>
+        </quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/41413317">Riccoldo da Monte di Croce<ptr/>
         </persName>, <title xml:lang="en" ref="" type="uniform" level="m"> Book
           of Pilgrimage</title> <ref n="a" target="#bib233-1">6.23-6.28</ref>. This passage was written ca. <origDate notBefore="1288" notAfter="1291" period="#crusader #lateIslamic">1288-1291 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/893952">Baghdad</origPlace>.</desc>
       <desc type="context">Riccolde da Monte di Croce, a learned Dominican friar who taught in
@@ -307,9 +319,13 @@
             lapidem, lapis quasi liquatus et per semet ipsum lectum et concavum se faciens
             occultavit puerum et Mariam et Ioseph, ut non viderent eos quidam insequentes et
             volentes eos ledere, ut dicunt.<ab type="source" source="#bib233-1"/>
+        <note xml:lang="en" type="textual">Ed. Laurent 1873</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target="https://babel.hathitrust.org/cgi/pt?id=hvd.32044019846799&amp;view=1up&amp;seq=125"/>
-        <note xml:lang="en" type="textual">Ed. Laurent 1873</note>
+        
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote233-2">
         <anchor xml:id="testimonia-233.en.1" corresp="#testimonia-233.la.1"/>
@@ -322,9 +338,12 @@
             from <placeName>Caesarea</placeName> Philippi, and he was resting upon a rock, the rock,
             as though melted, turning itself into a bed on its own, hollowed out, hid the Child and
             Mary and Joseph, so that anyone pursuing and wanting to harm them could not see them,
-            [or] so the story goes.<note xml:lang="en" type="translation">Trans. J. L. Rife</note>
+            [or] so the story goes.
         <idno type="CTS-URN"/>
         <ref target=""/>
+      <note xml:lang="en" type="translation">Trans. J. L. Rife</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
       </ab>
       <listBibl>
         <head>Works Cited</head>
@@ -333,12 +352,52 @@
           <citedRange unit="p">113</citedRange>
           <citedRange unit="ch">6.23-6.28</citedRange>
         </bibl>
+      <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
       </listBibl>
       <listBibl>
         <head>Additional Bibliography</head>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/DP26KG4M"/>
           <citedRange unit="p">361-375</citedRange>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

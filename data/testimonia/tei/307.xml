@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -16,6 +18,10 @@
             <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
         </respStmt>
         <respStmt>
           <resp>Electronic text added by</resp>
@@ -277,7 +283,11 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/307</idno>
          </ab>
          <desc type="abstract" xml:id="abstract307-1">
-        <quote><placeName>Cesaream Palestinae</placeName></quote>, and <quote><placeName>Caesarea Palestinae</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/79068112">Adomnán</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Holy Places</title> <ref n="a" target="#bib307-1">1.20</ref>. This passage was written ca. <origDate notBefore="0695" notAfter="0698" period="#earlyIslamic">695-698 CE</origDate> possibly in <origPlace>Iona</origPlace>.</desc>
+        <quote>
+          <placeName>Cesaream Palestinae</placeName>
+        </quote>, and <quote>
+          <placeName>Caesarea Palestinae</placeName>
+        </quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/79068112">Adomnán</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Holy Places</title> <ref n="a" target="#bib307-1">1.20</ref>. This passage was written ca. <origDate notBefore="0695" notAfter="0698" period="#earlyIslamic">695-698 CE</origDate> possibly in <origPlace>Iona</origPlace>.</desc>
          <desc type="context">Adomnán (Adamnanus) was a jurist and hagiographer who served as the
             abbot of the monastery on the island of Iona in 679-704 C.E. His writings provide
             important testimony for the culture and religion of Early Medieval Scotland. Among them
@@ -295,9 +305,13 @@
             regionum monstratur usque ad <placeName>Cesaream Palestinae</placeName> occasum versus.
             Nam quamvis aliqua reperriantur angusta et brevia aspera loca interposita, praecipue
             tamen latiores plani monstrantur campi interpositis laetiores olivetis.<ab type="source" source="#bib307-1"/>
+        <note xml:lang="en" type="textual">Ed. Bieler 1965</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
-        <note xml:lang="en" type="textual">Ed. Bieler 1965</note>
+        
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote307-2">
         <anchor xml:id="testimonia-307.en.1" corresp="#testimonia-307.la.1"/>
@@ -308,16 +322,67 @@
             far as <placeName>Caesarea Palestinae</placeName> the regional character is different.
             For, although here and there can be found rough spots over narrow, short stretches, by
             and large the wide open, flat plains prove to be very pleasant, with olive trees spread
-               about.<note xml:lang="en" type="translation">Trans. J. L. Rife </note>
+               about.
             <idno type="CTS-URN"/>
             <ref/>
-         </ab>
+         <note xml:lang="en" type="translation">Trans. J. L. Rife </note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+      </ab>
          <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib307-1">
           <ptr target="https://caesarea-maritima.org/bibl/LCEGGGHH"/>
           <citedRange unit="ch">1</citedRange>
           <citedRange unit="section">20</citedRange>
+        </bibl>
+      <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

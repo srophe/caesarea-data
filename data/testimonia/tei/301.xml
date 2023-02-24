@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -17,6 +19,10 @@
         <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
         </respStmt>
         <respStmt>
           <resp>Electronic text added by</resp>
@@ -277,7 +283,15 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/301</idno>
       </ab>
       <desc type="abstract" xml:id="abstract301-1">
-        <quote><placeName>Cesarea Palestina</placeName></quote>, <quote><placeName>Cesaream</placeName></quote>, <quote><placeName>Caesarea Palestina</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/210752672 ">Saewulf</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Pilgrimage to Jerusalem and the
+        <quote>
+          <placeName>Cesarea Palestina</placeName>
+        </quote>, <quote>
+          <placeName>Cesaream</placeName>
+        </quote>, <quote>
+          <placeName>Caesarea Palestina</placeName>
+        </quote>, and <quote>
+          <placeName>Caesarea</placeName>
+        </quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/210752672 ">Saewulf</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Pilgrimage to Jerusalem and the
                Holy Land</title> <ref n="b" target="#bib301-1">551-587</ref>. This passage was written ca. <origDate notBefore="1102" notAfter="1103" period="#crusader">1102-1103 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
       <desc type="context">Saewulf was a English pilgrim to the Holy Land after the conquest of
             Jerusalen by the First Crusade in 1099. This pilgrim may be the same person as Saewulf
@@ -315,10 +329,14 @@
             autem de Ioppen postea de eisdem navibus tres detinuerunt et spoliis illorum divites
             facti sunt. Nos etenim, iuxta Syriam Palestinam prout potuimus velificantes, post octo
             dies ad Portum Sancti Andreae in insula Cipros appulimus …<ab type="source" source="#bib301-1"/>
-        <idno type="CTS-URN"/>
-        <ref/>
         <note xml:lang="en" type="textual">Ed.
                Huygens 1994</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref/>
+        
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote301-2">
         <anchor xml:id="testimonia-301.en.1" corresp="#testimonia-301.la.1"/>After we had thoroughly investigated every one of the sanctuaries of
@@ -350,9 +368,12 @@
             afterwards captured three of those same ships and enriched themselves with their spoil.
             We sailed as close as we could along the coast of Syria and Palestine, and after eight
             days they landed at the Port of St. Andrew on the island of Cyprus …<ab type="source" source="#bib301-2"/>
+        <note xml:lang="en" type="translation">Rev. from Clifton 1896</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
-        <note xml:lang="en" type="translation">Rev. from Clifton 1896</note>
+        
       </ab>
       <listBibl>
         <head>Works Cited</head>
@@ -364,6 +385,49 @@
         <bibl xml:id="bib301-2">
           <ptr target="https://caesarea-maritima.org/bibl/B7VKIV3F"/>
           <citedRange unit="p">27-28</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

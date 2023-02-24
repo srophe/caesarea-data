@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -17,6 +19,10 @@
         <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
         </respStmt>
         <respStmt>
           <resp>Electronic text added by</resp>
@@ -278,7 +284,11 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/263</idno>
       </ab>
       <desc type="abstract" xml:id="abstract263-1">
-        <quote><placeName>Καισαρείας</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/54944687">Theophanes the
+        <quote>
+          <placeName>Καισαρείας</placeName>
+        </quote>, and <quote>
+          <placeName>Caesarea</placeName>
+        </quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/54944687">Theophanes the
                Confessor</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref n="a" target="#bib263-1">12.14-26</ref>. This passage was written ca. <origDate notBefore="0810" notAfter="0814" period="#earlyIslamic">810-814 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/511218">Cyzicus</origPlace>.</desc>
       <desc type="context">Theophanes, born to noble parents in Constantinople, was raised in the
             Palace under Constantine V (740-775 C.E.) He spent much of his career as a member and
@@ -300,10 +310,14 @@
             καὶ Νεῖλος ἐπίσκοποι τῆς Αἰγύπτου, Ἄνθιμος ἐπίσκοπος Νικομηδείας, Τυραννίων ἐπίσκοπος
             Τύρου, Σιλουανὸς ἐπίσκοπος Ἐμέσης, καὶ Σιλουανὸς ἐπίσκοπος Γάζης, Λουκιανὸς πρεσβύτερος
             Ἀντιοχείας, Ζηνόβιος πρεσβύτερος Σιδῶνος, Πάμφιλος πρεσβύτερος <placeName>Καισαρείας</placeName>, καὶ ἄλλοι ἀναρίθμητοι.<ab type="source" source="#bib263-1"/>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
         <note xml:lang="en" type="textual">Ed. de
                Boor 1883</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote263-2">
         <anchor xml:id="testimonia-263.en.1" corresp="#testimonia-263.grc.1"/>
@@ -316,9 +330,12 @@
             in Egypt; Peleus and Nilus, bishops of Egypt; Anthimos, bishop of Nicomedia; Tyrannion,
             bishop of Tyre; Silvanus, bishop of Emesa; and Silvanus, bishop of Gaza; Lucian,
             presbyter of Antioch; Zenobius, presbyter of Sidon; Pamphilus, presbyter of <placeName>Caesarea</placeName>; and countless others.<ab type="source" source="#bib263-2"/>
+        <note xml:lang="en" type="translation">Trans. Mango, Scott, and Greatrex 1997</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
-        <note xml:lang="en" type="translation">Trans. Mango, Scott, and Greatrex 1997</note>
+        
       </ab>
       <listBibl>
         <head>Works Cited</head>
@@ -329,6 +346,49 @@
         <bibl xml:id="bib263-2">
           <ptr target="https://caesarea-maritima.org/bibl/9634RWJV"/>
           <citedRange unit="p">19</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

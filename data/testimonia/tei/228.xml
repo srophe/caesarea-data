@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -16,6 +18,10 @@
         <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
         </respStmt>
         <respStmt>
           <resp>Electronic text added by</resp>
@@ -280,7 +286,15 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/228</idno>
       </ab>
       <desc type="abstract" xml:id="abstract228-1">
-        <quote><placeName>Καισάρεια</placeName></quote>, <quote><placeName>Καισαρείας</placeName></quote>, <quote><placeName>Kaisareia</placeName></quote>, and <quote><placeName>Kaisareias</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/34444948" role="author">George Choeroboscus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Prologue and Notes on Theodosius of Alexandria’s Introductory Rules</title> <ref n="a" target="#bib228-1">303.12-20</ref>. This passage was written ca. <origDate notBefore="0815" notAfter="0845" period="#earlyIslamic">815-845 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+        <quote>
+          <placeName>Καισάρεια</placeName>
+        </quote>, <quote>
+          <placeName>Καισαρείας</placeName>
+        </quote>, <quote>
+          <placeName>Kaisareia</placeName>
+        </quote>, and <quote>
+          <placeName>Kaisareias</placeName>
+        </quote> are directly attested at <persName ref="http://viaf.org/viaf/34444948" role="author">George Choeroboscus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Prologue and Notes on Theodosius of Alexandria’s Introductory Rules</title> <ref n="a" target="#bib228-1">303.12-20</ref>. This passage was written ca. <origDate notBefore="0815" notAfter="0845" period="#earlyIslamic">815-845 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
       <desc type="context">Choeroboscus (“Swineherd”), whose posthumous reputation may have suffered
         from an association with iconoclasm, was a ranking official and teacher in the Patriarchate
         of Constantinople during the early 9th century. He played an important part in the
@@ -298,8 +312,12 @@
         ᾱ μὲν καθαρὸν οἷον μαῖα μαίας, γραῖα γραίας, γαῖα γαίας, Μήδεια Μηδείας (τὸ γὰρ “Μηδείης
         ὑπ᾿ ἔρωτι” Ἰωνικόν ἐστι), Κράτεια Κρατείας, Ἀλεξάνδρεια Ἀλεξανδρείας, <placeName>Καισάρεια</placeName>
         <placeName>Καισαρείας</placeName>, Ἀντιόχεια Ἀντιοχείας.<ab type="source" source="#bib228-1"/>
-        <idno type="CTS-URN"/>
         <note type="textual" xml:lang="en">Ed. Hilgard 1889</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote228-2">
         <anchor xml:id="testimonia-228.en.1" corresp="#testimonia-228.grc.1"/>
@@ -313,14 +331,17 @@
         <foreign>
           <placeName>Kaisareia</placeName>-<placeName>Kaisareias</placeName>,
         </foreign>
-        <foreign>Antiocheia-Antiocheias</foreign>.<note xml:lang="en" type="translation">Trans. J. L.
+        <foreign>Antiocheia-Antiocheias</foreign>.
+        
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+      <note xml:lang="en" type="translation">Trans. J. L.
           Rife</note>
         <note type="discussion">“<foreign>Medeies hyp’ eroti</foreign>” is quoted from Apollonius of
           Rhodes, <title>
             <title>Voyage of the Argo</title>
           </title> 3.31.</note>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
+        <note xml:lang="en" type="corrigenda"/>
       </ab>
       <listBibl>
         <head>Works Cited</head>
@@ -328,6 +349,54 @@
           <ptr target="https://caesarea-maritima.org/bibl/TMCUBZU3"/>
           <citedRange unit="p">303</citedRange>
           <citedRange unit="line">12-20</citedRange>
+        </bibl>
+      <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

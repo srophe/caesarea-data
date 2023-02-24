@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -17,6 +19,10 @@
         <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
         </respStmt>
         <respStmt>
           <resp>Electronic text added by</resp>
@@ -278,7 +284,11 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/215</idno>
       </ab>
       <desc type="abstract" xml:id="abstract215-1">
-        <quote><placeName>Παλαιστίνης Καισάρεια</placeName></quote>, and <quote><placeName>Caesarea Palestinae</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/100215825">Eunapius</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Lives of the Philosophers and
+        <quote>
+          <placeName>Παλαιστίνης Καισάρεια</placeName>
+        </quote>, and <quote>
+          <placeName>Caesarea Palestinae</placeName>
+        </quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/100215825">Eunapius</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Lives of the Philosophers and
                Sophists</title> <ref n="a" target="#bib215-1">17</ref>. This passage was written ca. <origDate notBefore="0380" notAfter="0420" period="#byzantine">380-420 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/579885">Athens</origPlace>.</desc>
       <desc type="context">Eunapius from Sardis became an accomplished sophist and historian at
             Athens during the late 4th into the early 5th century. He wrote a collection of 24 short
@@ -306,10 +316,14 @@
             εἴληπται. ὁ μὲν οὖν Ἀκάκιος ἐς τὸ ἄριστον ἀναδραμών, καὶ πολλὴν ἑαυτῷ παρασχὼν δόξαν ὡς
             τοῦ Λιβανίου κρατήσων, ἀπῄει νέος ὢν ἔτι· οἱ δὲ ἄνθρωποι, ὅσον σπουδαῖον ἐν αὐτοῖς,
             ἐθαύμαζον αὐτὸν ὥσπερ εἰς γῆρας ἀφιγμένον.<ab type="source" source="#bib215-1"/>
-        <idno type="CTS-URN"/>
-        <ref/>
         <note xml:lang="en" type="textual">Ed. Giangrande
                1956</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref/>
+        
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote215-2">
         <anchor xml:id="testimonia-215.en.1" corresp="#testimonia-215.grc.1"/>
@@ -330,9 +344,12 @@
         caught his gaze. So Acacius rose through the ranks to excellence, and he acquired a great
         reputation as the one who beat Libanius. He passed away when he was still young. And men, at
         least the studious ones, admired him as they would one who made it to old age.<ab type="source" source="#bib215-2"/>
+        <note xml:lang="en" type="translation">Adapted from Wright 1921</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
-        <note xml:lang="en" type="translation">Adapted from Wright 1921</note>
+        
       </ab>
       <listBibl>
         <head>Works Cited</head>
@@ -348,6 +365,41 @@
         <head>Additional Bibliography</head>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/XB7YVZLP"/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

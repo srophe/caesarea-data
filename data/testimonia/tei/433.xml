@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -15,6 +17,10 @@
          <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
         </respStmt>
         <respStmt>
           <resp>URNs and other metadata added by</resp>
@@ -281,7 +287,11 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/433</idno>
          </ab>
          <desc type="abstract" xml:id="abstract433-1">
-        <quote><placeName>τῇ Καίσαρος</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/88917599" role="author">Choricius of Gaza</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Speeches</title> <ref target="#bib433-1">3.38-3.42</ref>. This passage was written ca. <origDate notBefore="0534" notAfter="0535" period="#byzantine">534-535 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
+        <quote>
+          <placeName>τῇ Καίσαρος</placeName>
+        </quote>, and <quote>
+          <placeName>Caesarea</placeName>
+        </quote> are directly attested at <persName ref="http://viaf.org/viaf/88917599" role="author">Choricius of Gaza</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Speeches</title> <ref target="#bib433-1">3.38-3.42</ref>. This passage was written ca. <origDate notBefore="0534" notAfter="0535" period="#byzantine">534-535 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
          <desc type="context">Following his teacher Procopius, Choricius was the leading figure of
             the rhetorical flowering at Late Antique Gaza. Although we know nothing of his career,
             his evident professional success, references within his writings, and his reputation for
@@ -318,10 +328,14 @@
             ὕψος ἠρμένης τὸ περιθέον ἄνωθεν πῦρ ἀποσβέσας τὴν ὕπουλον φλόγα καὶ κάτωθε βρύουσαν
             εἴασε. τὸ γὰρ πάλιν μὲν ἐκείνους νεωτερίσαι, πάλιν δὲ πυρπολῆσαι τὸ ἄστυ τοῦ μὴ
             πρόρριζον ἐκκεκόφθαι τὴν στάσιν τεκμήριον ἦν.<ab type="source" source="#bib433-1"/>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
         <note xml:lang="en" type="textual">Ed. Foerster and
                Richsteig 1929</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote433-2">
         <anchor xml:id="testimonia-433.en.1" corresp="#testimonia-433.grc.1"/>(38) I cannot continue to keep silent about the deed which you
@@ -351,13 +365,16 @@
             flame trapped within and swelling up from below. For another outbreak of revolution and
             another attempt to set the city on fire would be a sign that the riot had not been cut
             off at the roots.<ab type="source" source="#bib433-2"/>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
         <note xml:lang="en" type="translation">Rev. Litsas 1980</note>
         <note xml:lang="en" type="discussion">Choricius quotes “every one was looking around for a way to escape sheer
                devastation” (πάπτηνεν δ’ ἄρ’ ἕκαστος ὅποι φύγοι αἰπὺν ὄλεθρον, 39) from Homer, Iliad
                14.507, 16.283. For his reference to Homer on Sleep (40), see Iliad
                13.233.</note>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        
+        
       </ab>
          <listBibl>
         <head>Works Cited</head>
@@ -375,6 +392,41 @@
         <head>Additional Bibliography</head>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/N2CGZJ5T"/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
       <note type="related-texts">

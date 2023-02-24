@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -20,6 +22,10 @@
         <resp>TEI encoding by</resp>
         <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
       </respStmt>
+        <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
+        </respStmt>
         <respStmt>
         <resp>Electronic text added by</resp>
         <name ref="https://caesarea-maritima.org/documentation/editors.xml#jwoods">Joshua Woods</name>
@@ -285,13 +291,21 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/119</idno>
       </ab>
       <desc type="abstract" xml:id="abstract119-1"> is directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>, <title ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Historia ecclesiastica</title> <ref target="#bib119-1">8.7.1</ref>. This passage was written circa <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
+      <desc type="context"/>
       <ab type="edition" xml:lang="grc" xml:id="quote119-1">
         <anchor xml:id="testimonia-119.grc.1" corresp="#testimonia-119.en.1"/>Ἴσμεν γοῦν τοὺς ἐξ αὐτῶν διαλάμψαντας ἐν Παλαιστίνῃ, ἴσμεν δὲ καὶ τοὺς ἐν Τύρῳ τῆς Φοινίκης, οὓς τίς ἰδὼν οὐ κατεπλάγη τὰς ἀναριθμήτους μάστιγας, καὶ τὰς ἐν τούτοις τῶν ὡς ἀληθῶς παραδόξων τῆς θεοσεβείας ἀθλητῶν ἐνστάσεις, τόν τε παραχρῆμα μετὰ τὰς μάστιγας ἐν θηρσὶν αἱμοβόροις ἀγῶνα, καὶ τὰς ἐν τούτῳ παρδάλεων καὶ διαφόρων ἄρκτων, συῶν τε ἀγρίων καὶ πυρὶ καὶ σιδήρῳ κεκαυτηριασμένων βοῶν προσβολὰς, καὶ τὰς πρὸς ἕκαστον τῶν θηρίων θαυμασίους τῶν γενναίων ὑπομονάς;<ab type="source" source="#bib119-1"/>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg002.1st1K-grc2:8.7.1</idno>
         <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2018.tlg002.1st1K-grc2:8.7.1"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote119-2">
         <anchor xml:id="testimonia-119.en.1" corresp="#testimonia-119.grc.1"/>We know at any rate those of them who were conspicuous in Palestine, and we know who those at Tyre in Phoenicia. Who that saw them was not struck with amazement at the numberless lashes and the stedfastness displayed under them by these truly marvellous champions of godliness; at the conflict with man-eating wild beasts that followed immediately on the lashes; the attacks that then took place of leopards and different kinds of bears, of wild boars and bulls goaded with hot iron; and the marvellous endurance of these noble persons when opposed to each of the wild beasts?<ab type="source" source="#bib119-2"/>
+        <note xml:lang="en" type="translation">Trans. {Source}</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg002.1st1K-eng1:8.7</idno>
         <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2018.tlg002.1st1K-eng1:8.7"/>
       </ab>
@@ -315,6 +329,36 @@
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/N73TPKH5"/>
           <citedRange unit="section">8.7.</citedRange>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

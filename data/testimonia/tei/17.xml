@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -20,6 +22,10 @@
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L.
           Potter</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
         </respStmt>
         <respStmt>
           <resp>Electronic text added by</resp>
@@ -284,16 +290,30 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/17</idno>
       </ab>
       <desc type="abstract" xml:id="abstract17-1">
-        <quote><placeName xml:lang="grc">τὴν Καισάρειαν</placeName></quote>, <quote><placeName xml:lang="grc">Καισαρείᾳ</placeName></quote>, and <quote><placeName xml:lang="en">Cesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/22143666" role="author">Josephus</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg001" type="uniform" level="m">Antiquities of the Jews</title> <ref n="r" target="#bib17-1">20.182-20.184</ref>. This passage was written ca. <origDate period="#nabateanKingdom #earlyRoman" notBefore="0093" notAfter="0094">93 - 94 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+        <quote>
+          <placeName xml:lang="grc">τὴν Καισάρειαν</placeName>
+        </quote>, <quote>
+          <placeName xml:lang="grc">Καισαρείᾳ</placeName>
+        </quote>, and <quote>
+          <placeName xml:lang="en">Cesarea</placeName>
+        </quote> are directly attested at <persName ref="http://viaf.org/viaf/22143666" role="author">Josephus</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg001" type="uniform" level="m">Antiquities of the Jews</title> <ref n="r" target="#bib17-1">20.182-20.184</ref>. This passage was written ca. <origDate period="#nabateanKingdom #earlyRoman" notBefore="0093" notAfter="0094">93 - 94 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+      <desc type="context"/>
       <ab type="edition" xml:lang="grc" xml:id="quote17-1">
         <anchor xml:id="testimonia-17.grc.1" corresp="#testimonia-17.en.1"/>
         Πορκίου δὲ Φήστου διαδόχου Φήλικι πεμφθέντος ὑπὸ Νέρωνος οἱ πρωτεύοντες τῶν <placeName xml:lang="grc">τὴν Καισάρειαν</placeName> κατοικούντων Ἰουδαίων εἰς τὴν Ῥώμην ἀναβαίνουσιν Φήλικος κατηγοροῦντες, καὶ πάντως ἂν ἐδεδώκει τιμωρίαν τῶν εἰς Ἰουδαίους ἀδικημάτων, εἰ μὴ πολλὰ αὐτὸν ὁ Νέρων τἀδελφῷ Πάλλαντι παρακαλέσαντι συνεχώρησεν μάλιστα δὴ τότε διὰ τιμῆς ἄγων ἐκεῖνον. καὶ τῶν ἐν <placeName xml:lang="grc">Καισαρείᾳ</placeName> δὲ οἱ πρῶτοι Σύρων Βήρυλλον, παιδαγωγὸς δ᾽ ἦν οὗτος τοῦ Νέρωνος τάξιν τὴν ἐπὶ τῶν Ἑλληνικῶν ἐπιστολῶν πεπιστευμένος, πείθουσι πολλοῖς χρήμασιν αἰτήσασθαι παρὰ τοῦ Νέρωνος αὐτοῖς ἐπιστολὴν ἀκυροῦσαν τὴν Ἰουδαίων πρὸς αὐτοὺς ἰσοπολιτείαν. καὶ Βήρυλλος τὸν αὐτοκράτορα παρακαλέσας ἐπέτυχε γραφῆναι τὴν ἐπιστολήν. αὕτη τῷ ἔθνει ἡμῶν τῶν μετὰ ταῦτα κακῶν τὰς αἰτίας παρέσχεν: πυθόμενοι γὰρ οἱ κατὰ <placeName xml:lang="grc">τὴν Καισάρειαν</placeName> Ἰουδαῖοι τὰ γραφέντα τῆς πρὸς τοὺς Σύρους στάσεως μᾶλλον εἴχοντο μέχρι δὴ τὸν πόλεμον ἐξῆψαν.<ab type="source" source="#bib17-1"/>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg0526.tlg001.perseus-grc1:20.182-20.184</idno>
         <ref target="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg001.perseus-grc1:20.182-20.184"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote17-2">
         <anchor xml:id="testimonia-17.en.1" corresp="#testimonia-17.grc.1"/>
         Now when Porcius Festus was sent as successor to Felix by Nero, the principal of the Jewish inhabitants of <placeName xml:lang="en">Cesarea</placeName> went up to Rome to accuse Felix; and he had certainly been brought to punishment, unless Nero had yielded to the importunate solicitations of his brother Pallas, who was at that time had in the greatest honor by him. Two of the principal Syrians in <placeName xml:lang="en">Cesarea</placeName> persuaded Burrhus, who was Nero's tutor, and secretary for his Greek epistles, by giving him a great sum of money, to disannul that equality of the Jewish privileges of citizens which they hitherto enjoyed. So Burrhus, by his solicitations, obtained leave of the emperor that an epistle should be written to that purpose. This epistle became the occasion of the following miseries that befell our nation; for when the Jews of <placeName xml:lang="en">Cesarea</placeName> were informed of the contents of this epistle to the Syrians, they were more disorderly than before, till a war was kindled.<ab type="source" source="#bib17-2"/>
+        <note xml:lang="en" type="translation">Trans. {Source}</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg0526.tlg001.perseus-eng1:20.182</idno>
         <ref target="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg001.perseus-eng1:20.182"/>
       </ab>
@@ -344,6 +364,36 @@
             <forename>Flavius</forename>
             <surname>Josephus</surname>
           </author>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

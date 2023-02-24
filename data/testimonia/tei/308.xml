@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -16,6 +18,10 @@
             <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
         </respStmt>
         <respStmt>
           <resp>Electronic text added by</resp>
@@ -276,7 +282,9 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/308</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract308-1">and <quote><placeName>Caesaream vero Palestinae</placeName></quote> is directly attested at <persName role="author" ref="http://viaf.org/viaf/61539765 ">Bede</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Holy Places</title> <ref n="a" target="#bib308-1">5.3-5.9</ref>. This passage was written ca. <origDate notBefore="0702" notAfter="0703" period="#earlyIslamic">702-703 CE</origDate> possibly in <origPlace>Hexham</origPlace>.</desc>
+         <desc type="abstract" xml:id="abstract308-1">and <quote>
+          <placeName>Caesaream vero Palestinae</placeName>
+        </quote> is directly attested at <persName role="author" ref="http://viaf.org/viaf/61539765 ">Bede</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Holy Places</title> <ref n="a" target="#bib308-1">5.3-5.9</ref>. This passage was written ca. <origDate notBefore="0702" notAfter="0703" period="#earlyIslamic">702-703 CE</origDate> possibly in <origPlace>Hexham</origPlace>.</desc>
          <desc type="context">The “venerable” Bede was one of the great historians of the Early
             Middle Ages. Descended from an Anglo-Saxon family of status, he was a Benedictine monk
             at the monasteries of St. Peter and Paul in Northumbria, in what is today northeastern
@@ -295,9 +303,13 @@
                <placeName>Caesaream vero Palestinae</placeName> ab Aelia quamvis aliqua reperriantur
             angusta et brevia aspera loca, praecipue tamen planities camporum interpositis olivetis.
             Distant autem LXXV milibus passuum.<ab type="source" source="#bib308-1"/>
+        <note xml:lang="en" type="textual">Ed. Fraipont 1965</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
-        <note xml:lang="en" type="textual">Ed. Fraipont 1965</note>
+        
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote308-2">
         <anchor xml:id="testimonia-308.en.1" corresp="#testimonia-308.la.1"/>
@@ -306,10 +318,13 @@
             certain areas, and the valleys extending as far as the Thamnic region are full of thorny
             vegetation. But from Aelia to Caesarea Palestinae, although here and there can be found
             rough spots over narrow, short stretches, by and large the plains are flat, with olive
-            trees spread about. The distance is 75 miles.<note xml:lang="en" type="translation">Trans. J. L. Rife
-               </note>
+            trees spread about. The distance is 75 miles.
         <idno type="CTS-URN"/>
         <ref/>
+      <note xml:lang="en" type="translation">Trans. J. L. Rife
+               </note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
       </ab>
          <listBibl>
         <head>Works Cited</head>
@@ -317,6 +332,54 @@
           <ptr target="https://caesarea-maritima.org/bibl/NEQT55KW"/>
           <citedRange unit="ch">5</citedRange>
           <citedRange unit="section">3-9</citedRange>
+        </bibl>
+      <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

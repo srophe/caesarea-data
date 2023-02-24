@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -16,6 +18,10 @@
             <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
         </respStmt>
         <respStmt>
           <resp>Electronic text added by</resp>
@@ -297,10 +303,14 @@
                <placeName>Καισάρεια Στράτωνος</placeName> ξϛ° δʹ λβ° ͵ʹ Ἀπολλωνία ξϛ° λβ° δʹ Ἰόππη
             ξε° γοʹ λβ° ιβʹ Ἰαμνιτῶν λιμήν ξε° λβ° Ἄζωτος ξε° δʹ λα° ͵γʹ Ἀσκαλών ξε° λα° γοʹ Γαζαίων
             λιμήν ξδ° ͵γιβʹ λα° ͵ʹ Ἀνθηδών ξδ° ͵γʹ λα° γοʹ<ab type="source" source="#bib305-1"/>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
         <note xml:lang="en" type="textual">Ed. Stückelberger
                and Graßhoff 2006</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote305-2">
         <anchor xml:id="testimonia-305.en.1" corresp="#testimonia-305.grc.1"/>
@@ -314,10 +324,13 @@
                <placeName>Caesarea Stratonis</placeName> 66° 15ʹ 32° 30ʹ Apollonia 66° 32° 15ʹ Ioppe
             65° 40ʹ 32° 05ʹ Iamnia (port) 65° 32° Azotus 65° 15ʹ 31° 50ʹ Ascalon 65° 31° 40ʹ Gaza
             (port) 64° 55ʹ 31° 30ʹ Anthedon 64° 50ʹ 31° 40ʹ<ab type="source" source="#bib305-2"/>
-        <idno type="CTS-URN"/>
-        <ref/>
         <note xml:lang="en" type="translation">Trans. J. L.
                Rife with ref. to Stevenson 1932 and Stückelberger and Graßhoff 2006</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref/>
+        
       </ab>
          <listBibl>
         <head>Works Cited</head>
@@ -329,6 +342,49 @@
         <bibl xml:id="bib305-2">
           <ptr target="https://caesarea-maritima.org/bibl/EUA7LHJK"/>
           <citedRange unit="p">128</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

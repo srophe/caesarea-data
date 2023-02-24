@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -16,6 +18,10 @@
             <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
         </respStmt>
         <respStmt>
           <resp>Electronic text added by</resp>
@@ -279,7 +285,11 @@
         <quote>
           <placeName>Caesaream
                Palaestinae</placeName>
-        </quote>, <quote><placeName>Caesarea</placeName></quote>, and <quote><placeName>Caesarea Palestinae</placeName></quote> are directly attested at <persName role="author">Theodosius</persName>, <title xml:lang="en" ref="" type="uniform" level="m">The Holy Land</title> <ref n="a" target="#bib390-1">4.7-4.12</ref>. This passage was written ca. <origDate notBefore="0510" notAfter="0540" period="#byzantine">510-540 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
+        </quote>, <quote>
+          <placeName>Caesarea</placeName>
+        </quote>, and <quote>
+          <placeName>Caesarea Palestinae</placeName>
+        </quote> are directly attested at <persName role="author">Theodosius</persName>, <title xml:lang="en" ref="" type="uniform" level="m">The Holy Land</title> <ref n="a" target="#bib390-1">4.7-4.12</ref>. This passage was written ca. <origDate notBefore="0510" notAfter="0540" period="#byzantine">510-540 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
          <desc type="context">We know almost nothing about Theodosius, who wrote an account of his
             pilgrimage to the Holy Land in the first half of the 6th century, at some point between
             the reigns of Anastasius and Justinian. His short narrative, which includes brief but
@@ -292,9 +302,13 @@
                Palaestinae</placeName> milia XXX; ibi baptizatus est domnus Cornelius a domno Petro
             et martyrizatus est. De <placeName>Caesarea</placeName> usque in Diocaesarea milia XXX;
             inde fuit Symon magus. De Diocaesarea usque in Canan Galilaea milia V.<ab type="source" source="#bib390-1"/>
+        <note xml:lang="en" type="textual">Ed. Geyer 1965</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref/>
-        <note xml:lang="en" type="textual">Ed. Geyer 1965</note>
+        
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote390-2">
         <anchor xml:id="testimonia-390.en.1" corresp="#testimonia-390.la.1"/>It is 12 miles from Diospolis to Joppa, where St. Peter brought St.
@@ -302,15 +316,66 @@
             miles from Joppa to <placeName>Caesarea Palestinae</placeName>; there lord Cornelius was
             baptized by lord Peter and martyred. It is 30 miles from <placeName>Caesarea</placeName>
             as far as Diocaesarea; Simon Magus was there. It is 5 miles from Diocaesarea as far as
-            Cana in Galilee. <note xml:lang="en" type="translation">Trans. J. L. Rife </note>
+            Cana in Galilee. 
         <idno type="CTS-URN"/>
         <ref target=""/>
+      <note xml:lang="en" type="translation">Trans. J. L. Rife </note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
       </ab>
          <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib390-1">
           <ptr target="https://caesarea-maritima.org/bibl/NASAVU3J"/>
           <citedRange unit="ch">4.7-4.12</citedRange>
+        </bibl>
+      <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
       <note type="related-texts">

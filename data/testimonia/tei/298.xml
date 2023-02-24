@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -17,6 +19,10 @@
         <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
         </respStmt>
         <respStmt>
           <resp>Electronic text added by</resp>
@@ -277,7 +283,11 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/298</idno>
       </ab>
       <desc type="abstract" xml:id="abstract298-1">
-        <quote><placeName>Καισάρεια</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/306432747" role="author">John Phocas</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Short Description of the Holy
+        <quote>
+          <placeName>Καισάρεια</placeName>
+        </quote>, and <quote>
+          <placeName>Caesarea</placeName>
+        </quote> are directly attested at <persName ref="http://viaf.org/viaf/306432747" role="author">John Phocas</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Short Description of the Holy
                Places</title> <ref n="a" target="#bib298-1">30</ref>. This passage was written ca. <origDate notBefore="1175" notAfter="1195" period="#crusader">1175-1195 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
       <desc type="context">John Phocas wrote an account of his pilgrimage to the Holy Land during
             the last quarter of the 12th century. He was an educated priest probably from the
@@ -294,11 +304,15 @@
             ἐπαρκέσασα χεὶρ τῇ τούτου κατασκεύῃ. ἐν ταύτῃ Χρίστος τοὺς ἀποστόλους ἠρώτα, “Τίνα με
             λέγουσιν οἱ ἄνθρωποι τὸν υἱὸν τοῦ ἀνθρώπου;” καὶ ὁ Πέτρος “σὺ εἶ ὁ Χριστὸς ὁ υἱὸς τοῦ
             θεοῦ” πρὸς αὐτὸν ἀπεκρίντο, τὸ τῆς ἀγάπης ἐντεῦθεν διάπυρον ἐνδεικνύμενος.<ab type="source" source="#bib298-1"/>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
         <note xml:lang="en" type="textual">Ed. Allatius 1875</note>
+        <note xml:lang="en" type="textual"/>
         <note xml:lang="en" type="discussion">Bibliotheca
                Vallicelliana Romae 158 (Chios, 15th century)</note>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        
+        
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote298-2">
         <anchor xml:id="testimonia-298.en.1" corresp="#testimonia-298.grc.1"/>Beyond this region (sc. around Ramla) is <placeName>Caesarea</placeName> Philippi, a large and populous city, founded on the
@@ -306,9 +320,12 @@
             expenditure having been incurred by Herod for its construction. Here Christ asked the
             Apostles, “ Whom do people say that I, the Son of man, am?” And Peter answered him, “You
             are the Christ, the Son of God,” demonstrating thereby the fervor of his love.<ab type="source" source="#bib298-2"/>
+        <note xml:lang="en" type="translation">Adapted from Stewart 1896</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
-        <note xml:lang="en" type="translation">Adapted from Stewart 1896</note>
+        
       </ab>
       <listBibl>
         <head>Works Cited</head>
@@ -326,6 +343,41 @@
         <head>Additional Bibliography</head>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/7WXPB4DA"/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

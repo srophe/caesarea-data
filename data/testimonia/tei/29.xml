@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -20,6 +22,10 @@
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L.
           Potter</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
         </respStmt>
         <respStmt>
           <resp>Electronic text added by</resp>
@@ -284,16 +290,34 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/29</idno>
       </ab>
       <desc type="abstract" xml:id="abstract29-1">
-        <quote><placeName xml:lang="grc">Καισαρεῖς</placeName></quote>, <quote><placeName xml:lang="grc">τὴν Καισάρειαν</placeName></quote>, <quote><placeName xml:lang="grc">τῆς Καισαρείας</placeName></quote>, <quote><placeName xml:lang="grc">Καισάρειαν</placeName></quote>, and <quote><placeName xml:lang="en">Cesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/22143666" role="author">Josephus</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg004" type="uniform" level="m">The Jewish War</title> <ref n="n" target="#bib29-1">2.449-2.460</ref>. This passage was written ca. <origDate period="#nabateanKingdom #earlyRoman #herodian" notBefore="0070" notAfter="0090">70 - 90 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+        <quote>
+          <placeName xml:lang="grc">Καισαρεῖς</placeName>
+        </quote>, <quote>
+          <placeName xml:lang="grc">τὴν Καισάρειαν</placeName>
+        </quote>, <quote>
+          <placeName xml:lang="grc">τῆς Καισαρείας</placeName>
+        </quote>, <quote>
+          <placeName xml:lang="grc">Καισάρειαν</placeName>
+        </quote>, and <quote>
+          <placeName xml:lang="en">Cesarea</placeName>
+        </quote> are directly attested at <persName ref="http://viaf.org/viaf/22143666" role="author">Josephus</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg004" type="uniform" level="m">The Jewish War</title> <ref n="n" target="#bib29-1">2.449-2.460</ref>. This passage was written ca. <origDate period="#nabateanKingdom #earlyRoman #herodian" notBefore="0070" notAfter="0090">70 - 90 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+      <desc type="context"/>
       <ab type="edition" xml:lang="grc" xml:id="quote29-1">
         <anchor xml:id="testimonia-29.grc.1" corresp="#testimonia-29.en.1"/>
         Ὁ μὲν οὖν δῆμος, ὡς ἔφην, εἰς ταῦτα συνήργησεν ἐλπίζων τινὰ τῆς ὅλης στάσεως διόρθωσιν: οἱ δ᾽ οὐ καταλῦσαι τὸν πόλεμον σπεύδοντες, ἀλλ᾽ ἀδεέστερον πολεμεῖν Μανάημον ἀνῃρήκεσαν. ἀμέλει πολλὰ τοῦ δήμου τοῖς στρατιώταις ἀνεῖναι τὴν πολιορκίαν παρακαλοῦντος, οἱ δὲ προσέκειντο χαλεπώτερον, μέχρι μηκέτι ἀντέχοντες οἱ περὶ τὸν Μετίλιον, οὗτος γὰρ ἦν τῶν Ῥωμαίων ἔπαρχος, διαπέμπονται πρὸς τοὺς περὶ τὸν Ἐλεάζαρον ἐξαιτούμενοι μόνας τὰς ψυχὰς ὑποσπόνδους, τὰ δ᾽ ὅπλα καὶ τὴν λοιπὴν κτῆσιν παραδώσειν λέγοντες. οἱ δὲ καὶ τὴν ἱκεσίαν ἁρπάσαντες ἀνέπεμψαν πρὸς αὐτοὺς Γωρίονά τε Νικομήδους υἱὸν καὶ Ἀνανίαν Σαδούκι καὶ Ἰούδαν Ἰωνάθου δεξιάν τε καὶ ὅρκους δώσοντας. ὧν γενομένων κατῆγεν τοὺς στρατιώτας ὁ Μετίλιος. οἱ δὲ μέχρι μὲν ἦσαν ἐν τοῖς ὅπλοις, οὔτ᾽ ἐπεχείρει τις τῶν στασιαστῶν αὐτοῖς οὔτ᾽ ἐνέφαινεν ἐπιβουλήν: ὡς δὲ κατὰ τὰς συνθήκας ἅπαντες ἀπέθεντο τοὺς θυρεοὺς καὶ τὰ ξίφη καὶ μηδὲν ἔτι ὑποπτεύοντες ἀνεχώρουν, ὥρμησαν ἐπ᾽ αὐτοὺς οἱ περὶ τὸν Ἐλεάζαρον καὶ περισχόντες ἀνῄρουν οὔτε ἀμυνομένους οὔτε ἱκετεύοντας, μόνας δὲ τὰς συνθήκας καὶ τοὺς ὅρκους ἀναβοῶντας. οἱ μὲν οὖν οὕτως ὠμῶς ἀπεσφάγησαν ἅπαντες πλὴν Μετιλίου, τοῦτον γὰρ ἱκετεύσαντα καὶ μέχρι περιτομῆς ἰουδαΐσειν ὑποσχόμενον διέσωσαν μόνον, τὸ δὲ πάθος Ῥωμαίοις μὲν ἦν κοῦφον, ἐκ γὰρ ἀπλέτου δυνάμεως ἀπαναλώθησαν ὀλίγοι, Ἰουδαίων δὲ προοίμιον ἁλώσεως ἔδοξεν. καὶ κατιδόντες ἀνηκέστους μὲν ἤδη τὰς αἰτίας τοῦ πολέμου, τὴν δὲ πόλιν τηλικούτῳ μιάσματι πεφυρμένην, ἐξ οὗ δαιμόνιόν τι μήνιμα προσδοκᾶν εἰκὸς ἦν, εἰ καὶ μὴ τὴν ἐκ Ῥωμαίων ἄμυναν, ἐπένθουν δημοσίᾳ, καὶ πλήρης μὲν κατηφείας ἦν ἡ πόλις, ἕκαστος δὲ τῶν μετρίων ὡς αὐτὸς ὑπὲρ τῶν στασιαστῶν δίκας δώσων τετάρακτο. καὶ γὰρ δὴ σαββάτῳ συνέβη πραχθῆναι τὸν φόνον, ἐν ᾧ διὰ τὴν θρησκείαν καὶ τῶν ὁσίων ἔργων ἔχουσιν ἐκεχειρίαν. Τῆς δ᾽ αὐτῆς ἡμέρας καὶ ὥρας ὥσπερ ἐκ δαιμονίου προνοίας ἀνῄρουν <placeName xml:lang="grc">Καισαρεῖς</placeName> τοὺς παρ᾽ ἑαυτοῖς Ἰουδαίους, ὡς ὑπὸ μίαν ὥραν ἀποσφαγῆναι μὲν ὑπὲρ δισμυρίους, κενωθῆναι δὲ πᾶσαν Ἰουδαίων <placeName xml:lang="grc">τὴν Καισάρειαν</placeName> : καὶ γὰρ τοὺς διαφεύγοντας ὁ Φλῶρος συλλαβὼν κατῆγεν δεσμώτας εἰς τὰ νεώρια. πρὸς δὲ τὴν ἐκ <placeName xml:lang="grc">τῆς Καισαρείας</placeName> πληγὴν ὅλον τὸ ἔθνος ἐξαγριοῦται, καὶ διαμερισθέντες τάς τε κώμας τῶν Σύρων καὶ τὰς προσεχούσας ἐπόρθουν πόλεις, Φιλαδέλφειάν τε καὶ Ἐσεβωνῖτιν καὶ Γέρασα καὶ Πέλλαν καὶ Σκυθόπολιν. ἔπειτα Γαδάροις καὶ Ἵππῳ καὶ τῇ Γαυλανίτιδι προσπεσόντες τὰ μὲν καταστρεψάμενοι, τὰ δ᾽ ὑποπρήσαντες ἐχώρουν ἐπὶ Κάδασα τὴν Τυρίων καὶ Πτολεμαΐδα Γάβαν τε καὶ <placeName xml:lang="grc">Καισάρειαν</placeName>. ἀντέσχον δὲ οὔτε Σεβαστὴ ταῖς ὁρμαῖς αὐτῶν οὔτε Ἀσκάλων, ἀλλ᾽ ἐπὶ ταύταις πυρποληθείσαις Ἀνθηδόνα καὶ Γάζαν κατέσκαπτον. πολλαὶ δὲ καθ᾽ ἑκάστην τούτων τῶν πόλεων ἀνηρπάζοντο κῶμαι, καὶ τῶν ἁλισκομένων ἀνδρῶν φόνος ἦν ἄπειρος.<ab type="source" source="#bib29-1"/>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg0526.tlg004.perseus-grc1:2.449-2.460</idno>
         <ref target="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-grc1:2.449-2.460"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote29-2">
         <anchor xml:id="testimonia-29.en.1" corresp="#testimonia-29.grc.1"/>
         And, as I said, so far truly the people assisted them, while they hoped this might afford some amendment to the seditious practices; but the others were not in haste to put an end to the war, but hoped to prosecute it with less danger, now they had slain Manahem. It is true, that when the people earnestly desired that they would leave off besieging the soldiers, they were the more earnest in pressing it forward, and this till Metilius, who was the Roman general, sent to Eleazar, and desired that they would. give them security to spare their lives only; but agreed to deliver up their arms, and what else they had with them. The others readily complied with their petition, sent to them Gorion, the son of Nicodemus, and Ananias, the son of Sadduk, and Judas, the son of Jonathan, that they might give them the security Of their right hands, and of their oaths; after which Metilius brought down his soldiers; which soldiers, while they were in arms, were not meddled with by any of the seditious, nor was there any appearance of treachery; but as soon as, according to the articles of capitulation, they had all laid down their shields and their swords, and were under no further suspicion of any harm, but were going away, Eleazar's men attacked them after a violent manner, and encompassed them round, and slew them, while they neither defended themselves, nor entreated for mercy, but only cried out upon the breach of their articles of capitulation and their oaths. And thus were all these men barbarously murdered, excepting Metilius; for when he entreated for mercy, and promised that he would turn Jew, and be circumcised, they saved him alive, but none else. This loss to the Romans was but light, there being no more than a few slain out of an immense army; but still it appeared to be a prelude to the Jews' own destruction, while men made public lamentation when they saw that such occasions were afforded for a war as were incurable; that the city was all over polluted with such abominations, from which it was but reasonable to expect some vengeance, even though they should escape revenge from the Romans; so that the city was filled with sadness, and every one of the moderate men in it were under great disturbance, as likely themselves to undergo punishment for the wickedness of the seditious; for indeed it so happened that this murder was perpetrated on the sabbath day, on which day the Jews have a respite from their works on account of Divine worship. NOW the people of <placeName xml:lang="en">Cesarea</placeName> had slain the Jews that were among them on the very same day and hour [when the soldiers were slain], which one would think must have come to pass by the direction of Providence; insomuch that in one hour's time above twenty thousand Jews were killed, and all <placeName xml:lang="en">Cesarea</placeName> was emptied of its Jewish inhabitants; for Florus caught such as ran away, and sent them in bonds to the galleys. Upon which stroke that the Jews received at <placeName xml:lang="en">Cesarea</placeName>, the whole nation was greatly enraged; so they divided themselves into several parties, and laid waste the villages of the Syrians, and their neighboring cities, Philadelphia, and Sebonitis, and Gerasa, and Pella, and Scythopolis, and after them Gadara, and Hippos; and falling upon Gaulonitis, some cities they destroyed there, and some they set on fire, and then went to Kedasa, belonging to the Tyrians, and to Ptolemais, and to Gaba, and to <placeName xml:lang="en">Cesarea</placeName>; nor was either Sebaste [Samaria] or Askelon able to oppose the violence with which they were attacked; and when they had burnt these to the ground; they entirely demolished Anthedon and Gaza; many also of the villages that were about every one of those cities were plundered, and an immense slaughter was made of the men who were caught in them.<ab type="source" source="#bib29-2"/>
+        <note xml:lang="en" type="translation">Trans. {Source}</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:2.449-457</idno>
         <ref target="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:2.449-457"/>
       </ab>
@@ -344,6 +368,36 @@
             <forename>Flavius</forename>
             <surname>Josephus</surname>
           </author>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

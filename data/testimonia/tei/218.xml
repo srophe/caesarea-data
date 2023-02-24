@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -17,6 +19,10 @@
         <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
         </respStmt>
         <respStmt>
           <resp>Electronic text added by</resp>
@@ -278,10 +284,18 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/218</idno>
       </ab>
       <desc type="abstract" xml:id="abstract218-1">
-        <quote><placeName>Καισαρείᾳ τῆς Παλαιστίνης</placeName></quote>, <quote><placeName>Καισαρείᾳ</placeName></quote>, <quote>
+        <quote>
+          <placeName>Καισαρείᾳ τῆς Παλαιστίνης</placeName>
+        </quote>, <quote>
+          <placeName>Καισαρείᾳ</placeName>
+        </quote>, <quote>
           <placeName>Caesarea
           Palestinae</placeName>
-        </quote>, <quote><placeName>Caesarea</placeName></quote>, and <quote><placeName>Caesarea Palestinae</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/13108540">Constantine
+        </quote>, <quote>
+          <placeName>Caesarea</placeName>
+        </quote>, and <quote>
+          <placeName>Caesarea Palestinae</placeName>
+        </quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/13108540">Constantine
                Porphyrogenitus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Plots</title> <ref n="b" target="#bib218-1">173.13-29</ref>. This passage was written ca. <origDate notBefore="0930" notAfter="0955" period="#earlyIslamic">930-955 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
       <desc type="context">Constantine VII Flavius Porphyrogenitus (“born in the purple”) ruled the
         Byzantine emperor as a member of the Macedonian dynasty in 913-959 C.E. Beyond the
@@ -306,10 +320,14 @@
             τὸν φόνον τοῦ Στεφάνου. ὁ δὲ Ἀμάντιος ἐλθὼν ἐν <placeName>Καισαρείᾳ</placeName> ἤρξατο
             ζητεῖν τοὺς πεποιηκότας τὸν φόνον, καὶ εὑρὼν τοὺς μὲν ἐφούρκισε, τοὺς δὲ ἀπεκεφάλισεν,
             ἑτέρους δὲ ἐχειροκόπησε, τοὺς δὲ ἐδήμευσε· καὶ ἐγένετο φόβος μέγας ἐν <placeName>Καισαρείᾳ τῆς Παλαιστίνης</placeName>.<ab type="source" source="#bib218-1"/>
-        <idno type="CTS-URN"/>
-        <ref/>
         <note xml:lang="en" type="textual">Ed. de Boor
                1905</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref/>
+        
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote218-2">
         <anchor xml:id="testimonia-218.en.1" corresp="#testimonia-218.grc.1"/>
@@ -325,10 +343,13 @@
         murderer of Stephanos. Amantios came to <placeName>Caesarea</placeName> and began searching
         for those who had committed the murders. When he found them, he hanged some, beheaded
         others, cut off the right hands of others, and confiscated the property of others. And there
-        was great fear in <placeName>Caesarea Palestinae</placeName>.<note xml:lang="en" type="translation">Trans.
-          J. L. Rife</note>
+        was great fear in <placeName>Caesarea Palestinae</placeName>.
         <idno type="CTS-URN"/>
         <ref target=""/>
+      <note xml:lang="en" type="translation">Trans.
+          J. L. Rife</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
       </ab>
       <listBibl>
         <head>Works Cited</head>
@@ -336,6 +357,54 @@
           <ptr target="https://caesarea-maritima.org/bibl/6PJ9W9WZ"/>
           <citedRange unit="p">173.13-29</citedRange>
           <citedRange unit="bk">3.48</citedRange>
+        </bibl>
+      <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

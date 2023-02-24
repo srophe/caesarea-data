@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -20,6 +22,10 @@
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L.
           Potter</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
         </respStmt>
         <respStmt>
           <resp>Electronic text added by</resp>
@@ -285,15 +291,23 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/28</idno>
       </ab>
       <desc type="abstract" xml:id="abstract28-1"> is directly attested at <persName ref="http://viaf.org/viaf/22143666" role="author">Josephus</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg004" type="uniform" level="m">The Jewish War</title> <ref target="#bib28-1">2.409-2.413</ref>. This passage was written circa <origDate period="#nabateanKingdom #earlyRoman #herodian" notBefore="0070" notAfter="0090">70 - 90 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+      <desc type="context"/>
       <ab type="edition" xml:lang="grc" xml:id="quote28-1">
         <anchor xml:id="testimonia-28.grc.1" corresp="#testimonia-28.en.1"/>
         ἅμα δὲ καὶ κατὰ τὸ ἱερὸν Ἐλεάζαρος υἱὸς Ἀνανία τοῦ ἀρχιερέως, νεανίας θρασύτατος, στρατηγῶν τότε τοὺς κατὰ τὴν λατρείαν λειτουργοῦντας ἀναπείθει μηδενὸς ἀλλοτρίου δῶρον ἢ θυσίαν προσδέχεσθαι. τοῦτο δ᾽ ἦν τοῦ πρὸς Ῥωμαίους πολέμου καταβολή: τὴν γὰρ ὑπὲρ τούτων θυσίαν Καίσαρος ἀπέρριψαν. καὶ πολλὰ τῶν τε ἀρχιερέων καὶ τῶν γνωρίμων παρακαλούντων μὴ παραλιπεῖν τὸ ὑπὲρ τῶν ἡγεμόνων ἔθος οὐκ ἐνέδοσαν, πολὺ μὲν καὶ τῷ σφετέρῳ πλήθει πεποιθότες, καὶ γὰρ τὸ ἀκμαιότατον τῶν νεωτεριζόντων συνήργει, μάλιστα δ᾽ ἀφορῶντες εἰς τὸν Ἐλεάζαρον στρατηγοῦντα. Συνελθόντες γοῦν οἱ δυνατοὶ τοῖς ἀρχιερεῦσιν εἰς ταὐτὸ καὶ τοῖς τῶν Φαρισαίων γνωρίμοις ὡς ἐπ᾽ ἀνηκέστοις ἤδη συμφοραῖς ἐβουλεύοντο περὶ τῶν ὅλων: καὶ δόξαν ἀποπειραθῆναι τῶν στασιαστῶν λόγοις πρὸ τῆς χαλκῆς πύλης ἀθροίζουσι τὸν δῆμον, ἥτις ἦν τοῦ ἔνδον ἱεροῦ τετραμμένη πρὸς ἀνατολὰς ἡλίου. καὶ πρῶτον αὐτῶν πολλὰ πρὸς τὴν τόλμαν τῆς ἀποστάσεως χαλεπήναντες καὶ τὸ τηλικοῦτον ἐπισείειν τῇ πατρίδι πόλεμον, ἔπειτα τὸ τῆς προφάσεως ἄλογον διήλεγχον, φάμενοι τοὺς μὲν προγόνους αὐτῶν κεκοσμηκέναι τὸν ναὸν ἐκ τῶν ἀλλοφύλων τὸ πλέον ἀεὶ προσδεχομένους τὰς ἀπὸ τῶν ἔξωθεν ἐθνῶν δωρεάς, αὶ οὐ μόνον οὐ διακεκωλυκέναι θυσίας τινῶν, τοῦτο μὲν γὰρ ἀσεβέστατον, ἀλλὰ καὶ τὰ βλεπόμενα καὶ τὰ παραμένοντα τοσοῦτον χρόνον ἀναθήματα περὶ τῷ ἱερῷ καθιδρυκέναι.<ab type="source" source="#bib28-1"/>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg0526.tlg004.perseus-grc1:2.409-2.413</idno>
         <ref target="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-grc1:2.409-2.413"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote28-2">
         <anchor xml:id="testimonia-28.en.1" corresp="#testimonia-28.grc.1"/>
         At the same time Eleazar, the son of Ananias the high priest, a very bold youth, who was at that time governor of the temple, persuaded those that officiated in the Divine service to receive no gift or sacrifice for any foreigner. And this was the true beginning of our war with the Romans; for they rejected the sacrifice of Caesar on this account; and when many of the high priests and principal men besought them not to omit the sacrifice, which it was customary for them to offer for their princes, they would not be prevailed upon. These relied much upon their multitude, for the most flourishing part of the innovators assisted them; but they had the chief regard to Eleazar, the governor of the temple. Hereupon the men of power got together, and conferred with the high priests, as did also the principal of the Pharisees; and thinking all was at stake, and that their calamities were becoming incurable, took counsel what was to be done. Accordingly, they determined to try what they could do with the seditious by words, and assembled the people before the brazen gate, which was that gate of the inner temple [court of the priests] which looked toward the sun-rising. And, in the first place, they showed the great indignation they had at this attempt for a revolt, and for their bringing so great a war upon their country; after which they confuted their pretense as unjustifiable, and told them that their forefathers had adorned their temple in great part with donations bestowed on them by foreigners, and had always received what had been presented to them from foreign nations; and that they had been so far from rejecting any person's sacrifice (which would be the highest instance of impiety,) that they had themselves placed those donation about the temple which were still visible, and had remained there so long a time;<ab type="source" source="#bib28-2"/>
+        <note xml:lang="en" type="translation">Trans. {Source}</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:2.409-2.411</idno>
         <ref target="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:2.409-2.411"/>
       </ab>
@@ -344,6 +358,36 @@
             <forename>Flavius</forename>
             <surname>Josephus</surname>
           </author>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

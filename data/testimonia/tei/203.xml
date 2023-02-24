@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -18,6 +20,10 @@
             <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
         </respStmt>
         <respStmt>
           <resp>Electronic text added by</resp>
@@ -281,7 +287,11 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/203</idno>
          </ab>
          <desc type="abstract" xml:id="abstract203-1">
-        <quote><placeName>Caesaream Palestine</placeName></quote>, and <quote><placeName>Caesarea Palestinae</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/100899506" role="author">Burchard of Mt.
+        <quote>
+          <placeName>Caesaream Palestine</placeName>
+        </quote>, and <quote>
+          <placeName>Caesarea Palestinae</placeName>
+        </quote> are directly attested at <persName ref="http://viaf.org/viaf/100899506" role="author">Burchard of Mt.
                Sion</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Description of the Holy
                Land</title> <ref n="b" target="#bib203-1">7.17</ref>. This passage was written ca. <origDate notBefore="1274" notAfter="1285" period="#crusader">1274-1285 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
          <desc type="context">Burchard of Mt. Sion was a Dominican friar from Magdeburg in Lower
@@ -303,9 +313,13 @@
             usque ad mare Ioppes et Antipatridem et <placeName>Caesaream Palestine</placeName>, per
             totum quoque montem Effraym usque Ramathaym Sophim et ad Carmelum maris iuxta Accon. Et
             habundat fontibus et ortis et olivetis et bonis omnibus que requirit mundus iste.<ab type="source" source="#bib203-1"/>
+        <note xml:lang="en" type="textual">Ed. Laurent 1873</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
-        <note xml:lang="en" type="textual">Ed. Laurent 1873</note>
+        
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote203-2">
         <anchor xml:id="testimonia-203.en.1" corresp="#testimonia-203.la.1"/>
@@ -319,9 +333,12 @@
             over the entire Mount Ephraim as far as Ramathaim Zophim, and to Carmel by the sea near
             Acre. It abounds with springs, gardens, olive groves, and all the good things that an
             honest man requires.<ab type="source" source="#bib203-2"/>
+        <note xml:lang="en" type="translation">Adapted from Pringle 2018</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
-        <note xml:lang="en" type="translation">Adapted from Pringle 2018</note>
+        
       </ab>
          <listBibl>
         <head>Works Cited</head>
@@ -334,6 +351,49 @@
           <ptr target="https://caesarea-maritima.org/bibl/JPPNQCCZ"/>
           <citedRange unit="ch">7.17</citedRange>
           <citedRange unit="p">277</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

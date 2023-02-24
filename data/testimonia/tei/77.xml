@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -19,6 +21,10 @@
         <resp>TEI encoding by</resp>
         <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
       </respStmt>
+        <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
+        </respStmt>
         <respStmt>
         <resp>Electronic text added by</resp>
         <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
@@ -280,13 +286,21 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/77</idno>
       </ab>
       <desc type="abstract" xml:id="abstract77-1"> is directly attested at <persName ref="http://viaf.org/viaf/305863610" role="author">Luke the Evangelist</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg0031.tlg005" type="uniform" level="m">Acts</title> <ref target="#bib77-1">24.1-24.27</ref>. This passage was written circa <origDate period="#nabateanKingdom #earlyRoman" notBefore="0080" notAfter="0090">80 – 90 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
+      <desc type="context"/>
       <ab type="edition" xml:lang="grc" xml:id="quote77-1">
         <anchor xml:id="testimonia-77.grc.1" corresp="#testimonia-77.en.1"/>Μετὰ δὲ πέντε ἡμέρας κατέβη ὁ ἀρχιερεὺς Ἁνανίας μετὰ πρεσβυτέρων τινῶν καὶ ῥήτορος Τερτύλλου τινός, οἵτινες ἐνεφάνισαν τῷ ἡγεμόνι κατὰ τοῦ Παύλου. κληθέντος δὲ [αὐτοῦ] ἤρξατο κατηγορεῖν ὁ Τέρτυλλος λέγων Πολλῆς εἰρήνης τυγχάνοντες διὰ σοῦ καὶ διορθωμάτων γινομένων τῷ ἔθνει τούτῳ διὰ τῆς σῆς προνοίας πάντῃ τε καὶ πανταχοῦ ἀποδεχόμεθα, κράτιστε Φῆλιξ, μετὰ πάσης εὐχαριστίας. ἵνα δὲ μὴ ἐπὶ πλεῖόν σε ἐνκόπτω, παρακαλῶ ἀκοῦσαί σε ἡμῶν συντόμως τῇ σῇ ἐπιεικίᾳ. εὑρόντες γὰρ τὸν ἄνδρα τοῦτον λοιμὸν καὶ κινοῦντα στάσεις πᾶσι τοῖς Ἰουδαίοις τοῖς κατὰ τὴν οἰκουμένην πρωτοστάτην τε τῆς τῶν Ναζωραίων αἱρέσεως, ὃς καὶ τὸ ἱερὸν ἐπείρασεν βεβηλῶσαι, ὃν καὶ ἐκρατήσαμεν, παρʼ οὗ δυνήσῃ αὐτὸς ἀνακρίνας περὶ πάντων τούτων ἐπιγνῶναι ὧν ἡμεῖς κατηγοροῦμεν αὐτοῦ. συνεπέθεντο δὲ καὶ οἱ Ἰουδαῖοι φάσκοντες ταῦτα οὕτως ἔχειν. Ἀπεκρίθη τε ὁ Παῦλος νεύσαντος αὐτῷ τοῦ ἡγεμόνος λέγειν Ἐκ πολλῶν ἐτῶν ὄντα σε κριτὴν τῷ ἔθνει τούτῳ ἐπιστάμενος εὐθύμως τὰ περὶ ἐμαυτοῦ ἀπολογοῦμαι, δυναμένου σου ἐπιγνῶναι, ὅτι οὐ πλείους εἰσίν μοι ἡμέραι δώδεκα ἀφʼ ἧς ἀνέβην προσκυνήσων εἰς Ἰερουσαλήμ, καὶ οὔτε ἐν τῷ ἱερῷ εὗρόν με πρός τινα διαλεγόμενον ἢ ἐπίστασιν ποιοῦντα ὄχλου οὔτε ἐν ταῖς συναγωγαῖς οὔτε κατὰ τὴν πόλιν, οὐδὲ παραστῆσαι δύνανταί σοι περὶ ὧν νυνὶ κατηγοροῦσίν μου. ὁμολογῶ δὲ τοῦτό σοι ὅτι κατὰ τὴν ὁδὸν ἣν λέγουσιν αἵρεσιν οὕτως λατρεύω τῷ πατρῴῳ θεῷ, πιστεύων πᾶσι τοῖς κατὰ τὸν νόμον καὶ τοῖς ἐν τοῖς προφήταις γεγραμμένοις, ἐλπίδα ἔχων εἰς τὸν θεόν, ἣν καὶ αὐτοὶ οὗτοι προσδέχονται, ἀνάστασιν μέλλειν ἔσεσθαι δικαίων τε καὶ ἀδίκων· ἐν τούτῳ καὶ αὐτὸς ἀσκῶ ἀπρόσκοπον συνείδησιν ἔχειν πρὸς τὸν θεὸν καὶ τοὺς ἀνθρώπους διὰ παντός. διʼ ἐτῶν δὲ πλειόνων ἐλεημοσύνας ποιήσων εἰς τὸ ἔθνος μου παρεγενόμην καὶ προσφοράς, ἐν αἷς εὗρόν με ἡγνισμένον ἐν τῷ ἱερῷ, οὐ μετὰ ὄχλου οὐδὲ μετὰ θορύβου, τινὲς δὲ ἀπὸ τῆς Ἀσίας Ἰουδαῖοι, οὓς ἔδει ἐπὶ σοῦ παρεῖναι καὶ κατηγορεῖν εἴ τι ἔχοιεν πρὸς ἐμέ,— ἢ αὐτοὶ οὗτοι εἰπάτωσαν τί εὗρον ἀδίκημα στάντος μου ἐπὶ τοῦ συνεδρίου ἢ περὶ μιᾶς ταύτης φωνῆς ἧς ἐκέκραξα ἐν αὐτοῖς ἑστὼς ὅτι Περὶ ἀναστάσεως νεκρῶν ἐγὼ κρίνομαι σήμερον ἐφʼ ὑμῶν. Ἀνεβάλετο δὲ αὐτοὺς ὁ Φῆλιξ, ἀκριβέστερον εἰδὼς τὰ περὶ τῆς ὁδοῦ, εἴπας Ὅταν Λυσίας ὁ χιλίαρχος καταβῇ διαγνώσομαι τὰ καθʼ ὑμᾶς· διαταξάμενος τῷ ἑκατοντάρχῃ τηρεῖσθαι αὐτὸν ἔχειν τε ἄνεσιν καὶ μηδένα κωλύειν τῶν ἰδίων αὐτοῦ ὑπηρετεῖν αὐτῷ. Μετὰ δὲ ἡμέρας τινὰς παραγενόμενος ὁ Φῆλιξ σὺν Δρουσίλλῃ τῇ ἰδίᾳ γυναικὶ οὔσῃ Ἰουδαίᾳ μετεπέμψατο τὸν Παῦλον καὶ ἤκουσεν αὐτοῦ περὶ τῆς εἰς Χριστὸν Ἰησοῦν πίστεως. διαλεγομένου δὲ αὐτοῦ περὶ δικαιοσύνης καὶ ἐγκρατείας καὶ τοῦ κρίματος τοῦ μέλλοντος ἔμφοβος γενόμενος ὁ Φῆλιξ ἀπεκρίθη Τὸ νῦν ἔχον πορεύου, καιρὸν δὲ μεταλαβὼν μετακαλέσομαί σε· ἅμα καὶ ἐλπίζων ὅτι χρήματα δοθήσεται [αὐτῷ] ὑπὸ τοῦ Παύλου· διὸ καὶ πυκνότερον αὐτὸν μεταπεμπόμενος ὡμίλει αὐτῷ. Διετίας δὲ πληρωθείσης ἔλαβεν διάδοχον ὁ Φῆλιξ Πόρκιον Φῆστον· θέλων τε χάριτα καταθέσθαι τοῖς Ἰουδαίοις ὁ Φῆλιξ κατέλιπε τὸν Παῦλον δεδεμένον.<ab type="source" source="#bib77-1"/>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg0031.tlg005.perseus-grc2:24.1-24.27</idno>
         <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg0031.tlg005.perseus-grc2:24.1-24.27"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote77-2">
         <anchor xml:id="testimonia-77.en.1" corresp="#testimonia-77.grc.1"/>"After five days, the high priest, Ananias, came down with certain elders and an orator, one Tertullus. They informed the governor against Paul. When he was called, Tertullus began to accuse him, saying, "Seeing that by you we enjoy much peace, and that excellent measures are coming to this nation, we accept it in all ways and in all places, most excellent Felix, with all thankfulness. But, that I don't delay you, I entreat you to bear with us and hear a few words. For we have found this man to be a plague, an instigator of insurrections among all the Jews throughout the world, and a ringleader of the sect of the Nazarenes. He even tried to profane the temple. We arrested him. By examining him yourself you may ascertain all these things of which we accuse him." The Jews also joined in the attack, affirming that these things were so. When the governor had beckoned to him to speak, Paul answered, "Because I know that you have been a judge of this nation for many years, I cheerfully make my defense, seeing that you can recognize that it is not more than twelve days since I went up to worship at Jerusalem. In the temple they didn't find me disputing with anyone or stirring up a crowd, either in the synagogues, or in the city. Nor can they prove to you the things whereof they now accuse me. But this I confess to you, that after the Way, which they call a sect, so I serve the God of our fathers, believing all things which are according to the law, and which are written in the prophets; having hope toward God, which these also themselves look for, that there will be a resurrection of the dead, both of the just and unjust. Herein I also practice always having a conscience void of offense toward God and men. Now after some years, I came to bring gifts to the needy to my nation, and offerings; amid which certain Jews from Asia found me purified in the temple, with no crowd, nor yet with tumult. They ought to have been here before you, and to make accusation, if they had anything against me. Or else let these men themselves say what injustice they found in me when I stood before the council, unless it is for this one thing that I cried standing among them, 'Concerning the resurrection of the dead I am being judged before you today!'" But Felix, having more exact knowledge concerning the Way, deferred them, saying, "When Lysias, the commanding officer, comes down, I will decide your case." He ordered the centurion that Paul should be kept in custody, and should have some privileges, and not to forbid any of his friends to serve him or to visit him. But after some days, Felix came with Drusilla, his wife, who was a Jewess, and sent for Paul, and heard him concerning the faith in Christ Jesus. As he reasoned about righteousness, self-control, and the judgment to come, Felix was terrified, and answered, "Go your way for this time, and when it is convenient for me, I will summon you." He hoped that way that money would be given to him by Paul, that he might release him. Therefore also he sent for him more often, and talked with him. But when two years were fulfilled, Felix was succeeded by Porcius Festus, and desiring to gain favor with the Jews, Felix left Paul in bonds."<ab type="source" source="#bib77-2"/>
+        <note xml:lang="en" type="translation">Trans. {Source}</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg0031.tlg005.perseus-eng2:24.1-24.27</idno>
         <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg0031.tlg005.perseus-eng2:24.1-24.27"/>
       </ab>
@@ -310,6 +324,36 @@
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/A8CENJCA"/>
           <citedRange unit="section">24.1-24.27</citedRange>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

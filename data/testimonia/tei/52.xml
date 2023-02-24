@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -16,6 +18,10 @@
             <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
         </respStmt>
         <respStmt>
           <resp>Electronic text added by</resp>
@@ -277,7 +283,11 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/52</idno>
          </ab>
          <desc type="abstract" xml:id="abstract52-1">
-        <quote><placeName>Caesareas</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/25396473">Eutropius</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Short History</title> <ref n="a" target="#bib52-1">7.10.3</ref>. This passage was written ca. <origDate notBefore="0367" notAfter="0369" period="#byzantine">367-369 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+        <quote>
+          <placeName>Caesareas</placeName>
+        </quote>, and <quote>
+          <placeName>Caesarea</placeName>
+        </quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/25396473">Eutropius</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Short History</title> <ref n="a" target="#bib52-1">7.10.3</ref>. This passage was written ca. <origDate notBefore="0367" notAfter="0369" period="#byzantine">367-369 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
          <desc type="context">Eutropius was a scholar of uncertain origin (Italy or Asia Minor?) who
             served the Imperial court in Constantinople during the second half of the 4th century.
             During the reign of Valens he wrote a condensed survey of Roman history
@@ -289,9 +299,13 @@
         Tanto autem amore etiam apud barbaros fuit, ut reges populi Romani amici
             in honorem eius conderent civitates, quas <placeName>Caesareas</placeName> nominarent,
             sicut in Mauritania a rege Iuba, et in Palaestina, quae nunc urbs est clarissima.<ab type="source" source="#bib52-1"/>
+        <note xml:lang="en" type="textual">Ed. Droysen 1879</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target="https://www.dmgh.de/mgh_auct_ant_2/index.htm#page/120/mode/1up"/>
-        <note xml:lang="en" type="textual">Ed. Droysen 1879</note>
+        
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote52-2">
         <anchor xml:id="testimonia-52.en.1" corresp="#testimonia-52.la.1"/>
@@ -300,9 +314,12 @@
             founded cities in his honor which were called <placeName>Caesarea</placeName>, such as
             the one in Mauretania (established) by king Juba, and the one in Palestine, which is now
             a very famous city.<ab type="source" source="#bib52-2"/>
+        <note xml:lang="en" type="translation">Rev. Bird 1993</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
-        <note xml:lang="en" type="translation">Rev. Bird 1993</note>
+        
       </ab>
          <listBibl>
         <head>Works Cited</head>
@@ -312,6 +329,49 @@
         </bibl>
         <bibl xml:id="bib52-2">
           <ptr target="https://caesarea-maritima.org/bibl/4VRDQQ2G"/>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

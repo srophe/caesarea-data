@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,6 +25,10 @@
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L.
             Potter</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
         </respStmt>
         <respStmt>
           <resp>Electronic text added by</resp>
@@ -296,7 +302,9 @@
         <quote>
           <placeName>τὴν Καίσαρος
         πόλιν</placeName>
-        </quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="https://viaf.org/viaf/8181546" role="author">Evagrius Scholasticus </persName>, <title xml:lang="en" type="uniform" level="m">Church
+        </quote>, and <quote>
+          <placeName>Caesarea</placeName>
+        </quote> are directly attested at <persName ref="https://viaf.org/viaf/8181546" role="author">Evagrius Scholasticus </persName>, <title xml:lang="en" type="uniform" level="m">Church
           History</title> <ref n="b" target="#bib163-1">4.7a</ref>. This passage was written ca. <origDate notBefore="0593" notAfter="0598" period="#byzantine">593-598 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/658381">Antioch on the
         Orontes</origPlace>.</desc>
       <desc type="context">Evagrius Scholasticus came from a background of wealth and education in
@@ -324,9 +332,13 @@
         καὶ πάντα τὸν χῶρον ἐν ᾧ καθειστήκεισαν ἐπιθυμιάσας ἐπὶ γῆς ἑαυτὸν ῥίπτει, προσευχαῖς τε καὶ
         λιταῖς τὸν θεὸν ἱλεούμενος. Εἶτα πυνθανομένου τοῦ Ἀρκεσιλάου τί ἄρα τὸ οὕτω διαταράξαν εἴη,
         διαρρήδην εἶπε τὴν ἠχὴν τῆς Ἀντιόχου πτώσεως αὐτίκα τὰ ὦτά οἱ περιβομβῆσαι.<ab type="source" source="#bib163-1"/>
+        <note xml:lang="en" type="textual">Ed. Bidez and Parmentier 1898</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target="https://babel.hathitrust.org/cgi/pt?id=hvd.ah3vvp&amp;view=1up&amp;seq=182"/>
-        <note xml:lang="en" type="textual">Ed. Bidez and Parmentier 1898</note>
+        
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote163-2">
         <anchor xml:id="testimonia-163.en.1" corresp="#testimonia-163.grc.1"/>But since we have
@@ -347,10 +359,13 @@
         and appeased God with prayers and entreaties. Next, when Arcesilaus inquired what indeed it
         was that was so distressing, he clearly said that the cry of the fall of the city of
         Antiochus had just then echoed around his ears.<ab type="source" source="#bib163-2"/>
-        <idno type="CTS-URN"/>
-        <ref/>
         <note xml:lang="en" type="translation">Rev. Whitby
           2000</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref/>
+        
       </ab>
       <listBibl>
         <head>Works Cited</head>
@@ -361,6 +376,49 @@
         <bibl xml:id="bib163-2">
           <ptr target="https://caesarea-maritima.org/bibl/MZDGW83Y"/>
           <citedRange unit="p">205-206</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">
