@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="en" level="a">Eusebius of Caesarea, <title level="m">Historia ecclesiastica</title> 8.7.1</title>
+        <title xml:lang="en" level="a">Eusebius of Caesarea, <title level="m">Ecclesiastical History</title> 8.7.1</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
         <sponsor>Vanderbilt University</sponsor>
         <principal>Joseph L. Rife</principal>
@@ -260,7 +260,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Historia ecclesiastica</title>
+      <creation>This entry is taken from <title ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Ecclesiastical History</title>
         <ref n="h" target="#bib119-1">8.7.1</ref> written by <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName> in <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</creation>
       <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
@@ -284,7 +284,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/119</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract119-1"> is directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>, <title ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Historia ecclesiastica</title> <ref target="#bib119-1">8.7.1</ref>. This passage was written circa <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract119-1"> is directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>, <title ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Ecclesiastical History</title> <ref target="#bib119-1">8.7.1</ref>. This passage was written circa <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote119-1">
         <anchor xml:id="testimonia-119.grc.1" corresp="#testimonia-119.en.1"/>Ἴσμεν γοῦν τοὺς ἐξ αὐτῶν διαλάμψαντας ἐν Παλαιστίνῃ, ἴσμεν δὲ καὶ τοὺς ἐν Τύρῳ τῆς Φοινίκης, οὓς τίς ἰδὼν οὐ κατεπλάγη τὰς ἀναριθμήτους μάστιγας, καὶ τὰς ἐν τούτοις τῶν ὡς ἀληθῶς παραδόξων τῆς θεοσεβείας ἀθλητῶν ἐνστάσεις, τόν τε παραχρῆμα μετὰ τὰς μάστιγας ἐν θηρσὶν αἱμοβόροις ἀγῶνα, καὶ τὰς ἐν τούτῳ παρδάλεων καὶ διαφόρων ἄρκτων, συῶν τε ἀγρίων καὶ πυρὶ καὶ σιδήρῳ κεκαυτηριασμένων βοῶν προσβολὰς, καὶ τὰς πρὸς ἕκαστον τῶν θηρίων θαυμασίους τῶν γενναίων ὑπομονάς;<ab type="source" source="#bib119-1"/>
         <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg002.1st1K-grc2:8.7.1</idno>

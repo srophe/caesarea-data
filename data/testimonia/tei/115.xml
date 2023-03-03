@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="en" level="a">Eusebius of Caesarea, <title level="m">Historia ecclesiastica</title> 7.15</title>
+        <title xml:lang="en" level="a">Eusebius of Caesarea, <title level="m">Ecclesiastical History</title> 7.15</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
         <sponsor>Vanderbilt University</sponsor>
         <principal>Joseph L. Rife</principal>
@@ -255,7 +255,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Historia ecclesiastica</title>
+      <creation>This entry is taken from <title ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Ecclesiastical History</title>
         <ref n="d" target="#bib115-1">7.15</ref> written by <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName> in <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</creation>
       <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
@@ -280,7 +280,7 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/115</idno>
       </ab>
       <desc type="abstract" xml:id="abstract115-1">
-        <quote><placeName xml:lang="grc">Καισαρείᾳ</placeName></quote>, and <quote><placeName xml:lang="en">Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>, <title ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Historia ecclesiastica</title> <ref n="d" target="#bib115-1">7.15</ref>. This passage was written ca. <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
+        <quote><placeName xml:lang="grc">Καισαρείᾳ</placeName></quote>, and <quote><placeName xml:lang="en">Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>, <title ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Ecclesiastical History</title> <ref n="d" target="#bib115-1">7.15</ref>. This passage was written ca. <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote115-1">
         <anchor xml:id="testimonia-115.grc.1" corresp="#testimonia-115.en.1"/>Κατὰ τούτους εἰρήνης ἁπανταχοῦ τῶν ἐκκλησιῶν οὔσης, ἐν <placeName xml:lang="grc">Καισαρείᾳ</placeName> τῆς Παλαιστίνης Μαρῖνος τῶν ἐν στρατείαις ἀξιώμασιτετιμημένων, γένει τε καὶ πλούτῳ περιφανὴς ἀνὴρ, διὰ τὴν Χριστοῦ μαρτυρίαν τὴν κεφαλὴν ἀποτέμνεται, τοιᾶσδε ἕνεκεν αἰτίας. τιμή τίς ἐστι παρὰ Ρωμαίοις τὸ κλῆμα, οὗ τοὺς τυχόντας φασὶν γίνεσθαι. τόπου σχολάζοντος, ἐπὶ τοῦτο προκοπῆς τὸν Μαρῖνον ἡ τοῦ βαθμοῦ τάξις ἐκάλει. ἤδη τε μέλλοντα τῆς τιμῆς ἔχεσθαι, παρελθὼν ἄλλος πρὸ τοῦ βήματος, μὴ ἐξεῖναι μὲν ἐκείνῳ τῆς Ρωμαίων μετέχειν ἀξίας κατὰ τοὺς παλαιοὺς νόμους, Χριστιανῷ γε ὄντι καὶ τοῖς βασιλεῦσι μὴ θύοντι, κατηγόρει· αὐτῷ δὲ ἐπιβάλλειν τὸν κλῆρον. ἐφ ᾧ κινηθέντα τὸν δικαστὴν (Ἀχαιὸς οὗτος ἦν) πρῶτον μὲν ἐρέσθαι ποίας ὁ Μαρῖνος εἴη γνώμης. ὡς δ ὁμολογοῦντα Χριστιανὸν ἐπιμόνως ἑώρα, τριῶν ὡρῶν ἐπιδοῦναι αὐτῷ εἰς ἐπίσκεψιν διάστημα. ἐκτὸς δῆτα γενόμενον αὐτὸν τοῦ δικαστηρίου Θεότεκνος ὁ τῇδε ἐπίσκοπος ἀφέλκει προσελθὼν δι ὁμιλίας, καὶ τῆς χειρὸς λαβὼν ἐπὶ τὴν ἐκκλησίαν προάγει, εἴσω τε πρὸς αὐτῷ στήσας τῷ ἁγιάσματι, μικρόν τι παραναστείλας αὐτοῦ τῆς χλαμύδος καὶ τὸ προσηρτημένον αὐτῷ ξίφος ἐπιδείξας, ἅμα τε ἀντιπαρατίθησι προσαγαγὼν αὐτῷ τὴν τῶν θείων εὐαγγελίων γραφὴν, κελεύσας τῶν δυεῖν ἑλέσθαι τὸ κατὰ γνώμην. ὡς δ ἀμελλητὶ τὴν δεξιὰν προτείνας ἐδέξατο τὴν θείαν γραφὴν, “ἔχου τοίνυν, ἔχου,” φησὶ πρὸς αὐτὸν ὁ Θεότεκνος, “τοῦ θεοῦ, καὶ τύχοις ὧν εἵλου, πρὸς αὐτοῦ δυναμούμενος, καὶ βάδιζε μετ εἰρήνης.” εὐθὺς ἐκεῖθεν ἐπανελθόντα αὐτὸν κῆρυξ ἐβόα καλῶν πρὸ τοῦ δικαστηρίου· καὶ γὰρ ἤδη τὰ τῆς προθεσμίας τοῦ χρόνου πεπλήρωτο. καὶ δὴ παραστὰς τῷ δικαστηρίῳ, καὶ μείζονα τῆς πίστεως τὴν προθυμίαν ἐπιδείξας, εὐθὺς, ὡς εἶχεν, ἀπαχθεὶς τὴν ἐπὶ θανάτῳ τελειοῦται.<ab type="source" source="#bib115-1"/>
         <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg002.1st1K-grc2:7.15</idno>
