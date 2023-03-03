@@ -2,7 +2,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="en" level="a">Eusebius, <title level="m">Dictionary of Place Names</title> 78</title>
+            <title xml:lang="en" level="a">Eusebius of Caesarea, <title level="m">Dictionary of Place Names</title> 78</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
             <sponsor>Vanderbilt University</sponsor>
             <principal>Joseph L. Rife</principal>
@@ -253,7 +253,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Dictionary of Place Names</title> <ref n="a" target="#bib129-1">78</ref> written by <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius</persName> in <origDate notBefore="0290" notAfter="0325" period="#lateRoman #byzantine">290-325 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Dictionary of Place Names</title> <ref n="a" target="#bib129-1">78</ref> written by <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName> in <origDate notBefore="0290" notAfter="0325" period="#lateRoman #byzantine">290-325 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
         <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>
@@ -277,7 +277,7 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/129</idno>
          </ab>
          <desc type="abstract" xml:id="abstract129-1">
-        <quote><placeName>Καισάρειαν τῆς Παλαιστίνης</placeName></quote>, and <quote><placeName>Caesarea Palestinae</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Dictionary of Place Names</title> <ref n="a" target="#bib129-1">78</ref>. This passage was written ca. <origDate notBefore="0290" notAfter="0325" period="#lateRoman #byzantine">290-325 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</desc>
+        <quote><placeName>Καισάρειαν τῆς Παλαιστίνης</placeName></quote>, and <quote><placeName>Caesarea Palestinae</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Dictionary of Place Names</title> <ref n="a" target="#bib129-1">78</ref>. This passage was written ca. <origDate notBefore="0290" notAfter="0325" period="#lateRoman #byzantine">290-325 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</desc>
          <desc type="context">In his lexicon of place names in Hebrew Scripture, Eusebius wrote that
             Dor of Nafath named at <title>Joshua</title> 11:12 is located near Caesarea Maritima. He
             also cited the Greek translation of by Symmachus in the late 2nd century C.E. The same
