@@ -375,6 +375,33 @@
           <citedRange unit="p">166-167, 326-327</citedRange>
         </bibl>
       </listBibl>
+        <listRef type="related-texts">
+          <desc>Related Texts</desc>
+          <ref target="https://caesarea-maritima.org/testimonia/131">Eusebius, Life of Constantine 4.35-4.37</ref>
+          <ref target="https://caesarea-maritima.org/testimonia/321">* Gelasius of Cyzicus, Church History 3.4.1-3.4.5</ref>
+          <ref>Nicephorus Callistus Xanthopoulos, Church History 8.27 (I 590)</ref>
+          <ref target="https://caesarea-maritima.org/testimonia/374">Theodoret of Cyrrhus, Church History 1.16.1-1.16.4</ref>
+          <ref>Cassiodorus, Church History 2.16.1-2.16.5</ref>
+        </listRef>
+        <listRef type="geography">
+          <desc>Geography</desc>
+          <ref target="https://pleiades.stoa.org/places/520998">Constantinople</ref>
+        </listRef>
+        <listRef type="prosopography">
+          <desc>Prosopography</desc>
+          <ref target="http://www.wikidata.org/entity/Q8413">Constantine I, emperor</ref>
+          <ref target="http://www.wikidata.org/entity/Q142999">Eusebius of Caesarea</ref>
+        </listRef>
+        <listRef type="themes">
+          <desc>Themes</desc>
+          <ref target="http://id.loc.gov/authorities/subjects/sh85013576">Christian Bible</ref>
+          <ref target="http://id.loc.gov/authorities/subjects/sh85025219">Christianity</ref>
+          <ref>Culture and Society</ref>
+          <ref target="http://id.loc.gov/authorities/subjects/sh85112630">Education (sacred)</ref>
+          <ref>Government and Law</ref>
+          <ref target="http://id.loc.gov/authorities/subjects/sh85137149">Travel</ref>
+        </listRef>
+      <!-- 
       <note type="related-texts">
         <p>* Eusebius, Life of Constantine 4.35-4.37</p>
         <p>* Gelasius of Cyzicus, Church History 3.4.1-3.4.5</p>
@@ -397,6 +424,7 @@
         <p>Education (sacred)</p>
         <p>Government and Law</p>
       </note>
+        -->
     </body>
    </text>
 </TEI>
