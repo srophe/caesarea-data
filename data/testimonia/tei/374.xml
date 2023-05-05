@@ -256,7 +256,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Church History</title> <ref target="#bib374-1">1.15.3-1.16.4</ref> written by <persName ref=" http://viaf.org/viaf/77111352" role="author">Theodoret</persName> in <origDate notBefore="0449" notAfter="0458" period="#byzantine">449-458 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/658446">Cyrrhus</origPlace>.</creation>
+        <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Church History</title> <ref target="#bib374-1">1.15.3-1.16.4</ref> written by <persName ref=" http://viaf.org/viaf/77111352" role="author">Theodoret of Cyrrhus</persName> in <origDate notBefore="0449" notAfter="0458" period="#byzantine">449-458 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/658446">Cyrrhus</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
         <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>
