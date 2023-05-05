@@ -268,7 +268,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Institutes</title> <ref target="#bib448-1">2.8.2</ref> written by <persName role="author" ref="http://viaf.org/viaf/88881722">Justinian</persName> in <origDate when="0533" period="#byzantine">533 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Institutes</title> <ref target="#bib448-1">2.8.2</ref> written by <persName role="author" ref="http://viaf.org/viaf/88881722">Justinian I</persName> in <origDate when="0533" period="#byzantine">533 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="la">Latin</language>
         <language ana="#caesarea-language-of-original" ident="la">Latin</language>
