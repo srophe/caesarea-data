@@ -260,7 +260,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Ecclesiastical History</title>
+      <creation>This entry is taken from <title ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Church History</title>
         <ref n="f" target="#bib117-1">7.32.21</ref> written by <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName> in <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</creation>
       <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
