@@ -258,7 +258,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:greekLit:tlg4029.tlg002" type="uniform" level="m">Secret History</title> <ref n="a" target="#bib53-1">11.24-11.30</ref> written by <persName ref="http://viaf.org/viaf/100172302" role="author">Procopius</persName> in <origDate notBefore="0550" notAfter="0560" period="#byzantine">550-560 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:greekLit:tlg4029.tlg002" type="uniform" level="m">Secret History</title> <ref n="a" target="#bib53-1">11.24-11.30</ref> written by <persName ref="http://viaf.org/viaf/100172302" role="author">Procopius of Caesarea</persName> in <origDate notBefore="0550" notAfter="0560" period="#byzantine">550-560 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
       <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
         <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>
