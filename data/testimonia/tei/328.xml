@@ -254,7 +254,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:greekLit:tlg2111.tlg001" type="uniform" level="m">History for Lausus</title> <ref n="b" target="#bib328-1">70</ref> written by <persName ref="http://viaf.org/viaf/61550437" role="author">Palladius of
+        <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:greekLit:tlg2111.tlg001" type="uniform" level="m">Lausiac History</title> <ref n="b" target="#bib328-1">70</ref> written by <persName ref="http://viaf.org/viaf/61550437" role="author">Palladius of
                Galatia</persName> in <origDate notBefore="0419" notAfter="0420" period="#byzantine">419-420 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/619161">Aspuna</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
