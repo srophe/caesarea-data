@@ -318,8 +318,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Pseudo-Clementine
-               Recognitions</title> <ref n="a" target="#bib416-1">2.62.3-2.63.3</ref> written by <persName ref="" role="author">Pseudo-Clement of Rome</persName> in <origDate notBefore="0220" notAfter="0373" period="#lateRoman #byzantine">220-373 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/658457">Edessa?</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Recognitions</title> <ref n="a" target="#bib416-1">2.62.3-2.63.3</ref> written by <persName ref="" role="author">Pseudo-Clement of Rome</persName> in <origDate notBefore="0220" notAfter="0373" period="#lateRoman #byzantine">220-373 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/658457">Edessa?</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="syr">Syriac</language>
         <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>
