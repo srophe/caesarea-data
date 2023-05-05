@@ -252,7 +252,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Booklet on Holy Places</title> <ref n="a" target="#bib251-1">1298-1301</ref> written by <persName role="author" ref="http://viaf.org/viaf/7379102">Dietrich</persName> in <origDate notBefore="1170" notAfter="1173" period="#crusader">1170-1173 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">The Holy Places</title> <ref n="a" target="#bib251-1">1298-1301</ref> written by <persName role="author" ref="http://viaf.org/viaf/7379102">Dietrich</persName> in <origDate notBefore="1170" notAfter="1173" period="#crusader">1170-1173 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</creation>
       <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="la">Latin</language>
         <language ana="#caesarea-language-of-original" ident="la">Latin</language>
