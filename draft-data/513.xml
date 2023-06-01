@@ -7,12 +7,24 @@
             <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
             <sponsor>Vanderbilt University</sponsor>
             <principal>Joseph L. Rife</principal>
-            <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
-            <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#plieberman">Phillip I. Lieberman</editor>
-            <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#dmichelson">David A. Michelson</editor>
-            <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#dmichelson">David A. Michelson</editor>
-            <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
-            <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</editor>
+            <editor role="general"
+               ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L.
+               Rife</editor>
+            <editor role="general"
+               ref="https://caesarea-maritima.org/documentation/editors.xml#plieberman">Phillip I.
+               Lieberman</editor>
+            <editor role="general"
+               ref="https://caesarea-maritima.org/documentation/editors.xml#dmichelson">David A.
+               Michelson</editor>
+            <editor role="technical"
+               ref="https://caesarea-maritima.org/documentation/editors.xml#dmichelson">David A.
+               Michelson</editor>
+            <editor role="technical"
+               ref="https://caesarea-maritima.org/documentation/editors.xml#dschwartz">Daniel L.
+               Schwartz</editor>
+            <editor role="technical"
+               ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L.
+               Potter</editor>
             <!-- Static metadata -->
             <respStmt>
                <resp>Testimonium identified by</resp>
@@ -20,15 +32,15 @@
             </respStmt>
             <respStmt>
                <resp>Testimonium transcribed by</resp>
-               <name ref="jrife"/>
+               <name ref="dmichelson"/>
             </respStmt>
             <respStmt>
                <resp>Testimonium translated by</resp>
-               <name ref="jrife"/>
+               <name ref="dmichelson"/>
             </respStmt>
             <respStmt>
                <resp>TEI record created by</resp>
-               <name ref="jrife"/>
+               <name ref="dmichelson"/>
             </respStmt>
             <respStmt>
                <resp>Testimonium edited by</resp>
@@ -45,58 +57,134 @@
          </titleStmt>
          <editionStmt>
             <edition n="1.0"/>
-         </editionStmt><!-- Static metadata -->
+         </editionStmt>
+         <!-- Static metadata -->
          <publicationStmt>
-            <authority>Caesarea City and Port Exploration Project</authority><!-- Static metadata -->
-            <idno type="URI"/><!-- Just need numerical sequence -->
+            <authority>Caesarea City and Port Exploration Project</authority>
+            <!-- Static metadata -->
+            <idno type="URI">513</idno>
+            <!-- Just need numerical sequence -->
             <availability>
                <licence target="http://creativecommons.org/licenses/by/4.0">
-                  <p>Except for materials quoted from other sources, this entry is copyright DATE by the contributors (Joseph L. Rife, et al.) and the Caesarea City and Port Exploration Project. It is licensed under the Attribution 4.0 International (CC BY 4.0) license.</p> <p>Some texts quoted in this entry may be in the public domain in the United States. No copyright is asserted for these quotations.</p> <p>Some texts quoted in this entry may have copyright restrictions and are reused under Section 107 of the Copyright Act of 1976 (Title 17 of the United States Code) which permits “fair use” of copyrighted materials for purposes such as criticism, comment, scholarship, and research. These texts remain under copyright of their owners. No copyright infringement is intended.</p>
+                  <p>Except for materials quoted from other sources, this entry is copyright DATE by
+                     the contributors (Joseph L. Rife, et al.) and the Caesarea City and Port
+                     Exploration Project. It is licensed under the Attribution 4.0 International (CC
+                     BY 4.0) license.</p>
+                  <p>Some texts quoted in this entry may be in the public domain in the United
+                     States. No copyright is asserted for these quotations.</p>
+                  <p>Some texts quoted in this entry may have copyright restrictions and are reused
+                     under Section 107 of the Copyright Act of 1976 (Title 17 of the United States
+                     Code) which permits “fair use” of copyrighted materials for purposes such as
+                     criticism, comment, scholarship, and research. These texts remain under
+                     copyright of their owners. No copyright infringement is intended.</p>
                </licence>
             </availability>
-            <date/><!-- add via post-processing -->
+            <date/>
+            <!-- add via post-processing -->
          </publicationStmt>
          <seriesStmt>
             <title level="s" xml:lang="en">Caesarea-Maritima.org: A Digital Archive</title>
-            <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
-            <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#plieberman">Phillip I. Lieberman</editor>
-            <editor role="general" ref="https://caesarea-maritima.org/documentation/editors.xml#dmichelson">David A. Michelson</editor>
-         </seriesStmt><!-- Static metadata -->
+            <editor role="general"
+               ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L.
+               Rife</editor>
+            <editor role="general"
+               ref="https://caesarea-maritima.org/documentation/editors.xml#plieberman">Phillip I.
+               Lieberman</editor>
+            <editor role="general"
+               ref="https://caesarea-maritima.org/documentation/editors.xml#dmichelson">David A.
+               Michelson</editor>
+         </seriesStmt>
+         <!-- Static metadata -->
          <sourceDesc>
             <p>Born digital.</p>
-         </sourceDesc><!-- Static metadata -->
+         </sourceDesc>
+         <!-- Static metadata -->
       </fileDesc>
       <encodingDesc>
          <editorialDecl>
-            <p>Authors of testimonia are identified with URIs from The Virtual International Authority File, see <ref target="http://viaf.org">http://viaf.org</ref>. When multiple VIAF URIs exist, preference has been given to VIAF record linked to the Library of Congress authority file.</p>
-            <p>Geographic locations are identified with URIs from Pleiades: A Gazetteer of Past Places, see <ref target="https://pleiades.stoa.org/docs">https://pleiades.stoa.org/docs</ref>.</p>
-            <p>When possible, textual works have been cited using URNs according to the Distributed Text Services (DTS) system, see <ref target="https://distributed-text-services.github.io/specifications">https://distributed-text-services.github.io/specifications</ref>. Additional identifiers have been adopted from the systems used by the Perseus Digital Library (<ref target="http://www.perseus.tufts.edu/hopper">http://www.perseus.tufts.edu/hopper</ref>), Syriaca.org (<ref target="http://syriaca.org">http://syriaca.org</ref>), and other relevant authority systems such as WorldCat Identities or OCLC numbers (<ref target="https://www.worldcat.org">https://www.worldcat.org</ref>).</p>
-            <p>Bibliographic items are identified by a unique Caesarea-Maritima.org URI, which is linked, when possible, to OCLC numbers and other identifiers.</p>
-            <p>Dates have been encoded following the ISO 8601 standard, <ref target="https://www.iso.org/iso-8601-date-and-time-format.html">https://www.iso.org/iso-8601-date-and-time-format.html</ref>, and the best practices established for the Srophé App, see <ref target="http://srophe.app">http://srophe.app</ref>.</p>
-            <p>Languages have been encoded using ISO 639-1 (<ref target="https://www.iso.org/standard/22109.html">https://www.iso.org/standard/22109.html</ref>), 639-2 (<ref target="https://www.iso.org/standard/4767.html">https://www.iso.org/standard/4767.html</ref>), and 639-3 (<ref target="https://www.iso.org/standard/39534.html">https://www.iso.org/standard/39534.html</ref>) codes, following best practices of the TEI guidelines, see <ref target="https://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html">https://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html</ref>.</p>
-         </editorialDecl><!-- Static metadata -->
+            <p>Authors of testimonia are identified with URIs from The Virtual International
+               Authority File, see <ref target="http://viaf.org">http://viaf.org</ref>. When
+               multiple VIAF URIs exist, preference has been given to VIAF record linked to the
+               Library of Congress authority file.</p>
+            <p>Geographic locations are identified with URIs from Pleiades: A Gazetteer of Past
+               Places, see <ref target="https://pleiades.stoa.org/docs"
+                  >https://pleiades.stoa.org/docs</ref>.</p>
+            <p>When possible, textual works have been cited using URNs according to the Distributed
+               Text Services (DTS) system, see <ref
+                  target="https://distributed-text-services.github.io/specifications"
+                  >https://distributed-text-services.github.io/specifications</ref>. Additional
+               identifiers have been adopted from the systems used by the Perseus Digital Library
+                  (<ref target="http://www.perseus.tufts.edu/hopper"
+                  >http://www.perseus.tufts.edu/hopper</ref>), Syriaca.org (<ref
+                  target="http://syriaca.org">http://syriaca.org</ref>), and other relevant
+               authority systems such as WorldCat Identities or OCLC numbers (<ref
+                  target="https://www.worldcat.org">https://www.worldcat.org</ref>).</p>
+            <p>Bibliographic items are identified by a unique Caesarea-Maritima.org URI, which is
+               linked, when possible, to OCLC numbers and other identifiers.</p>
+            <p>Dates have been encoded following the ISO 8601 standard, <ref
+                  target="https://www.iso.org/iso-8601-date-and-time-format.html"
+                  >https://www.iso.org/iso-8601-date-and-time-format.html</ref>, and the best
+               practices established for the Srophé App, see <ref target="http://srophe.app"
+                  >http://srophe.app</ref>.</p>
+            <p>Languages have been encoded using ISO 639-1 (<ref
+                  target="https://www.iso.org/standard/22109.html"
+                  >https://www.iso.org/standard/22109.html</ref>), 639-2 (<ref
+                  target="https://www.iso.org/standard/4767.html"
+                  >https://www.iso.org/standard/4767.html</ref>), and 639-3 (<ref
+                  target="https://www.iso.org/standard/39534.html"
+                  >https://www.iso.org/standard/39534.html</ref>) codes, following best practices of
+               the TEI guidelines, see <ref
+                  target="https://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html"
+                  >https://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html</ref>.</p>
+         </editorialDecl>
+         <!-- Static metadata -->
          <classDecl>
             <taxonomy xml:id="CM-Testimonia-Type">
-                <desc>
-                <title>Caesarea-Maritima.org Testimonia Typology</title>: This typology defines three subsets of testimonia employed by the project and is used in the <gi>catRef</gi> below to further categorize a given testimonia record.
-                </desc>
-                <category xml:id="direct">
-                    <catDesc>A "direct testimonium" contains a word or phrase that is a direct reference to, or name for, the conceptual place Caeseara Maritima or its environs in part or in whole. When a "direct testimonium" also contains indirect references, the classification by type is nevertheless marked only as "direct".</catDesc>
-                </category>
-                <category xml:id="indirect">
-                    <catDesc>An "indirect testimonium" makes only an indirect reference to the conceptual place Caeseara Maritima or its environs in part or in whole. This indirect reference may take the form of a common noun or may be implied by context.</catDesc>
-                </category>
-                <category xml:id="toponymic-epithet">
-                    <catDesc>A "toponymic testimonium" contains a toponymic epithet related to the conceptual place Caeseara Maritima or its environs. When a "direct testimonium" also contain a "toponymic testimonium", the testimonium is marked as belonging to both types. These two types do not always overlap and thus our data set also includes "toponymic testimonia" which are not "direct testimonia".</catDesc>
-                </category> 
+               <desc>
+                  <title>Caesarea-Maritima.org Testimonia Typology</title>: This typology defines
+                  three subsets of testimonia employed by the project and is used in the
+                     <gi>catRef</gi> below to further categorize a given testimonia record. </desc>
+               <category xml:id="direct">
+                  <catDesc>A "direct testimonium" contains a word or phrase that is a direct
+                     reference to, or name for, the conceptual place Caeseara Maritima or its
+                     environs in part or in whole. When a "direct testimonium" also contains
+                     indirect references, the classification by type is nevertheless marked only as
+                     "direct".</catDesc>
+               </category>
+               <category xml:id="indirect">
+                  <catDesc>An "indirect testimonium" makes only an indirect reference to the
+                     conceptual place Caeseara Maritima or its environs in part or in whole. This
+                     indirect reference may take the form of a common noun or may be implied by
+                     context.</catDesc>
+               </category>
+               <category xml:id="toponymic-epithet">
+                  <catDesc>A "toponymic testimonium" contains a toponymic epithet related to the
+                     conceptual place Caeseara Maritima or its environs. When a "direct testimonium"
+                     also contain a "toponymic testimonium", the testimonium is marked as belonging
+                     to both types. These two types do not always overlap and thus our data set also
+                     includes "toponymic testimonia" which are not "direct testimonia".</catDesc>
+               </category>
             </taxonomy>
             <taxonomy xml:id="CM-Language-Usage">
-               <desc>The <title>Caesarea-Maritima.org Language Usage</title> taxonomy describes how language codes applied to individual testimonia records should be interpreted. These are used in the <att>ana</att> attributes in the elements found in the <gi>langUsage</gi>.</desc>
+               <desc>The <title>Caesarea-Maritima.org Language Usage</title> taxonomy describes how
+                  language codes applied to individual testimonia records should be interpreted.
+                  These are used in the <att>ana</att> attributes in the elements found in the
+                     <gi>langUsage</gi>.</desc>
                <category xml:id="caesarea-language-of-original">
-                  <catDesc>The original language of a testimonia's composition, which may differ from the linguistic expression recorded in the testimonia record. For example, Severus of Antioch's Letters were originally composed in Greek but survive only in an ancient Syriac translation. The testimonia representing the Syriac version of Severus's Letters would use this category to record the original language, Greek</catDesc>
+                  <catDesc>The original language of a testimonia's composition, which may differ
+                     from the linguistic expression recorded in the testimonia record. For example,
+                     Severus of Antioch's Letters were originally composed in Greek but survive only
+                     in an ancient Syriac translation. The testimonia representing the Syriac
+                     version of Severus's Letters would use this category to record the original
+                     language, Greek</catDesc>
                </category>
                <category xml:id="caesarea-language-of-testimonia">
-                  <catDesc>The linguistic expression recorded in this particular testimonia record, which may differ from the original language of composition. For example, Severus of Antioch's Letters were originally composed in Greek but survive only in an ancient Syriac translation. The testimonia representing the Syriac version of Severus's Letters would use this category to record the language, Syriac</catDesc>
+                  <catDesc>The linguistic expression recorded in this particular testimonia record,
+                     which may differ from the original language of composition. For example,
+                     Severus of Antioch's Letters were originally composed in Greek but survive only
+                     in an ancient Syriac translation. The testimonia representing the Syriac
+                     version of Severus's Letters would use this category to record the language,
+                     Syriac</catDesc>
                </category>
             </taxonomy>
          </classDecl>
@@ -106,30 +194,26 @@
             <p/>
          </abstract>
          <creation>
-            <title
-               xml:lang="en"
-               ref=""
-               type="uniform"
-               level="m"/>
-            <ref/>
-            <persName ref="" role="author"/>
-            <origDate/>
-            <origPlace ref=""/>
+            <title xml:lang="en" ref="" type="uniform" level="m">The Life of Severus</title>
+            <ref>83-86</ref>
+            <persName ref="http://viaf.org/viaf/13590360" role="author">Zachariah of
+               Mytilene</persName>
+            <origDate notBefore="510" notAfter="530">510s-520s</origDate>
+            <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>
          </creation>
          <langUsage>
-            <language ana="#caesarea-language-of-testimonia" ident="grc"/>
-            <language ana="#caesarea-language-of-original" ident=""/>
+            <language ana="#caesarea-language-of-testimonia" ident="syr"/>
+            <language ana="#caesarea-language-of-original" ident="grc"/>
          </langUsage>
          <textClass>
             <classCode scheme="https://distributed-text-services.github.io/specifications">
                <idno type="CTS-URN"/>
             </classCode>
             <catRef scheme="#CM-Testimonia-Type" target="#direct"/>
-            <catRef scheme="#CM-NEAEH" target=""/>
+            <catRef scheme="#CM-NEAEH" target="#byzantine"/>
          </textClass>
       </profileDesc>
-      <revisionDesc status="draft">
-      </revisionDesc>
+      <revisionDesc status="draft"> </revisionDesc>
    </teiHeader>
    <text>
       <body>
@@ -137,9 +221,61 @@
             <idno type="URI"/>
          </ab>
          <desc type="abstract"/>
-         <desc type="context"/>
-         <ab type="edition"><note xml:lang="en" type="textual"/><note xml:lang="en" type="textual"/><note xml:lang="en" type="discussion"/> <note xml:lang="en" type="corrigenda"/><idno type="CTS-URN"/><ref target=""/></ab>
-         <ab type="translation"><note xml:lang="en" type="translation">Trans. {source}</note><note xml:lang="en" type="discussion"/><note xml:lang="en" type="corrigenda"/><idno type="CTS-URN"/><ref target=""/></ab>
+         <desc type="context">Zachariah of Mytilene's hagiographic account of the life of the early
+            sixth-century miaphysite bishop, Severus, patriarch of Antioch, includes brief accounts
+            of several other saints. In this testimonium, Zachariah describes a religious conversion
+            episode from the late fifth century in which one of Severus' contemporaries, Anastasius
+            of Edessa, travels via Caesarea Maritima in a manner which evokes the Apostle Peter's
+            vision and journey to Caesarea as described in the New Testament (Acts 10). In this way,
+            the author seems to blur together two figures, both of whom are called "the great
+            Peter". The first figure is the New Testament Apostle Peter. The second figure is Peter
+            the Iberian, a fifth-century miaphysite Christian leader and monastic founder whose
+            monastery at Miaouma in Gaza became a spiritual home to Anastasius and other saints
+            mentioned by Zachariah of Mytilene, The passage also emphasizes the intellectual and
+            social connections between the law schools of Beirut and the miaphysite Christian
+            communities of Caesarea and Gaza in this period.</desc>
+         <ab type="edition"><note xml:lang="en" type="textual"/><note xml:lang="en" type="textual"
+               /><note xml:lang="en" type="discussion"/>
+            <note xml:lang="en" type="corrigenda"/><idno type="CTS-URN"/><ref target=""/></ab>
+         <ab type="translation">When recording the virtues of inspired men, of Peter from Iberia,
+            and Esaias, the great Egyptian ascetic—while living in Palestine, these two were highly
+            respected by all the Christians—I would like to begin with the story about Anastasius
+            from Edessa, whom I have mentioned above as worthy of admiration and [worthy of] writing
+            about. [Anastasius] saw, in a dream, the great Peter, the high priest of our Lord Jesus
+            Christ, who is also called the Prince of apostles, ordering him to come quickly, riding
+            a so-called post-horse (βέρηδος). When he woke up, he told me about the vision and the
+            order, and even added a description of his holy face. When I then concluded, |84| from
+            what was told, that what he had seen was not a dream but a divine revelation which,
+            through this holy man, called the worthy Anastasius to monastic life, I said: “You have
+            actually seen the great man, and you should obey at once! For this is the meaning of the
+            revelation.” He, however, since he had an uncle who at the time was governing the
+            province, said: “I am afraid to travel by land, and would prefer to wait for a northerly
+            wind and go to Palestine by sea. ” Since, because of this, he was delayed for some days
+            without getting what he waited for, and was becoming worried, I reminded him of the
+            vision he had seen which urged him to hurry by land to the highly honoured high priest
+            and servant of the great God and our Saviour Jesus Christ. And since, because of his
+            uncle, he was afraid to pass through [Tyre] when coming from Beirut, I advised him not
+            to pass through Tyre, where he [the uncle] was living at the time, at day-time, but to
+            pause outside the city and then, in the middle of the night, pass through Tyre. He took
+            this advice and acted accordingly, and eventually came to <placeName>Caesarea in
+               Palestine</placeName>. And so God, who had called him by means of this holy man,
+            arranged that he met some pupils of the great Peter |85| and learnt from them where he
+            was living, so that he could go to him. When he was talking with them they said: “You
+            were ordered to come quickly. Why are you so late?” And later, when he had joined him,
+            and experienced the virtues of this divine man, and listened to the stories about [him],
+            and had promised God monastic life, and become his subject, his body was immediately
+            free from the leprosy, called the sacred disease, that was already beginning to get hold
+            of him. When this became known to the worthy Elisa in Beirut, it made him want to go,
+            too—for the God-loving Evagrius’ had exalted the monastic life many times, expecting to
+            capture us all, or most of us. Being simple in his manners, the great Elisa was not
+            delayed like this. He, too, had long ago been granted a revelation of the holy man, who
+            ordered him to rise in the night and sing the Fiftieth Psalm to God. Eventually, then,
+            strong love lit the fire of divine philosophy in him—as he revealed to me, for I was
+            staying with him at the time—so that he, unable to endure the flame of the divine call,
+            hurried to |86| Palestine, to the holy man, and became his subordinate, having accepted
+            the yoke of philosophy..<note xml:lang="en" type="translation">Revised from
+               {source}</note><note xml:lang="en" type="discussion"/><note xml:lang="en"
+               type="corrigenda"/><idno type="CTS-URN"/><ref target=""/></ab>
          <listBibl>
             <head>Works Cited</head>
             <bibl>
