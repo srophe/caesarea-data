@@ -62,7 +62,7 @@
          <publicationStmt>
             <authority>Caesarea City and Port Exploration Project</authority>
             <!-- Static metadata -->
-            <idno type="URI">513</idno>
+            <idno type="URI">514</idno>
             <!-- Just need numerical sequence -->
             <availability>
                <licence target="http://creativecommons.org/licenses/by/4.0">
@@ -195,7 +195,7 @@
          </abstract>
          <creation>
             <title xml:lang="en" ref="" type="uniform" level="m">The Life of Severus</title>
-            <ref>83-86</ref>
+            <ref>98</ref>
             <persName ref="http://viaf.org/viaf/13590360" role="author">Zachariah of
                Mytilene</persName>
             <origDate notBefore="510" notAfter="530">510s-520s</origDate>
@@ -223,97 +223,41 @@
          <desc type="abstract"/>
          <desc type="context">Zachariah of Mytilene's hagiographic account of the life of the early
             sixth-century anti-Chalcedonian bishop, Severus, patriarch of Antioch, includes brief
-            accounts of several other saints. In this testimonium, Zachariah describes a religious
-            conversion episode from the late fifth century in which one of Severus' contemporaries,
-            Anastasius of Edessa, travels via Caesarea Maritima in a manner which evokes the Apostle
-            Peter's vision and journey to Caesarea as described in the New Testament (Acts 10). In
-            this way, the author seems to blur together two figures, both of whom are called "the
-            great Peter". The first figure is the New Testament Apostle Peter. The second figure is
-            Peter the Iberian, a fifth-century miaphysite Christian leader and monastic founder
-            whose monastery at Miaouma in Gaza became a spiritual home to Anastasius and other
-            saints mentioned by Zachariah of Mytilene. The passage also emphasizes the intellectual
-            and social connections between the law schools of Beirut and the anti-Chalcedonian
-            (miaphysite) Christian clergy and communities of Caesarea and Gaza in this
-            period.</desc>
-         <ab type="edition">ܐܢܐ ܕܝܢ ܟܕ ܡܝܬܪ̈ܬܐ ܕܐܢܫ̈ܐ ܠܒܝ݀ܫܝ ܠܐܠܗܐ܆ ܕܦܛܪܘܣ ܗܘ ܕܡܢ ܐܝܟܪ݀ܝܐ܇ ܘܐܫܥܝܐ ܗܘ
-            ܥܢܘܝܐ ܪܒܐ ܘܐܓܘܦܬܝܐ ܡܟܬܒ ܗܘܝܬ. ܬܖܝܗܘܢ̈ ܓܝܪ ܗܠܝܢ ܓܒܖܐ̈ ܟܕ ܒܦܠܣܛܝܢܐ ܥܡܪܝܢ ܗܘܘ: ܬܫܒܘܚܬܐ ܪܒܬܐ
-            ܩܢܝܢ ܗܘܘ ܗܝܕܝܢ: ܠܘܬ ܟܠܗܘܢ ܟܪܝܣܛܝܢܐ̈܆ ܚܫ ܡܕܡ ܠܘܩܕܡ ܡܢ ܬܫܥܝܬܐ̈ ܕܕܐܝܟ ܗܠܝܢ܆ ܐܢܣܛܘܣ ܗܘ ܕܡܢ
-            ܐܘܪܗܝ: ܗܘ ܕܡܢ ܠܥܠ ܐܬܥܗܕܬ: ܕܫܘܐ ܠܬܕܡܘܪܬܐ ܘܠܟܬܒܐ. ܚܙܐ ܓܝܪ ܒܚܠܡܐ܆ ܠܦܛܪܘܘܝ ܪܒܐ ܘܪܝܫ ܟܗܢܐ̈
-            ܕܡܪܢ ܝܫܘܥ ܡܫܝܚܐ܇ ܗܘ ܕܐܦ ܠܫܡܐ ܕܪܝܫܐ ܕܫܠܝܚܐ̈ ܐܫܬܘܝ ܕܦܩܕ ܠܗ܆ ܕܒܥܓܠ ܢܐܬܐ ܟܕ ܪܟܝܒ ܗܝ ܕܡܬܩܪܝܐ
-            ܒܐܪܘܕܐ. ܗܘ ܕܝܢ ܟܕ ܩܡ܆ ܚܙܘܐ ܥܡ ܦܘܩܕܢܐ ܐܘܕܥܢܝ. ܟܕ ܐܘܣܦ ܐܦ ܕܡܘܬܐ ܕܦܪܨܘܦܗ ܟܗܢܝܐ ܀ ܟܕ ܗܟܝܠ
-            ܕܡܝܬ [84] ܡܢ ܗܠܝܢ ܕܐܫܬܥܝ: ܕܠܘ ܚܠܡܐ ܐܝܬܘܗܝ ܗܘ ܕܐܬܚܙܝ: ܐܠܐ ܓܠܝܢܐ ܐܠܗܝܐ: ܕܩܪܐ ܒܝܕ ܗܘ ܓܒܪܐ
-            ܚܣܝܐ ܠܘܬ ܕܘܒܪܐ ܕܕܝܪܝܘܬܐ: ܠܐܢܣܛܘܣ ܬܡܝܗܐ܆ ܐܡܪܬ ܕܠܗ ܠܓܒܪܐ ܪܒܐ ܚܙܝܬ ܫܪܝܪܐܝܬ. ܘܙܕܩ ܠܟ ܕܬܫܡܥ
-            ܩܠܝܠܐܝܬ. ܗܕܐ ܓܝܪ ܪܡܙ ܗܘ ܓܠܝܢܐ. ܗܘ ܕܝܢ ܡܛܠ ܕܚܠܐ ܐܝܬ ܗܘܐ ܠܗ: ܕܗܝܕܝܢ ܠܗܝ ܗܘܦܪܟܝܐ ܡܕܒܪ ܗܘܐ܆
-            ܕܚܠ ܐܢܐ ܐܡܪ ܡܢ ܚܙܘܩܝܐ ܕܒܝܕ ܐܪܥܐ. ܘܝܬܝܪܐܝܬ ܒܥܐ ܗܘܝܬ ܕܪܘܚܐ ܕܓܪܒܝܐ ܬܗܘܐ ܠܝ܆ ܘܒܝܡܐ ܠܦܠܣܛܝܢܐ
-            ܐܙܠ. ܡܛܠ ܕܝܢ ܕܝܘܡܬܐ̈ ܡܕܡ ܡܛܠܬܗ̇ ܕܗܕܐ ܟܬܪ: ܘܠܐ ܗܘܬ ܠܗ ܗܝ ܕܒܥܐ ܗܘܐ: ܘܐܝܬܘܗܝ ܗܘܐ ܒܩܘܛܦܐ
-            ܠܚܙܘܐ ܗܘ ܕܚܙܐ ܐܥܗܕܬܗ ܕܨܒܐ ܕܒܝܕ ܐܪܥܐ ܡܠܘܢ ܢܪܗܛ ܠܘܬ ܗܘ ܣܓܝ ܩܘܠܣܐ̈: ܪܝܫ ܟܗܢܐ̈ ܘܥܒܕܗ ܕܐܠܗܐ
-            ܪܒܐ ܘܦܪܘܩܢ ܝܫܘܥ ܡܫܝܚܐ. ܘܡܠܟܐ ܡܠܟܬܗ ܠܗܢܐ܇ ܕܕܚܠ ܗܘܐ ܡܢ ܚܠܗ ܕܢܥܒܪ ܟܕ ܐܙܠ ܡܢ ܒܝܪܘܛܘܣ܆ ܕܠܐ ܣܟ
-            ܥܠ ܨܘܪ ܗܝ ܕܗܘ ܗܝܕܝܢ ܡܕܝܪ ܗܘܐ ܒܗ̇ ܒܐܝܡܡܐ ܢܥܒܪ. ܐܠܐ ܕܢܬܬܢܝܚ ܡܝܢ ܠܒܪ ܡܢ ܡܕܥܢܬܐ܆ ܒܠܠܝܐ ܕܝܢ
-            ܕܠܐ ܥܕܢܐ ܢܥܒܪܝܗ̇ ܠܨܘܪ. ܗܘ ܕܟܕ ܠܗܢܐ ܡܠܟܐ ܩܒܠ܆ ܠܥܒܕܐ ܐܝܬܝܗ. ܘܡܟܝܠ <placeName>ܠܩܣܪܝܐ
-               ܕܦܠܣܛܝܢܐ</placeName> ܡܢܥ. ܐܠܗܐ ܗܟܝܠ ܗܘ ܕܠܗܢܐ ܩܪܐ ܠܘܬܗ ܒܝܕ ܗܘ ܓܒܪܐ ܚܣܝܐ ܐܥܒܕ܆
-            ܕܒܬܠܡܝܕܘܗܝ̈ ܕܪܒܐ ܦܛܪܘܣ ܢܦܓܥ܆ [85] ܘܡܢܗܘܢ ܢܐܠܦ ܕܐܝܟܐ ܡܕܝܪ܆ ܥܕܡܐ ܕܠܘܬܗ ܕܗܘ ܐܙܠ. ܘܟܕ ܗܠܝܢ
-            ܡܡܠܠ ܫܡܥ܆ ܕܟܕ ܩܠܝܠܐܝܬ ܐܬܦܩܕ ܠܟ ܕܬܐܬܐ܆ ܡܛܠ ܡܢܐ ܥܕܡܐ ܠܗܫܐ ܐܬܬܗܝܬ. ܘܒܬܪܟܢ ܟܕ ܠܘܬܗ ܐܬܐ:
-            ܘܒܢܣܝܢܐ ܩܒܠ ܡܝܬܪ݀ܬܐ ܕܗܘ ܓܒܪܐ ܐܠܗܝܐ: ܘܬܘ݀ܢܝܐ ܕܡܛܠ ܫܡܥܗ܆ ܟܕ ܚܝ݀ܐ ܕܕܝܪܝܘܬܐ ܐܫܬܘܕܝ ܠܐܠܗܐ܇
-            ܘܬܚܝܬ ܫܘܥܒܕܗ ܕܗܘ ܗܘܐ ܡܢ ܐܪܝܐ ܕܐܝܬ ܗܘܐ ܒܦܓܪܗ ܡܚܕܐ ܐܓܗܝ. ܗܘ ܕܡܬܩܪܐ ܟܘܪܗܢܐ ܟܗܢܝܐ܇ ܕܫܪܝ ܗܘܐ
-            ܡܢ ܟܕܘ ܕܢܫܬܠܛ ܒܗ. ܟܕ ܗܕܐ ܐܬܝܕܥܬ ܒܒܝܪܘܛܘܣ ܠܐܠܝܫܥ ܬܡܝܗܐ ܠܗ ܟܕ ܠܗ ܠܛܢܢܐ ܕܢܐܬܐ ܥܒܕܬ܀ ܟܕ ܓܝܪ
-            ܪܚܡ ܐܠܗܐ ܐܘܓܪܝܣ ܡܠܐ̈ ܡܛܠ ܚܝ݀ܐ ܕܕܝܪܝܘܬܐ ܙܒܢܝܢ̈ ܣܓܝܐܢ̈ ܐܙܝܥ ܠܘܬܢ: ܡܣܟܐ ܗܘܐ ܕܝܢ ܕܢܨܘܕ ܠܟܠܢ
-            ܐܘ ܠܣܘܓܐܢ: ܟܕ ܦܫܝܛܐ ܐܝܬܘܗܝ ܗܘܐ ܒܙܢܘ݀ܗܝ. ܗܘ ܪܒܐ ܐܠܝܫܥ܆ ܠܬܘܗܝܐ ܕܐܟ ܗܢܐ ܠܐ ܟܬܪ. ܐܫܬܘܝ ܗܘܐ
-            ܓܝܪ ܐܦ ܗܘ ܩܕܡ ܙܒܢܐ ܣܓܝܐܐ ܠܓܠܝܢܐ ܕܓܒܪܐ ܚܣܝܐ. ܕܦܩܕ ܠܗ ܒܠܠܝܐ ܩܘܡ ܘܡܙܡܘܪܐ ܕܚܡܫܝܢ ܙܡܪ ܠܐܠܗܐ.
-            ܐܚܪܝܐܝܬ ܕܝܢ ܡܢ ܚܘܒܐ ܣܓܝܐܐ܆ ܐܦ ܢܘܪܐ ܕܦܝܠܣܦܘܬܐ ܐܠܗܝܬܐ ܕܠܩܐ ܗܘܬ ܒܗ܇ ܐܝܟܢܐ ܕܗܘ ܓܠܐ ܠܝ ܟܕ ܥܡܪ
-            ܐܢܐ ܥܡܗ ܗܝܕܝܢ. ܐܝܟܢܐ ܕܟܕ ܠܐ ܣܝܒܪ ܗܢܐ ܠܫܠܗܒܝܬܐ ܕܩܪܝܬܐ ܐܠܗܝܬܐ܆ ܠܘܬ [86]ܦܠܣܛܝܢܐ ܪܗܛ ܠܘܬܗ
-            ܕܓܒܪܐ ܚܣܝܐ. ܘܬܚܝܬ ܫܘܥܒܕܗ ܗܘܐ܆ ܟܕ ܢܝܪܐ ܕܦܝܠܣܦܘܬܐ ܫܩܠ.<note xml:lang="en" type="textual"
-               >Testimonium prepared with reference to Simtho: The Syriac Corpus (version
-               0.2).</note><note xml:lang="en" type="textual"/><note xml:lang="en" type="discussion"
-               /><note xml:lang="en" type="corrigenda"/><idno type="CTS-URN"/><ref target=""/></ab>
-         <ab type="translation">When writing the virtues of God-clad men, of Peter from Iberia, and
-            Isaiah, the great Egyptian ascetic—while dwelling in Palestine, these two were highly
-            praised by all Christians—the first to experience such stories was Anastasius from
-            Edessa, whom I have mentioned above as worthy of admiration and writing about.
-            [Anastasius] saw, in a dream, the great Peter, the high priest of our Lord Jesus Christ,
-            who is also called the Prince of apostles, commanding him to come quickly, riding a
-            so-called post-horse (βέρηδος). When he woke up, he told me about the vision and the
-            order, and even added a description of his priestly face. When I then concluded, [84]
-            from what was told, that what he had seen was not a dream but a divine revelation which,
-            through this holy man, called the worthy Anastasius to monastic life, I said: “You have
-            actually seen the great man, and you should obey at once! For this is the meaning of the
-            revelation.” He, however, since he had an uncle who at the time was governing the
-            province, said: “I am afraid to travel by land, and would prefer to wait for a northerly
-            wind and go to Palestine by sea. ” Since, because of this, he was delayed for some days
-            without getting what he waited for, and was becoming worried, I reminded him of the
-            vision he had seen which urged him to hurry by land to the highly honoured high priest
-            and servant of the great God and our Saviour Jesus Christ. And since, because of his
-            uncle, he was afraid to pass through [Tyre] when coming from Beirut, I advised him not
-            to pass through Tyre, where he [the uncle] was living at the time, at day-time, but to
-            pause outside the city and then, in the middle of the night, pass through Tyre. He took
-            this advice and acted accordingly, and eventually came to <placeName>Caesarea in
-               Palestine</placeName>. And so God, who had called him by means of this holy man,
-            arranged that he met some pupils of the great Peter [85] and learnt from them where he
-            was living, so that he could go to him. When he was talking with them they said: “You
-            were ordered to come quickly. Why are you so late?” And later, when he had joined him,
-            and experienced the virtues of this divine man, and listened to the stories about [him],
-            and had promised God monastic life, and become his subject, his body was immediately
-            free from the leprosy, called the sacred disease, that was already beginning to get hold
-            of him. When this became known to the worthy Elishaʿ in Beirut, it made him want to go,
-            too—for the God-loving Evagrius’ had exalted the monastic life many times, expecting to
-            capture us all, or most of us. Being simple in his manners, the great Elishaʿ was not
-            delayed like this. He, too, had long ago been granted a revelation of the holy man, who
-            ordered him to rise in the night and sing the fiftieth psalm to God. Eventually, then,
-            strong love lit the fire of divine philosophy in him—as he revealed to me, for I was
-            staying with him at the time—so that he, unable to endure the flame of the divine call,
-            hurried to [86] Palestine, to the holy man, and became his subordinate, having accepted
-            the yoke of philosophy.<note xml:lang="en" type="translation">Revised from
+            accounts of several other saints. In this testimonium, Zachariah describes a monastic
+            conversion episode from the late fifth century in which one of Severus'
+            contemporaries,Peter of Caesearea, becomes a disciple of Severus in Gaza at the
+            monastary of another Peter, Peter the Iberian, a fifth-century miaphysite Christian
+            leader and monastic founder whose monastery at Miaouma in Gaza became a spiritual home
+            to Severus and other saints mentioned by Zachariah of Mytilene. The passage also
+            emphasizes the intellectual and social connections between the law schools of Beirut and
+            the anti-Chalcedonian (miaphysite) Christian clergy and communities of Caesarea and Gaza
+            in this period.</desc>
+         <ab type="edition">ܟܕ ܗܕܐ ܝܠܦ ܦܛܪܘܣ ܗܘ ܕܐܝܬܘܗܝ ܗܘܐ ܡܢ <placeName>ܩܣܪܝܐ ܕܦܠܣܛܝܢܐ</placeName>܆ ܘܡܢ ܒܬܪ ܡܪܕܘܬܐ
+            ܕܝܘ݀ܠܦܢܐ ܡܬܟܪ݀ܟܢܐ ܕܓܪܡܛܝܩܘܬܐ ܐܡܪ ܐܢܐ ܘܕܪܗܛܪܘܬܐ: ܕܝܠܦ ܒܗܝ ܡܕܝܢܬܐ܆ ܟܕ ܫܛ ܠܒܝܪܘܛܘܣ:
+            ܘܠܢܡ݀ܘܣܐ ܗܢܘܢ ܕܡܫܬܘܕܝܐ ܕܙܕܩܝܢ ܠܝܘܠܦܢܐ: ܘܐܦ ܠܗܘܢ ܠܣܒܪ݀ܐ ܣܪ݀ܝܩܐ܆ ܝܗܒ ܢܦܫܗ ܠܗܠܝܢ ܕܦܝܠܣܦܘܬܐ
+            ܐܠܗܝܬܐ ܫܩܝܠܝܢ: ܒܕܝܪܐ ܕܛܒܝܒܐ ܪܘܡܢܐ. ܟܕ ܗܕܐ ܗܟܝܠ ܝܠܦ ܐܬܐ ܠܘܬܗ܆<note xml:lang="en"
+               type="textual">Testimonium prepared with reference to Simtho: The Syriac Corpus
+               (version 0.2).</note><note xml:lang="en" type="textual"/><note xml:lang="en"
+               type="discussion"/><note xml:lang="en" type="corrigenda"/><idno type="CTS-URN"/><ref
+               target=""/></ab>
+         <ab type="translation">When Peter, who was from Caesarea in Palestine, heard of this—having
+            been instructed in the general arts, grammar, I say, and rhetoric, that he had studied
+            in this city, and having come to despise Beirut and the conventional study of law, as
+            well as the vain expectations, he had submitted himself to those who are upholding
+            divine philosophy in the monastery of the illustri- ous Romanus—when he [Peter] thus
+            heard of this, he came to him [Severus].<note xml:lang="en" type="translation">Trans.
                {source}</note><note xml:lang="en" type="discussion"/><note xml:lang="en"
                type="corrigenda"/><idno type="CTS-URN"/><ref target=""/></ab>
          <listBibl>
             <head>Works Cited</head>
             <bibl>
                <ptr target="https://www.zotero.org/groups/2320447/items/HDQLHKW6"/>
-               <citedRange unit="p">83-86</citedRange>
+               <citedRange unit="p">98</citedRange>
                <citedRange unit=""/>
             </bibl>
             <bibl>
                <ptr target="https://www.zotero.org/groups/2320447/items/6S6PPRW2"/>
-               <citedRange unit="p">84-88</citedRange>
+               <citedRange unit="p">98</citedRange>
                <citedRange unit=""/>
             </bibl>
          </listBibl>
