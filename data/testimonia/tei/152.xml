@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -12,11 +14,10 @@
         <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#dmichelson">David A. Michelson</editor>
         <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
         <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</editor>
-        
         <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#jwoods">Joshua Woods</editor>
         <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#eyonan">Eliana Yonan</editor>
         <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
-        <respStmt>
+      <respStmt>
         <resp>TEI encoding by</resp>
         <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
       </respStmt>
@@ -44,7 +45,7 @@
             <p>Except for materials quoted from other sources, this entry is copyright 2023 by the contributors (Joshua Woods, et al.) and the Caesarea City and Port Exploration Project. It is licensed under the Attribution 4.0 International (CC BY 4.0) license.</p> <p>Some texts quoted in this entry may be in the public domain in the United States. No copyright is asserted for these quotations.</p> <p>Some texts quoted in this entry may have copyright restrictions and are reused under Section 107 of the Copyright Act of 1976 (Title 17 of the United States Code) which permits “fair use” of copyrighted materials for purposes such as criticism, comment, scholarship, and research. These texts remain under copyright of their owners. No copyright infringement is intended.</p>
           </licence>
         </availability>
-        <date>2023-01-20-05:00</date>
+        <date>2023-06-30-05:00</date>
       </publicationStmt>
       <seriesStmt>
         <title level="s" xml:lang="en">Caesarea-Maritima.org: A Digital Archive</title>
@@ -260,21 +261,21 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:greekLit:tlg2048.tlg001" type="uniform" level="m">Church History</title>
-        <ref n="a" target="#bib152-1">3.2.9</ref> written by <persName ref="http://viaf.org/viaf/305409681" role="author">Sozomen</persName> in <origDate period="#byzantine" notBefore="0440" notAfter="0450">440 - 450 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Church History</title> <ref target="#bib152-1">3.2.9</ref> written by <persName ref="http://viaf.org/viaf/305409681" role="author">Sozomen</persName> in <origDate notBefore="0440" notAfter="0450" period="#byzantine">ca. 440-450 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
       <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
         <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>
       </langUsage>
       <textClass>
-        <classCode scheme="https://distributed-text-services.github.io/specifications">
-          <idno xml:base="" type="CTS-URN">urn:cts:greekLit:tlg2048.tlg001:3.2.9</idno>
-        </classCode>
-        <catRef scheme="#CM-Testimonia-Type" target="#direct"/>
-        <catRef scheme="#CM-NEAEH" target="#earlyBronzeAgeIi #byzantine"/>
-      </textClass>
+            <classCode scheme="https://distributed-text-services.github.io/specifications">
+               <idno type="CTS-URN"/>
+            </classCode>
+            <catRef scheme="#CM-Testimonia-Type" target="#direct"/>
+            <catRef scheme="#CM-NEAEH" target="#byzantine"/>
+         </textClass>
     </profileDesc>
     <revisionDesc status="published">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2023-06-30-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2023-01-20-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#wpotter" when="2020-06-10-05:00">ADDED: testimonium ID, URNs, URLs to edition and translation, and Bibl URIs</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#wpotter" when="2020-06-10-05:00">CREATED: testimonium</change>
@@ -286,46 +287,51 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/152</idno>
       </ab>
       <desc type="abstract" xml:id="abstract152-1">
-        <quote><placeName xml:lang="grc">ἐν Καισαρείᾳ τῆς Παλαιστίνης</placeName></quote>, and <quote><placeName xml:lang="en">Cæsarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/305409681" role="author">Sozomen</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg2048.tlg001" type="uniform" level="m">Church History</title> <ref n="a" target="#bib152-1">3.2.9</ref>. This passage was written ca. <origDate period="#byzantine" notBefore="0440" notAfter="0450">440 - 450 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
-      <desc type="context">Salaminius Hermias Sozomenos, or Sozomen, was an important ecclesiastical
-        historian of the first half of the 5th century. Born to a wealthy Christian family in the
-        region of Gaza, he learned classical and sacred literature under the guidance of local
-        monks, he studied law at Beirut, and spent his career at Constantinople during the reign of
-        Theodosius II. His extant history (the second of two written), which depends significantly
-        on the works by Eusebius, Rufinus, and Socrates, surveys the events of the church from the
-        conversion of Constantine to the accession of Valentinian III, but the ending is either
-        unfinished or possibly damaged. In this passage, Sozomen mentions the career of Acacius, the
-        successor to Eusebius as bishop of Caesarea.</desc>
+        <quote><placeName>Καισαρείᾳ τῆς Παλαιστίνης</placeName></quote>, and <quote><placeName>Caesarea Palestinae</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/305409681" role="author">Sozomen</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Church History</title> <ref>3.2.9</ref>. This passage was written ca. <origDate notBefore="0440" notAfter="0450">ca. 440-450 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+      <desc type="context">Salaminius Hermias Sozomenos, or Sozomen, was an important
+            ecclesiastical historian of the first half of the 5th century. Born to a wealthy
+            Christian family in the region of Gaza, he learned classical and sacred literature under
+            the guidance of local monks, he studied law at Beirut, and spent his career at
+            Constantinople during the reign of Theodosius II. His extant history (the second of two
+            written), which depends significantly on the works by Eusebius, Rufinus, and Socrates,
+            surveys the events of the church from the conversion of Constantine to the accession of
+            Valentinian III, but the ending is unfinished or possibly damaged. In this passage,
+            Sozomen mentions the career of Acacius, the successor to Eusebius as bishop of
+            Caesarea.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote152-1">
-        <anchor xml:id="testimonia-152.grc.1" corresp="#testimonia-152.en.1"/>Περὶ δὲ τοῦτον τὸν
-        χρόνον Εὐσεβίου τοῦ Παμφίλου τελευτήσαντος, διαδέχεται τὴν ἐν <placeName>Καισαρείᾳ τῆς
-          Παλαιστίνης</placeName> ἐπισκοπὴν Ἀκάκιος. Ὃς πρὸς αὐτὸν Εὐσέβιον τὸν ζῆλον ἔχων, καὶ ὑπ̓
-        αὐτῷ τοὺς ἱεροὺς παιδευθεὶς λόγους, ἱκανός τε νοεῖν καὶ φράζειν ἀστεῖος ἐγένετο, ὡς καὶ
-        πολλὰ συγγράμματα λόγου ἄξια καταλιπεῖν.<ab type="source" source="#bib152-1"/>
-        <note type="textual">Ed. Bidez and Hansen
-          1995</note>
+        <anchor xml:id="testimonia-152.grc.1" corresp="#testimonia-152.en.1"/>Περὶ δὲ τοῦτον τὸν χρόνον Εὐσεβίου τοῦ Παμφίλου τελευτήσαντος διαδέχεται
+            τὴν ἐν <placeName>Καισαρείᾳ τῆς Παλαιστίνης</placeName> ἐπισκοπὴν Ἀκάκιος. ὃς πρὸς αὐτὸν
+            Εὐσέβιον τὸν ζῆλον ἔχων καὶ ὑπ’ αὐτῷ τοὺς ἱεροὺς παιδευθεὶς λόγους ἱκανός τε νοεῖν καὶ
+            φράζειν ἀστεῖος ἐγένετο, ὡς καὶ πολλὰ συγγράμματα λόγου ἄξια καταλιπεῖν.<ab type="source" source="#bib152-1"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        <note xml:lang="en" type="textual">Ed. Bidez and Hansen 1995</note>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote152-2">
-        <anchor xml:id="testimonia-152.en.1" corresp="#testimonia-152.grc.1"/>Around this time
-        Eusebius Pamphili died and Acacius succeeded (him) as bishop of <placeName>Caesarea
-          Palestinae</placeName>. He was a zealous imitator of Eusebius because he had been
-        instructed by him in the Sacred Words. He possessed a capable mind and polished expression,
-        so that he left many writings worthy of commendation.<ab type="source" source="#bib152-2"/>
-        <note type="translation">Adapted from
-          Hartranft 1890</note>
+        <anchor xml:id="testimonia-152.en.1" corresp="#testimonia-152.grc.1"/>Around this time Eusebius Pamphili died and Acacius succeeded (him)
+            as bishop of <placeName>Caesarea Palestinae</placeName>. He was a zealous imitator of
+            Eusebius because he had been instructed by him in the Sacred Words. He possessed a
+            capable mind and polished expression, so that he left many writings worthy of
+               commendation.<ab type="source" source="#bib152-2"/>
+        <idno type="CTS-URN"/>
+        <ref target="https://archive.org/details/in.ernet.dli.2015.98162/page/n371/mode/2up"/>
+        <note xml:lang="en" type="translation">Adapted from Hartranft 1890</note>
       </ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib152-1">
           <ptr target="https://caesarea-maritima.org/bibl/4SZ6PCRN"/>
-          <citedRange unit="bk">3.2.9</citedRange>
+          <citedRange unit="bk">3</citedRange>
+          <citedRange unit="ch">2.9</citedRange>
         </bibl>
         <bibl xml:id="bib152-2">
           <ptr target="https://caesarea-maritima.org/bibl/583DGC2T"/>
           <citedRange unit="p">284</citedRange>
         </bibl>
       </listBibl>
-    <note type="related-texts"/>
+    <note type="related-texts">
+        <p>* Socrates, Church History 2.4</p>
+      </note>
       <note type="geography"/>
       <note type="prosopography">
         <p>Acacius</p>

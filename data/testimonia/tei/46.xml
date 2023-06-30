@@ -1,9 +1,11 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title xml:lang="en" level="a">Aelius Herodian, <title level="m">Declension
-              of Nouns</title> 751.25-33</title>
+               of Nouns</title> 751.25-37</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
             <sponsor>Vanderbilt University</sponsor>
             <principal>Joseph L. Rife</principal>
@@ -13,10 +15,9 @@
             <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#dmichelson">David A. Michelson</editor>
             <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
             <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</editor>
-            
         <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</editor>
         <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
-            <respStmt>
+         <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
         </respStmt>
@@ -32,7 +33,7 @@
                <resp>Testimonia identified by</resp>
                <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
             </respStmt>
-         </titleStmt>
+      </titleStmt>
          <editionStmt>
             <edition n="1.0"/>
          </editionStmt>
@@ -44,7 +45,7 @@
                   <p>Except for materials quoted from other sources, this entry is copyright 2023 by the contributors (William L. Potter, et al.) and the Caesarea City and Port Exploration Project. It is licensed under the Attribution 4.0 International (CC BY 4.0) license.</p> <p>Some texts quoted in this entry may be in the public domain in the United States. No copyright is asserted for these quotations.</p> <p>Some texts quoted in this entry may have copyright restrictions and are reused under Section 107 of the Copyright Act of 1976 (Title 17 of the United States Code) which permits “fair use” of copyrighted materials for purposes such as criticism, comment, scholarship, and research. These texts remain under copyright of their owners. No copyright infringement is intended.</p>
                </licence>
             </availability>
-            <date>2023-01-20-05:00</date>
+            <date>2023-06-30-05:00</date>
          </publicationStmt>
          <seriesStmt>
             <title level="s" xml:lang="en">Caesarea-Maritima.org: A Digital Archive</title>
@@ -261,9 +262,7 @@
             <p/>
          </abstract>
          <creation>This entry is taken from <title xml:lang="en" type="uniform" level="m">Declension
-               of Nouns</title>
-            <ref n="a" target="#bib46-1">751.25-33</ref> written by <persName role="author" ref="http://viaf.org/viaf/88626271">Aelius Herodian</persName> in <origDate notBefore="0150" notAfter="0200" period="#lateRoman">150-200 CE</origDate>. This work
-            was likely written in <origPlace ref="https://pleiades.stoa.org/places/727070">Alexandria</origPlace>.</creation>
+               of Nouns</title> <ref target="#bib46-1">751.25-37</ref> written by <persName role="author" ref="http://viaf.org/viaf/88626271">Aelius Herodian</persName> in <origDate notBefore="0150" notAfter="0200" period="#lateRoman">150-200 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/727070">Alexandria</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
         <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>
@@ -276,7 +275,8 @@
             <catRef scheme="#CM-NEAEH" target="#hellenistic #lateRoman"/>
          </textClass>
       </profileDesc>
-      <revisionDesc status="draft">
+      <revisionDesc status="published">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2023-06-30-05:00">CHANGED: Proofreading and general edits</change>
         <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2023-01-20-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
          <change who="wpotter" when="">ADDED: testimonium ID, URNs, URLs to edition and translation, and Bibl URIs</change>
@@ -290,43 +290,44 @@
          </ab>
          <desc type="abstract" xml:id="abstract46-1">
         <quote><placeName>Καισάρεια</placeName></quote>, and <quote><placeName>Kaisareia</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/88626271">Aelius Herodian</persName>, <title xml:lang="en" type="uniform" level="m">Declension
-               of Nouns</title> <ref n="a" target="#bib46-1">751.25-33</ref>. This passage was written ca. <origDate notBefore="0150" notAfter="0200" period="#lateRoman">150-200 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/727070">Alexandria</origPlace>.</desc>
+               of Nouns</title> <ref target="#bib46-1">751.25-37</ref>. This passage was written ca. <origDate notBefore="0150" notAfter="0200" period="#lateRoman">150-200 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/727070">Alexandria</origPlace>.</desc>
         <desc type="context">Aelius Herodian studied and taught language and literature (“grammar”)
-          in Alexandria in Egypt, the intellectual and cultural center of the Roman East, before
-          moving to Rome as a celebrated scholar later in his career. In his grammatical treatise
-          on spelling, Herodian cited the toponym ‟Caesarea” (Καισάρεια) as an example of a
-          particular word-formation. George Choeroboscus, the Early Byzantine grammarian,
-          paraphrased this passage over six centuries later (<title>Prologue and Notes</title>
-          303.12-20).</desc>
+            in Alexandria in Egypt, the intellectual and cultural center of the Roman East, before
+            moving to Rome as a celebrated scholar later in his career. In his grammatical treatise
+            on spelling, Herodian cited the toponym Caesarea (Καισάρεια) as an example of a
+            particular word-formation. George Choeroboscus, the Early Byzantine grammarian,
+            paraphrased this passage over six centuries later (<title>Prologue and Notes</title>
+            303.12-20).</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote46-1">
         <anchor xml:id="testimonia-46.grc.1" corresp="#testimonia-46.en.1"/>
-           τὰ εἰς -α λήγοντα
-           θηλυκά, ἐὰν μὲν ἔχῃ τὸ -α καθαρόν, τουτέστι μὴ προηγουμένου συμφώνου, ἢ πρὸ τοῦ -α τὸ ρ,
-           ἢ μακρόν, φυλάττει καὶ ἐν τῇ γενικῇ, φημὶ δὴ τὸ -α, καὶ προσθέσει τοῦ ς ποιεῖ τὴν
-           γενικήν. ἔστω δὲ παραδείγματα τοῦ κανόνος ταῦτα· τὸ ᾱ μὲν καθαρὸν οἷον μαῖα μαίας, γραῖα
-           γραίας, γαῖα γαίας, Μήδεια Μηδείας (τὸ γὰρ “Μηδείης ὑπ᾿ ἔρωτι” Ἰωνικόν ἐστι), Κράτεια
-           Κρατείας, Ἀλεξάνδρεια Ἀλεξανδρείας, <placeName>Καισάρεια</placeName>
-           <placeName>Καισαρείας</placeName>, Ἀντιόχεια Ἀντιοχείας.<ab type="source" source="#bib46-1"/>
-        <idno type="CTS-URN"/>
-        <ref/>
+            τὰ εἰς -α λήγοντα
+            θηλυκά, ἐὰν μὲν ἔχῃ τὸ -α καθαρόν, τουτέστι μὴ προηγουμένου συμφώνου, ἢ πρὸ τοῦ -α τὸ ρ,
+            ἢ μακρόν, φυλάττει καὶ ἐν τῇ γενικῇ, φημὶ δὴ τὸ -α, καὶ προσθέσει τοῦ ς ποιεῖ τὴν
+            γενικήν. ἔστω δὲ παραδείγματα τοῦ κανόνος ταῦτα· τὸ ᾱ μὲν καθαρὸν οἷον μαῖα μαίας, γραῖα
+            γραίας, γαῖα γαίας, Μήδεια Μηδείας (τὸ γὰρ “Μηδείης ὑπ᾿ ἔρωτι” Ἰωνικόν ἐστι), Κράτεια
+            Κρατείας, Ἀλεξάνδρεια Ἀλεξανδρείας, <placeName>Καισάρεια</placeName> Καισαρείας,
+            Ἀντιόχεια Ἀντιοχείας.
+         <ab type="source" source="#bib46-1"/>
+        <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/"/>
+        <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg0087.tlg011.1st1K-grc1:2.2.4.127"/>
         <note xml:lang="en" type="textual">Ed. Lentz 1868</note>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote46-2">
         <anchor xml:id="testimonia-46.en.1" corresp="#testimonia-46.grc.1"/>
-           As for feminine
-           nouns ending -a, if they have pure -a (i.e., no preceding consonant), r before -a, or
-           long -a, it persists also in the genitive, I mean the -a, and by addition of -s makes
-           the genitive. Take these examples of the rule: pure -a, e.g.,
-           <foreign>maia-maias</foreign>, <foreign>graia-graias</foreign>,
-           <foreign>gaia-gaias</foreign>, <foreign>Medeia-Medeias</foreign> (since
-           “<foreign>Medeies hyp’ eroti</foreign>” is Ionic dialect),
-           <foreign>Krateia-Krateias</foreign>, <foreign>Alexandreia-Alexandreias,</foreign>
+            As for feminine
+            nouns ending -a, if they have pure -a (i.e., no preceding consonant), r before -a, or
+            long -a, it persists also in the genitive, I mean the -a, and by addition of -s makes
+            the genitive. Take these examples of the rule: pure -a, e.g.,
+               <foreign>maia-maias</foreign>, <foreign>graia-graias</foreign>,
+               <foreign>gaia-gaias</foreign>, <foreign>Medeia-Medeias</foreign> (since
+               “<foreign>Medeies hyp’ eroti</foreign>” is Ionic dialect),
+               <foreign>Krateia-Krateias</foreign>, <foreign>Alexandreia-Alexandreias,</foreign>
         <foreign>
-             <placeName>Kaisareia</placeName> -Kaisareias</foreign>,
-           <foreign>Antiocheia-Antiocheias</foreign>.<note xml:lang="en" type="translation">Trans. J. L.
+               <placeName>Kaisareia</placeName> -Kaisareias</foreign>,
+               <foreign>Antiocheia-Antiocheias</foreign>.<note xml:lang="en" type="translation">Trans. J. L.
                Rife</note>
-           <note type="discussion">The Greek verse “<foreign>Medeies hyp’ eroti</foreign>” is quoted from Apollonius
-             of Rhodes, <title>Voyage of the Argo</title> 3.31.</note>
+            <note xml:lang="en" type="discussion">Aelius Herodian quotes “Medeies hyp’ eroti” from Apollonius of
+               Rhodes, <title>Voyage of the Argo</title> 3.31.</note>
             <idno type="CTS-URN"/>
             <ref target=""/>
          </ab>
@@ -338,8 +339,14 @@
         </bibl>
       </listBibl>
     <note type="related-texts">
+        <p>3.31</p>
+        <p>303.12-20</p>
+        <p>451.22-27</p>
+        <p>Aelius Herodian,</p>
         <p>Aelius Herodian, Correct Spelling 451.22-27</p>
+        <p>Apollonius of Rhodes,</p>
         <p>Apollonius of Rhodes, Voyage of the Argo 3.31</p>
+        <p>George Choeroboscus,</p>
         <p>George Choeroboscus, Prologue and Notes on Theodosius of Alexandria’s Introductory Rules 303.12-20</p>
       </note>
       <note type="geography">

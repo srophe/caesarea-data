@@ -1,8 +1,11 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="en" level="a">Socrates of Constantinople , <title level="m">Church History</title> 4.4</title>
+        <title xml:lang="en" level="a">Socrates of
+               Constantinople, <title level="m">Church History</title> 4.4</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
         <sponsor>Vanderbilt University</sponsor>
         <principal>Joseph L. Rife</principal>
@@ -15,6 +18,30 @@
         <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#jwoods">Joshua Woods</editor>
         <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#eyonan">Eliana Yonan</editor>
         <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
+      <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
+        </respStmt>
+        <respStmt>
+          <resp>TEI record created by</resp>
+          <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium translated by</resp>
+          <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium transcribed by</resp>
+          <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium identified by</resp>
+          <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
+        </respStmt>
+        <respStmt>
+          <resp>Editorial review by</resp>
+          <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
+        </respStmt>
         <respStmt>
         <resp>TEI encoding by</resp>
         <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
@@ -47,7 +74,7 @@
             <p>Except for materials quoted from other sources, this entry is copyright 2023 by the contributors (Joshua Woods, et al.) and the Caesarea City and Port Exploration Project. It is licensed under the Attribution 4.0 International (CC BY 4.0) license.</p> <p>Some texts quoted in this entry may be in the public domain in the United States. No copyright is asserted for these quotations.</p> <p>Some texts quoted in this entry may have copyright restrictions and are reused under Section 107 of the Copyright Act of 1976 (Title 17 of the United States Code) which permits “fair use” of copyrighted materials for purposes such as criticism, comment, scholarship, and research. These texts remain under copyright of their owners. No copyright infringement is intended.</p>
           </licence>
         </availability>
-        <date>2023-04-28-05:00</date>
+        <date>2023-06-30-05:00</date>
       </publicationStmt>
       <seriesStmt>
         <title level="s" xml:lang="en">Caesarea-Maritima.org: A Digital Archive</title>
@@ -263,21 +290,22 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:greekLit:tlg2057.tlg002" type="uniform" level="m">Church History</title>
-        <ref n="b" target="#bib151-1">4.4</ref> written by <persName ref="https://viaf.org/viaf/55571017" role="author">Socrates of Constantinople</persName> in <origDate period="#byzantine" notBefore="0439" notAfter="0450">ca. 439-450 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Church History</title> <ref target="#bib151-1">4.4</ref> written by <persName role="author" ref="http://viaf.org/viaf/55571017">Socrates of
+               Constantinople</persName> in <origDate notBefore="0439" notAfter="0450" period="#byzantine">ca. 439-450 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
       <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
         <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>
       </langUsage>
       <textClass>
-        <classCode scheme="https://distributed-text-services.github.io/specifications">
-          <idno xml:base="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=" type="CTS-URN">urn:cts:greekLit:tlg2057.tlg002:4.4</idno>
-        </classCode>
-        <catRef scheme="#CM-Testimonia-Type" target="#indirect"/>
-        <catRef scheme="#CM-NEAEH" target="#byzantine"/>
-      </textClass>
+            <classCode scheme="https://distributed-text-services.github.io/specifications">
+               <idno type="CTS-URN"/>
+            </classCode>
+            <catRef scheme="#CM-Testimonia-Type" target="#indirect"/>
+            <catRef scheme="#CM-NEAEH" target="#byzantine"/>
+         </textClass>
     </profileDesc>
     <revisionDesc status="published">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2023-06-30-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2023-04-28-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#wpotter" when="2020-06-10-05:00">ADDED: testimonium ID, URNs, URLs to edition and translation, and Bibl URIs</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#wpotter" when="2020-06-10-05:00">CREATED: testimonium</change>
@@ -288,53 +316,55 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/151</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract151-1"> is directly attested at <persName ref="https://viaf.org/viaf/55571017" role="author">Socrates of Constantinople</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg2057.tlg002" type="uniform" level="m">Church History</title> <ref target="#bib151-1">4.4</ref>. This passage was written circa <origDate period="#byzantine" notBefore="0439" notAfter="0450">439-450 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract151-1">Caesarea Maritima is indirectly attested at <persName role="author" ref="http://viaf.org/viaf/55571017">Socrates of
+               Constantinople</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Church History</title> <ref>4.4</ref>. This passage was written ca. <origDate notBefore="0439" notAfter="0450">ca. 439-450 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
       <desc type="context">Socrates of Constantinople, the “Scholastic,” was an otherwise unknown
-        historian during the reign of Theodosius II during the early 5th century. He wrote his
-        account of the Church from 305 to 439 to continue Eusebius of Caesarea, adopting a
-        particular perspective on the relationship between Imperial and ecclesiastical
-        authority. In this passage, Socrates narrates the brief success of the followers of
-        Macedonius, who rejected the divinity of the Holy Spirit, and so they were called
-        “warriors against the Spirit” (πνευματομάχοι). The “Macedonians” had bitterly opposed
-        church leaders in and around Constantinople, including prominently Acacius, bishop of
-        Caesarea, and they gained traction at the Semi-Arian Council at Lampsacus in 364
-        C.E.</desc>
+            historian of the early 5th century. He wrote his account of the Church from 305 to 439
+            to continue Eusebius of Caesarea, adopting a particular perspective on the relationship
+            between Imperial and ecclesiastical authority. In this passage, Socrates narrates the
+            brief success of the followers of Macedonius, who rejected the divinity of the Holy
+            Spirit, and so they were called “warriors against the Spirit” (πνευματομάχοι). The
+            “Macedonians” had bitterly opposed church leaders in and around Constantinople,
+            including prominently Acacius bishop of Caesarea, and they gained traction at the
+            semi-Arian Council at Lampsacus in 364 C.E.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote151-1">
         <anchor xml:id="testimonia-151.grc.1" corresp="#testimonia-151.en.1"/>Τούτων δὴ γενομένων, οὐδέτερα ἡσύχαζεν οὔτε τὰ δημόσια πράγματα οὔτε μὴν
-        τὰ τῶν ἐκκλησιῶν. Οἱ μὲν οὖν παρὰ τοῦ βασιλέως τὴν σύνοδον συγκροτηθῆναι αἰτήσαντες ἐν
-        τῇ Λαμψάκῳ συνῆλθον ἐν ὑπατείᾳ τῇ αὐτῇ: τοῦτο δὲ ἦν ἕβδομον ἔτος ἀπὸ τῆς ἐν Σελευκείᾳ
-        γενομένης συνόδου. Κἀκεῖ πάλιν τὴν ἐν Ἀντιοχείᾳ πίστιν ἐπιβεβαιώσαντες, ᾗ καὶ ἐν
-        Σελευκείᾳ ὑπέγραψαν, ἀναθεματίζουσι τὴν ἐν Ἀριμίνῳ ὑπὸ τῶν πρώην ὁμοδόξων ἐκτεθεῖσαν
-        πίστιν: καὶ αὖθις καταψηφίζονται τῶν περὶ Ἀκάκιον καὶ Εὐδόξιον, ὡς δικαίως
-        καθαιρεθέντων. Τούτοις οὐδὲν ἀντιλέγειν Εὐδόξιος ὁ τῆς Κωνσταντινουπόλεως ἐπίσκοπος
-        ἴσχυεν: οὐ γὰρ αὐτῷ ἀμύνασθαι τούτους ὁ ἐνεστηκὼς δημόσιος συνεχώρει πόλεμος. Διὸ καὶ οἱ
-        περὶ Ἐλεύσιον τὸν Κυζίκου ἐπίσκοπον ἐπικρατέστεροι τότε πρὸς ὀλίγον ἐγένοντο,
-        συγκροτήσαντες τὸ χρηματίσαν Μακεδονίου δόγμα, μικρόν τε ἔμπροσθεν καὶ τὸ ἐν τῇ κατὰ
-        Λάμψακον συνόδῳ γενόμενον φανερώτερον. Ταύτην ἐγὼ νομίζω τὴν σύνοδον αἰτίαν γενέσθαι τοῦ
-        πλεονάζειν ἐν Ἑλλησπόντῳ τοὺς Μακεδονιανοὺς χρηματίζοντας: ἡ γὰρ Λάμψακος ἐν τῷ στενῷ
-        τοῦ Ἑλλησπόντου κεῖται πορθμῷ. Αὕτη μὲν οὖν ἡ σύνοδος τοιαύτην ἔσχε τὴν ἔκβασιν.<ab type="source" source="#bib151-1"/>
-        <note xml:lang="en" type="textual">Ed. Hussey and Bright 1893 with ref. to Hansen 1995</note>
-        <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2057.tlg002.1st1K-grc1:4.4</idno>
-        <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2057.tlg002.1st1K-grc1:4.4"/>
+            τὰ τῶν ἐκκλησιῶν. Οἱ μὲν οὖν παρὰ τοῦ βασιλέως τὴν σύνοδον συγκροτηθῆναι αἰτήσαντες ἐν
+            τῇ Λαμψάκῳ συνῆλθον ἐν ὑπατείᾳ τῇ αὐτῇ: τοῦτο δὲ ἦν ἕβδομον ἔτος ἀπὸ τῆς ἐν Σελευκείᾳ
+            γενομένης συνόδου. Κἀκεῖ πάλιν τὴν ἐν Ἀντιοχείᾳ πίστιν ἐπιβεβαιώσαντες, ᾗ καὶ ἐν
+            Σελευκείᾳ ὑπέγραψαν, ἀναθεματίζουσι τὴν ἐν Ἀριμίνῳ ὑπὸ τῶν πρώην ὁμοδόξων ἐκτεθεῖσαν
+            πίστιν: καὶ αὖθις καταψηφίζονται τῶν περὶ Ἀκάκιον καὶ Εὐδόξιον, ὡς δικαίως
+            καθαιρεθέντων. Τούτοις οὐδὲν ἀντιλέγειν Εὐδόξιος ὁ τῆς Κωνσταντινουπόλεως ἐπίσκοπος
+            ἴσχυεν: οὐ γὰρ αὐτῷ ἀμύνασθαι τούτους ὁ ἐνεστηκὼς δημόσιος συνεχώρει πόλεμος. Διὸ καὶ οἱ
+            περὶ Ἐλεύσιον τὸν Κυζίκου ἐπίσκοπον ἐπικρατέστεροι τότε πρὸς ὀλίγον ἐγένοντο,
+            συγκροτήσαντες τὸ χρηματίσαν Μακεδονίου δόγμα, μικρόν τε ἔμπροσθεν καὶ τὸ ἐν τῇ κατὰ
+            Λάμψακον συνόδῳ γενόμενον φανερώτερον. Ταύτην ἐγὼ νομίζω τὴν σύνοδον αἰτίαν γενέσθαι τοῦ
+            πλεονάζειν ἐν Ἑλλησπόντῳ τοὺς Μακεδονιανοὺς χρηματίζοντας: ἡ γὰρ Λάμψακος ἐν τῷ στενῷ
+            τοῦ Ἑλλησπόντου κεῖται πορθμῷ. Αὕτη μὲν οὖν ἡ σύνοδος τοιαύτην ἔσχε τὴν ἔκβασιν. <ab type="source" source="#bib151-1"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        <note xml:lang="en" type="textual">Ed. Hussey and Bright 1893 with ref. to Hansen
+               1995</note>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote151-2">
         <anchor xml:id="testimonia-151.en.1" corresp="#testimonia-151.grc.1"/>After these events, neither the affairs of the State nor the affairs
-        of the Church were at peace. Now those who had been empowered by the emperor to hold a
-        council assembled at Lampsacus in the consulate just mentioned: this was seven years
-        after the Council of Seleucia [Isauria]. There, after confirming the Antiochene Creed to
-        which they had subscribed at Seleucia, they anathematized that which had been set forth
-        at Ariminum by their former associates in opinion. Moreover, again they condemned the
-        party of Acacius and Eudoxius, declaring that they had been justly deposed. Eudoxius,
-        bishop of Constantinople, had no power to refute these (determinations), because the
-        impending civil war did not permit him to avenge them. For this reason, Eleusius, bishop
-        of Cyzicus, and his supporters then became the stronger party for a little while, for
-        they adhered to the teachings of Macedonius, which had been obscure before but had grown
-        more visible through the synod at Lampsacus. This synod, I think, caused the growth of
-        the Macedonians in the Hellespont; for Lampsacus is situated in the narrow passage of
-        the Hellespont. Such was the issue of this council.<ab type="source" source="#bib151-2"/>
-        <note xml:lang="en" type="translation">Adapted from Zenos 1990 and Périchon and Maraval 2004-2007</note>
+            of the Church were at peace. Now those who had been empowered by the emperor to hold a
+            council assembled at Lampsacus in the consulate just mentioned: this was seven years
+            after the Council of Seleucia [Isauria]. There, after confirming the Antiochene Creed to
+            which they had subscribed at Seleucia, they anathematized that which had been set forth
+            at Ariminum by their former associates in opinion. Moreover, again they condemned the
+            party of Acacius and Eudoxius, declaring that they had been justly deposed. Eudoxius,
+            bishop of Constantinople, had no power to refute these (determinations), because the
+            impending civil war did not permit him to avenge them. For this reason, Eleusius, bishop
+            of Cyzicus, and his supporters then became the stronger party for a little while, for
+            they adhered to the teachings of Macedonius, which had been obscure before but had grown
+            more visible through the synod at Lampsacus. This synod, I think, caused the growth of
+            the Macedonians in the Hellespont; for Lampsacus is situated in the narrow passage of
+            the Hellespont. Such was the issue of this council. <ab type="source" source="#bib151-2"/>
         <idno type="CTS-URN"/>
         <ref target="https://archive.org/details/in.ernet.dli.2015.98162/page/n123/mode/2up"/>
+        <note xml:lang="en" type="translation">Adapted from Zenos 1990 and Périchon and Maraval
+               2004-2007</note>
       </ab>
       <listBibl>
         <head>Works Cited</head>
@@ -361,13 +391,13 @@
           <citedRange unit="p">116-119</citedRange>
         </bibl>
       </listBibl>
-      <note type="related-texts">
+    <note type="related-texts">
         <p>* Socrates of Constantinople, Church History 2.39.19-21</p>
         <p>Sozomen, Church History 6.7.8-6.7.9</p>
       </note>
       <note type="geography">
         <p>Antioch on the Orontes</p>
-        <p>Arminium</p>        
+        <p>Arminium</p>
         <p>Constantinople</p>
         <p>Cyzicus</p>
         <p>Hellespont</p>

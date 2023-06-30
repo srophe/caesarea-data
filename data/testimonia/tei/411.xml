@@ -1,8 +1,10 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-           <title xml:lang="en" level="a">Eusebius of Caesarea, <title level="m">Life of Constantine</title> 3.51-3.53</title>
+           <title xml:lang="en" level="a">Eusebius, <title level="m">Life of Constantine</title> 3.51-3.53</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
             <sponsor>Vanderbilt University</sponsor>
             <principal>Joseph L. Rife</principal>
@@ -12,7 +14,7 @@
         <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
         <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</editor>
         <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
-         <respStmt>
+      <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
@@ -40,7 +42,7 @@
                   <p>Except for materials quoted from other sources, this entry is copyright 2023 by the contributors (Joseph L. Rife, et al.) and the Caesarea City and Port Exploration Project. It is licensed under the Attribution 4.0 International (CC BY 4.0) license.</p> <p>Some texts quoted in this entry may be in the public domain in the United States. No copyright is asserted for these quotations.</p> <p>Some texts quoted in this entry may have copyright restrictions and are reused under Section 107 of the Copyright Act of 1976 (Title 17 of the United States Code) which permits “fair use” of copyrighted materials for purposes such as criticism, comment, scholarship, and research. These texts remain under copyright of their owners. No copyright infringement is intended.</p>
                </licence>
             </availability>
-            <date>2023-01-20-06:00</date>
+            <date>2023-06-30-05:00</date>
          </publicationStmt>
          <seriesStmt>
             <title level="s" xml:lang="en">Caesarea-Maritima.org: A Digital Archive</title>
@@ -256,7 +258,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Life of Constantine</title> <ref target="#bib411-1">3.51-3.53</ref> written by <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName> in <origDate notBefore="0355" notAfter="0359" period="#byzantine">355-359 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Life of Constantine</title> <ref target="#bib411-1">3.51-3.53</ref> written by <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius</persName> in <origDate notBefore="0355" notAfter="0359" period="#byzantine">355-359 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
         <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>
@@ -269,7 +271,8 @@
             <catRef scheme="#CM-NEAEH" target="#byzantine"/>
          </textClass>
       </profileDesc>
-      <revisionDesc status="draft">
+      <revisionDesc status="published">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2023-06-30-05:00">CHANGED: Proofreading and general edits</change>
          <change who="jrife" when="">ADDED: testimonium ID, URNs, URLs to edition and translation,
             and Bibl URIs</change>
          <change who="jrife" when="">CREATED: testimonium</change>
@@ -280,7 +283,7 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/411</idno>
          </ab>
-        <desc type="abstract" xml:id="abstract411-1">Caesarea Maritima is indirectly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Life of Constantine</title> <ref target="#bib411-1">3.51-3.53</ref>. This passage was written ca. <origDate notBefore="0355" notAfter="0359" period="#byzantine">355-359 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</desc>
+        <desc type="abstract" xml:id="abstract411-1">Caesarea Maritima is indirectly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Life of Constantine</title> <ref>3.51-3.53</ref>. This passage was written ca. <origDate notBefore="0355" notAfter="0359">355-359 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</desc>
          <desc type="context">In his biography of Constantine the Great, after recording the death
             of St. Helena, Eusebius describes the emperor’s efforts to erect churches and other
             places of Christian devotion across Palestine and in Constantinople, Nicomedia, and
@@ -303,14 +306,14 @@
             λογικωτέραν κατέπεμπε διδασκαλίαν, ἧς ἔμοιγε δοκεῖ τὸ ἴσον γράμμα τῷ παρόντι συνάψαι
             λόγῳ εἰς ἀκριβῆ διάγνωσιν τῆς τοῦ θεοφιλοῦς ἐπιμελείας. καταμεμψάμενος γοῦν ἡμῖν ἐφ’ οἷς
             ἐπύθετο πραττομένοις αὐτόθι τάδε κατὰ λέξιν ἔγραφε.<lb/>(52) “Νικητὴς Κωνσταντῖνος
-            Μέγιστος Σεβαστὸς Μακαρίῳ καὶ λοιποῖς ἐπισκόποις Παλαιστίνης.<lb/>Ἓν καὶ τοῦτο μέγιστον
+            Μέγιστος Σεβαστὸς Μακαρίῳ καὶ λοιποῖς ἐπισκόποις Παλαιστίνης.<lb/>“Ἓν καὶ τοῦτο μέγιστον
             τῆς ὁσιωτάτης μου κηδεστρίας γέγονεν εἰς ἡμᾶς εὐεργέτημα τὸ λανθάνουσαν μέχρι νῦν παρ’
             ὑμῖν ἐναγῶν ἀνθρώπων ἀπόνοιαν διὰ τῶν πρὸς ἡμᾶς γνωρίσαι γραμμάτων, ὡς τῆς πρεπούσης
             ἀπόνοιαν διὰ τῶν πρὸς ἡμᾶς γνωρίσαι γραμμάτων, ὡς τῆς πρεπούσης ἐπανορθώσεως καὶ
             θεραπείας εἰ καὶ βραδέως ἀλλ’ ὅμως ἀναγκαίως δι’ ἡμῶν τὸ παροφθὲν ἁμάρτημα τυχεῖν. καὶ
             γάρ ἐστιν ὡς ἀληθῶς δυσσέβημα παμμέγεθες τοὺς ἁγίους τόπους ὑπὸ τῶν ἀνοσίων χραίνεσθαι
             μιασμάτων. τί οὖν ἐστιν, ἀδελφοὶ προσφιλέστατοι, ὃ τὴν ὑμετέραν παρελθὸν ἀγχίνοιαν ἡ
-            προειρημένη διὰ τὴν πρὸς τὸ θεῖον εὐλάβειαν οὐχ οἵα τε γέγονεν ἀποσιωπῆσαι;<lb/>(53) τὸ
+            προειρημένη διὰ τὴν πρὸς τὸ θεῖον εὐλάβειαν οὐχ οἵα τε γέγονεν ἀποσιωπῆσαι;<lb/>(53) “τὸ
             χωρίον, ὅπερ παρὰ τὴν δρῦν τὴν Μαμβρῆ προσαγορεύεται, ἐν ᾧ τὸν Ἀβραὰμ τὴν ἑστίαν
             ἐσχηκέναι μανθάνομεν, παντοίως ὑπό τινων δεισιδαιμόνων μιαίνεσθαί φησιν· εἴδωλά τε γὰρ
             πάσης ἐξωλείας ἄξια παρ’ αὐτὴν ἱδρῦσθαι καὶ βωμὸν ἐδήλωσεν πλησίον ἑστάναι καὶ θυσίας
@@ -327,14 +330,14 @@
             γράμματος τούτου δυνήσεσθε, καὶ διαγράψαι βασιλικὴν τῆς ἐμῆς φιλοτιμίας ἀξίαν, ὅπως τοῖς
             προσταχθεῖσιν ἀκολούθως μετὰ πάσης ταχυτῆτος ἡ τοῦ ἔργου φαιδρότης κατ’ ἀξίαν τῆς τοῦ
             τόπου ἀρχαιότητός τε καὶ σεμνότητος προνοίᾳ τοῦ προειρημένου ἡμῶν κόμητος
-            τελεσιουργηθῆναι δυνηθῇ.<lb/>ἐκεῖνο δὲ πρόγε ἁπάντων παραφυλάξαι ὑμᾶς βούλομαι, ὅπως
+            τελεσιουργηθῆναι δυνηθῇ.<lb/>“ἐκεῖνο δὲ πρόγε ἁπάντων παραφυλάξαι ὑμᾶς βούλομαι, ὅπως
             μηδεὶς πρὸς τοὐπιὸν τῶν ἐναγῶν ἐκείνων καὶ μυσαρῶν ἀνθρώπων τῷ τόπῳ πλησιάσαι τολμήσῃ·
             ἔστι γὰρ ὡς ἀληθῶς ἡμῖν ἀφόρητον καὶ πᾶσι τοῖς τολμῶσι τιμωρίας ἄξιον μετὰ τὴν ἡμετέραν
             κέλευσιν ἀσεβές τι ἐν τῷ τοιούτῳ τόπῳ πραχθῆναι, ὃν καθαρῷ βασιλικῆς οἰκοδομήματι
             κοσμεῖσθαι διετάξαμεν, ὅπως ἁγίων ἀνθρώπων ἄξιον συνέδριον ἀποδειχθῇ. εἰ δέ τι παρὰ τὸ
             προσταχθὲν γενέσθαι συμβαίη, χωρίς τινος μελλήσεως τῇ ἡμετέρᾳ ἡμερότητι δι’ ὑμετέρων
             δηλαδὴ γραμμάτων γνωρισθῆναι πρέπει, ἵνα τὸν ἁλισκόμενον ὡς παρανομήσαντα τὴν ἀνωτάτω
-            κόλασιν ὑποστῆναι προστάξωμεν.<lb/>οὐ γὰρ ἀγνοεῖτε ἐκεῖ πρῶτον τὸν τῶν ὅλων δεσπότην θεὸν
+            κόλασιν ὑποστῆναι προστάξωμεν.<lb/>“οὐ γὰρ ἀγνοεῖτε ἐκεῖ πρῶτον τὸν τῶν ὅλων δεσπότην θεὸν
             καὶ ὦφθαι τῷ Ἀβραὰμ καὶ διειλέχθαι. ἐκεῖ μὲν οὖν πρῶτον ἡ τοῦ ἁγίου νόμου θρησκεία τὴν
             καταρχὴν εἴληφεν, ἐκεῖ πρῶτον ὁ σωτὴρ αὐτὸς μετὰ τῶν δύο ἀγγέλων τὴν ἑαυτοῦ ἐπιφάνειαν
             τῷ Ἀβραὰμ ἐπεδαψιλεύσατο, ἐκεῖ τοῖς ἀνθρώποις ὁ θεὸς ἤρξατο φαίνεσθαι, ἐκεῖ τῷ Ἀβραὰμ
@@ -356,23 +359,23 @@
          <ab type="translation" xml:lang="en" xml:id="quote411-2">
         <anchor xml:id="testimonia-411.en.1" corresp="#testimonia-411.grc.1"/>(51) These were the most important of the emperor’s (sc.
             Constantine’s) dedications. But when he learned that the same savior who had recently
-            appeared to the world had also in ancient times manifested himself to Godloving men in
-            Palestine near the oak tree called Mamre, he also ordered that a house of prayer by
+            appeared to the world had also in ancient times manifested himself to God-loving men in
+            Palestine near the oak tree called Mamre, he also ordered that a house of prayer be
             erected there in honor of the God who had been seen there. To the governors of the
             provinces an Imperial mandate was circulated through letters sent to each of them,
             commanding them to fulfill his instructions completely. But he also dispatched to the
             author of the present history a reasoned admonition, a copy of which I should, I think,
-            add to the present work to enable the concern of the Godbeloved to be accurately
+            add to the present work to enable the concern of the God-beloved to be accurately
             appreciated. He took us to task for what he had heard was going on here, and wrote in
             these exact terms:<lb/>(52) “The Victor Constantine Maximus Augustus to Macarius and the
-            other bishops of Palestine.<lb/>The greatest single service to us of my most saintly
+            other bishops of Palestine.<lb/>“The greatest single service to us of my most saintly
             mother-in-law has been to inform us through her letters to us of the mad folly of evil
             men, which has so far escaped attention among you, so that the neglected fault may
             receive appropriate corrective and restorative action from us, late perhaps but yet
             necessary. It is certainly a monstrous evil that the holy sites should be marred by
             sacrilegious abominations. What then is it, wellbeloved brothers, which has escaped your
             Intelligence, and the aforesaid lady’s (sc. Helena’s) reverence for the divine would not
-            let her suppress?<lb/>(53) The place by the oak tree which is known as Mamre, where we
+            let her suppress?<lb/>(53) “The place by the oak tree which is known as Mamre, where we
             understand Abraham made his home, has been completely spoiled, she says, by
             superstitious persons. Idols fit only for absolutely destruction have been set up beside
             it, she explains, and an altar stands nearby, and foul sacrifices are constantly
@@ -390,7 +393,7 @@
             the authority of this letter, and to design a basilica worthy of my munificence, so that
             in accordance with my oders and with all speed the splendor of the building can be
             brought to completion under the supervision of our aforesaid <foreign>comes</foreign> in
-            a manner fitting the antiquity and sacredness of the site.<lb/>Above all I wish you to
+            a manner fitting the antiquity and sacredness of the site.<lb/>“Above all I wish you to
             take particular care that in future none of those accursed and foul people dare to come
             near the place. It is to us quite intolerable and for all the culprits a punishable
             crime if any sacrilege is commited in such a place after our order, when we have given
@@ -398,7 +401,7 @@
             meeting-place fit for holy persons. Should anything occur contrary to this order, it is
             well that without any hesitation it should be reported to our Clemency by letters from
             you, so that we may order the person apprehended be subjected to the severest punishment
-            as having broken the law.<lb/>You are surely aware that there first God the Lord of the
+            as having broken the law.<lb/>“You are surely aware that there first God the Lord of the
             Universe both appeared to Abraham and spoke with him. It was there trherefore that the
             religion of the holy Law first had its beginning, there that the Savior himself with the
             two angels first vouchsafed the manifestation of himself to Abraham, there that God
@@ -428,7 +431,7 @@
           <citedRange unit="">141-143, 299-300</citedRange>
         </bibl>
       </listBibl>
-      <note type="related-texts">
+    <note type="related-texts">
         <p>Socrates of Constantinople, Church History 1.18.5-6</p>
         <p>Sozomen, Church History 2.3.6</p>
       </note>

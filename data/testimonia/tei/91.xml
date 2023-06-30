@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -14,7 +16,7 @@
             <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
             <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</editor>
             <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
-            <respStmt>
+         <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
         </respStmt>
@@ -26,7 +28,7 @@
                <resp>Testimonia identified by</resp>
                <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
             </respStmt>
-         </titleStmt>
+      </titleStmt>
          <editionStmt>
             <edition n="1.0"/>
          </editionStmt>
@@ -35,10 +37,10 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/91/tei</idno>
             <availability>
                <licence target="http://creativecommons.org/licenses/by/4.0">
-                  <p>Except for materials quoted from other sources, this entry is copyright 2022 by the contributors (Joseph L. Rife, et al.) and the Caesarea City and Port Exploration Project. It is licensed under the Attribution 4.0 International (CC BY 4.0) license.</p> <p>Some texts quoted in this entry may be in the public domain in the United States. No copyright is asserted for these quotations.</p> <p>Some texts quoted in this entry may have copyright restrictions and are reused under Section 107 of the Copyright Act of 1976 (Title 17 of the United States Code) which permits “fair use” of copyrighted materials for purposes such as criticism, comment, scholarship, and research. These texts remain under copyright of their owners. No copyright infringement is intended.</p>
+                  <p>Except for materials quoted from other sources, this entry is copyright 2023 by the contributors (Joseph L. Rife, et al.) and the Caesarea City and Port Exploration Project. It is licensed under the Attribution 4.0 International (CC BY 4.0) license.</p> <p>Some texts quoted in this entry may be in the public domain in the United States. No copyright is asserted for these quotations.</p> <p>Some texts quoted in this entry may have copyright restrictions and are reused under Section 107 of the Copyright Act of 1976 (Title 17 of the United States Code) which permits “fair use” of copyrighted materials for purposes such as criticism, comment, scholarship, and research. These texts remain under copyright of their owners. No copyright infringement is intended.</p>
                </licence>
             </availability>
-            <date>2022-10-19-05:00</date>
+            <date>2023-06-30-05:00</date>
          </publicationStmt>
          <seriesStmt>
             <title level="s" xml:lang="en">Caesarea-Maritima.org: A Digital Archive</title>
@@ -254,7 +256,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Theophany</title> <ref n="a" target="#bib91-1">fr. 6</ref> written by <persName role="author" ref=" http://viaf.org/viaf/185222663">Eusebius of
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Theophany</title> <ref target="#bib91-1">fr. 6</ref> written by <persName role="author" ref=" http://viaf.org/viaf/185222663">Eusebius of
                Caesarea</persName> in <origDate notBefore="0335" notAfter="0337" period="#byzantine">335-337 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
@@ -268,7 +270,8 @@
             <catRef scheme="#CM-NEAEH" target="#lateBronzeAge #ironAge #earlyRoman #herodian #byzantine"/>
          </textClass>
       </profileDesc>
-      <revisionDesc status="draft">
+      <revisionDesc status="published">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2023-06-30-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
          <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
       </revisionDesc>
@@ -280,17 +283,16 @@
          </ab>
          <desc type="abstract" xml:id="abstract91-1">
         <quote><placeName>Καισάρειαν τῆς Παλαιστίνης</placeName></quote>, and <quote><placeName>Caesarea Palestinae</placeName></quote> are directly attested at <persName role="author" ref=" http://viaf.org/viaf/185222663">Eusebius of
-               Caesarea</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Theophany</title> <ref n="a" target="#bib91-1">fr. 6</ref>. This passage was written ca. <origDate notBefore="0335" notAfter="0337" period="#byzantine">335-337 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
-         <desc type="context">Among his many writings, Eusebius produced a wide-ranging treatise on
-            theophany, or the divine manifestation, of Jesus Christ late in his career. The work
-            survives in two forms: fragmentary passages from the original cited by Nicetas of
+               Caesarea</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Theophany</title> <ref target="#bib91-1">fr. 6</ref>. This passage was written ca. <origDate notBefore="0335" notAfter="0337" period="#byzantine">335-337 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
+         <desc type="context">Among his many writings, late in his career Eusebius produced a
+            wide-ranging treatise on theophany, or the divine manifestation, of Jesus Christ. The
+            work survives in two forms: fragmentary passages from the original cited by Nicetas of
             Heracleia, an erudite deacon in Constantinople during the 11th century, and a Syriac
             translation by Ja’qob in Edessa in 411 C.E. This passage, found in the earliest
-            manuscript (Codex Vaticanus 1611 folio 83v, 12th century) and confirmed by the Syriac
-            translation (4.6 ed. Gressman and Laminski), is a commentary on the episode of Christ
-            and the disciples fishing on the Sea of Galilee. Eusebius cites the prosperity of the
-            Churchs of Caesarea, Antioch, and Rome as proof of St. Peter’s success as a fisher of
-            men.</desc>
+            manuscript and confirmed by the Syriac translation (4.6 ed. Gressman and Laminski), is a
+            commentary on the episode of Christ and the disciples fishing on the Sea of Galilee.
+            Eusebius cites the prosperity of the Churchs of Caesarea, Antioch, and Rome as proof of
+            St. Peter’s success as a fisher of men.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote91-1">
         <anchor xml:id="testimonia-91.grc.1" corresp="#testimonia-91.en.1"/>
             ὁ γοῦν ἀμφιβολεὺς
@@ -309,11 +311,13 @@
             αὐτὴν τὴν Ἀλεξάνδρειαν πάλιν αὐτός, οὐ μὴν δι’ αὑτοῦ, διὰ δὲ Μάρκου τοῦ μαθητευθέντος
             αὑτῷ κατεστήσατο. αὐτὸς μὲν γὰρ ἀμφὶ τὴν Ἰταλίαν καὶ πάντα τὰ ἀμφὶ ταύτην ἔθνη
             ἐσχόλαζεν, τὸν δ’ αὐτοῦ φοιτητὴν Μάρκον τῶν κατ’ Αἴγυπτον διδάσκαλον καὶ σαγηνευτὴν
-            ἀποδέδειχεν.<ab type="source" source="#bib91-1"/>
-        <idno type="CTS-URN"/>
+            ἀποδέδειχεν. 
+         <ab type="source" source="#bib91-1"/>
+        <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/"/>
         <ref target="https://scaife.perseus.org/reader/urn:cts:greekLit:tlg2018.tlg010.1st1K-grc1:6"/>
         <note xml:lang="en" type="textual">Ed. Gressmann 1904 with ref. to Gressmand and Laminski
                1992</note>
+        <note xml:lang="en" type="textual">Codex Vaticanus 1611 folio 83v (12th century)</note>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote91-2">
         <anchor xml:id="testimonia-91.en.1" corresp="#testimonia-91.grc.1"/>
@@ -333,7 +337,8 @@
             and commemorated these, and all those around them. And again he established the Churches
             in Egypt, in Alexandria itself, not on his own but through Mark, his disciple. For while
             he pursued his devotion around Italy and all neighboring nations, he appointed his
-            student Mark to be teacher and netcaster in Egypt.<ab type="source" source="#bib91-2"/>
+            student Mark to be teacher and netcaster in Egypt.
+         <ab type="source" source="#bib91-2"/>
         <idno type="CTS-URN"/>
         <ref target="http://www.tertullian.org/fathers/eusebius_theophania_05book4.htm"/>
         <note xml:lang="en" type="translation">Trans. J. L.

@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
@@ -17,7 +16,23 @@
         <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
         <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</editor>
         <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
-         <respStmt>
+      <respStmt>
+          <resp>TEI record created by</resp>
+          <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium translated by</resp>
+          <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium transcribed by</resp>
+          <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium identified by</resp>
+          <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
+        </respStmt>
+        <respStmt>
           <resp>TEI record created by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
@@ -45,7 +60,7 @@
                   <p>Except for materials quoted from other sources, this entry is copyright 2023 by the contributors (Joseph L. Rife, et al.) and the Caesarea City and Port Exploration Project. It is licensed under the Attribution 4.0 International (CC BY 4.0) license.</p> <p>Some texts quoted in this entry may be in the public domain in the United States. No copyright is asserted for these quotations.</p> <p>Some texts quoted in this entry may have copyright restrictions and are reused under Section 107 of the Copyright Act of 1976 (Title 17 of the United States Code) which permits “fair use” of copyrighted materials for purposes such as criticism, comment, scholarship, and research. These texts remain under copyright of their owners. No copyright infringement is intended.</p>
                </licence>
             </availability>
-            <date>2023-04-28-05:00</date>
+            <date>2023-06-30-05:00</date>
          </publicationStmt>
          <seriesStmt>
             <title level="s" xml:lang="en">Caesarea-Maritima.org: A Digital Archive</title>
@@ -275,7 +290,8 @@
             <catRef scheme="#CM-NEAEH" target="#earlyIslamic"/>
          </textClass>
       </profileDesc>
-      <revisionDesc status="draft">
+      <revisionDesc status="published">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2023-06-30-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2023-04-28-05:00">CREATED: testimonium</change>
       </revisionDesc>
    </teiHeader>
@@ -285,7 +301,7 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/481</idno>
          </ab>
          <desc type="abstract" xml:id="abstract481-1">and <quote><placeName>Kaisareia</placeName></quote> is directly attested at <persName ref="http://viaf.org/viaf/34444948" role="author">George
-               Choeroboscus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Parsings on Psalms</title> <ref target="#bib481-1">20.13-24</ref>. This passage was written ca. <origDate notBefore="815" notAfter="845" period="#earlyIslamic">ca. 815-845 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+               Choeroboscus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Parsings on Psalms</title> <ref>20.13-24</ref>. This passage was written ca. <origDate notBefore="815" notAfter="845">ca. 815-845 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
          <desc type="context">George Choeroboscus (“Swineherd”), whose posthumous reputation may
             have suffered from an association with iconoclasm, was a ranking official and teacher in
             the Patriarchate of Constantinople during the early 9th century. He played an important
@@ -307,7 +323,7 @@
         <idno type="CTS-URN"/>
         <ref target="https://archive.org/details/dictataintheodos03choeuoft/page/n25/mode/2up"/>
         <note xml:lang="en" type="textual">Ed. Gaisford 1842</note>
-        <note xml:lang="en" type="textual">Minor corrections (punctuation)</note>
+        <note xml:lang="en" type="corrigenda">Minor corr. (punctuation)</note>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote481-2">
         <anchor xml:id="testimonia-481.en.1" corresp="#testimonia-481.grc.1"/>What is the difference between <foreign>desmos</foreign> [“binding”]
@@ -316,21 +332,21 @@
                <foreign>syndesmos</foreign> in regard to many.<lb/>What kind of conjunction is the
             word <foreign>kai</foreign>?<lb/>Copulative.<lb/>Define.<lb/>Copulatives are the many
             conjunctions that bind together an expression formed for its unboundedness.<lb/>As for the
-            word <foreign>kai</foreign>, why do you write ai?<lb/>Every word beginning with the
-            syllable <foreign>ke</foreign> is written with a plain epsilon, e.g. <foreign>keramos,
-               kephale</foreign>; apart from the conjunction <foreign>kai</foreign>, and
-               <foreign>kairos, kairion</foreign>, <foreign>Kaisar</foreign> and the words made from
-            it <foreign>Kaisareus</foreign>, <foreign>
-          <placeName>Kaisareia</placeName>
-        </foreign>;
-            and words that have a prominent alpha, such as the verb <foreign>kaio, kauso</foreign>,
-            and <foreign>kaikias</foreign> the wind, and <foreign>Kaineus</foreign> the proper noun,
+            word <foreign>kai</foreign>, why do you write <foreign>ai</foreign>?<lb/>Every word
+            beginning with the syllable <foreign>ke</foreign> is written with a plain epsilon, e.g.
+               <foreign>keramos, kephale</foreign>; apart from the conjunction
+               <foreign>kai</foreign>, and <foreign>kairos, kairion</foreign>,
+               <foreign>Kaisar</foreign> and the words made from it <foreign>Kaisareus</foreign>,
+                  <foreign>
+          <placeName>Kaisareia</placeName>; and words that have a prominent alpha,
+               such as the verb </foreign>
+        <foreign>kaio, kauso</foreign>, and
+               <foreign>kaikias</foreign> the wind, and <foreign>Kaineus</foreign> the proper noun,
             and <foreign>kainon</foreign> “the thing just now put together”; and
                <foreign>kenos</foreign> “the vain man” with the voiceless unaspirated (kappa), from
             the verb <foreign>cheo</foreign>, <foreign>chenos</foreign> and
                <foreign>kenos</foreign>.<note xml:lang="en" type="translation">Trans. J. L.
                Rife</note>
-        <note xml:lang="en" type="discussion"> </note>
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -342,7 +358,7 @@
           <citedRange unit="line">13-24</citedRange>
         </bibl>
       </listBibl>
-      <note type="related-texts">
+    <note type="related-texts">
         <p>* Gennadius Scholarius, Introduction to Grammar 2.457.5-9</p>
         <p>* Pseudo-Aelius Herodian, Parsings 63</p>
         <p>* Unknown, Great Dictionary of Word Origins p. 498.7-15</p>

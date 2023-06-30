@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -13,7 +15,7 @@
         <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
         <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</editor>
         <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
-         <respStmt>
+      <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
@@ -41,7 +43,7 @@
                   <p>Except for materials quoted from other sources, this entry is copyright 2023 by the contributors (Joseph L. Rife, et al.) and the Caesarea City and Port Exploration Project. It is licensed under the Attribution 4.0 International (CC BY 4.0) license.</p> <p>Some texts quoted in this entry may be in the public domain in the United States. No copyright is asserted for these quotations.</p> <p>Some texts quoted in this entry may have copyright restrictions and are reused under Section 107 of the Copyright Act of 1976 (Title 17 of the United States Code) which permits “fair use” of copyrighted materials for purposes such as criticism, comment, scholarship, and research. These texts remain under copyright of their owners. No copyright infringement is intended.</p>
                </licence>
             </availability>
-            <date>2023-01-20-06:00</date>
+            <date>2023-06-30-05:00</date>
          </publicationStmt>
          <seriesStmt>
             <title level="s" xml:lang="en">Caesarea-Maritima.org: A Digital Archive</title>
@@ -258,7 +260,7 @@
             <p/>
          </abstract>
          <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Church History</title> <ref target="#bib382-1">1.18.5-1.18.6</ref> written by <persName ref=" http://viaf.org/viaf/55571017" role="author">Socrates of
-               Constantinople</persName> in <origDate notBefore="0439" notAfter="0450" period="#byzantine">439-450 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
+               Constantinople</persName> in <origDate notBefore="0439" notAfter="0450" period="#byzantine">ca. 439-450 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
         <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>
@@ -271,7 +273,8 @@
             <catRef scheme="#CM-NEAEH" target="#middleBronzeAge #byzantine"/>
          </textClass>
       </profileDesc>
-      <revisionDesc status="draft">
+      <revisionDesc status="published">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2023-06-30-05:00">CHANGED: Proofreading and general edits</change>
          <change who="jrife" when="">ADDED: testimonium ID, URNs, URLs to edition and translation,
             and Bibl URIs</change>
          <change who="jrife" when="">CREATED: testimonium</change>
@@ -283,14 +286,13 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/382</idno>
          </ab>
          <desc type="abstract" xml:id="abstract382-1">Caesarea Maritima is indirectly attested at <persName ref=" http://viaf.org/viaf/55571017" role="author">Socrates of
-               Constantinople</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Church History</title> <ref target="#bib382-1">1.18.5-1.18.6</ref>. This passage was written ca. <origDate notBefore="0439" notAfter="0450" period="#byzantine">439-450 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+               Constantinople</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Church History</title> <ref>1.18.5-1.18.6</ref>. This passage was written ca. <origDate notBefore="0439" notAfter="0450">ca. 439-450 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
          <desc type="context">Socrates of Constantinople, the “Scholastic,” was an otherwise unknown
-            historian during the reign of Theodosius II during the early 5th century. He wrote his
-            account of the Church from 305 to 439 to continue Eusebius of Caesarea, adopting a
-            particular perspective on the relationship between Imperial and ecclesiastical
-            authority. In this passage, Socrates records Constantine’s correspondence with Eusebius,
-            wherein the emperor exhorts the bishop to maintain the site of the Oak of Mambre as a
-            place of Christian worship.</desc>
+            historian of the early 5th century. He wrote his account of the Church from 305 to 439
+            to continue Eusebius of Caesarea, adopting a particular perspective on the relationship
+            between Imperial and ecclesiastical authority. In this passage, Socrates records
+            Constantine’s correspondence with Eusebius, wherein the emperor exhorts the bishop to
+            maintain the site of the Oak of Mambre as a place of Christian worship.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote382-1">
         <anchor xml:id="testimonia-382.grc.1" corresp="#testimonia-382.en.1"/>(5) Αὖθις δὲ ἑτέρας ἐκκλησίας ἐποίει, καὶ μίαν μὲν ἐν τῇ καλουμένῃ δρυὶ
             τῇ Μαμβρῇ, ὑφ’ ᾗ τοὺς ἀγγέλους ἐξενίσθαι πρὸς τοῦ Ἀβραὰμ οἱ ἱεροὶ λόγοι μηνύουσιν,
@@ -304,8 +306,8 @@
                1995</note>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote382-2">
-        <anchor xml:id="testimonia-382.en.1" corresp="#testimonia-382.grc.1"/>(5) Again he (sc. Constantine) built other churches, one of which
-            was erected near the Oak of Mambre, under which the Sacred Oracles declare that Abraham
+        <anchor xml:id="testimonia-382.en.1" corresp="#testimonia-382.grc.1"/>(5) Again (Constantine) built other churches, one of which was
+            erected near the Oak of Mambre, under which the Sacred Oracles declare that Abraham
             entertained angels. (6) For when the emperor had learned that an altar had been
             established under that oak and pagan sacrifices were enacted on it, he censured Eusebius
             bishop of Caesarea in a letter, and he ordered that the altar should be demolished and a
@@ -340,7 +342,7 @@
           <citedRange unit="p">184-185</citedRange>
         </bibl>
       </listBibl>
-      <note type="related-texts">
+    <note type="related-texts">
         <p>* Eusebius, Life of Constantine 3.51-3.53</p>
         <p>Genesis 18:1-7</p>
       </note>

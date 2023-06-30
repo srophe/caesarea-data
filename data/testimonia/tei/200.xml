@@ -1,8 +1,10 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="en" level="a">Procopius, <title level="m">Secret History</title> 29.17-29.25</title>
+        <title xml:lang="en" level="a">Procopius , <title level="m">Secret History</title> 29.17-29.25</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
         <sponsor>Vanderbilt University</sponsor>
         <principal>Joseph L. Rife</principal>
@@ -11,7 +13,6 @@
         <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#dmichelson">David A. Michelson</editor>
         <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
         <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</editor>
-        
         <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#eyonan">Eliana Yonan</editor>
         <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
       <respStmt>
@@ -50,7 +51,7 @@
             <p>Except for materials quoted from other sources, this entry is copyright 2023 by the contributors (Eliana Yonan, et al.) and the Caesarea City and Port Exploration Project. It is licensed under the Attribution 4.0 International (CC BY 4.0) license.</p> <p>Some texts quoted in this entry may be in the public domain in the United States. No copyright is asserted for these quotations.</p> <p>Some texts quoted in this entry may have copyright restrictions and are reused under Section 107 of the Copyright Act of 1976 (Title 17 of the United States Code) which permits “fair use” of copyrighted materials for purposes such as criticism, comment, scholarship, and research. These texts remain under copyright of their owners. No copyright infringement is intended.</p>
           </licence>
         </availability>
-        <date>2023-01-20-05:00</date>
+        <date>2023-06-30-05:00</date>
       </publicationStmt>
       <seriesStmt>
         <title level="s" xml:lang="en">Caesarea-Maritima.org: A Digital Archive</title>
@@ -265,20 +266,21 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:greekLit:tlg4029.tlg002" type="uniform" level="m">Secret History</title> <ref target="#bib200-1">29.17-29.25</ref> written by <persName ref="http://viaf.org/viaf/100172302" role="author">Procopius of Caesarea</persName> in <origDate notBefore="0550" notAfter="0560" period="#byzantine">550-560 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:greekLit:tlg4029.tlg002" type="uniform" level="m">Secret History</title> <ref target="#bib200-1">29.17-29.25</ref> written by <persName ref="http://viaf.org/viaf/100172302" role="author">Procopius </persName> in <origDate notBefore="0550" notAfter="0560" period="#byzantine">550-560 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
       <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
         <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>
       </langUsage>
       <textClass>
         <classCode scheme="https://distributed-text-services.github.io/specifications">
-          <idno xml:base="http://data.perseus.org/citations/" type="CTS-URN">urn:cts:greekLit:tlg4029.tlg002:29.17-29.25</idno>
+          <idno xml:base="http://data.perseus.org/citations/" type="CTS-URN">urn:cts:greekLit:tlg4029.tlg002:29.17-29.18</idno>
         </classCode>
-        <catRef scheme="#CM-Testimonia-Type" target="#direct"/>
+        <catRef scheme="#CM-Testimonia-Type" target="#indirect"/>
         <catRef scheme="#CM-NEAEH" target="#byzantine"/>
       </textClass>
     </profileDesc>
     <revisionDesc status="published">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2023-06-30-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2023-01-20-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#wpotter" when="2020-06-10-05:00">ADDED: testimonium ID, URNs, URLs to edition and translation, and Bibl URIs</change>
       <change who="jrife" when="2020-06-10-05:00">CREATED: testimonium</change>
@@ -289,8 +291,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/200</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract200-1">
-        <quote><placeName>Καισαρέων</placeName></quote>, and <quote><placeName>Caesareans</placeName></quote> are place names attested at <persName ref="http://viaf.org/viaf/100172302" role="author">Procopius</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg4029.tlg002" type="uniform" level="m">Secret History</title> <ref target="#bib200-1">29.17-29.25</ref>. This passage was written ca. <origDate notBefore="0550" notAfter="0560" period="#byzantine">550-560 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract200-1">Caesarea Maritima is indirectly attested at <persName ref="http://viaf.org/viaf/100172302" role="author">Procopius </persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg4029.tlg002" type="uniform" level="m">Secret History</title> <ref target="#bib200-1">29.17-29.25</ref>. This passage was written ca. <origDate period="#byzantine" notBefore="0550" notAfter="0560">550-560 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
       <desc type="context">Procopius, a native of Caesarea Maritima who excelled in his classical
         education and legal training, was the preeminent historian of the reign of Justinian. As a
         field advisor to the general Belisarius and a ranking member of the governing class in
@@ -298,14 +299,14 @@
         society in the late Empire. Among his influential writings was the unusual “secret” or
         “unpublished history” (ἀπόκρυφη/ἀνεκδοτή ἱστορία), a collection of vignettes often with a
         polemical or satirical flavor that portrayed the vices and failures of the emperor, the
-        empress, and their entourage. In this passage Procopius describes the legal and political
+        empress, and their entourage. In this passage, Procopius describes the legal and political
         complexities of inheritance among the civic elite of the Palestinian coast, including the
-        family of one Maximilianus of Caesarea, whom Procopius may have known.</desc>
+        family of one Maximilian of Caesarea, whom Procopius may have known.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote200-1">
         <anchor xml:id="testimonia-200.grc.1" corresp="#testimonia-200.en.1"/>(17) Τούτων δὲ τὸ
         ἐχόμενον ὑπὸ χρόνον τε τὸν αὐτὸν γεγονὸς οὐκ ἂν σιωπῴην. Ἀνατόλιός τις ἦν ἐν Ἀσκαλωνιτῶν τῷ
         λευκώματι τὰ πρωτεῖα ἔχων τούτου τὴν παῖδα γαμετὴν γυναῖκα τῶν τις
-        <placeName>Καισαρέων</placeName> πεποίηται, (18) Μαμιλιανὸς ὄνομα, οἰκίας ἐπιφανοῦς ἄγαν.
+          <placeName>Καισαρέων</placeName> πεποίηται, (18) Μαμιλιανὸς ὄνομα, οἰκίας ἐπιφανοῦς ἄγαν.
         ἦν δὲ ἡ κόρη ἐπίκληρος ἐπεὶ μόνης αὐτῆς Ἀνατόλιος ἐγεγόνει πατήρ. (19) νόμῳ δὲ ἄνωθεν
         διωρισμένον ἐπειδὰν βουλευτὴς τῶν τινος πόλεων οὐκ ἀπολελειμμένων οἱ παίδων γόνου ἄρρενος ἐξ
         ἀνθρώπων ἀφανισθείη, τῶν ἀπολελειμμένων ὑπὸ τούτου χρημάτων τὸ μὲν τεταρτημόριον δίδοσθαι
@@ -330,7 +331,7 @@
         χρήματα ἐληΐσατο ταῦτα, ὡς τὸν στατῆρα προεῖται τῆς εὐσεβείας ἕνεκα· ‘ἔθος γάρ μοι’, ἔφη,
         ‘τά τε ὅσια καὶ εὐσεβῆ πράττειν.’
       <ab type="source" source="#bib200-1"/>
-        <idno type="CTS-URN" xml:base="http://data.perseus.org/citations/"/>
+        <idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg4029.tlg002.perseus-grc1:29.17</idno>
         <ref target="http://data.perseus.org/citations/urn:cts:greekLit:tlg4029.tlg002.perseus-grc1:29.17"/>
         <note xml:lang="en" type="textual">Ed. Wirth 1963 [cited by
           chapter-section]</note>
@@ -338,22 +339,22 @@
       <ab type="translation" xml:lang="en" xml:id="quote200-2">
         <anchor xml:id="testimonia-200.en.1" corresp="#testimonia-200.grc.1"/> (17) I could not
         stay silent on another matter related to these incidents at about the same time. There was a
-        certain Anatolius who held high rank among the Senators in Askalon. This man’s daughter had
-        been married to one of the <placeName>Caesareans</placeName>, Maximilianus by name, of a
-        very distinguished house. (18) The girl was an heiress, because Anatolius had produced no
-        other child. (19) Now it had been defined by ancient law that, whenever a Senator of one of
-        the cities departed this life without leaving behind male offspring, one quarter of his
-        estate would be given over to the city’s Senate, while the natural heirs of the deceased
-        would enjoy all the remainder. But the Emperor here too gave evidence of his true character.
-        For he happened to have promulgated a law recently that arranged matters in just the
-        opposite way. It provided that, whenever a Senator died without male offspring, the natural
-        heirs should have one quarter of his estate, but the remainder went to the Treasury and the
+        certain Anatolius who held high rank among the Senators in Ascalon. This man’s daughter had
+        been married to one of the <placeName>Caesareans</placeName>, Maximilian by name, of a very
+        distinguished house. (18) The girl was an heiress, because Anatolius had produced no other
+        child. (19) Now it had been defined by ancient law that, whenever a Senator of one of the
+        cities departed this life without leaving behind male offspring, one quarter of his estate
+        would be given over to the city’s Senate, while the natural heirs of the deceased would
+        enjoy all the remainder. But the Emperor here too gave evidence of his true character. For
+        he happened to have promulgated a law recently that arranged matters in just the opposite
+        way. It provided that, whenever a Senator died without male offspring, the natural heirs
+        should have one quarter of his estate, but the remainder went to the Treasury and the
         account of the city’s Senate. (20) And yet never in the history of humanity has the Treasury
         or the Emperor been empowered to share in senatorial property. (21) So when this law was in
         force, Anatolius came to the end of his days, and his daughter distributed his estate to the
         Treasury and the city’s Senate according to the law. And so both the Emperor himself and the
         Senators of Askalon wrote letters to her idemnifying her against any claim on her share, as
-        they had received the amount owed them correctly and justly. (22) Later on Maximilianus also
+        they had received the amount owed them correctly and justly. (22) Later on Maximilian also
         departed this life, the son-in-law of the late Anatolius, leaving behind only one child, a
         daughter, who naturally received her father’s estate. (23) Later, while her mother was still
         alive, she too reached the end of her days. She had been married to a member of the elite

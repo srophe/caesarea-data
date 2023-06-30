@@ -1,9 +1,11 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title xml:lang="en" level="a">Socrates of Constantinople, <title level="m">Church
-          History</title> 2.9.1-2.9.5</title>
+          History</title> 2.4</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
         <sponsor>Vanderbilt University</sponsor>
         <principal>Joseph L. Rife</principal>
@@ -13,11 +15,10 @@
         <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#dmichelson">David A. Michelson</editor>
         <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
         <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</editor>
-        
         <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#jwoods">Joshua Woods</editor>
         <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#eyonan">Eliana Yonan</editor>
         <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
-        <respStmt>
+      <respStmt>
         <resp>TEI encoding by</resp>
         <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
       </respStmt>
@@ -45,7 +46,7 @@
             <p>Except for materials quoted from other sources, this entry is copyright 2023 by the contributors (Joshua Woods, et al.) and the Caesarea City and Port Exploration Project. It is licensed under the Attribution 4.0 International (CC BY 4.0) license.</p> <p>Some texts quoted in this entry may be in the public domain in the United States. No copyright is asserted for these quotations.</p> <p>Some texts quoted in this entry may have copyright restrictions and are reused under Section 107 of the Copyright Act of 1976 (Title 17 of the United States Code) which permits “fair use” of copyrighted materials for purposes such as criticism, comment, scholarship, and research. These texts remain under copyright of their owners. No copyright infringement is intended.</p>
           </licence>
         </availability>
-        <date>2023-01-20-05:00</date>
+        <date>2023-06-30-05:00</date>
       </publicationStmt>
       <seriesStmt>
         <title level="s" xml:lang="en">Caesarea-Maritima.org: A Digital Archive</title>
@@ -262,21 +263,21 @@
         <p/>
       </abstract>
       <creation>This entry is taken from <title xml:lang="en" type="uniform" level="m">Church
-          History</title>
-        <ref n="a" target="#bib150-1">2.9.1-2.9.5</ref> written by <persName ref="https://viaf.org/viaf/55571017" role="author">Socrates of Constantinople</persName> in <origDate notBefore="0439" notAfter="0450" period="#byzantine">439-450 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
+          History</title> <ref target="#bib150-1">2.4</ref> written by <persName ref="https://viaf.org/viaf/55571017" role="author">Socrates of Constantinople</persName> in <origDate notBefore="0439" notAfter="0450" period="#byzantine">ca. 439-450 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
       <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
         <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>
       </langUsage>
       <textClass>
         <classCode scheme="https://distributed-text-services.github.io/specifications">
-          <idno xml:base="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=" type="CTS-URN">urn:cts:greekLit:tlg2057.tlg002:2.9.1-2.9.5</idno>
+          <idno xml:base="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=" type="CTS-URN">urn:cts:greekLit:tlg2057.tlg002:2.4</idno>
         </classCode>
         <catRef scheme="#CM-Testimonia-Type" target="#direct"/>
         <catRef scheme="#CM-NEAEH" target="#byzantine"/>
       </textClass>
     </profileDesc>
     <revisionDesc status="published">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2023-06-30-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2023-01-20-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#wpotter" when="2020-06-10-05:00">ADDED: testimonium ID, URNs, URLs to edition and translation, and Bibl URIs</change>
@@ -289,73 +290,60 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/150</idno>
       </ab>
       <desc type="abstract" xml:id="abstract150-1">
-        <quote><placeName xml:lang="grc">τὴν ἐπισκοπὴν Καισαρείας</placeName></quote>, <quote><placeName xml:lang="grc">τῆς ἐν Παλαιστίνῃ Καισαρείας</placeName></quote>, <quote><placeName xml:lang="en">Bishopric of Cæsarea.</placeName></quote>,  and <quote><placeName xml:lang="en">of Cæsarea in Palestine,</placeName></quote> are directly attested at <persName ref="https://viaf.org/viaf/55571017" role="author">Socrates of Constantinople</persName>, <title xml:lang="en" type="uniform" level="m">Church
-        History</title> <ref n="a" target="#bib150-1">2.9.1-2.9.5</ref>. This passage was written ca. <origDate notBefore="0439" notAfter="0450" period="#byzantine">439-450 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+        <quote><placeName>Παλαιστίνῃ Καισαρείας</placeName></quote>, and <quote><placeName>Caesarea in Palestine</placeName></quote> are directly attested at <persName ref="https://viaf.org/viaf/55571017" role="author">Socrates of Constantinople</persName>, <title xml:lang="en" type="uniform" level="m">Church
+          History</title> <ref target="#bib150-1">2.4</ref>. This passage was written ca. <origDate period="#byzantine" notBefore="0439" notAfter="0450">ca. 439-450 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
       <desc type="context">Socrates of Constantinople, the “Scholastic,” was an otherwise unknown
-        historian during the reign of Theodosius II during the early 5th century. He wrote his
-        account of the Church from 305 to 439 to continue Eusebius of Caesarea, adopting a
-        particular perspective on the relationship between Imperial and ecclesiastical authority. In
-        this passage concerning the events of the Council of Antioch in 341, Socrates offers a brief
-        portrait of the learned Eusebius of Emesa, who had studied at Caesarea, and who later
-        declined to lead the see of Alexandria following the demise of Athanasius.</desc>
+        historian of the early 5th century. He wrote his account of the Church from 305 to 439 to
+        continue Eusebius of Caesarea, adopting a particular perspective on the relationship between
+        Imperial and ecclesiastical authority. In this passage, Socrates mentions the death of
+        Eusebius in 339 C.E. and his successor, Acacius.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote150-1">
-        <anchor xml:id="testimonia-150.grc.1" corresp="#testimonia-150.en.1"/>(1) Ἐπὶ τούτοις τότε
-        τῆς διαβολῆς γενομένης προχειρίζονται τῆς Ἀλεξανδρείας ἐπίσκοπον πρῶτον μὲν Εὐσέβιον τὸν
-        ἐπικληθέντα Ἐμεσηνόν. Τίς δ’ οὗτος ἦν, διδάσκει Γεώργιος ὁ Λαοδικείας ἐπίσκοπος, ὃς τότε
-        παρῆν ἐν τῇ συνόδῳ. (2) Φησὶ γὰρ ἐν τῷ εἰς αὐτὸν πεπονημένῳ ἐγκωμίῳ, ὡς εἴη Εὐσέβιος ἐκ τῶν
-        εὐπατριδῶν τῆς ἐν Μεσοποταμίᾳ Ἐδέσσης καταγόμενος, ἐκ νέας τε ἡλικίας τὰ ἱερὰ μαθὼν
-        γράμματα, (3) εἶτα τὰ Ἑλλήνων παιδευθεὶς παρὰ τῷ τηνικαῦτα τῇ Ἐδέσσῃ ἐπιδημήσαντι παιδευτῇ,
-        τέλος ὑπὸ Πατροφίλου καὶ Εὐσεβίου τὰ ἱερὰ ἡρμηνεύσθη βιβλία, ὧν ὁ μὲν τῆς ἐν
-        <placeName>Καισαρείᾳ</placeName>, Πατρόφιλος δὲ τῆς ἐν Σκυθοπόλει προεστήκει ἐκκλησίας.
-        (4) Μετὰ ταῦτα δὲ ἐπιδημήσαντος αὐτοῦ τῇ Ἀντιοχείᾳ, ἐπεὶ συνέβη Εὐστάθιον ὑπὸ Κύρου
-        κατηγορηθέντα τοῦ Βεροιέως καθαιρεθῆναι ὡς σαβελλίζοντα, (5) εἶτ’ αὖθις τὸν Εὐσέβιον
-        συνεῖναι Εὐφρονίῳ τῷ διαδεξαμένῳ Εὐστάθιον, φεύγοντά τε τὴν ἱερωσύνην καταλαβεῖν τὴν
-        Ἀλεξάνδρειαν κἀκεῖ μαθεῖν τὰ φιλόσοφα.<ab type="source" source="#bib150-1"/>
-        <idno type="CTS-URN"/>
+        <anchor xml:id="testimonia-150.grc.1" corresp="#testimonia-150.en.1"/> Ἐν δὲ τῷδε τῷ χρόνῳ
+        τελευτήσαντος Εὐσεβίου, ὃς τῆς ἐν <placeName>Παλαιστίνῃ Καισαρείας</placeName> ἐπίσκοπος ἦν
+        καὶ τὴν Παμφίλου προσωνυμίαν ἐκέκτητο, Ἀκάκιος μαθητὴς αὐτοῦ τὴν ἐπισκοπὴν διαδέχεται· ὃς
+        καὶ ἄλλα μὲν πολλὰ βιβλία ἐξέθετο καὶ εἰς τὸν βίον δὲ τοῦ διδασκάλου {αὐτοῦ}
+          συνέγραψεν.
+      <ab type="source" source="#bib150-1"/>
+        <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/"/>
         <ref/>
-        <note type="textual">Ed. Hussey and Bright 1893 with ref. to Hansen 1995</note>
+        <note xml:lang="en" type="textual">Ed. Hussey and Bright 1893</note>
+        <note xml:lang="en" type="corrigenda">Minor corr. with ref. to Hansen 1995 [cited by
+          book-chapter-section]</note>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote150-2">
-        <anchor xml:id="testimonia-150.en.1" corresp="#testimonia-150.grc.1"/>(1) On the ground
-        of these charges, they elected as first choice for Bishop of Alexandria Eusebius, called the
-        Emesene. George, bishop of Laodicea who was present at the synod, informs us who this person
-        was. (2) For he says in the encomium which he has composed to him that Eusebius was
-        descended from the nobility of Edessa in Mesopotamia, and that from a young age he had
-        studied the Holy Scriptures; (3) that he was afterwards instructed in Greek literature by a
-        teacher residing at the time in Edessa; and finally that the Sacred Books were expounded to
-        him by Patrophilus and Eusebius, of whom the latter presided over the Church at
-        <placeName>Caesarea</placeName> and the former over the Church at Scythopolis. (4)
-        Afterwards, when he lived in Antioch, it happened that Eustathius, bishop of Alexandria, was
-        deposed on the accusation of Cyrus of Beroea for holding the tenets of Sabellius. (5) Then
-        again Eusebius associated with Euphronius, successor of Eustathius, and avoiding office in
-        the Church returned to Alexandria, and there studied philosophy.<ab type="source" source="#bib150-2"/>
+        <anchor xml:id="testimonia-150.en.1" corresp="#testimonia-150.grc.1"/>At this time
+        Eusebius, who was bishop of <placeName>Caesarea in Palestine</placeName> and used the
+        surname Pamphili, died. Acacius his student succeeded him as bishop. He published many
+        books, and composed a biography of his teacher.
+      <ab type="source" source="#bib150-2"/>
         <idno type="CTS-URN"/>
         <ref/>
-        <note type="translation">Adapted from Zenos 1890 with ref. to Périchon and Maraval 2005</note>
+        <note xml:lang="en" type="translation">Adapted from Zenos
+          1890 with ref. to Périchon and Maraval 2005</note>
       </ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib150-1">
           <ptr target="https://caesarea-maritima.org/bibl/48ZUTZTI"/>
-          <citedRange unit="section">2.9.1-2.9.5</citedRange>
+          <citedRange unit="section">2.4</citedRange>
         </bibl>
         <bibl xml:id="bib150-2">
           <ptr target="https://caesarea-maritima.org/bibl/ZKWVT3EK"/>
-          <citedRange unit="p">112</citedRange>
+          <citedRange unit="p">107</citedRange>
         </bibl>
       </listBibl>
       <listBibl>
         <head>Additional Bibliography</head>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/YMSN6NC9"/>
-          <citedRange unit="section">2.9.1-2.9.5</citedRange>
+          <citedRange unit="section">2.4</citedRange>
         </bibl>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/K6BV8Z5T"/>
-          <citedRange unit="p">2.38-2.41</citedRange>
+          <citedRange unit="p">2.28-2.31</citedRange>
         </bibl>
       </listBibl>
-      <note type="related-texts">
+    <note type="related-texts">
         <p>Sozomen, Church History </p>
       </note>
       <note type="geography">
@@ -369,22 +357,26 @@
         <p>Scythopolis (Beth She’an)</p>
       </note>
       <note type="prosopography">
+        <p>Acacius</p>
         <p>Athanasius, bishop of Alexandria</p>
         <p>Cyrus, bishop of Beroea</p>
-        <p>Eusebius, bishop of Emesa</p>
+        <p>Eusebius Pamphili</p>
         <p>Eusebius, bishop of Caesarea</p>
+        <p>Eusebius, bishop of Emesa</p>
         <p>George, bishop of Laodicaea</p>
         <p>Patrophilus, bishop of Scythopolis</p>
         <p>Sibellius</p>
       </note>
       <note type="themes">
-        <p>Christianity</p>
         <p>Christian Church</p>
+        <p>Christianity</p>
         <p>Education (sacred)</p>
+        <p>Government and Law</p>
+        <p>Greek Literature</p>
         <p>Literature</p>
         <p>Philosophy</p>
-        <p>Travel</p>
         <p>Society and Culture</p>
+        <p>Travel</p>
       </note>
     </body>
   </text>

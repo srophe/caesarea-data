@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -13,7 +15,7 @@
             <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
             <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</editor>
             <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
-            <respStmt>
+         <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
         </respStmt>
@@ -25,7 +27,7 @@
                <resp>Testimonia identified by</resp>
                <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
             </respStmt>
-         </titleStmt>
+      </titleStmt>
          <editionStmt>
             <edition n="1.0"/>
          </editionStmt>
@@ -34,10 +36,10 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/344/tei</idno>
             <availability>
                <licence target="http://creativecommons.org/licenses/by/4.0">
-                  <p>Except for materials quoted from other sources, this entry is copyright 2021 by the contributors (Joseph L. Rife, et al.) and the Caesarea City and Port Exploration Project. It is licensed under the Attribution 4.0 International (CC BY 4.0) license.</p> <p>Some texts quoted in this entry may be in the public domain in the United States. No copyright is asserted for these quotations.</p> <p>Some texts quoted in this entry may have copyright restrictions and are reused under Section 107 of the Copyright Act of 1976 (Title 17 of the United States Code) which permits “fair use” of copyrighted materials for purposes such as criticism, comment, scholarship, and research. These texts remain under copyright of their owners. No copyright infringement is intended.</p>
+                  <p>Except for materials quoted from other sources, this entry is copyright 2023 by the contributors (Joseph L. Rife, et al.) and the Caesarea City and Port Exploration Project. It is licensed under the Attribution 4.0 International (CC BY 4.0) license.</p> <p>Some texts quoted in this entry may be in the public domain in the United States. No copyright is asserted for these quotations.</p> <p>Some texts quoted in this entry may have copyright restrictions and are reused under Section 107 of the Copyright Act of 1976 (Title 17 of the United States Code) which permits “fair use” of copyrighted materials for purposes such as criticism, comment, scholarship, and research. These texts remain under copyright of their owners. No copyright infringement is intended.</p>
                </licence>
             </availability>
-            <date>2021-08-09-04:00</date>
+            <date>2023-06-30-05:00</date>
          </publicationStmt>
          <seriesStmt>
             <title level="s" xml:lang="en">Caesarea-Maritima.org: A Digital Archive</title>
@@ -253,7 +255,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Letters</title> <ref n="a" target="#bib344-1">87</ref> written by <persName role="author" ref="http://viaf.org/viaf/305214868">John Chrysostom</persName> in <origDate when="0404" period="#byzantine">404 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/629013">Kokousos</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Letter</title> <ref target="#bib344-1">87</ref> written by <persName role="author" ref="http://viaf.org/viaf/305214868">John Chrysostom</persName> in <origDate when="0404" period="#byzantine">404 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/629013">Kokousos</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
         <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>
@@ -266,7 +268,8 @@
             <catRef scheme="#CM-NEAEH" target="#byzantine"/>
          </textClass>
       </profileDesc>
-      <revisionDesc status="draft">
+      <revisionDesc status="published">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2023-06-30-05:00">CHANGED: Proofreading and general edits</change>
          <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
       </revisionDesc>
    </teiHeader>
@@ -275,51 +278,55 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/344</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract344-1">Caesarea Maritima is indirectly attested at <persName role="author" ref="http://viaf.org/viaf/305214868">John Chrysostom</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Letter</title> <ref n="a" target="#bib344-1">87</ref>. This passage was written ca. <origDate when="0404" period="#byzantine">404 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/629013">Kokousos</origPlace>.</desc>
+         <desc type="abstract" xml:id="abstract344-1">Caesarea Maritima is indirectly attested at <persName role="author" ref="http://viaf.org/viaf/305214868">John Chrysostom</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Letter</title> <ref target="#bib344-1">87</ref>. This passage was written ca. <origDate when="0404">404 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/629013">Kokousos</origPlace>.</desc>
          <desc type="context">John Chrysostom was the archbishop of Constantinople over the turn of
             the 4th to 5th centuries celebrated for his keen intellect and masterful oratory. He met
             with great opposition for his theological arguments and criticism of Imperial authority,
-            particularly of the empress Eudoxia, which led to his final expulsion from
-            Constantinople to exile at the remote town of Cucusus (Κουκουσός, modern Goksün) in
-            southern Cappadocia, from late June of 404 until his death in September of 407. This
-            brief epistle which John wrote in early September of 404 to Eulogius, bishop of
-            Caesarea, is remarkable for two reasons. First, although in substance it is largely
-            vacuous, the letter exemplifies the extravagant prose style of the virtuosic rhetor in
-            the service of personal praise. Second, in light of reports that Eulogius was one of the
-            most cruel persecutors of John’s supporters across the Eastern Church (see Related
-            Texts), we may interpret John’s encomiastic missive from two viewpoints, one as
-            idealistic and one as pragmatic. Either John overlooked the political machinations of
-            his worldly foes from a position of moral superiority, or he aimed to soften his
-            detractor in hopes of mitigating the pain of his brethren.</desc>
+            particularly the empress Eudoxia, which led to his final expulsion from Constantinople
+            to exile at the remote town of Cucusus (Κουκουσός, modern Goksün) in southern
+            Cappadocia, from late June of 404 until his death in September of 407. This brief
+            epistle which John wrote in early September of 404 to Eulogius, bishop of Caesarea, is
+            remarkable for two reasons. First, although in substance it is vacuous, the letter
+            exemplifies the extravagant prose style of the virtuosic rhetor in the service of
+            personal praise. Second, in light of reports that Eulogius was one of the most cruel
+            persecutors of John’s supporters across the Eastern Church (see Related Texts), we may
+            interpret John’s encomiastic missive from two viewpoints, one as idealistic and one as
+            pragmatic. Either John overlooked the political machinations of his worldly foes from a
+            position of moral superiority, or he aimed to soften his detractor in hopes of
+            mitigating the pain of his brethren.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote344-1">
-        <anchor xml:id="testimonia-344.grc.1" corresp="#testimonia-344.en.1"/>Ἡμεῖς κἂν πρὸς αὐτὰς ἀφικώμεθα τῆς οἰκουμένης τὰς ἐσχατιὰς, ἐπιλαθέσθαι
-            σου τῆς ἀγάπης οὐ δυνάμεθα, ἀλλὰ πανταχοῦ περιφέροντες ἄπιμεν· οὕτως ἡμᾶς εἷλες καὶ
-            ἐχειρώσω, δέσποτά μου τιμιώτατε καὶ εὐλαβέστατε, ἐπεὶ καὶ νῦν ἐν Κουκουσῷ καθήμενοι, τῷ
-            πάσης τῆς καθ’ ἡμᾶς οἰκουμένης ἐρημοτάτῳ χωρίῳ, οὐ παυόμεθα διηνεκῶς τὴν χρηστότητα, τὴν
-            γλυκύτητα, τὴν τῶν τρόπων ἐπιείκειαν, τὸ γνήσιον τῆς διαθέσεως, τὸ πεπυρωμένον, τὸ
-            σφοδρὸν, τὸν ζῆλον τὸν φλογὸς σφοδρότερον, τὴν ἄλλην ἅπασάν σου ἀρετὴν ἀναλογιζόμενοι,
-            καὶ τῶν λογισμῶν τούτων τῇ μνήμῃ ἐντρυφῶντες, καὶ πρὸς ἅπαντας ἀνακηρύττοντες τὸ στεῤῥὸν
-            τῆς γνώμης, τὸ ἀπερίτρεπτον, ὅπερ ἐπεδείξω πρὸς τοὺς πολεμήσαντας ταῖς Ἐκκλησίαις καὶ
-            τοσούτων σκανδάλων τὴν οἰκουμένην ἐμπλήσαντας· εἰ καὶ τὰ μάλιστα τοῦτο οὐ δεῖται τῆς
-            ἡμετέρας γλώττης· σάλπιγγος γὰρ λαμπρότερον αὐτὸς πᾶσι τοῖς κατὰ τὴν ἀνατολὴν καὶ
-            ποῤῥωτάτω οὖσι διὰ τῶν ἔργων αὐτῶν ἀνεβόησας. Ὑπὲρ τούτων χάριτας ὁμολογοῦμεν,
-            μακαρίζομεν, θαυμάζομεν καὶ παρακαλοῦμεν τὸν αὐτὸν παραμεῖναι ζῆλον ἐπιδεικνύμενον. Οὐδὲ
-            γὰρ ἴσον ἐστὶ, κατὰ ῥοῦν τῶν πραγμάτων φερομένων, ὀρθότητα ἐπιδείκνυσθαι, καὶ πολλῶν
-            ὄντων τῶν ἐπιχειρούντων καταλῦσαι τὰς Ἐκκλησίας μηδὲν ἐκεῖθεν παραλογίζεσθαι, ἀλλὰ
-            μένειν ἀκλινῆ, τούτους ἀποστρεφόμενον μετὰ τῆς προσηκούσης ἀνδρείας. Οὐ γὰρ μικρὰ αὕτη,
-            ἀλλὰ καὶ σφόδρα μεγίστη τῶν κακῶν διόρθωσις. Ὅτι δὲ τῆς σῆς εὐλαβείας οὕτω διακειμένης
-            πάντες οἱ κατὰ τὴν Παλαιστίνην κύριοί μου τιμιώτατοι καὶ εὐλαβέστατοι ἐπίσκοποι ἕψονταί
-            σου τοῖς ἴχνεσιν, οὐδὲν οἶμαι δεῖν ἀμφιβάλλειν. Οἶδα γὰρ σαφῶς ὅτι ἐν τοῖς τοιούτοις
-            κατορθώμασιν ὥσπερ σῶμα συνεχὲς κεφαλῇ, οὕτως αὐτοὺς τῇ γλυκύτητί σου τῆς ἀγάπης συνῆψας
-            καὶ συνδεδέσθαι παρεσκεύασας, ὅπερ καὶ τοῦτο μέγιστον δεῖγμα τῆς σῆς ἀρετῆς.<ab type="source" source="#bib344-1"/>
+        <anchor xml:id="testimonia-344.grc.1" corresp="#testimonia-344.en.1"/>
+            Ἡμεῖς κἂν πρὸς
+            αὐτὰς ἀφικώμεθα τῆς οἰκουμένης τὰς ἐσχατιὰς, ἐπιλαθέσθαι σου τῆς ἀγάπης οὐ δυνάμεθα,
+            ἀλλὰ πανταχοῦ περιφέροντες ἄπιμεν· οὕτως ἡμᾶς εἷλες καὶ ἐχειρώσω, δέσποτά μου τιμιώτατε
+            καὶ εὐλαβέστατε, ἐπεὶ καὶ νῦν ἐν Κουκουσῷ καθήμενοι, τῷ πάσης τῆς καθ’ ἡμᾶς οἰκουμένης
+            ἐρημοτάτῳ χωρίῳ, οὐ παυόμεθα διηνεκῶς τὴν χρηστότητα, τὴν γλυκύτητα, τὴν τῶν τρόπων
+            ἐπιείκειαν, τὸ γνήσιον τῆς διαθέσεως, τὸ πεπυρωμένον, τὸ σφοδρὸν, τὸν ζῆλον τὸν φλογὸς
+            σφοδρότερον, τὴν ἄλλην ἅπασάν σου ἀρετὴν ἀναλογιζόμενοι, καὶ τῶν λογισμῶν τούτων τῇ
+            μνήμῃ ἐντρυφῶντες, καὶ πρὸς ἅπαντας ἀνακηρύττοντες τὸ στεῤῥὸν τῆς γνώμης, τὸ
+            ἀπερίτρεπτον, ὅπερ ἐπεδείξω πρὸς τοὺς πολεμήσαντας ταῖς Ἐκκλησίαις καὶ τοσούτων
+            σκανδάλων τὴν οἰκουμένην ἐμπλήσαντας· εἰ καὶ τὰ μάλιστα τοῦτο οὐ δεῖται τῆς ἡμετέρας
+            γλώττης· σάλπιγγος γὰρ λαμπρότερον αὐτὸς πᾶσι τοῖς κατὰ τὴν ἀνατολὴν καὶ ποῤῥωτάτω οὖσι
+            διὰ τῶν ἔργων αὐτῶν ἀνεβόησας. Ὑπὲρ τούτων χάριτας ὁμολογοῦμεν, μακαρίζομεν, θαυμάζομεν
+            καὶ παρακαλοῦμεν τὸν αὐτὸν παραμεῖναι ζῆλον ἐπιδεικνύμενον. Οὐδὲ γὰρ ἴσον ἐστὶ, κατὰ
+            ῥοῦν τῶν πραγμάτων φερομένων, ὀρθότητα ἐπιδείκνυσθαι, καὶ πολλῶν ὄντων τῶν ἐπιχειρούντων
+            καταλῦσαι τὰς Ἐκκλησίας μηδὲν ἐκεῖθεν παραλογίζεσθαι, ἀλλὰ μένειν ἀκλινῆ, τούτους
+            ἀποστρεφόμενον μετὰ τῆς προσηκούσης ἀνδρείας. Οὐ γὰρ μικρὰ αὕτη, ἀλλὰ καὶ σφόδρα μεγίστη
+            τῶν κακῶν διόρθωσις. Ὅτι δὲ τῆς σῆς εὐλαβείας οὕτω διακειμένης πάντες οἱ κατὰ τὴν
+            Παλαιστίνην κύριοί μου τιμιώτατοι καὶ εὐλαβέστατοι ἐπίσκοποι ἕψονταί σου τοῖς ἴχνεσιν,
+            οὐδὲν οἶμαι δεῖν ἀμφιβάλλειν. Οἶδα γὰρ σαφῶς ὅτι ἐν τοῖς τοιούτοις κατορθώμασιν ὥσπερ
+            σῶμα συνεχὲς κεφαλῇ, οὕτως αὐτοὺς τῇ γλυκύτητί σου τῆς ἀγάπης συνῆψας καὶ συνδεδέσθαι
+            παρεσκεύασας, ὅπερ καὶ τοῦτο μέγιστον δεῖγμα τῆς σῆς ἀρετῆς. 
+         <ab type="source" source="#bib344-1"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
-        <note xml:lang="en" type="textual">Ed. Migne 1859</note>
-        <note xml:lang="en" type="textual">Minor corr. J. L. Rife
-               (punctuation)</note>
+        <note xml:lang="en" type="textual">Ed.
+               Migne 1859</note>
+        <note xml:lang="en" type="textual">Minor corr. (punctuation)</note>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote344-2">
-        <anchor xml:id="testimonia-344.en.1" corresp="#testimonia-344.grc.1"/>Even if we have arrived at the outer reaches of the inhabited world,
+        <anchor xml:id="testimonia-344.en.1" corresp="#testimonia-344.grc.1"/>
+        Even if we have arrived at the outer reaches of the inhabited world,
             we are unable to forget your love, carrying it around with us everywhere we go. You have
             so captivated and conquered us, my most honored and most devout master, that even now,
             settled in at Koukousos, the most desolate place in our whole world, I do not cease from
@@ -352,7 +359,7 @@
           <citedRange unit="col">654</citedRange>
         </bibl>
       </listBibl>
-      <note type="related-texts">
+    <note type="related-texts">
         <p>Palladius of Galatia, Dialog on the Life of St. John Chrysostom 20.143-157</p>
       </note>
       <note type="geography">

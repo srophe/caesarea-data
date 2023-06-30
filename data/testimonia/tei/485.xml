@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
@@ -17,7 +16,23 @@
         <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
         <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</editor>
         <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
-         <respStmt>
+      <respStmt>
+          <resp>TEI record created by</resp>
+          <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium translated by</resp>
+          <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium transcribed by</resp>
+          <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium identified by</resp>
+          <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
+        </respStmt>
+        <respStmt>
           <resp>TEI record created by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
@@ -45,7 +60,7 @@
                   <p>Except for materials quoted from other sources, this entry is copyright 2023 by the contributors (Joseph L. Rife, et al.) and the Caesarea City and Port Exploration Project. It is licensed under the Attribution 4.0 International (CC BY 4.0) license.</p> <p>Some texts quoted in this entry may be in the public domain in the United States. No copyright is asserted for these quotations.</p> <p>Some texts quoted in this entry may have copyright restrictions and are reused under Section 107 of the Copyright Act of 1976 (Title 17 of the United States Code) which permits “fair use” of copyrighted materials for purposes such as criticism, comment, scholarship, and research. These texts remain under copyright of their owners. No copyright infringement is intended.</p>
                </licence>
             </availability>
-            <date>2023-04-28-05:00</date>
+            <date>2023-06-30-05:00</date>
          </publicationStmt>
          <seriesStmt>
             <title level="s" xml:lang="en">Caesarea-Maritima.org: A Digital Archive</title>
@@ -275,7 +290,8 @@
             <catRef scheme="#CM-NEAEH" target="#lateIslamic"/>
          </textClass>
       </profileDesc>
-      <revisionDesc status="draft">
+      <revisionDesc status="published">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2023-06-30-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2023-04-28-05:00">CREATED: testimonium</change>
       </revisionDesc>
    </teiHeader>
@@ -286,14 +302,14 @@
          </ab>
          <desc type="abstract" xml:id="abstract485-1">
         <quote><placeName>Καισάρεια</placeName></quote>, and <quote><placeName>Kaisareia</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/316421957">Gennadius
-               Scholarius</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Introduction to Grammar</title> <ref target="#bib485-1">2.457.5-9</ref>. This passage was written ca. <origDate notBefore="1425" notAfter="1475" period="#lateIslamic">ca. 1425-1475 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+               Scholarius</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Introduction to Grammar</title> <ref>2.457.5-9</ref>. This passage was written ca. <origDate notBefore="1425" notAfter="1475">ca. 1425-1475 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
          <desc type="context">Georgio Kourtesios Scholarios was a prominent intellectual and
             theologian who lived during the first three quarters of the 15th century. He served as
             Ecumencial Patriarch of Constantinople with the ecclesiastical name Gennadius II in
             1454-1464, during the early sultanate of Mehmed II. Among his numerous published works
-            on diverse topics is his Introduction to Grammar, which largely summarizes the treatises
-            of earlier scholars. In this passage, Gennadius cited the toponym
-               <foreign>Kaisareia</foreign> as an example of words with the initial syllable
+            on diverse topics is his <title>Introduction to Grammar</title>, which largely
+            summarizes the treatises of earlier scholars. In this passage, Gennadius cited the
+            toponym <foreign>Kaisareia</foreign> as an example of words with the initial syllable
                <foreign>kai</foreign>.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote485-1">
         <anchor xml:id="testimonia-485.grc.1" corresp="#testimonia-485.en.1"/>ΚΕ. Τὰ ἀπὸ τῆς κε συλλαβῆς ἀρχόμενα πάντα διά τοῦ ε ψιλοῦ γράφονται,
@@ -325,7 +341,7 @@
           <citedRange unit="line">457.5-9</citedRange>
         </bibl>
       </listBibl>
-      <note type="related-texts">
+    <note type="related-texts">
         <p>* George Choeroboscus, Parsings in Psalms p. 20.13-24</p>
         <p>* Pseudo-Aelius Herodian, Parsings 63</p>
         <p>* Unknown, Great Dictionary of Word Origins p. 498.7-15</p>

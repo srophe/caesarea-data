@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -13,7 +15,7 @@
         <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
         <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</editor>
         <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
-         <respStmt>
+      <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
@@ -38,10 +40,10 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/412/tei</idno>
             <availability>
                <licence target="http://creativecommons.org/licenses/by/4.0">
-                  <p>Except for materials quoted from other sources, this entry is copyright 2022 by the contributors (Joseph L. Rife, et al.) and the Caesarea City and Port Exploration Project. It is licensed under the Attribution 4.0 International (CC BY 4.0) license.</p> <p>Some texts quoted in this entry may be in the public domain in the United States. No copyright is asserted for these quotations.</p> <p>Some texts quoted in this entry may have copyright restrictions and are reused under Section 107 of the Copyright Act of 1976 (Title 17 of the United States Code) which permits “fair use” of copyrighted materials for purposes such as criticism, comment, scholarship, and research. These texts remain under copyright of their owners. No copyright infringement is intended.</p>
+                  <p>Except for materials quoted from other sources, this entry is copyright 2023 by the contributors (Joseph L. Rife, et al.) and the Caesarea City and Port Exploration Project. It is licensed under the Attribution 4.0 International (CC BY 4.0) license.</p> <p>Some texts quoted in this entry may be in the public domain in the United States. No copyright is asserted for these quotations.</p> <p>Some texts quoted in this entry may have copyright restrictions and are reused under Section 107 of the Copyright Act of 1976 (Title 17 of the United States Code) which permits “fair use” of copyrighted materials for purposes such as criticism, comment, scholarship, and research. These texts remain under copyright of their owners. No copyright infringement is intended.</p>
                </licence>
             </availability>
-            <date>2022-10-19-05:00</date>
+            <date>2023-06-30-05:00</date>
          </publicationStmt>
          <seriesStmt>
             <title level="s" xml:lang="en">Caesarea-Maritima.org: A Digital Archive</title>
@@ -258,7 +260,7 @@
             <p/>
          </abstract>
          <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Honors for a Musician,
-               IAph2007</title> <ref n="a" target="#bib412-1">1.182</ref> written by <persName ref="" role="author">Unknown</persName> in <origDate notBefore="0200" notAfter="0249" period="#lateRoman">200-249 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/638753">Aphrodisias</origPlace>.</creation>
+               IAph2007</title> <ref target="#bib412-1">1.182</ref> written by <persName ref="" role="author">Unknown</persName> in <origDate notBefore="0200" notAfter="0249" period="#lateRoman">200-249 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/638753">Aphrodisias</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
         <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>
@@ -271,7 +273,8 @@
             <catRef scheme="#CM-NEAEH" target="#lateRoman"/>
          </textClass>
       </profileDesc>
-      <revisionDesc status="draft">
+      <revisionDesc status="published">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2023-06-30-05:00">CHANGED: Proofreading and general edits</change>
          <change who="jrife" when="">ADDED: testimonium ID, URNs, URLs to edition and translation,
             and Bibl URIs</change>
          <change who="jrife" when="">CREATED: testimonium</change>
@@ -283,30 +286,25 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/412</idno>
          </ab>
          <desc type="abstract" xml:id="abstract412-1">
-        <quote><placeName>Και-[σ]α̣ρε[ίᾳ τῆς Στρ]άτω-[νο]ς̣</placeName></quote>, and <quote><placeName>Straton’s Caesarea</placeName></quote> are directly attested at <persName ref="" role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Honors for a Musician,
-               IAph2007</title> <ref n="a" target="#bib412-1">1.182</ref>. This passage was written ca. <origDate notBefore="0200" notAfter="0249" period="#lateRoman">200-249 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/638753">Aphrodisias</origPlace>.</desc>
+        <quote><placeName>Και- [σ]α̣ρε[ίᾳ τῆς Στρ]άτω- [νο]ς̣</placeName></quote>, and <quote><placeName>Straton’s Caesarea</placeName></quote> are directly attested at <persName ref="" role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Honors for a Musician,
+               IAph2007</title> <ref>1.182</ref>. This passage was written ca. <origDate notBefore="0200" notAfter="0249">200-249 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/638753">Aphrodisias</origPlace>.</desc>
          <desc type="context">This text was inscribed on two adjacent faces (a, b) of a white marble
             statue-base with molded panels and probably a cornice, found in the area of the
             Temple/Church at Aphrodisias in Caria, western Asia Minor. The 54 lines written in the
-            early 3rd century recognize the public honors bestowed on Meliton, a citharist who won
-            in sacred competitions across the eastern Mediterranean from Greece to Asia Minor to
-            Syria-Palestine. Among the various festivals where he competed are those at Caesarea “of
-            Straton,” possibly the Actian Games there (lines 32-34).</desc>
+            early 3rd century on side a recognize the public honors bestowed on Meliton, a citharist
+            who won in sacred competitions across the eastern Mediterranean from Greece to Asia
+            Minor to Syria-Palestine. Among the various festivals where he competed are those at
+            Caesarea “of Straton,” possibly the Actian Games there (lines 32-34).</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote412-1">
-        <anchor xml:id="testimonia-412.grc.1" corresp="#testimonia-412.en.1"/>Side a<lb/>[(e.g) ἡ βουλὴ καὶ ὁ δῆμος καὶ ἡ]<lb/>[γερουσία] ἐ̣τείμη̣[?σαν ··
-            c. 5 ··]<lb/>Μελίτωνα Μελίτωνος<lb/>τὸν καὶ Ἀγροίταν<lb/>πυθικὸν̣ καὶ κύκλιον<lb/>κιθα̣ριστὴ ν
-            ἱερονεί- (5)<lb/>κὴν πλειστονείκην<lb/>παράδοξο̣ν ἄνδρα<lb/>εὐγενείᾳ κ̣αὶ vac. τρό- vac.<lb/>που
-            σεμν ότητι δια-<lb/>φέροντα κα ὶ ἐπὶ τού- (10)<lb/>τῳ μάλιστα θ̣αυμα-<lb/>σθέντακα [ὶ τ]ειμη-
-           <lb/>θεντα ὑ [πὸ το]ῦ̣ κυρί-<lb/>ου ἡ[μῶν αὐτ]ο̣κρά-<lb/>τ[ορος ·· c. 6 ··]ου vac. (15)<lb/>[··
-            c. 11 ··]ΑΙ vac.<lb/>[·· c. 12 ··]Υ<lb/>[·· c. 12 ··]Υ<lb/>[·· c. 12 ··]Υ<lb/>[·· c. 12 ··]Υ
-            (20)<lb/>Μ[·· c. 11 ··]Ι̣<lb/>ΤΩ̣Ι̣ [·· c. 4 ··]ΣΙ [ν]ει-<lb/>κήσα̣[ντα] stop [Ἄ]κτια<lb/>ἐν
-            Νεικοπόλει vac.<lb/>Ἐφέσηα ἐν Ἐ̣[φέσ]ῳ<lb/>
-        <lb/>Side b<lb/>Π̣ύ̣[θια ἐν Ἱε]ραπόλει<lb/>Ἄκτι[α ἐν
-            Ἱερα]π̣ό̣λ̣ει<lb/>Ἄκτι[α ἐν ·· c. 6 ··] vac. (30)<lb/>Ἄκτι[α ἐν ·· ? ·· Δα]μα-<lb/>σκῷ stop [?
-            Ἄκτια ἐν] <placeName>Και-<lb/>[σ]α̣ρε[ίᾳ τῆς Στρ]άτω-<lb/>[νο]ς̣</placeName> stop Π[ύθια ἐν]
-            Λαο-<lb/>[δικε]ί̣ᾳ [?Συρία]ς̣ stop κοι (35)<lb/>[νὰ Κ]α̣ππ̣[αδο]κῶν<lb/>[ἐν Κ]αισα[ρείᾳ ? stop
-            ] Ἡρα<lb/>[κλ]εία stop Κομ̣[μόδ]εια<lb/>ἐν Τύρῳ stop κοιν̣ὰ Βει-<lb/>θυνίας ἐν Νεικομη- (40)<lb/>δείᾳ stop Αὐγούστεια<lb/>ἐν Τράλλεσιν̣ stop κοι-<lb/>νὰ Ἀσ̣[ί]α̣ς β´ stop ἐν Τράλ-<lb/>λεσ[ιν
-            ? stop ] Δεῖα [Ἅλ]εια β´ ἐν<lb/>Φι̣λ̣α̣[δ]ελ[φείᾳ stop κ]οι- (45)<lb/>νὰ Ἀσ̣ίας [ stop ἐν
+        <anchor xml:id="testimonia-412.grc.1" corresp="#testimonia-412.en.1"/>[(e.g) ἡ βουλὴ καὶ ὁ δῆμος καὶ ἡ]<lb/>[γερουσία] ἐ̣τείμη̣[?σαν ·· c. 5 ··]<lb/>Μελίτωνα Μελίτωνος<lb/>τὸν καὶ Ἀγροίταν<lb/>πυθικὸν̣ καὶ κύκλιον<lb/>κιθα̣ριστὴ ν ἱερονεί-
+            (5)<lb/>κὴν πλειστονείκην<lb/>παράδοξο̣ν ἄνδρα<lb/>εὐγενείᾳ κ̣αὶ vac. τρό- vac.<lb/>που σεμν
+            ότητι δια-<lb/>φέροντα κα ὶ ἐπὶ τού- (10)<lb/>τῳ μάλιστα θ̣αυμα-<lb/>σθέντακα [ὶ τ]ειμη-<lb/>θεντα ὑ [πὸ το]ῦ̣ κυρί-<lb/>ου ἡ[μῶν αὐτ]ο̣κρά-<lb/>τ[ορος ·· c. 6 ··]ου vac. (15)<lb/>[·· c.
+            11 ··]ΑΙ vac.<lb/>[·· c. 12 ··]Υ<lb/>[·· c. 12 ··]Υ<lb/>[·· c. 12 ··]Υ<lb/>[·· c. 12 ··]Υ (20)<lb/>Μ[·· c. 11 ··]Ι̣<lb/>ΤΩ̣Ι̣ [·· c. 4 ··]ΣΙ [ν]ει-<lb/>κήσα̣[ντα] stop [Ἄ]κτια<lb/>ἐν Νεικοπόλει
+            vac.<lb/>Ἐφέσηα ἐν Ἐ̣[φέσ]ῳ<lb/>
+        <lb/>Side b<lb/>Π̣ύ̣[θια ἐν Ἱε]ραπόλει<lb/>Ἄκτι[α ἐν Ἱερα]π̣ό̣λ̣ει<lb/>Ἄκτι[α ἐν ·· c. 6 ··] vac. (30)<lb/>Ἄκτι[α ἐν ·· ? ·· Δα]μα-<lb/>σκῷ stop [? Ἄκτια ἐν]
+               <placeName>Και-<lb/>[σ]α̣ρε[ίᾳ τῆς Στρ]άτω-<lb/>[νο]ς̣</placeName> stop Π[ύθια ἐν] Λαο-<lb/>[δικε]ί̣ᾳ [?Συρία]ς̣ stop κοι (35)<lb/>[νὰ Κ]α̣ππ̣[αδο]κῶν<lb/>[ἐν Κ]αισα[ρείᾳ ? stop ] Ἡρα<lb/>[κλ]εία stop Κομ̣[μόδ]εια<lb/>ἐν Τύρῳ stop κοιν̣ὰ Βει-<lb/>θυνίας ἐν Νεικομη- (40)<lb/>δείᾳ
+            stop Αὐγούστεια<lb/>ἐν Τράλλεσιν̣ stop κοι-<lb/>νὰ Ἀσ̣[ί]α̣ς β´ stop ἐν Τράλ-<lb/>λεσ[ιν ?
+            stop ] Δεῖα [Ἅλ]εια β´ ἐν<lb/>Φι̣λ̣α̣[δ]ελ[φείᾳ stop κ]οι- (45)<lb/>νὰ Ἀσ̣ίας [ stop ἐν
             Φι]λα-<lb/>δ̣ε[λφ]είᾳ vac. Ι̣[·· c. 4 ··]Ε̣Ι<lb/>[·] ΟΜ̣ [·· c. 10 ··]Α<lb/>ΜΥ [·] Ι̣Ι̣ [··]Ι̣
             [·· c. 4 ··]Α<lb/>vac. πολε̣[ιτείᾳ ? vac. ] (50)<lb/>πόλεων vac. ἐ̣[νδό]-<lb/>ξων κα̣[ὶ]
             ΝΑΙΙ̣[·· βου]-<lb/>λῇ stop καὶ π[?ροεδρίᾳ]<lb/>vac. τειμηθέ̣[ντα vac. ]<ab type="source" source="#bib412-1"/>
@@ -345,7 +343,7 @@
           <citedRange unit="entry">69</citedRange>
         </bibl>
       </listBibl>
-      <note type="related-texts">
+    <note type="related-texts">
         <p>IAph2007 12.214</p>
         <p>IAph2007 12.290</p>
       </note>

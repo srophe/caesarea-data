@@ -1,9 +1,10 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="en" level="a">Unknown, <title level="m">Ways and Pilgrimages of the Holy
-               Land B</title> 1.1-1.3</title>
+            <title xml:lang="en" level="a">Unknown, <title level="m">Ways and Pilgrimages of the Holy Land B</title> 1.1-1.3</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
             <sponsor>Vanderbilt University</sponsor>
             <principal>Joseph L. Rife</principal>
@@ -14,7 +15,7 @@
             <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
             <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</editor>
             <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
-            <respStmt>
+         <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
         </respStmt>
@@ -26,7 +27,7 @@
                <resp>Testimonia identified by</resp>
                <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
             </respStmt>
-         </titleStmt>
+      </titleStmt>
          <editionStmt>
             <edition n="1.0"/>
          </editionStmt>
@@ -35,10 +36,10 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/180/tei</idno>
             <availability>
                <licence target="http://creativecommons.org/licenses/by/4.0">
-                  <p>Except for materials quoted from other sources, this entry is copyright 2022 by the contributors (Joseph L. Rife, et al.) and the Caesarea City and Port Exploration Project. It is licensed under the Attribution 4.0 International (CC BY 4.0) license.</p> <p>Some texts quoted in this entry may be in the public domain in the United States. No copyright is asserted for these quotations.</p> <p>Some texts quoted in this entry may have copyright restrictions and are reused under Section 107 of the Copyright Act of 1976 (Title 17 of the United States Code) which permits “fair use” of copyrighted materials for purposes such as criticism, comment, scholarship, and research. These texts remain under copyright of their owners. No copyright infringement is intended.</p>
+                  <p>Except for materials quoted from other sources, this entry is copyright 2023 by the contributors (Joseph L. Rife, et al.) and the Caesarea City and Port Exploration Project. It is licensed under the Attribution 4.0 International (CC BY 4.0) license.</p> <p>Some texts quoted in this entry may be in the public domain in the United States. No copyright is asserted for these quotations.</p> <p>Some texts quoted in this entry may have copyright restrictions and are reused under Section 107 of the Copyright Act of 1976 (Title 17 of the United States Code) which permits “fair use” of copyrighted materials for purposes such as criticism, comment, scholarship, and research. These texts remain under copyright of their owners. No copyright infringement is intended.</p>
                </licence>
             </availability>
-            <date>2022-10-19-05:00</date>
+            <date>2023-06-30-05:00</date>
          </publicationStmt>
          <seriesStmt>
             <title level="s" xml:lang="en">Caesarea-Maritima.org: A Digital Archive</title>
@@ -254,8 +255,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Ways and Pilgrimages of the Holy
-               Land B</title> <ref n="a" target="#bib180-1">1.1-1.3</ref> written by <persName role="author">Unknown</persName> in <origDate notBefore="1244" notAfter="1263" period="#crusader">1244-1263 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/1001939">Palestine</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Ways and Pilgrimages of the Holy Land B</title> <ref target="#bib180-1">1.1-1.3</ref> written by <persName role="author">Unknown</persName> in <origDate notBefore="1244" notAfter="1263" period="#crusader">1244-1263 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/1001939">Palestine</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="fro">Old French</language>
         <language ana="#caesarea-language-of-original" ident="fro">Old French</language>
@@ -268,7 +268,8 @@
             <catRef scheme="#CM-NEAEH" target="#ironAgeIib #earlyRoman #lateRoman #byzantine #crusader"/>
          </textClass>
       </profileDesc>
-      <revisionDesc status="draft">
+      <revisionDesc status="published">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2023-06-30-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
          <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
       </revisionDesc>
@@ -279,8 +280,7 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/180</idno>
          </ab>
          <desc type="abstract" xml:id="abstract180-1">
-        <quote><placeName>Sesarie</placeName></quote>, <quote><placeName>Sesairie</placeName></quote>, <quote><placeName>Sesaire</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Ways and Pilgrimages of the Holy
-               Land B</title> <ref n="a" target="#bib180-1">1.1-1.3</ref>. This passage was written ca. <origDate notBefore="1244" notAfter="1263" period="#crusader">1244-1263 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/1001939">Palestine</origPlace>.</desc>
+        <quote><placeName>Sesarie</placeName></quote>, <quote><placeName>Sesairie</placeName></quote>, <quote><placeName>Sesaire</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Ways and Pilgrimages of the Holy Land B</title> <ref target="#bib180-1">1.1-1.3</ref>. This passage was written ca. <origDate notBefore="1244" notAfter="1263" period="#crusader">1244-1263 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/1001939">Palestine</origPlace>.</desc>
          <desc type="context">Two versions of <title>Ways and Pilgrimages of the Holy Land</title>
             (A and B) survive from the middle of the 13th century, both of which show a close
             similarity in content to the Holy Pilgrimages. They both trace two circuits for
@@ -293,44 +293,45 @@
             vicinity or interior.</desc>
          <ab type="edition" xml:lang="fro" xml:id="quote180-1">
         <anchor xml:id="testimonia-180.fro.1" corresp="#testimonia-180.en.1"/>
-        (1) Ki dritement veut aler en Ierusalem, primérement deit aler de Acre à
-            Caïphas, en quel chemin à mayn senestre est la Montaigne de seynte Margarete de Carme,
-            ki est à .iiij. liues de Acre. En l’un chef de la montagne est Franche vile, où seynt
-            Denys fu né, en une eglise peitite, en une petite roche contre val. En celé roche apert
-            le lui oum un bersel cave en la roche, et par derére cele eglise à mayn destre est: la
-            Fontaigne ke Denys trova e fist de ces mayns. E sachéz ke ceo est un de plus seynz lius
-            à cors de home de tote la montaigne; e pus l’em vet à un caselet host près de là, à une
-            petite descendue. (2) A l’autre chef haut de cele montaigne est une abbaye de Grissons,
-            moignes ners, où seynte Margarete fist must de miracles, e sunt là de bons sentuaries. A
-            la descendue de celé abbaye contre val est une chapele en la roche de seynt Helyes le
-            prophète, où il fist must de miracles, e en la chapele est une bone fontaigne de ewe
-            freide ke il trova e fist. En contreval à mayn senestre est un casal k’est apelé
-            Capharnaüm. A près un poi en sus est Anne, un casal où furent forgez les clous dont
-            Ihesu Crist fust clavéz en la croiz, e apert uncore le lui. En aval ante sur la mer est
-            Caïphas ke soleit iadis mut valer avant ke la cité d’Acre fust fête, kar auncienement
-            soleit aver ausi grant renom cum Acre; kar iadis Acre soleit estre un casal e Caïphas fu
-            la vile. E sachéz ke Acre n’est pas de Terre de promission ausi cum est Caïphas, kar un
-            flum devise la Terre Seynr entre Acre e Caïphas, k’est apelé le Flum de Caïphas, ke ist
-            de une fontaigne ke curt par de suth le Carmont e vent par de suth la montaigne de Seynt
-            Margarete, k’a nun la Paumére e curt en la mer e part ensi la Terre de Promission, e
-            ataunt i a d’Acre à Caïphas com de Acre à la montaigne. En après l’em veit de Caïphas à
-            Chastel Pelrin où il i a .iij. liues, e est del Temple. En contre cel chastel est un
-            seynt luy ke l’om apele Seynt Iohan de Tyr, e si ad un abeye de moygnes gris, où il i a
-            bons seintuaires, e seynt Iohan Baptiste fist mut de miracles. En sus de cel liu haut
-            sus la montaigne à main senestre est un beau liu e seint, où i a en hermitage de
-            hermites Latins, ki s’apelent frères de Carme, e si a une eglise de Nostre Dame; e si a
-            mut de bones fontaignes curantes e mut de bones herbes flairans. Del Chastel Pelrin l’om
-            vet à Sesarie; la cité sis sur la mer, où l’om trove à main destre les salines de
-            l’Hospital de Seynt Iohan. E puis sur la mer trove l’om Pan perdu, une tur de Seynt
-            Lazare. D’autre part à mayne senestre dedeenz terre, est une eglise de Nostre Dame de
-            Mareys, e iluec venent mut de gens en pelrinage de <placeName>Sesarie</placeName> del
-            Chastel Pelrin e del païs. En cel mareys sunt mux de caucatris, unes féres bestes, les
-            queles i mist un riche hom ky estoyt en <placeName>Sesairie</placeName>, e los fist
-            norir, car il les quida fere devorer suen frére, pur un conteste ke aveit esté entre
-            eus, e pur ceo les fist il les aporter de Egipte. E un iur amena on liu son frére pur
-            baigner, pur covertement ocire. E sun frére su plus sachaunt de lui: si le fist primes
-            descendre, e les bestes k’yl aveyt nori tantost le tirérent en parfund, si ke onkes puis
-            ne fu trovéz; e fu aperceü la traïson par ceo ke esteynt consentaunt, e ensi fu perdu ly
+            (1) Ki dritement
+            veut aler en Ierusalem, primérement deit aler de Acre à Caïphas, en quel chemin à mayn
+            senestre est la Montaigne de seynte Margarete de Carme, ki est à .iiij. liues de Acre.
+            En l’un chef de la montagne est Franche vile, où seynt Denys fu né, en une eglise
+            peitite, en une petite roche contre val. En celé roche apert le lui oum un bersel cave
+            en la roche, et par derére cele eglise à mayn destre est: la Fontaigne ke Denys trova e
+            fist de ces mayns. E sachéz ke ceo est un de plus seynz lius à cors de home de tote la
+            montaigne; e pus l’em vet à un caselet host près de là, à une petite descendue. (2) A
+            l’autre chef haut de cele montaigne est une abbaye de Grissons, moignes ners, où seynte
+            Margarete fist must de miracles, e sunt là de bons sentuaries. A la descendue de celé
+            abbaye contre val est une chapele en la roche de seynt Helyes le prophète, où il fist
+            must de miracles, e en la chapele est une bone fontaigne de ewe freide ke il trova e
+            fist. En contreval à mayn senestre est un casal k’est apelé Capharnaüm. A près un poi en
+            sus est Anne, un casal où furent forgez les clous dont Ihesu Crist fust clavéz en la
+            croiz, e apert uncore le lui. En aval ante sur la mer est Caïphas ke soleit iadis mut
+            valer avant ke la cité d’Acre fust fête, kar auncienement soleit aver ausi grant renom
+            cum Acre; kar iadis Acre soleit estre un casal e Caïphas fu la vile. E sachéz ke Acre
+            n’est pas de Terre de promission ausi cum est Caïphas, kar un flum devise la Terre Seynr
+            entre Acre e Caïphas, k’est apelé le Flum de Caïphas, ke ist de une fontaigne ke curt
+            par de suth le Carmont e vent par de suth la montaigne de Seynt Margarete, k’a nun la
+            Paumére e curt en la mer e part ensi la Terre de Promission, e ataunt i a d’Acre à
+            Caïphas com de Acre à la montaigne. En après l’em veit de Caïphas à Chastel Pelrin où il
+            i a .iij. liues, e est del Temple. En contre cel chastel est un seynt luy ke l’om apele
+            Seynt Iohan de Tyr, e si ad un abeye de moygnes gris, où il i a bons seintuaires, e
+            seynt Iohan Baptiste fist mut de miracles. En sus de cel liu haut sus la montaigne à
+            main senestre est un beau liu e seint, où i a en hermitage de hermites Latins, ki
+            s’apelent frères de Carme, e si a une eglise de Nostre Dame; e si a mut de bones
+            fontaignes curantes e mut de bones herbes flairans. Del Chastel Pelrin l’om vet à
+            Sesarie; la cité sis sur la mer, où l’om trove à main destre les salines de l’Hospital
+            de Seynt Iohan. E puis sur la mer trove l’om Pan perdu, une tur de Seynt Lazare. D’autre
+            part à mayne senestre dedeenz terre, est une eglise de Nostre Dame de Mareys, e iluec
+            venent mut de gens en pelrinage de <placeName>Sesarie</placeName> del Chastel Pelrin e
+            del païs. En cel mareys sunt mux de caucatris, unes féres bestes, les queles i mist un
+            riche hom ky estoyt en <placeName>Sesairie</placeName>, e los fist norir, car il les
+            quida fere devorer suen frére, pur un conteste ke aveit esté entre eus, e pur ceo les
+            fist il les aporter de Egipte. E un iur amena on liu son frére pur baigner, pur
+            covertement ocire. E sun frére su plus sachaunt de lui: si le fist primes descendre, e
+            les bestes k’yl aveyt nori tantost le tirérent en parfund, si ke onkes puis ne fu
+            trovéz; e fu aperceü la traïson par ceo ke esteynt consentaunt, e ensi fu perdu ly
             traïtres, e seon frére savé. De tel liu delés <placeName>Sesarie</placeName>, si à une
             liue de hors les murs un petit, est la sepulture de seynt Cornel, ke seynt Pére baptiza,
             cum il est escrit en fez des Apostles, e fu arcevekes de cel cité. Après un poi en avant
@@ -343,12 +344,14 @@
             après de <placeName>Sesaire</placeName> l’om vet à Asur, un chastel le quel si est sur
             un tertre de roche un poi en sus de la mer, sur le sablum à nef liues de Sesaire. En sus
             ausi vers la montaigne est un liu mult perillus, ke l’om apele Roche talie, kar la
-            repeirent larrons e grant mal funt à pilrins e as autres.<ab type="source" source="#bib180-1"/>
+            repeirent larrons e grant mal funt à pilrins e as autres.
+         <ab type="source" source="#bib180-1"/>
         <idno type="CTS-URN"/>
         <ref target="https://archive.org/details/itinrairesajrus00parigoog/page/n237/mode/2up"/>
         <note xml:lang="en" type="textual">Ed.
                Michelant and Raynaud 1882</note>
-        <note xml:lang="en" type="discussion">Cambridge University Library, Gg VI, 28, folios 52a-57a</note>
+        <note xml:lang="en" type="discussion">Cambridge University Library, Gg VI, 28, folios 52a-57a
+               (England, 15th century)</note>
         <note xml:lang="en" type="corrigenda">Minor corr. J. L. Rife</note>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote180-2">
@@ -356,16 +359,16 @@
             (1) Whoever wants
             to go to Jerusalem properly must first go from Acre to Caïphas. On the road on the left
             is the mountain of St. Margaret of Carmel, which is 4 leagues from Acre. On one summit
-            of the mountain is Freetown (Franche vile), where St. Denys was born in a small church,
-            in a small cave toward the bottom. In that cave the place is visible as a crib cut in
-            the rock, and behind that church, to the right, is the fountain that Denys found and
-            made with his own hands; and know that this is one of the healthiest places for the
-            human body in all the mountain. Then one goes to a little village there, a little
-            further down. (2) On the other high summit of that mountain is an abbey of the Greeks,
-            black monks, where St. Margaret performed many miracles and there are there some good
-            sanctuaries. On the way down from that abbey, towards the bottom, us a chapel in the
-            cave of St. Elias the Prophet, where her performed many miracles; and in the chapel is a
-            good spring of cold water, which he found and made. At the bottom to the left is a
+            of the mountain is Freetown [<foreign>Franche vile</foreign>], where St. Denys was born
+            in a small church, in a small cave toward the bottom. In that cave the place is visible
+            as a crib cut in the rock, and behind that church, to the right, is the fountain that
+            Denys found and made with his own hands; and know that this is one of the healthiest
+            places for the human body in all the mountain. Then one goes to a little village there,
+            a little further down. (2) On the other high summit of that mountain is an abbey of the
+            Greeks, black monks, where St. Margaret performed many miracles and there are some good
+            sanctuaries there. On the way down from that abbey, towards the bottom, is a chapel in
+            the cave of St. Elias the Prophet, where her performed many miracles; and in the chapel
+            is a good spring of cold water, which he found and made. At the bottom to the left is a
             village called Capharnaüm. Nearby and a little further up is Anne, a village where the
             nails with which Jesus Christ was nailed to the Cross were forged; and the place may
             still be seen. Further down on the sea is Caïphas, which formerly was very strong,
@@ -374,9 +377,9 @@
             not in the Promised Land and Caïphas is, because a river defines the Holy Land between
             Acre and Caïphas. It is called the Caïphas River, and it arises from a spring that flows
             below the Carmont and comes beneath the mountain of St. Margaret, where it is named the
-            Palm Grove (<foreign>la Paumére</foreign>), and runs into the sea, and thus divides the
+            Palm Grove [<foreign>la Paumére</foreign>], and runs into the sea and thus divides the
             Promised Land. And it is as far from Acre to Caïphas as from Acre to the mountain. And
-            afterwards one goes from Caïphas to Pilgrims’ Castle (Chastel Pelrin), which is 3
+            afterwards one goes from Caïphas to Pilgrims’ Castle [Chastel Pelrin], which is 3
             leagues away and belongs to the Temple. Facing the castle is a holy place that is called
             St. John of Tira, and there is an abbey of Greek monks, where there are good sanctuaries
             and St. John the Baptist performed many miracles. Above that place, high up on the
@@ -385,7 +388,7 @@
             there are many good running springs and many good flowering herbs. From Pilgrims’ Castle
             one goes to <placeName>Caesarea</placeName>. The city is situated on the sea, where one
             finds on the right side the salt marsh of the Hospital of St. John. And then on the sea
-            one finds the Lost Bread (<foreign>Pan perdu</foreign>), a tower of St. Lazarus. On the
+            one finds the Lost Bread [<foreign>Pan perdu</foreign>], a tower of St. Lazarus. On the
             other side inland to the left is a Church of Our Lady of the Marsh, and many people come
             there on pilgrimage from <placeName>Caesarea</placeName> and from Pilgrims’ Castle and
             from the countryside. In that marsh are many crocodiles, ferocious beasts, which a rich
@@ -397,18 +400,19 @@
             found again. And the plot was seen through by those who were complicit, and thus the
             traitor was lost and his brother saved. From that place beside Caesarea, at a place a
             little way outside the walls, is the tomb of St. Cornelius whom St. Peter baptized, as
-            it is written in the Acts of the Apostles, and he was archbishop of that city. A little
-            further on there is a piece of marble, purple in color, called the Table of our Lord,
-            which the Saracens cut in half. Beside that table are two other great pieces of marble,
-            thick and quite round at the bottom and long and thin at the top, and they are called
-            the Candlesticks of Our Lord; and a spring that is walled all around and very high. On
-            the other side, outside the city to the right, a little above the sea, is a chapel of
-            St. Mary Magdalene, which is holy and righteous, and they say that there she did her
-            penance. (3) After <placeName>Caesarea</placeName> one goes to Asur, a castle that
-            stands on a rocky knoll a little above the sea, on the beach 9 leagues from Caesarea. Up
-            from there toward the mountain there is also a very dangerous place called Cut Rock
-               (<foreign>Roche talie</foreign>), for there thieves convene and cause much harm to
-            pilgrims and others.<ab type="source" source="#bib180-2"/>
+            it is written in the <title>Acts of the Apostles</title>, and he was archbishop of that
+            city. A little further on there is a piece of marble, purple in color, called the Table
+            of our Lord, which the Saracens cut in half. Beside that table are two other great
+            pieces of marble, thick and quite round at the bottom and long and thin at the top, and
+            they are called the Candlesticks of Our Lord; and a spring that is walled all around and
+            very high. On the other side, outside the city to the right, a little above the sea, is
+            a chapel of St. Mary Magdalene, which is holy and righteous, and they say that there she
+            did her penance. (3) After <placeName>Caesarea</placeName> one goes to Asur, a castle
+            that stands on a rocky knoll a little above the sea, on the beach 9 leagues from
+            Caesarea. Up from there toward the mountain there is also a very dangerous place called
+            Cut Rock [<foreign>Roche talie</foreign>], for there thieves convene and cause much harm
+            to pilgrims and others. 
+         <ab type="source" source="#bib180-2"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
         <note xml:lang="en" type="translation">Rev. Pringle 2018</note>

@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -12,7 +14,7 @@
         <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
         <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</editor>
         <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
-         <respStmt>
+      <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
@@ -40,7 +42,7 @@
                   <p>Except for materials quoted from other sources, this entry is copyright 2023 by the contributors (Joseph L. Rife, et al.) and the Caesarea City and Port Exploration Project. It is licensed under the Attribution 4.0 International (CC BY 4.0) license.</p> <p>Some texts quoted in this entry may be in the public domain in the United States. No copyright is asserted for these quotations.</p> <p>Some texts quoted in this entry may have copyright restrictions and are reused under Section 107 of the Copyright Act of 1976 (Title 17 of the United States Code) which permits “fair use” of copyrighted materials for purposes such as criticism, comment, scholarship, and research. These texts remain under copyright of their owners. No copyright infringement is intended.</p>
                </licence>
             </availability>
-            <date>2023-01-20-06:00</date>
+            <date>2023-06-30-05:00</date>
          </publicationStmt>
          <seriesStmt>
             <title level="s" xml:lang="en">Caesarea-Maritima.org: A Digital Archive</title>
@@ -256,7 +258,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Spiritual Meadow</title> <ref target="#bib429-1">131</ref> written by <persName ref="http://viaf.org/viaf/69168180" role="author">John Moschus</persName> in <origDate notBefore="0610" notAfter="0619" period="#byzantine">610-619 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Spiritual Meadow</title> <ref target="#bib429-1">131</ref> written by <persName ref="http://viaf.org/viaf/69168180" role="author">John Moschus</persName> in <origDate notBefore="0610" notAfter="0619" period="#byzantine">610-619 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
         <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>
@@ -269,7 +271,8 @@
             <catRef scheme="#CM-NEAEH" target="#byzantine"/>
          </textClass>
       </profileDesc>
-      <revisionDesc status="draft">
+      <revisionDesc status="published">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2023-06-30-05:00">CHANGED: Proofreading and general edits</change>
          <change who="jrife" when="">ADDED: testimonium ID, URNs, URLs to edition and translation,
             and Bibl URIs</change>
          <change who="jrife" when="">CREATED: testimonium</change>
@@ -281,31 +284,30 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/429</idno>
          </ab>
          <desc type="abstract" xml:id="abstract429-1">
-        <quote><placeName>Καισαρείᾳ</placeName></quote>, <quote><placeName>Καισαρείας</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/69168180" role="author">John Moschus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Spiritual Meadow</title> <ref target="#bib429-1">131</ref>. This passage was written ca. <origDate notBefore="0610" notAfter="0619" period="#byzantine">610-619 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
-         <desc type="context">John Moschus was an energetic monk in the Near East during the late
-            6th to early 7th centuries, whose writings have been celebrated as potent devotional
-            readings but have not received due attention also as historical sources. A native of
-            Syria or Cilicia, John moved throughout his career between ascetic communities in the
-            Jordan Valley and particularly around Jerusalem, but also in the Egyptian desert, the
-            Sinai, and Syria. During roughly his final decade, between stays in Cyprus and Rome, he
+        <quote><placeName>Καισαρείᾳ</placeName></quote>, <quote><placeName>Καισαρείας</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/69168180" role="author">John Moschus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Spiritual Meadow</title> <ref>131</ref>. This passage was written ca. <origDate notBefore="0610" notAfter="0619">610-619 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+         <desc type="context">John Moschus was a monk in the Near East during the late 6th to early
+            7th centuries, whose writings have been celebrated as potent devotional readings but
+            have not received due attention also as historical sources. A native of Syria or
+            Cilicia, John moved throughout his career between ascetic communities in the Jordan
+            Valley and particularly around Jerusalem, but also in the Egyptian desert, the Sinai,
+            and Syria. During roughly his final decade, between stays in Cyprus and Rome, he
             compiled his famous <title>Spiritual Meadow</title> (Λειμωνάριον, <title>Pratum
                spirituale</title>). This long work vividly records his personal encounters with holy
             persons across the eastern Mediterranean, including much information about monastic
-            practice and belief in local communities. | The textual history has been notoriously
+            practice and belief in local communities. The textual history has been notoriously
             thorny. Beyond the patent peculiarities of Moschus’ Greek, later readers clearly
             reworked the content in places after its composition; the multiple surviving Byzantine
             manuscripts contain different stories in different sequences; and we currently possess
             no modern critical edition. The best available Greek text, based chiefly on codices of
-            the 11th and 12th centuries at Paris (Codd. Parisini Graeci 914, 916, 917, 1596, 1605),
-            was published by the French theologian Jean-Baptiste Cotelier in 1681 and reprinted with
-            slight changes in <title>Patrologia Graeca</title> 87.3 (1865). The great Italian
-            humanist Ambrogio Traversari read a separate and longer Greek text preserved in Codex
-            Laurentianus Plut. X.3 (12th century); that text has not been published, but
-            Traversari’s Latin translation was published in 1479 and reprinted likewise in
-               <title>Patrologia Latina</title> 74.2 (1879) and in facing columns of the PG. | This
-            passage in the available Greek text tells of one Procopius from Porphyreon, presumably
-            the town near Caesarea, who consulted the powerful monk (Ἀββά) Zachaeus about the severe
-            epidemic (θανατικόν) at Caesarea.</desc>
+            the 11th and 12th centuries at Paris, was published by the French theologian
+            Jean-Baptiste Cotelier in 1681 and reprinted with slight changes in <title>Patrologia
+               Graeca</title> 87.3 (1865). The great Italian humanist Ambrogio Traversari read a
+            separate and longer Greek text preserved in Codex Laurentianus Plut. X.3 (12th century);
+            that text has not been published, but Traversari’s Latin translation was published in
+            1479 and reprinted likewise in <title>Patrologia Latina</title> 74.2 (1879) and in
+            facing columns of the <title>PG</title>. This passage in the available Greek text tells
+            of one Procopius from Porphyreon, presumably the town near Caesarea, who consulted the
+            powerful monk (Ἀββά) Zachaeus about the severe epidemic (θανατικόν) at Caesarea.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote429-1">
         <anchor xml:id="testimonia-429.grc.1" corresp="#testimonia-429.en.1"/>διηγήσατο ἡμῖν Προκόπιος ὁ σχολαστικὀς ὁ Πορφυρεωνίτης περὶ τοῦ ἀββᾶ
             Ζακχαίου, λέγων ὅτι Οἱ δύο υἱοί μου ἐν <placeName>Καισαρείᾳ</placeName> ἀνεγίνωσκον.
@@ -323,7 +325,10 @@
         <ref target=""/>
         <note xml:lang="en" type="textual">Ed. Cotelier and Migne
                1865</note>
-        <note xml:lang="en" type="corrigenda">Minor corr. (punctuation, capitalization)</note>
+        <note xml:lang="en" type="textual">Codices Parisini Graeci 914, 916, 917, 1596, 1605
+               (11th-12th centuries)</note>
+        <note xml:lang="en" type="corrigenda">Minor
+               corr. (punctuation, capitalization)</note>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote429-2">
         <anchor xml:id="testimonia-429.en.1" corresp="#testimonia-429.grc.1"/>Procopius the lawyer, who came from Porphyreon, told us this about
@@ -354,7 +359,7 @@
           <citedRange unit="p">108-109</citedRange>
         </bibl>
       </listBibl>
-      <note type="related-texts">
+    <note type="related-texts">
         <p>John Moschus, Spiritual Meadow 132</p>
       </note>
       <note type="geography">

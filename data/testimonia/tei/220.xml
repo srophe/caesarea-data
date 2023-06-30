@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -13,7 +15,7 @@
         <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
         <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</editor>
         <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
-        <respStmt>
+      <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
         </respStmt>
@@ -34,10 +36,10 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/220/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/4.0">
-            <p>Except for materials quoted from other sources, this entry is copyright 2022 by the contributors (Joseph L. Rife, et al.) and the Caesarea City and Port Exploration Project. It is licensed under the Attribution 4.0 International (CC BY 4.0) license.</p> <p>Some texts quoted in this entry may be in the public domain in the United States. No copyright is asserted for these quotations.</p> <p>Some texts quoted in this entry may have copyright restrictions and are reused under Section 107 of the Copyright Act of 1976 (Title 17 of the United States Code) which permits “fair use” of copyrighted materials for purposes such as criticism, comment, scholarship, and research. These texts remain under copyright of their owners. No copyright infringement is intended.</p>
+            <p>Except for materials quoted from other sources, this entry is copyright 2023 by the contributors (Joseph L. Rife, et al.) and the Caesarea City and Port Exploration Project. It is licensed under the Attribution 4.0 International (CC BY 4.0) license.</p> <p>Some texts quoted in this entry may be in the public domain in the United States. No copyright is asserted for these quotations.</p> <p>Some texts quoted in this entry may have copyright restrictions and are reused under Section 107 of the Copyright Act of 1976 (Title 17 of the United States Code) which permits “fair use” of copyrighted materials for purposes such as criticism, comment, scholarship, and research. These texts remain under copyright of their owners. No copyright infringement is intended.</p>
           </licence>
         </availability>
-        <date>2022-10-19-05:00</date>
+        <date>2023-06-30-05:00</date>
       </publicationStmt>
       <seriesStmt>
         <title level="s" xml:lang="en">Caesarea-Maritima.org: A Digital Archive</title>
@@ -252,9 +254,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Geography</title>
-        <ref n="a" target="#bib220-1">16.2.27</ref> written by <persName ref="http://viaf.org/viaf/255656584" role="author">Strabo</persName> in <origDate notBefore="0007" notAfter="0024" period="#nabateanKingdom #earlyRoman #herodian #middleNabatean">7-24 CE</origDate>. This
-        work was likely written in <origPlace ref="https://pleiades.stoa.org/places/727070">Alexandria or Rome</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Geography</title> <ref target="#bib220-1">16.2.27</ref> written by <persName ref="http://viaf.org/viaf/255656584" role="author">Strabo</persName> in <origDate notBefore="0007" notAfter="0024" period="#nabateanKingdom #earlyRoman #herodian #middleNabatean">7-24 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/727070">Alexandria or Rome</origPlace>.</creation>
       <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
         <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>
@@ -267,7 +267,8 @@
         <catRef scheme="#CM-NEAEH" target="#earlyRoman #herodian"/>
       </textClass>
     </profileDesc>
-    <revisionDesc status="draft">
+    <revisionDesc status="published">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2023-06-30-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
     </revisionDesc>
@@ -278,11 +279,11 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/220</idno>
       </ab>
       <desc type="abstract" xml:id="abstract220-1">
-        <quote><placeName>Στράτωνος πύργος</placeName></quote>, and <quote><placeName>Strato’s Tower</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/255656584" role="author">Strabo</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Geography</title> <ref n="a" target="#bib220-1">16.2.27</ref>. This passage was written ca. <origDate notBefore="0007" notAfter="0024" period="#nabateanKingdom #earlyRoman #herodian #middleNabatean">7-24 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/727070">Alexandria or Rome</origPlace>.</desc>
-      <desc type="context">Strabo, a scholar from a prosperous family in north central Asia Minor,
-        spent much of his career during the reign of Augustus traveling for research to compile an
-        encyclopedic survey of the contemporary world. His work in 17 books chronicles the
-        geographic and ethnographic diversity of the Mediterranean basin and those regions of
+        <quote><placeName>Στράτωνος πύργος</placeName></quote>, and <quote><placeName>Strato’s Tower</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/255656584" role="author">Strabo</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Geography</title> <ref target="#bib220-1">16.2.27</ref>. This passage was written ca. <origDate notBefore="0007" notAfter="0024" period="#nabateanKingdom #earlyRoman #herodian #middleNabatean">7-24 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/727070">Alexandria or Rome</origPlace>.</desc>
+      <desc type="context">Strabo was a scholar from a prosperous family in north central Asia
+        Minor. He spent much of his career during the reign of Augustus traveling for research to
+        compile an encyclopedic survey of the contemporary world. His work in 17 books chronicles
+        the geographic and ethnographic diversity of the Mediterranean basin and those regions of
         Europe, the Middle East, and north Africa under Roman rule in the first decades of the
         principate. His survey moves systematically from West to East, covering in its penultimate
         book the settlements along the Levantine coast.</desc>
@@ -291,7 +292,8 @@
         Μετὰ δὲ τὴν Ἄκην
           <placeName>Στράτωνος πύργος</placeName> πρόσορμον ἔχων. Μεταξὺ δὲ ὅ τε Κάρμηλος τὸ ὄρος
         καὶ πολιχνίων ὀνόματα, πλέον δ’ οὐδέν, Συκαμίνων πόλις, Βουκόλων καὶ Κροκοδείλων πόλις καὶ
-        ἄλλα τοιαῦτα· εἶτα δρυμὸς μέγας τις.<ab type="source" source="#bib220-1"/>
+        ἄλλα τοιαῦτα· εἶτα δρυμὸς μέγας τις.
+      <ab type="source" source="#bib220-1"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
         <note xml:lang="en" type="textual">Ed. Meineke 1877</note>
@@ -301,7 +303,8 @@
         After Ake is
           <placeName>Strato’s Tower</placeName>, which has a landing for ships. Between the two is
         Mount Carmel, as well as towns of which remains and nothing more remain—Sykaminopolis,
-        Boukolos and Krokodeilopolis, and others like them. Then comes a large forest.<ab type="source" source="#bib220-2"/>
+        Boukolos and Krokodeilopolis, and others like them. Then comes a large forest.
+      <ab type="source" source="#bib220-2"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
         <note xml:lang="en" type="translation">Adapted from Jones 1930</note>

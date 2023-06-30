@@ -1,8 +1,10 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="en" level="a">Eusebius of Caesarea, <title level="m">Life of
+        <title xml:lang="en" level="a">Eusebius, <title level="m">Life of
           Constantine</title> 1.19</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
         <sponsor>Vanderbilt University</sponsor>
@@ -13,10 +15,9 @@
         <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#dmichelson">David A. Michelson</editor>
         <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
         <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</editor>
-        
         <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#eyonan">Eliana Yonan</editor>
         <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
-        <respStmt>
+      <respStmt>
         <resp>TEI encoding by</resp>
         <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
       </respStmt>
@@ -40,7 +41,7 @@
             <p>Except for materials quoted from other sources, this entry is copyright 2023 by the contributors (Eliana Yonan, et al.) and the Caesarea City and Port Exploration Project. It is licensed under the Attribution 4.0 International (CC BY 4.0) license.</p> <p>Some texts quoted in this entry may be in the public domain in the United States. No copyright is asserted for these quotations.</p> <p>Some texts quoted in this entry may have copyright restrictions and are reused under Section 107 of the Copyright Act of 1976 (Title 17 of the United States Code) which permits “fair use” of copyrighted materials for purposes such as criticism, comment, scholarship, and research. These texts remain under copyright of their owners. No copyright infringement is intended.</p>
           </licence>
         </availability>
-        <date>2023-01-20-05:00</date>
+        <date>2023-06-30-05:00</date>
       </publicationStmt>
       <seriesStmt>
         <title level="s" xml:lang="en">Caesarea-Maritima.org: A Digital Archive</title>
@@ -257,8 +258,7 @@
         <p/>
       </abstract>
       <creation>This entry is taken from <title xml:lang="en" type="uniform" level="m">Life of
-          Constantine</title>
-        <ref n="a" target="#bib130-1">1.19</ref> written by <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName> in <origDate notBefore="0335" notAfter="0339" period="#byzantine">335-339 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</creation>
+          Constantine</title> <ref target="#bib130-1">1.19</ref> written by <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius</persName> in <origDate notBefore="0335" notAfter="0339" period="#byzantine">335-339 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</creation>
       <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
         <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>
@@ -272,6 +272,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc status="published">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2023-06-30-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2023-01-20-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#wpotter" when="2020-06-10-05:00">ADDED: testimonium ID, URNs, URLs to edition and translation, and Bibl URIs</change>
@@ -283,8 +284,8 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/130</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract130-1">Caesarea Maritima is indirectly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>, <title xml:lang="en" type="uniform" level="m">Life of
-          Constantine</title> <ref n="a" target="#bib130-1">1.19</ref>. This passage was written ca. <origDate notBefore="0335" notAfter="0339" period="#byzantine">335-339 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract130-1">Caesarea Maritima is indirectly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius</persName>, <title xml:lang="en" type="uniform" level="m">Life of
+          Constantine</title> <ref target="#bib130-1">1.19</ref>. This passage was written ca. <origDate period="#byzantine" notBefore="0335" notAfter="0339">335-339 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
       <desc type="context">In this passage from his biography of Constantine the Great, Eusebius
         describes the physical and spritual virtues of the adolescent. The historian refers to
         seeing Constantine himself, presumably at Caesarea, during the young man’s visit to
@@ -300,28 +301,30 @@
         ἐπλεονέκτει τοὺς ὁμήλικας ὡς καὶ φοβερὸν αὐτοῖς εἶναι, ταῖς δὲ κατὰ ψυχὴν ἀρεταῖς μᾶλλον ἢ
         τοῖς κατὰ τὸ σῶμα πλεονεκτήμασιν ἐνηβρύνετο, σωφροσύνῃ πρώτιστα τὴν ψυχὴν κοσμούμενος
         πάντων, κἄπειτα παιδεύσει λόγων φρονήσει τ’ ἐμφύτῳ καὶ τῇ θεοσδότῳ σοφίᾳ διαφερόντως
-        ἐκπρέπων.<ab type="source" source="#bib130-1"/>
-        <idno type="CTS-URN"/>
+          ἐκπρέπων.
+      <ab type="source" source="#bib130-1"/>
+        <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/"/>
         <note xml:lang="en" type="textual">Ed. Winkelmann 1991</note>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote130-2">
-        <anchor xml:id="testimonia-130.en.1" corresp="#testimonia-130.grc.1"/>TThis son (sc.
+        <anchor xml:id="testimonia-130.en.1" corresp="#testimonia-130.grc.1"/>This son (sc.
         Constantine) was with his imperial colleagues (sc. the tetrarchs); and in their midst, as
         has been said, he conducted himself in the same way as the ancient prophet of God. Now that
         he had passed from childhood to youth, he was granted highest honor among them. As such we
         knew him ourselves as he travelled through the land of Palestine in the company of the
-        senior Emperor (sc. Diocletian), at whose right he stood, a noble sight for those with eyes
+        senior emperor (sc. Diocletian), at whose right he stood, a noble sight for those with eyes
         to see, able already to display an Imperial quality of mind. In handsome physique and bodily
         height no other could bear comparison with him; in physical strength he so exceeded his
         contemporaries as even to put them in fear; he took pride in moral qualities rather than
         physical superiority, ennobling his soul first and foremost with self-control, and
         thereafter distinguishing himself by the excellence of his rhetorical education, his
-        instinctive shrewdness and his God-given wisdom.<ab type="source" source="#bib130-2"/>
+        instinctive shrewdness and his God-given wisdom.
+      <ab type="source" source="#bib130-2"/>
         <idno type="CTS-URN"/>
         <ref/>
         <note xml:lang="en" type="translation">Rev. Cameron and
           Hill 1999</note>
-        <note type="discussion">“as has been said, he conducted himself in the same way as the
+        <note xml:lang="en" type="discussion">“as has been said, he conducted himself in the same way as the
           ancient prophet of God”: the simile compares Constantine among the tetrarchs to Moses
           among the Egyptians.</note>
       </ab>

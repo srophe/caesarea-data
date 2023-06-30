@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
@@ -17,7 +16,31 @@
         <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
         <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</editor>
         <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
-         <respStmt>
+      <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
+        </respStmt>
+        <respStmt>
+          <resp>TEI record created by</resp>
+          <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium translated by</resp>
+          <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium transcribed by</resp>
+          <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium identified by</resp>
+          <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
+        </respStmt>
+        <respStmt>
+          <resp>Editorial review by</resp>
+          <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
+        </respStmt>
+        <respStmt>
           <resp>Testimonium edited by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
@@ -53,7 +76,7 @@
                   <p>Except for materials quoted from other sources, this entry is copyright 2023 by the contributors (Joseph L. Rife, et al.) and the Caesarea City and Port Exploration Project. It is licensed under the Attribution 4.0 International (CC BY 4.0) license.</p> <p>Some texts quoted in this entry may be in the public domain in the United States. No copyright is asserted for these quotations.</p> <p>Some texts quoted in this entry may have copyright restrictions and are reused under Section 107 of the Copyright Act of 1976 (Title 17 of the United States Code) which permits “fair use” of copyrighted materials for purposes such as criticism, comment, scholarship, and research. These texts remain under copyright of their owners. No copyright infringement is intended.</p>
                </licence>
             </availability>
-            <date>2023-04-28-05:00</date>
+            <date>2023-06-30-05:00</date>
          </publicationStmt>
          <seriesStmt>
             <title level="s" xml:lang="en">Caesarea-Maritima.org: A Digital Archive</title>
@@ -270,7 +293,7 @@
             <p/>
          </abstract>
          <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Life of Sabas</title> <ref target="#bib498-1">56.149.27-56.151.7</ref> written by <persName role="author" ref="http://viaf.org/viaf/8181483">Cyril of
-               Scythopolis</persName> in <origDate notBefore="0544" notAfter="0558" period="#byzantine">ca. 544-558 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</creation>
+               Scythopolis</persName> in <origDate notBefore="0544" notAfter="0558" period="#byzantine">ca. 544-558 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
         <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>
@@ -283,7 +306,8 @@
             <catRef scheme="#CM-NEAEH" target="#byzantine"/>
          </textClass>
       </profileDesc>
-      <revisionDesc status="draft">
+      <revisionDesc status="published">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2023-06-30-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2023-04-28-05:00">CREATED: testimonium</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2023-04-28-05:00">CHANGED: Proofreading and general edits</change>
       </revisionDesc>
@@ -295,14 +319,14 @@
          </ab>
          <desc type="abstract" xml:id="abstract498-1">
         <quote><placeName>Καισαρέα</placeName></quote>, <quote><placeName>Καισαρέων</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/8181483">Cyril of
-               Scythopolis</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Life of Sabas</title> <ref target="#bib498-1">56.149.27-56.151.7</ref>. This passage was written ca. <origDate notBefore="0544" notAfter="0558" period="#byzantine">ca. 544-558 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
+               Scythopolis</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Life of Sabas</title> <ref>56.149.27-56.151.7</ref>. This passage was written ca. <origDate notBefore="0544" notAfter="0558">ca. 544-558 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
          <desc type="context">Cyril from Scythopolis (ca. 525-559 C.E.) was a monk who wrote
             detailed hagiographies of seven roughly contemporary monks. His works are essential
             historical sources for Palestinian monasticism, theology, and political relationships
             during roughly the first half of the 6th century. He wrote one of his two major works
             about the Cappadocian Saint Sabas, at whose lavra he served from 555 C.E. until his
-            death. In this important passage, Cyril recounts the mass gathering of monks in 516 at
-            Jerusalem amid grave tension between the emperor Anastasius I and supporters of
+            death. In this important passage, Cyril recounts the mass gathering of monks in 516 C.E.
+            at Jerusalem amid grave tension between the emperor Anastasius I and supporters of
             Alexandrian miaphysitism, including the newly installed Patriarch of Antioch, Severus, a
             Eutychian, and staunch defenders of Chalcedonian dyophysitism, including St. Sabas and
             Elias I, archbishop and patriarch of Jerusalem. Imperial forces led by the duces Olympus
@@ -351,32 +375,35 @@
             with rage and sent one Olympus of <placeName>Caesarea</placeName>,
                <foreign>dux</foreign> of Palestine, with the diplomatic letter written from Sidon
             which professed disapproval of the Council of Chalcedon, in order by any and every means
-            to oust Elias from his see. Olympus arrived with an Imperial force and, by utilizating
+            to oust Elias from his see. Olympus arrived with an Imperial force and, by utilizing
             many methods and strategems and displaying the aforementioned letter, ousted Elias from
             the episcopal see and banished him to Aila. And (in his place Olympus) made John the son
-            of Marcianus, who had agreed to accept Severus into communion and to anathematic the
+            of Marcianus, who had agreed to accept Severus into communion and to anathematize the
             Council of Chalcedon, the bishop of Jerusalem on September 1 at the start of the tenth
-            indiction [i.e., 516 C.E.] The sanctified Sabas and the other Desert Fathers, when they
+            indiction [=516 C.E.] The sanctified Sabas and the other Desert Fathers, when they
             learned that John had made this agreement, gathered together and adjured him not to
             receive Severus into communion but to bear the brunt of the battle on behalf of the
             Council of Chalcedon, with all of them as allies. And so John went against all the
-            things he had promised the duces out of respect for the Fathers. The emperor Anastasius,
-            furious at learning that John had cancelled his compact, sent Anastasius the son of
-            Pamphilus and <foreign>dux</foreign> of Palestine—Olympus was now out of the way—to make
-            John receive Severus into communion and anathematize the Council of Chalcedon, or to
-            oust him from the episcopal see. Upon arriving in Jerusalem, Anastasius descended
-            suddenly on the archbishop and threw him into the public jail. All the residents of the
-            Holy City rejoiced because [John] had plotted against Elias and betrayed him. But a
-            certain Zacharias, the governor from <placeName>Caesarea</placeName>, secretly entered
-            the Fortress and gave advice to John, “If you want to act well and not be deprived of
-            your see, let noone persuade you to received Severus in communion, but pretend to make a
-            compact with the dux in these words: ‘I shall not now postpone fulfilling my offer but,
-            lest some claim that I acted under forceful constraint, please release me from here, and
-            in two days’ time, on Sunday, I shall readily carry out your orders.’” Convinced by
-            these words, the <foreign>dux</foreign> (Anastasius) restored (John) to his church.<ab type="source" source="#bib498-2"/>
+            things he had promised the <foreign>duces</foreign> out of respect for the Fathers. The
+            emperor Anastasius, furious at learning that John had cancelled his compact, sent
+            Anastasius the son of Pamphilus and <foreign>dux</foreign> of Palestine—Olympus was now
+            out of the way—to make John receive Severus into communion and anathematize the Council
+            of Chalcedon, or to oust him from the episcopal see. Upon arriving in Jerusalem,
+            Anastasius descended suddenly on the archbishop and threw him into the public jail. All
+            the residents of the Holy City rejoiced because [John] had plotted against Elias and
+            betrayed him. But a certain Zacharias, the governor from
+            <placeName>Caesarea</placeName>, secretly entered the Fortress and gave advice to John,
+            “If you want to act well and not be deprived of your see, let noone persuade you to
+            receive Severus in communion, but pretend to make a compact with the
+               <foreign>dux</foreign> in these words: ‘I shall not now postpone fulfilling my offer
+            but, lest some claim that I acted under forceful constraint, please release me from
+            here, and in two days’ time, on Sunday, I shall readily carry out your orders.’”
+            Convinced by these words, the <foreign>dux</foreign> (Anastasius) restored (John) to his
+               church.<ab type="source" source="#bib498-2"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
-        <note xml:lang="en" type="translation">Revised from Price and Binns 1990</note>
+        <note xml:lang="en" type="translation">Revised from Price and Binns
+               1990</note>
       </ab>
          <listBibl>
         <head>Works Cited</head>
@@ -390,7 +417,7 @@
           <citedRange unit="p">159-160</citedRange>
         </bibl>
       </listBibl>
-      <note type="related-texts">
+    <note type="related-texts">
         <p>* Cyril of Scythopolis, Life of Sabas 56.151.7-56.152.12</p>
       </note>
       <note type="geography">
@@ -399,8 +426,8 @@
         <p>Sidon</p>
       </note>
       <note type="prosopography">
-        <p>Anastasius son of Pamphilus, dux</p>
         <p>Anastasius I, emperor</p>
+        <p>Anastasius son of Pamphilus, dux</p>
         <p>Elias I, Patriarch of Jerusalem</p>
         <p>John III, Patriarch of Jerusalem</p>
         <p>Olympus, dux</p>

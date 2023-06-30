@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -13,7 +15,7 @@
         <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
         <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</editor>
         <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
-        <respStmt>
+      <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
         </respStmt>
@@ -34,10 +36,10 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/296/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/4.0">
-            <p>Except for materials quoted from other sources, this entry is copyright 2022 by the contributors (Joseph L. Rife, et al.) and the Caesarea City and Port Exploration Project. It is licensed under the Attribution 4.0 International (CC BY 4.0) license.</p> <p>Some texts quoted in this entry may be in the public domain in the United States. No copyright is asserted for these quotations.</p> <p>Some texts quoted in this entry may have copyright restrictions and are reused under Section 107 of the Copyright Act of 1976 (Title 17 of the United States Code) which permits “fair use” of copyrighted materials for purposes such as criticism, comment, scholarship, and research. These texts remain under copyright of their owners. No copyright infringement is intended.</p>
+            <p>Except for materials quoted from other sources, this entry is copyright 2023 by the contributors (Joseph L. Rife, et al.) and the Caesarea City and Port Exploration Project. It is licensed under the Attribution 4.0 International (CC BY 4.0) license.</p> <p>Some texts quoted in this entry may be in the public domain in the United States. No copyright is asserted for these quotations.</p> <p>Some texts quoted in this entry may have copyright restrictions and are reused under Section 107 of the Copyright Act of 1976 (Title 17 of the United States Code) which permits “fair use” of copyrighted materials for purposes such as criticism, comment, scholarship, and research. These texts remain under copyright of their owners. No copyright infringement is intended.</p>
           </licence>
         </availability>
-        <date>2022-10-19-05:00</date>
+        <date>2023-06-30-05:00</date>
       </publicationStmt>
       <seriesStmt>
         <title level="s" xml:lang="en">Caesarea-Maritima.org: A Digital Archive</title>
@@ -252,8 +254,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Letters</title>
-        <ref n="d" target="#bib296-1">79.2.1-3</ref> written by <persName role="author" ref="http://viaf.org/viaf/309472433">Jerome</persName> in <origDate notBefore="0385" notAfter="0415" period="#byzantine">ca. 400 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Letters</title> <ref target="#bib296-1">79.2.1-3</ref> written by <persName role="author" ref="http://viaf.org/viaf/309472433">Jerome</persName> in <origDate when="0400" period="#byzantine">400 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</creation>
       <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="la">Latin</language>
         <language ana="#caesarea-language-of-original" ident="la">Latin</language>
@@ -266,7 +267,8 @@
         <catRef scheme="#CM-NEAEH" target="#earlyRoman #herodian #byzantine"/>
       </textClass>
     </profileDesc>
-    <revisionDesc status="draft">
+    <revisionDesc status="published">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2023-06-30-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
     </revisionDesc>
@@ -276,7 +278,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/296</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract296-1">and <quote><placeName>Caesarea</placeName></quote> is directly attested at <persName role="author" ref="http://viaf.org/viaf/309472433">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Letters</title> <ref n="d" target="#bib296-1">79.2.1-3</ref>. This passage was written ca. <origDate notBefore="0385" notAfter="0415" period="#byzantine">ca. 400 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract296-1">and <quote><placeName>Caesarea</placeName></quote> is directly attested at <persName role="author" ref="http://viaf.org/viaf/309472433">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Letters</title> <ref target="#bib296-1">79.2.1-3</ref>. This passage was written ca. <origDate when="0400">400 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</desc>
       <desc type="context">Among the voluminous correspondence of St. Jerome is this letter,
             which he wrote to console Salvina, the widow of Nebridius, whom he had never met.
             Nebridius, son of a prominent commander and the empress’s sister and prefect of
@@ -297,7 +299,8 @@
             gentium dedicavit. scriptum que est de eo: “erat vir quidam in <placeName>Caesarea</placeName> nomine Cornelius, centurio cohortis, quae dicitur
             Italica, religiosus et timens deum cum omni domo sua, faciens elemosynas multas plebi et
             orans deum semper.” (3) quidquid de illo dicitur hoc nomine commutato in Nebridio meo
-               vindico.<ab type="source" source="#bib296-1"/>
+               vindico.
+      <ab type="source" source="#bib296-1"/>
         <idno type="CTS-URN"/>
         <ref/>
         <note xml:lang="en" type="textual">Ed. Hilberg and Slovak 1996</note>
@@ -320,7 +323,8 @@
         name of Cornelius, a centurion of the cohort named the Italian, a devote man and
         god-fearing, along with his whole house, who gave much alms to the poor and always prayed to
         God.” (3) All this that is said of him I claim—with a change of name only—for my dear
-          Nebridius.<ab type="source" source="#bib296-2"/>
+          Nebridius.
+      <ab type="source" source="#bib296-2"/>
         <idno type="CTS-URN"/>
         <ref target="https://www.ccel.org/ccel/schaff/npnf206.v.LXXIX.html"/>
         <note xml:lang="en" type="translation">Adapted from Fremantle 1893</note>

@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
@@ -16,7 +15,31 @@
         <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
         <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</editor>
         <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
-         <respStmt>
+      <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
+        </respStmt>
+        <respStmt>
+          <resp>TEI record created by</resp>
+          <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium translated by</resp>
+          <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium transcribed by</resp>
+          <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium identified by</resp>
+          <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
+        </respStmt>
+        <respStmt>
+          <resp>Editorial review by</resp>
+          <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
+        </respStmt>
+        <respStmt>
           <resp>Testimonium edited by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
@@ -52,7 +75,7 @@
                   <p>Except for materials quoted from other sources, this entry is copyright 2023 by the contributors (Joseph L. Rife, et al.) and the Caesarea City and Port Exploration Project. It is licensed under the Attribution 4.0 International (CC BY 4.0) license.</p> <p>Some texts quoted in this entry may be in the public domain in the United States. No copyright is asserted for these quotations.</p> <p>Some texts quoted in this entry may have copyright restrictions and are reused under Section 107 of the Copyright Act of 1976 (Title 17 of the United States Code) which permits “fair use” of copyrighted materials for purposes such as criticism, comment, scholarship, and research. These texts remain under copyright of their owners. No copyright infringement is intended.</p>
                </licence>
             </availability>
-            <date>2023-04-28-05:00</date>
+            <date>2023-06-30-05:00</date>
          </publicationStmt>
          <seriesStmt>
             <title level="s" xml:lang="en">Caesarea-Maritima.org: A Digital Archive</title>
@@ -281,7 +304,8 @@
             <catRef scheme="#CM-NEAEH" target="#byzantine"/>
          </textClass>
       </profileDesc>
-      <revisionDesc status="draft">
+      <revisionDesc status="published">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2023-06-30-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2023-04-28-05:00">CREATED: testimonium</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2023-04-28-05:00">CHANGED: Proofreading and general edits</change>
       </revisionDesc>
@@ -291,7 +315,7 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/500</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract500-1">Caesarea Maritima is indirectly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Easter Chronicle </title> <ref target="#bib500-1">619.14-620.2</ref>. This passage was written ca. <origDate notBefore="0630" notAfter="0630" period="#byzantine">ca. 630 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+         <desc type="abstract" xml:id="abstract500-1">Caesarea Maritima is indirectly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Easter Chronicle </title> <ref>619.14-620.2</ref>. This passage was written ca. <origDate notBefore="0630" notAfter="0630">ca. 630 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
          <desc type="context">The so-called <title>Easter Chronicle</title> (<title>Chronicon
                paschale</title>) is a universal history from the Creation down to the later reign of
             Heraclius, when it was composed, based an amalgam of biblical, Christian, and secular
@@ -318,13 +342,13 @@
          <ab type="translation" xml:lang="en" xml:id="quote500-2">
         <anchor xml:id="testimonia-500.en.1" corresp="#testimonia-500.grc.1"/>Indiction 8. Year 25. Consuls Lampadius and Orestes. [530 C.E.]<lb/>In
             this year, when the Samaritans revolted and created for themselves an emperor and a
-            Caesar [Julianus ben Sabar], Eirenaios son of Pentadia was sent as magister militum and
-            put many to death. And certain ones of them in fear came to Christianity under
-            compulsion, and were received and captized, and up until the present day they waver
-            between the two: under stringent officials they deceive by appearance and they falsely
-            and wickedly manifest themselves as Christians, but under lax and greedy officials, they
-            conduct themselves as Samaritans and haters of Christians and, as if ignorant of
-            Christianity, persuading the officials with money to favor Samaritans.<ab type="source" source="#bib500-2"/>
+            Caesar [Julianus ben Sabar], Eirenaios son of Pentadia was sent as <foreign>magister
+               militum</foreign> and put many to death. And certain ones of them in fear came to
+            Christianity under compulsion, and were received and captized, and up until the present
+            day they waver between the two: under stringent officials they deceive by appearance and
+            they falsely and wickedly manifest themselves as Christians, but under lax and greedy
+            officials, they conduct themselves as Samaritans and haters of Christians and, as if
+            ignorant of Christianity, persuading the officials with money to favor Samaritans.<ab type="source" source="#bib500-2"/>
         <idno type="CTS-URN"/>
         <ref/>
         <note xml:lang="en" type="translation">Revised from Whitby and Whitby 1989</note>
@@ -340,7 +364,7 @@
           <citedRange unit="p">111</citedRange>
         </bibl>
       </listBibl>
-      <note type="related-texts">
+    <note type="related-texts">
         <p>* Constantine VII Porphyrogenitus, Plots 171.6-34</p>
         <p>* Cyril of Scythopolis, Life of Sabas 70.172.1-70.173.11</p>
         <p>* George Cedrenus 646.22-647.3</p>

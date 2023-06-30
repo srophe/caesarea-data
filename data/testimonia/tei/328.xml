@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -14,7 +16,7 @@
             <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
             <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</editor>
             <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
-            <respStmt>
+         <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
         </respStmt>
@@ -26,7 +28,7 @@
                <resp>Testimonia identified by</resp>
                <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
             </respStmt>
-         </titleStmt>
+      </titleStmt>
          <editionStmt>
             <edition n="1.0"/>
          </editionStmt>
@@ -35,10 +37,10 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/328/tei</idno>
             <availability>
                <licence target="http://creativecommons.org/licenses/by/4.0">
-                  <p>Except for materials quoted from other sources, this entry is copyright 2022 by the contributors (Joseph L. Rife, et al.) and the Caesarea City and Port Exploration Project. It is licensed under the Attribution 4.0 International (CC BY 4.0) license.</p> <p>Some texts quoted in this entry may be in the public domain in the United States. No copyright is asserted for these quotations.</p> <p>Some texts quoted in this entry may have copyright restrictions and are reused under Section 107 of the Copyright Act of 1976 (Title 17 of the United States Code) which permits “fair use” of copyrighted materials for purposes such as criticism, comment, scholarship, and research. These texts remain under copyright of their owners. No copyright infringement is intended.</p>
+                  <p>Except for materials quoted from other sources, this entry is copyright 2023 by the contributors (Joseph L. Rife, et al.) and the Caesarea City and Port Exploration Project. It is licensed under the Attribution 4.0 International (CC BY 4.0) license.</p> <p>Some texts quoted in this entry may be in the public domain in the United States. No copyright is asserted for these quotations.</p> <p>Some texts quoted in this entry may have copyright restrictions and are reused under Section 107 of the Copyright Act of 1976 (Title 17 of the United States Code) which permits “fair use” of copyrighted materials for purposes such as criticism, comment, scholarship, and research. These texts remain under copyright of their owners. No copyright infringement is intended.</p>
                </licence>
             </availability>
-            <date>2022-10-19-05:00</date>
+            <date>2023-06-30-05:00</date>
          </publicationStmt>
          <seriesStmt>
             <title level="s" xml:lang="en">Caesarea-Maritima.org: A Digital Archive</title>
@@ -254,21 +256,22 @@
          <abstract>
             <p/>
          </abstract>
-        <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:greekLit:tlg2111.tlg001" type="uniform" level="m">Lausiac History</title> <ref n="b" target="#bib328-1">70</ref> written by <persName ref="http://viaf.org/viaf/61550437" role="author">Palladius of
-               Galatia</persName> in <origDate notBefore="0419" notAfter="0420" period="#byzantine">419-420 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/619161">Aspuna</origPlace>.</creation>
+        <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:greekLit:tlg2111.tlg001" type="uniform" level="m">History for Lausus</title> <ref target="#bib328-1">70</ref> written by <persName ref="http://viaf.org/viaf/61550437" role="author">Palladius of
+               Galatia</persName> in <origDate notBefore="0419" notAfter="0420" period="#byzantine">419-420 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/619161">Aspuna</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
         <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>
       </langUsage>
          <textClass>
-        <classCode scheme="https://distributed-text-services.github.io/specifications">
-          <idno type="CTS-URN">urn:cts:greekLit:tlg2111.tlg001:70</idno>
-        </classCode>
-        <catRef scheme="#CM-Testimonia-Type" target="#direct"/>
-        <catRef scheme="#CM-NEAEH" target="#byzantine"/>
-      </textClass>
+            <classCode scheme="https://distributed-text-services.github.io/specifications">
+               <idno type="CTS-URN"/>
+            </classCode>
+            <catRef scheme="#CM-Testimonia-Type" target="#direct"/>
+            <catRef scheme="#CM-NEAEH" target="#byzantine"/>
+         </textClass>
       </profileDesc>
-      <revisionDesc status="draft">
+      <revisionDesc status="published">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2023-06-30-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
          <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
       </revisionDesc>
@@ -279,17 +282,14 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/328</idno>
          </ab>
          <desc type="abstract" xml:id="abstract328-1">
-        <quote>
-          <placeName>Καισαρείᾳ τῆς
-               Παλαιστίνης</placeName>
-        </quote>, and <quote><placeName>Caesarea Palestinae</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/61550437" role="author">Palladius of
-               Galatia</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg2111.tlg001" type="uniform" level="m">History for Lausus</title> <ref n="b" target="#bib328-1">70</ref>. This passage was written ca. <origDate notBefore="0419" notAfter="0420" period="#byzantine">419-420 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/619161">Aspuna</origPlace>.</desc>
+        <quote><placeName>Καισαρείᾳ τῆς Παλαιστίνης</placeName></quote>, and <quote><placeName>Caesarea Palestinae</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/61550437" role="author">Palladius of
+               Galatia</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg2111.tlg001" type="uniform" level="m">History for Lausus</title> <ref>70</ref>. This passage was written ca. <origDate notBefore="0419" notAfter="0420">419-420 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/619161">Aspuna</origPlace>.</desc>
          <desc type="context">During an era of revolutionary religious practice and intense
             theological debate, Palladius wrote one of the most influential works of Late Antiquity:
-            a collection of biographies of holy persons, his<title>History for Lausus</title>.
+            a collection of biographies of holy persons, his <title>History for Lausus</title>.
             Palladius of Galatia entered the monastic life in the late 4th century, travelled to
             Alexandria and Nitria (where he stayed for nine years among the Desert Fathers), and,
-            after a sojourn in Palestine, returned to Asia Minor in 400 as bishop of Bithynian
+            after a sojourn in Palestine, returned to Asia Minor in 400 C.E. as bishop of Bithynian
             Helenopolis. He wrote his religious history for Lausus, chamberlain in the court of
             Theodosius II (<title>historia Lausiaca</title>), later in his career, after a period of
             controversy and further stays in Egypt and Palestine. This passage portrays a legal and
@@ -297,9 +297,8 @@
             impregnated by an assailant, a wrongfully accused reader in the local congregation, the
             Bishop (of Caesarea?), and a nearby convent.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote328-1">
-        <anchor xml:id="testimonia-328.grc.1" corresp="#testimonia-328.en.1"/>
-        (1) Πρεσβυτέρου τινὸς θυγάτηρ ἐν<placeName>Καισαρείᾳ τῆς
-               Παλαιστίνης</placeName>ἐκπεσοῦσα παρθένος παρὰ τοῦ ταύτην φθείραντος ἐδιδάχθη
+        <anchor xml:id="testimonia-328.grc.1" corresp="#testimonia-328.en.1"/>(1) Πρεσβυτέρου τινὸς θυγάτηρ ἐν <placeName>Καισαρείᾳ τῆς
+               Παλαιστίνης</placeName> ἐκπεσοῦσα παρθένος παρὰ τοῦ ταύτην φθείραντος ἐδιδάχθη
             ἀναγνώστην τινὰ τῆς πόλεως συκοφαντῆσαι. Καὶ γενονυίας ἤδη ἐγκύου, ἐξεταζομένη παρὰ τοῦ
             πατρὸς κατεῖπε τοῦ ἀναγνώστου. Ὁ δὲ πρεσβύτερος θαρσῶν ἀνήνεγκε τῷ ἐπισκόπῳ. Ὁ δὲ
             ἐπίσκοπος συνερότησε τὸ ἱερατεῖον καὶ ἐποίησε κληθῆναι τὸν ἀναγνώστην. Ἐβασανίζετο ἡ
@@ -333,10 +332,11 @@
                δύναμιν.<ab type="source" source="#bib328-1"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
+        <note xml:lang="en" type="textual">Ed. Bartelink 1974</note>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote328-2">
-        <anchor xml:id="testimonia-328.en.1" corresp="#testimonia-328.grc.1"/>
-        (1) A virgin once fell, the daughter of a certain presbyter in<placeName>Caesarea Palestinae</placeName>, and was taught by her seducer to accuse a
+        <anchor xml:id="testimonia-328.en.1" corresp="#testimonia-328.grc.1"/>(1) A virgin once fell, the daughter of a certain presbyter in
+               <placeName>Caesarea Palestinae</placeName>, and was taught by her seducer to accuse a
             certain reader in that city. When she had become pregnant, as she was being interrogated
             by her father, she denounced the reader. The presbyter confidently referred the matter
             to the bishop, and the bishop called his clergy together and had the reader summoned.
@@ -360,9 +360,9 @@
             and tell the father. The father, fearing to be condemned as a false accuser, keeps
             silence two more days. The young woman neither died nor gave birth. So when the nuns
             could no longer endure her cries, they ran and told the bishop, “So-and-so has confessed
-            in her cries days ago that she accused the reader falsely.” Then [the bishop] sends
-            deacons to [the reader] and tells him, “Pray that she who accused you falsely may give
-            birth.” (5) But [the reader] gave them no answer nor opened his door, but from the day
+            in her cries days ago that she accused the reader falsely.” Then (the bishop) sends
+            deacons to (the reader) and tells him, “Pray that she who accused you falsely may give
+            birth.” (5) But (the reader) gave them no answer nor opened his door, but from the day
             he entered his house he had been praying to God. The father went away again to the
             bishop; prayers were said in the church, and not even then did she give birth. Then the
             bishop arose and went to the reader, and knocking at the door went in and said to him,
@@ -372,6 +372,7 @@
             accuser, that we may learn to persevere in prayers and to know their power.<ab type="source" source="#bib328-2"/>
         <idno type="CTS-URN"/>
         <ref target="https://archive.org/details/lausiachistoryof002802mbp/page/n173/mode/2up"/>
+        <note xml:lang="en" type="translation">Rev. Clarke 1918</note>
       </ab>
          <listBibl>
         <head>Works Cited</head>

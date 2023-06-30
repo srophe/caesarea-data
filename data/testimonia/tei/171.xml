@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -13,7 +15,7 @@
             <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
             <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</editor>
             <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
-            <respStmt>
+         <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
         </respStmt>
@@ -25,7 +27,7 @@
                <resp>Testimonia identified by</resp>
                <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
             </respStmt>
-         </titleStmt>
+      </titleStmt>
          <editionStmt>
             <edition n="1.0"/>
          </editionStmt>
@@ -34,10 +36,10 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/171/tei</idno>
             <availability>
                <licence target="http://creativecommons.org/licenses/by/4.0">
-                  <p>Except for materials quoted from other sources, this entry is copyright 2022 by the contributors (Joseph L. Rife, et al.) and the Caesarea City and Port Exploration Project. It is licensed under the Attribution 4.0 International (CC BY 4.0) license.</p> <p>Some texts quoted in this entry may be in the public domain in the United States. No copyright is asserted for these quotations.</p> <p>Some texts quoted in this entry may have copyright restrictions and are reused under Section 107 of the Copyright Act of 1976 (Title 17 of the United States Code) which permits “fair use” of copyrighted materials for purposes such as criticism, comment, scholarship, and research. These texts remain under copyright of their owners. No copyright infringement is intended.</p>
+                  <p>Except for materials quoted from other sources, this entry is copyright 2023 by the contributors (Joseph L. Rife, et al.) and the Caesarea City and Port Exploration Project. It is licensed under the Attribution 4.0 International (CC BY 4.0) license.</p> <p>Some texts quoted in this entry may be in the public domain in the United States. No copyright is asserted for these quotations.</p> <p>Some texts quoted in this entry may have copyright restrictions and are reused under Section 107 of the Copyright Act of 1976 (Title 17 of the United States Code) which permits “fair use” of copyrighted materials for purposes such as criticism, comment, scholarship, and research. These texts remain under copyright of their owners. No copyright infringement is intended.</p>
                </licence>
             </availability>
-            <date>2022-10-19-05:00</date>
+            <date>2023-06-30-05:00</date>
          </publicationStmt>
          <seriesStmt>
             <title level="s" xml:lang="en">Caesarea-Maritima.org: A Digital Archive</title>
@@ -253,7 +255,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Eastern History</title> <ref n="a" target="#bib171-1">23-25</ref> written by <persName ref="http://viaf.org/viaf/177480349" role="author">Jacques de Vitry</persName> in <origDate notBefore="1216" notAfter="1225" period="#crusader">1216-1225 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678010">Acre</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Eastern History</title> <ref target="#bib171-1">23-25</ref> written by <persName ref="http://viaf.org/viaf/177480349" role="author">Jacques de Vitry</persName> in <origDate notBefore="1216" notAfter="1225" period="#crusader">1216-1225 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678010">Acre</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="la">Latin</language>
         <language ana="#caesarea-language-of-original" ident="la">Latin</language>
@@ -266,7 +268,8 @@
             <catRef scheme="#CM-NEAEH" target="#earlyRoman #herodian #crusader"/>
          </textClass>
       </profileDesc>
-      <revisionDesc status="draft">
+      <revisionDesc status="published">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2023-06-30-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
          <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
       </revisionDesc>
@@ -277,7 +280,8 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/171</idno>
          </ab>
          <desc type="abstract" xml:id="abstract171-1">
-        <quote><placeName>Cesaream</placeName></quote>, <quote><placeName>Cesaream Palestinam</placeName></quote>, <quote><placeName>Turris Stratonis</placeName></quote>, <quote><placeName>Cesarea</placeName></quote>, <quote><placeName>Caesarea</placeName></quote>, <quote><placeName>Caesarea in Palestine</placeName></quote>, <quote><placeName>Strato’s Tower</placeName></quote>, and <quote><placeName>Caesaerea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/177480349" role="author">Jacques de Vitry</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Eastern History</title> <ref n="a" target="#bib171-1">23-25</ref>. This passage was written ca. <origDate notBefore="1216" notAfter="1225" period="#crusader">1216-1225 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678010">Acre</origPlace>.</desc>
+        <quote><placeName>Cesaream</placeName></quote>, <quote><placeName>Cesaream Palestinam</placeName></quote>, <quote><placeName>Turris Stratonis</placeName></quote>, <quote><placeName>Cesarea</placeName></quote>, <quote><placeName>Caesarea</placeName></quote>, <quote><placeName>Caesarea in Palestine</placeName></quote>, and <quote><placeName>Strato’s Tower</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/177480349" role="author">Jacques de Vitry</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Eastern History</title> <ref target="#bib171-1">23-25</ref>. This passage was written ca. <origDate notBefore="1216" notAfter="1225" period="#crusader">1216-1225
+               C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678010">Acre</origPlace>.</desc>
          <desc type="context">Jacques de Vitry was a prominent French cleric and theologian who was
             elected Bishop of Acre in 1214. In that post from 1216, he supported the Fifth Crusade
             and wrote a detailed history of the Holy Land, beginning with Mohammed and continuing to
@@ -305,32 +309,35 @@
             prosequutus est appellationem. (25) Capta <placeName>Cesarea</placeName> addidit dictus
             rex, collecto universo exercitu a minore usque ad maiorem, Acconensem obsidere
             civitatem, eo quod peregrinis suscipiendis esset aptissima, et portum habens idoneum
-            tutam navibus preberet stationem.<ab type="source" source="#bib171-1"/>
+            tutam navibus preberet stationem.
+      <ab type="source" source="#bib171-1"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
         <note xml:lang="en" type="textual">Ed. Donnadieu 2008</note>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote171-2">
         <anchor xml:id="testimonia-171.en.1" corresp="#testimonia-171.la.1"/>
-        (23) At the end of the year, he (sc. Godfrey of Bouillon) went the
-            way of all flesh, but his brother Baldwin, a knight valiant in arms, practiced in
-            fighting from his childhood, was by common consent chosen to reign over them and
-            anointed as King. He was a man of war, wise and intelligent in the management of his
-            affairs, eagerly desiring to enlarge the borders of his narrow kingdom. With the help of
-            the Genoese, whose fleet had put into the harbor at Joppa about the beginning of spring,
-            he took the seaside city of Assur, otherwise called Antipatris after Antipater, Herod’s
-            father. It stands between Joppa and <placeName>Caesarea</placeName>, in a place pleasant
-            with thick woods and fertile with grassy meadows. (24) After this, with the aid of the
-            aforementioned Genoese, he besieged <placeName>Caesarea in Palestine</placeName> both by
-            sea and land and conquered it. This <placeName>Caesarea</placeName> was called
-               <placeName>Strato’s Tower</placeName> before that. Herod who slew the children
-            rebuilt it in Casesar’s honor. It stands by the seaside but lacks a convenient harbor,
-            and yet it abounds in gardens, pastures and running waters. It is the chief city of
-            Palestina Secunda. Here St. Paul the apostle was long detained in prison and made his
-            appeal that he might go to Rome. (25) The aforementioned King Baldwin, after he had
-            taken <placeName>Caesaerea</placeName>, led his whole assembled army from the lesser
-            task to the greater, and set it to besiege Acre, because Acre was most convenient for
-            receiving pilgrims and, having a good harbor, offered a safe haven for ships.<ab type="source" source="#bib171-2"/>
+            (23) At the end of
+            the year, (Godfrey of Bouillon) went the way of all flesh, but his brother Baldwin, a
+            knight valiant in arms, practiced in fighting from his childhood, was by common consent
+            chosen to reign over them and anointed as King. He was a man of war, wise and
+            intelligent in the management of his affairs, eagerly desiring to enlarge the borders of
+            his narrow kingdom. With the help of the Genoese, whose fleet had put into the harbor at
+            Joppa about the beginning of spring, he took the seaside city of Assur, otherwise called
+            Antipatris after Antipater, Herod’s father. It stands between Joppa and
+               <placeName>Caesarea</placeName>, in a place pleasant with thick woods and fertile
+            with grassy meadows. (24) After this, with the aid of the aforementioned Genoese, he
+            besieged <placeName>Caesarea in Palestine</placeName> both by sea and land and conquered
+            it. This <placeName>Caesarea</placeName> was called <placeName>Strato’s
+               Tower</placeName> before that. Herod who slew the children rebuilt it in Casesar’s
+            honor. It stands by the seaside but lacks a convenient harbor, and yet it abounds in
+            gardens, pastures and running waters. It is the chief city of Palestina Secunda. Here
+            St. Paul the apostle was long detained in prison and made his appeal that he might go to
+            Rome. (25) The aforementioned King Baldwin, after he had taken
+               <placeName>Caesarea</placeName>, led his whole assembled army from the lesser task to
+            the greater, and set it to besiege Acre, because Acre was most convenient for receiving
+            pilgrims and, having a good harbor, offered a safe haven for ships.
+         <ab type="source" source="#bib171-2"/>
         <idno type="CTS-URN"/>
         <ref target="https://books.google.com/books/about/The_History_of_Jerusalem_A_D_1180.html?id=UpQ3AQAAMAAJ"/>
         <note xml:lang="en" type="translation">Adapted from Stewart 1896</note>

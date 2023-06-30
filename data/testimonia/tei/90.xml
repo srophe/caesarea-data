@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -13,10 +15,9 @@
         <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#dmichelson">David A. Michelson</editor>
         <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
         <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</editor>
-        
         <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#eyonan">Eliana Yonan</editor>
         <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
-        <respStmt>
+      <respStmt>
         <resp>TEI encoding by</resp>
         <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
       </respStmt>
@@ -40,7 +41,7 @@
             <p>Except for materials quoted from other sources, this entry is copyright 2023 by the contributors (Eliana Yonan, et al.) and the Caesarea City and Port Exploration Project. It is licensed under the Attribution 4.0 International (CC BY 4.0) license.</p> <p>Some texts quoted in this entry may be in the public domain in the United States. No copyright is asserted for these quotations.</p> <p>Some texts quoted in this entry may have copyright restrictions and are reused under Section 107 of the Copyright Act of 1976 (Title 17 of the United States Code) which permits “fair use” of copyrighted materials for purposes such as criticism, comment, scholarship, and research. These texts remain under copyright of their owners. No copyright infringement is intended.</p>
           </licence>
         </availability>
-        <date>2023-01-20-05:00</date>
+        <date>2023-06-30-05:00</date>
       </publicationStmt>
       <seriesStmt>
         <title level="s" xml:lang="en">Caesarea-Maritima.org: A Digital Archive</title>
@@ -257,8 +258,7 @@
         <p/>
       </abstract>
       <creation>This entry is taken from <title ref="" type="uniform" level="m">Apostolic
-          Constitutions</title>
-        <ref n="a" target="#bib90-1">7.46.1-5</ref> written by <persName ref="" role="author">Unknown</persName> in <origDate notBefore="0375" notAfter="0380" period="#byzantine">375-380 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/658381">Antioch</origPlace>.</creation>
+          Constitutions</title> <ref target="#bib90-1">7.46.1-5</ref> written by <persName ref="" role="author">Unknown</persName> in <origDate notBefore="0350" notAfter="0380" period="#byzantine">350-380 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/658381">Antioch</origPlace>.</creation>
       <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
         <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>
@@ -272,6 +272,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc status="published">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2023-06-30-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2023-01-20-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#wpotter" when="2020-06-19-05:00">ADDED: testimonium ID, URNs, URLs to edition and translation, and Bibl URIs</change>
@@ -284,14 +285,8 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/90</idno>
       </ab>
       <desc type="abstract" xml:id="abstract90-1">
-        <quote>
-          <placeName xml:lang="grc">Καισαρείας δὲ τῆς
-          Παλαιστίνης</placeName>
-        </quote>, and <quote>
-          <placeName>Caesarea of
-          Palestine</placeName>
-        </quote> are directly attested at <persName ref="" role="author">Unknown</persName>, <title ref="" type="uniform" level="m">Apostolic
-          Constitutions</title> <ref n="a" target="#bib90-1">7.46.1-5</ref>. This passage was written ca. <origDate notBefore="0375" notAfter="0380" period="#byzantine">375-380 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/658381">Antioch</origPlace>.</desc>
+        <quote><placeName>Καισαρείας δὲ τῆς Παλαιστίνης</placeName></quote>, and <quote><placeName>Caesarea of Palestine</placeName></quote> are directly attested at <persName ref="" role="author">Unknown</persName>, <title ref="" type="uniform" level="m">Apostolic
+          Constitutions</title> <ref target="#bib90-1">7.46.1-5</ref>. This passage was written ca. <origDate period="#byzantine" notBefore="0350" notAfter="0380">350-380 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/658381">Antioch</origPlace>.</desc>
       <desc type="context">The <title>Apostolic Constitutions</title> is a long didactic text
         purporting to have been compiled by the apostles, in particular Peter, to guide the early
         Church in matters of morality, worship, and governance. It was probably composed in Syrian
@@ -305,7 +300,8 @@
           Παλαιστίνης</placeName> πρότερον μὲν Ζακχαίος ὅποτε τελώνης, μεθ᾽ ὃν Κορνήλιος καὶ τρίτος
         Θεόφιλος· (4) ᾽Αντιοχείας δὲ Εὐόδιος μὲν ὑπ᾽ ἐμοῦ Πέτρου, ᾽Ιγνάτιος δὲ ὑπὸ Παύλου· (5) τῆς
         δὲ ᾽Αλεξανδρέων ᾽Αννιανὸς πρῶτος ὑπὸ Μάρκου τοῦ εὐαγγελιστοὺ κεχειροτόνηται, δεύτερος δὲ
-        ᾽Αβίλιος ὑπὸ Λουκᾶ καὶ αὐτοῦ εὐαγγελιστού ...<ab type="source" source="#bib90-1"/>
+        ᾽Αβίλιος ὑπὸ Λουκᾶ καὶ αὐτοῦ εὐαγγελιστού ...
+      <ab type="source" source="#bib90-1"/>
         <idno type="CTS-URN"/>
         <ref/>
         <note xml:lang="en" type="textual">Ed. Metzger 1987 [cited by
@@ -315,17 +311,17 @@
         <anchor xml:id="testimonia-90.en.1" corresp="#testimonia-90.grc.1"/>(1) Concerning those
         bishops who have been ordained in our lifetime, we inform you that they are these: (2) At
         Jerusalem, James the brother of our Lord; upon his death, the second was Simeon son of
-        Cleopas; and after him, the third was Judas son of James. (3) At <placeName>Caesarea
-          Palestinae</placeName>, the first was Zacchaeus, once a publican; after him was Cornelius;
+        Cleopas; and after him, the third was Judas son of James. (3) At <placeName>Caesarea of
+          Palestine</placeName>, the first was Zacchaeus, once a publican; after him was Cornelius;
         and the third was Theophilus. (4) At Antioch, Euodius was installed by me, Peter; and
         Ignatius, by Paul. (5) At Alexandria, Annianus was the first, installed by Mark the
-        evangelist; the second was Avilius, by Luke, another evangelist.<ab type="source" source="#bib90-2"/>
+        evangelist; the second was Avilius, by Luke, another evangelist.
+      <ab type="source" source="#bib90-2"/>
         <idno type="CTS-URN"/>
         <ref/>
         <note xml:lang="en" type="translation">Trans. J. L. Rife with ref. to Metzger 2012</note>
-        <note type="discussion">The Cornelius identified as the second bishop of Caesarea may recall
-          the centurion who appears in the <title>Acts of the Apostles</title> (10:1-8), but that is
-          not certain.</note>
+        <note xml:lang="en" type="discussion">The Cornelius identified as the second bishop of Caesarea may recall
+          the centurion who appears in <title>Acts</title> 10:1-8, but that is not certain.</note>
       </ab>
       <listBibl>
         <head>Works Cited</head>

@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -13,7 +15,7 @@
         <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
         <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</editor>
         <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
-        <respStmt>
+      <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
         </respStmt>
@@ -37,10 +39,10 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/277/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/4.0">
-            <p>Except for materials quoted from other sources, this entry is copyright 2021 by the contributors (Joseph L. Rife, et al.) and the Caesarea City and Port Exploration Project. It is licensed under the Attribution 4.0 International (CC BY 4.0) license.</p> <p>Some texts quoted in this entry may be in the public domain in the United States. No copyright is asserted for these quotations.</p> <p>Some texts quoted in this entry may have copyright restrictions and are reused under Section 107 of the Copyright Act of 1976 (Title 17 of the United States Code) which permits “fair use” of copyrighted materials for purposes such as criticism, comment, scholarship, and research. These texts remain under copyright of their owners. No copyright infringement is intended.</p>
+            <p>Except for materials quoted from other sources, this entry is copyright 2023 by the contributors (Joseph L. Rife, et al.) and the Caesarea City and Port Exploration Project. It is licensed under the Attribution 4.0 International (CC BY 4.0) license.</p> <p>Some texts quoted in this entry may be in the public domain in the United States. No copyright is asserted for these quotations.</p> <p>Some texts quoted in this entry may have copyright restrictions and are reused under Section 107 of the Copyright Act of 1976 (Title 17 of the United States Code) which permits “fair use” of copyrighted materials for purposes such as criticism, comment, scholarship, and research. These texts remain under copyright of their owners. No copyright infringement is intended.</p>
           </licence>
         </availability>
-        <date>2021-06-14-05:00</date>
+        <date>2023-06-30-05:00</date>
       </publicationStmt>
       <seriesStmt>
         <title level="s" xml:lang="en">Caesarea-Maritima.org: A Digital Archive</title>
@@ -255,7 +257,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref n="g" target="#bib277-1">200a-b</ref> written by <persName ref="http://viaf.org/viaf/95147024" role="author">Jerome</persName> in <origDate notBefore="0380" notAfter="0381" period="#byzantine">380-381 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref target="#bib277-1">200a-b</ref> written by <persName ref="http://viaf.org/viaf/95147024" role="author">Jerome</persName> in <origDate notBefore="0380" notAfter="0381" period="#byzantine">380-381 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
       <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="la">Latin</language>
         <language ana="#caesarea-language-of-original" ident="la">Latin</language>
@@ -268,7 +270,8 @@
         <catRef scheme="#CM-NEAEH" target="#earlyRoman #byzantine"/>
       </textClass>
     </profileDesc>
-    <revisionDesc status="draft">
+    <revisionDesc status="published">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2023-06-30-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
     </revisionDesc>
   </teiHeader>
@@ -277,29 +280,35 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/277</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract277-1">Caesarea Maritima is indirectly attested at <persName ref="http://viaf.org/viaf/95147024" role="author">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref n="g" target="#bib277-1">200a-b</ref>. This passage was written ca. <origDate notBefore="0380" notAfter="0381" period="#byzantine">380-381 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
-      <desc type="context">St. Jerome undertook to write a universal history of the world early
-            in his illustrious career. His work translated and annotated the second half of
-            Eusebius’ work, finished over a half century earlier, which was organized into a
-            tabulated concordance of chronological schemes (χρονικοὶ κανόνες) ranging from Abraham
-            to Constantine I; he continued Eusebius in the same format with his own historical
-            compendium for the years 327-378 C.E. This passage from Jerome’s translation of Eusebius
-            records an earthquake that struck Palestine during Hadrian’s reign.</desc>
+      <desc type="abstract" xml:id="abstract277-1">Caesarea Maritima is indirectly attested at <persName ref="http://viaf.org/viaf/95147024" role="author">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref target="#bib277-1">200a-b</ref>. This passage was written ca. <origDate notBefore="0380" notAfter="0381" period="#byzantine">380-381 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+      <desc type="context">Jerome undertook to write a universal history of the world early in his
+        illustrious career. His work translated and annotated the second half of Eusebius’ work,
+        finished over a half century earlier, which was organized into a tabulated concordance of
+        chronological schemes (χρονικοὶ κανόνες) ranging from Abraham to Constantine I; he continued
+        Eusebius in the same format with his own historical compendium for the years 327-378 C.E.
+        This passage from Jerome’s translation of Eusebius records an earthquake that struck
+        Palestine during Hadrian’s reign.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote277-1">
-        <anchor xml:id="testimonia-277.la.1" corresp="#testimonia-277.en.1"/>Romanorum XII ….. CCXXVII Olymp(ias) (a) Nicopolis et <placeName>Caesarea</placeName> terrae motu conciderunt XIII (b) Antinous puer regius
-            eximiae pulchritudinis in Aegypto moritur. Quem Hadrianus vehementer deperiens—nam in
-            deliciis habuerat—in deos refert. Ex cuius nomine etiam urbs appellata est<ab type="source" source="#bib277-1"/>
+        <anchor xml:id="testimonia-277.la.1" corresp="#testimonia-277.en.1"/>
+        Romanorum XII …..
+        CCXXVII Olymp(ias) (a) Nicopolis et <placeName>Caesarea</placeName> terrae motu conciderunt
+        XIII (b) Antinous puer regius eximiae pulchritudinis in Aegypto moritur. Quem Hadrianus
+        vehementer deperiens—nam in deliciis habuerat—in deos refert. Ex cuius nomine etiam urbs
+        appellata est
+      <ab type="source" source="#bib277-1"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
         <note xml:lang="en" type="textual">Ed. Helm 1956</note>
-        <note xml:lang="en" type="corrigenda">Minor corr. J. L. Rife</note>
+        <note xml:lang="en" type="corrigenda">Minor corr.</note>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote277-2">
-        <anchor xml:id="testimonia-277.en.1" corresp="#testimonia-277.la.1"/>Year of the Romans [128 C.E.] 12 ….. 227th Olympiad (a) Nicopolis
+        <anchor xml:id="testimonia-277.en.1" corresp="#testimonia-277.la.1"/>
+        Year of the Romans [128 C.E.] 12 ….. 227th Olympiad (a) Nicopolis
             and <placeName>Caesarea</placeName> collapsed in an earthquake. [129 C.E.] 13 (b)
             Antinous, the royal youth of exceptional beauty, dies in Egypt. Hadrian, feeling deeply
             dejected, for he considered (Antinous) his favorite, enlists him into the ranks of the
-            gods. There was furthermore a city named after him.<ab type="source" source="#bib277-2"/>
+            gods. There was furthermore a city named after him.
+      <ab type="source" source="#bib277-2"/>
         <idno type="CTS-URN"/>
         <ref target="http://www.tertullian.org/fathers/jerome_chronicle_03_part2.htm"/>
         <note xml:lang="en" type="translation">Trans. J.

@@ -1,9 +1,10 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="en" level="a">Theophanes the
-               Confessor, <title level="m">Chronicle</title> 69.13-23</title>
+            <title xml:lang="en" level="a">Theophanes the Confessor, <title level="m">Chronicle</title> 69.13-23</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
             <sponsor>Vanderbilt University</sponsor>
             <principal>Joseph L. Rife</principal>
@@ -14,7 +15,7 @@
             <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
             <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</editor>
             <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
-            <respStmt>
+         <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
         </respStmt>
@@ -26,7 +27,7 @@
                <resp>Testimonia identified by</resp>
                <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
             </respStmt>
-         </titleStmt>
+      </titleStmt>
          <editionStmt>
             <edition n="1.0"/>
          </editionStmt>
@@ -35,10 +36,10 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/389/tei</idno>
             <availability>
                <licence target="http://creativecommons.org/licenses/by/4.0">
-                  <p>Except for materials quoted from other sources, this entry is copyright 2021 by the contributors (Joseph L. Rife, et al.) and the Caesarea City and Port Exploration Project. It is licensed under the Attribution 4.0 International (CC BY 4.0) license.</p> <p>Some texts quoted in this entry may be in the public domain in the United States. No copyright is asserted for these quotations.</p> <p>Some texts quoted in this entry may have copyright restrictions and are reused under Section 107 of the Copyright Act of 1976 (Title 17 of the United States Code) which permits “fair use” of copyrighted materials for purposes such as criticism, comment, scholarship, and research. These texts remain under copyright of their owners. No copyright infringement is intended.</p>
+                  <p>Except for materials quoted from other sources, this entry is copyright 2023 by the contributors (Joseph L. Rife, et al.) and the Caesarea City and Port Exploration Project. It is licensed under the Attribution 4.0 International (CC BY 4.0) license.</p> <p>Some texts quoted in this entry may be in the public domain in the United States. No copyright is asserted for these quotations.</p> <p>Some texts quoted in this entry may have copyright restrictions and are reused under Section 107 of the Copyright Act of 1976 (Title 17 of the United States Code) which permits “fair use” of copyrighted materials for purposes such as criticism, comment, scholarship, and research. These texts remain under copyright of their owners. No copyright infringement is intended.</p>
                </licence>
             </availability>
-            <date>2021-08-09-04:00</date>
+            <date>2023-06-30-05:00</date>
          </publicationStmt>
          <seriesStmt>
             <title level="s" xml:lang="en">Caesarea-Maritima.org: A Digital Archive</title>
@@ -254,8 +255,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref n="g" target="#bib389-1">69.13-23</ref> written by <persName role="author" ref="http://viaf.org/viaf/54944687">Theophanes the
-               Confessor</persName> in <origDate notBefore="0810" notAfter="0814" period="#earlyIslamic">810-814 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/511218">Cyzicus</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref target="#bib389-1">69.13-23</ref> written by <persName role="author" ref="http://viaf.org/viaf/54944687">Theophanes the Confessor</persName> in <origDate notBefore="0810" notAfter="0814" period="#earlyIslamic">ca. 810-814 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/511218">Cyzicus</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
         <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>
@@ -268,7 +268,8 @@
             <catRef scheme="#CM-NEAEH" target="#earlyHellenistic #byzantine"/>
          </textClass>
       </profileDesc>
-      <revisionDesc status="draft">
+      <revisionDesc status="published">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2023-06-30-05:00">CHANGED: Proofreading and general edits</change>
          <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
       </revisionDesc>
    </teiHeader>
@@ -277,40 +278,43 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/389</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract389-1">Caesarea Maritima is indirectly attested at <persName role="author" ref="http://viaf.org/viaf/54944687">Theophanes the
-               Confessor</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref n="g" target="#bib389-1">69.13-23</ref>. This passage was written ca. <origDate notBefore="0810" notAfter="0814" period="#earlyIslamic">810-814 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/511218">Cyzicus</origPlace>.</desc>
+         <desc type="abstract" xml:id="abstract389-1">Caesarea Maritima is indirectly attested at <persName role="author" ref="http://viaf.org/viaf/54944687">Theophanes the Confessor</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref target="#bib389-1">69.13-23</ref>. This passage was written ca. <origDate notBefore="0810" notAfter="0814" period="#earlyIslamic">ca. 810-814 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/511218">Cyzicus</origPlace>.</desc>
          <desc type="context">Theophanes, born to noble parents in Constantinople, was raised in the
             Palace under Constantine V (740-775 C.E.) He spent much of his career as a member and
             leader of monastic communities around the Sea of Marmara, before his condemnation and
             exile to Samothrace in 817 C.E. by Leo V the Armenian during the controversies over
-            iconoclasm. At the request of George Syncellus, Theophanes wrote a continuation of his
+            Iconoclasm. At the request of George Syncellus, Theophanes wrote a continuation of his
             chronicle from Diocletian down to Michael I Rhangabes (284-813 C.E.), in the usual dry
-            style and format of Byzantine chronography. In his entry for the year 383/4 Theophanes
+            style and format of Byzantine chronography. In his entry for the year 383/4, Theophanes
             summarized the outcome of the Holy Synod at Constantinople, or the Second Ecumenical
             Council, which was actually held in 381, including the condemnation of Acacius, the
             Arian bishop of Caesarea.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote389-1">
-        <anchor xml:id="testimonia-389.grc.1" corresp="#testimonia-389.en.1"/> ἡ δὲ ἁγία καὶ οἰκουμενικὴ σύνοδος τὸ ὁμοούσιον ἐκύρωσεν, προσέθηκε δὲ
+        <anchor xml:id="testimonia-389.grc.1" corresp="#testimonia-389.en.1"/>
+         ἡ δὲ ἁγία καὶ οἰκουμενικὴ σύνοδος τὸ ὁμοούσιον ἐκύρωσεν, προσέθηκε δὲ
             τῷ συμβόλῳ καὶ τὴν θεολογίαν τοῦ πνεύματος. ἐξέθετο δὲ καὶ κανόνας, ἐν οἷς τῷ θρόνῳ
             Κωνσταντινουπόλεως τὰ πρεσβεῖα νέας Ῥώμης ἀπένειμεν. τότε Γρηγόριος ὁ Νύσης καὶ Πελάγιος
             Λαοδικείας, Εὐλόγιός τε Ἐδέσης καὶ Ἀμφιλόχιος Ἰκονίου ἐν ταύτῃ διέλαμπον σὺν τῷ μεγάλῳ
             Γρηγορίῳ καὶ τοῖς προρρηθεῖσιν. ἡ δὲ ἁγία σύνοδος Ἄρειόν τε καὶ Εὐσέβιον τὸν
             Νικομηδείας, Εὐζώϊόν τε καὶ Ἀκάκιον, Θεόγνιν καὶ Εὐφρόνιον καὶ τοὺς λοιποὺς
             ἀνεθεμάτισεν, πρὸς τούτοις δὲ καὶ Μακεδόνιον τὸν πνευματομάχον, Εὐδόξιόν τε καὶ Ἀέτιον
-            καὶ Εὐνόμιον ἀπεκήρυξεν.<ab type="source" source="#bib389-1"/>
+            καὶ Εὐνόμιον ἀπεκήρυξεν. 
+      <ab type="source" source="#bib389-1"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
         <note xml:lang="en" type="textual">Ed. de Boor 1883 </note>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote389-2">
-        <anchor xml:id="testimonia-389.en.1" corresp="#testimonia-389.grc.1"/>[A.M. 5876=383/4 C.E.] The holy ecumenical synod validated the
+        <anchor xml:id="testimonia-389.en.1" corresp="#testimonia-389.grc.1"/>
+        [A.M. 5876=383/4 C.E.] The holy ecumenical synod validated the
             consubstantial and added the doctrine of the Spirit to the creed. It also published
             canons in which it assigned the privileges of New Rome to the see of Constantinople.
             Gregory of Nyssa, Pelagius of Laodiceia, Eulogius of Edessa, and Amphilochius of Iconium
             shown brightly at this synod together with Gregory the Great and those previously
             mentioned. The holy synod anathematized Arius and Eusebius of Nicomedia, Euzoius and
             Acacius, Theognis and Euphronius and the others, and in addition to these it condemned
-            Macedonius, the enemy of the Spirit, Eudoxius, Aëtius, and Eunomius.<ab type="source" source="#bib389-2"/>
+            Macedonius, the enemy of the Spirit, Eudoxius, Aëtius, and Eunomius.
+      <ab type="source" source="#bib389-2"/>
         <idno type="CTS-URN"/>
         <ref/>
         <note xml:lang="en" type="translation">Rev. Mango, Scott, and Greatrex 1997</note>
@@ -326,7 +330,7 @@
           <citedRange unit="p">105</citedRange>
         </bibl>
       </listBibl>
-      <note type="related-texts">
+    <note type="related-texts">
         <p>Jacob of Edessa year 225</p>
         <p>Michael the Syrian I.322</p>
         <p>Socrates Scholasticus 5.9</p>

@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -12,11 +14,10 @@
         <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#dmichelson">David A. Michelson</editor>
         <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
         <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</editor>
-        
         <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#jwoods">Joshua Woods</editor>
         <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#eyonan">Eliana Yonan</editor>
         <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
-        <respStmt>
+      <respStmt>
         <resp>TEI encoding by</resp>
         <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
       </respStmt>
@@ -44,7 +45,7 @@
             <p>Except for materials quoted from other sources, this entry is copyright 2023 by the contributors (Joshua Woods, et al.) and the Caesarea City and Port Exploration Project. It is licensed under the Attribution 4.0 International (CC BY 4.0) license.</p> <p>Some texts quoted in this entry may be in the public domain in the United States. No copyright is asserted for these quotations.</p> <p>Some texts quoted in this entry may have copyright restrictions and are reused under Section 107 of the Copyright Act of 1976 (Title 17 of the United States Code) which permits “fair use” of copyrighted materials for purposes such as criticism, comment, scholarship, and research. These texts remain under copyright of their owners. No copyright infringement is intended.</p>
           </licence>
         </availability>
-        <date>2023-01-20-05:00</date>
+        <date>2023-06-30-05:00</date>
       </publicationStmt>
       <seriesStmt>
         <title level="s" xml:lang="en">Caesarea-Maritima.org: A Digital Archive</title>
@@ -260,21 +261,21 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:greekLit:tlg4089.tlg003" type="uniform" level="m">Church History</title>
-        <ref n="a" target="#bib154-1">5.8.4-5.8.6</ref> written by <persName ref="http://viaf.org/viaf/77111352" role="author">Theodoret of Cyrrhus</persName> in <origDate period="#byzantine" notBefore="0449" notAfter="0458">449 – 458 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/658446">Cyrrhus</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Church History</title> <ref target="#bib154-1">5.8.4-5.8.6</ref> written by <persName ref="http://viaf.org/viaf/77111352" role="author">Theodoret</persName> in <origDate notBefore="0449" notAfter="0458" period="#byzantine">ca. 449-458 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/658446">Cyrrhus</origPlace>.</creation>
       <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
         <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>
       </langUsage>
       <textClass>
-        <classCode scheme="https://distributed-text-services.github.io/specifications">
-          <idno xml:base="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=" type="CTS-URN">urn:cts:greekLit:tlg4089.tlg003:5.8</idno>
-        </classCode>
-        <catRef scheme="#CM-Testimonia-Type" target="#direct"/>
-        <catRef scheme="#CM-NEAEH" target="#byzantine"/>
-      </textClass>
+            <classCode scheme="https://distributed-text-services.github.io/specifications">
+               <idno type="CTS-URN"/>
+            </classCode>
+            <catRef scheme="#CM-Testimonia-Type" target="#direct"/>
+            <catRef scheme="#CM-NEAEH" target="#byzantine"/>
+         </textClass>
     </profileDesc>
     <revisionDesc status="published">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2023-06-30-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2023-01-20-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#wpotter" when="2020-06-10-05:00">ADDED: testimonium ID, URNs, URLs to edition and translation, and Bibl URIs</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#wpotter" when="2020-06-10-05:00">CREATED: testimonium</change>
@@ -286,39 +287,43 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/154</idno>
       </ab>
       <desc type="abstract" xml:id="abstract154-1">
-        <quote><placeName xml:lang="grc">Καισαρείας τῆς Παλαιστίνης,</placeName></quote>, and <quote><placeName xml:lang="en">Cæsarea in Palestine,</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/77111352" role="author">Theodoret</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg4089.tlg003" type="uniform" level="m">Church History</title> <ref n="a" target="#bib154-1">5.8.4-5.8.6</ref>. This passage was written ca. <origDate period="#byzantine" notBefore="0449" notAfter="0458">449 – 458 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/658446">Cyrrhus</origPlace>.</desc>
-      <desc type="context">Theodoret served as bishop of Cyrrhus in northwestern Syria in
-        423-457. Following his wide education in both the Christian and the Greek traditions and
-        a brief monastic devotion, he became a vigorous leader of his diocese, distinguished by
-        his philanthropy, and a prominent theologian, particularly in opposition to Cyril of
-        Alexandria as a staunch and lasting defender of Nestorius. He was a prolific writer, and
-        his many extant works include exegesis, ecclesiastical history, and Christological
-        treatises. In this passage from the <title>Church History</title>, Theodoret narrates
-        the Second Ecumenical Council convened in 381 by Theodosius I in Aghia Eirene at
-        Constantinople. Here he records the bishops attending from Asia Minor and the Near East,
-        including Gelasius of Caesarea, who sided with Gregory Nazianzus.</desc>
+        <quote><placeName>Καισαρείας τῆς Παλαιστίνης</placeName></quote>, and <quote><placeName>Caesarea in Palestine</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/77111352" role="author">Theodoret</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Church History</title> <ref>5.8.4-5.8.6</ref>. This passage was written ca. <origDate notBefore="0449" notAfter="0458">ca. 449-458 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/658446">Cyrrhus</origPlace>.</desc>
+      <desc type="context">Theodoret served as bishop of Cyrrhus in northwestern Syria in 423-457
+            C.E. Following his wide education in both the Christian and the Greek traditions and a
+            brief monastic devotion, he became a vigorous leader of his diocese, distinguished by
+            his philanthropy, and a prominent theologian, particularly in opposition to Cyril of
+            Alexandria as a staunch and lasting defender of Nestorius. He was a prolific writer, and
+            his many extant works include exegesis, ecclesiastical history, and Christological
+            treatises. In this passage from the <title>Church History</title>, Theodoret narrates
+            the Second Ecumenical Council convened in 381 by Theodosius I in Aghia Eirene at
+            Constantinople. Here he records the bishops attending from Asia Minor and the Near East,
+            including Gelasius of Caesarea, who sided with Gregory Nazianzus.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote154-1">
         <anchor xml:id="testimonia-154.grc.1" corresp="#testimonia-154.en.1"/>(4) ἦσαν δὲ ἄνδρες ἀξιάγαστοι καὶ ζήλου θείου καὶ σοφίας ἀνάπλεοι·
-        Ἑλλάδιος μὲν ὁ τῆς τοῦ μεγάλου Βασιλείου προεδρίας διάδοχος, Γρηγόριος δὲ καὶ Πέτρος οἱ
-        τοὺς αὐτοὺς Βασιλείῳ πατέρας αὐχήσαντες· Ἀμφιλόχιος δὲ Λυκαόνων ἡγεῖτο καὶ Πισιδῶν
-        Ὄπτιμος καὶ Κιλίκων Διόδωρος. (5) παρὴν δὲ καὶ Πελάγιος ὁ Λαοδικείας καὶ Εὐλόγιος ὁ
-        Ἐδέσσης καὶ Ἀκάκιος καὶ Ἰσίδωρος ὁ ἡμέτερος καὶ Κύριλλος ὁ τῶν Ἰεροσολύμων, καὶ Γελάσιος
-        ὁ <placeName>Καισαρείας τῆς Παλαιστίνης</placeName>, λόγῳ καὶ βίῳ κοσμούμενος, καὶ
-        ἕτεροι πλεῖστοι τῆς ἀρετῆς ἀθληταί. (6) τότε δὴ οὖν οὗτοι πάντες τῶν Αἰγυπτίων σφὰς
-        αὐτοὺς ἀποκρίναντες, σὺν τῷ μεγάλω Γρηγορίῳ τὰς πανηγύρεις ἐπετέλουν τὰς θείας.<ab type="source" source="#bib154-1"/>
-        <note type="textual">Ed. Parmentier and Hansen 1998</note>
+            Ἑλλάδιος μὲν ὁ τῆς τοῦ μεγάλου Βασιλείου προεδρίας διάδοχος, Γρηγόριος δὲ καὶ Πέτρος οἱ
+            τοὺς αὐτοὺς Βασιλείῳ πατέρας αὐχήσαντες· Ἀμφιλόχιος δὲ Λυκαόνων ἡγεῖτο καὶ Πισιδῶν
+            Ὄπτιμος καὶ Κιλίκων Διόδωρος. (5) παρὴν δὲ καὶ Πελάγιος ὁ Λαοδικείας καὶ Εὐλόγιος ὁ
+            Ἐδέσσης καὶ Ἀκάκιος καὶ Ἰσίδωρος ὁ ἡμέτερος καὶ Κύριλλος ὁ τῶν Ἰεροσολύμων, καὶ Γελάσιος
+            ὁ <placeName>Καισαρείας τῆς Παλαιστίνης</placeName>, λόγῳ καὶ βίῳ κοσμούμενος, καὶ
+            ἕτεροι πλεῖστοι τῆς ἀρετῆς ἀθληταί. (6) τότε δὴ οὖν οὗτοι πάντες τῶν Αἰγυπτίων σφὰς
+            αὐτοὺς ἀποκρίναντες, σὺν τῷ μεγάλω Γρηγορίῳ τὰς πανηγύρεις ἐπετέλουν τὰς θείας.<ab type="source" source="#bib154-1"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        <note xml:lang="en" type="textual">Ed. Parmentier and Hansen 1998</note>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote154-2">
         <anchor xml:id="testimonia-154.en.1" corresp="#testimonia-154.grc.1"/>(4) (The assembled bishops) were admirable men and full of divine
-        zeal and wisdom, such as Helladius, successor of the great Basil, Gregory and Peter,
-        brothers of Basil, and Amphilochius from Lycaonia, Optimus from Pisidia, and Diodorus
-        from Cilicia. Also present were Pelagius of Laodicaea, Eulogius of Edessa, Acacius, our
-        own Isidorus, Cyril of Jerusalem, Gelasius of <placeName>Caesarea in
-          Palestine</placeName>, celebrated for his learning and career, and many other
-        athletes of virtue. All these then separated themselves from the Egyptians and
-        celebrated divine service with the great Gregory.<ab type="source" source="#bib154-2"/>
+            zeal and wisdom, such as Helladius, successor of the great Basil, Gregory and Peter,
+            brothers of Basil, and Amphilochius from Lycaonia, Optimus from Pisidia, and Diodorus
+            from Cilicia. Also present were Pelagius of Laodicaea, Eulogius of Edessa, Acacius, our
+            own Isidorus, Cyril of Jerusalem, Gelasius of <placeName>Caesarea in
+               Palestine</placeName>, celebrated for his learning and career, and many other
+            athletes of virtue. All these then separated themselves from the Egyptians and
+            celebrated divine service with the great Gregory.<ab type="source" source="#bib154-2"/>
         <idno type="CTS-URN"/>
-        <note type="translation">Adapted from Jackson 1892 and Parmentier, Hansen, and Bouffartigue 2009</note>
+        <ref target=""/>
+        <note xml:lang="en" type="translation">Adapted from
+               Jackson 1892 and Parmentier, Hansen, and Bouffartigue 2009</note>
       </ab>
       <listBibl>
         <head>Works Cited</head>

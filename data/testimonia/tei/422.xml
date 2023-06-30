@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -12,7 +14,7 @@
         <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
         <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</editor>
         <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
-         <respStmt>
+      <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
@@ -40,7 +42,7 @@
                   <p>Except for materials quoted from other sources, this entry is copyright 2023 by the contributors (Joseph L. Rife, et al.) and the Caesarea City and Port Exploration Project. It is licensed under the Attribution 4.0 International (CC BY 4.0) license.</p> <p>Some texts quoted in this entry may be in the public domain in the United States. No copyright is asserted for these quotations.</p> <p>Some texts quoted in this entry may have copyright restrictions and are reused under Section 107 of the Copyright Act of 1976 (Title 17 of the United States Code) which permits “fair use” of copyrighted materials for purposes such as criticism, comment, scholarship, and research. These texts remain under copyright of their owners. No copyright infringement is intended.</p>
                </licence>
             </availability>
-            <date>2023-01-20-06:00</date>
+            <date>2023-06-30-05:00</date>
          </publicationStmt>
          <seriesStmt>
             <title level="s" xml:lang="en">Caesarea-Maritima.org: A Digital Archive</title>
@@ -256,7 +258,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Petition from Veterans, PSI</title> <ref target="#bib422-1">9.1026B</ref> written by <persName ref="" role="author">Pomponius</persName> in <origDate notBefore="0150" notAfter="" period="#lateRoman">150 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Petition from Veterans, PSI</title> <ref target="#bib422-1">9.1026B</ref> written by <persName ref="" role="author">Pomponius</persName> in <origDate when="0150" period="#lateRoman">150 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="la">Latin</language>
         <language ana="#caesarea-language-of-original" ident="la">Latin</language>
@@ -269,7 +271,8 @@
             <catRef scheme="#CM-NEAEH" target="#lateRoman"/>
          </textClass>
       </profileDesc>
-      <revisionDesc status="draft">
+      <revisionDesc status="published">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2023-06-30-05:00">CHANGED: Proofreading and general edits</change>
          <change who="jrife" when="">ADDED: testimonium ID, URNs, URLs to edition and translation,
             and Bibl URIs</change>
          <change who="jrife" when="">CREATED: testimonium</change>
@@ -280,8 +283,7 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/422</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract422-1">
-        <quote><placeName>in c]ol(onia) [I F]l(avia) Caes(area)</placeName></quote>, and <quote><placeName>the First Flavian Colony of Caesarea</placeName></quote> are directly attested at <persName ref="" role="author">Pomponius</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Petition from Veterans, PSI</title> <ref target="#bib422-1">9.1026B</ref>. This passage was written ca. <origDate notBefore="0150" notAfter="" period="#lateRoman">150 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</desc>
+         <desc type="abstract" xml:id="abstract422-1">and <quote><placeName>First Flavian Colony of Caesarea</placeName></quote> is directly attested at <persName ref="" role="author">Pomponius</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Petition from Veterans, PSI</title> <ref>9.1026B</ref>. This passage was written ca. <origDate when="0150">150 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</desc>
          <desc type="context">This long text survives in two copies on papyrus at the Bibliotheca
             Medicea Laurenziana (inv. 14488): A with writing mostly on the front and a single short
             column against the fibers on the back, and B with writing on one side. It contains a
@@ -297,7 +299,7 @@
             confer. The legate added his endorsement to the bottom of the recorded petition,
             promising to produce the document for the Prefect Egypt—and not formal certification or
                <foreign>diplomata</foreign>, which, as he states, was not standard practice—in his
-            offices at Caesarea on January 22, 150 C.E. Both copies have Greek transliterations
+            offices at Caesarea on January 22, 150 CE. Both copies have Greek transliterations
             intermixed sparsely with Latin. The texts stored in Florence were recovered from
             somewhere in Egypt, where the veterans brought them on their way home. Apart from its
             rich evidence for personal names and military communications during the High Empire,
@@ -331,7 +333,7 @@
             eadem· [ ̣ ̣ ̣]lerius Ap̣ọḷ-<lb/>linaris (centuria) Flavi Longini. L(ucius) Petronius
             Saturninus edidi pro me et conveteranis meiṣ. Pomponius scri[bsi. S]ubs[cri]ptio:<lb/>Veterani ex legionibus instrumentum accipere non solent, attaṃ[e]n sacramen[to] v[o]s a
             me [iussu imper]atoris n(ostri) (15)<lb/>solutos notum<lb/>fieri praefecto Aegyptio
-            desideratis. Et instrumentum daḅ[o] pr[ ̣ ̣ ̣] ̣e· Ac[tum <placeName>in c]ol(onia) [I F]l(avia)<lb/>Caes(area)</placeName> XI Kal(endas) Febr(uarias), Squilla Gallicano et Carmin{n}io Vetere
+            desideratis. Et instrumentum daḅ[o] pr[ ̣ ̣ ̣] ̣e· Ac[tum in c]ol(onia) [I F]l(avia)<lb/>Caes(area) XI Kal(endas) Febr(uarias), Squilla Gallicano et Carmin{n}io Vetere
                co(n)s(ulibus)<ab type="source" source="#bib422-1"/>
         <idno type="CTS-URN"/>
         <ref target="http://papyri.info/ddbdp/psi;9;1026"/>
@@ -346,7 +348,7 @@
             out below [last phrase transliterated in Greek].<lb/>To Vilius Cadus, legate of the
             Emperor with propraetorian power, from 22 veterans of the Legion X Fretensis, who began
             their military service in the consulship of Glabrio and Torquatus or in the consulship
-            of P[aulinus] and Aq[uilinus; = 124 and 125 C.E.], and whose names are listed below.
+            of P[aulinus] and Aq[uilinus; = 124 and 125 CE], and whose names are listed below.
             Since, sire, we served in the praetorian fleet at Misenum and then, after transfer to
             the Fretensis Legion through the generosity [---], conducted ourselves over 20 [years]
             in every respect as good soldiers should, now indeed in these most felicitous times we
@@ -368,7 +370,7 @@
             veterans. I, Pomponius, wrote it. Endorsement: Veterans from the legions do not usually
             receive a written document. However, you wish it to be made known to the prefect of
             Egypt that you have been discharged from your military oath by me on the orders of our
-            emperor. I shall give you your written document. [Publish this?] Executed in <placeName>the First
+            emperor. I shall give you your written document. [Publish this?] Executed in the <placeName>First
             Flavian Colony of Caesarea</placeName>, 22 January, in the consulship of Squilla Gallicanus and
             Carminius Vetus.<ab type="source" source="#bib422-2"/>
         <idno type="CTS-URN"/>
@@ -401,7 +403,7 @@
           <citedRange unit="p">296-297</citedRange>
         </bibl>
       </listBibl>
-      <note type="related-texts">
+    <note type="related-texts">
         <p>Pomponius, Petition from Veterans, PSI 9.1026B</p>
       </note>
       <note type="geography">
@@ -411,8 +413,8 @@
       </note>
       <note type="prosopography"/>
       <note type="themes">
-        <p>Military</p>
         <p>Law and Government</p>
+        <p>Military</p>
         <p>Roman History</p>
         <p>Urban Topography</p>
       </note>

@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -13,7 +15,7 @@
         <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
         <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</editor>
         <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
-         <respStmt>
+      <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
@@ -41,7 +43,7 @@
                   <p>Except for materials quoted from other sources, this entry is copyright 2023 by the contributors (Joseph L. Rife, et al.) and the Caesarea City and Port Exploration Project. It is licensed under the Attribution 4.0 International (CC BY 4.0) license.</p> <p>Some texts quoted in this entry may be in the public domain in the United States. No copyright is asserted for these quotations.</p> <p>Some texts quoted in this entry may have copyright restrictions and are reused under Section 107 of the Copyright Act of 1976 (Title 17 of the United States Code) which permits “fair use” of copyrighted materials for purposes such as criticism, comment, scholarship, and research. These texts remain under copyright of their owners. No copyright infringement is intended.</p>
                </licence>
             </availability>
-            <date>2023-01-20-06:00</date>
+            <date>2023-06-30-05:00</date>
          </publicationStmt>
          <seriesStmt>
             <title level="s" xml:lang="en">Caesarea-Maritima.org: A Digital Archive</title>
@@ -258,7 +260,7 @@
             <p/>
          </abstract>
          <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Letter Concerning Compulsory Public
-               Service, P.Nessana</title> <ref target="#bib423-1">74</ref> written by <persName ref="" role="author">George</persName> in <origDate notBefore="0685" notAfter="" period="#earlyIslamic">685 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687902">Gaza</origPlace>.</creation>
+               Service, P.Nessana</title> <ref target="#bib423-1">74</ref> written by <persName ref="" role="author">George</persName> in <origDate when="0685" period="#earlyIslamic">685 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687902">Gaza</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
         <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>
@@ -271,7 +273,8 @@
             <catRef scheme="#CM-NEAEH" target="#earlyIslamic"/>
          </textClass>
       </profileDesc>
-      <revisionDesc status="draft">
+      <revisionDesc status="published">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2023-06-30-05:00">CHANGED: Proofreading and general edits</change>
          <change who="jrife" when="">ADDED: testimonium ID, URNs, URLs to edition and translation,
             and Bibl URIs</change>
          <change who="jrife" when="">CREATED: testimonium</change>
@@ -284,48 +287,56 @@
          </ab>
          <desc type="abstract" xml:id="abstract423-1">
         <quote><placeName>Κησαρίας</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="" role="author">George</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Letter Concerning Compulsory Public
-               Service, P.Nessana</title> <ref target="#bib423-1">74</ref>. This passage was written ca. <origDate notBefore="0685" notAfter="" period="#earlyIslamic">685 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687902">Gaza</origPlace>.</desc>
+               Service, P.Nessana</title> <ref>74</ref>. This passage was written ca. <origDate when="0685">685 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687902">Gaza</origPlace>.</desc>
          <desc type="context">Excavations in 1935-1937 by Princeton University at the site of
-            Nessana, an important Nabataean city in the Negev Desert on the Egyptian frontier,
-            uncovered an important assemblage of literary and documentary texts on papyri. These
-            texts are distinguished by their overall relatively good state of preservation, the
-            variety of their forms and contents, and their testimony for life at Nessana and in the
-            broader region during the Byzantine to Islamic transition. This text has been dated ca.
-            685 C.E. on the basis of the address to the administrator George, who was active during
-            the last quarter of the 7th century (cf. <title>P.Nessana</title> 69; Kraemer 1958, pp.
-            199-200). It is a personal letter from one low-ranking George to the high-ranking George
-            relaying an order to requisition two equipped camels for an expedition apparently of a
-            military nature (στόλος) between Caesarea and Scythopolis. Kraemer (1958, pp. 209-210)
-            raises the possibility that the military governor of the<foreign> jund</foreign> of
-            Filastin or Urduun (in Gaza?) ordered the camels from the desert outpost for military
-            activity in the north surrounding the accession of ‘Abd al-Mālik.</desc>
+            Nessana, a Nabataean city in the Negev Desert on the Egyptian frontier, uncovered an
+            important assemblage of literary and documentary texts on papyri. These texts are
+            distinguished by their overall relatively good state of preservation, the variety of
+            their forms and contents, and their testimony for life at Nessana and in the broader
+            region during the Byzantine/Islamic transition. This text has been dated ca. 685 C.E. on
+            the basis of the address to the administrator George, who was active during the last
+            quarter of the 7th century (cf. <title>P.Nessana</title> 69; Kraemer 1958, pp. 199-200).
+            It is a personal letter from one low-ranking George to the high-ranking George relaying
+            an order to requisition two equipped camels for an expedition apparently of a military
+            nature (στόλος) between Caesarea and Scythopolis. Kraemer (1958, pp. 209-210) raises the
+            possibility that the military governor of the<foreign> jund</foreign> of Filastin or
+            Urduun (in Gaza?) ordered the camels from the desert outpost for military activity in
+            the north around the accession of ‘Abd al-Mālik.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote423-1">
-        <anchor xml:id="testimonia-423.grc.1" corresp="#testimonia-423.en.1"/>Front<lb/>[+ τὰ γράμμ]ατά σου ἐδεξάμην περιέχοντα χάριν<lb/>τῆς ἀποκρίσεώς
-            σου καὶ ἵνα εἰδῇ&lt;ς&gt; ὅτι ἡ ἀπόκρισις σοῦ<lb/>ἀπόκρισις μοῦ ἐστιν· καὶ ἰδοὺ ἐγράφη μοι
-            ἵνα καμηλο-<lb/>&lt;λο&gt;γεύσω. ἀλλὰ ζήτησον εὐτρέπισαι δύο καμήλια καὶ δ̣[ύο]<lb/>ἐργάτας
-            ὀφείλοντας βαστάξαι ἀπὸ <placeName>Κησαρίας</placeName> εἰ᾽ Σχυθ̣ό̣- (5)<lb/>πολιν. καὶ
-            ἵνα εἰδῇς ὅτι καλὰ καμήλια καὶ ἐργ̣ά̣τ̣ας<lb/>θέλῃ ἔχοντας σάγματα καὶ μασθέλια. περὶ δὲ
-            σ̣τ̣όλου<lb/>οὐκ ἐζήτησεν δέξασθαι ἕως οὗ λάβῃ τὸ πρῶτον καὶ<lb/>ἵνα δοῦναι τὰ δύο νομίσματα
-            εξονεχοεισιν καὶ ἐὰν ειδεο̣ς̣<lb/>ἔχεις τη ελθης̣ επικαταρ̣α̣τος ̣ ̣ ̣δ̣ε̣ κ̣α̣ὶ̣ εἰρή̣ν̣η
-            σοι + (10)<lb/>Back<lb/>[+ τ]ῷ δεσπ(ότῃ) μου κυρ(ί)ῳ Γεωργίῳ διοικ(η)τ(ῇ) Νεστάνων<lb/>πα(ρὰ)
-            Γεωργίω ἐλαχ(ίστου) +<ab type="source" source="#bib423-1"/>
+        <anchor xml:id="testimonia-423.grc.1" corresp="#testimonia-423.en.1"/>
+        <foreign>Front</foreign>
+        <lb/>[+ τὰ γράμμ]ατά σου ἐδεξάμην περιέχοντα χάριν<lb/>τῆς ἀποκρίσεώς σου καὶ ἵνα εἰδῇ&lt;ς&gt; ὅτι ἡ ἀπόκρισις σοῦ<lb/>ἀπόκρισις μοῦ ἐστιν· καὶ
+            ἰδοὺ ἐγράφη μοι ἵνα καμηλο-<lb/>&lt;λο&gt;γεύσω. ἀλλὰ ζήτησον εὐτρέπισαι δύο καμήλια καὶ
+            δ̣[ύο]<lb/>ἐργάτας ὀφείλοντας βαστάξαι ἀπὸ <placeName>Κησαρίας</placeName> εἰ᾽ Σχυθ̣ό̣-
+            (5)<lb/>πολιν. καὶ ἵνα εἰδῇς ὅτι καλὰ καμήλια καὶ ἐργ̣ά̣τ̣ας<lb/>θέλῃ ἔχοντας σάγματα καὶ
+            μασθέλια. περὶ δὲ σ̣τ̣όλου<lb/>οὐκ ἐζήτησεν δέξασθαι ἕως οὗ λάβῃ τὸ πρῶτον καὶ<lb/>ἵνα
+            δοῦναι τὰ δύο νομίσματα εξονεχοεισιν καὶ ἐὰν ειδεο̣ς̣<lb/>ἔχεις τη ελθης̣ επικαταρ̣α̣τος ̣
+            ̣ ̣δ̣ε̣ κ̣α̣ὶ̣ εἰρή̣ν̣η σοι + (10)<lb/>
+        <foreign>Back</foreign>
+        <lb/>[+ τ]ῷ δεσπ(ότῃ) μου
+            κυρ(ί)ῳ Γεωργίῳ διοικ(η)τ(ῇ) Νεστάνων<lb/>πα(ρὰ) Γεωργίω ἐλαχ(ίστου) +<ab type="source" source="#bib423-1"/>
         <idno type="CTS-URN"/>
         <ref target="http://papyri.info/ddbdp/p.ness;3;74"/>
         <note xml:lang="en" type="textual">Ed. Kraemer 1958</note>
-        <note xml:lang="en" type="discussion">Lines 4-5: Papyrus reads καμιλο̣<lb/>κευσο apparently for
-               καμηλολογεύσω after syllabic compression and phonetic shift.</note>
-        <note xml:lang="en" type="corrigenda">Minor corr. (common errors and phonetic variants from app.
-               crit.)</note>
+        <note xml:lang="en" type="discussion">Lines 4-5:
+               Papyrus reads καμιλο̣<lb/>κευσο apparently for καμηλολογεύσω after syllabic compression
+               and phonetic shift.</note>
+        <note xml:lang="en" type="corrigenda">Minor corrections (common errors
+               and phonetic variants from app. crit.)</note>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote423-2">
-        <anchor xml:id="testimonia-423.en.1" corresp="#testimonia-423.grc.1"/>Front<lb/>+ I received your letter containing the favor of your
-            payment. Know that your payment is my payment.<lb/>Now look, I received word that I am to
-            requisition camels. However, make sure that you have ready two camels and two laborers
-            who are to perform compulsory service from <placeName>Caesarea</placeName> to
-            Scythopolis. And bear in mind that he wants good camels and workers who have
+        <anchor xml:id="testimonia-423.en.1" corresp="#testimonia-423.grc.1"/>
+        <foreign>Front</foreign>
+        <lb/>+ I received your letter containing the
+            favor of your payment. Know that your payment is my payment.<lb/>Now look, I received word
+            that I am to requisition camels. However, make sure that you have ready two camels and
+            two laborers who are to perform compulsory service from <placeName>Caesarea</placeName>
+            to Scythopolis. And bear in mind that he wants good camels and workers who have
             pack-saddles and straps.<lb/>About the shipment, he did not ask to receive it until he
-            received the first one, or to give two solidi … and peace (be) with you. +<lb/>Back<lb/>+ To
-            the Honorable George, administrator of Nessana, from George, least (of men) +<note xml:lang="en" type="translation">Rev. Kraemer 1958</note>
+            received the first one, or to give two solidi … and peace (be) with you. +<lb/>
+        <foreign>Back</foreign>
+        <lb/>+ To the Honorable George, administrator of Nessana, from
+            George, least (of men) +<note xml:lang="en" type="translation">Rev. Kraemer 1958</note>
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -337,7 +348,7 @@
           <citedRange unit="p">209-211</citedRange>
         </bibl>
       </listBibl>
-      <note type="related-texts">
+    <note type="related-texts">
         <p>P.Nessana 37</p>
         <p>P.Nessana 69</p>
       </note>
@@ -350,8 +361,8 @@
         <p>George, administrator</p>
       </note>
       <note type="themes">
-        <p>Geography</p>
         <p>Economy and Commerce</p>
+        <p>Geography</p>
         <p>Government and Law</p>
         <p>Natural Environment</p>
         <p>Travel</p>

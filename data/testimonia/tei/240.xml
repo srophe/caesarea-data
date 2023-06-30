@@ -1,10 +1,10 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="en" level="a">Marino Sanudo
-               the Elder, <title level="m">Secrets for Those Faithful to the
-               Cross</title> 3.7.1b</title>
+        <title xml:lang="en" level="a">Marino Sanudo the Elder, <title level="m">Secrets for Those Faithful to the Cross</title> 3.7.1a</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
         <sponsor>Vanderbilt University</sponsor>
         <principal>Joseph L. Rife</principal>
@@ -15,7 +15,7 @@
         <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
         <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</editor>
         <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
-        <respStmt>
+      <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
         </respStmt>
@@ -36,10 +36,10 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/240/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/4.0">
-            <p>Except for materials quoted from other sources, this entry is copyright 2022 by the contributors (Joseph L. Rife, et al.) and the Caesarea City and Port Exploration Project. It is licensed under the Attribution 4.0 International (CC BY 4.0) license.</p> <p>Some texts quoted in this entry may be in the public domain in the United States. No copyright is asserted for these quotations.</p> <p>Some texts quoted in this entry may have copyright restrictions and are reused under Section 107 of the Copyright Act of 1976 (Title 17 of the United States Code) which permits “fair use” of copyrighted materials for purposes such as criticism, comment, scholarship, and research. These texts remain under copyright of their owners. No copyright infringement is intended.</p>
+            <p>Except for materials quoted from other sources, this entry is copyright 2023 by the contributors (Joseph L. Rife, et al.) and the Caesarea City and Port Exploration Project. It is licensed under the Attribution 4.0 International (CC BY 4.0) license.</p> <p>Some texts quoted in this entry may be in the public domain in the United States. No copyright is asserted for these quotations.</p> <p>Some texts quoted in this entry may have copyright restrictions and are reused under Section 107 of the Copyright Act of 1976 (Title 17 of the United States Code) which permits “fair use” of copyrighted materials for purposes such as criticism, comment, scholarship, and research. These texts remain under copyright of their owners. No copyright infringement is intended.</p>
           </licence>
         </availability>
-        <date>2022-10-19-05:00</date>
+        <date>2023-06-30-05:00</date>
       </publicationStmt>
       <seriesStmt>
         <title level="s" xml:lang="en">Caesarea-Maritima.org: A Digital Archive</title>
@@ -254,9 +254,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Secrets for Those Faithful to the
-               Cross</title> <ref n="e" target="#bib240-1">3.7.1b</ref> written by <persName role="author" ref="http://viaf.org/viaf/1018158675954427500005">Marino Sanudo
-               the Elder</persName> in <origDate notBefore="1306" notAfter="1321" period="#lateIslamic">1306-1321 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/560221">Aegean Greece</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Secrets for Those Faithful to the Cross</title> <ref target="#bib240-1">3.7.1a</ref> written by <persName role="author" ref="http://viaf.org/viaf/1018158675954427500005">Marino Sanudo the Elder</persName> in <origDate notBefore="1306" notAfter="1321" period="#lateIslamic">1306-1321 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/560221">Aegean Greece</origPlace>.</creation>
       <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="la">Latin</language>
         <language ana="#caesarea-language-of-original" ident="la">Latin</language>
@@ -269,7 +267,8 @@
         <catRef scheme="#CM-NEAEH" target="#crusader #lateIslamic"/>
       </textClass>
     </profileDesc>
-    <revisionDesc status="draft">
+    <revisionDesc status="published">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2023-06-30-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
     </revisionDesc>
@@ -280,9 +279,8 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/240</idno>
       </ab>
       <desc type="abstract" xml:id="abstract240-1">
-        <quote><placeName>Caesarea</placeName></quote>, and <quote><placeName>Caesarae</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/1018158675954427500005">Marino Sanudo
-               the Elder</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Secrets for Those Faithful to the
-               Cross</title> <ref n="e" target="#bib240-1">3.7.1b</ref>. This passage was written ca. <origDate notBefore="1306" notAfter="1321" period="#lateIslamic">1306-1321 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/560221">Aegean Greece</origPlace>.</desc>
+        <quote><placeName>Caesarea</placeName></quote>, and <quote><placeName>Caesarae</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/1018158675954427500005">Marino Sanudo the Elder</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Secrets for Those Faithful to the Cross</title> <ref target="#bib240-1">3.7.1a</ref>. This passage was written ca. <origDate notBefore="1306" notAfter="1321" period="#lateIslamic">1306-1321
+        C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/560221">Aegean Greece</origPlace>.</desc>
       <desc type="context">Marino Sanudo the Elser of Torcello, from a wealthy and powerful Venetian
         family, was a statesman and geographer who spent much of his career from the late 13th
         century until his death in 1338 living and travelling abroad. He reached the Peloponnese and
@@ -295,57 +293,59 @@
         barony, county, see, or other unit.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote240-1">
         <anchor xml:id="testimonia-240.la.1" corresp="#testimonia-240.en.1"/>
-        Quartus principatus est Ierosolymitanus, de quo supra dictum est.
-            Servibant autem regi: Ierusalem, de militibus XLI et armigeris vC; Baroniae de Iopen,
-            Ascalona, Rama, Maribel, et Ibelyn, de militibus centum; Baronia principatus Galileae,
-            de militibus centum; Dominium Montis Regalis, de militibus LX; Comitatus Iocellini, de
-            militibus XXIV; Neapolis, de militibus LXXXV et armigeris XXX; Ptolomayda, de militibus
-            LXXX et armigeris quingentis; Tyrus, de militibus XXIII et armigeris centum; Patriarcha,
-            de armigeris vC; Capitulum Sepulchri, de armigeris V; Iosaphat, de armigeris CL; Mons
-            Syon, de armigeris CL; Templum Domini, de armigeris CL; Latina, de armigeris L;
-            Episcopus Tabariae, de armigeris C; Abbas montis Tabor, de armigeris C; <placeName>Caesarea</placeName>, de armigeris L; Episcopus Bethlehem, de armigeris
-            CC; Ybelyn et Mirabel, de armigeris C; Episcopus Sancti Georgy, de armigeris CC; Arsur,
-            de armigeris L; Episcopus Sabadoit, de armigeris L; Episcopus Ptolomensis, de armigeris
-            CL; Episcopus Sancti Abraham, de armigeris L; Archepiscopus Tyri, de armigeris CL;
-            Archiepiscopus Nazareth, de armigeris L; Episcopus Sydonis, de armigeris L;
-            Archiepiscopus <placeName>Caesarae</placeName>, de armigeris L; Asclona, de armigeris C;
-            Leluon, de armigeris C; Leyrim, de armigeris XXV; Cayphas, de armigeris L; Tabaria, de
-            armigeris CC. Summa: milites DXVIII, armigeri IV millia DCCLXXV. Cur vero ad regni
-            tutela barones tam tenue inservirent, posset aliquis rationabiliter admirari. Sed quia
-            reges exigunt iura regni sine defectu, imo potius cum augmento, cautum fuit, ut barones
-            regi ad talia se submitterent, ut requirenti regi in necessitatis articulo, in pluri
-            possent succurrere. Ducebant praeterea barones gratis, ultra ea quae taxata praemisimus,
-            quando cum rege procedebant ad bella, decentem, iuxta possibilitatem ac statum suum,
-            armatorum militum comitivam.<ab type="source" source="#bib240-1"/>
+        Quartus principatus est
+        Ierosolymitanus, de quo supra dictum est. Servibant autem regi: Ierusalem, de militibus XLI
+        et armigeris vC; Baroniae de Iopen, Ascalona, Rama, Maribel, et Ibelyn, de militibus centum;
+        Baronia principatus Galileae, de militibus centum; Dominium Montis Regalis, de militibus LX;
+        Comitatus Iocellini, de militibus XXIV; Neapolis, de militibus LXXXV et armigeris XXX;
+        Ptolomayda, de militibus LXXX et armigeris quingentis; Tyrus, de militibus XXIII et
+        armigeris centum; Patriarcha, de armigeris vC; Capitulum Sepulchri, de armigeris V;
+        Iosaphat, de armigeris CL; Mons Syon, de armigeris CL; Templum Domini, de armigeris CL;
+        Latina, de armigeris L; Episcopus Tabariae, de armigeris C; Abbas montis Tabor, de armigeris
+        C; <placeName>Caesarea</placeName>, de armigeris L; Episcopus Bethlehem, de armigeris CC;
+        Ybelyn et Mirabel, de armigeris C; Episcopus Sancti Georgy, de armigeris CC; Arsur, de
+        armigeris L; Episcopus Sabadoit, de armigeris L; Episcopus Ptolomensis, de armigeris CL;
+        Episcopus Sancti Abraham, de armigeris L; Archepiscopus Tyri, de armigeris CL;
+        Archiepiscopus Nazareth, de armigeris L; Episcopus Sydonis, de armigeris L; Archiepiscopus
+          <placeName>Caesarae</placeName>, de armigeris L; Asclona, de armigeris C; Leluon, de
+        armigeris C; Leyrim, de armigeris XXV; Cayphas, de armigeris L; Tabaria, de armigeris CC.
+        Summa: milites DXVIII, armigeri IV millia DCCLXXV. Cur vero ad regni tutela barones tam
+        tenue inservirent, posset aliquis rationabiliter admirari. Sed quia reges exigunt iura regni
+        sine defectu, imo potius cum augmento, cautum fuit, ut barones regi ad talia se
+        submitterent, ut requirenti regi in necessitatis articulo, in pluri possent succurrere.
+        Ducebant praeterea barones gratis, ultra ea quae taxata praemisimus, quando cum rege
+        procedebant ad bella, decentem, iuxta possibilitatem ac statum suum, armatorum militum
+          comitivam.
+      <ab type="source" source="#bib240-1"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
         <note xml:lang="en" type="textual">Ed. Bongars 1611</note>
-        <note xml:lang="en" type="corrigenda">Minor corr. J. L.
-               Rife</note>
+        <note xml:lang="en" type="corrigenda">Minor corr. (punctuation, spelling)</note>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote240-2">
         <anchor xml:id="testimonia-240.en.1" corresp="#testimonia-240.la.1"/>
         The fourth principality
         is Jerusalem, which is discussed above. They serve the King as follows: Jerusalem, 41
-        knights and 500 squires; the barony of Jaffa, Ascalon, Rama, Mirabel, and Ibelin, 100
+        knights and 500 squires; the barony of Iope, Ascalon, Rama, Mirabel, and Ibelyn, 100
         knights; the barony of the principality of Galilee, 100 knights; the lordship of Mount
-        Royal, 60 knights; the county of Joscelin, 24 knights; Nablus, 85 knights and 300 squires;
-        Acre, 80 knights and 50 squires; Tyre, 28 knights and 100 squires; the Patriarchate, 500
-        squires; the Chapter of the Sepulchre, five squires; Josaphat, 150 squires; Mount Syon, 150
-        squires; the Temple of the Lord, 150 squires; Latina, 50 squires; the Bishop of Tabarie, 100
-        squires; the Abbot of Mount Tabor, 100 squires; Caesarea, 50 squires; the Bishop of
-        Bethlehem, 200 squires; Ibelin and Mirabel, 100 squires; the Bishop of Saint George, 200
-        squires; Arsur, 50 squires; the Bishop of Sabadoit, 100 squires; the Bishop of Acre, 150
-        squires; the Bishop of Saint Abraham, 50 squires; the Archbishop of Tyre, 150 squires; the
-        Archbishop of Nazareth, 50 squires; the Bishop of Sidon, 50 squires; the Archbishop of
-        Caesarea, 50 squires; Ascalon, 100 squires; Leluon, 100 squires; Leyrim, 25 squires;
-        Cayphas, 50 squires; Tabaria, 200 squires. Total: 528 knights, 4,775 squires. Anyone could
-        reasonably wonder why the barons were such dedicated servants to the safety of the kingdom.
-        But because the Kings made the laws of the kingdom not by reducing but rather by increasing,
-        it was ensured that the barons submitted to the King in such matters, so that they could
-        help the King at a time of crisis when he asked, or in many (things). In particular, beyond
-        what we have listed before, the barons freely led a decent body of armed soldiers according
-        to their ability and status whenever they went to war with the King.<ab type="source" source="#bib240-2"/>
+        Royal, 60 knights; the county of Iocellinus, 24 knights; Neapolis, 85 knights and 300
+        squires; Ptolemaÿs, 80 knights and 50 squires; Tyre, 28 knights and 100 squires; the
+        Patriarchate, 500 squires; the Chapter of the Sepulchre, five squires; Josaphat, 150
+        squires; Mount Syon, 150 squires; the Temple of the Lord, 150 squires; Latina, 50 squires;
+        the Bishop of Tabaria, 100 squires; the Abbot of Mount Tabor, 100 squires; Caesarea, 50
+        squires; the Bishop of Bethlehem, 200 squires; Ybelin and Mirabel, 100 squires; the Bishop
+        of Saint George, 200 squires; Arsur, 50 squires; the Bishop of Sabadoit, 100 squires; the
+        Bishop of Acre, 150 squires; the Bishop of Saint Abraham, 50 squires; the Archbishop of
+        Tyre, 150 squires; the Archbishop of Nazareth, 50 squires; the Bishop of Sydon, 50 squires;
+        the Archbishop of Caesarea, 50 squires; Ascalon, 100 squires; Leluon, 100 squires; Leyrim,
+        25 squires; Cayphas, 50 squires; Tabaria, 200 squires. Total: 528 knights, 4,775 squires.
+        Anyone could reasonably wonder why the barons were such dedicated servants to the safety of
+        the kingdom. But because the Kings made the laws of the kingdom not by reducing but rather
+        by increasing, it was ensured that the barons submitted to the King in such matters, so that
+        they could help the King at a time of crisis when he asked, or in many (things). In
+        particular, beyond what we have listed before, the barons freely led a decent body of armed
+        soldiers according to their ability and status whenever they went to war with the King.
+      <ab type="source" source="#bib240-2"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
         <note xml:lang="en" type="translation">Adapted from Lock 2011</note>

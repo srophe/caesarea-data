@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
@@ -17,7 +16,23 @@
         <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
         <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</editor>
         <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
-         <respStmt>
+      <respStmt>
+          <resp>TEI record created by</resp>
+          <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium translated by</resp>
+          <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium transcribed by</resp>
+          <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium identified by</resp>
+          <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
+        </respStmt>
+        <respStmt>
           <resp>TEI record created by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
@@ -45,7 +60,7 @@
                   <p>Except for materials quoted from other sources, this entry is copyright 2023 by the contributors (Joseph L. Rife, et al.) and the Caesarea City and Port Exploration Project. It is licensed under the Attribution 4.0 International (CC BY 4.0) license.</p> <p>Some texts quoted in this entry may be in the public domain in the United States. No copyright is asserted for these quotations.</p> <p>Some texts quoted in this entry may have copyright restrictions and are reused under Section 107 of the Copyright Act of 1976 (Title 17 of the United States Code) which permits “fair use” of copyrighted materials for purposes such as criticism, comment, scholarship, and research. These texts remain under copyright of their owners. No copyright infringement is intended.</p>
                </licence>
             </availability>
-            <date>2023-04-28-05:00</date>
+            <date>2023-06-30-05:00</date>
          </publicationStmt>
          <seriesStmt>
             <title level="s" xml:lang="en">Caesarea-Maritima.org: A Digital Archive</title>
@@ -262,7 +277,7 @@
             <p/>
          </abstract>
          <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Great Dictionary of Word
-               Origins</title> <ref target="#bib483-1">498.7-15</ref> written by <persName role="author">Unknown</persName> in <origDate notBefore="1125" notAfter="1175" period="#crusader">ca. 1125-1175 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
+               Origins</title> <ref target="#bib483-1">498.7-15</ref> written by <persName role="author"/> in <origDate notBefore="1125" notAfter="1175" period="#crusader">ca. 1125-1175 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
         <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>
@@ -275,7 +290,8 @@
             <catRef scheme="#CM-NEAEH" target="#earlyHellenistic #earlyRoman #earlyIslamic"/>
          </textClass>
       </profileDesc>
-      <revisionDesc status="draft">
+      <revisionDesc status="published">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2023-06-30-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2023-04-28-05:00">CREATED: testimonium</change>
       </revisionDesc>
    </teiHeader>
@@ -286,7 +302,7 @@
          </ab>
          <desc type="abstract" xml:id="abstract483-1">
         <quote><placeName>Καισάρεια</placeName></quote>, and <quote><placeName>Kaisareia</placeName></quote> are directly attested at <persName role="author"/>, <title xml:lang="en" ref="" type="uniform" level="m">Great Dictionary of Word
-               Origins</title> <ref target="#bib483-1">498.7-15</ref>. This passage was written ca. <origDate notBefore="1125" notAfter="1175" period="#crusader">ca. 1125-1175 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+               Origins</title> <ref>498.7-15</ref>. This passage was written ca. <origDate notBefore="1125" notAfter="1175">ca. 1125-1175 C.E. </origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
          <desc type="context">The <title>Great Dictionary of Word Origins</title>
                (<title>Etymologicum Magnum</title>) was the result of a major lexicographical
             project by a unknown grammarian of exceptional knowledge and skill around the mid-12th
@@ -306,7 +322,7 @@
         <idno type="CTS-URN"/>
         <ref/>
         <note xml:lang="en" type="textual">Ed. Gaisford 1848</note>
-        <note xml:lang="en" type="corrigenda">Minor corrections (spacing, spelling)</note>
+        <note xml:lang="en" type="corrigenda">Minor corr. (spacing, spelling)</note>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote483-2">
         <anchor xml:id="testimonia-483.en.1" corresp="#testimonia-483.grc.1"/>KAIROSEON: Some (say it comes) from <foreign>krossoton</foreign>
@@ -333,7 +349,7 @@
           <citedRange unit="line">7-15</citedRange>
         </bibl>
       </listBibl>
-      <note type="related-texts">
+    <note type="related-texts">
         <p>* Gennadius Scholarius, Introduction to Grammar 2.457.5-9</p>
         <p>* George Choeroboscus, Parsings in Psalms p. 20.13-24</p>
         <p>* Pseudo-Aelius Herodian, Parsings 63</p>

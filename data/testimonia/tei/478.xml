@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
@@ -17,7 +16,31 @@
         <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
         <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</editor>
         <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
-         <respStmt>
+      <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
+        </respStmt>
+        <respStmt>
+          <resp>TEI record created by</resp>
+          <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium translated by</resp>
+          <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium transcribed by</resp>
+          <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
+        </respStmt>
+        <respStmt>
+          <resp>Testimonium identified by</resp>
+          <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
+        </respStmt>
+        <respStmt>
+          <resp>Editorial review by</resp>
+          <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
+        </respStmt>
+        <respStmt>
           <resp>Testimonium edited by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
@@ -53,7 +76,7 @@
                   <p>Except for materials quoted from other sources, this entry is copyright 2023 by the contributors (Joseph L. Rife, et al.) and the Caesarea City and Port Exploration Project. It is licensed under the Attribution 4.0 International (CC BY 4.0) license.</p> <p>Some texts quoted in this entry may be in the public domain in the United States. No copyright is asserted for these quotations.</p> <p>Some texts quoted in this entry may have copyright restrictions and are reused under Section 107 of the Copyright Act of 1976 (Title 17 of the United States Code) which permits “fair use” of copyrighted materials for purposes such as criticism, comment, scholarship, and research. These texts remain under copyright of their owners. No copyright infringement is intended.</p>
                </licence>
             </availability>
-            <date>2023-04-28-05:00</date>
+            <date>2023-06-30-05:00</date>
          </publicationStmt>
          <seriesStmt>
             <title level="s" xml:lang="en">Caesarea-Maritima.org: A Digital Archive</title>
@@ -283,7 +306,8 @@
             <catRef scheme="#CM-NEAEH" target="#byzantine"/>
          </textClass>
       </profileDesc>
-      <revisionDesc status="draft">
+      <revisionDesc status="published">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2023-06-30-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2023-04-28-05:00">CREATED: testimonium</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2023-04-28-05:00">CHANGED: Proofreading and general edits</change>
       </revisionDesc>
@@ -295,10 +319,10 @@
          </ab>
          <desc type="abstract" xml:id="abstract478-1">
         <quote><placeName>Καισαρείας τῆς Παλαιστίνης</placeName></quote>, and <quote><placeName>Caesarea Palestinae</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/77111352">Theodoret of
-               Cyrrhus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">The Collector </title> <ref target="#bib478-1">244.25-245.6</ref>. This passage was written ca. <origDate when="0447" period="#byzantine">447 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/658446">Cyrrhus</origPlace>.</desc>
-         <desc type="context">Theodoret served as bishop of Cyrrhus in northwestern Syria in
-            423-457. Following his wide education in both the Christian and the Greek traditions and
-            a brief monastic devotion, he became a vigorous leader of his diocese, distinguished by
+               Cyrrhus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">The Collector </title> <ref>244.25-245.6</ref>. This passage was written ca. <origDate when="0447">447 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/658446">Cyrrhus</origPlace>.</desc>
+         <desc type="context">Theodoret served as bishop of Cyrrhus in northwestern Syria in 423-457
+            C.E. Following his wide education in both the Christian and the Greek traditions and a
+            brief monastic devotion, he became a vigorous leader of his diocese, distinguished by
             his philanthropy, and a prominent theologian, particularly in opposition to Cyril of
             Alexandria as a persistent defender of Nestorius. He was a prolific writer, and his many
             extant works include exegesis, ecclesiastical history, and Christological treatises. The
@@ -306,7 +330,7 @@
             is composed as a disputatious dialog between the Orthodox Man, the voice of Theodoret on
             the divine and human natures of Christ following incarnation, and the Collector, who
             expresses an amalgam of heresies. In this passage, Theodoret paraphrases Gelasius,
-            Bishop of Caesarea in the late 4th century.</desc>
+            bishop of Caesarea in the late 4th century.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote478-1">
         <anchor xml:id="testimonia-478.grc.1" corresp="#testimonia-478.en.1"/>Τοῦ μακαρίου Γελασίου ἐπισκόπου <placeName>Καισαρείας τῆς
                Παλαιστίνης</placeName>. Ἐκ τοῦ εἰς τὰ Ἐπιφάνια λόγου. Ἐδέθη, ἐτρώθη, ἐσταυρώθη,
@@ -344,7 +368,7 @@
           <citedRange unit="p">242</citedRange>
         </bibl>
       </listBibl>
-      <note type="related-texts">
+    <note type="related-texts">
         <p>* Theodoret of Cyrrhus, Eranistes 92.20-27</p>
       </note>
       <note type="geography"/>

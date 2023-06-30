@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -13,7 +15,7 @@
             <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
             <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</editor>
             <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
-            <respStmt>
+         <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
         </respStmt>
@@ -25,7 +27,7 @@
                <resp>Testimonia identified by</resp>
                <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
             </respStmt>
-         </titleStmt>
+      </titleStmt>
          <editionStmt>
             <edition n="1.0"/>
          </editionStmt>
@@ -34,10 +36,10 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/338/tei</idno>
             <availability>
                <licence target="http://creativecommons.org/licenses/by/4.0">
-                  <p>Except for materials quoted from other sources, this entry is copyright 2022 by the contributors (Joseph L. Rife, et al.) and the Caesarea City and Port Exploration Project. It is licensed under the Attribution 4.0 International (CC BY 4.0) license.</p> <p>Some texts quoted in this entry may be in the public domain in the United States. No copyright is asserted for these quotations.</p> <p>Some texts quoted in this entry may have copyright restrictions and are reused under Section 107 of the Copyright Act of 1976 (Title 17 of the United States Code) which permits “fair use” of copyrighted materials for purposes such as criticism, comment, scholarship, and research. These texts remain under copyright of their owners. No copyright infringement is intended.</p>
+                  <p>Except for materials quoted from other sources, this entry is copyright 2023 by the contributors (Joseph L. Rife, et al.) and the Caesarea City and Port Exploration Project. It is licensed under the Attribution 4.0 International (CC BY 4.0) license.</p> <p>Some texts quoted in this entry may be in the public domain in the United States. No copyright is asserted for these quotations.</p> <p>Some texts quoted in this entry may have copyright restrictions and are reused under Section 107 of the Copyright Act of 1976 (Title 17 of the United States Code) which permits “fair use” of copyrighted materials for purposes such as criticism, comment, scholarship, and research. These texts remain under copyright of their owners. No copyright infringement is intended.</p>
                </licence>
             </availability>
-            <date>2022-10-19-05:00</date>
+            <date>2023-06-30-05:00</date>
          </publicationStmt>
          <seriesStmt>
             <title level="s" xml:lang="en">Caesarea-Maritima.org: A Digital Archive</title>
@@ -253,9 +255,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Weights and Measures</title>
-           <ref n="a" target="#bib338-1">18.506-518</ref> written by <persName ref="http://viaf.org/viaf/13651211" role="author">Epiphanius of Salamis</persName> in <origDate notBefore="0377" notAfter="0407" period="#byzantine">ca. 392 CE</origDate>. This work was likely written
-            in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Weights and Measures</title> <ref target="#bib338-1">18.506-518</ref> written by <persName ref="http://viaf.org/viaf/13651211" role="author">Epiphanius</persName> in <origDate when="0392" period="#byzantine">392 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
         <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>
@@ -268,7 +268,8 @@
             <catRef scheme="#CM-NEAEH" target="#lateRoman"/>
          </textClass>
       </profileDesc>
-      <revisionDesc status="draft">
+      <revisionDesc status="published">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2023-06-30-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
          <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
       </revisionDesc>
@@ -279,10 +280,7 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/338</idno>
          </ab>
          <desc type="abstract" xml:id="abstract338-1">
-        <quote><placeName>Καισαρείᾳ</placeName></quote>, <quote>
-          <placeName>Καισάρειαν
-               τὴν Στράτωνος</placeName>
-        </quote>, <quote><placeName>Caesarea</placeName></quote>, <quote><placeName>Straton’s Caesarea</placeName></quote>, and <quote><placeName>Hexapla</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/13651211" role="author">Epiphanius</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Weights and Measures</title> <ref n="a" target="#bib338-1">18.506-518</ref>. This passage was written ca. <origDate notBefore="0377" notAfter="0407" period="#byzantine">ca. 392 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+        <quote><placeName>Καισαρείᾳ</placeName></quote>, <quote><placeName>Καισάρειαν τὴν Στράτωνος</placeName></quote>, <quote><placeName>Caesarea</placeName></quote>, and <quote><placeName>Straton’s Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/13651211" role="author">Epiphanius</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Weights and Measures</title> <ref target="#bib338-1">18.506-518</ref>. This passage was written ca. <origDate when="0392">392 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
          <desc type="context">Epiphanius, who spent his early life and career as a student and monk
             in southern Palestine and Egypt, was appointed bishop of Salamis on Cyprus in ca.
             365-367 C.E., a post he held until his death in 403 C.E. Apart from his staunch defense
@@ -305,7 +303,8 @@
             Τύρον ἐπὶ ἔτη κηʹ, ὡς ὁ λόγος ἔχει, τὴν μὲν πολιτείαν ἐνησκεῖτο, τὰς δὲ γραφὰς
             ἡρμήνευσεν, ὅτε καὶ τὰ ἑξαπλᾶ καὶ τὰς δύο τῶν ἑβραϊκῶν σελίδας ἄντικρυ ἐκ παραλλήλου
             μιᾶς ἑρμηνείας πρὸς τὴν ἑτέραν συνέθηκεν ἑξαπλᾶ τὰς βίβλους ὀνομάσας, καθ’ ἅπερ ἄνω διὰ
-            πλάτους εἴρηται.<ab type="source" source="#bib338-1"/>
+            πλάτους εἴρηται.
+         <ab type="source" source="#bib338-1"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
         <note xml:lang="en" type="textual">Ed. Moutsoulas 1973</note>
@@ -323,8 +322,7 @@
             Jerusalem, he went to Tyre. For 28 years, so the story goes, he devoted himself to an
             ascetic regimen and translated the Scriptures. He compiled six columns (of Greek text)
             opposite two columns of Hebrew (text), one translation facing opposite the other,
-            calling the books <placeName>Hexapla</placeName>, just as has been fully related
-               above.<note xml:lang="en" type="translation">Trans. J. L. Rife</note>
+            calling the books <title>Hexapla</title>, just as has been fully related above.<note xml:lang="en" type="translation">Trans. J. L. Rife</note>
             <idno type="CTS-URN"/>
             <ref target=""/>
          </ab>

@@ -1,9 +1,10 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="en" level="a">Theophanes the
-               Confessor, <title level="m">Chronicle</title> 336.4-24</title>
+            <title xml:lang="en" level="a">Theophanes the Confessor, <title level="m">Chronicle</title> 336.4-24</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
             <sponsor>Vanderbilt University</sponsor>
             <principal>Joseph L. Rife</principal>
@@ -14,7 +15,7 @@
             <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
             <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</editor>
             <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
-            <respStmt>
+         <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
         </respStmt>
@@ -26,7 +27,7 @@
                <resp>Testimonia identified by</resp>
                <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
             </respStmt>
-         </titleStmt>
+      </titleStmt>
          <editionStmt>
             <edition n="1.0"/>
          </editionStmt>
@@ -35,10 +36,10 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/80/tei</idno>
             <availability>
                <licence target="http://creativecommons.org/licenses/by/4.0">
-                  <p>Except for materials quoted from other sources, this entry is copyright 2021 by the contributors (Joseph L. Rife, et al.) and the Caesarea City and Port Exploration Project. It is licensed under the Attribution 4.0 International (CC BY 4.0) license.</p> <p>Some texts quoted in this entry may be in the public domain in the United States. No copyright is asserted for these quotations.</p> <p>Some texts quoted in this entry may have copyright restrictions and are reused under Section 107 of the Copyright Act of 1976 (Title 17 of the United States Code) which permits “fair use” of copyrighted materials for purposes such as criticism, comment, scholarship, and research. These texts remain under copyright of their owners. No copyright infringement is intended.</p>
+                  <p>Except for materials quoted from other sources, this entry is copyright 2023 by the contributors (Joseph L. Rife, et al.) and the Caesarea City and Port Exploration Project. It is licensed under the Attribution 4.0 International (CC BY 4.0) license.</p> <p>Some texts quoted in this entry may be in the public domain in the United States. No copyright is asserted for these quotations.</p> <p>Some texts quoted in this entry may have copyright restrictions and are reused under Section 107 of the Copyright Act of 1976 (Title 17 of the United States Code) which permits “fair use” of copyrighted materials for purposes such as criticism, comment, scholarship, and research. These texts remain under copyright of their owners. No copyright infringement is intended.</p>
                </licence>
             </availability>
-            <date>2021-06-14-05:00</date>
+            <date>2023-06-30-05:00</date>
          </publicationStmt>
          <seriesStmt>
             <title level="s" xml:lang="en">Caesarea-Maritima.org: A Digital Archive</title>
@@ -254,8 +255,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref n="i" target="#bib80-1">336.4-24</ref> written by <persName role="author" ref="http://viaf.org/viaf/54944687">Theophanes the
-               Confessor</persName> in <origDate notBefore="0810" notAfter="0814" period="#earlyIslamic">810-814 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/511218">Cyzicus</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref target="#bib80-1">336.4-24</ref> written by <persName role="author" ref="http://viaf.org/viaf/54944687">Theophanes the Confessor</persName> in <origDate notBefore="0810" notAfter="0814" period="#earlyIslamic">ca. 810-814 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/511218">Cyzicus</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
         <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>
@@ -268,7 +268,8 @@
             <catRef scheme="#CM-NEAEH" target="#byzantine #earlyIslamic"/>
          </textClass>
       </profileDesc>
-      <revisionDesc status="draft">
+      <revisionDesc status="published">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2023-06-30-05:00">CHANGED: Proofreading and general edits</change>
          <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
       </revisionDesc>
    </teiHeader>
@@ -278,23 +279,20 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/80</idno>
          </ab>
          <desc type="abstract" xml:id="abstract80-1">
-        <quote>
-          <placeName>Καισαρείας
-               Παλαιστίνης</placeName>
-        </quote>, and <quote><placeName>Caesarea Palestinae</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/54944687">Theophanes the
-               Confessor</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref n="i" target="#bib80-1">336.4-24</ref>. This passage was written ca. <origDate notBefore="0810" notAfter="0814" period="#earlyIslamic">810-814 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/511218">Cyzicus</origPlace>.</desc>
+        <quote><placeName>Καισαρείας Παλαιστίνης</placeName></quote>, and <quote><placeName>Caesarea Palestinae</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/54944687">Theophanes the Confessor</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref target="#bib80-1">336.4-24</ref>. This passage was written ca. <origDate notBefore="0810" notAfter="0814" period="#earlyIslamic">ca. 810-814 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/511218">Cyzicus</origPlace>.</desc>
          <desc type="context">Theophanes, born to noble parents in Constantinople, was raised in the
             Palace under Constantine V (740-775 C.E.) He spent much of his career as a member and
             leader of monastic communities around the Sea of Marmara, before his condemnation and
             exile to Samothrace in 817 C.E. by Leo V the Armenian during the controversies over
-            iconoclasm. At the request of George Syncellus, Theophanes wrote a continuation of his
+            Iconoclasm. At the request of George Syncellus, Theophanes wrote a continuation of his
             chronicle from Diocletian down to Michael I Rhangabes (284-813 C.E.), in the usual dry
-            style and format of Byzantine chronography. In his entry for the year 631/2 C.E. he
-            narrates the victory of the Arabs over the Byzantines at Caesarea and the famous
-            celestial harbinger of the Arab conquest, an episode that several Syriac sources also
+            style and format of Byzantine chronography. In his entry for the year 631/2, he narrates
+            the victory of the Arabs over the Byzantines at Caesarea and the famous celestial
+            harbinger of the Arab conquest, an episode that several Syriac sources also
             recount.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote80-1">
-        <anchor xml:id="testimonia-80.grc.1" corresp="#testimonia-80.en.1"/>Κόσμου ἔτη ͵ϛρκδʹ<lb/>Τῆς θείας σαρκώσεως ἔτη χκδʹ<lb/>Ῥωμαίων βασιλεὺς
+        <anchor xml:id="testimonia-80.grc.1" corresp="#testimonia-80.en.1"/>
+        Κόσμου ἔτη ͵ϛρκδʹ<lb/>Τῆς θείας σαρκώσεως ἔτη χκδʹ<lb/>Ῥωμαίων βασιλεὺς
             Ἡράκλειος ἔτη λαʹ<lb/>κγʹ. Ἀράβων ἀρχηγὸς Ἀβουβάχαρος ἔτη γʹ<lb/>βʹ. Κωνσταντ(ινουπόλεως)
             ἐπίσκοπος Σέργιος ἔτη κθʹ<lb/>κδʹ. Ἱεροσολύμων ἐπίσκοπος Μόδεστος ἔτη βʹ. βʹ<lb/>Ἀλεξανδρείας ἐπίσκοπος Γεώργιος ἔτη ιδʹ. ιδʹ<lb/>Τούτῳ τῷ ἔτει ἔπεμψεν Ἀβουβάχαρος
             στρατηγοὺς τέσσαρας, οἳ καὶ ὁγδηγηθέντες, ὡς προέφην, ὑπὸ τῶν Ἀράβων ἦλθον καὶ ἔλαβον
@@ -304,14 +302,16 @@
             λαβόντες καὶ λάφυρα πολλὰ ὑπέστρεψαν μετὰ λαμπρᾶς νίκης. Αὐτῷ δὲ τῷ χρόνῳ σεισμὸς
             ἐγένετο κατὰ τὴν Παλαιστίνην· καὶ ἐφάνη σημεῖον ἐν τῷ οὐρανῷ κατὰ μεσημβρίαν, ὁ
             λεγόμενος δοκίτης, προμηνύων τὴν τῶν Ἀράβων ἐπικράτησιν· ἔμεινε δὲ ἡμέρας λʹ διατείνων
-            ἀπὸ μεσημβρίας ἕως ἄρκτου. ἦν δὲ ξιφοειδής.<ab type="source" source="#bib80-1"/>
+            ἀπὸ μεσημβρίας ἕως ἄρκτου. ἦν δὲ ξιφοειδής. 
+      <ab type="source" source="#bib80-1"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
         <note xml:lang="en" type="textual">Ed. de Boor
                1883</note>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote80-2">
-        <anchor xml:id="testimonia-80.en.1" corresp="#testimonia-80.grc.1"/>Year of the World 6124 [=631/2 C.E.]<lb/>Year of the Divine
+        <anchor xml:id="testimonia-80.en.1" corresp="#testimonia-80.grc.1"/>
+        Year of the World 6124 [=631/2 C.E.]<lb/>Year of the Divine
             Incarnation 624<lb/>Heraclius, Emperor of the Romans, 23rd year<lb/>Aboubacharos, Leader of
             the Arabs, 2nd year<lb/>Sergius, Bishop of Constantinople, 24th year<lb/>Modestus, Bishop of
             Jerusalem, 2nd year<lb/>George, Bishop of Alexandria, 14th year<lb/>In this year
@@ -323,7 +323,8 @@
             victory.<lb/>At the same time an earthquake occurred in Palestine, and there appeared a
             sign in the heavens to the south, the so-called shooting star, foreboding the Arab
             conquest. It remained for thirty days, moving from south to north, and was shaped like a
-            sword.<ab type="source" source="#bib80-2"/>
+            sword. 
+      <ab type="source" source="#bib80-2"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
         <note xml:lang="en" type="translation">Adapted from Mango, Scott, and Greatrex 1997</note>
@@ -342,7 +343,7 @@
           <citedRange unit="p">467-468</citedRange>
         </bibl>
       </listBibl>
-      <note type="related-texts">
+    <note type="related-texts">
         <p>Agapius of Hierapolis, Universal History 193-194</p>
         <p>Agapius of Hierapolis, Universal History 208-209</p>
         <p>Chronicle of Seert 260</p>

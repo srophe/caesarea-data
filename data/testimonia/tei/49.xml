@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -12,7 +14,7 @@
         <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
         <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</editor>
         <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
-         <respStmt>
+      <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
@@ -40,7 +42,7 @@
                   <p>Except for materials quoted from other sources, this entry is copyright 2023 by the contributors (Joseph L. Rife, et al.) and the Caesarea City and Port Exploration Project. It is licensed under the Attribution 4.0 International (CC BY 4.0) license.</p> <p>Some texts quoted in this entry may be in the public domain in the United States. No copyright is asserted for these quotations.</p> <p>Some texts quoted in this entry may have copyright restrictions and are reused under Section 107 of the Copyright Act of 1976 (Title 17 of the United States Code) which permits “fair use” of copyrighted materials for purposes such as criticism, comment, scholarship, and research. These texts remain under copyright of their owners. No copyright infringement is intended.</p>
                </licence>
             </availability>
-            <date>2023-01-20-06:00</date>
+            <date>2023-06-30-05:00</date>
          </publicationStmt>
          <seriesStmt>
             <title level="s" xml:lang="en">Caesarea-Maritima.org: A Digital Archive</title>
@@ -256,7 +258,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Petition from Veterans, PSI</title> <ref target="#bib49-1">9.1026A</ref> written by <persName ref="" role="author">Pomponius</persName> in <origDate notBefore="0150" notAfter="" period="#lateRoman">150 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Petition from Veterans, PSI</title> <ref target="#bib49-1">9.1026A</ref> written by <persName ref="" role="author">Pomponius</persName> in <origDate when="0150" period="#lateRoman">150 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="la">Latin</language>
         <language ana="#caesarea-language-of-original" ident="la">Latin</language>
@@ -269,7 +271,8 @@
             <catRef scheme="#CM-NEAEH" target="#lateRoman"/>
          </textClass>
       </profileDesc>
-      <revisionDesc status="draft">
+      <revisionDesc status="published">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2023-06-30-05:00">CHANGED: Proofreading and general edits</change>
          <change who="jrife" when="">ADDED: testimonium ID, URNs, URLs to edition and translation,
             and Bibl URIs</change>
          <change who="jrife" when="">CREATED: testimonium</change>
@@ -281,7 +284,7 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/49</idno>
          </ab>
          <desc type="abstract" xml:id="abstract49-1">
-        <quote><placeName>c̣[o]l(onia) I Fl(avia) Aug(usta) Caes(area)</placeName></quote>, and <quote><placeName>First Flavian Colony of Caesarea</placeName></quote> are directly attested at <persName ref="" role="author">Pomponius</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Petition from Veterans, PSI</title> <ref target="#bib49-1">9.1026A</ref>. This passage was written ca. <origDate notBefore="0150" notAfter="" period="#lateRoman">150 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</desc>
+        <quote><placeName>c̣[o]l(onia) I Fl(avia) Aug(usta) Caes(area)</placeName></quote>, and <quote><placeName>First Flavian Colony of Caesarea</placeName></quote> are directly attested at <persName ref="" role="author">Pomponius</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Petition from Veterans, PSI</title> <ref>9.1026A</ref>. This passage was written ca. <origDate when="0150">150 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</desc>
          <desc type="context">This long text survives in two copies on papyrus at the Bibliotheca
             Medicea Laurenziana (inv. 14488): A with writing mostly on the front and a single short
             column against the fibers on the back, and B with writing on one side. It contains a
@@ -300,17 +303,19 @@
             offices at Caesarea on January 22, 150 C.E. On the back of the first copy (A
                <foreign>verso</foreign>) nine more soldiers, some of Legio VI Ferrata, signed on to
             the petition. Both copies have Greek transliterations intermixed sparsely with Latin.
-            The texts stored in Florence were recovered from somewhere in Egypt, where the veterans
-            brought them on their way home. Apart from its rich evidence for personal names and
-            military communications during the High Empire, this text attests to concerns among
-            legionary veterans over their legal status in retirement. It also gives the sole
-            testimony for a named portico at Caesarea where notices were posted.</desc>
+            The texts stored in Florence were recovered in Egypt, where the veterans brought them on
+            their way home. Apart from its rich evidence for personal names and military
+            communications during the High Empire, this text attests to concerns among legionary
+            veterans over their legal status in retirement. It also gives the sole testimony for a
+            named portico at Caesarea where notices were posted.</desc>
          <ab type="edition" xml:lang="la" xml:id="quote49-1">
-        <anchor xml:id="testimonia-49.la.1" corresp="#testimonia-49.en.1"/>Recto<lb/>Descriptum et recogn[i]ṭ[u]ṃ ex libello proposito cum ali&lt;i&gt;s
-            in p̣ọrtị[co] Iu[niae ̣ ̣ ̣ ̣ ̣]ae,<lb/>in quo scriptum eṛat id qụod i&lt;n&gt;fra scriptum
-            est: Vịlio Kado&lt;.&gt; ḷe[g(ato)] Ạug(usti) pr(o)pr(aetore) [ab] veteranis<lb/>leg(ionis) X
-            Fr(etensis) n(umero) XXII qui militare coeperunt Glabr[io]ne ẹṭ Tọṛ[quato i]ṭem
-            Pạ[ulino] et<lb/>Aquilino co(n)s(ulibus), quoṛum nomina subiecṭạ ṣụṇt. Cum
+        <anchor xml:id="testimonia-49.la.1" corresp="#testimonia-49.en.1"/>
+        <foreign>Recto</foreign>
+        <lb/>Descriptum et recogn[i]ṭ[u]ṃ ex libello
+            proposito cum ali&lt;i&gt;s in p̣ọrtị[co] Iu[niae ̣ ̣ ̣ ̣ ̣]ae,<lb/>in quo scriptum eṛat id
+            qụod i&lt;n&gt;fra scriptum est: Vịlio Kado&lt;.&gt; ḷe[g(ato)] Ạug(usti) pr(o)pr(aetore) [ab]
+            veteranis<lb/>leg(ionis) X Fr(etensis) n(umero) XXII qui militare coeperunt Glabr[io]ne ẹṭ
+            Tọṛ[quato i]ṭem Pạ[ulino] et<lb/>Aquilino co(n)s(ulibus), quoṛum nomina subiecṭạ ṣụṇt. Cum
             militaveri[imus, domine, in classe] (5)<lb/>praetoria Misenensi{s} et ex indulgentia divi
             Hadriani in leg(ionem) Fr(etensem) translatiṣ [a(nnos) s]uper XX (5)<lb/>omnia nobis uti
             bonis militibus coṇṣṭitẹṛi{n}t, nunc quo[que] felicissimis temporibus<lb/>sacramento
@@ -334,53 +339,59 @@
             legioṇịbus instrumentum accip̣ẹṛẹ<lb/>non solent, attamẹṇ sacramentọ vos a me iuṣsu
             imperatoris ṇ(ostri) solutos notum<lb/>fieri praefecto Aẹg̣ỵp̣ti desideratis. Sportulam
             dabo pr ̣ ̣ ̣ ̣e. Actum in <placeName>c̣[o]l(onia) I Fl(avia) Aug(usta)<lb/>Caes(area)</placeName> XI Kal(endas)
-            F̣ebrụạṛ(ias) Squịlla Gallicano et Carminnio Vetere cos(ulibus) (25)<lb/>Verso<lb/>(hand 1)
-            Υαλεριυς Υαλεριανυς υετ(ερανυς)<lb/>leg(ionis) VI Ferr(atae) signa[vi]<lb/>(hand 2) ̣ ̣ ̣
-            ̣us Valeṇṣ<lb/>(hand 3) ̣ ̣ ̣ ̣ius Valeṇṣ<lb/>vẹ[t]eranus leg(ionis) VI Ferr(atae) (30)<lb/>(hand 4) [Ι]υλιυς Ιυλιανυς<lb/>[leg(ionis)] VI F̣ẹṛr(atae)<lb/>(hand 5) traces<lb/>(hand 5)
-            traces<lb/>(hand 6) ̣ ̣ ̣ ̣ ka[ ̣] ̣s veteran ̣s (35)<lb/>̣ ̣ ̣ ̣<lb/>(hand 7) [ ca. ? ] ̣ ̣ ̣
-            ̣[ ̣ ̣ ̣ ̣]l ̣s vẹṭ(eranus) <ab type="source" source="#bib49-1"/>
+            F̣ebrụạṛ(ias) Squịlla Gallicano et Carminnio Vetere cos(ulibus) (25)<lb/>
+        <foreign>Verso</foreign>
+        <lb/>(hand 1) Υαλεριυς Υαλεριανυς υετ(ερανυς)<lb/>leg(ionis) VI
+            Ferr(atae) signa[vi]<lb/>(hand 2) ̣ ̣ ̣ ̣us Valeṇṣ<lb/>(hand 3) ̣ ̣ ̣ ̣ius Valeṇṣ<lb/>vẹ[t]eranus leg(ionis) VI Ferr(atae) (30)<lb/>(hand 4) [Ι]υλιυς Ιυλιανυς<lb/>[leg(ionis)] VI
+            F̣ẹṛr(atae)<lb/>(hand 5) traces<lb/>(hand 5) traces<lb/>(hand 6) ̣ ̣ ̣ ̣ ka[ ̣] ̣s veteran ̣s
+            (35)<lb/>̣ ̣ ̣ ̣<lb/>(hand 7) [ -ca.?- ] ̣ ̣ ̣ ̣[ ̣ ̣ ̣ ̣]l ̣s vẹṭ(eranus) <ab type="source" source="#bib49-1"/>
         <idno type="CTS-URN"/>
         <ref target="http://papyri.info/ddbdp/psi;9;1026"/>
-        <note xml:lang="en" type="textual">Ed. Vitelli 1928 with ref. to Smallwood
-               1966</note>
-        <note xml:lang="en" type="corrigenda">Minor corr. (resolved personal names, clear reconstructions, punctuation,
+        <note xml:lang="en" type="textual">Ed. Vitelli 1928 with ref. to Smallwood 1966</note>
+        <note xml:lang="en" type="corrigenda">Minor corrections
+               (resolved personal names, clear reconstructions, punctuation,
                capitalization)</note>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote49-2">
-        <anchor xml:id="testimonia-49.en.1" corresp="#testimonia-49.la.1"/>A front<lb/>Recorded and authenticated from the petition published
-            along with others in the Portico of Junia [----], in which was written the text which is
-            written out below.<lb/>To Vilius Cadus, legate of the Emperor with propraetorian power,
-            from 22 veterans of the Legion X Fretensis, who began their military service in the
-            consulship of Glabrio and Torquatus or in the consulship of Paulinus and Aquilinus [=
-            124 and 125 C.E.], and whose names are listed below. Since, sire, we served in the
-            praetorian fleet at Misenum and then, after transfer to the Fretensis Legion through the
-            generosity of Hadrian the god, conducted ourselves over 20 [years] in every respect as
-            good soldiers should, now indeed in these most felicitous times we have been
-            [discharged] from our military oath and, as we are about to return to Egypt, to our
-            native city of Alexandria, we ask and request that you should think it appropriate to
-            affirm for us that we have been discharged by you, in order that it may be obvious from
-            your affirmation that we have been discharged from this very legion, not from the fleet,
-            so that your endorsement may serve us as written evidence if circumstances demand, and
-            so that we may be eternally grateful for your compassion.<lb/>Caius V[---], (century of)
-            Pe[---]us Firmus<lb/>Caius Longi[---], (century of) I[----] Aeternalis<lb/>Caius Praesentius
-            Proculus, (century) of Julius Sabinus<lb/>Caius Crispus Apollinaris, (century) of Claudius
-            Macedon<lb/>Caius Sabinus Capitolinus, (century) of Flavius Longinus<lb/>Caius Iulius
-            Crispinus, (century) of Pon[----] Magnus, senior centurion<lb/>Caius Aurelius Priscus,
-            (century of) [----]nus Proculus<lb/>Lucius Petronius Saturninus, (century of) Numistronus
-            Severus<lb/>Caius Longinus Priscus, (century of) Verus Rufus<lb/>Caius Longinus Priscus,
-            same (century)<lb/>Caius Apollinaris Maximus, (century of) Petr[----]us Firmus<lb/>Caius
-            Julius [----], (century of) Plotus Celer<lb/>Marcus Sabinus Apollinarus, same (century)<lb/>Caius Crispus A[----], (century of) Ae[----] Artorus<lb/>[----, (century of) ----] Rufus<lb/>Caius [----], (century) of I[----]<lb/>[names of legionaries?]<lb/>[----] Max̣ịmus, (century
-            of) Claud[ius ----]<lb/>Titus Flavius Maximus, same (century)<lb/>[----]lerius Apollinaris,
-            (century of) Flavius Longinus<lb/>I, Lucius Petronius Saturninus, presented (this
-            petition) on behalf of myself and my fellow veterans. I, Pomponius, wrote it.
-            Endorsement: Veterans from the legions do not usually receive a written document.
-            However, you wish it to be made known to the prefect of Egypt that you have been
-            discharged from your military oath by me on the orders of our emperor. I shall give you
-            your bonus. [Publish this?] Executed in the <placeName>First Flavian Colony of Caesarea</placeName>, 22
-            January, in the consulship of Squilla Gallicanus and Carminius Vetus.<lb/>A back<lb/>(hand
-            1) Valerius Valerianus, veteran, Legio VI Ferrata, I signed<lb/>(hand 2) [----]us Valens<lb/>(hand 3) [----]us Valens, veteran, Legio VI Ferrata<lb/>(hand 4) Julius Julianus, Legio VI
-            Ferrata<lb/>(hand 5) [----]<lb/>(hand 5) [----]<lb/>(hand 6) [----], veteran<lb/>[----]<lb/>(hand
-            7) [----], veteran<ab type="source" source="#bib49-2"/>
+        <anchor xml:id="testimonia-49.en.1" corresp="#testimonia-49.la.1"/>
+        <foreign>A front</foreign>
+        <lb/>Recorded and authenticated from the
+            petition published along with others in the Portico of Junia [----], in which was
+            written the text which is written out below.<lb/>To Vilius Cadus, legate of the Emperor
+            with propraetorian power, from 22 veterans of the Legion X Fretensis, who began their
+            military service in the consulship of Glabrio and Torquatus or in the consulship of
+            Paulinus and Aquilinus [= 124 and 125 C.E.], and whose names are listed below. Since,
+            sire, we served in the praetorian fleet at Misenum and then, after transfer to the
+            Fretensis Legion through the generosity of Hadrian the god, conducted ourselves over 20
+            [years] in every respect as good soldiers should, now indeed in these most felicitous
+            times we have been [discharged] from our military oath and, as we are about to return to
+            Egypt, to our native city of Alexandria, we ask and request that you should think it
+            appropriate to affirm for us that we have been discharged by you, in order that it may
+            be obvious from your affirmation that we have been discharged from this very legion, not
+            from the fleet, so that your endorsement may serve us as written evidence if
+            circumstances demand, and so that we may be eternally grateful for your compassion.<lb/>Caius V[---], (century of) Pe[---]us Firmus<lb/>Caius Longi[---], (century of) I[----]
+            Aeternalis<lb/>Caius Praesentius Proculus, (century) of Julius Sabinus<lb/>Caius Crispus
+            Apollinaris, (century) of Claudius Macedon<lb/>Caius Sabinus Capitolinus, (century) of
+            Flavius Longinus<lb/>Caius Iulius Crispinus, (century) of Pon[----] Magnus, senior
+            centurion<lb/>Caius Aurelius Priscus, (century of) [----]nus Proculus<lb/>Lucius Petronius
+            Saturninus, (century of) Numistronus Severus<lb/>Caius Longinus Priscus, (century of)
+            Verus Rufus<lb/>Caius Longinus Priscus, same (century)<lb/>Caius Apollinaris Maximus,
+            (century of) Petr[----]us Firmus<lb/>Caius Julius [----], (century of) Plotus Celer<lb/>Marcus Sabinus Apollinarus, same (century)<lb/>Caius Crispus A[----], (century of)
+            Ae[----] Artorus<lb/>[----, (century of) ----] Rufus<lb/>Caius [----], (century) of I[----]<lb/>[names of legionaries?]<lb/>[----] Max̣ịmus, (century of) Claud[ius ----]<lb/>Titus
+            Flavius Maximus, same (century)<lb/>[----]lerius Apollinaris, (century of) Flavius
+            Longinus<lb/>I, Lucius Petronius Saturninus, presented (this petition) on behalf of myself
+            and my fellow veterans. I, Pomponius, wrote it. Endorsement: Veterans from the legions
+            do not usually receive a written document. However, you wish it to be made known to the
+            prefect of Egypt that you have been discharged from your military oath by me on the
+            orders of our emperor. I shall give you your bonus. [Publish this?] Executed in the
+            <placeName>First Flavian Colony of Caesarea</placeName>, 22 January, in the consulship of Squilla Gallicanus
+            and Carminius Vetus.<lb/>
+        <foreign>A back</foreign>
+        <lb/>(hand 1) Valerius Valerianus,
+            veteran, Legio VI Ferrata, I signed<lb/>(hand 2) [----]us Valens<lb/>(hand 3) [----]us
+            Valens, veteran, Legio VI Ferrata<lb/>(hand 4) Julius Julianus, Legio VI Ferrata<lb/>(hand
+            5) [----]<lb/>(hand 5) [----]<lb/>(hand 6) [----], veteran<lb/>[----]<lb/>(hand 7) [----],
+               veteran<ab type="source" source="#bib49-2"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
         <note xml:lang="en" type="translation">Rev. Campbell 1994 with ref. to Palme
@@ -411,7 +422,9 @@
           <citedRange unit="p">296-297</citedRange>
         </bibl>
       </listBibl>
-      <note type="related-texts">
+    <note type="related-texts">
+        <p>9.1026B</p>
+        <p>Pomponius,</p>
         <p>Pomponius, Petition from Veterans, PSI 9.1026B</p>
       </note>
       <note type="geography">
@@ -421,8 +434,8 @@
       </note>
       <note type="prosopography"/>
       <note type="themes">
-        <p>Military</p>
         <p>Law and Government</p>
+        <p>Military</p>
         <p>Roman History</p>
         <p>Urban Topography</p>
       </note>

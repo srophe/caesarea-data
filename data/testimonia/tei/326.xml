@@ -1,9 +1,11 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title xml:lang="en" level="a">Gregory the
-               Miracle-Worker, <title level="m">Panegyric to Origen </title> 6.1-11</title>
+               Miracle-Worker, <title level="m">Panegyric to Origen </title> 6.1-6.11</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
             <sponsor>Vanderbilt University</sponsor>
             <principal>Joseph L. Rife</principal>
@@ -14,7 +16,7 @@
             <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
             <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</editor>
             <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
-            <respStmt>
+         <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
         </respStmt>
@@ -26,7 +28,7 @@
                <resp>Testimonia identified by</resp>
                <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
             </respStmt>
-         </titleStmt>
+      </titleStmt>
          <editionStmt>
             <edition n="1.0"/>
          </editionStmt>
@@ -35,10 +37,10 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/326/tei</idno>
             <availability>
                <licence target="http://creativecommons.org/licenses/by/4.0">
-                  <p>Except for materials quoted from other sources, this entry is copyright 2021 by the contributors (Joseph L. Rife, et al.) and the Caesarea City and Port Exploration Project. It is licensed under the Attribution 4.0 International (CC BY 4.0) license.</p> <p>Some texts quoted in this entry may be in the public domain in the United States. No copyright is asserted for these quotations.</p> <p>Some texts quoted in this entry may have copyright restrictions and are reused under Section 107 of the Copyright Act of 1976 (Title 17 of the United States Code) which permits “fair use” of copyrighted materials for purposes such as criticism, comment, scholarship, and research. These texts remain under copyright of their owners. No copyright infringement is intended.</p>
+                  <p>Except for materials quoted from other sources, this entry is copyright 2023 by the contributors (Joseph L. Rife, et al.) and the Caesarea City and Port Exploration Project. It is licensed under the Attribution 4.0 International (CC BY 4.0) license.</p> <p>Some texts quoted in this entry may be in the public domain in the United States. No copyright is asserted for these quotations.</p> <p>Some texts quoted in this entry may have copyright restrictions and are reused under Section 107 of the Copyright Act of 1976 (Title 17 of the United States Code) which permits “fair use” of copyrighted materials for purposes such as criticism, comment, scholarship, and research. These texts remain under copyright of their owners. No copyright infringement is intended.</p>
                </licence>
             </availability>
-            <date>2021-08-09-04:00</date>
+            <date>2023-06-30-05:00</date>
          </publicationStmt>
          <seriesStmt>
             <title level="s" xml:lang="en">Caesarea-Maritima.org: A Digital Archive</title>
@@ -254,8 +256,9 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Panegyric to Origen </title> <ref n="b" target="#bib326-1">6.1-11</ref> written by <persName ref="http://viaf.org/viaf/88726043" role="author">Gregory the
-               Miracle-Worker</persName> in <origDate notBefore="0224" notAfter="0254" period="#lateRoman">ca. 239 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Panegyric to Origen </title> <ref target="#bib326-1">6.1-6.11</ref> written by <persName ref="http://viaf.org/viaf/88726043" role="author">Gregory the
+               Miracle-Worker</persName> in <origDate notBefore="0224" notAfter="0254" period="#lateRoman">ca. 239 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea
+            Maritima</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
         <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>
@@ -268,7 +271,8 @@
             <catRef scheme="#CM-NEAEH" target="#lateRoman"/>
          </textClass>
       </profileDesc>
-      <revisionDesc status="draft">
+      <revisionDesc status="published">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2023-06-30-05:00">CHANGED: Proofreading and general edits</change>
          <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
       </revisionDesc>
    </teiHeader>
@@ -278,7 +282,8 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/326</idno>
          </ab>
          <desc type="abstract" xml:id="abstract326-1">Caesarea Maritima is indirectly attested at <persName ref="http://viaf.org/viaf/88726043" role="author">Gregory the
-               Miracle-Worker</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Panegyric to Origen </title> <ref n="b" target="#bib326-1">6.1-11</ref>. This passage was written ca. <origDate notBefore="0224" notAfter="0254" period="#lateRoman">ca. 239 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</desc>
+               Miracle-Worker</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Panegyric to Origen </title> <ref target="#bib326-1">6.1-6.11</ref>. This passage was written ca. <origDate notBefore="0224" notAfter="0254">ca. 239 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea
+            Maritima</origPlace>.</desc>
          <desc type="context">Theodore, who later became known as Gregory the Miracle-Worker (ὁ
             Θαυματουργός), was a Christian convert from a leading family of Pontic Neocaesarea who
             became an influential theologian and bishop during the middle decades of the 3rd
@@ -289,30 +294,34 @@
             classical and Christian intellectualism. In this passage he describes in poetic terms
             how Origen captivated him and his brother and drew them under his tutelage.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote326-1">
-        <anchor xml:id="testimonia-326.grc.1" corresp="#testimonia-326.en.1"/>Ὁ δ’ ὑποδεξάμενος ἐξ ἡμέρας τῆς πρώτης, τῆς ὄντως ἐμοὶ πρώτης, τῆς
+        <anchor xml:id="testimonia-326.grc.1" corresp="#testimonia-326.en.1"/>
+        Ὁ δ’ ὑποδεξάμενος ἐξ ἡμέρας τῆς πρώτης, τῆς ὄντως ἐμοὶ πρώτης, τῆς
             τιμιωτάτης πασῶν, εἰ δεῖ λέγειν, ἡμερῶν, ὅτε μοι πρῶτον ὁ ἀληθινὸς ἀνατέλλειν ἥλιος
             ἤρξατο, πρῶτον μέν, ὥσπερ θῆράς τινας ἀγρίους ἢ ἰχθύας ἤ τινας ὄρνεις, ἐμπεσόντας μὲν
             εἰς τὰς ἄρκυς ἢ εἰς τὰς σαγήνας, ἐξολισθαίνειν δὲ καὶ ἀποδιδράσκειν πειρωμένους,
             ἀναχωρεῖν τε ἀπ’ αὐτοῦ βουλομένους ἐπὶ τὴν Βηρυτὸν ἢ ἐπὶ τὴν πατρίδα, συνδήσασθαι πάντα
             τρόπον ἐμηχανήσατο· πάντας λόγους στρέφων καὶ πάντα κάλων (τοῦτο δὴ τὸ τοῦ λόγου) κινῶν
-            καὶ πάσας τὰς δυνάμεις αὐτοῦ προχειριζόμενος …<ab type="source" source="#bib326-1"/>
+            καὶ πάσας τὰς δυνάμεις αὐτοῦ προχειριζόμενος … 
+      <ab type="source" source="#bib326-1"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
         <note xml:lang="en" type="textual">Ed. Crouzel
                1969</note>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote326-2">
-        <anchor xml:id="testimonia-326.en.1" corresp="#testimonia-326.grc.1"/>And from the very first day (Origen) received us—which was truly my
-            first day, the most precious of all days, if I may say, whereas then for the first time
-            the true Sun began to rise upon me—at the start we, like some wild creatures of the
-            field or fish or some birds that had fallen into the traps or nets, attempting to slip
-            out again and escape, wanted to leave him for Beirut or our homeland. But he maneuvered
-            in every way to tie us to him, contriving all kinds of arguments and moving all the
-            ropes (as the saying goes) and applying all his powers …<ab type="source" source="#bib326-2"/>
+        <anchor xml:id="testimonia-326.en.1" corresp="#testimonia-326.grc.1"/>
+            And from the very
+            first day (Origen) received us—which was truly my first day, the most precious of all
+            days, if I may say, whereas then for the first time the true Sun began to rise upon
+            me—at the start we, like some wild creatures of the field or fish, or some birds that
+            had fallen into the traps or nets, attempting to slip out again and escape, wanted to
+            leave him for Berytus or our homeland. But he maneuvered in every way to tie us to him,
+            contriving all kinds of arguments and moving all the ropes (as the saying goes) and
+            applying all his powers …
+         <ab type="source" source="#bib326-2"/>
         <idno type="CTS-URN"/>
         <ref target="https://ccel.org/ccel/schaff/anf06/anf06.iii.iii.iv.vi.html"/>
-        <note xml:lang="en" type="translation">Adapted
-               from Salmond 1886</note>
+        <note xml:lang="en" type="translation">Adapted from Salmond 1886</note>
       </ab>
          <listBibl>
         <head>Works Cited</head>
@@ -325,7 +334,7 @@
           <ptr target="https://caesarea-maritima.org/bibl/RTCA5XRS"/>
         </bibl>
       </listBibl>
-      <note type="related-texts"/>
+    <note type="related-texts"/>
       <note type="geography">
         <p>Berytus (Beirut)</p>
         <p>Pontus</p>

@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -13,7 +15,7 @@
             <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
             <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</editor>
             <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
-            <respStmt>
+         <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
         </respStmt>
@@ -25,7 +27,7 @@
                <resp>Testimonia identified by</resp>
                <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
             </respStmt>
-         </titleStmt>
+      </titleStmt>
          <editionStmt>
             <edition n="1.0"/>
          </editionStmt>
@@ -34,10 +36,10 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/47/tei</idno>
             <availability>
                <licence target="http://creativecommons.org/licenses/by/4.0">
-                  <p>Except for materials quoted from other sources, this entry is copyright 2022 by the contributors (Joseph L. Rife, et al.) and the Caesarea City and Port Exploration Project. It is licensed under the Attribution 4.0 International (CC BY 4.0) license.</p> <p>Some texts quoted in this entry may be in the public domain in the United States. No copyright is asserted for these quotations.</p> <p>Some texts quoted in this entry may have copyright restrictions and are reused under Section 107 of the Copyright Act of 1976 (Title 17 of the United States Code) which permits “fair use” of copyrighted materials for purposes such as criticism, comment, scholarship, and research. These texts remain under copyright of their owners. No copyright infringement is intended.</p>
+                  <p>Except for materials quoted from other sources, this entry is copyright 2023 by the contributors (Joseph L. Rife, et al.) and the Caesarea City and Port Exploration Project. It is licensed under the Attribution 4.0 International (CC BY 4.0) license.</p> <p>Some texts quoted in this entry may be in the public domain in the United States. No copyright is asserted for these quotations.</p> <p>Some texts quoted in this entry may have copyright restrictions and are reused under Section 107 of the Copyright Act of 1976 (Title 17 of the United States Code) which permits “fair use” of copyrighted materials for purposes such as criticism, comment, scholarship, and research. These texts remain under copyright of their owners. No copyright infringement is intended.</p>
                </licence>
             </availability>
-            <date>2022-10-19-05:00</date>
+            <date>2023-06-30-05:00</date>
          </publicationStmt>
          <seriesStmt>
             <title level="s" xml:lang="en">Caesarea-Maritima.org: A Digital Archive</title>
@@ -253,9 +255,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Geographic Description</title>
-            <ref n="a" target="#bib47-1">fr. 111</ref> written by <persName role="author" ref="http://viaf.org/viaf/26128054">Artemidorus of Ephesus</persName> in <origDate notBefore="0085" notAfter="0115" period="#nabateanKingdom #earlyRoman">ca. 100 CE</origDate>. This work was likely written in
-               <origPlace ref="https://pleiades.stoa.org/places/599612">Ephesus</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Geographic Description</title> <ref target="#bib47-1">fr. 111</ref> written by <persName role="author" ref="http://viaf.org/viaf/26128054">Artemidorus of Ephesus</persName> in <origDate when="-0100" period="#hellenistic #earlyNabatean #nabateanKingdom #lateHellenistic">100 B.C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/599612">Ephesus</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
         <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>
@@ -268,7 +268,8 @@
             <catRef scheme="#CM-NEAEH" target="#lateHellenistic"/>
          </textClass>
       </profileDesc>
-      <revisionDesc status="draft">
+      <revisionDesc status="published">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2023-06-30-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
          <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
       </revisionDesc>
@@ -279,7 +280,7 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/47</idno>
          </ab>
          <desc type="abstract" xml:id="abstract47-1">
-        <quote><placeName>Στράτωνος πύργος</placeName></quote>, and <quote><placeName>Straton’s Tower</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/26128054">Artemidorus of Ephesus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Geographic Description</title> <ref n="a" target="#bib47-1">fr. 111</ref>. This passage was written ca. <origDate notBefore="0085" notAfter="0115" period="#nabateanKingdom #earlyRoman">ca. 100 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/599612">Ephesus</origPlace>.</desc>
+        <quote><placeName>Στράτωνος πύργος</placeName></quote>, and <quote><placeName>Straton’s Tower</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/26128054">Artemidorus of Ephesus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Geographic Description</title> <ref target="#bib47-1">fr. 111</ref>. This passage was written ca. <origDate when="-0100">100 B.C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/599612">Ephesus</origPlace>.</desc>
          <desc type="context">Artemidorus of Ephesus was a Late Hellenistic geographer whose work
             was much studied by scholars of the Roman and Byzantine eras. His major work,
                <title>Geographic Description</title> (Γεωγραφουμένα), described the earth from west
@@ -292,22 +293,26 @@
             Artemidorus.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote47-1">
         <anchor xml:id="testimonia-47.grc.1" corresp="#testimonia-47.en.1"/>
-        ΑΣΙΑ. Βιβλ. θʹ. Δῶρος, πόλις Φοινίκης. Ἑκαταῖος Ἀσίᾳ· “Μετὰ δὲ ἡ πάλαι
-            Δῶρος, νῦν δὲ Δῶρα καλεῖται.” Καὶ Ἀρτεμίδωρος Δῶρα τὴν πόλιν οἶδεν ἐν Ἐπιτομῇ τῶν ιαʹ·
-            “Συνεχῶς δʼ ἐστὶ <placeName>Στράτωνος πύργος</placeName>, εἶτα ἔνι Δῶρα, ἐπὶ
-            χερσονησοειδοῦς τόπου κείμενον πολισμάτιον, ἀρχομένου τοῦ ὄρους τοῦ Καρμήλου.” Καὶ ἐν θʹ
-            Γεωγραφουμένων τὸ αὐτό.<ab type="source" source="#bib47-1"/>
-        <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg4003.tlg003.1st1K-grc1:3</idno>
+            ΑΣΙΑ. Βιβλ. θʹ.
+            Δῶρος, πόλις Φοινίκης. Ἑκαταῖος Ἀσίᾳ· “Μετὰ δὲ ἡ πάλαι Δῶρος, νῦν δὲ Δῶρα καλεῖται.” Καὶ
+            Ἀρτεμίδωρος Δῶρα τὴν πόλιν οἶδεν ἐν Ἐπιτομῇ τῶν ιαʹ· “Συνεχῶς δʼ ἐστὶ
+               <placeName>Στράτωνος πύργος</placeName>, εἶτα ἔνι Δῶρα, ἐπὶ χερσονησοειδοῦς τόπου
+            κείμενον πολισμάτιον, ἀρχομένου τοῦ ὄρους τοῦ Καρμήλου.” Καὶ ἐν θʹ Γεωγραφουμένων τὸ
+               αὐτό.
+         <ab type="source" source="#bib47-1"/>
+        <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/"/>
         <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg4003.tlg003.1st1K-grc1:3"/>
         <note xml:lang="en" type="textual">Ed. Stiehl 1856</note>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote47-2">
         <anchor xml:id="testimonia-47.en.1" corresp="#testimonia-47.grc.1"/>
-        ASIA. Book 9. Doros, a city in Phoenicia. Hecataeus in [his book on]
-            Asia: “After that is the city called Doros in the old times but today Dora.” And
-            Artemidorus mentions the city Dora in Epitome of 11 books: “Continuing on is
-               <placeName>Straton’s Tower</placeName>, and then Dora, a town situated on the
-            peninsula where Mount Carmel begins.” And the same thing in Geography 9.<ab type="source" source="#bib47-2"/>
+            ASIA. Book 9. Doros,
+            a city in Phoenicia. Hecataeus in (his book on) Asia: “After that is the city called
+            Doros in the old times but today Dora.” And Artemidorus mentions the city Dora in
+               <title>Epitome</title> of 11 books: “Continuing on is <placeName>Straton’s
+               Tower</placeName>, and then Dora, a town situated on the peninsula where Mount Carmel
+            begins.” And the same thing in <title>Geography</title> 9.
+         <ab type="source" source="#bib47-2"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
         <note xml:lang="en" type="translation">Trans. J. L. Rife</note>

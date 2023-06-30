@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -12,7 +14,7 @@
         <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
         <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</editor>
         <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
-         <respStmt>
+      <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
@@ -40,7 +42,7 @@
                   <p>Except for materials quoted from other sources, this entry is copyright 2023 by the contributors (Joseph L. Rife, et al.) and the Caesarea City and Port Exploration Project. It is licensed under the Attribution 4.0 International (CC BY 4.0) license.</p> <p>Some texts quoted in this entry may be in the public domain in the United States. No copyright is asserted for these quotations.</p> <p>Some texts quoted in this entry may have copyright restrictions and are reused under Section 107 of the Copyright Act of 1976 (Title 17 of the United States Code) which permits “fair use” of copyrighted materials for purposes such as criticism, comment, scholarship, and research. These texts remain under copyright of their owners. No copyright infringement is intended.</p>
                </licence>
             </availability>
-            <date>2023-01-20-06:00</date>
+            <date>2023-06-30-05:00</date>
          </publicationStmt>
          <seriesStmt>
             <title level="s" xml:lang="en">Caesarea-Maritima.org: A Digital Archive</title>
@@ -256,7 +258,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Library</title> <ref target="#bib147-1">89.67a27-67b9</ref> written by <persName ref="http://viaf.org/viaf/14775071" role="author">Photius</persName> in <origDate notBefore="0845" notAfter="0855" period="#earlyIslamic">845-855 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Library</title> <ref target="#bib147-1">89.67a27-67b9</ref> written by <persName ref="http://viaf.org/viaf/14775071" role="author">Photius</persName> in <origDate notBefore="0845" notAfter="0855" period="#earlyIslamic">845-855 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
         <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>
@@ -269,7 +271,8 @@
             <catRef scheme="#CM-NEAEH" target="#byzantine"/>
          </textClass>
       </profileDesc>
-      <revisionDesc status="draft">
+      <revisionDesc status="published">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2023-06-30-05:00">CHANGED: Proofreading and general edits</change>
          <change who="jrife" when="">ADDED: testimonium ID, URNs, URLs to edition and translation,
             and Bibl URIs</change>
          <change who="jrife" when="">CREATED: testimonium</change>
@@ -281,7 +284,7 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/147</idno>
          </ab>
          <desc type="abstract" xml:id="abstract147-1">
-        <quote><placeName>Καισαρείας Παλαιστίνης</placeName></quote>, and <quote><placeName>Caesarea Palestinae</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/14775071" role="author">Photius</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Library</title> <ref target="#bib147-1">89.67a27-67b9</ref>. This passage was written ca. <origDate notBefore="0845" notAfter="0855" period="#earlyIslamic">845-855 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+        <quote><placeName>Καισαρείας Παλαιστίνης</placeName></quote>, and <quote><placeName>Caesarea Palestinae</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/14775071" role="author">Photius</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Library</title> <ref>89.67a27-67b9</ref>. This passage was written ca. <origDate notBefore="0845" notAfter="0855">845-855 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
          <desc type="context">Photius I was ecumenical patriarch of Constantinople in 858-867 and
             877-886, as well as an unparalleled intellectual luminary for his age. Apart from his
             distinguished ecclesiastical career, he engaged in polymathic teaching and research,
@@ -316,9 +319,9 @@
                with ref. Henry 1959</note>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote147-2">
-        <anchor xml:id="testimonia-147.en.1" corresp="#testimonia-147.grc.1"/>The other book [i.e., besides the one mentioned in codex 88] is
-            entitled <title>Preface of the Bishop of <placeName>Caesarea Palestinae</placeName> to
-               the Continuation of the History of Eusebius Pamphili</title>. It begins as follows:
+        <anchor xml:id="testimonia-147.en.1" corresp="#testimonia-147.grc.1"/>The other book [besides the one mentioned in codex 88] is entitled
+               <title>Preface of the Bishop of <placeName>Caesarea Palestinae</placeName> to the
+               Continuation of the History of Eusebius Pamphili</title>. It begins as follows:
             “Others who have applied themselves to writing and have determined to hand down to
             posterity a record of events,” and so on. The author states that he was on his mother’s
             side nephew of Cyril, bishop of Jerusalem, and that he had been urged by (Cyril) to
@@ -358,7 +361,7 @@
           <citedRange unit="p">155-156</citedRange>
         </bibl>
       </listBibl>
-      <note type="related-texts">
+    <note type="related-texts">
         <p>* Photius, Library 102</p>
         <p>* Photius, Library 88</p>
       </note>

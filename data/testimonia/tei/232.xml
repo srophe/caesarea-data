@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -14,7 +16,7 @@
         <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
         <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</editor>
         <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
-        <respStmt>
+      <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
         </respStmt>
@@ -35,10 +37,10 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/232/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/4.0">
-            <p>Except for materials quoted from other sources, this entry is copyright 2022 by the contributors (Joseph L. Rife, et al.) and the Caesarea City and Port Exploration Project. It is licensed under the Attribution 4.0 International (CC BY 4.0) license.</p> <p>Some texts quoted in this entry may be in the public domain in the United States. No copyright is asserted for these quotations.</p> <p>Some texts quoted in this entry may have copyright restrictions and are reused under Section 107 of the Copyright Act of 1976 (Title 17 of the United States Code) which permits “fair use” of copyrighted materials for purposes such as criticism, comment, scholarship, and research. These texts remain under copyright of their owners. No copyright infringement is intended.</p>
+            <p>Except for materials quoted from other sources, this entry is copyright 2023 by the contributors (Joseph L. Rife, et al.) and the Caesarea City and Port Exploration Project. It is licensed under the Attribution 4.0 International (CC BY 4.0) license.</p> <p>Some texts quoted in this entry may be in the public domain in the United States. No copyright is asserted for these quotations.</p> <p>Some texts quoted in this entry may have copyright restrictions and are reused under Section 107 of the Copyright Act of 1976 (Title 17 of the United States Code) which permits “fair use” of copyrighted materials for purposes such as criticism, comment, scholarship, and research. These texts remain under copyright of their owners. No copyright infringement is intended.</p>
           </licence>
         </availability>
-        <date>2022-10-19-05:00</date>
+        <date>2023-06-30-05:00</date>
       </publicationStmt>
       <seriesStmt>
         <title level="s" xml:lang="en">Caesarea-Maritima.org: A Digital Archive</title>
@@ -254,9 +256,7 @@
         <p/>
       </abstract>
       <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">The
-          Holy Land</title>
-        <ref n="a" target="#bib232-1">65-66</ref> written by <persName role="author" ref="http://viaf.org/viaf/106967420">Pseudo-Odoric of Pordenone</persName> in <origDate notBefore="1350" notAfter="1500" period="#lateIslamic">1350-1500 CE</origDate>. This work
-        was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</creation>
+          Holy Land</title> <ref target="#bib232-1">65-66</ref> written by <persName role="author" ref="http://viaf.org/viaf/106967420">Pseudo-Odoric of Pordenone</persName> in <origDate notBefore="1350" notAfter="1500" period="#lateIslamic">ca. 1350-1500 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</creation>
       <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="la">Latin</language>
         <language ana="#caesarea-language-of-original" ident="la">Latin</language>
@@ -269,7 +269,8 @@
         <catRef scheme="#CM-NEAEH" target="#earlyRoman #herodian #crusader"/>
       </textClass>
     </profileDesc>
-    <revisionDesc status="draft">
+    <revisionDesc status="published">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2023-06-30-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
     </revisionDesc>
@@ -281,45 +282,48 @@
       </ab>
       <desc type="abstract" xml:id="abstract232-1">
         <quote><placeName>Cesaream</placeName></quote>, <quote><placeName>Cesarea Palestine</placeName></quote>, <quote><placeName>turris Stratonis</placeName></quote>, <quote><placeName>Cesarea</placeName></quote>, <quote><placeName>Caesarea</placeName></quote>, <quote><placeName>Caearea Palestinae</placeName></quote>, and <quote><placeName>Strato's Tower</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/106967420">Pseudo-Odoric of Pordenone</persName>, <title xml:lang="en" ref="" type="uniform" level="m">The
-          Holy Land</title> <ref n="a" target="#bib232-1">65-66</ref>. This passage was written ca. <origDate notBefore="1350" notAfter="1500" period="#lateIslamic">1350-1500 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
+          Holy Land</title> <ref target="#bib232-1">65-66</ref>. This passage was written ca. <origDate notBefore="1350" notAfter="1500" period="#lateIslamic">ca. 1350-1500 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
       <desc type="context">Nothing about this work attaches it to the known career of the Franciscan
         Odoric, who famously travelled to China, though admittedly our knowledge of his career
         before embarking for the Black Sea and the Silk Road is limited. This narrative is recorded
-        under his name in a single manuscript, Codex Berolinensis Theol. Lat. IV.141, dated to the
-        15th century. Judging from the contents, we identify the author as an unknown pilgrim to the
-        Holy Land, presumably also a Franciscan, who had ostensibly studied earlier writings. If the
-        work is in fact pseudepigraphical, the author wrote it after Odoric’s death in 1331 C.E. and
-        the subsequent growth of his reputation but no later than the end of the following century,
-        i.e., ca. 1350-1500. The account of Caesarea by Pseudo-Odoric comes at the end of the
-        itinerary, before a discussion of the prophet Mohammed. The passage is noteworthy for its
-        length and topographic detail, Beyond the usual mention of Peter, Cornelius, and Philip, he
-        notes identifications of the site of Paul’s prison and of a rocky suburban locale, then in
-        the countryside, as Peter’s first church.</desc>
+        under his name in a single manuscript of the 15th century in Berlin. Judging from the
+        contents, we identify the author as an unknown pilgrim to the Holy Land, presumably also a
+        Franciscan, who had ostensibly studied earlier writings. If the work is in fact
+        pseudepigraphical, the author wrote it after Odoric’s death in 1331 C.E. and the subsequent
+        growth of his reputation but no later than the end of the following century, i.e., ca.
+        1350-1500. The account of Caesarea by Pseudo-Odoric comes at the end of the itinerary,
+        before a discussion of the prophet Mohammed. The passage is noteworthy for its length and
+        topographic detail, Beyond the usual mention of Peter, Cornelius, and Philip, he notes
+        identifications of the site of Paul’s prison and of a rocky suburban locale, then in the
+        countryside, as Peter’s first church.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote232-1">
         <anchor xml:id="testimonia-232.la.1" corresp="#testimonia-232.en.1"/>
-        (65) XXIIII miliario a Ioppe est Cesarea civitas, metropolis Palestine,
-            sita super litus maris. Que qιιondam vocabatur Dor, sed nunc est destructa. Hanc
-            civitatem Herodes, rex Iudee, ampliavit et ad honorum Augusti Cesaris <placeName>Cesaream</placeName> vocavit. Et regio Palestina incipit. In hac civitate
-            est ecclesia Sancti Petri, edificata de domo Cornelii, quem beatus Petrus convertit et
-            baptizavit et in episcopum ordinavit; et fuit centurio. Ex ea fuit etiam Philippus, unus
-            de VII dyaconis ab apostolis ordinatis, habens quatuor filias prophetissas, cum quibus
-            ipse sepultus fuit. Et dicitur <placeName>Cesarea Palestine</placeName>, et non
-            Philippi. Hic quondam fuit <placeName>turris Stratonis</placeName>. In ea est carcer
-            supra ecclesiam, ubi beatus Paulus apostolus longo tempore fuit detentus. Inde pergens
-            Romam, consecutus est suam apellacionem apostolacionis. Extra eam et inter ortos est
-            petra, que vocatur Domini tabula, ubi ipse cum discipulis suis comedit. Iuxta illam est
-            cathedra, super quam beatus Petrus apostolus missam celebravit. Et alie tres grosse
-            petre, que fuerunt sua candelabra. (66) II miliario a <placeName>Cesarea</placeName> est
-            parva capella, ubi domina nostra morari quandoque solebat. Haec de terra sancta
-               sufficiant.<ab type="source" source="#bib232-1"/>
+        (65) XXIIII miliario a
+        Ioppe est Cesarea civitas, metropolis Palestine, sita super litus maris. Que qιιondam
+        vocabatur Dor, sed nunc est destructa. Hanc civitatem Herodes, rex Iudee, ampliavit et ad
+        honorum Augusti Cesaris <placeName>Cesaream</placeName> vocavit. Et regio Palestina incipit.
+        In hac civitate est ecclesia Sancti Petri, edificata de domo Cornelii, quem beatus Petrus
+        convertit et baptizavit et in episcopum ordinavit; et fuit centurio. Ex ea fuit etiam
+        Philippus, unus de VII dyaconis ab apostolis ordinatis, habens quatuor filias prophetissas,
+        cum quibus ipse sepultus fuit. Et dicitur <placeName>Cesarea Palestine</placeName>, et non
+        Philippi. Hic quondam fuit <placeName>turris Stratonis</placeName>. In ea est carcer supra
+        ecclesiam, ubi beatus Paulus apostolus longo tempore fuit detentus. Inde pergens Romam,
+        consecutus est suam apellacionem apostolacionis. Extra eam et inter ortos est petra, que
+        vocatur Domini tabula, ubi ipse cum discipulis suis comedit. Iuxta illam est cathedra, super
+        quam beatus Petrus apostolus missam celebravit. Et alie tres grosse petre, que fuerunt sua
+        candelabra. (66) II miliario a <placeName>Cesarea</placeName> est parva capella, ubi domina
+        nostra morari quandoque solebat. Haec de terra sancta sufficiant.
+      <ab type="source" source="#bib232-1"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
-        <note xml:lang="en" type="textual">Ed. Laurent 1873</note>
+        <note xml:lang="en" type="textual">Ed.
+          Laurent 1873</note>
+        <note xml:lang="en" type="discussion">Codex Berolinensis Theol. Lat. IV.141 (15th century)</note>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote232-2">
         <anchor xml:id="testimonia-232.en.1" corresp="#testimonia-232.la.1"/>
         (12) At the 24th mile
-        from Joppa is the city <placeName>Caesarea</placeName>, capital of Palestine, located on the
+        from Ioppe is the city <placeName>Caesarea</placeName>, capital of Palestine, located on the
         seashore. It was once called Dor but now is in ruin. Herodes, king of Judaea, expanded this
         city and named it <placeName>Caesarea</placeName> in honor of Augustus Caesar. And the
         region Palestine begins (here). In it is the Church of St. Peter, built from the house of

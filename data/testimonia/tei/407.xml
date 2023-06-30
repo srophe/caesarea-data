@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -12,7 +14,7 @@
         <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
         <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</editor>
         <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
-         <respStmt>
+      <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
@@ -40,7 +42,7 @@
                   <p>Except for materials quoted from other sources, this entry is copyright 2023 by the contributors (Joseph L. Rife, et al.) and the Caesarea City and Port Exploration Project. It is licensed under the Attribution 4.0 International (CC BY 4.0) license.</p> <p>Some texts quoted in this entry may be in the public domain in the United States. No copyright is asserted for these quotations.</p> <p>Some texts quoted in this entry may have copyright restrictions and are reused under Section 107 of the Copyright Act of 1976 (Title 17 of the United States Code) which permits “fair use” of copyrighted materials for purposes such as criticism, comment, scholarship, and research. These texts remain under copyright of their owners. No copyright infringement is intended.</p>
                </licence>
             </availability>
-            <date>2023-01-20-06:00</date>
+            <date>2023-06-30-05:00</date>
          </publicationStmt>
          <seriesStmt>
             <title level="s" xml:lang="en">Caesarea-Maritima.org: A Digital Archive</title>
@@ -256,7 +258,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Itinerary, P.Zenon</title> <ref target="#bib407-1">59004.1-13</ref> written by <persName ref="" role="author">Zenon</persName> in <origDate notBefore="-0259" notAfter="" period="#earlyHellenistic #hellenistic #earlyNabatean">259 BCE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Syria-Palestine</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Itinerary, P.Zenon</title> <ref target="#bib407-1">59004.1-13</ref> written by <persName ref="" role="author">Zenon</persName> in <origDate when="-0259" period="#earlyHellenistic #hellenistic #earlyNabatean">ca. 259 B.C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Syria-Palestine</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
         <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>
@@ -269,7 +271,8 @@
             <catRef scheme="#CM-NEAEH" target="#earlyHellenistic"/>
          </textClass>
       </profileDesc>
-      <revisionDesc status="draft">
+      <revisionDesc status="published">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2023-06-30-05:00">CHANGED: Proofreading and general edits</change>
          <change who="jrife" when="">ADDED: testimonium ID, URNs, URLs to edition and translation,
             and Bibl URIs</change>
          <change who="jrife" when="">CREATED: testimonium</change>
@@ -281,36 +284,33 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/407</idno>
          </ab>
          <desc type="abstract" xml:id="abstract407-1">
-        <quote><placeName>Στράτων[ο]ς πύ(ργῳ)</placeName></quote>, and <quote><placeName>Stato’s Tower</placeName></quote> are directly attested at <persName ref="" role="author">Zenon</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Itinerary, P.Zenon</title> <ref target="#bib407-1">59004.1-13</ref>. This passage was written ca. <origDate notBefore="-0259" notAfter="" period="#earlyHellenistic #hellenistic #earlyNabatean">259 BCE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Syria-Palestine</origPlace>.</desc>
-         <desc type="context">Zenon, a native of Kaunos in southwestern Asia Minor, worked in
+        <quote><placeName>Στράτων[ο]ς πύ(ργῳ)</placeName></quote>, and <quote><placeName>Stato’s Tower</placeName></quote> are directly attested at <persName ref="" role="author">Zenon</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Itinerary, P.Zenon</title> <ref>59004.1-13</ref>. This passage was written ca. <origDate when="-0259">ca. 259 B.C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Syria-Palestine</origPlace>.</desc>
+         <desc type="context">Zenon was a native of Kaunos in southwestern Asia Minor. He worked in
             Philadelphia in Middle Egypt as the secretary of Apollonius, an advisor for finances and
             land (διοικήτης) under Ptolemy II Philadelphus, the Greek king of Egypt during the first
             half to middle of the 3rd century B.C. An enormous cache of administrative records that
-            Zeno wrote in Greek and Demotic on papyri (P.Zenon) was recovered during the 19th
-            century. This particular text was written early in Zenon’s administrative career (ca.
-            259 B.C.E.), during a trip to survey Ptolemaic territory in the Middle East. The party’s
-            route apparently traced a wide counterclockwise arc, landing at Strato’s Tower,
-            advancing eastward across the Judaean Hills and the Jordan Valley, north into southern
-            Syria, and back west through the northeastern Galilee, ending at Ptolemaïs. This passage
-            lists the amount of flour as measured in artabai, an Egyptian unit of dry volume,
-            consumed by the campaign at various centers.</desc>
+            Zenon wrote in Greek and Demotic on papyri (<title>P.Zenon</title>) was recovered during
+            the 19th century. This particular text was written early in Zenon’s administrative
+            career (ca. 259 B.C.E.), during a trip to survey Ptolemaic territory in the Middle East.
+            The party’s route apparently traced a wide counterclockwise arc, landing at Strato’s
+            Tower, advancing eastward across the Judaean Hills and the Jordan Valley, north into
+            southern Syria, and back west through the northeastern Galilee, ending at Ptolemaïs.
+            This passage lists the amount of flour as measured in artabai, an Egyptian unit of dry
+            volume, consumed by the campaign at various centers.</desc>
          <ab type="edition" xml:lang="grc" xml:id="quote407-1">
-        <anchor xml:id="testimonia-407.grc.1" corresp="#testimonia-407.en.1"/>ἀλεύρ̣̣[ων ]<lb/>ἐν <placeName>Στράτων[ο]ς πύ(ργῳ)</placeName> ἀρτ(άβαι)
-            εʹ<lb/>’Ιεροσολύμ[οις] ζʹ<lb/>ἐν Ἐριχο[ῖ] εʹ<lb/>ἐν Ἀβέλλοις γʹ (5)<lb/>Σουραβιτ..οις ἀρτ(άβαι)
-            θʹ<lb/>Λακάσοις ιδʹ<lb/>Νόηι ιʹ<lb/>Εἰτουι ζʹ<lb/>Βαιτιανατοις ιδʹ (10)<lb/>Κυδίσωι βʹ<lb/>ἐν
-            Πτολεμαίδι δʹ<lb/>ἀρτ(άβαι) οθʹ<ab type="source" source="#bib407-1"/>
+        <anchor xml:id="testimonia-407.grc.1" corresp="#testimonia-407.en.1"/>ἀλεύρ̣̣[ων ]<lb/>ἐν <placeName>Στράτων[ο]ς πύ(ργῳ)</placeName> ἀρτ(άβαι) εʹ<lb/>’Ιεροσολύμ[οις] ζʹ<lb/>ἐν Ἐριχο[ῖ] εʹ<lb/>ἐν Ἀβέλλοις γʹ (5)<lb/>Σουραβιτ..οις ἀρτ(άβαι) θʹ<lb/>Λακάσοις ιδʹ<lb/>Νόηι
+            ιʹ<lb/>Εἰτουι ζʹ<lb/>Βαιτιανατοις ιδʹ (10)<lb/>Κυδίσωι βʹ<lb/>ἐν Πτολεμαίδι δʹ<lb/>ἀρτ(άβαι)
+               οθʹ<ab type="source" source="#bib407-1"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
         <note xml:lang="en" type="textual">Ed. Edgar 1925</note>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote407-2">
-        <anchor xml:id="testimonia-407.en.1" corresp="#testimonia-407.grc.1"/>(Amounts of) flour:<lb/>At <placeName>Stato’s Tower</placeName>
-            artabai 5<lb/>At Jerusalem 7<lb/>At Jericho 5<lb/>At Abella 3<lb/>At Sourabit artabai 9<lb/>At
-            Lakasa 14<lb/>At Noe 10<lb/>At Heitos 7<lb/>At Baitianata 14<lb/>At Kydisos 2<lb/>At Ptolemais 4<lb/>Total: 79 artabai<ab type="source" source="#bib407-2"/>
+        <anchor xml:id="testimonia-407.en.1" corresp="#testimonia-407.grc.1"/>(Amounts of) flour:<lb/>At <placeName>Stato’s Tower</placeName> artabai 5<lb/>At Jerusalem 7<lb/>At Jericho 5<lb/>At Abella 3<lb/>At Sourabit artabai 9<lb/>At Lakasa 14<lb/>At Noë 10<lb/>At
+            Heitos 7<lb/>At Baitianata 14<lb/>At Kydisos 2<lb/>At Ptolemaïs 4<lb/>Total: 79 artabai<ab type="source" source="#bib407-2"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
-        <note xml:lang="en" type="translation">Trans. J. L. Rife with ref. to Abel
-               1923</note>
+        <note xml:lang="en" type="translation">Trans. J. L. Rife with ref. to Abel 1923</note>
       </ab>
          <listBibl>
         <head>Works Cited</head>
@@ -331,9 +331,8 @@
           <citedRange unit="line">1-13</citedRange>
         </bibl>
       </listBibl>
-      <note type="related-texts"/>
+    <note type="related-texts"/>
       <note type="geography">
-        <p>Ptolemaïs (Accho, Acco, Akko)</p>
         <p>Abella of the Decapolis</p>
         <p>Bethanath</p>
         <p>Heit in the Hauran</p>
@@ -342,6 +341,7 @@
         <p>Kedesh</p>
         <p>Lakasa=Al-Kiswah</p>
         <p>Nawa in the Hauran</p>
+        <p>Ptolemaïs (Accho, Acco, Akko)</p>
         <p>Sourabit (Umm es-Surab)</p>
       </note>
       <note type="prosopography"/>

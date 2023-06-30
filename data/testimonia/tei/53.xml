@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -13,10 +15,9 @@
         Michelson</editor>
         <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
         <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</editor>
-        
         <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#bgardner">Bianca Gardner</editor>
         <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
-        <respStmt>
+      <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L.
           Potter</name>
@@ -42,7 +43,7 @@
             <p>Except for materials quoted from other sources, this entry is copyright 2023 by the contributors (Bianca Gardner, et al.) and the Caesarea City and Port Exploration Project. It is licensed under the Attribution 4.0 International (CC BY 4.0) license.</p> <p>Some texts quoted in this entry may be in the public domain in the United States. No copyright is asserted for these quotations.</p> <p>Some texts quoted in this entry may have copyright restrictions and are reused under Section 107 of the Copyright Act of 1976 (Title 17 of the United States Code) which permits “fair use” of copyrighted materials for purposes such as criticism, comment, scholarship, and research. These texts remain under copyright of their owners. No copyright infringement is intended.</p>
           </licence>
         </availability>
-        <date>2023-01-20-05:00</date>
+        <date>2023-06-30-05:00</date>
       </publicationStmt>
       <seriesStmt>
         <title level="s" xml:lang="en">Caesarea-Maritima.org: A Digital Archive</title>
@@ -258,20 +259,21 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:greekLit:tlg4029.tlg002" type="uniform" level="m">Secret History</title> <ref n="a" target="#bib53-1">11.24-11.30</ref> written by <persName ref="http://viaf.org/viaf/100172302" role="author">Procopius of Caesarea</persName> in <origDate notBefore="0550" notAfter="0560" period="#byzantine">550-560 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:greekLit:tlg4029.tlg002" type="uniform" level="m">Secret History</title> <ref target="#bib53-1">11.24-11.30</ref> written by <persName ref="http://viaf.org/viaf/100172302" role="author">Procopius</persName> in <origDate notBefore="0550" notAfter="0560" period="#byzantine">550-560 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
       <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
         <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>
       </langUsage>
       <textClass>
-        <classCode scheme="https://distributed-text-services.github.io/specifications">
-          <idno type="CTS-URN">urn:cts:greekLit:tlg4029.tlg002:11.24-11.30</idno>
-        </classCode>
-        <catRef scheme="#CM-Testimonia-Type" target="#direct"/>
-        <catRef scheme="#CM-NEAEH" target="#byzantine"/>
-      </textClass>
+            <classCode scheme="https://distributed-text-services.github.io/specifications">
+               <idno type="CTS-URN"/>
+            </classCode>
+            <catRef scheme="#CM-Testimonia-Type" target="#direct"/>
+            <catRef scheme="#CM-NEAEH" target="#byzantine"/>
+         </textClass>
     </profileDesc>
     <revisionDesc status="published">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2023-06-30-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2023-01-20-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
       <change who="http://syriaca.org/documentation/editors.xml#srophe-util" when="2020-03-30-04:00">CHANGED: Update bibl elements with full citation information from Syriaca.org entry.</change>
@@ -285,70 +287,69 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/53</idno>
       </ab>
       <desc type="abstract" xml:id="abstract53-1">
-        <quote><placeName>Καισαρείᾳ</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/100172302" role="author">Procopius</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg4029.tlg002" type="uniform" level="m">Secret History</title> <ref n="a" target="#bib53-1">11.24-11.30</ref>. This passage was written ca. <origDate notBefore="0550" notAfter="0560" period="#byzantine">550-560 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+        <quote><placeName>Καισαρείᾳ</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/100172302" role="author">Procopius</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg4029.tlg002" type="uniform" level="m">Secret History</title> <ref>11.24-11.30</ref>. This passage was written ca. <origDate notBefore="0550" notAfter="0560">550-560 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
       <desc type="context">Procopius, a native of Caesarea Maritima who excelled in his classical
-        education and legal training, was the preeminent historian of the reign of Justinian. As
-        a field advisor to the general Belisarius and a ranking member of the governing class in
-        Constantinople, he could write with firsthand knowledge and personal authority on policy
-        and society in the late Empire. Among his influential writings was the unusual “secret”
-        or “unpublished history” (ἀπόκρυφη/ἀνεκδοτή ἱστορία), a collection of vignettes often
-        with a polemical or satirical flavor that portrayed the vices and failures of the
-        emperor, the empress, and their entourage. In this passage, Procopius recounts the
-        bloody Samaritan uprising in 529-531 under Julian ben Sabar in Palestine, in response to
-        Justinian’s religious legislation. At Caesarea and other cities, Samaritans began to
-        call themselves Christians to avoid persecution.</desc>
+            education and legal training, was the preeminent historian of the reign of Justinian. As
+            a field advisor to the general Belisarius and a ranking member of the governing class in
+            Constantinople, he could write with firsthand knowledge and personal authority on policy
+            and society in the late Empire. Among his influential writings was the unusual “secret”
+            or “unpublished history” (ἀπόκρυφη/ἀνεκδοτή ἱστορία), a collection of vignettes often
+            with a polemical or satirical flavor that portrayed the vices and failures of the
+            emperor, the empress, and their entourage. In this passage, Procopius recounts the
+            bloody Samaritan uprising in 529-531 C.E. under Julian ben Sabar in Palestine, in
+            response to Justinian’s religious legislation. At Caesarea and other cities, Samaritans
+            began to call themselves Christians to avoid persecution.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote53-1">
-        <anchor xml:id="testimonia-53.grc.1" corresp="#testimonia-53.en.1"/>
-        (24) νόμου δὲ τοῦ τοιούτου καὶ ἀμφὶ τοῖς Σαμαρείταις αὐτίκα τεθέντος
-        ταραχὴ ἄκριτος τὴν Παλαιστίνην κατέλαβεν. (25) ὅσοι μὲν οὖν ἔν τε
-        <placeName>Καισαρείᾳ</placeName> τῇ ἐμῇ κὰν ταῖς ἄλλαις πόλεσιν ᾤκουν, παρὰ φαῦλον
-        ἡγησάμενοι κακοπάθειάν τινα ὑπὲρ ἀνοήτου φέρεσθαι δόγματος, ὄνομα Χριστιανῶν τοῦ σφίσι
-        παρόντος ἀνταλλαξάμενοι τῷ προσχήματι τούτῳ τὸν ἐκ τοῦ νόμου ἀποσείσασθαι κίνδυνον
-        ἴσχυσαν. (26) καὶ αὐτῶν ὅσοις μέν τι λογισμοῦ καὶ ἐπιεικείας μετῆν πιστοὶ εἶναι τὰ ἐς
-        δόξαν τήνδε οὐδαμῆ ἀπηξίουν, οἱ μέντοι πλεῖστοι ὥσπερ ἀγανακτοῦντες, ὅτι δὴ οὐχ
-        ἑκούσιοι, ἀλλὰ τῷ νόμῳ ἠναγκασμένοι δόγμα τὸ πάτριον μετεβάλοντο, αὐτίκα δὴ μάλα ἐπί ε
-        Μανιχαίους καὶ τοὺς καλουμένους Πολυθέους ἀπέκλιναν. (27) οἱ δὲ γεωργοὶ ξύμπαντες ἀθρόοι
-        γεγενημένοι ὅπλα ἀνταίρειν βασιλεῖ ἔγνωσαν βασιλέα σφίσι τῶν τινα λῃστῶν προβεβλημένοι
-        Ἰουλιανὸν ὄνομα Σαβάρου υἱόν. (28) καὶ χρόνον μέν τινα τοῖς στρατιώταις ἐς χεῖρας
-        ἐλθόντες ἀντεῖχον, ἔπειτα δὲ ἡττηθέντες τῇ μάχῇ διεφθάρησαν ξὺν τῷ ἡγεμόνι. (29) καὶ
-        λέγονται μυριάδες ἀνθρώπων δέκα ἐν τῷ πόνῳ τούτῳ ἀπολωλέναι, καὶ χώρα ἡ πάσης γῆς ἀγαθὴ
-        μάλιστα ἔρημος γεωργῶν ἀπ̓ αὐτοῦ γέγονε. (30) τοῖς τε τῶν χωρίων κυρίοις Χριστιανοῖς
-        οὖσι τὸ πρᾶγμα τοῦτο ἐς μέγα κακὸν ἐτελεύτησεν, ἀναγκαῖον γὰρ γέγονε σφίσιν οὐδὲν
-        ἐνθένδε μετακομιζομένοις φόρον τὸν ἐπέτειον ἁδρόν τινα ὄντα ἐς τὸν ἅπαντα αἰῶνα βασιλεῖ
-        φέρειν, ἐπεὶ οὐδεμιᾷ φειδοῖ ἡ τοῦ ἔργου τούτου ἐντροπὴ γέγονεν.<ab type="source" source="#bib53-1"/>
+        <anchor xml:id="testimonia-53.grc.1" corresp="#testimonia-53.en.1"/>(24) νόμου δὲ τοῦ τοιούτου καὶ ἀμφὶ τοῖς Σαμαρείταις αὐτίκα τεθέντος
+            ταραχὴ ἄκριτος τὴν Παλαιστίνην κατέλαβεν. (25) ὅσοι μὲν οὖν ἔν τε
+               <placeName>Καισαρείᾳ</placeName> τῇ ἐμῇ κὰν ταῖς ἄλλαις πόλεσιν ᾤκουν, παρὰ φαῦλον
+            ἡγησάμενοι κακοπάθειάν τινα ὑπὲρ ἀνοήτου φέρεσθαι δόγματος, ὄνομα Χριστιανῶν τοῦ σφίσι
+            παρόντος ἀνταλλαξάμενοι τῷ προσχήματι τούτῳ τὸν ἐκ τοῦ νόμου ἀποσείσασθαι κίνδυνον
+            ἴσχυσαν. (26) καὶ αὐτῶν ὅσοις μέν τι λογισμοῦ καὶ ἐπιεικείας μετῆν πιστοὶ εἶναι τὰ ἐς
+            δόξαν τήνδε οὐδαμῆ ἀπηξίουν, οἱ μέντοι πλεῖστοι ὥσπερ ἀγανακτοῦντες, ὅτι δὴ οὐχ
+            ἑκούσιοι, ἀλλὰ τῷ νόμῳ ἠναγκασμένοι δόγμα τὸ πάτριον μετεβάλοντο, αὐτίκα δὴ μάλα ἐπί ε
+            Μανιχαίους καὶ τοὺς καλουμένους Πολυθέους ἀπέκλιναν. (27) οἱ δὲ γεωργοὶ ξύμπαντες ἀθρόοι
+            γεγενημένοι ὅπλα ἀνταίρειν βασιλεῖ ἔγνωσαν βασιλέα σφίσι τῶν τινα λῃστῶν προβεβλημένοι
+            Ἰουλιανὸν ὄνομα Σαβάρου υἱόν. (28) καὶ χρόνον μέν τινα τοῖς στρατιώταις ἐς χεῖρας
+            ἐλθόντες ἀντεῖχον, ἔπειτα δὲ ἡττηθέντες τῇ μάχῇ διεφθάρησαν ξὺν τῷ ἡγεμόνι. (29) καὶ
+            λέγονται μυριάδες ἀνθρώπων δέκα ἐν τῷ πόνῳ τούτῳ ἀπολωλέναι, καὶ χώρα ἡ πάσης γῆς ἀγαθὴ
+            μάλιστα ἔρημος γεωργῶν ἀπ̓ αὐτοῦ γέγονε. (30) τοῖς τε τῶν χωρίων κυρίοις Χριστιανοῖς
+            οὖσι τὸ πρᾶγμα τοῦτο ἐς μέγα κακὸν ἐτελεύτησεν, ἀναγκαῖον γὰρ γέγονε σφίσιν οὐδὲν
+            ἐνθένδε μετακομιζομένοις φόρον τὸν ἐπέτειον ἁδρόν τινα ὄντα ἐς τὸν ἅπαντα αἰῶνα βασιλεῖ
+            φέρειν, ἐπεὶ οὐδεμιᾷ φειδοῖ ἡ τοῦ ἔργου τούτου ἐντροπὴ γέγονεν.<ab type="source" source="#bib53-1"/>
         <idno type="CTS-URN">urn:cts:greekLit:tlg4029.tlg002.perseus-grc1:11.24-11.30</idno>
         <ref target="http://data.perseus.org/citations/urn:cts:greekLit:tlg4029.tlg002.perseus-grc1:11.24-11.30"/>
-        <note type="textual">Ed. Wirth 1963</note>
+        <note xml:lang="en" type="textual">Ed.
+               Wirth 1963 [cited by chapter-section]</note>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote53-2">
-        <anchor xml:id="testimonia-53.en.1" corresp="#testimonia-53.grc.1"/>
-        (24) And when a similar law was passed suddenly with respect to the
-        Samaritans, indiscriminate tumult descended upon Palestine. (25) All the residents of my
-        home <placeName>Caesarea</placeName> and the other cities, considering it foolish to
-        bear any suffering in defense of a nonsensical teaching, replaced their old name with
-        the name of the Christians, and by this pretense they managed to shake off the imminent
-        danger of this law. (26) Those among them who were at all prudent and reasonable were
-        quite agreeable to adhering to this faith. But the majority, apparently feeling
-        resentment that, against their wishes but compelled by law, they were abandoning the
-        beliefs they had inherited, very soon defected to the Manicheans and the co-called
-        Polytheists. (27) And all the farmers gathered together decided to take up arms against
-        the Emperor, putting forward as their own Emperor a bandit named Julian, son of Sabaros.
-        (28) They joined in battle with the soldiers and held out for some time, but in the end
-        they were defeated in battle and perished, all together with their leader. (29) They say
-        that 100,000 men died in this conflict, and the land, which is the best in the world,
-        became as a result destitute of farmers. (30) This situation had disastrous consequences
-        for the owners of these farms who were Christians. For, even though the land was
-        yielding them no profit at all, they were compelled to pay to the emperor in perpetuity
-        annual taxes on a crippling scale, as these demands were pressed relentlessly.<ab type="source" source="#bib53-2"/>
+        <anchor xml:id="testimonia-53.en.1" corresp="#testimonia-53.grc.1"/>(24) And when a similar law was passed suddenly with respect to the
+            Samaritans, indiscriminate tumult descended upon Palestine. (25) All the residents of my
+            home <placeName>Caesarea</placeName> and the other cities, considering it foolish to
+            bear any suffering in defense of a nonsensical teaching, replaced their old name with
+            the name of the Christians, and by this pretense they managed to shake off the imminent
+            danger of this law. (26) Those among them who were at all prudent and reasonable were
+            quite agreeable to adhering to this faith. But the majority, apparently feeling
+            resentment that, against their wishes but compelled by law, they were abandoning the
+            beliefs they had inherited, very soon defected to the Manicheans and the co-called
+            Polytheists. (27) And all the farmers gathered together decided to take up arms against
+            the Emperor, putting forward as their own Emperor a bandit named Julian, son of Sabaros.
+            (28) They joined in battle with the soldiers and held out for some time, but in the end
+            they were defeated in battle and perished, all together with their leader. (29) They say
+            that 100,000 men died in this conflict, and the land, which is the best in the world,
+            became as a result destitute of farmers. (30) This situation had disastrous consequences
+            for the owners of these farms who were Christians. For, even though the land was
+            yielding them no profit at all, they were compelled to pay to the emperor in perpetuity
+            annual taxes on a crippling scale, as these demands were pressed relentlessly.<ab type="source" source="#bib53-2"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
-        <note type="translation">Adapted from Dewing 1935 and Williamson 1966</note>
+        <note xml:lang="en" type="translation">Adapted from Dewing 1935 and Williamson 1966</note>
       </ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib53-1">
           <ptr target="https://caesarea-maritima.org/bibl/RP9TVX8C"/>
-          <citedRange unit="ch">11.24-11.30</citedRange>
+          <citedRange unit="ch">11.35-11.30</citedRange>
         </bibl>
         <bibl xml:id="bib53-2">
           <ptr target="https://caesarea-maritima.org/bibl/62J2HCU3"/>
@@ -367,12 +368,15 @@
         </bibl>
       </listBibl>
     <note type="related-texts">
+        <p>Choricius of Gaza, Orations 3.10-3.19</p>
         <p>Cyril of Scythopolis</p>
+        <p>Cyril of Scythopolis, Life of St. Sabas 70</p>
       </note>
       <note type="geography">
         <p>Palestine</p>
       </note>
       <note type="prosopography">
+        <p>Julian ben Sabar</p>
         <p>Julianus ben Sabar</p>
         <p>Justinian I, emperor</p>
       </note>

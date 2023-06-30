@@ -1,11 +1,12 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="en" level="a">Ludolf von
-               Sudheim
-        , <title level="m">Journey in the Holy Land 
-        </title> 28</title>
+            <title xml:lang="en" level="a">Ludolf von Sudheim
+            , <title level="m">Journey in the Holy Land 
+            </title> 28</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
             <sponsor>Vanderbilt University</sponsor>
             <principal>Joseph L. Rife</principal>
@@ -16,7 +17,7 @@
             <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
             <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</editor>
             <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
-            <respStmt>
+         <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
         </respStmt>
@@ -28,7 +29,7 @@
                <resp>Testimonia identified by</resp>
                <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
             </respStmt>
-         </titleStmt>
+      </titleStmt>
          <editionStmt>
             <edition n="1.0"/>
          </editionStmt>
@@ -37,10 +38,10 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/209/tei</idno>
             <availability>
                <licence target="http://creativecommons.org/licenses/by/4.0">
-                  <p>Except for materials quoted from other sources, this entry is copyright 2021 by the contributors (Joseph L. Rife, et al.) and the Caesarea City and Port Exploration Project. It is licensed under the Attribution 4.0 International (CC BY 4.0) license.</p> <p>Some texts quoted in this entry may be in the public domain in the United States. No copyright is asserted for these quotations.</p> <p>Some texts quoted in this entry may have copyright restrictions and are reused under Section 107 of the Copyright Act of 1976 (Title 17 of the United States Code) which permits “fair use” of copyrighted materials for purposes such as criticism, comment, scholarship, and research. These texts remain under copyright of their owners. No copyright infringement is intended.</p>
+                  <p>Except for materials quoted from other sources, this entry is copyright 2023 by the contributors (Joseph L. Rife, et al.) and the Caesarea City and Port Exploration Project. It is licensed under the Attribution 4.0 International (CC BY 4.0) license.</p> <p>Some texts quoted in this entry may be in the public domain in the United States. No copyright is asserted for these quotations.</p> <p>Some texts quoted in this entry may have copyright restrictions and are reused under Section 107 of the Copyright Act of 1976 (Title 17 of the United States Code) which permits “fair use” of copyrighted materials for purposes such as criticism, comment, scholarship, and research. These texts remain under copyright of their owners. No copyright infringement is intended.</p>
                </licence>
             </availability>
-            <date>2021-06-14-05:00</date>
+            <date>2023-06-30-05:00</date>
          </publicationStmt>
          <seriesStmt>
             <title level="s" xml:lang="en">Caesarea-Maritima.org: A Digital Archive</title>
@@ -257,9 +258,8 @@
             <p/>
          </abstract>
          <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Journey in the Holy Land <hi rend="italic">Book of Pilgrimage </hi>
-        </title> <ref n="a" target="#bib209-1">28</ref> written by <persName role="author" ref="http://viaf.org/viaf/89288448 ">Ludolf von
-               Sudheim<ptr/>
-        </persName> in <origDate notBefore="1336" notAfter="1345" period="#lateIslamic">1336-1345 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</creation>
+            </title> <ref target="#bib209-1">28</ref> written by <persName role="author" ref="http://viaf.org/viaf/89288448 ">Ludolf von Sudheim<ptr/>
+            </persName> in <origDate notBefore="1336" notAfter="1345" period="#lateIslamic">1336-1345 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="la">Latin</language>
         <language ana="#caesarea-language-of-original" ident="la">Latin</language>
@@ -272,7 +272,8 @@
             <catRef scheme="#CM-NEAEH" target="#earlyRoman #crusader #lateIslamic"/>
          </textClass>
       </profileDesc>
-      <revisionDesc status="draft">
+      <revisionDesc status="published">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2023-06-30-05:00">CHANGED: Proofreading and general edits</change>
          <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
       </revisionDesc>
    </teiHeader>
@@ -282,10 +283,9 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/209</idno>
          </ab>
          <desc type="abstract" xml:id="abstract209-1">
-        <quote><placeName>Caesaream Palestinam</placeName></quote>, <quote><placeName>Caesarea</placeName></quote>, and <quote><placeName>Caesarea of Palestine</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/89288448 ">Ludolf von
-               Sudheim<ptr/>
-        </persName>, <title xml:lang="en" ref="" type="uniform" level="m">Journey in the Holy Land <hi rend="italic">Book of Pilgrimage </hi>
-        </title> <ref n="a" target="#bib209-1">28</ref>. This passage was written ca. <origDate notBefore="1336" notAfter="1345" period="#lateIslamic">1336-1345 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
+        <quote><placeName>Caesaream Palestinam</placeName></quote>, <quote><placeName>Caesarea Palaestina</placeName></quote>, <quote><placeName>Caesarea</placeName></quote>, and <quote><placeName>Caesarea of Palestine</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/89288448 ">Ludolf von Sudheim<ptr/>
+            </persName>, <title xml:lang="en" ref="" type="uniform" level="m">Journey in the Holy Land <hi rend="italic">Book of Pilgrimage </hi>
+            </title> <ref target="#bib209-1">28</ref>. This passage was written ca. <origDate notBefore="1336" notAfter="1345" period="#lateIslamic">1336-1345 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
          <desc type="context">Ludolf von Sudheim, a cleric in Westphalia during the early 14th
             century, travelled extensively in the Eastern Mediterranean in the coterie of a knight
             who served the Armenian king. The account of his pilgrimage to the Holy Land in
@@ -293,22 +293,25 @@
             and natural history. In this passage he recounts the trip south from Carmel through
             Caesarea to Arsuf. </desc>
          <ab type="edition" xml:lang="la" xml:id="quote209-1">
-        <anchor xml:id="testimonia-209.la.1" corresp="#testimonia-209.en.1"/>De monte Carmelo transito quodam flumine, qui Iordanis pro parte est
-            origo, pervenitur in <placeName>Caesaream Palestinam</placeName>, quae quondam dicta
-            fuit Dor, nunc Caesarea Palaestina vocata, sed funditus nunc eversa. In hac civitate
-            pulchra ecclesia de domo Cornelii, quem Petrus ad fidem convertit, fuit facta. Eadem
-            civitas, terra sancta recuperata, in portionem cuiusdam militis de partibus istis,
+        <anchor xml:id="testimonia-209.la.1" corresp="#testimonia-209.en.1"/>
+            De monte Carmelo
+            transito quodam flumine, qui Iordanis pro parte est origo, pervenitur in
+               <placeName>Caesaream Palestinam</placeName>, quae quondam dicta fuit Dor, nunc
+               <placeName>Caesarea Palaestina</placeName> vocata, sed funditus nunc eversa. In hac
+            civitate pulchra ecclesia de domo Cornelii, quem Petrus ad fidem convertit, fuit facta.
+            Eadem civitas, terra sancta recuperata, in portionem cuiusdam militis de partibus istis,
             nomine de Horne, fuit devoluta, cuius generis adhuc temporibus meis vixit vidua, quam
             saepius bene vidi et de hac materia tractavi. De <placeName>Caesarea</placeName>
             proceditur et pervenitur in civitatem quondam pulchram, sed nunc desertam, Castrum
-            peregrini vocatam, sed olim Assur dictam.<ab type="source" source="#bib209-1"/>
+            peregrini vocatam, sed olim Assur dictam.
+         <ab type="source" source="#bib209-1"/>
         <idno type="CTS-URN"/>
         <ref/>
-        <note xml:lang="en" type="textual">Ed. Heuyks
-               1851</note>
+        <note xml:lang="en" type="textual">Ed. Heuyks 1851</note>
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote209-2">
-        <anchor xml:id="testimonia-209.en.1" corresp="#testimonia-209.la.1"/>After passing over Mount Carmel one crosses a river, which is one of
+        <anchor xml:id="testimonia-209.en.1" corresp="#testimonia-209.la.1"/>
+        After passing over Mount Carmel one crosses a river, which is one of
             the sources of the Jordan, and arrives at <placeName>Caesarea of Palestine</placeName>,
             which was once called Dor and now Caesarea of Palestine, but it is utterly destroyed. In
             this city there was a fair church made out of the house of Cornelius, whom Peter
@@ -317,7 +320,8 @@
             son-in-law’s widow was living even in my own time, for I have often seen her and talked
             with her on this subject. Going on from <placeName>Caesarea</placeName> one comes to
             what was once a fair city but is now deserted called Pilgrim’s Castle, but in old times
-               Assur.<ab type="source" source="#bib209-2"/>
+               Assur.
+      <ab type="source" source="#bib209-2"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
         <note xml:lang="en" type="translation">Adapted from Stewart 1895</note>
@@ -335,7 +339,7 @@
           <citedRange unit="p">64-65</citedRange>
         </bibl>
       </listBibl>
-      <note type="related-texts"/>
+    <note type="related-texts"/>
       <note type="geography">
         <p>Arsuf (Assur, Ashur)</p>
         <p>Athlit (Castellum Peregrinorum, Castrum Peregrinorum, Pilgrims’ Castle, Petra Incisa)</p>

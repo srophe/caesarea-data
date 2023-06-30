@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -13,7 +15,7 @@
         <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
         <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</editor>
         <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
-        <respStmt>
+      <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
         </respStmt>
@@ -34,10 +36,10 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/288/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/4.0">
-            <p>Except for materials quoted from other sources, this entry is copyright 2022 by the contributors (Joseph L. Rife, et al.) and the Caesarea City and Port Exploration Project. It is licensed under the Attribution 4.0 International (CC BY 4.0) license.</p> <p>Some texts quoted in this entry may be in the public domain in the United States. No copyright is asserted for these quotations.</p> <p>Some texts quoted in this entry may have copyright restrictions and are reused under Section 107 of the Copyright Act of 1976 (Title 17 of the United States Code) which permits “fair use” of copyrighted materials for purposes such as criticism, comment, scholarship, and research. These texts remain under copyright of their owners. No copyright infringement is intended.</p>
+            <p>Except for materials quoted from other sources, this entry is copyright 2023 by the contributors (Joseph L. Rife, et al.) and the Caesarea City and Port Exploration Project. It is licensed under the Attribution 4.0 International (CC BY 4.0) license.</p> <p>Some texts quoted in this entry may be in the public domain in the United States. No copyright is asserted for these quotations.</p> <p>Some texts quoted in this entry may have copyright restrictions and are reused under Section 107 of the Copyright Act of 1976 (Title 17 of the United States Code) which permits “fair use” of copyrighted materials for purposes such as criticism, comment, scholarship, and research. These texts remain under copyright of their owners. No copyright infringement is intended.</p>
           </licence>
         </availability>
-        <date>2022-10-19-05:00</date>
+        <date>2023-06-30-05:00</date>
       </publicationStmt>
       <seriesStmt>
         <title level="s" xml:lang="en">Caesarea-Maritima.org: A Digital Archive</title>
@@ -252,7 +254,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Illustrious Men</title> <ref n="e" target="#bib288-1">54.22-31</ref> written by <persName role="author" ref="http://viaf.org/viaf/95147024">Jerome</persName> in <origDate notBefore="0392" notAfter="0393" period="#byzantine">392-393 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Illustrious Men</title> <ref target="#bib288-1">54.22-31</ref> written by <persName role="author" ref="http://viaf.org/viaf/95147024">Jerome</persName> in <origDate notBefore="0392" notAfter="0393" period="#byzantine">392-393 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</creation>
       <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="la">Latin</language>
         <language ana="#caesarea-language-of-original" ident="la">Latin</language>
@@ -265,7 +267,8 @@
         <catRef scheme="#CM-NEAEH" target="#lateRoman #byzantine"/>
       </textClass>
     </profileDesc>
-    <revisionDesc status="draft">
+    <revisionDesc status="published">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2023-06-30-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
     </revisionDesc>
@@ -276,7 +279,7 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/288</idno>
       </ab>
       <desc type="abstract" xml:id="abstract288-1">
-        <quote><placeName>Caesareae</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/95147024">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Illustrious Men</title> <ref n="e" target="#bib288-1">54.22-31</ref>. This passage was written ca. <origDate notBefore="0392" notAfter="0393" period="#byzantine">392-393 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</desc>
+        <quote><placeName>Caesareae</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/95147024">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Illustrious Men</title> <ref target="#bib288-1">54.22-31</ref>. This passage was written ca. <origDate notBefore="0392" notAfter="0393" period="#byzantine">392-393 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</desc>
       <desc type="context">Among his many works, St. Jerome wrote a catalog of renowned thinkers
             of the Roman world during the first years after his move from Rome to Bethlehem. In
             mostly brief sketches he describes the intellectual achievements, particularly writings,
@@ -292,7 +295,8 @@
         est; sed et illud quod ad Mameam, matrem Alexandri imperatoris, religiosam feminam rogatus
         venit Antiochiam et summo honore habitus est, et ad Philippum imperatorem, qui primus de
         regibus Romanis Christianus fuit, et ad matrem eius litteras fecit quae usque hodie
-          extant.<ab type="source" source="#bib288-1"/>
+          extant.
+      <ab type="source" source="#bib288-1"/>
         <idno type="CTS-URN"/>
         <ref target="https://archive.org/details/devirisinlustri00jerogoog/page/n67/mode/2up"/>
         <note xml:lang="en" type="textual">Ed. Bernoulli 1895</note>
@@ -300,15 +304,15 @@
       <ab type="translation" xml:lang="en" xml:id="quote288-2">
         <anchor xml:id="testimonia-288.en.1" corresp="#testimonia-288.la.1"/>
         One can see how great
-        Origen’s glory was from the fact that Firmillianus, bishop of
-          <placeName>Caesarea</placeName>, with all the Cappadocian bishops invited and hosted him
-        for a long stay; and later, when (Firmillianus) was travelling to Palestine to visit the
-        Holy Places, he received instruction on the Holy Scriptures from Origen for a long time at
-          <placeName>Caesarea</placeName>. But there is also the fact that (Origen) went to Antioch
-        at the request of Mamea, mother of the emperor Alexander and a woman of religious devotion,
-        and he was treated with the highest regard. And he sent letters to the emperor Philip, who
-        was the first Christian among the Roman rulers, and to his mother, letters which still exist
-          today.<ab type="source" source="#bib288-2"/>
+        Origen’s glory was from the fact that Firmillian, bishop of <placeName>Caesarea</placeName>,
+        with all the Cappadocian bishops invited and hosted him for a long stay; and later, when
+        (Firmillian) was travelling to Palestine to visit the Holy Places, he received instruction
+        on the Holy Scriptures from Origen for a long time at <placeName>Caesarea</placeName>. But
+        there is also the fact that (Origen) went to Antioch at the request of Mamea, mother of the
+        emperor Alexander and a woman of religious devotion, and he was treated with the highest
+        regard. And he sent letters to the emperor Philip, who was the first Christian among the
+        Roman rulers, and to his mother, letters which still exist today.
+      <ab type="source" source="#bib288-2"/>
         <idno type="CTS-URN"/>
         <ref/>
         <note xml:lang="en" type="translation">Adapted from Schaff 1892 and Halton 1999</note>

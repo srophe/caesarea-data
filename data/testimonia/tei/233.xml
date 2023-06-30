@@ -1,4 +1,6 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -15,7 +17,7 @@
         <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
         <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</editor>
         <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
-        <respStmt>
+      <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
         </respStmt>
@@ -36,10 +38,10 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/233/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/4.0">
-            <p>Except for materials quoted from other sources, this entry is copyright 2022 by the contributors (Joseph L. Rife, et al.) and the Caesarea City and Port Exploration Project. It is licensed under the Attribution 4.0 International (CC BY 4.0) license.</p> <p>Some texts quoted in this entry may be in the public domain in the United States. No copyright is asserted for these quotations.</p> <p>Some texts quoted in this entry may have copyright restrictions and are reused under Section 107 of the Copyright Act of 1976 (Title 17 of the United States Code) which permits “fair use” of copyrighted materials for purposes such as criticism, comment, scholarship, and research. These texts remain under copyright of their owners. No copyright infringement is intended.</p>
+            <p>Except for materials quoted from other sources, this entry is copyright 2023 by the contributors (Joseph L. Rife, et al.) and the Caesarea City and Port Exploration Project. It is licensed under the Attribution 4.0 International (CC BY 4.0) license.</p> <p>Some texts quoted in this entry may be in the public domain in the United States. No copyright is asserted for these quotations.</p> <p>Some texts quoted in this entry may have copyright restrictions and are reused under Section 107 of the Copyright Act of 1976 (Title 17 of the United States Code) which permits “fair use” of copyrighted materials for purposes such as criticism, comment, scholarship, and research. These texts remain under copyright of their owners. No copyright infringement is intended.</p>
           </licence>
         </availability>
-        <date>2022-10-19-05:00</date>
+        <date>2023-06-30-05:00</date>
       </publicationStmt>
       <seriesStmt>
         <title level="s" xml:lang="en">Caesarea-Maritima.org: A Digital Archive</title>
@@ -255,9 +257,8 @@
         <p/>
       </abstract>
       <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m"> Book
-          of Pilgrimage</title>
-        <ref n="a" target="#bib233-1">6.23-6.28</ref> written by <persName role="author" ref="http://viaf.org/viaf/41413317">Riccoldo da Monte di Croce<ptr/>
-        </persName> in <origDate notBefore="1288" notAfter="1291" period="#crusader #lateIslamic">1288-1291 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/893952">Baghdad</origPlace>.</creation>
+          of Pilgrimage</title> <ref target="#bib233-1">6.23-6.28</ref> written by <persName role="author" ref="http://viaf.org/viaf/41413317">Riccoldo da Monte di Croce<ptr/>
+        </persName> in <origDate notBefore="1288" notAfter="1291" period="#crusader #lateIslamic">1288-1291 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/893952">Baghdad</origPlace>.</creation>
       <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="la">Latin</language>
         <language ana="#caesarea-language-of-original" ident="la">Latin</language>
@@ -270,7 +271,8 @@
         <catRef scheme="#CM-NEAEH" target="#earlyRoman #crusader"/>
       </textClass>
     </profileDesc>
-    <revisionDesc status="draft">
+    <revisionDesc status="published">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2023-06-30-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
     </revisionDesc>
@@ -283,18 +285,18 @@
       <desc type="abstract" xml:id="abstract233-1">
         <quote><placeName>Cesaream</placeName></quote>, <quote><placeName>Cesarea</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/41413317">Riccoldo da Monte di Croce<ptr/>
         </persName>, <title xml:lang="en" ref="" type="uniform" level="m"> Book
-          of Pilgrimage</title> <ref n="a" target="#bib233-1">6.23-6.28</ref>. This passage was written ca. <origDate notBefore="1288" notAfter="1291" period="#crusader #lateIslamic">1288-1291 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/893952">Baghdad</origPlace>.</desc>
-      <desc type="context">Riccolde da Monte di Croce, a learned Dominican friar who taught in
-            Tuscany, took a post under papal commission in Acre (1286/1287), traversed the Holy Land
-            as a pilgrim (1288), and travelled across the Middle East as missionary (1288-1291),
-            ending up in Baghdad under Mongol rule, where he challenged the local adherents of
-            Nestorianism. His account of pilgrimage begins with an annotated itinerary from Acre to
-            Galilee, Judaea, and Phoenicia (1-7), and ends with several essays on the culture,
-            religion, cities, and practices of the peoples of western Asia (8-36). In this passage
-            he describes the northward journey through Caesarea, not without some confusion over
-            historical toponymy. This story of the Cave of the Virgin along the coastal road between
-            Caesarea and Athlit, undoubtedly a local folk tradition, is uniquely attested
-            here.</desc>
+          of Pilgrimage</title> <ref target="#bib233-1">6.23-6.28</ref>. This passage was written ca. <origDate notBefore="1288" notAfter="1291" period="#crusader #lateIslamic">1288-1291 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/893952">Baghdad</origPlace>.</desc>
+      <desc type="context">Riccolde da Monte di Croce was a learned Dominican friar with a varied
+        career. He taught in Tuscany; took a post under papal commission in Acre (1286/1287);
+        traversed the Holy Land as a pilgrim (1288); and traveled across the Middle East as
+        missionary (1288-1291), ending up in Baghdad under Mongol rule, where he challenged the
+        local adherents of Nestorianism. His account of pilgrimage begins with an annotated
+        itinerary from Acre to Galilee, Judaea, and Phoenicia (1-7), and ends with several essays on
+        the culture, religion, cities, and practices of the peoples of western Asia (8-36). In this
+        passage, he describes the northward journey through Caesarea, not without some confusion
+        over historical toponymy. This story of the Cave of the Virgin along the coastal road
+        between Caesarea and Athlit, undoubtedly a local folk tradition, is uniquely attested
+        here.</desc>
       <ab type="edition" xml:lang="la" xml:id="quote233-1">
         <anchor xml:id="testimonia-233.la.1" corresp="#testimonia-233.en.1"/>
         (23) Redeuntes inde venimus iuxta Ramam, civitatem Ioseph, qui sepelivit
@@ -306,23 +308,25 @@
             iuxta in via, que venit de <placeName>Cesarea</placeName> Philippi, et quiesceret super
             lapidem, lapis quasi liquatus et per semet ipsum lectum et concavum se faciens
             occultavit puerum et Mariam et Ioseph, ut non viderent eos quidam insequentes et
-            volentes eos ledere, ut dicunt.<ab type="source" source="#bib233-1"/>
+            volentes eos ledere, ut dicunt.
+      <ab type="source" source="#bib233-1"/>
         <idno type="CTS-URN"/>
         <ref target="https://babel.hathitrust.org/cgi/pt?id=hvd.32044019846799&amp;view=1up&amp;seq=125"/>
         <note xml:lang="en" type="textual">Ed. Laurent 1873</note>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote233-2">
         <anchor xml:id="testimonia-233.en.1" corresp="#testimonia-233.la.1"/>
-        (23) Starting again from there (sc. Emmaus) we came to Rama, city of
-            Joseph, who buried Christ. (24) And then after close to 10 miles (we came) to <placeName>Caesarea</placeName> Philippi, which is on the sea. (25) From there after
-            20 miles (we came) to the castle Cacho. (26) And then approaching Pilgrim’s Castle after
-            18 miles we came to the Cave of the Virgin. (27) The Cave of the Virgin is a pit near
-            the sea on the road that goes from Egypt into Judaea or Galilee. (28) For Joseph wanted
-            to turn away from Judaea and go into Galilee. When he was nearby on the road that goes
-            from <placeName>Caesarea</placeName> Philippi, and he was resting upon a rock, the rock,
-            as though melted, turning itself into a bed on its own, hollowed out, hid the Child and
-            Mary and Joseph, so that anyone pursuing and wanting to harm them could not see them,
-            [or] so the story goes.<note xml:lang="en" type="translation">Trans. J. L. Rife</note>
+        (23) Starting again
+        from there (sc. Emmaus) we came to Rama, city of Joseph, who buried Christ. (24) And then
+        after close to 10 miles (we came) to <placeName>Caesarea</placeName> Philippi, which is on
+        the sea. (25) From there after 20 miles (we came) to the castle Cacho. (26) And then
+        approaching Pilgrim’s Castle after 18 miles we came to the Cave of the Virgin. (27) The Cave
+        of the Virgin is a pit near the sea on the road that goes from Egypt into Judaea or Galilee.
+        (28) For Joseph wanted to turn away from Judaea and go into Galilee. When he was nearby on
+        the road that goes from <placeName>Caesarea</placeName> Philippi, and he was resting upon a
+        rock, the rock, as though melted, turning itself into a bed on its own, hollowed out, hid
+        the Child and Mary and Joseph, so that anyone pursuing and wanting to harm them could not
+        see them, as the story goes.<note xml:lang="en" type="translation">Trans. J. L. Rife</note>
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -354,12 +358,8 @@
       </note>
       <note type="prosopography">
         <p>Jesus Christ</p>
-        <p>Jesus Christ</p>
-        <p>Joseph of Arimathea</p>
         <p>Joseph of Arimathea</p>
         <p>Joseph, father of Jesus</p>
-        <p>Joseph, father of Jesus</p>
-        <p>Mary, mother of Jesus</p>
         <p>Mary, mother of Jesus</p>
       </note>
       <note type="themes">

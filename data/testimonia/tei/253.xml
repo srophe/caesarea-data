@@ -1,9 +1,10 @@
-<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model type="application/xml" href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/srophe/srophe-xQueries/master/Caesarea-Data-Entry-Phase2/testimonia-metadata-entry.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="en" level="a">Epiphanius, <title level="m">Medicine Cabinet, or Against
-               Heresies</title> 73.23.2-4</title>
+        <title xml:lang="en" level="a">Epiphanius, <title level="m">Medicine Cabinet, or Against Heresies</title> 73.23.2-4</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
         <sponsor>Vanderbilt University</sponsor>
         <principal>Joseph L. Rife</principal>
@@ -14,7 +15,7 @@
         <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#dschwartz">Daniel L. Schwartz</editor>
         <editor role="technical" ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</editor>
         <editor role="creator" ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</editor>
-        <respStmt>
+      <respStmt>
           <resp>TEI encoding by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
         </respStmt>
@@ -35,10 +36,10 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/253/tei</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/4.0">
-            <p>Except for materials quoted from other sources, this entry is copyright 2021 by the contributors (Joseph L. Rife, et al.) and the Caesarea City and Port Exploration Project. It is licensed under the Attribution 4.0 International (CC BY 4.0) license.</p> <p>Some texts quoted in this entry may be in the public domain in the United States. No copyright is asserted for these quotations.</p> <p>Some texts quoted in this entry may have copyright restrictions and are reused under Section 107 of the Copyright Act of 1976 (Title 17 of the United States Code) which permits “fair use” of copyrighted materials for purposes such as criticism, comment, scholarship, and research. These texts remain under copyright of their owners. No copyright infringement is intended.</p>
+            <p>Except for materials quoted from other sources, this entry is copyright 2023 by the contributors (Joseph L. Rife, et al.) and the Caesarea City and Port Exploration Project. It is licensed under the Attribution 4.0 International (CC BY 4.0) license.</p> <p>Some texts quoted in this entry may be in the public domain in the United States. No copyright is asserted for these quotations.</p> <p>Some texts quoted in this entry may have copyright restrictions and are reused under Section 107 of the Copyright Act of 1976 (Title 17 of the United States Code) which permits “fair use” of copyrighted materials for purposes such as criticism, comment, scholarship, and research. These texts remain under copyright of their owners. No copyright infringement is intended.</p>
           </licence>
         </availability>
-        <date>2021-06-14-05:00</date>
+        <date>2023-06-30-05:00</date>
       </publicationStmt>
       <seriesStmt>
         <title level="s" xml:lang="en">Caesarea-Maritima.org: A Digital Archive</title>
@@ -253,8 +254,8 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Medicine Cabinet, or Against
-        Heresies</title> <ref n="c" target="#bib253-1">73.23.2-4</ref> written by <persName ref="http://viaf.org/viaf/13651211" role="author">Epiphanius of Salamis</persName> in <origDate notBefore="0374" notAfter="0377" period="#byzantine">374-377 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/707617">Cypriot Salamis</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Medicine Cabinet, or Against Heresies</title> <ref target="#bib253-1">73.23.2-4</ref> written by <persName ref="http://viaf.org/viaf/13651211" role="author">Epiphanius</persName> in <origDate notBefore="0374" notAfter="0377" period="#byzantine">374-377 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/707617">Cypriot
+          Salamis</origPlace>.</creation>
       <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
         <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>
@@ -267,7 +268,8 @@
         <catRef scheme="#CM-NEAEH" target="#byzantine"/>
       </textClass>
     </profileDesc>
-    <revisionDesc status="draft">
+    <revisionDesc status="published">
+      <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2023-06-30-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
     </revisionDesc>
   </teiHeader>
@@ -277,23 +279,25 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/253</idno>
       </ab>
       <desc type="abstract" xml:id="abstract253-1">
-        <quote><placeName>Καισαρείας</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/13651211" role="author">Epiphanius</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Medicine Cabinet, or Against
-               Heresies</title> <ref n="c" target="#bib253-1">73.23.2-4</ref>. This passage was written ca. <origDate notBefore="0374" notAfter="0377" period="#byzantine">374-377 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/707617">Cypriot Salamis</origPlace>.</desc>
-      <desc type="context">Epiphanius, who spent his early life and career as a student and monk
-            in southern Palestine and Egypt, was appointed bishop of Salamis on Cyprus in ca.
-            365-367 C.E., a post he held until his death in 403 C.E. He became a formidable champion
-            of Orthodoxy, repeatedly entering into bitter controversy with the sees at Jerusalem and
-            Alexandria. His Medicine Cabinet (πανάριον, κιβώτιον, panarion, arcula), or Against
-            Heresies (κατὰ αἱρέσεων, adversus haereses), was a long compendium of portraits in
-            wayward sectarianism, stretching from the Greek philosophers and Judaism up to his own
-            time. The aim was to furnish theological and rhetorical antidotes to heresy. It has
-            great historical value for its detailed information on figures of the eastern Church,
-            frequently paraphrasing or quoting from earlier works or otherwise lost documents. In
-            his chapter on the Semi-Arians, Epiphanius discusses the internal conflict during the
-            mid-4th century among Arius’ successors, the Homoiousians, which involved a powerful
-            party lead by Acacius, the formidable bishop of Caesarea.</desc>
+        <quote><placeName>Καισαρείας</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/13651211" role="author">Epiphanius</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Medicine Cabinet, or Against Heresies</title> <ref target="#bib253-1">73.23.2-4</ref>. This passage was written ca. <origDate notBefore="0374" notAfter="0377" period="#byzantine">374-377 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/707617">Cypriot
+          Salamis</origPlace>.</desc>
+      <desc type="context">Epiphanius, who spent his early life and career as a student and monk in
+        southern Palestine and Egypt, was appointed bishop of Salamis on Cyprus in ca. 365-367 C.E.,
+        a post he held until his death in 403 C.E. He became a formidable champion of Orthodoxy,
+        repeatedly entering into bitter controversy with the sees at Jerusalem and Alexandria. His
+          <title>Medicine Cabinet</title> (πανάριον, κιβώτιον, <foreign>panarion</foreign>,
+          <foreign>arcula</foreign>), or <title>Against Heresies</title> (κατὰ αἱρέσεων,
+          <foreign>adversus haereses</foreign>), was a long compendium of portraits in wayward
+        sectarianism, stretching from the Greek philosophers and Judaism up to his own time. The aim
+        was to furnish theological and rhetorical antidotes to heresy. It has great historical value
+        for its detailed information on figures of the eastern Church, frequently paraphrasing or
+        quoting from earlier works or otherwise lost documents. In his chapter on the Semi-Arians,
+        Epiphanius discusses the internal conflict during the mid-4th century among Arius’
+        successors, the Homoiousians, which involved a powerful party lead by Acacius, the
+        formidable bishop of Caesarea.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote253-1">
-        <anchor xml:id="testimonia-253.grc.1" corresp="#testimonia-253.en.1"/>(2) διηνέχθησαν οὖν οἱ αὐτοὶ πάλιν πρὸς τοὺς σὺν αὐτοῖς διὰ μίση τινῶν
+        <anchor xml:id="testimonia-253.grc.1" corresp="#testimonia-253.en.1"/>
+        (2) διηνέχθησαν οὖν οἱ αὐτοὶ πάλιν πρὸς τοὺς σὺν αὐτοῖς διὰ μίση τινῶν
             καὶ ζῆλον ἀνθρώπινον ἐρεσχελοῦντες ἑκάτερος πρὸς ἑκάτερον καὶ φιλαρχοῦντες, καὶ
             ἐκρατύνθη τότε τὸ μέρος τούτων τῶν Ἡμιαρείων, τῶν περὶ Βασίλειον φημὶ καὶ Γεώργιον καὶ
             Σιλουανὸν καὶ λοιπούς· &lt;…&gt; ἔχοντες μεθ’ ἑαυτῶν σαρκὸς δεξιάν, Κωνστάντιον τὸν
@@ -305,27 +309,29 @@
             Λαοδικέα καὶ Σιλουανὸν τὸν Ταρσέα, Ἐλεύσιόν τε τὸν Κυζίκου, Μακεδόνιον τὸν
             Κωνσταντινουπολίτην, Εὐστάθιον τὸν Σεβαστείας, καὶ Ἀνιανὸν τὸν Ἀντιοχέα, τότε
             κατασταθέντα, κατ’ αὐτῶν &lt;τε&gt; ἑαυτὸν στρατεύσας ὁ αὐτὸς Ἀκάκιος πολλὴν φύρσιν
-            εἰργάσατο.<ab type="source" source="#bib253-1"/>
+            εἰργάσατο.
+      <ab type="source" source="#bib253-1"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
         <note xml:lang="en" type="textual">Ed. Holl 1933</note>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote253-2">
-        <anchor xml:id="testimonia-253.en.1" corresp="#testimonia-253.grc.1"/>(2) And so the (Semi-Arians) fell out with their allies, and they
-            quarreled with each other and competed for leadership because of the hatred of some of
-            them and from jealousy, that human emotion. And at that time the party of these
-            Semi-Arians—I mean Basil, George, Silvanus, and the rest of them—were in control. But
-            &lt;the others&gt;—the party of Eudoxius, George of Alexandria, and Euzoeus of
-            Antioch—&lt;opposed them&gt;, having (on their side) the right hand of human flesh, the
-            emperor Constantius. (3) Although they flexed their muscles a lot, the party of Basil
-            and George of Laodicea was humiliated. Still others of them broken with this faction and
-            confederacy, and the Arian movement became three groups. (4) For because of his envy and
-            hatred of Cyril of Jerusalem, Acacius of <placeName>Caesarea</placeName> in Palestine,
-            along with Melitius, Uranius of Tyre, and Eutychius of Eluetheropolis opposed the party
-            of Basil, George of Laodicea, Silvanus of Tarsus, Eleusius of Cyzicus, Macedonius of
-            Constantinople, Eustathius of Sebaste, and the newly consecrated bishop of Antioch,
-            Anianus. &lt;And&gt; by leading his troops against them, Acacius caused a great deal of
-               confusion.<ab type="source" source="#bib253-2"/>
+        <anchor xml:id="testimonia-253.en.1" corresp="#testimonia-253.grc.1"/>
+        (2) And so the
+        (Semi-Arians) fell out with their allies, and they quarreled with each other and competed
+        for leadership because of the hatred of some of them and from jealousy, that human emotion.
+        And at that time the party of these Semi-Arians—I mean Basil, George, Silvanus, and the rest
+        of them—were in control. But &lt;the others&gt;—the party of Eudoxius, George of Alexandria,
+        and Euzoeus of Antioch—&lt;opposed them&gt;, having (on their side) the right hand of human
+        flesh, the emperor Constantius. (3) Although they flexed their muscles a lot, the party of
+        Basil and George of Laodicea was humiliated. Still others of them broke with this faction
+        and confederacy, and the Arian movement became three groups. (4) For because of his envy and
+        hatred of Cyril of Jerusalem, Acacius of <placeName>Caesarea</placeName> in Palestine, along
+        with Melitius, Uranius of Tyre, and Eutychius of Eluetheropolis opposed the party of Basil,
+        George of Laodicea, Silvanus of Tarsus, Eleusius of Cyzicus, Macedonius of Constantinople,
+        Eustathius of Sebaste, and the newly consecrated bishop of Antioch, Anianus. &lt;And&gt; by
+        leading his troops against them, Acacius caused a great deal of confusion.
+      <ab type="source" source="#bib253-2"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
         <note xml:lang="en" type="translation">Adapted from Williams 2013</note>
@@ -351,7 +357,6 @@
         <p>Constantinople</p>
         <p>Cyzicus</p>
         <p>Eleutheropolis</p>
-        <p>Jerusalem</p>
         <p>Jerusalem</p>
         <p>Laodicea in Syria</p>
         <p>Sebaste</p>
