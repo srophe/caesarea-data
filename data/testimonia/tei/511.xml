@@ -294,7 +294,7 @@
             <p/>
          </abstract>
          <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Treasury of the Orthodox
-               Faith</title> <ref target="#bib511-1">5.7</ref> written by <persName role="author" ref="http://viaf.org/viaf/173145785">Nicetas
+               Faith</title> <ref n="a" target="#bib511-1">5.7</ref> written by <persName role="author" ref="http://viaf.org/viaf/173145785">Nicetas
                Choniates</persName> in <origDate notBefore="1204" notAfter="1217" period="#crusader">ca. 1204-1217 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/511268">Nicaea</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>

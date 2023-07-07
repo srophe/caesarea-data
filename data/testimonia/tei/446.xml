@@ -267,7 +267,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Theodosian Code</title> <ref target="#bib446-1">2.33.1</ref> written by <persName ref="http://viaf.org/viaf/46929243" role="author">Theodosius II</persName> in <origDate notBefore="0429" notAfter="0438" period="#byzantine">429-438 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Theodosian Code</title> <ref n="a" target="#bib446-1">2.33.1</ref> written by <persName ref="http://viaf.org/viaf/46929243" role="author">Theodosius II</persName> in <origDate notBefore="0429" notAfter="0438" period="#byzantine">429-438 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="la">Latin</language>
         <language ana="#caesarea-language-of-original" ident="la">Latin</language>

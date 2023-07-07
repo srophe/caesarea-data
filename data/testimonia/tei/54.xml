@@ -259,7 +259,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Library</title> <ref target="#bib54-1">88.66b30-67a11</ref> written by <persName ref="http://viaf.org/viaf/14775071" role="author">Photius</persName> in <origDate notBefore="0845" notAfter="0855" period="#earlyIslamic">845-855 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Library</title> <ref n="d" target="#bib54-1">88.66b30-67a11</ref> written by <persName ref="http://viaf.org/viaf/14775071" role="author">Photius</persName> in <origDate notBefore="0845" notAfter="0855" period="#earlyIslamic">845-855 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
       <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
         <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>

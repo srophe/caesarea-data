@@ -258,7 +258,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Speeches</title> <ref target="#bib434-1">3.43</ref> written by <persName ref="http://viaf.org/viaf/88917599" role="author">Choricius of Gaza</persName> in <origDate notBefore="0534" notAfter="0535" period="#byzantine">534-535 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Speeches</title> <ref n="d" target="#bib434-1">3.43</ref> written by <persName ref="http://viaf.org/viaf/88917599" role="author">Choricius of Gaza</persName> in <origDate notBefore="0534" notAfter="0535" period="#byzantine">534-535 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
         <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>

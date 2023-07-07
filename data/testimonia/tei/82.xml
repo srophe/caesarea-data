@@ -267,7 +267,7 @@
          <abstract>
             <p/>
          </abstract>
-        <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Homilies</title> <ref target="#bib82-1">1.20.1-1.20.3</ref> written by <persName role="author" ref="http://viaf.org/viaf/188340627">Pseudo-Clement of Rome</persName> in <origDate notBefore="0300" notAfter="0350" period="#lateRoman #byzantine">ca. 300-350 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</creation>
+        <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Homilies</title> <ref n="b" target="#bib82-1">1.20.1-1.20.3</ref> written by <persName role="author" ref="http://viaf.org/viaf/188340627">Pseudo-Clement of Rome</persName> in <origDate notBefore="0300" notAfter="0350" period="#lateRoman #byzantine">ca. 300-350 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
         <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>

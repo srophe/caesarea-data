@@ -256,7 +256,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" type="uniform" level="m">Letters</title> <ref target="#bib48-1">11</ref> written by <persName ref="http://viaf.org/viaf/25393339 " role="author">Apollonius of Tyana</persName> in <origDate notBefore="0045" notAfter="0090" period="#nabateanKingdom #earlyRoman #herodian #middleNabatean">45-90 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/837">Asia Minor</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" type="uniform" level="m">Letters</title> <ref n="a" target="#bib48-1">11</ref> written by <persName ref="http://viaf.org/viaf/25393339 " role="author">Apollonius of Tyana</persName> in <origDate notBefore="0045" notAfter="0090" period="#nabateanKingdom #earlyRoman #herodian #middleNabatean">45-90 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/837">Asia Minor</origPlace>.</creation>
       <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
         <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>

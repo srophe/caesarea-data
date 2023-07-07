@@ -276,7 +276,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Quantity</title> <ref target="#bib482-1">299.16-21</ref> written by <persName ref="http://viaf.org/viaf/34444948" role="author">George
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Quantity</title> <ref n="a" target="#bib482-1">299.16-21</ref> written by <persName ref="http://viaf.org/viaf/34444948" role="author">George
                Choeroboscus</persName> in <origDate notBefore="820" notAfter="1100" period="#earlyIslamic #crusader">ca. 820-1100 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>

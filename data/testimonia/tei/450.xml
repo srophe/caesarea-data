@@ -260,7 +260,7 @@
             <p/>
          </abstract>
          <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Praise for the Emperor
-               Anastasius</title> <ref target="#bib450-1">180-192</ref> written by <persName ref=" http://viaf.org/viaf/76294069" role="author">Priscian</persName> in <origDate when="0512" period="#byzantine">512 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
+               Anastasius</title> <ref n="a" target="#bib450-1">180-192</ref> written by <persName ref=" http://viaf.org/viaf/76294069" role="author">Priscian</persName> in <origDate when="0512" period="#byzantine">512 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="la">Latin</language>
         <language ana="#caesarea-language-of-original" ident="la">Latin</language>

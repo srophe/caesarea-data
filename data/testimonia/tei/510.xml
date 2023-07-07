@@ -291,7 +291,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Roman Law of the Visigoths</title> <ref target="#bib510-1">70</ref> written by <persName role="author" ref="http://viaf.org/viaf/42649883">Alaric II</persName> in <origDate when="0506" period="#byzantine">506 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/246201">Atura</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Roman Law of the Visigoths</title> <ref n="a" target="#bib510-1">70</ref> written by <persName role="author" ref="http://viaf.org/viaf/42649883">Alaric II</persName> in <origDate when="0506" period="#byzantine">506 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/246201">Atura</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="la">Latin</language>
         <language ana="#caesarea-language-of-original" ident="la">Latin</language>

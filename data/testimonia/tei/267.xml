@@ -254,7 +254,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref target="#bib267-1">52.7-10</ref> written by <persName role="author" ref="http://viaf.org/viaf/54944687">Theophanes the Confessor</persName> in <origDate notBefore="0810" notAfter="0814" period="#earlyIslamic">ca. 810-814 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/511218">Cyzicus</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref n="f" target="#bib267-1">52.7-10</ref> written by <persName role="author" ref="http://viaf.org/viaf/54944687">Theophanes the Confessor</persName> in <origDate notBefore="0810" notAfter="0814" period="#earlyIslamic">ca. 810-814 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/511218">Cyzicus</origPlace>.</creation>
       <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
         <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>

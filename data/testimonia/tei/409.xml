@@ -260,7 +260,7 @@
             <p/>
          </abstract>
          <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Letter to Demetrous,
-               P.Lips.</title> <ref target="#bib409-1">1.110</ref> written by <persName ref="" role="author">Sarapion</persName> in <origDate notBefore="0200" notAfter="0399" period="#lateRoman #byzantine">ca. 200-399 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</creation>
+               P.Lips.</title> <ref n="a" target="#bib409-1">1.110</ref> written by <persName ref="" role="author">Sarapion</persName> in <origDate notBefore="0200" notAfter="0399" period="#lateRoman #byzantine">ca. 200-399 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
         <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>

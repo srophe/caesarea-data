@@ -255,7 +255,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref target="#bib89-1">527</ref> written by <persName role="author" ref="http://viaf.org/viaf/88873163">Hippolytus of Rome</persName> in <origDate notBefore="0234" notAfter="0235" period="#lateRoman">234-235 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref n="a" target="#bib89-1">527</ref> written by <persName role="author" ref="http://viaf.org/viaf/88873163">Hippolytus of Rome</persName> in <origDate notBefore="0234" notAfter="0235" period="#lateRoman">234-235 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="la">Latin</language>
         <language ana="#caesarea-language-of-original" ident="la">Latin</language>

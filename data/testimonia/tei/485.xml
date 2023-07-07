@@ -276,7 +276,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Introduction to Grammar</title> <ref target="#bib485-1">2.457.5-9</ref> written by <persName role="author" ref="http://viaf.org/viaf/316421957">Gennadius
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Introduction to Grammar</title> <ref n="a" target="#bib485-1">2.457.5-9</ref> written by <persName role="author" ref="http://viaf.org/viaf/316421957">Gennadius
                Scholarius</persName> in <origDate notBefore="1425" notAfter="1475" period="#lateIslamic">ca. 1425-1475 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>

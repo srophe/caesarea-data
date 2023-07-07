@@ -264,7 +264,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Digest</title> <ref target="#bib79-1">50.15.8.7</ref> written by <persName ref="https://viaf.org/viaf/88881722" role="author">Justinian I</persName> in <origDate notBefore="0530" notAfter="0533" period="#byzantine">530-533 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Digest</title> <ref n="b" target="#bib79-1">50.15.8.7</ref> written by <persName ref="https://viaf.org/viaf/88881722" role="author">Justinian I</persName> in <origDate notBefore="0530" notAfter="0533" period="#byzantine">530-533 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
       <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="la">Latin</language>
         <language ana="#caesarea-language-of-original" ident="la">Latin</language>

@@ -254,7 +254,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Exhibit of the Whole World and its Peoples</title> <ref target="#bib226-1">31</ref> written by <persName role="author">Unknown</persName> in <origDate notBefore="0500" notAfter="0600" period="#byzantine">500-600 C.E.</origDate>. This work was likely written in <origPlace/>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Exhibit of the Whole World and its Peoples</title> <ref n="b" target="#bib226-1">31</ref> written by <persName role="author">Unknown</persName> in <origDate notBefore="0500" notAfter="0600" period="#byzantine">500-600 C.E.</origDate>. This work was likely written in <origPlace/>.</creation>
       <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="la">Latin</language>
         <language ana="#caesarea-language-of-original" ident="la">Latin</language>

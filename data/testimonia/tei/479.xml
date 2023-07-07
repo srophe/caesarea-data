@@ -292,7 +292,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Commentary on Daniel</title> <ref target="#bib479-1">9.1484.2-26</ref> written by <persName role="author" ref="http://viaf.org/viaf/77111352">Theodoret of
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Commentary on Daniel</title> <ref n="a" target="#bib479-1">9.1484.2-26</ref> written by <persName role="author" ref="http://viaf.org/viaf/77111352">Theodoret of
                Cyrrhus</persName> in <origDate notBefore="0433" notAfter="0433" period="#byzantine">ca. 433 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/658446">Cyrrhus</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>

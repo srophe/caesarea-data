@@ -291,7 +291,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Church History</title> <ref target="#bib457-1">2.25.1-2.25.3</ref> written by <persName role="author" ref="http://viaf.org/viaf/305409681">Sozomen</persName> in <origDate notBefore="440" notAfter="450" period="#byzantine">ca. 440-450 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Church History</title> <ref n="b" target="#bib457-1">2.25.1-2.25.3</ref> written by <persName role="author" ref="http://viaf.org/viaf/305409681">Sozomen</persName> in <origDate notBefore="440" notAfter="450" period="#byzantine">ca. 440-450 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
         <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>

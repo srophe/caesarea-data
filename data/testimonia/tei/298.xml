@@ -256,7 +256,7 @@
         <p/>
       </abstract>
       <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Short
-          Description of the Holy Places</title> <ref target="#bib298-1">30</ref> written by <persName ref="http://viaf.org/viaf/306432747" role="author">John Phocas</persName> in <origDate notBefore="1175" notAfter="1195" period="#crusader">1175-1195 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</creation>
+          Description of the Holy Places</title> <ref n="a" target="#bib298-1">30</ref> written by <persName ref="http://viaf.org/viaf/306432747" role="author">John Phocas</persName> in <origDate notBefore="1175" notAfter="1195" period="#crusader">1175-1195 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</creation>
       <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
         <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>

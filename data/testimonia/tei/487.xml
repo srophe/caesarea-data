@@ -291,7 +291,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Medical Practice</title> <ref target="#bib487-1">2.68</ref> written by <persName role="author" ref="http://viaf.org/viaf/79115278">Aëtius of Amida</persName> in <origDate notBefore="0490" notAfter="0520" period="#byzantine">ca. 490-520 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/930907033">Eastern
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Medical Practice</title> <ref n="a" target="#bib487-1">2.68</ref> written by <persName role="author" ref="http://viaf.org/viaf/79115278">Aëtius of Amida</persName> in <origDate notBefore="0490" notAfter="0520" period="#byzantine">ca. 490-520 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/930907033">Eastern
                Mediterranean</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>

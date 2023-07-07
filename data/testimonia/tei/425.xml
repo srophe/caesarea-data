@@ -258,7 +258,7 @@
          <abstract>
             <p/>
          </abstract>
-        <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Natural History</title> <ref target="#bib425-1">6.39.213</ref> written by <persName ref="http://viaf.org/viaf/100219162" role="author">Pliny the Elder</persName> in <origDate notBefore="0070" notAfter="0077" period="#nabateanKingdom #earlyRoman #herodian">70-77 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</creation>
+        <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Natural History</title> <ref n="b" target="#bib425-1">6.39.213</ref> written by <persName ref="http://viaf.org/viaf/100219162" role="author">Pliny the Elder</persName> in <origDate notBefore="0070" notAfter="0077" period="#nabateanKingdom #earlyRoman #herodian">70-77 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="la">Latin</language>
         <language ana="#caesarea-language-of-original" ident="la">Latin</language>

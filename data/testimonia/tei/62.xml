@@ -283,7 +283,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Piacenza Itinerary </title> <ref target="#bib62-1">R 46</ref> written by <persName ref="" role="author">Unknown</persName> in <origDate notBefore="570" notAfter="580" period="#byzantine">ca. 570-580 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/383741">Piacenza</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Piacenza Itinerary </title> <ref n="a" target="#bib62-1">R 46</ref> written by <persName ref="" role="author">Unknown</persName> in <origDate notBefore="570" notAfter="580" period="#byzantine">ca. 570-580 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/383741">Piacenza</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="la">Latin</language>
         <language ana="#caesarea-language-of-original" ident="la">Latin</language>

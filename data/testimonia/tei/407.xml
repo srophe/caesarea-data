@@ -258,7 +258,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Itinerary, P.Zenon</title> <ref target="#bib407-1">59004.1-13</ref> written by <persName ref="" role="author">Zenon</persName> in <origDate when="-0259" period="#earlyHellenistic #hellenistic #earlyNabatean">ca. 259 B.C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Syria-Palestine</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Itinerary, P.Zenon</title> <ref n="a" target="#bib407-1">59004.1-13</ref> written by <persName ref="" role="author">Zenon</persName> in <origDate when="-0259" period="#earlyHellenistic #hellenistic #earlyNabatean">ca. 259 B.C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Syria-Palestine</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
         <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>

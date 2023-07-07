@@ -255,7 +255,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Geography</title> <ref target="#bib305-1">5.16.1-2</ref> written by <persName role="author" ref=" http://viaf.org/viaf/54152998">Claudius Ptolemy</persName> in <origDate notBefore="0130" notAfter="0170" period="#earlyRoman #lateRoman">130-170 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/727070">Alexandria</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Geography</title> <ref n="a" target="#bib305-1">5.16.1-2</ref> written by <persName role="author" ref=" http://viaf.org/viaf/54152998">Claudius Ptolemy</persName> in <origDate notBefore="0130" notAfter="0170" period="#earlyRoman #lateRoman">130-170 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/727070">Alexandria</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
         <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>

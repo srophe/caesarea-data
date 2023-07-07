@@ -258,7 +258,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Map of the World</title> <ref target="#bib428-1">6</ref> written by <persName ref="http://viaf.org/viaf/69331086 " role="author">Julius Honorius</persName> in <origDate notBefore="0350" notAfter="0550" period="#byzantine">ca. 350-550 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Rome</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Map of the World</title> <ref n="a" target="#bib428-1">6</ref> written by <persName ref="http://viaf.org/viaf/69331086 " role="author">Julius Honorius</persName> in <origDate notBefore="0350" notAfter="0550" period="#byzantine">ca. 350-550 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Rome</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="la">Latin</language>
         <language ana="#caesarea-language-of-original" ident="la">Latin</language>

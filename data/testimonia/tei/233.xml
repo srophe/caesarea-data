@@ -257,7 +257,7 @@
         <p/>
       </abstract>
       <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m"> Book
-          of Pilgrimage</title> <ref target="#bib233-1">6.23-6.28</ref> written by <persName role="author" ref="http://viaf.org/viaf/41413317">Riccoldo da Monte di Croce</persName> in <origDate notBefore="1288" notAfter="1291" period="#crusader #lateIslamic">1288-1291 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/893952">Baghdad</origPlace>.</creation>
+          of Pilgrimage</title> <ref n="a" target="#bib233-1">6.23-6.28</ref> written by <persName role="author" ref="http://viaf.org/viaf/41413317">Riccoldo da Monte di Croce</persName> in <origDate notBefore="1288" notAfter="1291" period="#crusader #lateIslamic">1288-1291 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/893952">Baghdad</origPlace>.</creation>
       <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="la">Latin</language>
         <language ana="#caesarea-language-of-original" ident="la">Latin</language>

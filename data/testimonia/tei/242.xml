@@ -254,7 +254,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref target="#bib242-1">11.25</ref> written by <persName role="author" ref="http://viaf.org/viaf/88969561">John Malalas</persName> in <origDate notBefore="0530" notAfter="0532" period="#byzantine">530-532 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/658381">Antioch on the
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref n="e" target="#bib242-1">11.25</ref> written by <persName role="author" ref="http://viaf.org/viaf/88969561">John Malalas</persName> in <origDate notBefore="0530" notAfter="0532" period="#byzantine">530-532 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/658381">Antioch on the
           Orontes</origPlace>.</creation>
       <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>

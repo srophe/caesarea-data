@@ -275,7 +275,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Life of Porphyry</title> <ref target="#bib467-1">32-34</ref> written by <persName role="author" ref="http://viaf.org/viaf/118351825">Mark the Deacon</persName> in <origDate notBefore="0420" notAfter="0450" period="#byzantine">ca. 420-450 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687902">Gaza</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Life of Porphyry</title> <ref n="c" target="#bib467-1">32-34</ref> written by <persName role="author" ref="http://viaf.org/viaf/118351825">Mark the Deacon</persName> in <origDate notBefore="0420" notAfter="0450" period="#byzantine">ca. 420-450 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687902">Gaza</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
         <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>

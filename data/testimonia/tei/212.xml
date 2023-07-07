@@ -267,7 +267,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Holy Pilgrimages</title> <ref target="#bib212-1">7-9</ref> written by <persName role="author">Unknown</persName> in <origDate notBefore="1229" notAfter="1239" period="#crusader">1229-1239 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Holy Pilgrimages</title> <ref n="a" target="#bib212-1">7-9</ref> written by <persName role="author">Unknown</persName> in <origDate notBefore="1229" notAfter="1239" period="#crusader">1229-1239 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="fro">Old French</language>
         <language ana="#caesarea-language-of-original" ident="fro">Old French</language>

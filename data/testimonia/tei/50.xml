@@ -260,7 +260,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">History</title> <ref target="#bib50-1">14.8.11-14.8.12</ref> written by <persName ref="http://viaf.org/viaf/89594750" role="author">Ammianus
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">History</title> <ref n="a" target="#bib50-1">14.8.11-14.8.12</ref> written by <persName ref="http://viaf.org/viaf/89594750" role="author">Ammianus
                Marcellinus</persName> in <origDate notBefore="0380" notAfter="0390" period="#byzantine">380-390 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</creation>
       <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="la">Latin</language>

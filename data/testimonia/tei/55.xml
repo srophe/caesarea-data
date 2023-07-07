@@ -259,7 +259,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Secret History</title> <ref target="#bib55-1">27.26-27.31</ref> written by <persName ref="http://viaf.org/viaf/100172302" role="author">Procopius of Caesarea</persName> in <origDate notBefore="0550" notAfter="0560" period="#byzantine">550-560 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Secret History</title> <ref n="b" target="#bib55-1">27.26-27.31</ref> written by <persName ref="http://viaf.org/viaf/100172302" role="author">Procopius of Caesarea</persName> in <origDate notBefore="0550" notAfter="0560" period="#byzantine">550-560 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
       <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
         <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>

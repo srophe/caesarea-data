@@ -255,7 +255,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Homily on 1 Samuel</title> <ref target="#bib332-1">1.1</ref> written by <persName role="author">Origen</persName> in <origDate notBefore="0243" notAfter="0253" period="#lateRoman">243-253 C.E.</origDate>. This work was likely written in <origPlace>Caesarea</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Homily on 1 Samuel</title> <ref n="a" target="#bib332-1">1.1</ref> written by <persName role="author">Origen</persName> in <origDate notBefore="0243" notAfter="0253" period="#lateRoman">243-253 C.E.</origDate>. This work was likely written in <origPlace>Caesarea</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
         <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>

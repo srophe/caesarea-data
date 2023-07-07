@@ -260,7 +260,7 @@
             <p/>
          </abstract>
          <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Panegyric to the Emperor
-               Anastasius</title> <ref target="#bib445-1">19</ref> written by <persName ref="http://viaf.org/viaf/48159479" role="author">Procopius of Gaza</persName> in <origDate notBefore="0500" notAfter="0525" period="#byzantine">500-525 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687902">Gaza</origPlace>.</creation>
+               Anastasius</title> <ref n="a" target="#bib445-1">19</ref> written by <persName ref="http://viaf.org/viaf/48159479" role="author">Procopius of Gaza</persName> in <origDate notBefore="0500" notAfter="0525" period="#byzantine">500-525 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687902">Gaza</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
         <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>

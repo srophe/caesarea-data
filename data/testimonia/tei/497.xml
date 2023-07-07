@@ -292,7 +292,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">The Collector </title> <ref target="#bib497-1">92.20-27</ref> written by <persName role="author" ref="http://viaf.org/viaf/77111352">Theodoret of
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">The Collector </title> <ref n="a" target="#bib497-1">92.20-27</ref> written by <persName role="author" ref="http://viaf.org/viaf/77111352">Theodoret of
                Cyrrhus</persName> in <origDate when="0447" period="#byzantine">447 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/658446">Cyrrhus</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>

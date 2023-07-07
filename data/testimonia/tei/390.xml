@@ -257,7 +257,7 @@
             <p/>
          </abstract>
          <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">The
-               Holy Land</title> <ref target="#bib390-1">4.7-4.12</ref> written by <persName role="author">Theodosius</persName> in <origDate notBefore="0510" notAfter="0540" period="#byzantine">510-540 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</creation>
+               Holy Land</title> <ref n="a" target="#bib390-1">4.7-4.12</ref> written by <persName role="author">Theodosius</persName> in <origDate notBefore="0510" notAfter="0540" period="#byzantine">510-540 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="la">Latin</language>
         <language ana="#caesarea-language-of-original" ident="la">Latin</language>

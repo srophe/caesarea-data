@@ -316,7 +316,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">The Life of Severus</title> <ref target="#bib514-1">98</ref> written by <persName ref="http://viaf.org/viaf/13590360" role="author">Zachariah of
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">The Life of Severus</title> <ref n="b" target="#bib514-1">98</ref> written by <persName ref="http://viaf.org/viaf/13590360" role="author">Zachariah of
                Mytilene</persName> in <origDate notBefore="0510" notAfter="0530" period="#byzantine">510s-520s</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="syr">Syriac</language>

@@ -259,7 +259,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Dialog on the Life of St. John Chrysostom</title> <ref target="#bib158-1">20.143-157</ref> written by <persName ref="http://viaf.org/viaf/61550437" role="author">Palladius of Aspuna</persName> in <origDate notBefore="0405" notAfter="0408" period="#byzantine">ca. 405-408 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/23296898">Hellenopolis</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Dialog on the Life of St. John Chrysostom</title> <ref n="a" target="#bib158-1">20.143-157</ref> written by <persName ref="http://viaf.org/viaf/61550437" role="author">Palladius of Aspuna</persName> in <origDate notBefore="0405" notAfter="0408" period="#byzantine">ca. 405-408 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/23296898">Hellenopolis</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
         <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>

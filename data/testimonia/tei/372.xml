@@ -259,7 +259,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Commentary on Joel</title> <ref target="#bib372-1">2.970C-D</ref> written by <persName ref="http://viaf.org/viaf/175367750" role="author">Jerome</persName> in <origDate when="0406" period="#byzantine">406 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Commentary on Joel</title> <ref n="a" target="#bib372-1">2.970C-D</ref> written by <persName ref="http://viaf.org/viaf/175367750" role="author">Jerome</persName> in <origDate when="0406" period="#byzantine">406 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="la">Latin</language>
         <language ana="#caesarea-language-of-original" ident="la">Latin</language>

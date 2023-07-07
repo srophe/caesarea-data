@@ -259,7 +259,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Antonine Itinerary</title> <ref target="#bib426-1">147.1-154.5</ref> written by <persName ref="" role="author">Unknown</persName> in <origDate notBefore="0200" notAfter="0222" period="#lateRoman">200-222 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Antonine Itinerary</title> <ref n="a" target="#bib426-1">147.1-154.5</ref> written by <persName ref="" role="author">Unknown</persName> in <origDate notBefore="0200" notAfter="0222" period="#lateRoman">200-222 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="la">Latin</language>
         <language ana="#caesarea-language-of-original" ident="la">Latin</language>

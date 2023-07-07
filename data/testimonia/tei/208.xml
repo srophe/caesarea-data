@@ -291,7 +291,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Life of Melania the Younger</title> <ref target="#bib208-1">58-59</ref> written by <persName role="author" ref="http://viaf.org/viaf/309486290">Gerontius</persName> in <origDate notBefore="0452" notAfter="0453" period="#byzantine">ca. 452-453 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687928">Jerusalem</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Life of Melania the Younger</title> <ref n="a" target="#bib208-1">58-59</ref> written by <persName role="author" ref="http://viaf.org/viaf/309486290">Gerontius</persName> in <origDate notBefore="0452" notAfter="0453" period="#byzantine">ca. 452-453 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687928">Jerusalem</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
         <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>

@@ -258,7 +258,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Annals</title> <ref target="#bib421-1">12.54</ref> written by <persName ref="http://viaf.org/viaf/100226923" role="author">Tacitus</persName> in <origDate notBefore="0117" notAfter="0120" period="#earlyRoman">117-120 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Annals</title> <ref n="a" target="#bib421-1">12.54</ref> written by <persName ref="http://viaf.org/viaf/100226923" role="author">Tacitus</persName> in <origDate notBefore="0117" notAfter="0120" period="#earlyRoman">117-120 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="la">Latin</language>
         <language ana="#caesarea-language-of-original" ident="la">Latin</language>

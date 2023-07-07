@@ -277,7 +277,7 @@
             <p/>
          </abstract>
          <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Great Dictionary of Word
-           Origins</title> <ref target="#bib483-1">498.7-15</ref> written by <persName ref="" role="author">Unknown</persName> in <origDate notBefore="1125" notAfter="1175" period="#crusader">ca. 1125-1175 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
+           Origins</title> <ref n="a" target="#bib483-1">498.7-15</ref> written by <persName ref="" role="author">Unknown</persName> in <origDate notBefore="1125" notAfter="1175" period="#crusader">ca. 1125-1175 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
         <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>

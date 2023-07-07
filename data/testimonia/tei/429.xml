@@ -258,7 +258,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Spiritual Meadow</title> <ref target="#bib429-1">131</ref> written by <persName ref="http://viaf.org/viaf/69168180" role="author">John Moschus</persName> in <origDate notBefore="0610" notAfter="0619" period="#byzantine">610-619 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Spiritual Meadow</title> <ref n="a" target="#bib429-1">131</ref> written by <persName ref="http://viaf.org/viaf/69168180" role="author">John Moschus</persName> in <origDate notBefore="0610" notAfter="0619" period="#byzantine">610-619 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
         <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>
