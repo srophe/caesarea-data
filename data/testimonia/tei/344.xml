@@ -255,7 +255,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Letter</title> <ref target="#bib344-1">87</ref> written by <persName role="author" ref="http://viaf.org/viaf/305214868">John Chrysostom</persName> in <origDate when="0404" period="#byzantine">404 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/629013">Kokousos</origPlace>.</creation>
+        <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Letters</title> <ref target="#bib344-1">87</ref> written by <persName role="author" ref="http://viaf.org/viaf/305214868">John Chrysostom</persName> in <origDate when="0404" period="#byzantine">404 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/629013">Kokousos</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
         <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>

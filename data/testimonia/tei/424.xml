@@ -258,7 +258,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Synecdemus</title> <ref target="#bib424-1">717.8-719.11</ref> written by <persName ref="" role="author">Hierocles</persName> in <origDate notBefore="0527" notAfter="0535" period="#byzantine">527-535 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Travel Guide</title> <ref target="#bib424-1">717.8-719.11</ref> written by <persName ref="" role="author">Hierocles</persName> in <origDate notBefore="0527" notAfter="0535" period="#byzantine">527-535 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
         <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>
