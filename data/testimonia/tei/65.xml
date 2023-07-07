@@ -269,7 +269,7 @@
         <classCode scheme="https://distributed-text-services.github.io/specifications">
           <idno xml:base="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=" type="CTS-URN">urn:cts:greekLit:tlg0031.tlg005:6.5</idno>
         </classCode>
-        <catRef scheme="#CM-Testimonia-Type" target=""/>
+        <catRef scheme="#CM-Testimonia-Type" target="#indirect"/>
         <catRef scheme="#CM-NEAEH" target="#earlyRoman"/>
       </textClass>
     </profileDesc>
