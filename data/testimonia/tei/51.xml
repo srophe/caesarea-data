@@ -4,7 +4,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="en" level="a">Wilbrand of Oldenburg, <title level="m">Journey in the Holy Land </title> 2.2-2.3</title>
+            <title xml:lang="en" level="a">Wilbrand of Oldenburg, <title level="m">Journey in the Holy Land</title> 2.2-2.3</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
             <sponsor>Vanderbilt University</sponsor>
             <principal>Joseph L. Rife</principal>
@@ -280,7 +280,7 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/51</idno>
          </ab>
          <desc type="abstract" xml:id="abstract51-1">
-        <quote><placeName>Cesaream</placeName></quote>, <quote><placeName>Stratonis</placeName></quote>, <quote><placeName>Cesarea</placeName></quote>, <quote><placeName>Caesarea</placeName></quote>, and <quote><placeName>Strato</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/398143">Wilbrand of Oldenburg</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Journey in the Holy Land</title> <ref target="#bib51-1">2.2-2.3</ref>. This passage was written ca. <origDate notBefore="1211" notAfter="1212" period="#crusader">1211-1212 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
+        <quote><placeName>Cesaream</placeName></quote>, <quote><placeName>Stratonis</placeName></quote>, <quote><placeName>Cesarea</placeName></quote>, <quote><placeName>Caesarea</placeName></quote>, and <quote><placeName>Strato</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/398143">Wilbrand of Oldenburg</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Journey in the Holy Land</title> <ref n="a" target="#bib51-1">2.2-2.3</ref>. This passage was written ca. <origDate notBefore="1211" notAfter="1212" period="#crusader">1211-1212 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
          <desc type="context">Wilbrand, born to a noble family of Oldenburg in northwestern Germany,
             had a distinguished ecclesiastical career as a prelate in the sees of Paderborn,
             Münster, Osnabrück, and Utrecht up to his death in 1233. He wrote an account of his

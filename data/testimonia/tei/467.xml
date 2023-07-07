@@ -299,7 +299,7 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/467</idno>
          </ab>
          <desc type="abstract" xml:id="abstract467-1">
-        <quote><placeName>Καισάρειαν</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/118351825">Mark the Deacon</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Life of Porphyry</title> <ref>32-34</ref>. This passage was written ca. <origDate notBefore="0420" notAfter="0450">ca. 420-450 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687902">Gaza</origPlace>.</desc>
+        <quote><placeName>Καισάρειαν</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/118351825">Mark the Deacon</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Life of Porphyry</title> <ref n="c" target="#bib467-1">32-34</ref>. This passage was written ca. <origDate notBefore="0420" notAfter="0450" period="#byzantine">ca. 420-450 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687902">Gaza</origPlace>.</desc>
          <desc type="context">Mark, a native of Asia, was a calligrapher in Jerusalem who joined
             Porphyry of Gaza as his companion and agent from 395 to 420 C.E. During that time
             Porphyry, originally from a wealthy family in Thessalonica, was appointed bishop of Gaza

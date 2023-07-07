@@ -277,7 +277,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/264</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract264-1">Caesarea Maritima is indirectly attested at <persName role="author" ref="http://viaf.org/viaf/54944687">Theophanes the Confessor</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref target="#bib264-1">27.18-20</ref>. This passage was written ca. <origDate notBefore="0810" notAfter="0814" period="#earlyIslamic">ca. 810-814 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/511218">Cyzicus</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract264-1">Caesarea Maritima is indirectly attested at <persName role="author" ref="http://viaf.org/viaf/54944687">Theophanes the Confessor</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref n="b" target="#bib264-1">27.18-20</ref>. This passage was written ca. <origDate notBefore="0810" notAfter="0814" period="#earlyIslamic">ca. 810-814 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/511218">Cyzicus</origPlace>.</desc>
       <desc type="context">Theophanes, born to noble parents in Constantinople, was raised in the
         Palace under Constantine V (740-775 C.E.) He spent much of his career as a member and leader
         of monastic communities around the Sea of Marmara, before his condemnation and exile to

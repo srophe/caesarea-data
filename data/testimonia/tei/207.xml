@@ -280,7 +280,7 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/207</idno>
          </ab>
          <desc type="abstract" xml:id="abstract207-1">
-        <quote><placeName>Στράτωνος πύργος</placeName></quote>, and <quote><placeName>Straton’s Tower</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/61154369">Marcianus of Heraclea</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Epitome of Artemidorus’ Geography</title> <ref target="#bib207-1">576.19-27</ref>. This passage was written ca. <origDate notBefore="0350" notAfter="0450" period="#byzantine">ca. 350-450 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/844944">Heraclea Pontica</origPlace>.</desc>
+        <quote><placeName>Στράτωνος πύργος</placeName></quote>, and <quote><placeName>Straton’s Tower</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/61154369">Marcianus of Heraclea</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Epitome of Artemidorus’ Geography</title> <ref n="a" target="#bib207-1">576.19-27</ref>. This passage was written ca. <origDate notBefore="0350" notAfter="0450" period="#byzantine">ca. 350-450 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/844944">Heraclea Pontica</origPlace>.</desc>
          <desc type="context">Marcianus from Heraclea Pontica on the southwestern coast of the Black
             Sea was a geographer of Late Antiquity who is best known for his compendia of earlier
             scholarship, including an epitome of the Late Hellenistic <title>Geographic

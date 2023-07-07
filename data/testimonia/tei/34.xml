@@ -285,7 +285,7 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/34</idno>
       </ab>
       <desc type="abstract" xml:id="abstract34-1">
-        <quote><placeName xml:lang="grc">Καισαρείας</placeName></quote>, and <quote><placeName xml:lang="en">Cesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/22143666" role="author">Josephus</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg004" type="uniform" level="m">The Jewish War</title> <ref n="s" target="#bib34-1">5.40</ref>. This passage was written ca. <origDate period="#nabateanKingdom #earlyRoman #herodian" notBefore="0070" notAfter="0090">70 - 90 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+        <quote><placeName>Καισαρείας</placeName></quote>, and <quote><placeName>Cesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/22143666" role="author">Josephus</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg004" type="uniform" level="m">The Jewish War</title> <ref n="s" target="#bib34-1">5.40</ref>. This passage was written ca. <origDate period="#nabateanKingdom #earlyRoman #herodian" notBefore="0070" notAfter="0090">70 - 90 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote34-1">
         <anchor xml:id="testimonia-34.grc.1" corresp="#testimonia-34.en.1"/>
         ὁ γὰρ δὴ Τίτος ἐπειδὴ τὰ μὲν συνήγαγετῆς δυνάμεως πρὸς αὑτόν, τοῖς δὲ ἐπὶἹεροσολύμων συναντᾶν ἐπέστειλεν, ἐξήλαυνετῆς <placeName xml:lang="grc">Καισαρείας</placeName>.<ab type="source" source="#bib34-1"/>

@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="en" level="a">Luke the Evangelist, <title level="m">Acts</title> 10.44-10.48</title>
+        <title xml:lang="en" level="a">Luke the Evangelist, <title level="m">Acts of the Apostles</title> 10.44-10.48</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
         <sponsor>Vanderbilt University</sponsor>
         <principal>Joseph L. Rife</principal>
@@ -280,7 +280,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/70</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract70-1"> is directly attested at <persName ref="http://viaf.org/viaf/305863610" role="author">Luke the Evangelist</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg0031.tlg005" type="uniform" level="m">Acts</title> <ref target="#bib70-1">10.44-10.48</ref>. This passage was written circa <origDate period="#nabateanKingdom #earlyRoman" notBefore="0080" notAfter="0090">80 – 90 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract70-1">Caesarea Maritima is indirectly attested at <persName ref="http://viaf.org/viaf/305863610" role="author">Luke the Evangelist</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg0031.tlg005" type="uniform" level="m">Acts of the Apostles</title> <ref n="f" target="#bib70-1">10.44-10.48</ref>. This passage was written ca. <origDate period="#nabateanKingdom #earlyRoman" notBefore="0080" notAfter="0090">80 – 90 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote70-1">
         <anchor xml:id="testimonia-70.grc.1" corresp="#testimonia-70.en.1"/>Ἔτι λαλοῦντος τοῦ Πέτρου τὰῥήματα ταῦτα ἐπέπεσε τὸ πνεῦματὸ ἅγιον ἐπὶ πάντας τοὺςἀκούοντας τὸν λόγον. καὶ ἐξέστησαν οἱ ἐκ περιτομῆς πιστοὶ οἳ συνῆλθαν τῷ Πέτρῳ, ὅτι καὶ ἐπὶ τὰ ἔθνη ἡ δωρεὰ τοῦ πνεύματος τοῦ ἁγίου ἐκκέχυται· ἤκουον γὰρ αὐτῶν λαλούντων γλώσσαις καὶ μεγαλυνόντων τὸν θεόν. τότε ἀπεκρίθη Πέτρος Μήτι τὸ ὕδωρ δύναται κωλῦσαί τις τοῦ μὴ βαπτισθῆναι τούτους οἵτινες τὸ πνεῦμα τὸ ἅγιον ἔλαβον ὡς καὶ ἡμεῖς; προσέταξεν δὲ αὐτοὺς ἐν τῷ ὀνόματι Ἰησοῦ Χριστοῦ βαπτισθῆναι. τότε ἠρώτησαν αὐτὸν ἐπιμεῖναι ἡμέρας τινάς.<ab type="source" source="#bib70-1"/>
         <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg0031.tlg005.perseus-grc2:10.44-10.48</idno>

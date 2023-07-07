@@ -283,7 +283,7 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/428</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract428-1">and <quote><placeName>Caesarea</placeName></quote> is directly attested at <persName ref="http://viaf.org/viaf/69331086 " role="author">Julius Honorius</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Map of the World</title> <ref>6</ref>. This passage was written ca. <origDate notBefore="0350" notAfter="0550">ca. 350-550 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Rome</origPlace>.</desc>
+         <desc type="abstract" xml:id="abstract428-1">and <quote><placeName>Caesarea</placeName></quote> is directly attested at <persName ref="http://viaf.org/viaf/69331086 " role="author">Julius Honorius</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Map of the World</title> <ref n="a" target="#bib428-1">6</ref>. This passage was written ca. <origDate notBefore="0350" notAfter="0550" period="#byzantine">ca. 350-550 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Rome</origPlace>.</desc>
          <desc type="context">We know nothing about the Late Antique geographer identified as Julius
             Honorius, whose work survives today in several manuscripts under the title
                <title>Excerpt from his Globe, or The Continents</title> (<title>Excerpta eius

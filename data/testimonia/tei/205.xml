@@ -280,8 +280,7 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/205</idno>
          </ab>
          <desc type="abstract" xml:id="abstract205-1">
-        <quote><placeName>Cesaream Palestine</placeName></quote>, and <quote><placeName>Caesarea Palestinae</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/100899506" role="author">Burchard of Mt. Sion</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Description of the Holy Land</title> <ref target="#bib205-1">13.12</ref>. This passage was written ca. <origDate notBefore="1274" notAfter="1285" period="#crusader">1274-1285
-               C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
+        <quote><placeName>Cesaream Palestine</placeName></quote>, and <quote><placeName>Caesarea Palestinae</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/100899506" role="author">Burchard of Mt. Sion</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Description of the Holy Land</title> <ref n="d" target="#bib205-1">13.12</ref>. This passage was written ca. <origDate notBefore="1274" notAfter="1285" period="#crusader">1274-1285 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
          <desc type="context">Burchard of Mt. Sion was a Dominican friar from Magdeburg in Lower
             Saxony who wrote the the most important description of the Holy Land from the 13th
             century. The earliest and longest account of his pilgrimage, which grew particularly

@@ -284,7 +284,7 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/355</idno>
          </ab>
          <desc type="abstract" xml:id="abstract355-1">
-        <quote><placeName>Καισαρείας τῆς Παλαιστίνης</placeName></quote>, and <quote><placeName>Caesarea Palestinae</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/39386582" role="author">George Syncellus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Chronographic Selection</title> <ref>637.6-637.18</ref>. This passage was written ca. <origDate notBefore="0808" notAfter="0815">808-815 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+        <quote><placeName>Καισαρείας τῆς Παλαιστίνης</placeName></quote>, and <quote><placeName>Caesarea Palestinae</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/39386582" role="author">George Syncellus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Chronographic Selection</title> <ref n="g" target="#bib355-1">637.6-637.18</ref>. This passage was written ca. <origDate notBefore="0808" notAfter="0815" period="#earlyIslamic">808-815 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
          <desc type="context">George Syncellus (“cellmate”), whose career spanned the late 8th to
             very early 9th centuries, was a Palestinian monk before his appointment as the assistant
             to Tarasius, Patriarch of Contantinople. Apparently facing hostility from the emperor

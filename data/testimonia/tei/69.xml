@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="en" level="a">Luke the Evangelist, <title level="m">Acts</title> 10.34</title>
+        <title xml:lang="en" level="a">Luke the Evangelist, <title level="m">Acts of the Apostles</title> 10.34</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
         <sponsor>Vanderbilt University</sponsor>
         <principal>Joseph L. Rife</principal>
@@ -284,7 +284,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/69</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract69-1"> is directly attested at <persName ref="http://viaf.org/viaf/305863610" role="author">Luke the Evangelist</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg0031.tlg005" type="uniform" level="m">Acts</title> <ref target="#bib69-1">10.34</ref>. This passage was written circa <origDate period="#nabateanKingdom #earlyRoman" notBefore="0080" notAfter="0090">80 – 90 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract69-1">Caesarea Maritima is indirectly attested at <persName ref="http://viaf.org/viaf/305863610" role="author">Luke the Evangelist</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg0031.tlg005" type="uniform" level="m">Acts of the Apostles</title> <ref n="e" target="#bib69-1">10.34</ref>. This passage was written ca. <origDate period="#nabateanKingdom #earlyRoman" notBefore="0080" notAfter="0090">80 – 90 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote69-1">
         <anchor xml:id="testimonia-69.grc.1" corresp="#testimonia-69.en.1"/>
         ἀνοίξας δὲ Πέτρος τὸ στόμαεἶπεν Ἐπʼ ἀληθείας καταλαμβάνομαι ὅτι: "οὐκ ἔστιν προσωπολήμπτης ὁθεός,"<ab type="source" source="#bib69-1"/>

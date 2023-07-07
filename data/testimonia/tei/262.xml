@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="en" level="a">Isidore, <title level="m">Etymologies</title> 6.6</title>
+        <title xml:lang="en" level="a">Isidore of Seville, <title level="m">Etymologies</title> 6.6</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
         <sponsor>Vanderbilt University</sponsor>
         <principal>Joseph L. Rife</principal>
@@ -278,7 +278,7 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/262</idno>
       </ab>
       <desc type="abstract" xml:id="abstract262-1">
-        <quote><placeName>Caesariensis</placeName></quote>, and <quote><placeName>Caesaerea</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/803890">Isidore</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Etymologies</title> <ref n="b" target="#bib262-1">6.6</ref>. This passage was written ca. <origDate notBefore="0610" notAfter="0636" period="#byzantine">610-636 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/256210 ">Seville</origPlace>.</desc>
+        <quote><placeName>Caesariensis</placeName></quote>, and <quote><placeName>Caesaerea</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/803890">Isidore of Seville</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Etymologies</title> <ref n="b" target="#bib262-1">6.6</ref>. This passage was written ca. <origDate notBefore="0610" notAfter="0636" period="#byzantine">610-636 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/256210 ">Seville</origPlace>.</desc>
       <desc type="context">Isidore, born to an aristocratic family in Cartagena, was an
             influential scholar and Archbishop of Seville at the dawn of the Middle Ages. Beyond his
             bold ecclesiastical leadership in the old Roman province and his program to integrate

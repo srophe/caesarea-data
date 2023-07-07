@@ -4,8 +4,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="en" level="a">Gregorius bar Hebraeus, <title level="m">Candelabrum of the
-               Sanctuary</title> IV.III.1.2.1.3.xii</title>
+            <title xml:lang="en" level="a">Gregorius bar Hebraeus, <title level="m">Candelabrum of the Sanctuary</title> IV.III.1.2.1.3.xii</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
             <sponsor>Vanderbilt University</sponsor>
             <principal>Joseph L. Rife</principal>
@@ -346,8 +345,7 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/415</idno>
          </ab>
          <desc type="abstract" xml:id="abstract415-1">
-        <quote><placeName>ܩܣܪܝܐ ܡܕܝܢܬܐ</placeName></quote>, and <quote><placeName>the city of Caesarea</placeName></quote> are directly attested at <persName ref="" role="author">Gregorius bar Hebraeus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Candelabrum of the
-               Sanctuary</title> <ref n="a" target="#bib415-1">IV.III.1.2.1.3.xii</ref>. This passage was written ca. <origDate notBefore="1266" notAfter="" period="#crusader">1266 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/874621">Mosul</origPlace>.</desc>
+        <quote><placeName>ܩܣܪܝܐ ܡܕܝܢܬܐ</placeName></quote>, and <quote><placeName>the city of Caesarea</placeName></quote> are directly attested at <persName ref="" role="author">Gregorius bar Hebraeus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Candelabrum of the Sanctuary</title> <ref n="a" target="#bib415-1">IV.III.1.2.1.3.xii</ref>. This passage was written ca. <origDate notBefore="1266" notAfter="" period="#crusader">1266 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/874621">Mosul</origPlace>.</desc>
          <desc type="context">Gregorius bar Hebraus was a polymath of the thirteenth century C.E.
             who wrote over fourty different works in genres ranging from Christian theology to
             historical chronicles and works of science and medicine. His writings are often viewed

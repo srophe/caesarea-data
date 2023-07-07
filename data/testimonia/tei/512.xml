@@ -4,8 +4,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="en" level="a">Rufinus of
-               Aquileia, <title level="m">Clementine Recognitions</title> 1.12</title>
+            <title xml:lang="en" level="a">Rufinus of Aquileia, <title level="m">Clementine Recognitions</title> 1.12</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
             <sponsor>Vanderbilt University</sponsor>
             <principal>Joseph L. Rife</principal>
@@ -292,8 +291,7 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/512</idno>
          </ab>
          <desc type="abstract" xml:id="abstract512-1">
-        <quote><placeName>Caesaream Stratonis</placeName></quote>, and <quote><placeName>Strato’s Caesarea</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/77679446">Rufinus of
-               Aquileia</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Clementine Recognitions</title> <ref target="#bib512-1">1.12</ref>. This passage was written ca. <origDate notBefore="0400" notAfter="0408" period="#byzantine">ca. 400-408 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+        <quote><placeName>Caesaream Stratonis</placeName></quote>, and <quote><placeName>Strato’s Caesarea</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/77679446">Rufinus of Aquileia</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Clementine Recognitions</title> <ref n="a" target="#bib512-1">1.12</ref>. This passage was written ca. <origDate notBefore="0400" notAfter="0408" period="#byzantine">ca. 400-408 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
          <desc type="context">A varied group of ancient works called the Pseudo-Clementine Writings
             or Clementine Literature was purportedly written by Clement of Rome, who held the papacy
             toward the the end of the 1st century C.E. These works, which clearly have diverse

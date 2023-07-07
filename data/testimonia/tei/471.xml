@@ -4,8 +4,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="en" level="a">John Chrysostom, <title level="m">Homilies on the Acts of the
-               Apostles </title> 19.150.29-46</title>
+            <title xml:lang="en" level="a">John Chrysostom, <title level="m">Homilies on the Acts of the Apostles</title> 19.150.29-46</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
             <sponsor>Vanderbilt University</sponsor>
             <principal>Joseph L. Rife</principal>
@@ -317,8 +316,7 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/471</idno>
          </ab>
          <desc type="abstract" xml:id="abstract471-1">
-        <quote><placeName>Καισάρειαν</placeName></quote>, <quote><placeName>Καισαρείᾳ</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/305214868">John Chrysostom</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Homilies on the Acts of the
-               Apostles </title> <ref>19.150.29-46</ref>. This passage was written ca. <origDate notBefore="0400" notAfter="0400">ca. 400 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+        <quote><placeName>Καισάρειαν</placeName></quote>, <quote><placeName>Καισαρείᾳ</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/305214868">John Chrysostom</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Homilies on the Acts of the Apostles</title> <ref n="a" target="#bib471-1">19.150.29-46</ref>. This passage was written ca. <origDate notBefore="0400" notAfter="0400" period="#byzantine">ca. 400 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
          <desc type="context">John Chrysostom was the archbishop of Constantinople during the turn
             of the 4th to 5th centuries, celebrated for his keen intellect and masterful oratory. He
             met with great opposition for his theological arguments and criticism of Imperial

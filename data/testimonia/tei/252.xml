@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="en" level="a">Epiphanius, <title level="m">Medicine Cabinet, or Against Heresies</title> 69.6.1-5</title>
+        <title xml:lang="en" level="a">Epiphanius of Salamis, <title level="m">Medicine Cabinet, or Against Heresies</title> 69.6.1-5</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
         <sponsor>Vanderbilt University</sponsor>
         <principal>Joseph L. Rife</principal>
@@ -279,8 +279,7 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/252</idno>
       </ab>
       <desc type="abstract" xml:id="abstract252-1">
-        <quote><placeName>Καισαρείᾳ</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/13651211" role="author">Epiphanius</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Medicine Cabinet, or Against Heresies</title> <ref target="#bib252-1">69.6.1-5</ref>. This passage was written ca. <origDate notBefore="0374" notAfter="0377" period="#byzantine">374-377 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/707617">Cypriot
-          Salamis</origPlace>.</desc>
+        <quote><placeName>Καισαρείᾳ</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/13651211" role="author">Epiphanius of Salamis</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Medicine Cabinet, or Against Heresies</title> <ref n="b" target="#bib252-1">69.6.1-5</ref>. This passage was written ca. <origDate notBefore="0374" notAfter="0377" period="#byzantine">374-377 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/707617">Cypriot Salamis</origPlace>.</desc>
       <desc type="context">Epiphanius, who spent his early life and career as a student and monk in
         southern Palestine and Egypt, was appointed bishop of Salamis on Cyprus in ca. 365-367 C.E.,
         a post he held until his death in 403 C.E. He became a formidable champion of Orthodoxy,

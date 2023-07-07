@@ -284,7 +284,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/31</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract31-1"> is directly attested at <persName ref="http://viaf.org/viaf/22143666" role="author">Josephus</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg004" type="uniform" level="m">The Jewish War</title> <ref target="#bib31-1">3.410</ref>. This passage was written circa <origDate period="#nabateanKingdom #earlyRoman #herodian" notBefore="0070" notAfter="0090">70 - 90 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract31-1">Caesarea Maritima is indirectly attested at <persName ref="http://viaf.org/viaf/22143666" role="author">Josephus</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg004" type="uniform" level="m">The Jewish War</title> <ref n="p" target="#bib31-1">3.410</ref>. This passage was written ca. <origDate period="#nabateanKingdom #earlyRoman #herodian" notBefore="0070" notAfter="0090">70 - 90 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote31-1">
         <anchor xml:id="testimonia-31.grc.1" corresp="#testimonia-31.en.1"/>
         ἐδέχοντο δὲ καὶ τὴν στρατιὰν καὶ τὸνστρατηγὸν μετὰ πάσης εὐφημίας καὶφιλοφροσύνης οἱ ἐπιχώριοι, καὶ κατ᾽εὔνοιαν μὲν τὴν πρὸς Ῥωμαίους, τὸ δὲ πλέονἔχθει τῶν κατεστραμμένων: διὸ καὶ τὸνἸώσηπον ἀθρόοι καταβοῶντες ἠξίουνκολάζειν.<ab type="source" source="#bib31-1"/>

@@ -4,7 +4,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="en" level="a">Unknown, <title level="m">Piacenza Itinerary </title> R 46</title>
+            <title xml:lang="en" level="a">Unknown, <title level="m">Piacenza Itinerary</title> R 46</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
             <sponsor>Vanderbilt University</sponsor>
             <principal>Joseph L. Rife</principal>
@@ -308,7 +308,7 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/62</idno>
          </ab>
          <desc type="abstract" xml:id="abstract62-1">
-        <quote><placeName>Caesaream</placeName></quote>, <quote><placeName>turris Stratonis</placeName></quote>, <quote><placeName>Caesarea Palaestinae</placeName></quote>, <quote><placeName>Caesarea</placeName></quote>, <quote><placeName>Strato’s Tower</placeName></quote>, and <quote><placeName>Caesarea Palestinae</placeName></quote> are directly attested at <persName ref="" role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Piacenza Itinerary </title> <ref>R 46</ref>. This passage was written ca. <origDate notBefore="570" notAfter="580">ca. 570-580 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/383741">Piacenza</origPlace>.</desc>
+        <quote><placeName>Caesaream</placeName></quote>, <quote><placeName>turris Stratonis</placeName></quote>, <quote><placeName>Caesarea Palaestinae</placeName></quote>, <quote><placeName>Caesarea</placeName></quote>, <quote><placeName>Strato’s Tower</placeName></quote>, and <quote><placeName>Caesarea Palestinae</placeName></quote> are directly attested at <persName ref="" role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Piacenza Itinerary</title> <ref n="a" target="#bib62-1">R 46</ref>. This passage was written ca. <origDate notBefore="570" notAfter="580" period="#byzantine">ca. 570-580 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/383741">Piacenza</origPlace>.</desc>
         <desc type="context">A pilgrim from Piacenza (ancient Placentia) in north central Italy
             wrote an account of his travels in Egypt, Palestine, Syria during the 570s. The work was
             once erroneously attributed to St. Antoninus, martyr of Piacenza, but its authorship is

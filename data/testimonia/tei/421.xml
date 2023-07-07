@@ -283,7 +283,7 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/421</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract421-1">Caesarea Maritima is indirectly attested at <persName ref="http://viaf.org/viaf/100226923" role="author">Tacitus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Annals</title> <ref>12.54</ref>. This passage was written ca. <origDate notBefore="0117" notAfter="0120">117-120 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+         <desc type="abstract" xml:id="abstract421-1">Caesarea Maritima is indirectly attested at <persName ref="http://viaf.org/viaf/100226923" role="author">Tacitus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Annals</title> <ref n="a" target="#bib421-1">12.54</ref>. This passage was written ca. <origDate notBefore="0117" notAfter="0120" period="#earlyRoman">117-120 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
          <desc type="context">Cornelius Tacitus (ca. 56-ca. 120 C.E.) was an ancient historian of
             the Roman Empire held in high esteem by scholars today. He enjoyed a successful career
             as a prominent lawyer, a rising official in both the civic and provincial spheres, and

@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="en" level="a">Josephus , <title level="m">The Jewish War</title> 1.21.5</title>
+        <title xml:lang="en" level="a">Josephus, <title level="m">The Jewish War</title> 1.21.5</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
         <sponsor>Vanderbilt University</sponsor>
         <principal>Joseph L. Rife</principal>
@@ -286,7 +286,7 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/178</idno>
       </ab>
       <desc type="abstract" xml:id="abstract178-1">
-        <quote><placeName xml:lang="grc">Στράτωνος ἐκαλεῖτο πύργος,</placeName></quote>, and <quote><placeName xml:lang="en">Strato's Tower</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/22143666 " role="author">Josephus </persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg004" type="uniform" level="m">The Jewish War</title> <ref n="c" target="#bib178-1">1.21.5</ref>. This passage was written ca. <origDate period="#nabateanKingdom #earlyRoman #herodian" notBefore="0070" notAfter="0090">70 - 90 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+        <quote><placeName>Στράτωνος ἐκαλεῖτο πύργος,</placeName></quote>, and <quote><placeName>Strato's Tower</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/22143666 " role="author">Josephus</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg004" type="uniform" level="m">The Jewish War</title> <ref n="c" target="#bib178-1">1.21.5</ref>. This passage was written ca. <origDate period="#nabateanKingdom #earlyRoman #herodian" notBefore="0070" notAfter="0090">70 - 90 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote178-1">
         <anchor xml:id="testimonia-178.grc.1" corresp="#testimonia-178.en.1"/>Κατιδὼν δὲ κἀν τοῖς παραλίοις πόλιν ἤδη μὲν κάμνουσαν, <placeName xml:lang="grc">Στράτωνος ἐκαλεῖτο πύργος,</placeName> διὰ δὲ εὐφυίαν τοῦ χωρίου δέξασθαι δυναμένην τὸ φιλότιμον αὐτοῦ, πᾶσαν ἀνέκτισεν λευκῷ λίθῳ καὶ λαμπροτάτοις ἐκόσμησεν βασιλείοις, ἐν ᾗ μάλιστα τὸ φύσει μεγαλόνουν ἐπεδείξατο. μεταξὺ γὰρ Δώρων καὶ Ἰόππης, ὧν ἡ πόλις μέση κεῖται, πᾶσαν εἶναι συμβέβηκεν τὴν παράλιον ἀλίμενον, ὡς πάντα τὸν τὴν Φοινίκην ἐπ᾽ Αἰγύπτου παραπλέοντα σαλεύειν ἐν πελάγει διὰ τὴν ἐκ λιβὸς ἀπειλήν, ᾧ καὶ μετρίως ἐπαυρίζοντι τηλικοῦτον ἐπεγείρεται κῦμα πρὸς ταῖς πέτραις, ὥστε τὴν ὑποστροφὴν τοῦ κύματος ἐπὶ πλεῖστον ἐξαγριοῦν τὴν θάλασσαν. ἀλλ᾽ ὁ βασιλεὺς τοῖς ἀναλώμασιν καὶ τῇ φιλοτιμίᾳ νικήσας τὴν φύσιν μείζονα μὲν τοῦ Πειραιῶς λιμένα κατεσκεύασεν, ἐν δὲ τοῖς μυχοῖς αὐτοῦ βαθεῖς ὅρμους ἑτέρους.<ab type="source" source="#bib178-1"/>
         <idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg0526.tlg004.perseus-grc1:1.21.5</idno>

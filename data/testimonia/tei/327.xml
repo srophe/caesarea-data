@@ -4,8 +4,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="en" level="a">Gregory the
-               Miracle-Worker, <title level="m">Panegyric to Origen </title> 16.63-16.92</title>
+            <title xml:lang="en" level="a">Gregory the Miracle-Worker, <title level="m">Panegyric to Origen</title> 16.63-16.92</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
             <sponsor>Vanderbilt University</sponsor>
             <principal>Joseph L. Rife</principal>
@@ -280,9 +279,7 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/327</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract327-1">Caesarea Maritima is indirectly attested at <persName ref="http://viaf.org/viaf/88726043" role="author">Gregory the
-               Miracle-Worker</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Panegyric to Origen </title> <ref target="#bib327-1">16.63-16.92</ref>. This passage was written ca. <origDate notBefore="0224" notAfter="0254">ca. 239 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea
-            Maritima</origPlace>.</desc>
+         <desc type="abstract" xml:id="abstract327-1">Caesarea Maritima is indirectly attested at <persName ref="http://viaf.org/viaf/88726043" role="author">Gregory the Miracle-Worker</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Panegyric to Origen</title> <ref n="c" target="#bib327-1">16.63-16.92</ref>. This passage was written ca. <origDate notBefore="0224" notAfter="0254" period="#lateRoman">ca. 239 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</desc>
          <desc type="context">Theodore, who later became known as Gregory the Miracle-Worker (ὁ
             Θαυματουργός), was a Christian convert from a leading family of Pontic Neocaesarea who
             became an influential theologian and bishop during the middle decades of the 3rd

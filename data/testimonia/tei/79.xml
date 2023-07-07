@@ -290,7 +290,7 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/79</idno>
       </ab>
       <desc type="abstract" xml:id="abstract79-1">
-        <quote><placeName>Caesarienses</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="https://viaf.org/viaf/88881722" role="author">Justinian I</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Digest</title> <ref n="b" target="#bib79-1">50.15.8.7</ref>. This passage was written ca. <origDate period="#byzantine" notBefore="0530" notAfter="0533">530-533 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+        <quote><placeName>Caesarienses</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="https://viaf.org/viaf/88881722" role="author">Justinian I</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Digest</title> <ref n="b" target="#bib79-1">50.15.8.7</ref>. This passage was written ca. <origDate notBefore="0530" notAfter="0533" period="#byzantine">530-533 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
       <desc type="context">Early in his reign the emperor Justinian directed a comprehensive reform
         of Roman Law that compiled and edited earlier jurisprudence. This new sole authority on
         legal matters, the <title>Body of Civil Law</title> (<title>Corpus iuris civilis</title>),

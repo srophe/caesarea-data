@@ -4,8 +4,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="en" level="a">Socrates of
-               Constantinople, <title level="m">Church History</title> 4.27.1-4.27.8</title>
+            <title xml:lang="en" level="a">Socrates of Constantinople, <title level="m">Church History</title> 4.27.1-4.27.8</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
             <sponsor>Vanderbilt University</sponsor>
             <principal>Joseph L. Rife</principal>
@@ -317,8 +316,7 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/455</idno>
          </ab>
          <desc type="abstract" xml:id="abstract455-1">
-        <quote><placeName>τῇ Καισαρείᾳ</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/55571017" role="author">Socrates of
-               Constantinople</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Church History</title> <ref>4.27.1-4.27.8</ref>. This passage was written ca. <origDate notBefore="0439" notAfter="0450">ca. 439-450 C.E. </origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+        <quote><placeName>τῇ Καισαρείᾳ</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/55571017" role="author">Socrates of Constantinople</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Church History</title> <ref n="o" target="#bib455-1">4.27.1-4.27.8</ref>. This passage was written ca. <origDate notBefore="0439" notAfter="0450" period="#byzantine">ca. 439-450 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
          <desc type="context">Socrates of Constantinople, the “Scholastic,” was an otherwise unknown
             historian of the early 5th century. He wrote his account of the Church from 305 to 439
             to continue Eusebius of Caesarea, adopting a particular perspective on the relationship

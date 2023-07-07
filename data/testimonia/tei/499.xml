@@ -290,7 +290,7 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/499</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract499-1">Caesarea Maritima is indirectly attested at <persName ref="http://viaf.org/viaf/88969561" role="author">John Malalas</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref target="#bib499-1">18.35</ref>. This passage was written ca. <origDate notBefore="0565" notAfter="0575" period="#byzantine">565-575 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+         <desc type="abstract" xml:id="abstract499-1">Caesarea Maritima is indirectly attested at <persName ref="http://viaf.org/viaf/88969561" role="author">John Malalas</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref n="g" target="#bib499-1">18.35</ref>. This passage was written ca. <origDate notBefore="0565" notAfter="0575" period="#byzantine">565-575 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
          <desc type="context"> John Malalas, a moniker probably derived from Aramaic
                <foreign>malolo</foreign> meaning “orator”, was an educated Syrian who moved from
             Antioch to Constantinople early in the reign of Justinian I. His only known work is a

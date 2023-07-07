@@ -343,7 +343,7 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/418</idno>
          </ab>
          <desc type="abstract" xml:id="abstract418-1">
-        <quote><placeName>ܡܓܕܠܐ ܕܐܣܛܪܝܛ</placeName></quote>, and <quote><placeName> Magdala Stratonis</placeName></quote> are directly attested at <persName ref="" role="author">Ishoʿdad of Merv</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Commentary on Matthew</title> <ref n="a" target="#bib418-1">28:1</ref>. This passage was written ca. <origDate notBefore="0840" notAfter="0850" period="#earlyIslamic">840-850 CE</origDate> possibly in <origPlace ref="">Ḥḏattā</origPlace>.</desc>
+        <quote><placeName>ܡܓܕܠܐ ܕܐܣܛܪܝܛ</placeName></quote>, and <quote><placeName>Magdala Stratonis</placeName></quote> are directly attested at <persName ref="" role="author">Ishoʿdad of Merv</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Commentary on Matthew</title> <ref n="a" target="#bib418-1">28:1</ref>. This passage was written ca. <origDate notBefore="0840" notAfter="0850" period="#earlyIslamic">840-850 CE</origDate> possibly in <origPlace ref="">Ḥḏattā</origPlace>.</desc>
          <desc type="context">Ishoʿdad was born in the early ninth-century C.E. in Merv, an ancient
             capital of Khorasan, a city now in modern day Turkemistan. At some point he travelled
             westward to upper Mesopotamia, where in 837 C.E he was named bishop of Ḥdatta, a city

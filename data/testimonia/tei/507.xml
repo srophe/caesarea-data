@@ -291,7 +291,7 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/507</idno>
          </ab>
          <desc type="abstract" xml:id="abstract507-1">
-        <quote><placeName>Κε̣σαρία[ν</placeName></quote>, <quote><placeName>[Κε]σαρ[ίας</placeName></quote>, <quote><placeName>Kesari[a</placeName></quote>, and <quote><placeName>[Ke]sar[ia</placeName></quote> are directly attested at <persName role="author">Theophanes of Hermopolis</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Trip to Antioch, P.Ryl.</title> <ref target="#bib507-1">4.638 col. i.13-17</ref>. This passage was written ca. <origDate notBefore="0320" notAfter="0320" period="#lateRoman">ca. 320 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/756574">Hermopolis</origPlace>.</desc>
+        <quote><placeName>Κε̣σαρία[ν</placeName></quote>, <quote><placeName>[Κε]σαρ[ίας</placeName></quote>, <quote><placeName>Kesari[a</placeName></quote>, and <quote><placeName>[Ke]sar[ia</placeName></quote> are directly attested at <persName role="author">Theophanes of Hermopolis</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Trip to Antioch, P.Ryl.</title> <ref n="g" target="#bib507-1">4.638 col. i.13-17</ref>. This passage was written ca. <origDate notBefore="0320" notAfter="0320" period="#lateRoman">ca. 320 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/756574">Hermopolis</origPlace>.</desc>
          <desc type="context">One of the more interesting sources for travel, commerce, and food in
             the eastern Mediterranean during Late Antiquity is a varied dossier of administrative,
             financial, and domestic documents and letters that survive on papyri

@@ -4,8 +4,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="en" level="a">Eusebius of
-               Caesarea, <title level="m">Theophany</title> fr. 6</title>
+            <title xml:lang="en" level="a">Eusebius of Caesarea, <title level="m">Theophany</title> fr. 6</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
             <sponsor>Vanderbilt University</sponsor>
             <principal>Joseph L. Rife</principal>
@@ -281,8 +280,7 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/91</idno>
          </ab>
          <desc type="abstract" xml:id="abstract91-1">
-        <quote><placeName>Καισάρειαν τῆς Παλαιστίνης</placeName></quote>, and <quote><placeName>Caesarea Palestinae</placeName></quote> are directly attested at <persName role="author" ref=" http://viaf.org/viaf/185222663">Eusebius of
-               Caesarea</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Theophany</title> <ref target="#bib91-1">fr. 6</ref>. This passage was written ca. <origDate notBefore="0335" notAfter="0337" period="#byzantine">335-337 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
+        <quote><placeName>Καισάρειαν τῆς Παλαιστίνης</placeName></quote>, and <quote><placeName>Caesarea Palestinae</placeName></quote> are directly attested at <persName role="author" ref=" http://viaf.org/viaf/185222663">Eusebius of Caesarea</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Theophany</title> <ref n="a" target="#bib91-1">fr. 6</ref>. This passage was written ca. <origDate notBefore="0335" notAfter="0337" period="#byzantine">335-337 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
          <desc type="context">Among his many writings, late in his career Eusebius produced a
             wide-ranging treatise on theophany, or the divine manifestation, of Jesus Christ. The
             work survives in two forms: fragmentary passages from the original cited by Nicetas of

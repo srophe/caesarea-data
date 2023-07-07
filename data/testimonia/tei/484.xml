@@ -4,8 +4,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="en" level="a">Damascenus the
-               Studite, <title level="m">Treasury</title> 11.120-11.133</title>
+            <title xml:lang="en" level="a">Damascenus the Studite, <title level="m">Treasury</title> 11.120-11.133</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
             <sponsor>Vanderbilt University</sponsor>
             <principal>Joseph L. Rife</principal>
@@ -292,8 +291,7 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/484</idno>
          </ab>
          <desc type="abstract" xml:id="abstract484-1">
-        <quote><placeName>τοῦ Στράτωνος Καισάρεια</placeName></quote>, and <quote><placeName>Straton’s Caesarea</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/311235160">Damascenus the
-               Studite</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Treasury</title> <ref target="#bib484-1">11.120-11.133</ref>. This passage was written ca. <origDate notBefore="1525" notAfter="1558" period="#ottoman">ca. 1525-1558 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+        <quote><placeName>τοῦ Στράτωνος Καισάρεια</placeName></quote>, and <quote><placeName>Straton’s Caesarea</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/311235160">Damascenus the Studite</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Treasury</title> <ref n="a" target="#bib484-1">11.120-11.133</ref>. This passage was written ca. <origDate notBefore="1525" notAfter="1558" period="#ottoman">ca. 1525-1558 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
          <desc type="context">Damascenus the Studite from Thessaloniki (ca. 1500-1577) studied at
             Constantinople before appointment to important ecclesiastical offices in Macedonia,
             Epirus, and Aetolia later in his career. Apparently while he was still in Constantinople

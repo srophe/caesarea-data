@@ -4,7 +4,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="en" level="a">Hierocles, <title level="m">Synecdemus</title> 717.8-719.11</title>
+            <title xml:lang="en" level="a">Hierocles, <title level="m">Travel Guide</title> 717.8-719.11</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
             <sponsor>Vanderbilt University</sponsor>
             <principal>Joseph L. Rife</principal>
@@ -283,7 +283,7 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/424</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract424-1">and <quote><placeName>Καισάρεια</placeName></quote> is directly attested at <persName ref="" role="author">Hierocles</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Synecdemus</title> <ref>717.8-719.11</ref>. This passage was written ca. <origDate notBefore="0527" notAfter="0535">527-535 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+         <desc type="abstract" xml:id="abstract424-1">and <quote><placeName>Καισάρεια</placeName></quote> is directly attested at <persName ref="" role="author">Hierocles</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Travel Guide</title> <ref n="a" target="#bib424-1">717.8-719.11</ref>. This passage was written ca. <origDate notBefore="0527" notAfter="0535" period="#byzantine">527-535 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
          <desc type="context">The <title>Synecdemus</title> written by an otherwise unknown
             Hierocles during the early reign of Justinian is an important source for the political
             geography of the Eastern Empire during Late Antiquity. Its traces the organization of

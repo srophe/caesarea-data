@@ -4,8 +4,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="en" level="a">Zachariah of
-               Mytilene, <title level="m">The Life of Severus</title> 83-86</title>
+            <title xml:lang="en" level="a">Zachariah of Mytilene, <title level="m">The Life of Severus</title> 83-86</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
             <sponsor>Vanderbilt University</sponsor>
             <principal>Joseph L. Rife</principal>
@@ -338,8 +337,7 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/513</idno>
          </ab>
          <desc type="abstract" xml:id="abstract513-1">
-        <quote><placeName>ܠܩܣܪܝܐ ܕܦܠܣܛܝܢܐ</placeName></quote>, and <quote><placeName>Caesarea in Palestine</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/13590360" role="author">Zachariah of
-               Mytilene</persName>, <title xml:lang="en" ref="" type="uniform" level="m">The Life of Severus</title> <ref target="#bib513-1">83-86</ref>. This passage was written ca. <origDate notBefore="0510" notAfter="0530" period="#byzantine">510s-520s</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+        <quote><placeName>ܠܩܣܪܝܐ ܕܦܠܣܛܝܢܐ</placeName></quote>, and <quote><placeName>Caesarea in Palestine</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/13590360" role="author">Zachariah of Mytilene</persName>, <title xml:lang="en" ref="" type="uniform" level="m">The Life of Severus</title> <ref n="a" target="#bib513-1">83-86</ref>. This passage was written ca. <origDate notBefore="0510" notAfter="0530" period="#byzantine">510s-520s</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
          <desc type="context">Zachariah of Mytilene's hagiographic account of the life of the early
             sixth-century anti-Chalcedonian bishop, Severus, patriarch of Antioch, includes brief
             accounts of several other saints. In this testimonium, Zachariah describes a religious

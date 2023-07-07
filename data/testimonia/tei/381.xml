@@ -283,7 +283,7 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/381</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract381-1">Caesarea Maritima is indirectly attested at <persName ref="" role="author">Socrates of Constantinople</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Church History</title> <ref>1.9.50-1.9.55</ref>. This passage was written ca. <origDate notBefore="0439" notAfter="0450">ca. 439-450 C.E.</origDate> possibly in <origPlace ref="http://viaf.org/viaf/55571017">Constantinople</origPlace>.</desc>
+         <desc type="abstract" xml:id="abstract381-1">Caesarea Maritima is indirectly attested at <persName ref="" role="author">Socrates of Constantinople</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Church History</title> <ref n="f" target="#bib381-1">1.9.50-1.9.55</ref>. This passage was written ca. <origDate notBefore="0439" notAfter="0450" period="#byzantine">ca. 439-450 C.E.</origDate> possibly in <origPlace ref="http://viaf.org/viaf/55571017">Constantinople</origPlace>.</desc>
          <desc type="context">Socrates of Constantinople, the “Scholastic,” was an otherwise unknown
             historian of the early 5th century. He wrote his account of the Church from 305 to 439
             to continue Eusebius of Caesarea, adopting a particular perspective on the relationship

@@ -4,8 +4,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="en" level="a">Theodoret of
-               Cyrrhus, <title level="m">The Collector </title> 92.20-27</title>
+            <title xml:lang="en" level="a">Theodoret of Cyrrhus, <title level="m">The Collector</title> 92.20-27</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
             <sponsor>Vanderbilt University</sponsor>
             <principal>Joseph L. Rife</principal>
@@ -317,8 +316,7 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/497</idno>
          </ab>
          <desc type="abstract" xml:id="abstract497-1">
-        <quote><placeName>Καισαρέων</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/77111352">Theodoret of
-               Cyrrhus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">The Collector </title> <ref>92.20-27</ref>. This passage was written ca. <origDate when="0447">447 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/658446">Cyrrhus</origPlace>.</desc>
+        <quote><placeName>Καισαρέων</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/77111352">Theodoret of Cyrrhus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">The Collector</title> <ref n="a" target="#bib497-1">92.20-27</ref>. This passage was written ca. <origDate when="0447" period="#byzantine">447 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/658446">Cyrrhus</origPlace>.</desc>
          <desc type="context">Theodoret served as bishop of Cyrrhus in northwestern Syria in 423-457
             C.E. Following his wide education in both the Christian and the Greek traditions and a
             brief monastic devotion, he became a vigorous leader of his diocese, distinguished by

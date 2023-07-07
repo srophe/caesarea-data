@@ -4,8 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="en" level="a">Anonymous Pilgrim
-          V, <title level="m">[Untitled]</title> 2.23</title>
+        <title xml:lang="en" level="a">Anonymous Pilgrim V, <title level="m">Untitled</title> 2.23</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
         <sponsor>Vanderbilt University</sponsor>
         <principal>Joseph L. Rife</principal>
@@ -279,9 +278,7 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/283</idno>
       </ab>
       <desc type="abstract" xml:id="abstract283-1">
-        <quote><placeName>Cesarea</placeName></quote>, <quote><placeName>Turris Stratonis</placeName></quote>, <quote><placeName>Caesarea</placeName></quote>, and <quote><placeName>Strato’s Tower</placeName></quote> are directly attested at <persName role="author">Anonymous Pilgrim
-          V</persName>, <title xml:lang="en" ref="" type="uniform" level="m">[Untitled]</title> <ref target="#bib283-1">2.23</ref>. This passage was written ca. <origDate notBefore="1180" notAfter="1205" period="#crusader">1180-1205
-          C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
+        <quote><placeName>Cesarea</placeName></quote>, <quote><placeName>Turris Stratonis</placeName></quote>, <quote><placeName>Caesarea</placeName></quote>, and <quote><placeName>Strato’s Tower</placeName></quote> are directly attested at <persName role="author">Anonymous Pilgrim V</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Untitled</title> <ref n="d" target="#bib283-1">2.23</ref>. This passage was written ca. <origDate notBefore="1180" notAfter="1205" period="#crusader">1180-1205 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
       <desc type="context">We know next to nothing about the European traveller to the Holy Land
         called Anonymous Pilgrim V, whose account survives in one manuscript in Austria. The editor
         Wilhelm Neumann argued that, while his journey seems to have preceded the fall of Jerusalem

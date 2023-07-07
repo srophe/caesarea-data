@@ -4,8 +4,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="en" level="a">George
-               Choeroboscus, <title level="m">Parsings on Psalms</title> 20.13-24</title>
+            <title xml:lang="en" level="a">George Choeroboscus, <title level="m">Parsings on Psalms</title> 20.13-24</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
             <sponsor>Vanderbilt University</sponsor>
             <principal>Joseph L. Rife</principal>
@@ -299,8 +298,7 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/481</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract481-1">and <quote><placeName>Kaisareia</placeName></quote> is directly attested at <persName ref="http://viaf.org/viaf/34444948" role="author">George
-               Choeroboscus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Parsings on Psalms</title> <ref>20.13-24</ref>. This passage was written ca. <origDate notBefore="815" notAfter="845">ca. 815-845 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+         <desc type="abstract" xml:id="abstract481-1">and <quote><placeName>Kaisareia</placeName></quote> is directly attested at <persName ref="http://viaf.org/viaf/34444948" role="author">George Choeroboscus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Parsings on Psalms</title> <ref n="a" target="#bib481-1">20.13-24</ref>. This passage was written ca. <origDate notBefore="815" notAfter="845" period="#earlyIslamic">ca. 815-845 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
          <desc type="context">George Choeroboscus (“Swineherd”), whose posthumous reputation may
             have suffered from an association with iconoclasm, was a ranking official and teacher in
             the Patriarchate of Constantinople during the early 9th century. He played an important

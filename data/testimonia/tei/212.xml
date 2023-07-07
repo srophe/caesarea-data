@@ -291,7 +291,7 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/212</idno>
          </ab>
          <desc type="abstract" xml:id="abstract212-1">
-        <quote><placeName>Cesaire</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Holy Pilgrimages</title> <ref target="#bib212-1">7-9</ref>. This passage was written ca. <origDate notBefore="1229" notAfter="1239" period="#crusader">1229-1239 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
+        <quote><placeName>Cesaire</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Holy Pilgrimages</title> <ref n="a" target="#bib212-1">7-9</ref>. This passage was written ca. <origDate notBefore="1229" notAfter="1239" period="#crusader">1229-1239 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
          <desc type="context">The <title>Holy Pilgrimages</title> of unknown authorship was composed
             during the time when the Crusaders had recovered control of Jerusalem, for roughly a
             decade in the second quarter of the 13th century. It traces two routes for pilgrims,

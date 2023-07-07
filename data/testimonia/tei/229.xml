@@ -4,8 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="en" level="a">Evagrius
-               Scholasticus, <title level="m">Church History</title> 2.25</title>
+        <title xml:lang="en" level="a">Evagrius Scholasticus, <title level="m">Church History</title> 2.25</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
         <sponsor>Vanderbilt University</sponsor>
         <principal>Joseph L. Rife</principal>
@@ -279,9 +278,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/229</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract229-1">Caesarea Maritima is indirectly attested at <persName role="author" ref="http://viaf.org/viaf/8181546">Evagrius
-               Scholasticus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Church History</title> <ref target="#bib229-1">2.25</ref>. This passage was written ca. <origDate notBefore="0593" notAfter="0598" period="#byzantine">593-598 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/661385">Antioch on the
-               Orontes</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract229-1">Caesarea Maritima is indirectly attested at <persName role="author" ref="http://viaf.org/viaf/8181546">Evagrius Scholasticus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Church History</title> <ref n="a" target="#bib229-1">2.25</ref>. This passage was written ca. <origDate notBefore="0593" notAfter="0598" period="#byzantine">593-598 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/661385">Antioch on the Orontes</origPlace>.</desc>
       <desc type="context">Evagrius Scholasticus came from a background of wealth and education in
         Syria and rose to prominence in the circles of power in the early Byzantine empire and
         church, as legal advisor of the Patriarchate of Antioch and honorary officeholder under

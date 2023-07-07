@@ -4,8 +4,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="en" level="a">Unknown, <title level="m">Honors for an Athlete,
-               IAph2007</title> 12.214</title>
+            <title xml:lang="en" level="a">Unknown, <title level="m">Honors for an Athlete, IAph2007</title> 12.214</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
             <sponsor>Vanderbilt University</sponsor>
             <principal>Joseph L. Rife</principal>
@@ -285,8 +284,7 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/63</idno>
          </ab>
          <desc type="abstract" xml:id="abstract63-1">
-        <quote><placeName>Κα̣ισαρείαν τῆς Στράτωνος</placeName></quote>, and <quote><placeName>Straton’s Caesarea</placeName></quote> are directly attested at <persName ref="" role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Honors for an Athlete,
-               IAph2007</title> <ref>12.214</ref>. This passage was written ca. <origDate notBefore="0138" notAfter="0169">138-169 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/638753">Aphrodisias</origPlace>.</desc>
+        <quote><placeName>Κα̣ισαρείαν τῆς Στράτωνος</placeName></quote>, and <quote><placeName>Straton’s Caesarea</placeName></quote> are directly attested at <persName ref="" role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Honors for an Athlete, IAph2007</title> <ref n="a" target="#bib63-1">12.214</ref>. This passage was written ca. <origDate notBefore="0138" notAfter="0169" period="#lateRoman">138-169 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/638753">Aphrodisias</origPlace>.</desc>
          <desc type="context">This text was inscribed probably on a marble statue-base found near
             the eastern city-wall at Aphrodisias in Caria, western Asia Minor. The eight surviving
             lines written in the mid-2nd century recognize the public honors for T. Aelius Aurelius

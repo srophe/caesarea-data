@@ -290,7 +290,7 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/496</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract496-1">Caesarea Maritima is indirectly attested at <persName role="author" ref="http://viaf.org/viaf/88881722">Justinian I</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Novels</title> <ref target="#bib496-1">103.2-epil.</ref>. This passage was written ca. <origDate when="0536" period="#byzantine">536 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998687995">Constantinople</origPlace>.</desc>
+         <desc type="abstract" xml:id="abstract496-1">Caesarea Maritima is indirectly attested at <persName role="author" ref="http://viaf.org/viaf/88881722">Justinian I</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Novels</title> <ref n="c" target="#bib496-1">103.2-epil.</ref>. This passage was written ca. <origDate when="0536" period="#byzantine">536 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998687995">Constantinople</origPlace>.</desc>
          <desc type="context">The emperor Justinian directed a comprehensive reform of Roman Law
             that compiled and edited earlier jurisprudence. This new sole authority on legal
             matters, the <title>Body of Civil Law</title> (<title>Corpus iuris civilis</title>),

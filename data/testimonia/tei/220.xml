@@ -279,7 +279,7 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/220</idno>
       </ab>
       <desc type="abstract" xml:id="abstract220-1">
-        <quote><placeName>Στράτωνος πύργος</placeName></quote>, and <quote><placeName>Strato’s Tower</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/255656584" role="author">Strabo</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Geography</title> <ref target="#bib220-1">16.2.27</ref>. This passage was written ca. <origDate notBefore="0007" notAfter="0024" period="#nabateanKingdom #earlyRoman #herodian #middleNabatean">7-24 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/727070">Alexandria or Rome</origPlace>.</desc>
+        <quote><placeName>Στράτωνος πύργος</placeName></quote>, and <quote><placeName>Strato’s Tower</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/255656584" role="author">Strabo</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Geography</title> <ref n="a" target="#bib220-1">16.2.27</ref>. This passage was written ca. <origDate notBefore="0007" notAfter="0024" period="#nabateanKingdom #earlyRoman #herodian #middleNabatean">7-24 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/727070">Alexandria or Rome</origPlace>.</desc>
       <desc type="context">Strabo was a scholar from a prosperous family in north central Asia
         Minor. He spent much of his career during the reign of Augustus traveling for research to
         compile an encyclopedic survey of the contemporary world. His work in 17 books chronicles

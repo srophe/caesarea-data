@@ -4,8 +4,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="en" level="a">Unknown, <title level="m">The Teaching of the Recently
-               Baptized Jacob</title> 5.16</title>
+            <title xml:lang="en" level="a">Unknown, <title level="m">The Teaching of the Recently Baptized Jacob</title> 5.16</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
             <sponsor>Vanderbilt University</sponsor>
             <principal>Joseph L. Rife</principal>
@@ -317,8 +316,7 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/379</idno>
          </ab>
          <desc type="abstract" xml:id="abstract379-1">
-        <quote><placeName>Καισάρειαν</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="" role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">The Teaching of the Recently
-               Baptized Jacob</title> <ref>5.16</ref>. This passage was written ca. <origDate notBefore="634" notAfter="640">ca. 634-640 C.E</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
+        <quote><placeName>Καισάρειαν</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="" role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">The Teaching of the Recently Baptized Jacob</title> <ref n="a" target="#bib379-1">5.16</ref>. This passage was written ca. <origDate notBefore="634" notAfter="640" period="#byzantine #earlyIslamic">ca. 634-640 C.E</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
          <desc type="context">The unusual prose narrative <title>The Teaching of the Recently
                Baptized Jacob</title> offers valuable insight into Christian, Jewish, and Muslim
             relations during a momentous period of Middle Eastern and Mediterranean history, the

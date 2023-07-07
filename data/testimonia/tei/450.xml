@@ -4,8 +4,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="en" level="a">Priscian, <title level="m">Praise for the Emperor
-               Anastasius</title> 180-192</title>
+            <title xml:lang="en" level="a">Priscian, <title level="m">Praise for the Emperor Anastasius</title> 180-192</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
             <sponsor>Vanderbilt University</sponsor>
             <principal>Joseph L. Rife</principal>
@@ -284,8 +283,7 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/450</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract450-1">Caesarea Maritima is indirectly attested at <persName ref=" http://viaf.org/viaf/76294069" role="author">Priscian</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Praise for the Emperor
-               Anastasius</title> <ref>180-192</ref>. This passage was written ca. <origDate when="0512">512 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+         <desc type="abstract" xml:id="abstract450-1">Caesarea Maritima is indirectly attested at <persName ref=" http://viaf.org/viaf/76294069" role="author">Priscian</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Praise for the Emperor Anastasius</title> <ref n="a" target="#bib450-1">180-192</ref>. This passage was written ca. <origDate when="0512" period="#byzantine">512 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
          <desc type="context">Priscian from Mauretanian Caesarea grew up in the Vandalic Kingdom and
             spent his career as a leading Lating grammarian at Constantinople in the early 6th
             century. He wrote his widely influential description of Latin grammar and technical

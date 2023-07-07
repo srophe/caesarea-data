@@ -283,7 +283,7 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/44</idno>
          </ab>
          <desc type="abstract" xml:id="abstract44-1">
-        <quote><placeName>Caesaream</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/100226923" role="author">Tacitus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Histories</title> <ref target="#bib44-1">2.78-2.79</ref>. This passage was written ca. <origDate notBefore="0100" notAfter="0110" period="#nabateanKingdom #earlyRoman">100-110 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+        <quote><placeName>Caesaream</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/100226923" role="author">Tacitus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Histories</title> <ref n="a" target="#bib44-1">2.78-2.79</ref>. This passage was written ca. <origDate notBefore="0100" notAfter="0110" period="#nabateanKingdom #earlyRoman">100-110 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
          <desc type="context">Cornelius Tacitus (ca. 56-ca. 120 C.E.) was an ancient historian of
             the Roman Empire held in high esteem by scholars today. He enjoyed a successful career
             as a prominent lawyer, a rising official in both the civic and provincial spheres, and

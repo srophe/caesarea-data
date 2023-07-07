@@ -284,7 +284,7 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/461</idno>
          </ab>
          <desc type="abstract" xml:id="abstract461-1">
-        <quote><placeName>Καισαρείας τῆς Παλαιστίνης</placeName></quote>, and <quote><placeName>Caesarea Palestinae</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/305409681" role="author">Sozomen</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Church History</title> <ref>6.4.6</ref>. This passage was written ca. <origDate notBefore="0440" notAfter="0450">ca. 440-450 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+        <quote><placeName>Καισαρείας τῆς Παλαιστίνης</placeName></quote>, and <quote><placeName>Caesarea Palestinae</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/305409681" role="author">Sozomen</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Church History</title> <ref n="g" target="#bib461-1">6.4.6</ref>. This passage was written ca. <origDate notBefore="0440" notAfter="0450" period="#byzantine">ca. 440-450 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
          <desc type="context">Salaminius Hermias Sozomenos, or Sozomen, was an important
             ecclesiastical historian of the first half of the 5th century. Born to a wealthy
             Christian family in the region of Gaza, he learned classical and sacred literature under

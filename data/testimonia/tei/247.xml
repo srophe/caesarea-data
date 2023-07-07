@@ -4,8 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="en" level="a">Unknown, <title level="m">Easter
-          Chronicle</title> 389.4-11</title>
+        <title xml:lang="en" level="a">Unknown, <title level="m">Easter Chronicle</title> 389.4-11</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
         <sponsor>Vanderbilt University</sponsor>
         <principal>Joseph L. Rife</principal>
@@ -279,8 +278,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/247</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract247-1">Caesarea Maritima is indirectly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Easter
-          Chronicle</title> <ref target="#bib247-1">389.4-11</ref>. This passage was written ca. <origDate notBefore="0630" notAfter="0630" period="#">ca. 630 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract247-1">Caesarea Maritima is indirectly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Easter Chronicle</title> <ref n="c" target="#bib247-1">389.4-11</ref>. This passage was written ca. <origDate notBefore="0630" notAfter="0630" period="#byzantine">ca. 630 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
       <desc type="context">The so-called <title>Easter Chronicle</title> (<title>Chronicon
           paschale</title>) is a universal history from the Creation down to the later reign of
         Heraclius, when it was composed, based an amalgam of biblical, Christian, and secular

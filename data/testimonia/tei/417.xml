@@ -343,11 +343,7 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/417</idno>
          </ab>
          <desc type="abstract" xml:id="abstract417-1">
-        <quote><placeName>ܩܣܪܝܐ ܕܐܣܛܪܐܛܘܢ</placeName></quote>, <quote><placeName>ܡܓܕܠܐ ܕܐܣܛܪܐܛܘܢ</placeName></quote>, <quote><placeName>Caesarea</placeName></quote>, <quote><placeName>Stratonis</placeName></quote>, and <quote>
-          <placeName>The Tower of
-               Strato</placeName>
-        </quote> are directly attested at <persName ref="" role="author">Dionysios bar Ṣalibi</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Commentary on Matthew</title> <ref n="a" target="#bib417-1">16:13</ref>. This passage was written ca. <origDate notBefore="1144" notAfter="1171" period="#crusader">1144-1171 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/658474"> Caesarea
-               Germanicia</origPlace>.</desc>
+        <quote><placeName>ܩܣܪܝܐ ܕܐܣܛܪܐܛܘܢ</placeName></quote>, <quote><placeName>ܡܓܕܠܐ ܕܐܣܛܪܐܛܘܢ</placeName></quote>, <quote><placeName>Caesarea</placeName></quote>, <quote><placeName>Stratonis</placeName></quote>, and <quote><placeName>The Tower of Strato</placeName></quote> are directly attested at <persName ref="" role="author">Dionysios bar Ṣalibi</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Commentary on Matthew</title> <ref n="a" target="#bib417-1">16:13</ref>. This passage was written ca. <origDate notBefore="1144" notAfter="1171" period="#crusader">1144-1171 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/658474">Caesarea Germanicia</origPlace>.</desc>
          <desc type="context">Bar Ṣalibi was one of the most prolific commentators to write in
             Syriac. He composed commentaries on both biblical testaments as well as on Aristotle,
             Evagrius of Pontus, and other texts. His scholarly productivity is usually seen as part

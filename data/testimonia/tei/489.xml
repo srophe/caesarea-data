@@ -4,8 +4,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="en" level="a">Cyril of
-               Scythopolis, <title level="m">Life of Euthymius</title> 26.39.18-26.40.2</title>
+            <title xml:lang="en" level="a">Cyril of Scythopolis, <title level="m">Life of Euthymius</title> 26.39.18-26.40.2</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
             <sponsor>Vanderbilt University</sponsor>
             <principal>Joseph L. Rife</principal>
@@ -317,8 +316,7 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/489</idno>
          </ab>
          <desc type="abstract" xml:id="abstract489-1">
-        <quote><placeName>Καισάρειαν</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/8181483">Cyril of
-               Scythopolis</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Life of Euthymius</title> <ref>26.39.18-26.40.2</ref>. This passage was written ca. <origDate notBefore="0544" notAfter="0558">ca. 544-558 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
+        <quote><placeName>Καισάρειαν</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/8181483">Cyril of Scythopolis</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Life of Euthymius</title> <ref n="a" target="#bib489-1">26.39.18-26.40.2</ref>. This passage was written ca. <origDate notBefore="0544" notAfter="0558" period="#byzantine">ca. 544-558 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
          <desc type="context">Cyril from Scythopolis (ca. 525-559 C.E.) was a monk who wrote
             detailed hagiographies of seven roughly contemporary or slightly earlier monks. His
             works are essential historical sources for Palestinian monasticism, theology, and

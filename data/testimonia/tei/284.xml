@@ -4,8 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="en" level="a">Anonymous X, <title level="m">Itinerary of the Holy
-               Places</title> 408</title>
+        <title xml:lang="en" level="a">Anonymous X, <title level="m">Itinerary of the Holy Places</title> 408</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
         <sponsor>Vanderbilt University</sponsor>
         <principal>Joseph L. Rife</principal>
@@ -278,8 +277,7 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/284</idno>
       </ab>
       <desc type="abstract" xml:id="abstract284-1">
-        <quote><placeName>Cesaream</placeName></quote>, <quote><placeName>Cesarea</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author">Anonymous X</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Itinerary of the Holy
-               Places</title> <ref n="a" target="#bib284-1">408</ref>. This passage was written ca. <origDate notBefore="1229" notAfter="1239" period="#crusader">1229-1239 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
+        <quote><placeName>Cesaream</placeName></quote>, <quote><placeName>Cesarea</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author">Anonymous X</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Itinerary of the Holy Places</title> <ref n="a" target="#bib284-1">408</ref>. This passage was written ca. <origDate notBefore="1229" notAfter="1239" period="#crusader">1229-1239 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
       <desc type="context">This brief guide for pilgrims to the Holy Land of unknown authorship
             is preserved in a manuscript in Milan that probably postdates composition by only a few
             decades. It displays the familiar features of the genre, though all geographic and

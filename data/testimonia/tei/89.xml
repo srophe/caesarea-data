@@ -279,7 +279,7 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/89</idno>
          </ab>
          <desc type="abstract" xml:id="abstract89-1">
-        <quote><placeName>Καισάρειαν</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/88873163">Hippolytus of Rome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref target="#bib89-1">527</ref>. This passage was written ca. <origDate notBefore="0234" notAfter="0235" period="#lateRoman">234-235 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+        <quote><placeName>Καισάρειαν</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/88873163">Hippolytus of Rome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref n="a" target="#bib89-1">527</ref>. This passage was written ca. <origDate notBefore="0234" notAfter="0235" period="#lateRoman">234-235 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
          <desc type="context">Hippolytus was an enigmatic ecclesiastical scholar of the early 3rd
             century, possibly a presbyter from Rome and later bishop, whose surviving corpus is
             impressive for its scale and scope. One of the most popular among his works in later

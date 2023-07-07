@@ -4,8 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="en" level="a">Anonymous Pilgrim
-          V, <title level="m">[Untitled]</title> 1.1</title>
+        <title xml:lang="en" level="a">Anonymous Pilgrim V, <title level="m">Untitled</title> 1.1</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
         <sponsor>Vanderbilt University</sponsor>
         <principal>Joseph L. Rife</principal>
@@ -281,9 +280,7 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/280</idno>
       </ab>
       <desc type="abstract" xml:id="abstract280-1">
-        <quote><placeName>Cesaream</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author">Anonymous Pilgrim
-          V</persName>, <title xml:lang="en" ref="" type="uniform" level="m">[Untitled]</title> <ref target="#bib280-1">1.1</ref>. This passage was written ca. <origDate notBefore="1180" notAfter="1205" period="#crusader">1180-1205
-          C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
+        <quote><placeName>Cesaream</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author">Anonymous Pilgrim V</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Untitled</title> <ref n="a" target="#bib280-1">1.1</ref>. This passage was written ca. <origDate notBefore="1180" notAfter="1205" period="#crusader">1180-1205 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
       <desc type="context">We know next to nothing about the European traveller to the Holy Land
         called Anonymous Pilgrim V, whose account survives in one manuscript in Austria. The editor
         Wilhelm Neumann argued that, while his journey seems to have preceded the fall of Jerusalem

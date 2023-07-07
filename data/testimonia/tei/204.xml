@@ -4,9 +4,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="en" level="a">Burchard of Mt.
-               Sion, <title level="m">Description of the Holy
-               Land</title> 10.1-5</title>
+            <title xml:lang="en" level="a">Burchard of Mt. Sion, <title level="m">Description of the Holy Land</title> 10.1-5</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
             <sponsor>Vanderbilt University</sponsor>
             <principal>Joseph L. Rife</principal>
@@ -281,12 +279,7 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/204</idno>
          </ab>
          <desc type="abstract" xml:id="abstract204-1">
-        <quote><placeName>Cesarea</placeName></quote>, <quote>
-          <placeName>Pyrgus
-               Stratonis</placeName>
-        </quote>, <quote><placeName>Cesaream</placeName></quote>, <quote><placeName>Caesarea</placeName></quote>, and <quote><placeName>Pyrgus Stratonis</placeName></quote> are directly attested at <persName ref="https://pleiades.stoa.org/places/687995" role="author">Burchard of Mt.
-               Sion</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Description of the Holy
-               Land</title> <ref n="c" target="#bib204-1">10.1-5</ref>. This passage was written ca. <origDate notBefore="1274" notAfter="1285" period="#crusader">1274-1285 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/1001939">Palestine</origPlace>.</desc>
+        <quote><placeName>Cesarea</placeName></quote>, <quote><placeName>Pyrgus Stratonis</placeName></quote>, <quote><placeName>Cesaream</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="https://pleiades.stoa.org/places/687995" role="author">Burchard of Mt. Sion</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Description of the Holy Land</title> <ref n="c" target="#bib204-1">10.1-5</ref>. This passage was written ca. <origDate notBefore="1274" notAfter="1285" period="#crusader">1274-1285 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/1001939">Palestine</origPlace>.</desc>
          <desc type="context">Burchard of Mt. Sion was a Dominican friar from Magdeburg in Lower
             Saxony who wrote the the most important description of the Holy Land from the 13th
             century. The earliest and longest account of his pilgrimage, which grew particularly

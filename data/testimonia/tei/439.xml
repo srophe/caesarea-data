@@ -4,7 +4,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="en" level="a">Unknown, <title level="m">Military Account, P.Nessana </title> 36</title>
+            <title xml:lang="en" level="a">Unknown, <title level="m">Military Account, P.Nessana</title> 36</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
             <sponsor>Vanderbilt University</sponsor>
             <principal>Joseph L. Rife</principal>
@@ -282,7 +282,7 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/439</idno>
          </ab>
          <desc type="abstract" xml:id="abstract439-1">
-        <quote><placeName>Καισαρίᾳ</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="" role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Military Account, P.Nessana </title> <ref target="#bib439-1">36</ref>. This passage was written ca. <origDate notBefore="500" notAfter="599" period="#byzantine">ca. 500-599 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687988">Nessana</origPlace>.</desc>
+        <quote><placeName>Καισαρίᾳ</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="" role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Military Account, P.Nessana</title> <ref n="a" target="#bib439-1">36</ref>. This passage was written ca. <origDate notBefore="500" notAfter="599" period="#byzantine">ca. 500-599 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687988">Nessana</origPlace>.</desc>
          <desc type="context">Excavations in 1935-1937 by Princeton University at the site of
             Nessana, a Nabataean city in the Negev Desert on the Egyptian frontier, uncovered an
             important assemblage of literary and documentary texts on papyri. These texts are

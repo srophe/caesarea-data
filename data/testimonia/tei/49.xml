@@ -284,7 +284,7 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/49</idno>
          </ab>
          <desc type="abstract" xml:id="abstract49-1">
-        <quote><placeName>c̣[o]l(onia) I Fl(avia) Aug(usta) Caes(area)</placeName></quote>, and <quote><placeName>First Flavian Colony of Caesarea</placeName></quote> are directly attested at <persName ref="" role="author">Pomponius</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Petition from Veterans, PSI</title> <ref>9.1026A</ref>. This passage was written ca. <origDate when="0150">150 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</desc>
+        <quote><placeName>c̣[o]l(onia) I Fl(avia) Aug(usta) Caes(area)</placeName></quote>, and <quote><placeName>First Flavian Colony of Caesarea</placeName></quote> are directly attested at <persName ref="" role="author">Pomponius</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Petition from Veterans, PSI</title> <ref n="a" target="#bib49-1">9.1026A</ref>. This passage was written ca. <origDate when="0150" period="#lateRoman">150 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</desc>
          <desc type="context">This long text survives in two copies on papyrus at the Bibliotheca
             Medicea Laurenziana (inv. 14488): A with writing mostly on the front and a single short
             column against the fibers on the back, and B with writing on one side. It contains a

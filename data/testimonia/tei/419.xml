@@ -4,8 +4,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="en" level="a">Suetonius, <title level="m">Biography of the Caesars:
-               Claudius</title> 28</title>
+            <title xml:lang="en" level="a">Suetonius, <title level="m">Biography of the Caesars: Claudius</title> 28</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
             <sponsor>Vanderbilt University</sponsor>
             <principal>Joseph L. Rife</principal>
@@ -284,8 +283,7 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/419</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract419-1">Caesarea Maritima is indirectly attested at <persName ref=" http://viaf.org/viaf/89599270" role="author">Suetonius</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Biography of the Caesars:
-               Claudius</title> <ref>28</ref>. This passage was written ca. <origDate notBefore="0117" notAfter="0122">117-122 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+         <desc type="abstract" xml:id="abstract419-1">Caesarea Maritima is indirectly attested at <persName ref=" http://viaf.org/viaf/89599270" role="author">Suetonius</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Biography of the Caesars: Claudius</title> <ref n="a" target="#bib419-1">28</ref>. This passage was written ca. <origDate notBefore="0117" notAfter="0122" period="#earlyRoman">117-122 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
          <desc type="context">Gaius Suetonius Tranquillus, or simply Suetonius (69-122 C.E.), was a
             historian of the early Roman Empire. Possibly originating in Numidia (modern Algeria),
             he was an accomplished intellectual in the Imperial capital who developed a close

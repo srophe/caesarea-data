@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="en" level="a">Theodoret, <title level="m">Church History</title> 5.8.4-5.8.6</title>
+        <title xml:lang="en" level="a">Theodoret of Cyrrhus, <title level="m">Church History</title> 5.8.4-5.8.6</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
         <sponsor>Vanderbilt University</sponsor>
         <principal>Joseph L. Rife</principal>
@@ -287,7 +287,7 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/154</idno>
       </ab>
       <desc type="abstract" xml:id="abstract154-1">
-        <quote><placeName>Καισαρείας τῆς Παλαιστίνης</placeName></quote>, and <quote><placeName>Caesarea in Palestine</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/77111352" role="author">Theodoret</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Church History</title> <ref>5.8.4-5.8.6</ref>. This passage was written ca. <origDate notBefore="0449" notAfter="0458">ca. 449-458 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/658446">Cyrrhus</origPlace>.</desc>
+        <quote><placeName>Καισαρείας τῆς Παλαιστίνης</placeName></quote>, and <quote><placeName>Caesarea in Palestine</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/77111352" role="author">Theodoret of Cyrrhus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Church History</title> <ref n="f" target="#bib154-1">5.8.4-5.8.6</ref>. This passage was written ca. <origDate notBefore="0449" notAfter="0458" period="#byzantine">ca. 449-458 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/658446">Cyrrhus</origPlace>.</desc>
       <desc type="context">Theodoret served as bishop of Cyrrhus in northwestern Syria in 423-457
             C.E. Following his wide education in both the Christian and the Greek traditions and a
             brief monastic devotion, he became a vigorous leader of his diocese, distinguished by

@@ -4,8 +4,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="en" level="a">Constantine VII
-               Porphyrogenitus, <title level="m">Plots</title> 171.6-34</title>
+            <title xml:lang="en" level="a">Constantine VII Porphyrogenitus, <title level="m">Plots</title> 171.6-34</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
             <sponsor>Vanderbilt University</sponsor>
             <principal>Joseph L. Rife</principal>
@@ -316,8 +315,7 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/502</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract502-1">Caesarea Maritima is indirectly attested at <persName role="author" ref="http://viaf.org/viaf/13108540">Constantine VII
-               Porphyrogenitus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Plots</title> <ref>171.6-34</ref>. This passage was written ca. <origDate notBefore="0930" notAfter="0955">ca. 930-955 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+         <desc type="abstract" xml:id="abstract502-1">Caesarea Maritima is indirectly attested at <persName role="author" ref="http://viaf.org/viaf/13108540">Constantine VII Porphyrogenitus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Plots</title> <ref n="b" target="#bib502-1">171.6-34</ref>. This passage was written ca. <origDate notBefore="0930" notAfter="0955" period="#earlyIslamic">ca. 930-955 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
          <desc type="context">Constantine VII Flavius Porphyrogenitus (“born in the purple”) ruled
             the Byzantine Empire as a member of the Macedonian dynasty in 913-959 C.E. Beyond the
             challenges he faced in managing Imperial authority and international relations

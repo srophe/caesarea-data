@@ -4,8 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="en" level="a">Evagrius
-               Scholasticus, <title level="m">Church History</title> 4.7b</title>
+        <title xml:lang="en" level="a">Evagrius Scholasticus, <title level="m">Church History</title> 4.7c</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
         <sponsor>Vanderbilt University</sponsor>
         <principal>Joseph L. Rife</principal>
@@ -280,9 +279,7 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/231</idno>
       </ab>
       <desc type="abstract" xml:id="abstract231-1">
-        <quote><placeName>τὴν Καίσαρος</placeName></quote>, <quote><placeName>τῆς Καίσαρος</placeName></quote>, and <quote><placeName>city of Caesar</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/296114344">Evagrius
-               Scholasticus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Church History</title> <ref target="#bib231-1">4.7b</ref>. This passage was written ca. <origDate notBefore="0593" notAfter="0598" period="#byzantine">593-598 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/658381">Antioch on the
-               Orontes</origPlace>.</desc>
+        <quote><placeName>τὴν Καίσαρος</placeName></quote>, <quote><placeName>τῆς Καίσαρος</placeName></quote>, and <quote><placeName>city of Caesar</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/296114344">Evagrius Scholasticus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Church History</title> <ref n="d" target="#bib231-1">4.7c</ref>. This passage was written ca. <origDate notBefore="0593" notAfter="0598" period="#byzantine">593-598 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/658381">Antioch on the Orontes</origPlace>.</desc>
       <desc type="context">Evagrius Scholasticus came from a background of wealth and education in
         Syria and rose to prominence in the circles of power in the early Byzantine empire and
         church, as legal advisor of the Patriarchate of Antioch and honorary officeholder under

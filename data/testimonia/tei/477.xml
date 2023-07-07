@@ -4,8 +4,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="en" level="a">Theodoret of
-               Cyrrhus, <title level="m">Letters</title> 110.40.20-42.8</title>
+            <title xml:lang="en" level="a">Theodoret of Cyrrhus, <title level="m">Letters</title> 110.40.20-42.8</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
             <sponsor>Vanderbilt University</sponsor>
             <principal>Joseph L. Rife</principal>
@@ -316,8 +315,7 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/477</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract477-1">and <quote><placeName>Καισαρείας</placeName></quote> is directly attested at <persName ref="http://viaf.org/viaf/55571017" role="author">Theodoret of
-               Cyrrhus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Letters</title> <ref>110.40.20-42.8</ref>. This passage was written ca. <origDate when="0448">448 C.E. </origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/658446">Cyrrhus</origPlace>.</desc>
+         <desc type="abstract" xml:id="abstract477-1">and <quote><placeName>Καισαρείας</placeName></quote> is directly attested at <persName ref="http://viaf.org/viaf/55571017" role="author">Theodoret of Cyrrhus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Letters</title> <ref n="a" target="#bib477-1">110.40.20-42.8</ref>. This passage was written ca. <origDate when="0448" period="#byzantine">448 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/658446">Cyrrhus</origPlace>.</desc>
          <desc type="context">Theodoret served as bishop of Cyrrhus in northwestern Syria in 423-457
             C.E. Following his wide education in both the Christian and the Greek traditions and a
             brief monastic devotion, he became a vigorous leader of his diocese, distinguished by

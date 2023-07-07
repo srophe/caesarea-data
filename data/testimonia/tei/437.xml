@@ -283,7 +283,7 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/437</idno>
          </ab>
          <desc type="abstract" xml:id="abstract437-1">
-        <quote><placeName>ἡ Καίσαρος</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/88917599" role="author">Choricius of Gaza</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Speeches</title> <ref target="#bib437-1">8.12-8.14</ref>. This passage was written ca. <origDate notBefore="0526" notAfter="0527" period="#byzantine">526-527 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687902">Gaza</origPlace>.</desc>
+        <quote><placeName>ἡ Καίσαρος</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/88917599" role="author">Choricius of Gaza</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Speeches</title> <ref n="g" target="#bib437-1">8.12-8.14</ref>. This passage was written ca. <origDate notBefore="0526" notAfter="0527" period="#byzantine">526-527 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687902">Gaza</origPlace>.</desc>
          <desc type="context">Choricius was a leading figure of the rhetorical flowering at Late
             Antique Gaza. Although we know nothing of his career, his evident professional success,
             references within his writings, and his reputation for stylistic sophistication among

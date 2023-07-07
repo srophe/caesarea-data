@@ -283,7 +283,7 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/158</idno>
          </ab>
          <desc type="abstract" xml:id="abstract158-1">
-        <quote><placeName>Καισαρείας τῆς Παλαιστίνης</placeName></quote>, and <quote><placeName>Caesarea in Palestine</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/61550437" role="author">Palladius of Aspuna</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Dialog on the Life of St. John Chrysostom</title> <ref target="#bib323-1">20.143-157</ref>. This passage was written ca. <origDate notBefore="0405" notAfter="0408" period="#">ca. 405-408 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/23296898">Hellenopolis</origPlace>.</desc>
+        <quote><placeName>Καισαρείας τῆς Παλαιστίνης</placeName></quote>, and <quote><placeName>Caesarea in Palestine</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/61550437" role="author">Palladius of Aspuna</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Dialog on the Life of St. John Chrysostom</title> <ref n="a" target="#bib158-1">20.143-157</ref>. This passage was written ca. <origDate notBefore="0405" notAfter="0408" period="#byzantine">ca. 405-408 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/23296898">Hellenopolis</origPlace>.</desc>
          <desc type="context">During an era of revolutionary religious practice and intense
             theological debate, Palladius of Aspuna is famous as the author of one of the most
             influential works of Late Antiquity, the collection of biographies of holy persons in

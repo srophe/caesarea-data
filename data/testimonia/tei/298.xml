@@ -4,8 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="en" level="a">John Phocas, <title level="m">Short
-          Description of the Holy Places</title> 30</title>
+        <title xml:lang="en" level="a">John Phocas, <title level="m">Short Description of the Holy Places</title> 30</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
         <sponsor>Vanderbilt University</sponsor>
         <principal>Joseph L. Rife</principal>
@@ -279,8 +278,7 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/298</idno>
       </ab>
       <desc type="abstract" xml:id="abstract298-1">
-        <quote><placeName>Καισάρεια</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/306432747" role="author">John Phocas</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Short
-          Description of the Holy Places</title> <ref target="#bib298-1">30</ref>. This passage was written ca. <origDate notBefore="1175" notAfter="1195" period="#crusader">1175-1195 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
+        <quote><placeName>Καισάρεια</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/306432747" role="author">John Phocas</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Short Description of the Holy Places</title> <ref n="a" target="#bib298-1">30</ref>. This passage was written ca. <origDate notBefore="1175" notAfter="1195" period="#crusader">1175-1195 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
       <desc type="context">John Phocas wrote an account of his pilgrimage to the Holy Land during
             the last quarter of the 12th century. He was an educated priest probably from the
             eastern Aegean islands who had occasionally served the Byzantine Emperor Manuel I as a

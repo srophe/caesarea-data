@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="en" level="a">Procopius, <title level="m">Secret History</title> 27.26-27.31</title>
+        <title xml:lang="en" level="a">Procopius of Caesarea, <title level="m">Secret History</title> 27.26-27.31</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
         <sponsor>Vanderbilt University</sponsor>
         <principal>Joseph L. Rife</principal>
@@ -285,7 +285,7 @@
       <ab type="identifier">
         <idno type="URI">https://caesarea-maritima.org/testimonia/55</idno>
       </ab>
-      <desc type="abstract" xml:id="abstract55-1">Caesarea Maritima is indirectly attested at <persName ref="http://viaf.org/viaf/100172302" role="author">Procopius</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Secret History</title> <ref>27.26-27.31</ref>. This passage was written ca. <origDate notBefore="0550" notAfter="0560">550-560 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+      <desc type="abstract" xml:id="abstract55-1">Caesarea Maritima is indirectly attested at <persName ref="http://viaf.org/viaf/100172302" role="author">Procopius of Caesarea</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Secret History</title> <ref n="b" target="#bib55-1">27.26-27.31</ref>. This passage was written ca. <origDate notBefore="0550" notAfter="0560" period="#byzantine">550-560 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
       <desc type="context">Procopius, a native of Caesarea Maritima who excelled in his classical
             education and legal training, was the preeminent historian of the reign of Justinian. As
             a field advisor to the general Belisarius and a ranking member of the governing class in

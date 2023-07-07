@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="en" level="a">Eusebius of Caesarea, <title level="m">Ecclesiastical History</title> 7.32.21</title>
+        <title xml:lang="en" level="a">Eusebius of Caesarea, <title level="m">Church History</title> 7.32.21</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
         <sponsor>Vanderbilt University</sponsor>
         <principal>Joseph L. Rife</principal>
@@ -286,7 +286,7 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/117</idno>
       </ab>
       <desc type="abstract" xml:id="abstract117-1">
-        <quote><placeName xml:lang="grc">Καισαρείας</placeName></quote>, and <quote><placeName xml:lang="en">Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>, <title ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Ecclesiastical History</title> <ref n="f" target="#bib117-1">7.32.21</ref>. This passage was written ca. <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
+        <quote><placeName>Καισαρείας</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>, <title ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Church History</title> <ref n="f" target="#bib117-1">7.32.21</ref>. This passage was written ca. <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote117-1">
         <anchor xml:id="testimonia-117.grc.1" corresp="#testimonia-117.en.1"/>τούτῳ πρῶτος ὁ τῆς Παλαιστινῶν <placeName xml:lang="grc">Καισαρείας</placeName> ἐπίσκοπος Θεότεκνος χεῖρας εἰς ἐπισκοπὴν ἐπιτέθεικε, διάδοχον ἑαυτοῦ μετὰ τελευτὴν ποριεῖσθαι τῇ ἰδίᾳ παροικίᾳ προμνώμενος. καὶ δὴ ἐπὶ σμικρόν τινα χρόνον ἄμφω τῆς αὐτῆς προύστησαν ἐκκλησίας, ἀλλὰ γὰρ ἐπὶ τὴν Ἀντιόχειαν τῆς κατὰ Παῦλον συνόδου καλούσης, τὴν Λαοδικέων πόλιν παριὼν πρὸς τῶν ἀδελφῶν αὐτόθι κοιμηθέντος Εὐσεβίου κεκράτηται·<ab type="source" source="#bib117-1"/>
         <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg002.1st1K-grc2:7.32.21</idno>

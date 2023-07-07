@@ -284,7 +284,7 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/429</idno>
          </ab>
          <desc type="abstract" xml:id="abstract429-1">
-        <quote><placeName>Καισαρείᾳ</placeName></quote>, <quote><placeName>Καισαρείας</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/69168180" role="author">John Moschus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Spiritual Meadow</title> <ref>131</ref>. This passage was written ca. <origDate notBefore="0610" notAfter="0619">610-619 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+        <quote><placeName>Καισαρείᾳ</placeName></quote>, <quote><placeName>Καισαρείας</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/69168180" role="author">John Moschus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Spiritual Meadow</title> <ref n="a" target="#bib429-1">131</ref>. This passage was written ca. <origDate notBefore="0610" notAfter="0619" period="#byzantine">610-619 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
          <desc type="context">John Moschus was a monk in the Near East during the late 6th to early
             7th centuries, whose writings have been celebrated as potent devotional readings but
             have not received due attention also as historical sources. A native of Syria or

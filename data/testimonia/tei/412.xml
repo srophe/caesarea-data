@@ -4,8 +4,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="en" level="a">Unknown, <title level="m">Honors for a Musician,
-               IAph2007</title> 1.182</title>
+            <title xml:lang="en" level="a">Unknown, <title level="m">Honors for a Musician, IAph2007</title> 1.182</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
             <sponsor>Vanderbilt University</sponsor>
             <principal>Joseph L. Rife</principal>
@@ -285,8 +284,7 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/412</idno>
          </ab>
          <desc type="abstract" xml:id="abstract412-1">
-        <quote><placeName>Και- [σ]α̣ρε[ίᾳ τῆς Στρ]άτω- [νο]ς̣</placeName></quote>, and <quote><placeName>Straton’s Caesarea</placeName></quote> are directly attested at <persName ref="" role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Honors for a Musician,
-               IAph2007</title> <ref>1.182</ref>. This passage was written ca. <origDate notBefore="0200" notAfter="0249">200-249 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/638753">Aphrodisias</origPlace>.</desc>
+        <quote><placeName>Και- [σ]α̣ρε[ίᾳ τῆς Στρ]άτω- [νο]ς̣</placeName></quote>, and <quote><placeName>Straton’s Caesarea</placeName></quote> are directly attested at <persName ref="" role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Honors for a Musician, IAph2007</title> <ref n="a" target="#bib412-1">1.182</ref>. This passage was written ca. <origDate notBefore="0200" notAfter="0249" period="#lateRoman">200-249 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/638753">Aphrodisias</origPlace>.</desc>
          <desc type="context">This text was inscribed on two adjacent faces (a, b) of a white marble
             statue-base with molded panels and probably a cornice, found in the area of the
             Temple/Church at Aphrodisias in Caria, western Asia Minor. The 54 lines written in the

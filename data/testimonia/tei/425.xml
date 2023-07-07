@@ -4,7 +4,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="en" level="a">Pliny, <title level="m">Natural History</title> 6.39.213</title>
+            <title xml:lang="en" level="a">Pliny the Elder, <title level="m">Natural History</title> 6.39.213</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
             <sponsor>Vanderbilt University</sponsor>
             <principal>Joseph L. Rife</principal>
@@ -283,7 +283,7 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/425</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract425-1">and <quote><placeName>Caesaream</placeName></quote> is directly attested at <persName ref="http://viaf.org/viaf/100219162" role="author">Pliny</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Natural History</title> <ref>6.39.213</ref>. This passage was written ca. <origDate notBefore="0070" notAfter="0077">70-77 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+         <desc type="abstract" xml:id="abstract425-1">and <quote><placeName>Caesaream</placeName></quote> is directly attested at <persName ref="http://viaf.org/viaf/100219162" role="author">Pliny the Elder</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Natural History</title> <ref n="b" target="#bib425-1">6.39.213</ref>. This passage was written ca. <origDate notBefore="0070" notAfter="0077" period="#nabateanKingdom #earlyRoman #herodian">70-77 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
          <desc type="context">Gaius Plinius Secundus, or Pliny the Elder, from a family of the
             equestian class in northern Italy, was a luminary in the fields of natural history and
             philosophy. Later in life, as a close associate of Vespasian, he served several

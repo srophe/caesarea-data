@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="en" level="a">Eusebius of Caesarea, <title level="m">Ecclesiastical History</title> 3.31.5</title>
+        <title xml:lang="en" level="a">Eusebius of Caesarea, <title level="m">Church History</title> 3.31.5</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
         <sponsor>Vanderbilt University</sponsor>
         <principal>Joseph L. Rife</principal>
@@ -281,7 +281,7 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/95</idno>
       </ab>
       <desc type="abstract" xml:id="abstract95-1">
-        <quote><placeName xml:lang="grc">Καισαρείᾳ</placeName></quote>, <quote><placeName xml:lang="grc">Καισάρειαν</placeName></quote>, and <quote><placeName xml:lang="en">Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Ecclesiastical History</title> <ref n="d" target="#bib95-1">3.31.5</ref>. This passage was written ca. <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
+        <quote><placeName>Καισαρείᾳ</placeName></quote>, <quote><placeName>Καισάρειαν</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Church History</title> <ref n="d" target="#bib95-1">3.31.5</ref>. This passage was written ca. <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote95-1">
         <anchor xml:id="testimonia-95.grc.1" corresp="#testimonia-95.en.1"/>ταῦτα μὲν οὗτος. ὁ δὲ Λουκᾶς ἐν ταῖς Πράξεσι τῶν ἀποστόλων τῶν Φιλίππου θυγατέρων ἐν <placeName xml:lang="grc">Καισαρείᾳ</placeName> τῆς Ἰουδαίας ἅμα τῷ πατρὶ τότε διατριβουσῶν, προφητικοῦ τε χαρίσματος ἠξιωμένων, μνημονεύει κατὰ λέξιν ὧδέ πως λέγων “ἤλθομεν εἰς <placeName xml:lang="grc">Καισάρειαν</placeName>, καὶ εἰσελθόντες εἰς τὸν οἶκον Φιλίππου “τοῦ εὐαγγελιστοῦ ὄντος ἐκ τῶν ἑπτὰ ἐμείναμεν παρ αὐτῷ. τούτῳ δὲ ἤσαν παρθένοι θυγατέρες προφητεύουσαι τέσσαρες.”<ab type="source" source="#bib95-1"/>
         <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg002.1st1K-grc2:3.31.5</idno>

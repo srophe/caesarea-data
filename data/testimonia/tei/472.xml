@@ -4,8 +4,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="en" level="a">Unknown, <title level="m">Latin Life of Melania the
-               Younger</title> 58-59</title>
+            <title xml:lang="en" level="a">Unknown, <title level="m">Latin Life of Melania the Younger</title> 58-59</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
             <sponsor>Vanderbilt University</sponsor>
             <principal>Joseph L. Rife</principal>
@@ -317,8 +316,7 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/472</idno>
          </ab>
          <desc type="abstract" xml:id="abstract472-1">
-        <quote><placeName>Caesaream</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Latin Life of Melania the
-               Younger</title> <ref>58-59</ref>. This passage was written ca. <origDate notBefore="0452" notAfter="0470">ca. 452-470 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+        <quote><placeName>Caesaream</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Latin Life of Melania the Younger</title> <ref n="a" target="#bib472-1">58-59</ref>. This passage was written ca. <origDate notBefore="0452" notAfter="0470" period="#byzantine">ca. 452-470 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
          <desc type="context">The hagiography of Melania the Younger furnishes one of the fullest
             and most colorful accounts of personal religious fervor that survives from the ancient
             world. Melania belonged to a senatorial family of profound wealth and deep ancestry at

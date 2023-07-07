@@ -4,8 +4,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="en" level="a">Theodoret of
-               Cyrrhus, <title level="m">Commentary on Daniel</title> 9.1484.2-26</title>
+            <title xml:lang="en" level="a">Theodoret of Cyrrhus, <title level="m">Commentary on Daniel</title> 9.1484.2-26</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
             <sponsor>Vanderbilt University</sponsor>
             <principal>Joseph L. Rife</principal>
@@ -317,8 +316,7 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/479</idno>
          </ab>
          <desc type="abstract" xml:id="abstract479-1">
-        <quote><placeName>Καισάρειαν</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/77111352">Theodoret of
-               Cyrrhus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Commentary on Daniel</title> <ref>9.1484.2-26</ref>. This passage was written ca. <origDate notBefore="0433" notAfter="0433">ca. 433 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/658446">Cyrrhus</origPlace>.</desc>
+        <quote><placeName>Καισάρειαν</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/77111352">Theodoret of Cyrrhus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Commentary on Daniel</title> <ref n="a" target="#bib479-1">9.1484.2-26</ref>. This passage was written ca. <origDate notBefore="0433" notAfter="0433" period="#byzantine">ca. 433 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/658446">Cyrrhus</origPlace>.</desc>
          <desc type="context">Theodoret served as bishop of Cyrrhus in northwestern Syria in 423-457
             C.E. Following his wide education in both the Christian and the Greek traditions and a
             brief monastic devotion, he became a vigorous leader of his diocese, distinguished by

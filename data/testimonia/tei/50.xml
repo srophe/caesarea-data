@@ -4,8 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="en" level="a">Ammianus
-               Marcellinus, <title level="m">History</title> 14.8.11-14.8.12</title>
+        <title xml:lang="en" level="a">Ammianus Marcellinus, <title level="m">History</title> 14.8.11-14.8.12</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
         <sponsor>Vanderbilt University</sponsor>
         <principal>Joseph L. Rife</principal>
@@ -287,8 +286,7 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/50</idno>
       </ab>
       <desc type="abstract" xml:id="abstract50-1">
-        <quote><placeName>Caesaream</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/89594750" role="author">Ammianus
-               Marcellinus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">History</title> <ref>14.8.11-14.8.12</ref>. This passage was written ca. <origDate notBefore="0380" notAfter="0390">380-390 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+        <quote><placeName>Caesaream</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/89594750" role="author">Ammianus Marcellinus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">History</title> <ref n="a" target="#bib50-1">14.8.11-14.8.12</ref>. This passage was written ca. <origDate notBefore="0380" notAfter="0390" period="#byzantine">380-390 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
       <desc type="context">Ammianus Marcellinus grew up in the Greek East, probably Syria or
             Phoenicia, during the second quarter of the 4th century, and as an adult served in the
             military under Constantius II and Julian. He wrote a record of events or “achievements”

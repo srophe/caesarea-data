@@ -4,8 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="en" level="a">Eunapius, <title level="m">Lives of the Philosophers and
-               Sophists</title> 17</title>
+        <title xml:lang="en" level="a">Eunapius, <title level="m">Lives of the Philosophers and Sophists</title> 17</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
         <sponsor>Vanderbilt University</sponsor>
         <principal>Joseph L. Rife</principal>
@@ -279,8 +278,7 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/215</idno>
       </ab>
       <desc type="abstract" xml:id="abstract215-1">
-        <quote><placeName>Παλαιστίνης Καισάρεια</placeName></quote>, and <quote><placeName>Caesarea Palestinae</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/100215825">Eunapius</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Lives of the Philosophers and
-               Sophists</title> <ref n="a" target="#bib215-1">17</ref>. This passage was written ca. <origDate notBefore="0380" notAfter="0420" period="#byzantine">380-420 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/579885">Athens</origPlace>.</desc>
+        <quote><placeName>Παλαιστίνης Καισάρεια</placeName></quote>, and <quote><placeName>Caesarea Palestinae</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/100215825">Eunapius</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Lives of the Philosophers and Sophists</title> <ref n="a" target="#bib215-1">17</ref>. This passage was written ca. <origDate notBefore="0380" notAfter="0420" period="#byzantine">380-420 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/579885">Athens</origPlace>.</desc>
       <desc type="context">Eunapius from Sardis became an accomplished sophist and historian at
             Athens during the late 4th into the early 5th century. He wrote a collection of 24 short
             biographies of leading thinkers during his time, concentrating chiefly on their

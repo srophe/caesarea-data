@@ -290,7 +290,7 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/446</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract446-1">and <quote><placeName>Caesarea</placeName></quote> is directly attested at <persName ref="http://viaf.org/viaf/46929243" role="author">Theodosius II</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Theodosian Code</title> <ref target="#bib446-1">2.33.1</ref>. This passage was written ca. <origDate notBefore="0429" notAfter="0438" period="#byzantine">429-438 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+         <desc type="abstract" xml:id="abstract446-1">and <quote><placeName>Caesarea</placeName></quote> is directly attested at <persName ref="http://viaf.org/viaf/46929243" role="author">Theodosius II</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Theodosian Code</title> <ref n="a" target="#bib446-1">2.33.1</ref>. This passage was written ca. <origDate notBefore="0429" notAfter="0438" period="#byzantine">429-438 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
          <desc type="context">The emperor Theodosius II, with his coemperor Valentinian III,
             assembled a commission to codify all Roman laws from the reign of Constantine to the
             present. Between 429 and 438 C.E. the scholars edited and added texts to produce a

@@ -290,7 +290,7 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/509</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract509-1">Caesarea Maritima is indirectly attested at <persName role="author">Theophanes of Hermopolis</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Trip to Antioch, P.Ryl.</title> <ref target="#bib509-1">4.627 verso col. vii.312-323</ref>. This passage was written ca. <origDate notBefore="0320" notAfter="0320" period="#lateRoman">ca. 320 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/756574">Hermopolis</origPlace>.</desc>
+         <desc type="abstract" xml:id="abstract509-1">Caesarea Maritima is indirectly attested at <persName role="author">Theophanes of Hermopolis</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Trip to Antioch, P.Ryl.</title> <ref n="d" target="#bib509-1">4.627 verso col. vii.312-323</ref>. This passage was written ca. <origDate notBefore="0320" notAfter="0320" period="#lateRoman">ca. 320 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/756574">Hermopolis</origPlace>.</desc>
          <desc type="context">One of the more interesting sources for travel, commerce, and food in
             the eastern Mediterranean during Late Antiquity is a varied dossier of administrative,
             financial, and domestic documents and letters that survive on papyri

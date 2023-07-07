@@ -316,8 +316,7 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/487</idno>
          </ab>
          <desc type="abstract" xml:id="abstract487-1">
-        <quote><placeName>Καισαρείας τῆς Παλαιστίνης</placeName></quote>, and <quote><placeName>Caesarea Palestinae</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/79115278">Aëtius of Amida</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Medical Practice</title> <ref>2.68</ref>. This passage was written ca. <origDate notBefore="0490" notAfter="0520">ca. 490-520 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/930907033">Eastern
-               Mediterranean</origPlace>.</desc>
+        <quote><placeName>Καισαρείας τῆς Παλαιστίνης</placeName></quote>, and <quote><placeName>Caesarea Palestinae</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/79115278">Aëtius of Amida</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Medical Practice</title> <ref n="a" target="#bib487-1">2.68</ref>. This passage was written ca. <origDate notBefore="0490" notAfter="0520" period="#byzantine">ca. 490-520 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/930907033">Eastern Mediterranean</origPlace>.</desc>
          <desc type="context">We know little about the life of Aëtius (mid-5th to mid-6th
             centuries), who is remembered as one of the great medical thinkers of Late Antiquity.
             Originally from Amida in northwestern Mesopotamia, he studied in Alexandria and

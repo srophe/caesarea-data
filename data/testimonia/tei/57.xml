@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="en" level="a">Justinian, <title level="m">Digest</title> 50.15.1.6</title>
+        <title xml:lang="en" level="a">Justinian I, <title level="m">Digest</title> 50.15.1.6</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
         <sponsor>Vanderbilt University</sponsor>
         <principal>Joseph L. Rife</principal>
@@ -290,7 +290,7 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/57</idno>
       </ab>
       <desc type="abstract" xml:id="abstract57-1">
-        <quote><placeName>Caesariensis</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="https://viaf.org/viaf/88881722" role="author">Justinian</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Digest</title> <ref n="a" target="#bib57-1">50.15.1.6</ref>. This passage was written ca. <origDate period="#byzantine" notBefore="0530" notAfter="0533">530-533 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+        <quote><placeName>Caesariensis</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="https://viaf.org/viaf/88881722" role="author">Justinian I</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Digest</title> <ref n="a" target="#bib57-1">50.15.1.6</ref>. This passage was written ca. <origDate notBefore="0530" notAfter="0533" period="#byzantine">530-533 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
       <desc type="context">Early in his reign, the emperor Justinian directed a comprehensive reform
         of Roman Law that compiled and edited earlier jurisprudence. This new sole authority on
         legal matters, the <title>Body of Civil Law</title> (<title>Corpus iuris civilis</title>),

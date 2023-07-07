@@ -4,8 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="en" level="a">Unknown, <title level="m">Easter
-          Chronicle</title> 504.7-505.6</title>
+        <title xml:lang="en" level="a">Unknown, <title level="m">Easter Chronicle</title> 504.7-505.6</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
         <sponsor>Vanderbilt University</sponsor>
         <principal>Joseph L. Rife</principal>
@@ -280,9 +279,7 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/249</idno>
       </ab>
       <desc type="abstract" xml:id="abstract249-1">
-        <quote><placeName>Καισαρείᾳ τῆς Παλαιστίνης</placeName></quote>, and <quote><placeName>Caesarea Palestina</placeName></quote> are directly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Easter
-          Chronicle</title> <ref target="#bib249-1">504.7-505.6</ref>. This passage was written ca. <origDate notBefore="0630" notAfter="0630" period="#">ca. 630
-          C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+        <quote><placeName>Καισαρείᾳ τῆς Παλαιστίνης</placeName></quote>, and <quote><placeName>Caesarea Palestina</placeName></quote> are directly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Easter Chronicle</title> <ref n="e" target="#bib249-1">504.7-505.6</ref>. This passage was written ca. <origDate notBefore="0630" notAfter="0630" period="#byzantine">ca. 630 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
       <desc type="context">The so-called <title>Easter Chronicle</title> (<title>Chronicon
           paschale</title>) is a universal history from the Creation down to the later reign of
         Heraclius, when it was composed, based on an amalgam of biblical, Christian, and secular

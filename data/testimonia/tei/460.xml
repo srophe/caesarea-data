@@ -315,7 +315,7 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/460</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract460-1">Caesarea Maritima is indirectly attested at <persName role="author" ref="http://viaf.org/viaf/305409681">Sozomen</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Church History</title> <ref>4.25.1-4.25.4</ref>. This passage was written ca. <origDate notBefore="440" notAfter="450">ca. 440-450 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+         <desc type="abstract" xml:id="abstract460-1">Caesarea Maritima is indirectly attested at <persName role="author" ref="http://viaf.org/viaf/305409681">Sozomen</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Church History</title> <ref n="f" target="#bib460-1">4.25.1-4.25.4</ref>. This passage was written ca. <origDate notBefore="440" notAfter="450" period="#byzantine">ca. 440-450 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
          <desc type="context">Salaminius Hermias Sozomenos, or Sozomen, was an ecclesiastical
             historian of the first half of the 5th century. Born to a wealthy Christian family in
             the region of Gaza, he learned classical and sacred literature under the guidance of

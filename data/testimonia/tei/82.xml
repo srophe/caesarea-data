@@ -4,7 +4,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="en" level="a">Pseudo-Clement, <title level="m">Homilies</title> 1.20.1-1.20.3</title>
+            <title xml:lang="en" level="a">Pseudo-Clement of Rome, <title level="m">Homilies</title> 1.20.1-1.20.3</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
             <sponsor>Vanderbilt University</sponsor>
             <principal>Joseph L. Rife</principal>
@@ -291,7 +291,7 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/82</idno>
          </ab>
          <desc type="abstract" xml:id="abstract82-1">
-        <quote><placeName>τῆς Καισαρείας τῆς Στράτωνος</placeName></quote>, and <quote><placeName>Strato’s Caesarea</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/188340627">Pseudo-Clement</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Homilies</title> <ref target="#bib82-1">1.20.1-1.20.3</ref>. This passage was written ca. <origDate notBefore="0300" notAfter="0350" period="#lateRoman #byzantine">ca. 300-350 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
+        <quote><placeName>τῆς Καισαρείας τῆς Στράτωνος</placeName></quote>, and <quote><placeName>Strato’s Caesarea</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/188340627">Pseudo-Clement of Rome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Homilies</title> <ref n="b" target="#bib82-1">1.20.1-1.20.3</ref>. This passage was written ca. <origDate notBefore="0300" notAfter="0350" period="#lateRoman #byzantine">ca. 300-350 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
          <desc type="context">A varied group of ancient works called the Pseudo-Clementine Writings
             or Clementine Literature was purportedly written by Clement of Rome, who held the papacy
             toward the the end of the 1st century C.E. These works, which clearly have diverse

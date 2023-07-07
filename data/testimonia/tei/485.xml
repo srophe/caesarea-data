@@ -4,8 +4,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="en" level="a">Gennadius
-               Scholarius, <title level="m">Introduction to Grammar</title> 2.457.5-9</title>
+            <title xml:lang="en" level="a">Gennadius Scholarius, <title level="m">Introduction to Grammar</title> 2.457.5-9</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
             <sponsor>Vanderbilt University</sponsor>
             <principal>Joseph L. Rife</principal>
@@ -300,8 +299,7 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/485</idno>
          </ab>
          <desc type="abstract" xml:id="abstract485-1">
-        <quote><placeName>Καισάρεια</placeName></quote>, and <quote><placeName>Kaisareia</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/316421957">Gennadius
-               Scholarius</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Introduction to Grammar</title> <ref>2.457.5-9</ref>. This passage was written ca. <origDate notBefore="1425" notAfter="1475">ca. 1425-1475 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+        <quote><placeName>Καισάρεια</placeName></quote>, and <quote><placeName>Kaisareia</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/316421957">Gennadius Scholarius</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Introduction to Grammar</title> <ref n="a" target="#bib485-1">2.457.5-9</ref>. This passage was written ca. <origDate notBefore="1425" notAfter="1475" period="#lateIslamic">ca. 1425-1475 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
          <desc type="context">Georgio Kourtesios Scholarios was a prominent intellectual and
             theologian who lived during the first three quarters of the 15th century. He served as
             Ecumencial Patriarch of Constantinople with the ecclesiastical name Gennadius II in

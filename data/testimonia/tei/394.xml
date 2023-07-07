@@ -4,8 +4,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title xml:lang="en" level="a">Al-Muqaddasī, <title level="m">Best Divisions for Knowledge of the
-               Regions</title> 54</title>
+            <title xml:lang="en" level="a">Al-Muqaddasī, <title level="m">Best Divisions for Knowledge of the Regions</title> 54</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
             <sponsor>Vanderbilt University</sponsor>
             <principal>Joseph L. Rife</principal>
@@ -285,8 +284,7 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/394</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract394-1">and <quote><placeName>قيساريَّة</placeName></quote> is directly attested at <persName role="author" ref="http://viaf.org/viaf/69158767">Al-Muqaddasī</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Best Divisions for Knowledge of the
-               Regions</title> <ref>54</ref>. This passage was written ca. <origDate when="0985">985 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/1306">Syria-Palestine</origPlace>.</desc>
+         <desc type="abstract" xml:id="abstract394-1">and <quote><placeName>قيساريَّة</placeName></quote> is directly attested at <persName role="author" ref="http://viaf.org/viaf/69158767">Al-Muqaddasī</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Best Divisions for Knowledge of the Regions</title> <ref n="b" target="#bib394-1">54</ref>. This passage was written ca. <origDate when="0985" period="#earlyIslamic">985 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/1306">Syria-Palestine</origPlace>.</desc>
          <desc type="context">Shams al-Dīn Abū ʿAbd Allāh Muḥammad ibn Aḥmad al-Muqaddasī (334-390
             A.H./945-1000 C.E.) was an Arab geographer and traveler during the mid- to late 10th
             century. Born in Jerusalem, al-Muqaddasī began studying history, jurisprudence, and

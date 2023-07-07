@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="en" level="a">Josephus, <title level="m">Antiquities of the Jews</title> 19.332-19.334</title>
+        <title xml:lang="en" level="a">Josephus, <title level="m">Jewish Antiquities</title> 19.332-19.334</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
         <sponsor>Vanderbilt University</sponsor>
         <principal>Joseph L. Rife</principal>
@@ -285,7 +285,7 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/11</idno>
       </ab>
       <desc type="abstract" xml:id="abstract11-1">
-        <quote><placeName xml:lang="grc">Καισάρειαν</placeName></quote>, and <quote><placeName xml:lang="en">Cesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/22143666" role="author">Josephus</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg001" type="uniform" level="m">Antiquities of the Jews</title> <ref n="l" target="#bib11-1">19.332-19.334</ref>. This passage was written ca. <origDate period="#nabateanKingdom #earlyRoman" notBefore="0093" notAfter="0094">93 - 94 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+        <quote><placeName>Καισάρειαν</placeName></quote>, and <quote><placeName>Cesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/22143666" role="author">Josephus</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg001" type="uniform" level="m">Jewish Antiquities</title> <ref n="l" target="#bib11-1">19.332-19.334</ref>. This passage was written ca. <origDate period="#nabateanKingdom #earlyRoman" notBefore="0093" notAfter="0094">93 - 94 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
       <ab type="edition" xml:lang="grc" xml:id="quote11-1">
         <anchor xml:id="testimonia-11.grc.1" corresp="#testimonia-11.en.1"/>
         Καὶ δή τις ἐν τοῖς Ἱεροσολύμοις ἀνὴρ ἐπιχώριος ἐξακριβάζειν δοκῶν τὰ νόμιμα, Σίμων ἦν ὄνομα τούτῳ, πλῆθος εἰς ἐκκλησίαν ἁλίσας τηνικάδε τοῦ βασιλέως εἰς <placeName xml:lang="grc">Καισάρειαν</placeName> ἐκδεδημηκότος ἐτόλμησεν αὐτοῦ κατειπεῖν, ὡς οὐχ ὅσιος εἴη, δικαίως δ᾽ ἂν εἴργοιτο τοῦ ναοῦ τῆς εἰσόδου προσηκούσης τοῖς ἐγγενέσιν. δηλοῦται μὲν δὴ διὰ γραμμάτων ὑπὸ τοῦ στρατηγοῦ τῆς πόλεως τῷ βασιλεῖ δημηγορήσας Σίμων ταῦτα, μεταπέμπεται δὲ αὐτὸν ὁ βασιλεὺς καί, καθέζετο γὰρ ἐν τῷ θεάτρῳ τότε, καθεσθῆναι παρ᾽ αὐτὸν ἐκέλευσεν. ἠρέμα τε καὶ πρᾴως ‘εἰπέ μοι, φησίν, τί τῶν ἐνθάδε γινομένων ἐστὶ παράνομον;’ ὁ δὲ εἰπεῖν ἔχων οὐδὲν τυχεῖν ἐδεῖτο συγγνώμης. ἀλλὰ ὁ βασιλεὺς αὐτῷ ἢ προσεδόκησέν τις διηλλάττετο τὴν πρᾳότητα κρίνων βασιλικωτέραν ὀργῆς καὶ πρέπειν εἰδὼς τοῖς μεγέθεσι θυμοῦ πλέον ἐπιείκειαν. τὸν Σίμωνα γοῦν καὶ δωρεᾶς τινος ἀξιώσας ἀπεπέμπετο.<ab type="source" source="#bib11-1"/>

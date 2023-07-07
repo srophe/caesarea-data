@@ -283,7 +283,7 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/48</idno>
       </ab>
       <desc type="abstract" xml:id="abstract48-1">
-        <quote><placeName>Καισαρέων</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/25393339 " role="author">Apollonius of Tyana</persName>, <title xml:lang="en" type="uniform" level="m">Letters</title> <ref target="#bib48-1">11</ref>. This passage was written ca. <origDate period="#nabateanKingdom #earlyRoman #herodian #middleNabatean" notBefore="0045" notAfter="0090">45-90 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/837">Asia Minor</origPlace>.</desc>
+        <quote><placeName>Καισαρέων</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/25393339 " role="author">Apollonius of Tyana</persName>, <title xml:lang="en" type="uniform" level="m">Letters</title> <ref n="a" target="#bib48-1">11</ref>. This passage was written ca. <origDate notBefore="0045" notAfter="0090" period="#nabateanKingdom #earlyRoman #herodian #middleNabatean">45-90 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/837">Asia Minor</origPlace>.</desc>
       <desc type="context">A collection of over 50 letters from various sources is associated with
         the name of Apollonius of Tyana. He was the celebrated Neopythagorean teacher of the late
         1st century C.E. whom Philostratus portrayed colorfully as a pagan holy man and thaumaturge

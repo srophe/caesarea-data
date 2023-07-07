@@ -4,8 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="en" level="a">Unknown, <title level="m">Apostolic
-          Constitutions</title> 7.46.1-5</title>
+        <title xml:lang="en" level="a">Unknown, <title level="m">Apostolic Constitutions</title> 7.46.1-5</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
         <sponsor>Vanderbilt University</sponsor>
         <principal>Joseph L. Rife</principal>
@@ -284,8 +283,7 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/90</idno>
       </ab>
       <desc type="abstract" xml:id="abstract90-1">
-        <quote><placeName>Καισαρείας δὲ τῆς Παλαιστίνης</placeName></quote>, and <quote><placeName>Caesarea of Palestine</placeName></quote> are directly attested at <persName ref="" role="author">Unknown</persName>, <title ref="" type="uniform" level="m">Apostolic
-          Constitutions</title> <ref target="#bib90-1">7.46.1-5</ref>. This passage was written ca. <origDate period="#byzantine" notBefore="0350" notAfter="0380">350-380 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/658381">Antioch</origPlace>.</desc>
+        <quote><placeName>Καισαρείας δὲ τῆς Παλαιστίνης</placeName></quote>, and <quote><placeName>Caesarea of Palestine</placeName></quote> are directly attested at <persName ref="" role="author">Unknown</persName>, <title ref="" type="uniform" level="m">Apostolic Constitutions</title> <ref n="a" target="#bib90-1">7.46.1-5</ref>. This passage was written ca. <origDate notBefore="0350" notAfter="0380" period="#byzantine">350-380 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/658381">Antioch</origPlace>.</desc>
       <desc type="context">The <title>Apostolic Constitutions</title> is a long didactic text
         purporting to have been compiled by the apostles, in particular Peter, to guide the early
         Church in matters of morality, worship, and governance. It was probably composed in Syrian

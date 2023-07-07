@@ -4,8 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="en" level="a">Thietmar, <title level="m">Book
-          of Pilgrimage</title> 8.38-46</title>
+        <title xml:lang="en" level="a">Thietmar, <title level="m">Book of Pilgrimage</title> 8.38-46</title>
         <title level="m" xml:lang="en">Caesarea Maritima: A Collection of Testimonia</title>
         <sponsor>Vanderbilt University</sponsor>
         <principal>Joseph L. Rife</principal>
@@ -280,8 +279,7 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/268</idno>
       </ab>
       <desc type="abstract" xml:id="abstract268-1">
-        <quote><placeName>Cesaream</placeName></quote>, <quote><placeName>Cesarea</placeName></quote>, <quote><placeName>Turris Stratonis</placeName></quote>, <quote><placeName>Caesarea</placeName></quote>, <quote><placeName>Caesarea Palaestina</placeName></quote>, and <quote><placeName>Strato’s Tower</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/24957020 ">Thietmar</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Book
-          of Pilgrimage</title> <ref target="#bib268-1">8.38-46</ref>. This passage was written ca. <origDate notBefore="1217" notAfter="1218" period="#crusader">1217-1218 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/1001939">Palestine</origPlace>.</desc>
+        <quote><placeName>Cesaream</placeName></quote>, <quote><placeName>Cesarea</placeName></quote>, <quote><placeName>Turris Stratonis</placeName></quote>, <quote><placeName>Caesarea</placeName></quote>, <quote><placeName>Caesarea Palaestina</placeName></quote>, and <quote><placeName>Strato’s Tower</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/24957020 ">Thietmar</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Book of Pilgrimage</title> <ref n="a" target="#bib268-1">8.38-46</ref>. This passage was written ca. <origDate notBefore="1217" notAfter="1218" period="#crusader">1217-1218 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/1001939">Palestine</origPlace>.</desc>
       <desc type="context">Thietmar was a German Christian, perhaps a learned cleric from
         Westphalia, who undertook two pilgrimages from Acre during the course of the Fifth Crusade,
         one eastward to the Monastery of Mary at Saydnaya in southwestern Syria in 1217 and one

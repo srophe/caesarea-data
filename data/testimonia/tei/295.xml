@@ -279,7 +279,7 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/295</idno>
       </ab>
       <desc type="abstract" xml:id="abstract295-1">
-        <quote><placeName>Caesariensis</placeName></quote>, <quote><placeName>Caesariensi</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/309472433" role="author">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Letters</title> <ref target="#bib295-1">34.1</ref>. This passage was written ca. <origDate notBefore="0382" notAfter="0384" period="#byzantine">382-384 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+        <quote><placeName>Caesariensis</placeName></quote>, <quote><placeName>Caesariensi</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/309472433" role="author">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Letters</title> <ref n="c" target="#bib295-1">34.1</ref>. This passage was written ca. <origDate notBefore="0382" notAfter="0384" period="#byzantine">382-384 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
       <desc type="context">Among the voluminous correspondence of St. Jerome is this letter, written
         during the years when he served Pope Damasus I at Rome and attended the synod over the
         Antiochene schism. In it he addresses an exegetical query from Marcella, a close associate

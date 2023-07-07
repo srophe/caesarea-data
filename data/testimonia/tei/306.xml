@@ -279,8 +279,7 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/306</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract306-1">Caesarea Maritima is indirectly attested at <persName role="author" ref=" http://viaf.org/viaf/54152998">Claudius Ptolemy</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Geography</title> <ref target="#bib306-1">8.20.14</ref>. This passage was written ca. <origDate notBefore="0130" notAfter="0170" period="#earlyRoman #lateRoman">130-170
-               C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/727070">Alexandria</origPlace>.</desc>
+         <desc type="abstract" xml:id="abstract306-1">Caesarea Maritima is indirectly attested at <persName role="author" ref=" http://viaf.org/viaf/54152998">Claudius Ptolemy</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Geography</title> <ref n="b" target="#bib306-1">8.20.14</ref>. This passage was written ca. <origDate notBefore="0130" notAfter="0170" period="#earlyRoman #lateRoman">130-170 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/727070">Alexandria</origPlace>.</desc>
          <desc type="context">Claudius Ptolemy was a learned Greek scholar, apparently of
             Greco-Egyptian descent and Roman citizenship, who conducted research in the fields of
             astronomy, mathematics, and geography during the 2nd century C.E. Apart from the

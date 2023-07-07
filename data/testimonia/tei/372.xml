@@ -281,7 +281,7 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/372</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract372-1">and <quote><placeName>Caesarea</placeName></quote> is directly attested at <persName ref="http://viaf.org/viaf/175367750" role="author">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Commentary on Joel</title> <ref target="#bib372-1">2.970C-D</ref>. This passage was written ca. <origDate when="0406" period="#byzantine">406 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</desc>
+         <desc type="abstract" xml:id="abstract372-1">and <quote><placeName>Caesarea</placeName></quote> is directly attested at <persName ref="http://viaf.org/viaf/175367750" role="author">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Commentary on Joel</title> <ref n="a" target="#bib372-1">2.970C-D</ref>. This passage was written ca. <origDate when="0406" period="#byzantine">406 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</desc>
          <desc type="context">Among the many learned exegeses on biblical scripture that Jerome
             wrote in the latter part of his career is his commentary on the minor prophets. The
             <title>Book of Joel</title>, perhaps composed around the end of the 5th century
