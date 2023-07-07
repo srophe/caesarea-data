@@ -267,7 +267,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Trip to Antioch, P.Ryl.</title> <ref target="#bib507-1">4.638 col. i.13-17</ref> written by <persName role="author">Theophanes of Hermopolis</persName> in <origDate notBefore="0320" notAfter="0320" period="#lateRoman">ca. 320 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/756574">Hermopolis</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Trip to Antioch, P.Ryl.</title> <ref n="g" target="#bib507-1">4.638 col. i.13-17</ref> written by <persName role="author">Theophanes of Hermopolis</persName> in <origDate notBefore="0320" notAfter="0320" period="#lateRoman">ca. 320 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/756574">Hermopolis</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
         <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>

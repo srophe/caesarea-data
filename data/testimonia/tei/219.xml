@@ -256,7 +256,7 @@
         <p/>
       </abstract>
       <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Book
-          of Nations</title> <ref target="#bib219-1">Δ 150</ref> written by <persName role="author" ref="http://viaf.org/viaf/1679057 ">Stephanus of Byzantium</persName> in <origDate notBefore="0530" notAfter="0560" period="#byzantine">530-560 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
+          of Nations</title> <ref n="a" target="#bib219-1">Δ 150</ref> written by <persName role="author" ref="http://viaf.org/viaf/1679057 ">Stephanus of Byzantium</persName> in <origDate notBefore="0530" notAfter="0560" period="#byzantine">530-560 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
       <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
         <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>

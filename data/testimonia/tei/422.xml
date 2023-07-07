@@ -258,7 +258,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Petition from Veterans, PSI</title> <ref target="#bib422-1">9.1026B</ref> written by <persName ref="" role="author">Pomponius</persName> in <origDate when="0150" period="#lateRoman">150 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Petition from Veterans, PSI</title> <ref n="b" target="#bib422-1">9.1026B</ref> written by <persName ref="" role="author">Pomponius</persName> in <origDate when="0150" period="#lateRoman">150 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="la">Latin</language>
         <language ana="#caesarea-language-of-original" ident="la">Latin</language>
