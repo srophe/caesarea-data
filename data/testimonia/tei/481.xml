@@ -276,8 +276,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Parsings on Psalms</title> <ref n="a" target="#bib481-1">20.13-24</ref> written by <persName ref="http://viaf.org/viaf/34444948" role="author">George
-               Choeroboscus</persName> in <origDate notBefore="815" notAfter="845" period="#earlyIslamic">ca. 815-845 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Parsings on Psalms</title> <ref n="a" target="#bib481-1">20.13-24</ref> written by <persName ref="http://viaf.org/viaf/34444948" role="author">George Choeroboscus</persName> in <origDate notBefore="815" notAfter="845" period="#earlyIslamic">ca. 815-845 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
         <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>

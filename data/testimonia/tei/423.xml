@@ -259,8 +259,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Letter Concerning Compulsory Public
-               Service, P.Nessana</title> <ref n="a" target="#bib423-1">74</ref> written by <persName ref="" role="author">George</persName> in <origDate when="0685" period="#earlyIslamic">685 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687902">Gaza</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Letter Concerning Compulsory Public Service, P.Nessana</title> <ref n="a" target="#bib423-1">74</ref> written by <persName ref="" role="author">George</persName> in <origDate when="0685" period="#earlyIslamic">685 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687902">Gaza</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
         <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>

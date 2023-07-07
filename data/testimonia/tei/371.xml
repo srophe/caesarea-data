@@ -258,7 +258,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">History of the Journey to Jerusalem </title> <ref n="a" target="#bib371-1">5.41-5.42</ref> written by <persName ref="http://viaf.org/viaf/74028786" role="author">Albert of Aachen</persName> in <origDate notBefore="1120" notAfter="1140" period="#crusader">1120-1140 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/108749">Aachen</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">History of the Journey to Jerusalem</title> <ref n="a" target="#bib371-1">5.41-5.42</ref> written by <persName ref="http://viaf.org/viaf/74028786" role="author">Albert of Aachen</persName> in <origDate notBefore="1120" notAfter="1140" period="#crusader">1120-1140 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/108749">Aachen</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="la">Latin</language>
         <language ana="#caesarea-language-of-original" ident="la">Latin</language>

@@ -292,8 +292,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Miscellaneous History</title> <ref n="a" target="#bib463-1">20.63</ref> written by <persName role="author" ref="http://viaf.org/viaf/166804066">Landolph the
-               Sage</persName> in <origDate notBefore="0975" notAfter="1010" period="#earlyIslamic">ca. 975-1010 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/432721">Benevento</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Miscellaneous History</title> <ref n="a" target="#bib463-1">20.63</ref> written by <persName role="author" ref="http://viaf.org/viaf/166804066">Landolph the Sage</persName> in <origDate notBefore="0975" notAfter="1010" period="#earlyIslamic">ca. 975-1010 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/432721">Benevento</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="la">Latin</language>
         <language ana="#caesarea-language-of-original" ident="la">Latin</language>

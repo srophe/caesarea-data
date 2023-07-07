@@ -256,9 +256,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Panegyric to Origen </title> <ref n="b" target="#bib326-1">6.1-6.11</ref> written by <persName ref="http://viaf.org/viaf/88726043" role="author">Gregory the
-               Miracle-Worker</persName> in <origDate notBefore="0224" notAfter="0254" period="#lateRoman">ca. 239 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea
-            Maritima</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Panegyric to Origen</title> <ref n="b" target="#bib326-1">6.1-6.11</ref> written by <persName ref="http://viaf.org/viaf/88726043" role="author">Gregory the Miracle-Worker</persName> in <origDate notBefore="0224" notAfter="0254" period="#lateRoman">ca. 239 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
         <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>

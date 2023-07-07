@@ -257,8 +257,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" type="uniform" level="m">Life of
-          Constantine</title>
+      <creation>This entry is taken from <title xml:lang="en" type="uniform" level="m">Life of Constantine</title>
         <ref n="b" target="#bib131-1">4.36-4.37</ref> written by <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName> in <origDate notBefore="0335" notAfter="0339" period="#byzantine">335-339 CE</origDate>. This work was likely written in
           <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</creation>
       <langUsage>

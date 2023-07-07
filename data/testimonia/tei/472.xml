@@ -292,8 +292,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Latin Life of Melania the
-               Younger</title> <ref n="a" target="#bib472-1">58-59</ref> written by <persName role="author">Unknown</persName> in <origDate notBefore="0452" notAfter="0470" period="#byzantine">ca. 452-470 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Latin Life of Melania the Younger</title> <ref n="a" target="#bib472-1">58-59</ref> written by <persName role="author">Unknown</persName> in <origDate notBefore="0452" notAfter="0470" period="#byzantine">ca. 452-470 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="la">Latin</language>
         <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>

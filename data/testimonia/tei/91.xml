@@ -256,8 +256,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Theophany</title> <ref n="a" target="#bib91-1">fr. 6</ref> written by <persName role="author" ref=" http://viaf.org/viaf/185222663">Eusebius of
-               Caesarea</persName> in <origDate notBefore="0335" notAfter="0337" period="#byzantine">335-337 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Theophany</title> <ref n="a" target="#bib91-1">fr. 6</ref> written by <persName role="author" ref=" http://viaf.org/viaf/185222663">Eusebius of Caesarea</persName> in <origDate notBefore="0335" notAfter="0337" period="#byzantine">335-337 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
         <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>

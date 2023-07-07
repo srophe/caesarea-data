@@ -259,8 +259,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Church History</title> <ref n="g" target="#bib382-1">1.18.5-1.18.6</ref> written by <persName ref=" http://viaf.org/viaf/55571017" role="author">Socrates of
-               Constantinople</persName> in <origDate notBefore="0439" notAfter="0450" period="#byzantine">ca. 439-450 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Church History</title> <ref n="g" target="#bib382-1">1.18.5-1.18.6</ref> written by <persName ref=" http://viaf.org/viaf/55571017" role="author">Socrates of Constantinople</persName> in <origDate notBefore="0439" notAfter="0450" period="#byzantine">ca. 439-450 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
         <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>

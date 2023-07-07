@@ -255,8 +255,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Lives of the Philosophers and
-               Sophists</title> <ref n="a" target="#bib215-1">17</ref> written by <persName role="author" ref="http://viaf.org/viaf/100215825">Eunapius</persName> in <origDate notBefore="0380" notAfter="0420" period="#byzantine">380-420 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/579885">Athens</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Lives of the Philosophers and Sophists</title> <ref n="a" target="#bib215-1">17</ref> written by <persName role="author" ref="http://viaf.org/viaf/100215825">Eunapius</persName> in <origDate notBefore="0380" notAfter="0420" period="#byzantine">380-420 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/579885">Athens</origPlace>.</creation>
       <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
         <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>

@@ -256,8 +256,7 @@
       </abstract>
       <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Dictionary of Place Names</title>
         <ref n="a" target="#bib259-1">162</ref> written by <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName> in <origDate notBefore="0290" notAfter="0325" period="#lateRoman #byzantine">290-325 CE</origDate>. This work was likely
-        written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea
-          Maritima</origPlace>.</creation>
+        written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</creation>
       <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
         <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>

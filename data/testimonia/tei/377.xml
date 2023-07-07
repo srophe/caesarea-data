@@ -268,8 +268,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Church History</title> <ref n="e" target="#bib377-1">2.31.5-2.31.8</ref> written by <persName role="author" ref="http://viaf.org/viaf/77111352">Theodoret of
-               Cyrrhus</persName> in <origDate notBefore="0449" notAfter="0458" period="#byzantine">ca. 449-458 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/658446">Cyrrhus</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Church History</title> <ref n="e" target="#bib377-1">2.31.5-2.31.8</ref> written by <persName role="author" ref="http://viaf.org/viaf/77111352">Theodoret of Cyrrhus</persName> in <origDate notBefore="0449" notAfter="0458" period="#byzantine">ca. 449-458 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/658446">Cyrrhus</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
         <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>

@@ -255,8 +255,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Book
-          of Pilgrimage</title> <ref n="b" target="#bib269-1">29.11-21</ref> written by <persName role="author" ref="http://viaf.org/viaf/24957020 ">Thietmar</persName> in <origDate notBefore="1217" notAfter="1218" period="#crusader">1217-1218 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Book of Pilgrimage</title> <ref n="b" target="#bib269-1">29.11-21</ref> written by <persName role="author" ref="http://viaf.org/viaf/24957020 ">Thietmar</persName> in <origDate notBefore="1217" notAfter="1218" period="#crusader">1217-1218 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</creation>
       <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="la">Latin</language>
         <language ana="#caesarea-language-of-original" ident="la">Latin</language>

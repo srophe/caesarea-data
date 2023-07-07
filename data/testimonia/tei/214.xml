@@ -261,8 +261,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" type="uniform" level="m">Correct
-               Spelling</title> <ref n="a" target="#bib214-1">2.2.4.127</ref> written by <persName ref="http://viaf.org/viaf/88626271" role="author">Aelius Herodian</persName> in <origDate notBefore="0150" notAfter="0200" period="#lateRoman">150-200 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/727070">Alexandria</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" type="uniform" level="m">Correct Spelling</title> <ref n="a" target="#bib214-1">2.2.4.127</ref> written by <persName ref="http://viaf.org/viaf/88626271" role="author">Aelius Herodian</persName> in <origDate notBefore="0150" notAfter="0200" period="#lateRoman">150-200 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/727070">Alexandria</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
         <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>

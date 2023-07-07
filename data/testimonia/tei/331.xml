@@ -255,7 +255,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Commentary on the Gospel of John </title> <ref n="a" target="#bib331-1">6.2.8-10</ref> written by <persName ref="http://viaf.org/viaf/95155322" role="author">Origen</persName> in <origDate notBefore="0231" notAfter="0233" period="#lateRoman">231-233 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Commentary on the Gospel of John</title> <ref n="a" target="#bib331-1">6.2.8-10</ref> written by <persName ref="http://viaf.org/viaf/95155322" role="author">Origen</persName> in <origDate notBefore="0231" notAfter="0233" period="#lateRoman">231-233 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
         <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>

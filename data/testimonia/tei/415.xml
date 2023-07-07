@@ -321,8 +321,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Candelabrum of the
-               Sanctuary</title> <ref n="a" target="#bib415-1">IV.III.1.2.1.3.xii</ref> written by <persName ref="" role="author">Gregorius bar Hebraeus</persName> in <origDate notBefore="1266" notAfter="" period="#crusader">1266 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/874621">Mosul</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Candelabrum of the Sanctuary</title> <ref n="a" target="#bib415-1">IV.III.1.2.1.3.xii</ref> written by <persName ref="" role="author">Gregorius bar Hebraeus</persName> in <origDate notBefore="1266" notAfter="" period="#crusader">1266 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/874621">Mosul</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="syr">Syriac</language>
            <language ana="#caesarea-language-of-original" ident="syr">Syriac</language>

@@ -255,8 +255,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Untitled</title> <ref n="a" target="#bib280-1">1.1</ref> written by <persName role="author">Anonymous Pilgrim
-          V</persName> in <origDate notBefore="1180" notAfter="1205" period="#crusader">1180-1205 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Untitled</title> <ref n="a" target="#bib280-1">1.1</ref> written by <persName role="author">Anonymous Pilgrim V</persName> in <origDate notBefore="1180" notAfter="1205" period="#crusader">1180-1205 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</creation>
       <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="la">Latin</language>
         <language ana="#caesarea-language-of-original" ident="la">Latin</language>

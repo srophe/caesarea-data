@@ -255,9 +255,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Church History</title> <ref n="d" target="#bib231-1">4.7c</ref> written by <persName role="author" ref="http://viaf.org/viaf/296114344">Evagrius
-               Scholasticus</persName> in <origDate notBefore="0593" notAfter="0598" period="#byzantine">593-598 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/658381">Antioch on the
-               Orontes</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Church History</title> <ref n="d" target="#bib231-1">4.7c</ref> written by <persName role="author" ref="http://viaf.org/viaf/296114344">Evagrius Scholasticus</persName> in <origDate notBefore="0593" notAfter="0598" period="#byzantine">593-598 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/658381">Antioch on the Orontes</origPlace>.</creation>
       <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
         <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>

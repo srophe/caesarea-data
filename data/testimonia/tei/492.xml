@@ -292,8 +292,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Life of Sabas</title> <ref n="c" target="#bib492-1">61.162.20-61.163.3</ref> written by <persName role="author" ref="http://viaf.org/viaf/8181483">Cyril of
-               Scythopolis</persName> in <origDate notBefore="0544" notAfter="0558" period="#byzantine">ca. 544-558 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Life of Sabas</title> <ref n="c" target="#bib492-1">61.162.20-61.163.3</ref> written by <persName role="author" ref="http://viaf.org/viaf/8181483">Cyril of Scythopolis</persName> in <origDate notBefore="0544" notAfter="0558" period="#byzantine">ca. 544-558 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
         <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>

@@ -255,8 +255,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">The
-          Holy Land</title> <ref n="a" target="#bib232-1">65-66</ref> written by <persName role="author" ref="http://viaf.org/viaf/106967420">Pseudo-Odoric of Pordenone</persName> in <origDate notBefore="1350" notAfter="1500" period="#lateIslamic">ca. 1350-1500 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">The Holy Land</title> <ref n="a" target="#bib232-1">65-66</ref> written by <persName role="author" ref="http://viaf.org/viaf/106967420">Pseudo-Odoric of Pordenone</persName> in <origDate notBefore="1350" notAfter="1500" period="#lateIslamic">ca. 1350-1500 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</creation>
       <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="la">Latin</language>
         <language ana="#caesarea-language-of-original" ident="la">Latin</language>

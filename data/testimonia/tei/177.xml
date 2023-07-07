@@ -262,7 +262,7 @@
         <p/>
       </abstract>
       <creation>This entry is taken from <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg004" type="uniform" level="m">The Jewish War</title>
-        <ref n="b" target="#bib177-1">1.20.3</ref> written by <persName ref="http://viaf.org/viaf/22143666 " role="author">Josephus </persName> in <origDate period="#nabateanKingdom #earlyRoman #herodian" notBefore="0070" notAfter="0090">70 - 90 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</creation>
+        <ref n="b" target="#bib177-1">1.20.3</ref> written by <persName ref="http://viaf.org/viaf/22143666 " role="author">Josephus</persName> in <origDate period="#nabateanKingdom #earlyRoman #herodian" notBefore="0070" notAfter="0090">70 - 90 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</creation>
       <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
         <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>

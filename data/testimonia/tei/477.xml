@@ -292,8 +292,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Letters</title> <ref n="a" target="#bib477-1">110.40.20-42.8</ref> written by <persName ref="http://viaf.org/viaf/55571017" role="author">Theodoret of
-               Cyrrhus</persName> in <origDate when="0448" period="#byzantine">448 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/658446">Cyrrhus</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Letters</title> <ref n="a" target="#bib477-1">110.40.20-42.8</ref> written by <persName ref="http://viaf.org/viaf/55571017" role="author">Theodoret of Cyrrhus</persName> in <origDate when="0448" period="#byzantine">448 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/658446">Cyrrhus</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
         <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>

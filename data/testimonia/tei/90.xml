@@ -257,8 +257,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title ref="" type="uniform" level="m">Apostolic
-          Constitutions</title> <ref n="a" target="#bib90-1">7.46.1-5</ref> written by <persName ref="" role="author">Unknown</persName> in <origDate notBefore="0350" notAfter="0380" period="#byzantine">350-380 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/658381">Antioch</origPlace>.</creation>
+      <creation>This entry is taken from <title ref="" type="uniform" level="m">Apostolic Constitutions</title> <ref n="a" target="#bib90-1">7.46.1-5</ref> written by <persName ref="" role="author">Unknown</persName> in <origDate notBefore="0350" notAfter="0380" period="#byzantine">350-380 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/658381">Antioch</origPlace>.</creation>
       <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
         <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>

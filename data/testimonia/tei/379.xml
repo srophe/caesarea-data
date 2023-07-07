@@ -292,8 +292,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">The Teaching of the Recently
-               Baptized Jacob</title> <ref n="a" target="#bib379-1">5.16</ref> written by <persName ref="" role="author">Unknown</persName> in <origDate notBefore="634" notAfter="640" period="#byzantine #earlyIslamic">ca. 634-640 C.E</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">The Teaching of the Recently Baptized Jacob</title> <ref n="a" target="#bib379-1">5.16</ref> written by <persName ref="" role="author">Unknown</persName> in <origDate notBefore="634" notAfter="640" period="#byzantine #earlyIslamic">ca. 634-640 C.E</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
         <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>

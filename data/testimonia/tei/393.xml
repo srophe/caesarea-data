@@ -260,8 +260,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Best Divisions for Knowledge of the
-               Regions</title> <ref n="a" target="#bib393-1">34-35</ref> written by <persName role="author" ref="http://viaf.org/viaf/69158767">Al-Muqaddasī</persName> in <origDate when="0985" period="#earlyIslamic">985 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/1306">Syria-Palestine</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Best Divisions for Knowledge of the Regions</title> <ref n="a" target="#bib393-1">34-35</ref> written by <persName role="author" ref="http://viaf.org/viaf/69158767">Al-Muqaddasī</persName> in <origDate when="0985" period="#earlyIslamic">985 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/1306">Syria-Palestine</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="ar">Arabic</language>
         <language ana="#caesarea-language-of-original" ident="ar">Arabic</language>

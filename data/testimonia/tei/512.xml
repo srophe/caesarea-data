@@ -268,8 +268,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Clementine Recognitions</title> <ref n="a" target="#bib512-1">1.12</ref> written by <persName role="author" ref="http://viaf.org/viaf/77679446">Rufinus of
-               Aquileia</persName> in <origDate notBefore="0400" notAfter="0408" period="#byzantine">ca. 400-408 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Clementine Recognitions</title> <ref n="a" target="#bib512-1">1.12</ref> written by <persName role="author" ref="http://viaf.org/viaf/77679446">Rufinus of Aquileia</persName> in <origDate notBefore="0400" notAfter="0408" period="#byzantine">ca. 400-408 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="la">Latin</language>
         <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>

@@ -255,7 +255,7 @@
          <abstract>
             <p/>
          </abstract>
-         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Life of Gregory the Miracle-Worker </title> <ref n="a" target="#bib391-1">905C-908D</ref> written by <persName role="author" ref=" http://viaf.org/viaf/103646160 ">Gregory of Nyssa</persName> in <origDate notBefore="0380" notAfter="0385" period="#byzantine">380-385 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/857287">Pontus</origPlace>.</creation>
+         <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Life of Gregory the Miracle-Worker</title> <ref n="a" target="#bib391-1">905C-908D</ref> written by <persName role="author" ref=" http://viaf.org/viaf/103646160 ">Gregory of Nyssa</persName> in <origDate notBefore="0380" notAfter="0385" period="#byzantine">380-385 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/857287">Pontus</origPlace>.</creation>
          <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
         <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>

@@ -255,8 +255,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Easter
-          Chronicle</title> <ref n="b" target="#bib246-1">366.15-367.5</ref> written by <persName role="author">Unknown</persName> in <origDate notBefore="0630" notAfter="0630" period="#byzantine">ca. 630 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Easter Chronicle</title> <ref n="b" target="#bib246-1">366.15-367.5</ref> written by <persName role="author">Unknown</persName> in <origDate notBefore="0630" notAfter="0630" period="#byzantine">ca. 630 C.E.</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</creation>
       <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
         <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>

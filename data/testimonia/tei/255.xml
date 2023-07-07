@@ -255,8 +255,7 @@
       <abstract>
         <p/>
       </abstract>
-      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Medicine Cabinet, or Against
-        Heresies</title> <ref n="e" target="#bib255-1">73.37.5-6</ref> written by <persName ref="http://viaf.org/viaf/13651211" role="author">Epiphanius of Salamis</persName> in <origDate notBefore="0374" notAfter="0377" period="#byzantine">374-377 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/707617">Cypriot Salamis</origPlace>.</creation>
+      <creation>This entry is taken from <title xml:lang="en" ref="" type="uniform" level="m">Medicine Cabinet, or Against Heresies</title> <ref n="e" target="#bib255-1">73.37.5-6</ref> written by <persName ref="http://viaf.org/viaf/13651211" role="author">Epiphanius of Salamis</persName> in <origDate notBefore="0374" notAfter="0377" period="#byzantine">374-377 CE</origDate>. This work was likely written in <origPlace ref="https://pleiades.stoa.org/places/707617">Cypriot Salamis</origPlace>.</creation>
       <langUsage>
         <language ana="#caesarea-language-of-testimonia" ident="grc">Ancient Greek</language>
         <language ana="#caesarea-language-of-original" ident="grc">Ancient Greek</language>
