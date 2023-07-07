@@ -335,7 +335,7 @@
             <catRef scheme="#CM-NEAEH" target="#herodian"/>
          </textClass>
       </profileDesc>
-      <revisionDesc status="draft">
+      <revisionDesc status="published">
          <change who="dmichelson" when="">ADDED: testimonium ID, URNs, URLs to edition and
             translation, and Bibl URIs</change>
          <change who="jrife" when="">CREATED: testimonium</change>

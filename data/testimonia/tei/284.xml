@@ -269,7 +269,7 @@
         <catRef scheme="#CM-NEAEH" target="#ironAgeIib #earlyRoman #crusader"/>
       </textClass>
     </profileDesc>
-    <revisionDesc status="draft">
+    <revisionDesc status="published">
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
     </revisionDesc>
   </teiHeader>

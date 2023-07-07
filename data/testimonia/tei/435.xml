@@ -271,7 +271,7 @@
             <catRef scheme="#CM-NEAEH" target="#classicalPeriod #byzantine"/>
          </textClass>
       </profileDesc>
-      <revisionDesc status="draft">
+      <revisionDesc status="published">
          <change who="jrife" when="">ADDED: testimonium ID, URNs, URLs to edition and translation,
             and Bibl URIs</change>
          <change who="jrife" when="">CREATED: testimonium</change>

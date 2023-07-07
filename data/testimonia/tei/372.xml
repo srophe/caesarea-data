@@ -272,7 +272,7 @@
             <catRef scheme="#CM-NEAEH" target="#babylonianAndPersian #earlyRoman #byzantine"/>
          </textClass>
       </profileDesc>
-      <revisionDesc status="draft">
+      <revisionDesc status="published">
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2023-04-28-05:00">CREATED: testimonium</change>
       </revisionDesc>
    </teiHeader>

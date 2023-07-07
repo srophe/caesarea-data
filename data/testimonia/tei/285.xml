@@ -267,7 +267,7 @@
         <catRef scheme="#CM-NEAEH" target="#earlyRoman #lateRoman #byzantine"/>
       </textClass>
     </profileDesc>
-    <revisionDesc status="draft">
+    <revisionDesc status="published">
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="2022-10-19-05:00">CHANGED: Proofreading and general edits</change>
       <change who="https://caesarea-maritima.org/documentation/editors.xml#jrife" when="">CREATED: testimonium</change>
     </revisionDesc>

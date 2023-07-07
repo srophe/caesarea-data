@@ -275,7 +275,7 @@
             <catRef scheme="#CM-NEAEH" target="#byzantine"/>
          </textClass>
       </profileDesc>
-      <revisionDesc status="draft">
+      <revisionDesc status="published">
          <change who="dmichelson" when="">ADDED: testimonium ID, URNs, URLs to edition and
             translation, and Bibl URIs</change>
          <change who="dmichelson" when="">CREATED: testimonium</change>
