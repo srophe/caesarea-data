@@ -21,6 +21,10 @@
           Potter</name>
       </respStmt>
         <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
+        </respStmt>
+        <respStmt>
         <resp>Electronic text added by</resp>
         <name ref="https://caesarea-maritima.org/documentation/editors.xml#bgardner">Bianca
           Gardner</name>
@@ -281,16 +285,32 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/2</idno>
       </ab>
       <desc type="abstract" xml:id="abstract2-1">
-        <quote><placeName>Στράτωνος πύργον</placeName></quote>, <quote><placeName>Καισάρεια</placeName></quote>, <quote><placeName>Strato's Tower</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/22143666" role="author">Josephus</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg001" type="uniform" level="m">Jewish Antiquities</title> <ref n="c" target="#bib2-1">14.76</ref>. This passage was written ca. <origDate period="#nabateanKingdom #earlyRoman" notBefore="0093" notAfter="0094">93 – 94 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+        <quote>
+          <placeName>Στράτωνος πύργον</placeName>
+        </quote>, <quote>
+          <placeName>Καισάρεια</placeName>
+        </quote>, <quote>
+          <placeName>Strato's Tower</placeName>
+        </quote>, and <quote>
+          <placeName>Caesarea</placeName>
+        </quote> are directly attested at <persName ref="http://viaf.org/viaf/22143666" role="author">Josephus</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg001" type="uniform" level="m">Jewish Antiquities</title> <ref n="c" target="#bib2-1">14.76</ref>. This passage was written ca. <origDate period="#nabateanKingdom #earlyRoman" notBefore="0093" notAfter="0094">93 – 94 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+      <desc type="context"/>
       <ab type="edition" xml:lang="grc" xml:id="quote2-1">
         <anchor xml:id="testimonia-2.grc.1" corresp="#testimonia-2.en.1"/>
         καὶ ταύτας μὲν ἐν τῇ μεσογείῳ χωρὶς τῶν κατεσκαμμένων, Γάζαν δὲ πρὸς τῇ θαλάττῃ καὶ Ἰόππην καὶ Δῶρα καὶ <placeName>Στράτωνος πύργον</placeName>, ἣ κτίσαντος αὐτὴν Ἡρώδου μεγαλοπρεπῶς καὶ λιμέσιν τε καὶ ναοῖς κοσμήσαντος, <placeName>Καισάρεια</placeName> μετωνομάσθη, πάσας ὁ Πομπήιος ἀφῆκεν ἐλευθέρας καὶ προσένειμεν τῇ ἐπαρχίᾳ.<ab type="source" source="#bib2-1"/>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg0526.tlg001.perseus-grc1:14.76</idno>
         <ref target="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg001.perseus-grc1:14.76"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote2-2">
         <anchor xml:id="testimonia-2.en.1" corresp="#testimonia-2.grc.1"/>
         These were in the inland parts. Besides those that had been demolished, and also of the maritime cities, Gaza, and Joppa, and Dora, and <placeName>Strato's Tower</placeName>; which last Herod rebuilt after a glorious manner, and adorned with havens and temples, and changed its name to <placeName>Caesarea</placeName>. All these Pompey left in a state of freedom, and joined them to the province of Syria.<ab type="source" source="#bib2-2"/>
+        <note xml:lang="en" type="translation">Trans. {Source}</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg0526.tlg001.perseus-eng1:14.69</idno>
         <ref target="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg001.perseus-eng1:14.69"/>
       </ab>
@@ -341,6 +361,36 @@
             <forename>Flavius</forename>
             <surname>Josephus</surname>
           </author>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

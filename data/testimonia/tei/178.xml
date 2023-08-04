@@ -20,6 +20,10 @@
         <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
       </respStmt>
         <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
+        </respStmt>
+        <respStmt>
         <resp>Electronic text added by</resp>
         <name ref="https://caesarea-maritima.org/documentation/editors.xml#jwoods">Joshua Woods</name>
       </respStmt>
@@ -282,14 +286,26 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/178</idno>
       </ab>
       <desc type="abstract" xml:id="abstract178-1">
-        <quote><placeName>Στράτωνος ἐκαλεῖτο πύργος,</placeName></quote>, and <quote><placeName>Strato's Tower</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/22143666 " role="author">Josephus</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg004" type="uniform" level="m">The Jewish War</title> <ref n="c" target="#bib178-1">1.21.5</ref>. This passage was written ca. <origDate period="#nabateanKingdom #earlyRoman #herodian" notBefore="0070" notAfter="0090">70 - 90 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+        <quote>
+          <placeName>Στράτωνος ἐκαλεῖτο πύργος,</placeName>
+        </quote>, and <quote>
+          <placeName>Strato's Tower</placeName>
+        </quote> are directly attested at <persName ref="http://viaf.org/viaf/22143666 " role="author">Josephus</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg004" type="uniform" level="m">The Jewish War</title> <ref n="c" target="#bib178-1">1.21.5</ref>. This passage was written ca. <origDate period="#nabateanKingdom #earlyRoman #herodian" notBefore="0070" notAfter="0090">70 - 90 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+      <desc type="context"/>
       <ab type="edition" xml:lang="grc" xml:id="quote178-1">
         <anchor xml:id="testimonia-178.grc.1" corresp="#testimonia-178.en.1"/>Κατιδὼν δὲ κἀν τοῖς παραλίοις πόλιν ἤδη μὲν κάμνουσαν, <placeName xml:lang="grc">Στράτωνος ἐκαλεῖτο πύργος,</placeName> διὰ δὲ εὐφυίαν τοῦ χωρίου δέξασθαι δυναμένην τὸ φιλότιμον αὐτοῦ, πᾶσαν ἀνέκτισεν λευκῷ λίθῳ καὶ λαμπροτάτοις ἐκόσμησεν βασιλείοις, ἐν ᾗ μάλιστα τὸ φύσει μεγαλόνουν ἐπεδείξατο. μεταξὺ γὰρ Δώρων καὶ Ἰόππης, ὧν ἡ πόλις μέση κεῖται, πᾶσαν εἶναι συμβέβηκεν τὴν παράλιον ἀλίμενον, ὡς πάντα τὸν τὴν Φοινίκην ἐπ᾽ Αἰγύπτου παραπλέοντα σαλεύειν ἐν πελάγει διὰ τὴν ἐκ λιβὸς ἀπειλήν, ᾧ καὶ μετρίως ἐπαυρίζοντι τηλικοῦτον ἐπεγείρεται κῦμα πρὸς ταῖς πέτραις, ὥστε τὴν ὑποστροφὴν τοῦ κύματος ἐπὶ πλεῖστον ἐξαγριοῦν τὴν θάλασσαν. ἀλλ᾽ ὁ βασιλεὺς τοῖς ἀναλώμασιν καὶ τῇ φιλοτιμίᾳ νικήσας τὴν φύσιν μείζονα μὲν τοῦ Πειραιῶς λιμένα κατεσκεύασεν, ἐν δὲ τοῖς μυχοῖς αὐτοῦ βαθεῖς ὅρμους ἑτέρους.<ab type="source" source="#bib178-1"/>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg0526.tlg004.perseus-grc1:1.21.5</idno>
         <ref target="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-grc1:1.21.5"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote178-2">
         <anchor xml:id="testimonia-178.en.1" corresp="#testimonia-178.grc.1"/>And when he observed that there was a city by the sea-side that was much decayed, (its name was <placeName xml:lang="en">Strato's Tower</placeName>,) but that the place, by the happiness of its situation, was capable of great improvements from his liberality, he rebuilt it all with white stone, and adorned it with several most splendid palaces, wherein he especially demonstrated his magnanimity; for the case was this, that all the sea-shore between Dora and Joppa, in the middle, between which this city is situated, had no good haven, insomuch that every one that sailed from Phoenicia for Egypt was obliged to lie in the stormy sea, by reason of the south winds that threatened them; which wind, if it blew but a little fresh, such vast waves are raised, and dash upon the rocks, that upon their retreat the sea is in a great ferment for a long way. But the king, by the expenses he was at, and the liberal disposal of them, overcame nature, and built a haven larger than was the Pyrecum [at Athens]; and in the inner retirements of the water he built other deep stations [for the ships also].<ab type="source" source="#bib178-2"/>
+        <note xml:lang="en" type="translation">Trans. {Source}</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.21.5</idno>
         <ref target="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.21.5"/>
       </ab>
@@ -313,6 +329,36 @@
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/Z56XEGGL"/>
           <citedRange unit="section">1.21.5</citedRange>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

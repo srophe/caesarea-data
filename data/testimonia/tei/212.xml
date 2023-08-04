@@ -18,6 +18,10 @@
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
         <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
+        </respStmt>
+        <respStmt>
           <resp>TEI record created by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
@@ -287,7 +291,11 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/212</idno>
          </ab>
          <desc type="abstract" xml:id="abstract212-1">
-        <quote><placeName>Cesaire</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Holy Pilgrimages</title> <ref n="a" target="#bib212-1">7-9</ref>. This passage was written ca. <origDate notBefore="1229" notAfter="1239" period="#crusader">1229-1239 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
+        <quote>
+          <placeName>Cesaire</placeName>
+        </quote>, and <quote>
+          <placeName>Caesarea</placeName>
+        </quote> are directly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Holy Pilgrimages</title> <ref n="a" target="#bib212-1">7-9</ref>. This passage was written ca. <origDate notBefore="1229" notAfter="1239" period="#crusader">1229-1239 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
          <desc type="context">The <title>Holy Pilgrimages</title> of unknown authorship was composed
             during the time when the Crusaders had recovered control of Jerusalem, for roughly a
             decade in the second quarter of the 13th century. It traces two routes for pilgrims,
@@ -313,9 +321,13 @@
             Arsuf où il a IX liues, ou quel chemin par desus si est Roche Taillée, un mauvais pas,
             et là se herbergent males gens aucune foiz por tolir le chemin à ceaux qui vont à
                Iaphe.<ab type="source" source="#bib212-1"/>
+        <note xml:lang="en" type="textual">Ed. Michelant and Raynaud 1882</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target="https://archive.org/details/itinrairesajrus00parigoog/page/n147/mode/2up"/>
-        <note xml:lang="en" type="textual">Ed. Michelant and Raynaud 1882</note>
+        
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote212-2">
         <anchor xml:id="testimonia-212.en.1" corresp="#testimonia-212.fro.1"/>Between St. Margaret and the Friars of Carmel there is a village
@@ -334,9 +346,12 @@
             one goes from <placeName>Caesarea</placeName> to Arsuf, which is 9 leagues. On that road
             above is Cut Rock [<foreign>Roche Taillée</foreign>], an evil defile; and there wicked
             people encamp from time to time to block the route to those going to Iaphe.<ab type="source" source="#bib212-2"/>
+        <note xml:lang="en" type="translation">Revised from Pringle 2018</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref/>
-        <note xml:lang="en" type="translation">Revised from Pringle 2018</note>
+        
       </ab>
          <listBibl>
         <head>Works Cited</head>
@@ -355,6 +370,41 @@
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/ZHD3CJNP"/>
           <citedRange unit="p">465-477</citedRange>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
       <note type="related-texts">

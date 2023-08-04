@@ -18,6 +18,10 @@
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
         </respStmt>
         <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
+        </respStmt>
+        <respStmt>
           <resp>Electronic text added by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
@@ -275,7 +279,11 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/80</idno>
          </ab>
          <desc type="abstract" xml:id="abstract80-1">
-        <quote><placeName>Καισαρείας Παλαιστίνης</placeName></quote>, and <quote><placeName>Caesarea Palestinae</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/54944687">Theophanes the Confessor</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref n="j" target="#bib80-1">336.4-24</ref>. This passage was written ca. <origDate notBefore="0810" notAfter="0814" period="#earlyIslamic">ca. 810-814 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/511218">Cyzicus</origPlace>.</desc>
+        <quote>
+          <placeName>Καισαρείας Παλαιστίνης</placeName>
+        </quote>, and <quote>
+          <placeName>Caesarea Palestinae</placeName>
+        </quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/54944687">Theophanes the Confessor</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Chronicle</title> <ref n="j" target="#bib80-1">336.4-24</ref>. This passage was written ca. <origDate notBefore="0810" notAfter="0814" period="#earlyIslamic">ca. 810-814 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/511218">Cyzicus</origPlace>.</desc>
          <desc type="context">Theophanes, born to noble parents in Constantinople, was raised in the
             Palace under Constantine V (740-775 C.E.) He spent much of his career as a member and
             leader of monastic communities around the Sea of Marmara, before his condemnation and
@@ -300,10 +308,14 @@
             λεγόμενος δοκίτης, προμηνύων τὴν τῶν Ἀράβων ἐπικράτησιν· ἔμεινε δὲ ἡμέρας λʹ διατείνων
             ἀπὸ μεσημβρίας ἕως ἄρκτου. ἦν δὲ ξιφοειδής. 
       <ab type="source" source="#bib80-1"/>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
         <note xml:lang="en" type="textual">Ed. de Boor
                1883</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote80-2">
         <anchor xml:id="testimonia-80.en.1" corresp="#testimonia-80.grc.1"/>
@@ -321,12 +333,15 @@
             conquest. It remained for thirty days, moving from south to north, and was shaped like a
             sword. 
       <ab type="source" source="#bib80-2"/>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
         <note xml:lang="en" type="translation">Adapted from Mango, Scott, and Greatrex 1997</note>
         <note xml:lang="en" type="discussion">The unusual word δοκίτης refers to a shooting star or meteor
                already in Late Antiquity (John Lydus, Signs 10b) and continuing in common usage into
                Late Byzantine and katharevousa.</note>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        
+        
       </ab>
          <listBibl>
         <head>Works Cited</head>
@@ -337,6 +352,49 @@
         <bibl xml:id="bib80-2">
           <ptr target="https://caesarea-maritima.org/bibl/9634RWJV"/>
           <citedRange unit="p">467-468</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

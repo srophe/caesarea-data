@@ -34,6 +34,10 @@
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
         <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
+        </respStmt>
+        <respStmt>
           <resp>Testimonium translated by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
@@ -295,7 +299,11 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/483</idno>
          </ab>
          <desc type="abstract" xml:id="abstract483-1">
-        <quote><placeName>Καισάρεια</placeName></quote>, and <quote><placeName>Kaisareia</placeName></quote> are directly attested at <persName ref="" role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Great Dictionary of Word Origins</title> <ref n="a" target="#bib483-1">498.7-15</ref>. This passage was written ca. <origDate notBefore="1125" notAfter="1175" period="#crusader">ca. 1125-1175 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+        <quote>
+          <placeName>Καισάρεια</placeName>
+        </quote>, and <quote>
+          <placeName>Kaisareia</placeName>
+        </quote> are directly attested at <persName ref="" role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Great Dictionary of Word Origins</title> <ref n="a" target="#bib483-1">498.7-15</ref>. This passage was written ca. <origDate notBefore="1125" notAfter="1175" period="#crusader">ca. 1125-1175 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
          <desc type="context">The <title>Great Dictionary of Word Origins</title>
                (<title>Etymologicum Magnum</title>) was the result of a major lexicographical
             project by a unknown grammarian of exceptional knowledge and skill around the mid-12th
@@ -312,10 +320,14 @@
             συγχεῖσθαι αὐτόν. Καὶ τὰς ἐρίθους καιρωστίδας εἶπε Καλλίμαχος, καὶ τὸ Δηλίων ὕφασμα,
             ὑδάτινον (καίρωμα). Πᾶσα λέξις ἀπὸ τῆς ΚΕ συλλαβῆς ἀρχομένη διὰ τοῦ ε ψιλοῦ γράφεται,
             πλὴν τοῦ καιρὸς καὶ καινὸς, Καῖσαρ, Καισαρεὺς, <placeName>Καισάρεια</placeName>.<ab type="source" source="#bib483-1"/>
+        <note xml:lang="en" type="textual">Ed. Gaisford 1848</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda">Minor corr. (spacing, spelling)</note>
         <idno type="CTS-URN"/>
         <ref/>
-        <note xml:lang="en" type="textual">Ed. Gaisford 1848</note>
-        <note xml:lang="en" type="corrigenda">Minor corr. (spacing, spelling)</note>
+        
+        
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote483-2">
         <anchor xml:id="testimonia-483.en.1" corresp="#testimonia-483.grc.1"/>KAIROSEON: Some (say it comes) from <foreign>krossoton</foreign>
@@ -328,11 +340,14 @@
             with the plain epsilon, except for <foreign>kairos</foreign> and
                <foreign>kainos</foreign>, <foreign>Kaisar</foreign>, <foreign>Kaisareus</foreign>, <placeName>
                <foreign>Kaisareia</foreign>
-            </placeName>.<note xml:lang="en" type="translation">Trans. J. L. Rife</note>
-        <note xml:lang="en" type="discussion">The phrases quoted from Callimachus are frr. 295 and
-               356.</note>
+            </placeName>.
+        
         <idno type="CTS-URN"/>
         <ref target=""/>
+      <note xml:lang="en" type="translation">Trans. J. L. Rife</note>
+        <note xml:lang="en" type="discussion">The phrases quoted from Callimachus are frr. 295 and
+               356.</note>
+        <note xml:lang="en" type="corrigenda"/>
       </ab>
          <listBibl>
         <head>Works Cited</head>
@@ -340,6 +355,54 @@
           <ptr target="https://caesarea-maritima.org/bibl/923KHBZ2"/>
           <citedRange unit="p">498</citedRange>
           <citedRange unit="line">7-15</citedRange>
+        </bibl>
+      <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

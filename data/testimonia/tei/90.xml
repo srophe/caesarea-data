@@ -19,6 +19,10 @@
         <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
       </respStmt>
         <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
+        </respStmt>
+        <respStmt>
         <resp>Electronic text added by</resp>
         <name ref="https://caesarea-maritima.org/documentation/editors.xml#eyonan">Eliana Yonan</name>
       </respStmt>
@@ -279,7 +283,11 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/90</idno>
       </ab>
       <desc type="abstract" xml:id="abstract90-1">
-        <quote><placeName>Καισαρείας δὲ τῆς Παλαιστίνης</placeName></quote>, and <quote><placeName>Caesarea of Palestine</placeName></quote> are directly attested at <persName ref="" role="author">Unknown</persName>, <title ref="" type="uniform" level="m">Apostolic Constitutions</title> <ref n="a" target="#bib90-1">7.46.1-5</ref>. This passage was written ca. <origDate notBefore="0350" notAfter="0380" period="#byzantine">350-380 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/658381">Antioch</origPlace>.</desc>
+        <quote>
+          <placeName>Καισαρείας δὲ τῆς Παλαιστίνης</placeName>
+        </quote>, and <quote>
+          <placeName>Caesarea of Palestine</placeName>
+        </quote> are directly attested at <persName ref="" role="author">Unknown</persName>, <title ref="" type="uniform" level="m">Apostolic Constitutions</title> <ref n="a" target="#bib90-1">7.46.1-5</ref>. This passage was written ca. <origDate notBefore="0350" notAfter="0380" period="#byzantine">350-380 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/658381">Antioch</origPlace>.</desc>
       <desc type="context">The <title>Apostolic Constitutions</title> is a long didactic text
         purporting to have been compiled by the apostles, in particular Peter, to guide the early
         Church in matters of morality, worship, and governance. It was probably composed in Syrian
@@ -295,10 +303,14 @@
         δὲ ᾽Αλεξανδρέων ᾽Αννιανὸς πρῶτος ὑπὸ Μάρκου τοῦ εὐαγγελιστοὺ κεχειροτόνηται, δεύτερος δὲ
         ᾽Αβίλιος ὑπὸ Λουκᾶ καὶ αὐτοῦ εὐαγγελιστού ...
       <ab type="source" source="#bib90-1"/>
-        <idno type="CTS-URN"/>
-        <ref/>
         <note xml:lang="en" type="textual">Ed. Metzger 1987 [cited by
           book-chapter-section]</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref/>
+        
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote90-2">
         <anchor xml:id="testimonia-90.en.1" corresp="#testimonia-90.grc.1"/>(1) Concerning those
@@ -310,11 +322,14 @@
         Ignatius, by Paul. (5) At Alexandria, Annianus was the first, installed by Mark the
         evangelist; the second was Avilius, by Luke, another evangelist.
       <ab type="source" source="#bib90-2"/>
-        <idno type="CTS-URN"/>
-        <ref/>
         <note xml:lang="en" type="translation">Trans. J. L. Rife with ref. to Metzger 2012</note>
         <note xml:lang="en" type="discussion">The Cornelius identified as the second bishop of Caesarea may recall
           the centurion who appears in <title>Acts</title> 10:1-8, but that is not certain.</note>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref/>
+        
+        
       </ab>
       <listBibl>
         <head>Works Cited</head>
@@ -325,6 +340,49 @@
         <bibl xml:id="bib90-2">
           <ptr target="https://caesarea-maritima.org/bibl/358NZGVR"/>
           <citedRange unit="p">276-277</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

@@ -18,6 +18,10 @@
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
         </respStmt>
         <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
+        </respStmt>
+        <respStmt>
           <resp>Electronic text added by</resp>
         </respStmt>
         <respStmt>
@@ -289,12 +293,16 @@
         (b) magna fames Romae VI XI (c) Claudius Felicem procuratorem Iudaeae mittit, VII aput quem
         Paulus apostolus accusatus in defensionem XII sui perorat VIII
       <ab type="source" source="#bib273-1"/>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
         <note xml:lang="en" type="textual">Ed. Helm
           1956</note>
+        <note xml:lang="en" type="textual"/>
         <note xml:lang="en" type="discussion">]</note>
         <note xml:lang="en" type="corrigenda">Minor corr.</note>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        
+        
+        
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote273-2">
         <anchor xml:id="testimonia-273.en.1" corresp="#testimonia-273.la.1"/>
@@ -304,10 +312,13 @@
         Claudius sends Felix to be procurator of Judaea. 7 [52 C.E.] Before him Paul the Apostle,
         standing accused, gives 12 a speech in defense of himself. 8
       <ab type="source" source="#bib273-2"/>
-        <idno type="CTS-URN"/>
-        <ref target="http://www.tertullian.org/fathers/jerome_chronicle_03_part2.htm"/>
         <note xml:lang="en" type="translation">Trans.
           J. L. Rife with ref. to Pearse 2005</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref target="http://www.tertullian.org/fathers/jerome_chronicle_03_part2.htm"/>
+        
       </ab>
       <listBibl>
         <head>Works Cited</head>
@@ -317,6 +328,49 @@
         </bibl>
         <bibl xml:id="bib273-2">
           <ptr target="https://caesarea-maritima.org/bibl/7JSD2DS2"/>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

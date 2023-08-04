@@ -19,6 +19,10 @@
         <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
       </respStmt>
         <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
+        </respStmt>
+        <respStmt>
         <resp>Electronic text added by</resp>
         <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
       </respStmt>
@@ -277,18 +281,30 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/107</idno>
       </ab>
       <desc type="abstract" xml:id="abstract107-1">
-        <quote><placeName>Καισαρείᾳ</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Church History</title> <ref n="l" target="#bib107-1">6.28.1</ref>. This passage was written ca. <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
+        <quote>
+          <placeName>Καισαρείᾳ</placeName>
+        </quote>, and <quote>
+          <placeName>Caesarea</placeName>
+        </quote> are directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Church History</title> <ref n="l" target="#bib107-1">6.28.1</ref>. This passage was written ca. <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
+      <desc type="context"/>
       <ab type="edition" xml:lang="grc" xml:id="quote107-1">
         <anchor xml:id="testimonia-107.grc.1" corresp="#testimonia-107.en.1"/>Τόν γε μὴν Ῥωμαίων αὐτοκράτορα Ἀλέξανδρον τρισὶν ἐπὶ δέκα ἔτεσι τὴν ἀρχὴν διανύσαντα Μαξιμῖνος Καῖσαρ διαδέχεται, ὃς δὴ κατὰ κότον τὸν πρὸς τὸν Ἀλεξάνδρου οἶκον, ἐκ πλειόνων πιστῶν συνεστῶτα, διωγμὸν ἐγείρας, τοὺς τῶν ἐκκλησιῶν ἄρχοντας μόνους ὡς αἰτίους τῆς κατὰ τὸ εὐαγγέλιον διδασκαλίας ἀναιρεῖσθαι προστάττει. τότε καὶ Ὠριγένης τὸν περὶ μαρτυρίου συντάττει, Ἀμβροσίῳ καὶ Πρωτοκτήτῳ πρεσβυτέρῳ τῆς ἐν <placeName xml:lang="grc">Καισαρείᾳ</placeName> παροικίας ἀναθεὶς τὸ σύγγραμμα, ὅτι δὴ ἄμφω περίστασις οὐχ ἡ τυχοῦσα ἐν τῷ διωγμῷ κατειλήφει, ἐν ᾗ καὶ διαπρέψαι κατέχει λόγος ἐν ὁμολογίᾳ τοὺς ἄνδρας, οὐ πλείονος ἢ τριετοῦς χρόνου τῷ Μαξιμίνῳ διαγενομένου. σεσημείωται δὲ τουτονὶ τοῦ διωγμοῦ τὸν καιρὸν ἔν τε τῷ δευτέρῳ καὶ εἰκοστῷ τῶν εἰς τὸ κατὰ Ἰωάννην ἐξηγητικῶν καὶ ἐν διαφόροις ἐπιστολαῖς Ὠριγένης.<ab type="source" source="#bib107-1"/>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda">Inaccuracies found in the transcription of the electronic text compared to its printed source have been corrected.</note>
         <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg002.1st1K-grc2:6.28.1</idno>
         <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2018.tlg002.1st1K-grc2:6.28.1"/>
-        <note xml:lang="en" type="corrigenda">Inaccuracies found in the transcription of the electronic text compared to its printed source have been corrected.</note>
+        
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote107-2">
         <anchor xml:id="testimonia-107.en.1" corresp="#testimonia-107.grc.1"/>When Alexander the Emperor of the Romans had brought his principate to an end after thirteen years, he was suceeeded by Maximin Caesar. He, through ill-will towards the house of Alexander, since it consisted for the most part of beievers, raised a persecution, ordering the leaders of the Church alone to be put to death, as being responsible for the teaching of the Gospel. Then also Origen composed his work <hi rend="italic">On Martyrdom</hi>, dedicating the treatise to Ambrose and Protoctetus, a presbyter of the commurity at <placeName xml:lang="en">Caesarea</placeName>; for in the persecution no ordinary distress had befallen them both, in which distress it is recorded that these men were distinguished for the confession they made during the period, not more than three years, that the reign of Maximin lasted. Origen has noted this particular time for the persecution in the twenty second book of his <hi rend="italic">Exegeseis on the Gospel of John</hi> and in various letters.<ab type="source" source="#bib107-2"/>
+        <note xml:lang="en" type="translation">Trans. {Source}</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda">Inaccuracies found in the transcription of the electronic text compared to its printed source have been corrected.</note>
         <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg002.1st1K-eng1:6.28</idno>
         <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2018.tlg002.1st1K-eng1:6.28"/>
-        <note xml:lang="en" type="corrigenda">Inaccuracies found in the transcription of the electronic text compared to its printed source have been corrected.</note>
+        
       </ab>
       <listBibl>
         <head>Works Cited</head>
@@ -310,6 +326,36 @@
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/N73TPKH5"/>
           <citedRange unit="section">6.28</citedRange>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

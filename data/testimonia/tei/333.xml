@@ -18,6 +18,10 @@
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
         </respStmt>
         <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
+        </respStmt>
+        <respStmt>
           <resp>Electronic text added by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
@@ -296,9 +300,13 @@
             et illo dicente omnes muti putabantur. (6) Haec quare scripserim et ad pauperis lucernae
             igniculum cito, sed non cauto sermone dictaverim, potestis intellegere, si Epicuros et
             Aristippos cogitetis.<ab type="source" source="#bib333-1"/>
+        <note xml:lang="en" type="textual">Ed. Hilberg and Slovak 1996</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref/>
-        <note xml:lang="en" type="textual">Ed. Hilberg and Slovak 1996</note>
+        
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote333-2">
         <anchor xml:id="testimonia-333.en.1" corresp="#testimonia-333.la.1"/>
@@ -317,9 +325,12 @@
         they thought that all others were voiceless when he spoke. (6) I have written these things
         quickly by the light of a meager lamp and I have expressed them incautiously. You will
         understand why if you consider the adherents of Epicurus and Aristippus.<ab type="source" source="#bib333-2"/>
+        <note xml:lang="en" type="translation">Trans. J. L. Rife with ref. to Fremantle 1893</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
-        <note xml:lang="en" type="translation">Trans. J. L. Rife with ref. to Fremantle 1893</note>
+        
       </ab>
       <listBibl>
         <head>Works Cited</head>
@@ -330,6 +341,49 @@
         </bibl>
         <bibl xml:id="bib333-2">
           <ptr target="https://caesarea-maritima.org/bibl/4KIJIT36"/>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

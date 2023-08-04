@@ -19,6 +19,10 @@
         <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
       </respStmt>
         <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
+        </respStmt>
+        <respStmt>
         <resp>Electronic text added by</resp>
         <name ref="https://caesarea-maritima.org/documentation/editors.xml#eyonan">Eliana Yonan</name>
       </respStmt>
@@ -279,7 +283,11 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/48</idno>
       </ab>
       <desc type="abstract" xml:id="abstract48-1">
-        <quote><placeName>Καισαρέων</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/25393339 " role="author">Apollonius of Tyana</persName>, <title xml:lang="en" type="uniform" level="m">Letters</title> <ref n="a" target="#bib48-1">11</ref>. This passage was written ca. <origDate notBefore="0045" notAfter="0090" period="#nabateanKingdom #earlyRoman #herodian #middleNabatean">45-90 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/837">Asia Minor</origPlace>.</desc>
+        <quote>
+          <placeName>Καισαρέων</placeName>
+        </quote>, and <quote>
+          <placeName>Caesarea</placeName>
+        </quote> are directly attested at <persName ref="http://viaf.org/viaf/25393339 " role="author">Apollonius of Tyana</persName>, <title xml:lang="en" type="uniform" level="m">Letters</title> <ref n="a" target="#bib48-1">11</ref>. This passage was written ca. <origDate notBefore="0045" notAfter="0090" period="#nabateanKingdom #earlyRoman #herodian #middleNabatean">45-90 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/837">Asia Minor</origPlace>.</desc>
       <desc type="context">A collection of over 50 letters from various sources is associated with
         the name of Apollonius of Tyana. He was the celebrated Neopythagorean teacher of the late
         1st century C.E. whom Philostratus portrayed colorfully as a pagan holy man and thaumaturge
@@ -303,10 +311,14 @@
         Ἀπολλωνίδην δὲ τὸν Ἀφροδισίου, νεανίαν ἐρρωμενεστάτης φύσεως ἀξίας τε τοῦ ἡμετέρου ὀνόματος,
         πειράσομαι χρήσιμον ὑμῖν παρασκευάζειν εἰς ἕκαστα μετὰ καὶ τύχης τινὸς ἀγαθῆς.
       <ab type="source" source="#bib48-1"/>
+        <note xml:lang="en" type="textual">Ed. Kayser 1870</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion">Minor corrections (punctuation)</note>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref/>
-        <note xml:lang="en" type="textual">Ed. Kayser 1870</note>
-        <note xml:lang="en" type="discussion">Minor corrections (punctuation)</note>
+        
+        
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote48-2">
         <anchor xml:id="testimonia-48.en.1" corresp="#testimonia-48.grc.1"/>Apollonius to the
@@ -327,10 +339,13 @@
         firm nature and one worthy to share my name, I shall try to make him serviceable to you in
         every respect, with the help of some good fortune.
       <ab type="source" source="#bib48-2"/>
-        <idno type="CTS-URN"/>
-        <ref/>
         <note xml:lang="en" type="translation">Trans. Jones
           2014</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref/>
+        
       </ab>
       <listBibl>
         <head>Works Cited</head>
@@ -348,6 +363,41 @@
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/F2M7KDEA"/>
           <citedRange unit="section">11</citedRange>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

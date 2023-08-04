@@ -21,6 +21,10 @@
           Potter</name>
       </respStmt>
         <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
+        </respStmt>
+        <respStmt>
         <resp>Electronic text added by</resp>
         <name ref="https://caesarea-maritima.org/documentation/editors.xml#bgardner">Bianca
           Gardner</name>
@@ -281,15 +285,23 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/65</idno>
       </ab>
       <desc type="abstract" xml:id="abstract65-1">Caesarea Maritima is indirectly attested at <persName ref="http://viaf.org/viaf/305863610" role="author">Luke the Evangelist</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg0031.tlg005" type="uniform" level="m">Acts of the Apostles</title> <ref n="a" target="#bib65-1">6.5</ref>. This passage was written ca. <origDate period="#nabateanKingdom #earlyRoman" notBefore="0080" notAfter="0090">80 – 90 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
+      <desc type="context"/>
       <ab type="edition" xml:lang="grc" xml:id="quote65-1">
         <anchor xml:id="testimonia-65.grc.1" corresp="#testimonia-65.en.1"/>
         καὶ ἤρεσεν ὁ λόγος ἐνώπιονπαντὸς τοῦ πλήθους, καὶἐξελέξαντο Στέφανον, ἄνδραπλήρη πίστεως καὶ πνεύματοςἁγίου, καὶ Φίλιππον καὶΠρόχορον καὶ Νικάνορα καὶΤίμωνα καὶ Παρμενᾶν καὶΝικόλαον προσήλυτον Ἀντιοχέα,<ab type="source" source="#bib65-1"/>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg0031.tlg005.perseus-grc2:6.5</idno>
         <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg0031.tlg005.perseus-grc2:6.5"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote65-2">
         <anchor xml:id="testimonia-65.en.1" corresp="#testimonia-65.grc.1"/>
         These words pleased the whole multitude. They chose Stephen, a man full of faith and of the Holy Spirit, Philip, Prochorus, Nicanor, Timon, Parmenas, and Nicolaus, a proselyte of Antioch;<ab type="source" source="#bib65-2"/>
+        <note xml:lang="en" type="translation">Trans. {Source}</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg0031.tlg005.perseus-eng2:6.5</idno>
         <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg0031.tlg005.perseus-eng2:6.5"/>
       </ab>
@@ -343,6 +355,36 @@
           <editor>
             <name>Rainbow Missions, Inc.</name>
           </editor>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

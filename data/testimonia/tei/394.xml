@@ -18,6 +18,10 @@
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
         <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
+        </respStmt>
+        <respStmt>
           <resp>URNs and other metadata added by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
@@ -280,7 +284,9 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/394</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract394-1">and <quote><placeName>قيساريَّة</placeName></quote> is directly attested at <persName role="author" ref="http://viaf.org/viaf/69158767">Al-Muqaddasī</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Best Divisions for Knowledge of the Regions</title> <ref n="b" target="#bib394-1">54</ref>. This passage was written ca. <origDate when="0985" period="#earlyIslamic">985 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/1306">Syria-Palestine</origPlace>.</desc>
+         <desc type="abstract" xml:id="abstract394-1">and <quote>
+          <placeName>قيساريَّة</placeName>
+        </quote> is directly attested at <persName role="author" ref="http://viaf.org/viaf/69158767">Al-Muqaddasī</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Best Divisions for Knowledge of the Regions</title> <ref n="b" target="#bib394-1">54</ref>. This passage was written ca. <origDate when="0985" period="#earlyIslamic">985 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/1306">Syria-Palestine</origPlace>.</desc>
          <desc type="context">Shams al-Dīn Abū ʿAbd Allāh Muḥammad ibn Aḥmad al-Muqaddasī (334-390
             A.H./945-1000 C.E.) was an Arab geographer and traveler during the mid- to late 10th
             century. Born in Jerusalem, al-Muqaddasī began studying history, jurisprudence, and
@@ -303,9 +309,13 @@
             والصغانيان ونهاوند وجزيرة ابن عمر وسابور فاختر ما شئتَ منها فإنها مَنَازِه الإسلام،
             وامَّا الأندلس فيقال انها جنّات ومستفاض جنَّات الدنيا اربع غوطة دمشق ونهر الأبلَّة وروضة
             الصغد وشعب بوَّان. <ab type="source" source="#bib394-1"/>
+        <note xml:lang="en" type="textual">ed. de Goeje 1906</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
-        <note xml:lang="en" type="textual">ed. de Goeje 1906</note>
+        
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote394-2">
         <anchor xml:id="testimonia-394.en.1" corresp="#testimonia-394.ar.1"/>The district of Ḥimṣ has the cities of Salamiyya, Tadmur,
@@ -322,10 +332,13 @@
             places, for they are beautiful lands of Islam. As for al-Andalus, one says that it is a
             paradise. But the abundant paradises of the world are four: the Ghūṭa of Dimashq, the
             river of Ubulla, the meadows of Ṣughd, and the valley of Bawwān. <ab type="source" source="#bib394-2"/>
-        <idno type="CTS-URN"/>
-        <ref/>
         <note xml:lang="en" type="translation">Trans. T. Marashi with ref. to Ranking and Azoo 1906 and Collins
                1994 </note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref/>
+        
       </ab>
          <listBibl>
         <head>Works Cited</head>
@@ -343,6 +356,41 @@
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/G3KM5K8V"/>
           <citedRange unit="p">132</citedRange>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

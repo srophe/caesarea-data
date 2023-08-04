@@ -18,6 +18,10 @@
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
         <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
+        </respStmt>
+        <respStmt>
           <resp>URNs and other metadata added by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
@@ -281,7 +285,11 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/462</idno>
          </ab>
          <desc type="abstract" xml:id="abstract462-1">
-        <quote><placeName>Καισαρείαν τῆς Στράτωνος</placeName></quote>, and <quote><placeName>Straton's Caesarea</placeName></quote> are directly attested at <persName ref="" role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Honors for an Athlete, IAph2007</title> <ref n="b" target="#bib462-1">12.920</ref>. This passage was written ca. <origDate notBefore="0138" notAfter="0169" period="#lateRoman">138-169 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/638753">Aphrodisias</origPlace>.</desc>
+        <quote>
+          <placeName>Καισαρείαν τῆς Στράτωνος</placeName>
+        </quote>, and <quote>
+          <placeName>Straton's Caesarea</placeName>
+        </quote> are directly attested at <persName ref="" role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Honors for an Athlete, IAph2007</title> <ref n="b" target="#bib462-1">12.920</ref>. This passage was written ca. <origDate notBefore="0138" notAfter="0169" period="#lateRoman">138-169 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/638753">Aphrodisias</origPlace>.</desc>
          <desc type="context">This text in two parts (i, ii) was inscribed on three faces (a, b, c)
             of a marble statue-base with molded panels found near the western city-wall at
             Aphrodisias in Caria, western Asia Minor. The 123 total lines written in the mid-2nd
@@ -341,10 +349,14 @@
             ἀνδρῶν (60)<lb/>πανκράτιν stop Τρίπολιν τῆς Συρίας<lb/>ἀνδρῶν πανκράτιν stop Φιλαδέλφει<lb/>αν
             τῆς Ἀραβίας stop ἀνδρῶν πανκρά-<lb/>τιν stop Ζεῦγμα πρὸς τῷ Εὐφράτῃ<lb/>ἀνδρῶν πανκράτιν
             stop Κιβύραν (65)<lb/>vac. ἀνδρῶν πανκράτιν vac. <ab type="source" source="#bib462-1"/>
-        <idno type="CTS-URN"/>
-        <ref target="http://insaph.kcl.ac.uk/iaph2007/iAph120920.html#edition"/>
         <note xml:lang="en" type="textual">Ed. Roueché 1993 and
                Reynolds, Roueché, and Bodard 2007</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref target="http://insaph.kcl.ac.uk/iaph2007/iAph120920.html#edition"/>
+        
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote462-2">
         <anchor xml:id="testimonia-462.en.1" corresp="#testimonia-462.grc.1"/>Part i side a<lb/>[It was resolved] by the sacred xystic [?travelling
@@ -407,15 +419,23 @@
             Caesarea Panias, the men's pancration; at Hieropolis, the men's pancration; at
             Anazarbus, the men's pancration; (60) at Mopsuestia, the men's pancration; at Tripolis
             of Syria, the men's pancration; at Philadelphia of Arabia, the men's pancration; at
-            Zeugma by the Euphrates, the men's pancration; at Kibyra, the men's pancration. <note xml:lang="en" type="translation">Rev. Reynolds, Roueché, and Bodard 2007</note>
+            Zeugma by the Euphrates, the men's pancration; at Kibyra, the men's pancration. 
         <idno type="CTS-URN"/>
         <ref target="http://insaph.kcl.ac.uk/iaph2007/iAph120920.html#edition"/>
+      <note xml:lang="en" type="translation">Rev. Reynolds, Roueché, and Bodard 2007</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
       </ab>
          <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib462-1">
           <ptr target="https://caesarea-maritima.org/bibl/VU3ISTBV"/>
           <citedRange unit="entry">12.920</citedRange>
+        </bibl>
+      <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
          <listBibl>
@@ -424,6 +444,41 @@
           <ptr target="https://caesarea-maritima.org/bibl/J6X733SP"/>
           <citedRange unit="p">231-235</citedRange>
           <citedRange unit="entry">91</citedRange>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

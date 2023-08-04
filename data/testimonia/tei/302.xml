@@ -18,6 +18,10 @@
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
         </respStmt>
         <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
+        </respStmt>
+        <respStmt>
           <resp>Electronic text added by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
@@ -275,7 +279,13 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/302</idno>
       </ab>
       <desc type="abstract" xml:id="abstract302-1">
-        <quote><placeName>Caesarea Palestinae</placeName></quote>, <quote><placeName>Caesarea</placeName></quote>, and <quote><placeName>Caesarea of Palestine</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/1018158675954427500005">Marino Sanudo the Elder</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Secrets for Those Faithful to the Cross</title> <ref n="m" target="#bib302-1">3.14.2</ref>. This passage was written ca. <origDate notBefore="1306" notAfter="1321" period="#lateIslamic">1306-1321 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/560221">Aegean Greece</origPlace>.</desc>
+        <quote>
+          <placeName>Caesarea Palestinae</placeName>
+        </quote>, <quote>
+          <placeName>Caesarea</placeName>
+        </quote>, and <quote>
+          <placeName>Caesarea of Palestine</placeName>
+        </quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/1018158675954427500005">Marino Sanudo the Elder</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Secrets for Those Faithful to the Cross</title> <ref n="m" target="#bib302-1">3.14.2</ref>. This passage was written ca. <origDate notBefore="1306" notAfter="1321" period="#lateIslamic">1306-1321 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/560221">Aegean Greece</origPlace>.</desc>
       <desc type="context">Marino Sanudo the Elder of Torcello, from a wealthy and powerful Venetian
         family, was a statesman and geographer who spent much of his career from the late 13th
         century until his death in 1338 living and travelling abroad. He reached the Peloponnese and
@@ -297,10 +307,14 @@
         qui etiam post eius amissionem, annuatim soluebant domino Assur XXVIII millia bizantiorum
         (de ea part. III cap. IV).
       <ab type="source" source="#bib302-1"/>
+        <note xml:lang="en" type="textual">Ed. Bongars 1611</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda">Minor corr. (punctuation)</note>
         <idno type="CTS-URN"/>
         <ref target=""/>
-        <note xml:lang="en" type="textual">Ed. Bongars 1611</note>
-        <note xml:lang="en" type="corrigenda">Minor corr. (punctuation)</note>
+        
+        
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote302-2">
         <anchor xml:id="testimonia-302.en.1" corresp="#testimonia-302.la.1"/>
@@ -312,9 +326,12 @@
             the Templars, who, even after its loss, were indebted to the Lord of Assur for 28,000
             bezants annually (see 6.3.4).
       <ab type="source" source="#bib302-2"/>
+        <note xml:lang="en" type="translation">Adapted from Lock 2011</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
-        <note xml:lang="en" type="translation">Adapted from Lock 2011</note>
+        
       </ab>
       <listBibl>
         <head>Works Cited</head>
@@ -326,6 +343,49 @@
         <bibl xml:id="bib302-2">
           <ptr target="https://caesarea-maritima.org/bibl/46ITBHCT"/>
           <citedRange unit="p">391</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

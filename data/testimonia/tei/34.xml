@@ -21,6 +21,10 @@
           Potter</name>
         </respStmt>
         <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
+        </respStmt>
+        <respStmt>
           <resp>Electronic text added by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#bgardner">Bianca
           Gardner</name>
@@ -281,16 +285,28 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/34</idno>
       </ab>
       <desc type="abstract" xml:id="abstract34-1">
-        <quote><placeName>Καισαρείας</placeName></quote>, and <quote><placeName>Cesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/22143666" role="author">Josephus</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg004" type="uniform" level="m">The Jewish War</title> <ref n="s" target="#bib34-1">5.40</ref>. This passage was written ca. <origDate period="#nabateanKingdom #earlyRoman #herodian" notBefore="0070" notAfter="0090">70 - 90 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+        <quote>
+          <placeName>Καισαρείας</placeName>
+        </quote>, and <quote>
+          <placeName>Cesarea</placeName>
+        </quote> are directly attested at <persName ref="http://viaf.org/viaf/22143666" role="author">Josephus</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg004" type="uniform" level="m">The Jewish War</title> <ref n="s" target="#bib34-1">5.40</ref>. This passage was written ca. <origDate period="#nabateanKingdom #earlyRoman #herodian" notBefore="0070" notAfter="0090">70 - 90 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+      <desc type="context"/>
       <ab type="edition" xml:lang="grc" xml:id="quote34-1">
         <anchor xml:id="testimonia-34.grc.1" corresp="#testimonia-34.en.1"/>
         ὁ γὰρ δὴ Τίτος ἐπειδὴ τὰ μὲν συνήγαγετῆς δυνάμεως πρὸς αὑτόν, τοῖς δὲ ἐπὶἹεροσολύμων συναντᾶν ἐπέστειλεν, ἐξήλαυνετῆς <placeName xml:lang="grc">Καισαρείας</placeName>.<ab type="source" source="#bib34-1"/>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg0526.tlg004.perseus-grc1:5.40</idno>
         <ref target="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-grc1:5.40"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote34-2">
         <anchor xml:id="testimonia-34.en.1" corresp="#testimonia-34.grc.1"/>
         For Titus, when he had gotten together part of his forces about him, and had ordered the rest to meet him at Jerusalem, marched out of <placeName xml:lang="en">Cesarea</placeName>.<ab type="source" source="#bib34-2"/>
+        <note xml:lang="en" type="translation">Trans. {Source}</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:5.39</idno>
         <ref target="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:5.39"/>
       </ab>
@@ -341,6 +357,36 @@
             <forename>Flavius</forename>
             <surname>Josephus</surname>
           </author>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

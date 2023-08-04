@@ -18,6 +18,10 @@
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
         </respStmt>
         <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
+        </respStmt>
+        <respStmt>
           <resp>Electronic text added by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
@@ -276,7 +280,11 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/205</idno>
          </ab>
          <desc type="abstract" xml:id="abstract205-1">
-        <quote><placeName>Cesaream Palestine</placeName></quote>, and <quote><placeName>Caesarea Palestinae</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/100899506" role="author">Burchard of Mt. Sion</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Description of the Holy Land</title> <ref n="d" target="#bib205-1">13.12</ref>. This passage was written ca. <origDate notBefore="1274" notAfter="1285" period="#crusader">1274-1285 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
+        <quote>
+          <placeName>Cesaream Palestine</placeName>
+        </quote>, and <quote>
+          <placeName>Caesarea Palestinae</placeName>
+        </quote> are directly attested at <persName ref="http://viaf.org/viaf/100899506" role="author">Burchard of Mt. Sion</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Description of the Holy Land</title> <ref n="d" target="#bib205-1">13.12</ref>. This passage was written ca. <origDate notBefore="1274" notAfter="1285" period="#crusader">1274-1285 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
          <desc type="context">Burchard of Mt. Sion was a Dominican friar from Magdeburg in Lower
             Saxony who wrote the the most important description of the Holy Land from the 13th
             century. The earliest and longest account of his pilgrimage, which grew particularly
@@ -298,9 +306,13 @@
             quo olim filii Israel morabantur, Pharaoni in luto et latere servientes. In hac eciam
             postea lapidatus est Ieremias. Benedictus sit Deus et Sanctus Matheus! Amen.
          <ab type="source" source="#bib205-1"/>
+        <note xml:lang="en" type="textual">Ed. Laurent 1873</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
-        <note xml:lang="en" type="textual">Ed. Laurent 1873</note>
+        
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote205-2">
         <anchor xml:id="testimonia-205.en.1" corresp="#testimonia-205.la.1"/>
@@ -315,11 +327,14 @@
             Children of Israel once stayed, slaves to the Pharaoh “in mortar and brick”. In this
             land also Jeremiah was later stoned. Blessed be God and St. Matthew! Amen.
          <ab type="source" source="#bib205-2"/>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
         <note xml:lang="en" type="translation">Adapted from Pringle 2018</note>
         <note xml:lang="en" type="discussion">Burchard quotes the phrase “in mortar and brick” (in luto et
                latere) from Vulgate Exodus 1:14.</note>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        
+        
       </ab>
          <listBibl>
         <head>Works Cited</head>
@@ -332,6 +347,49 @@
           <ptr target="https://caesarea-maritima.org/bibl/JPPNQCCZ"/>
           <citedRange unit="ch">13.2</citedRange>
           <citedRange unit="p">319-320</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

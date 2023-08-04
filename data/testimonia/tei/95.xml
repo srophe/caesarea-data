@@ -19,6 +19,10 @@
         <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
       </respStmt>
         <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
+        </respStmt>
+        <respStmt>
         <resp>Electronic text added by</resp>
         <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
       </respStmt>
@@ -277,17 +281,31 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/95</idno>
       </ab>
       <desc type="abstract" xml:id="abstract95-1">
-        <quote><placeName>Καισαρείᾳ</placeName></quote>, <quote><placeName>Καισάρειαν</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Church History</title> <ref n="d" target="#bib95-1">3.31.5</ref>. This passage was written ca. <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
+        <quote>
+          <placeName>Καισαρείᾳ</placeName>
+        </quote>, <quote>
+          <placeName>Καισάρειαν</placeName>
+        </quote>, and <quote>
+          <placeName>Caesarea</placeName>
+        </quote> are directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Church History</title> <ref n="d" target="#bib95-1">3.31.5</ref>. This passage was written ca. <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
+      <desc type="context"/>
       <ab type="edition" xml:lang="grc" xml:id="quote95-1">
         <anchor xml:id="testimonia-95.grc.1" corresp="#testimonia-95.en.1"/>ταῦτα μὲν οὗτος. ὁ δὲ Λουκᾶς ἐν ταῖς Πράξεσι τῶν ἀποστόλων τῶν Φιλίππου θυγατέρων ἐν <placeName xml:lang="grc">Καισαρείᾳ</placeName> τῆς Ἰουδαίας ἅμα τῷ πατρὶ τότε διατριβουσῶν, προφητικοῦ τε χαρίσματος ἠξιωμένων, μνημονεύει κατὰ λέξιν ὧδέ πως λέγων “ἤλθομεν εἰς <placeName xml:lang="grc">Καισάρειαν</placeName>, καὶ εἰσελθόντες εἰς τὸν οἶκον Φιλίππου “τοῦ εὐαγγελιστοῦ ὄντος ἐκ τῶν ἑπτὰ ἐμείναμεν παρ αὐτῷ. τούτῳ δὲ ἤσαν παρθένοι θυγατέρες προφητεύουσαι τέσσαρες.”<ab type="source" source="#bib95-1"/>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg002.1st1K-grc2:3.31.5</idno>
         <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2018.tlg002.1st1K-grc2:3.31.5"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote95-2">
         <anchor xml:id="testimonia-95.en.1" corresp="#testimonia-95.grc.1"/>And Luke in the Acts of the Apostles mentions the daughters of Philip who were then living with their father at <placeName xml:lang="en">Caesarea</placeName> in Judaea and were vouchsafed the gift of prophecy. He says as follows: “We came to <placeName xml:lang="en">Caesarea</placeName> and entered into the house of Philip the Evangelist, one of the seven, and remained with him. And he had four daughters who were prophetesses.”<ab type="source" source="#bib95-2"/>
+        <note xml:lang="en" type="translation">Trans. {Source}</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda">Inaccuracies found in the transcription of the electronic text compared to its printed source have been corrected.</note>
         <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg002.1st1K-eng1:3.31</idno>
         <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2018.tlg002.1st1K-eng1:3.31"/>
-        <note xml:lang="en" type="corrigenda">Inaccuracies found in the transcription of the electronic text compared to its printed source have been corrected.</note>
+        
       </ab>
       <listBibl>
         <head>Works Cited</head>
@@ -309,6 +327,36 @@
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/N73TPKH5"/>
           <citedRange unit="section">3.31</citedRange>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

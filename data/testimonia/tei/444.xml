@@ -18,6 +18,10 @@
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
         <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
+        </respStmt>
+        <respStmt>
           <resp>URNs and other metadata added by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
@@ -281,7 +285,11 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/444</idno>
          </ab>
          <desc type="abstract" xml:id="abstract444-1">
-        <quote><placeName>τὴν Καίσαρος</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/48159479" role="author">Procopius of Gaza</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Letter</title> <ref n="c" target="#bib444-1">158</ref>. This passage was written ca. <origDate notBefore="0500" notAfter="0525" period="#byzantine">500-525 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687902">Gaza</origPlace>.</desc>
+        <quote>
+          <placeName>τὴν Καίσαρος</placeName>
+        </quote>, and <quote>
+          <placeName>Caesarea</placeName>
+        </quote> are directly attested at <persName ref="http://viaf.org/viaf/48159479" role="author">Procopius of Gaza</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Letter</title> <ref n="c" target="#bib444-1">158</ref>. This passage was written ca. <origDate notBefore="0500" notAfter="0525" period="#byzantine">500-525 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687902">Gaza</origPlace>.</desc>
          <desc type="context">Procopius, later followed by his student Choricius, was a leading
             figure in the rhetorical flowering at Late Antique Gaza. During his career spanning the
             late 5th to early 6th centuries, he was a celebrated teacher and orator whose extant
@@ -297,26 +305,25 @@
             ἔχει παραμυθίας ἐλπίδα, τῆς ἐκ τῶν νόμων ἐπικουρίας τυχεῖν, ἧς πλεῖστον ἄγαν ἐστέρηται
             χρόνον, πονηρότατον ἔχων τὸν ἀδελφὸν καὶ καινοτέρας διαδύσεις ἀεὶ μηχανώμενον. ὅθεν αὐτῷ
             τὴν ἀπορίαν παραμυθήσασθε, τὰς τῶν δικαστηρίων δαπάνας ὡς δυνατὸν περικόπτοντες.<ab type="source" source="#bib444-1"/>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
         <note xml:lang="en" type="textual">Ed. Garzya and Loenertz 1963 with ref. to Amato and Ciccolella
                2010</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote444-2">
         <anchor xml:id="testimonia-444.en.1" corresp="#testimonia-444.grc.1"/>
          <ab type="source" source="#bib444-2"/>
+        <note xml:lang="en" type="translation">J. L. Rife with ref. to Amato and Ciccolella 2010</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
-        <note xml:lang="en">To John,<lb/>The man delivering this letter, being a good man, laments his poverty,
-               which is caused by a fraternal injustice. Therefore he arrives at
-                  <placeName>Caesarea</placeName> to collect what is his due, if possible. Do
-               consider it worthwhile to offer help by preparing your powerful associates for an
-               adequate alliance on his behalf. For he has one hope for consolation, namely, that he
-               obtain from the laws the aid of which he has been deprived for an excessively long
-               time, because he has a wretched brother who is always plotting new ways to escape
-               recrimination. Therefore, console his poverty by cutting the cost of court
-               proceedings as much as possible.</note>
-        <note xml:lang="en" type="translation">J. L. Rife with ref. to Amato and Ciccolella 2010</note>
+        
+        
       </ab>
          <listBibl>
         <head>Works Cited</head>
@@ -328,6 +335,49 @@
         <bibl xml:id="bib444-2">
           <ptr target="https://caesarea-maritima.org/bibl/VAT7W2JF"/>
           <citedRange unit="p">418-419</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

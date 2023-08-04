@@ -23,6 +23,10 @@
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#dmichelson">David A. Michelson</name>
         </respStmt>
         <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
+        </respStmt>
+        <respStmt>
           <resp>Testimonium translated by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#dmichelson">David A. Michelson</name>
         </respStmt>
@@ -328,7 +332,9 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/514</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract514-1">and <quote><placeName>ܩܣܪܝܐ ܕܦܠܣܛܝܢܐ</placeName></quote> is directly attested at <persName ref="http://viaf.org/viaf/13590360" role="author">Zachariah of Mytilene</persName>, <title xml:lang="en" ref="" type="uniform" level="m">The Life of Severus</title> <ref n="b" target="#bib514-1">98</ref>. This passage was written ca. <origDate notBefore="0510" notAfter="0530" period="#byzantine">510s-520s</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+         <desc type="abstract" xml:id="abstract514-1">and <quote>
+          <placeName>ܩܣܪܝܐ ܕܦܠܣܛܝܢܐ</placeName>
+        </quote> is directly attested at <persName ref="http://viaf.org/viaf/13590360" role="author">Zachariah of Mytilene</persName>, <title xml:lang="en" ref="" type="uniform" level="m">The Life of Severus</title> <ref n="b" target="#bib514-1">98</ref>. This passage was written ca. <origDate notBefore="0510" notAfter="0530" period="#byzantine">510s-520s</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
          <desc type="context">Zachariah of Mytilene's hagiographic account of the life of the early
             sixth-century anti-Chalcedonian bishop, Severus, patriarch of Antioch, includes brief
             accounts of several other saints. In this testimonium, Zachariah describes a monastic
@@ -345,10 +351,14 @@
             ܕܝܘ݀ܠܦܢܐ ܡܬܟܪ݀ܟܢܐ ܕܓܪܡܛܝܩܘܬܐ ܐܡܪ ܐܢܐ ܘܕܪܗܛܪܘܬܐ: ܕܝܠܦ ܒܗܝ ܡܕܝܢܬܐ܆ ܟܕ ܫܛ ܠܒܝܪܘܛܘܣ:
             ܘܠܢܡ݀ܘܣܐ ܗܢܘܢ ܕܡܫܬܘܕܝܐ ܕܙܕܩܝܢ ܠܝܘܠܦܢܐ: ܘܐܦ ܠܗܘܢ ܠܣܒܪ݀ܐ ܣܪ݀ܝܩܐ܆ ܝܗܒ ܢܦܫܗ ܠܗܠܝܢ ܕܦܝܠܣܦܘܬܐ
             ܐܠܗܝܬܐ ܫܩܝܠܝܢ: ܒܕܝܪܐ ܕܛܒܝܒܐ ܪܘܡܢܐ. ܟܕ ܗܕܐ ܗܟܝܠ ܝܠܦ ܐܬܐ ܠܘܬܗ܆<ab type="source" source="#bib514-1"/>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
         <note xml:lang="en" type="textual">Testimonium prepared with reference to Simtho: The Syriac Corpus
                (version 0.2).</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote514-2">
         <anchor xml:id="testimonia-514.en.1" corresp="#testimonia-514.syr.1"/>When Peter, who was from Caesarea in Palestine, heard of this—having
@@ -357,12 +367,15 @@
             well as the vain expectations, he had submitted himself to those who are upholding
             divine philosophy in the monastery of the illustrious Romanus—when he [Peter] thus heard
             of this, he came to him [Severus].<ab type="source" source="#bib514-2"/>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
-           <note xml:lang="en" type="translation">Trans. Ambjörn 2008.</note>
+        <note xml:lang="en" type="translation">Trans. Ambjörn 2008.</note>
         <note xml:lang="en" type="discussion">Psalm 50 [also numbered Psalm
                51] was arguably the single most influential of the Psalms in the monastic lectionary
                (See Moore, 2008).</note>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+           
+        
       </ab>
          <listBibl>
         <head>Works Cited</head>
@@ -382,6 +395,36 @@
         </bibl>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/JWEL2W3D"/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
       <note type="related-texts"/>

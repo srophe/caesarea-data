@@ -18,6 +18,10 @@
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
         <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
+        </respStmt>
+        <respStmt>
           <resp>TEI record created by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
@@ -305,11 +309,15 @@
             ] (δραχμαὶ) ω´<lb/>τιμ(ῆς) σαφω[νίου -ca. ?- ] (δραχμαὶ) ω´<lb/>κζ´ τιμ(ῆς) ψωμί[ων -ca. ?-
             ] (δραχμαὶ) ω´ (320)<lb/>κη´ ψωμί[ων -ca. ?- ] (δραχμαὶ) ω´<lb/>κθ´ ψωμίω̣[ν -ca. ?- ]
             (δραχμαὶ) ω´<lb/>λ´ ψωμ̣[ίων -ca. ?- ] ̣ (δραχμαὶ) ω´<ab type="source" source="#bib509-1"/>
-        <idno type="CTS-URN"/>
-        <ref target="https://papyri.info/ddbdp/p.ryl;4;627"/>
         <note xml:lang="en" type="textual">Ed. Roberts and Turner 1952</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
         <note xml:lang="en" type="corrigenda">Minor
                corrections (punctuation)</note>
+        <idno type="CTS-URN"/>
+        <ref target="https://papyri.info/ddbdp/p.ryl;4;627"/>
+        
+        
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote509-2">
         <anchor xml:id="testimonia-509.en.1" corresp="#testimonia-509.grc.1"/>Private account [….]:<lb/>18 (Pharmouthi): c[ost] of loaves [ ]<lb/>at
@@ -317,9 +325,12 @@
             drachmai<lb/>cost of soa[p ] 800 drachmai<lb/>27 (Pharmouthi): cost of loav[es ] 800
             drachmai (320)<lb/>28 (Pharmouthi): loav[es ] 800 drachmai<lb/>29 (Pharmouthi): loave[s ]
             800 drachmai<lb/>30 (Pharmouthi): loa[ves ] 800 drachmai<ab type="source" source="#bib509-2"/>
+        <note xml:lang="en" type="translation">Revised from Matthews 2006</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref/>
-        <note xml:lang="en" type="translation">Revised from Matthews 2006</note>
+        
       </ab>
          <listBibl>
         <head>Works Cited</head>
@@ -331,6 +342,49 @@
         <bibl xml:id="bib509-2">
           <ptr target="https://caesarea-maritima.org/bibl/G6J428HJ"/>
           <citedRange unit="p">55</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
       <note type="related-texts">

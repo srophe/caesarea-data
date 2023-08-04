@@ -18,6 +18,10 @@
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
         <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
+        </respStmt>
+        <respStmt>
           <resp>Testimonium translated by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
@@ -278,7 +282,11 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/440</idno>
          </ab>
          <desc type="abstract" xml:id="abstract440-1">
-        <quote><placeName>Κεσαρία̣ν</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="" role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Military Account of Military Camels, P.Nessana</title> <ref n="a" target="#bib440-1">37</ref>. This passage was written ca. <origDate notBefore="560" notAfter="580" period="#byzantine">ca. 560-580 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687988">Nessana</origPlace>.</desc>
+        <quote>
+          <placeName>Κεσαρία̣ν</placeName>
+        </quote>, and <quote>
+          <placeName>Caesarea</placeName>
+        </quote> are directly attested at <persName ref="" role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Military Account of Military Camels, P.Nessana</title> <ref n="a" target="#bib440-1">37</ref>. This passage was written ca. <origDate notBefore="560" notAfter="580" period="#byzantine">ca. 560-580 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687988">Nessana</origPlace>.</desc>
          <desc type="context">Excavations in 1935-1937 by Princeton University at the site of
             Nessana, a Nabataean city in the Negev Desert on the Egyptian frontier, uncovered an
             important assemblage of literary and documentary texts on papyri. These texts are
@@ -311,11 +319,15 @@
             α<lb/>Ζονενος Αζαλες κά(μηλος) α (45)<lb/>[δεκ(άρχου) ̣ ̣ ̣ ̣] Ο̣υ̣α̣λ̣ει[ο]υ̣ κά(μηλος) α
             Ἰ̣ωάννε[ς ̣ ̣] ̣ερο[υ] \κ(άμηλος) [α]/<lb/>[Ἀβ]ρ̣αάμις Αλοβεου κά(μηλος) α<lb/>[Αλ]ο̣βεος
             Σεργίου κά(μηλος) α<lb/>-- -- -- -- -- -- -- -- -- --<ab type="source" source="#bib440-1"/>
-        <idno type="CTS-URN"/>
-        <ref/>
         <note xml:lang="en" type="textual">Ed. Kraemer 1958</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
         <note xml:lang="en" type="corrigenda">Minor corr. (common errors
                and phonetic variants from app. crit.)</note>
+        <idno type="CTS-URN"/>
+        <ref/>
+        
+        
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote440-2">
         <anchor xml:id="testimonia-440.en.1" corresp="#testimonia-440.grc.1"/>+ Registry: Camel departed to C(aesarea?) (5)<lb/>
@@ -345,12 +357,15 @@
             son of Kephalanos 1 camel<lb/>Thoamas son of Abbos 1 camel<lb/>Zonenos Azales(?) 1 camel
             (45)<lb/>
         <lb/>From Sergeant [ ] son of Valeios 1 camel / Ioannes son of (Golm?)eros 1 camel<lb/>Abraamis son of Alobeos 1 camel<lb/>Alobeos son of Sergios 1 camel<lb/>-- -- -- -- -- -- --
-            -- -- --<note xml:lang="en" type="translation">Trans. J. L. Rife</note>
+            -- -- --
+        
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+      <note xml:lang="en" type="translation">Trans. J. L. Rife</note>
         <note xml:lang="en" type="discussion">On line 22, Kraemer (1958, p. 117): “Omission of the
                decarch’s names seems to indicate that the men were requisitioned by someone who did
                not know to whose unit they belonged.”</note>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
+        <note xml:lang="en" type="corrigenda"/>
       </ab>
          <listBibl>
         <head>Works Cited</head>
@@ -358,6 +373,54 @@
           <ptr target="https://caesarea-maritima.org/bibl/MRUIM57P"/>
           <citedRange unit="entry">36</citedRange>
           <citedRange unit="p">111-113</citedRange>
+        </bibl>
+      <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
       <note type="related-texts">

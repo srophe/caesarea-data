@@ -18,6 +18,10 @@
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
         </respStmt>
         <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
+        </respStmt>
+        <respStmt>
           <resp>Electronic text added by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
@@ -275,7 +279,13 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/231</idno>
       </ab>
       <desc type="abstract" xml:id="abstract231-1">
-        <quote><placeName>τὴν Καίσαρος</placeName></quote>, <quote><placeName>τῆς Καίσαρος</placeName></quote>, and <quote><placeName>city of Caesar</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/296114344">Evagrius Scholasticus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Church History</title> <ref n="d" target="#bib231-1">4.7c</ref>. This passage was written ca. <origDate notBefore="0593" notAfter="0598" period="#byzantine">593-598 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/658381">Antioch on the Orontes</origPlace>.</desc>
+        <quote>
+          <placeName>τὴν Καίσαρος</placeName>
+        </quote>, <quote>
+          <placeName>τῆς Καίσαρος</placeName>
+        </quote>, and <quote>
+          <placeName>city of Caesar</placeName>
+        </quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/296114344">Evagrius Scholasticus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Church History</title> <ref n="d" target="#bib231-1">4.7c</ref>. This passage was written ca. <origDate notBefore="0593" notAfter="0598" period="#byzantine">593-598 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/658381">Antioch on the Orontes</origPlace>.</desc>
       <desc type="context">Evagrius Scholasticus came from a background of wealth and education in
         Syria and rose to prominence in the circles of power in the early Byzantine empire and
         church, as legal advisor of the Patriarchate of Antioch and honorary officeholder under
@@ -301,10 +311,14 @@
         τὴν δύναμιν καὶ ὡς ἅπαντα τοῖς ἀνθρώποις δοῦλά τε καὶ πειθήνια, ὅταν αὐτῷ ζῶμεν καὶ τὴν
         δεδομένην ἡμῖν χάριν οὐ παραχαράττομεν.
       <ab type="source" source="#bib231-1"/>
-        <idno type="CTS-URN"/>
-        <ref target="https://babel.hathitrust.org/cgi/pt?id=hvd.ah3vvp&amp;view=1up&amp;seq=182"/>
         <note xml:lang="en" type="textual">Ed. Bidez and Parmentier
           1898</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref target="https://babel.hathitrust.org/cgi/pt?id=hvd.ah3vvp&amp;view=1up&amp;seq=182"/>
+        
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote231-2">
         <anchor xml:id="testimonia-231.en.1" corresp="#testimonia-231.grc.1"/>
@@ -322,9 +336,12 @@
                Caesar</placeName>, showing God’s power, and how all things are obedient slaves to
             men when we live for Him and do not debase the grace given to us.
       <ab type="source" source="#bib231-2"/>
+        <note xml:lang="en" type="translation">Rev. Whitby 2000</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
-        <note xml:lang="en" type="translation">Rev. Whitby 2000</note>
+        
       </ab>
       <listBibl>
         <head>Works Cited</head>
@@ -337,6 +354,49 @@
           <ptr target="https://caesarea-maritima.org/bibl/QY2S7K25"/>
           <citedRange unit="bk">4.7c</citedRange>
           <citedRange unit="p">207</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

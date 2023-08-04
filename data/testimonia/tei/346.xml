@@ -18,6 +18,10 @@
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
         </respStmt>
         <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
+        </respStmt>
+        <respStmt>
           <resp>Electronic text added by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
@@ -309,9 +313,13 @@
         scripsisse, nec proprii quidquam condidisse sermonis; et hoc dicit iam Pamphilo martyrio
         coronato, ne habeas suffugium post editos ab Eusebio libros hoc Pamphilum
           conscripsisse.<ab type="source" source="#bib346-1"/>
+        <note xml:lang="en" type="textual">Ed. Migne 1883 with ref. to Lardet 1982</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target="https://archive.org/details/patrologiaecurs01goog/page/n216/mode/2up"/>
-        <note xml:lang="en" type="textual">Ed. Migne 1883 with ref. to Lardet 1982</note>
+        
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote346-2">
         <anchor xml:id="testimonia-346.en.1" corresp="#testimonia-346.la.1"/>
@@ -337,10 +345,13 @@
         wrote nothing at all and composed no text; and he says this when Pamphilus had already
         received the crown of martyrdom, to deprive you of the loophole in claiming that Pamphilus
         wrote this work after the publication of Eusebius’ books.<ab type="source" source="#bib346-2"/>
-        <idno type="CTS-URN"/>
-        <ref/>
         <note xml:lang="en" type="translation">Adapted
           from Fremantle 1892 with ref. to Lardet 1983</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref/>
+        
       </ab>
       <listBibl>
         <head>Works Cited</head>
@@ -368,6 +379,26 @@
         </bibl>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/MUU4ALR4"/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

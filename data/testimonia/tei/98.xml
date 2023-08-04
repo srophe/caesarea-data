@@ -23,6 +23,10 @@
             Potter</name>
         </respStmt>
         <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
+        </respStmt>
+        <respStmt>
           <resp>Electronic text added by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L.
             Potter</name>
@@ -313,13 +317,22 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/98</idno>
       </ab>
       <desc type="abstract" xml:id="abstract98-1">
-        <quote><placeName>Καισαρείᾳ</placeName></quote>, and <quote><placeName>the diocese of Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Church History</title> <ref n="f" target="#bib98-1">5.23.3</ref>. This passage was written ca. <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
+        <quote>
+          <placeName>Καισαρείᾳ</placeName>
+        </quote>, and <quote>
+          <placeName>the diocese of Caesarea</placeName>
+        </quote> are directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Church History</title> <ref n="f" target="#bib98-1">5.23.3</ref>. This passage was written ca. <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
+      <desc type="context"/>
       <ab type="edition" xml:lang="grc" xml:id="quote98-1">
         <anchor xml:id="testimonia-98.grc.1" corresp="#testimonia-98.en.1"/>φέρεται δ᾿ εἰσέτι νῦν τῶν
         κατὰ Παλαιστίνην τηνικάδε συγκεκροτημένων γραφὴ, ὧν προυτέτακτο Θεόφιλος τῆς ἐν <placeName xml:lang="grc">Καισαρείᾳ</placeName> παροικίας ἐπίσκοπος καὶ Νάρκισσος τῆς ἐν
         Ἱεροσολύμοις· καὶ τῶν ἐπὶ ῾Ρώμης δὲ ὁμοίως ἄλλη περὶ τοῦ αὐτοῦ ζητήματος, ἐπίσκοπον Βίκτορα
         δηλοῦσα· τῶν τε κατὰ Πόντον ἐπισκόπων, ὧν Πάλμας ὡς ἀρχαιότατος προυτέτακτο, καὶ τῶν κατὰ
         Γαλλίαν δὲ παροικιῶν, ἃς Εἰρήναιος ἐπεσκόπει ...<ab type="source" source="#bib98-1"/>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg002.1st1K-grc2:5.23.3</idno>
         <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2018.tlg002.1st1K-grc2:5.23.3"/>
       </ab>
@@ -330,10 +343,13 @@
         Jerusalem; and there is similarly another from those in Rome on the same controversy, which
         gives Victor as bishop; and there is one of the bishops of Pontus over whom Palmas presided
         as the oldest; and of the dioceses of Gaul, of which Irenaeus was bishop.<ab type="source" source="#bib98-2"/>
-        <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg002.1st1K-eng1:5.23</idno>
-        <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2018.tlg002.1st1K-eng1:5.23"/>
+        <note xml:lang="en" type="translation">Trans. {Source}</note>
+        <note xml:lang="en" type="discussion"/>
         <note xml:lang="en" type="corrigenda">Inaccuracies found in the transcription of the electronic text compared
           to its printed source have been corrected.</note>
+        <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg002.1st1K-eng1:5.23</idno>
+        <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2018.tlg002.1st1K-eng1:5.23"/>
+        
       </ab>
       <listBibl>
         <head>Works Cited</head>
@@ -355,6 +371,36 @@
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/N73TPKH5"/>
           <citedRange unit="section">5.23</citedRange>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
       <note type="related-texts"/>

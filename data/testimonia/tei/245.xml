@@ -18,6 +18,10 @@
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
         </respStmt>
         <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
+        </respStmt>
+        <respStmt>
           <resp>Electronic text added by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
@@ -275,7 +279,11 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/245</idno>
       </ab>
       <desc type="abstract" xml:id="abstract245-1">
-        <quote><placeName>Καισάρεια</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Easter Chronicle</title> <ref n="a" target="#bib245-1">62.8-19</ref>. This passage was written ca. <origDate notBefore="0630" notAfter="0630" period="#byzantine">ca. 630 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+        <quote>
+          <placeName>Καισάρεια</placeName>
+        </quote>, and <quote>
+          <placeName>Caesarea</placeName>
+        </quote> are directly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Easter Chronicle</title> <ref n="a" target="#bib245-1">62.8-19</ref>. This passage was written ca. <origDate notBefore="0630" notAfter="0630" period="#byzantine">ca. 630 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
       <desc type="context">The so-called <title>Easter Chronicle</title> (<title>Chronicon
           paschale</title>) is a universal history from the Creation down to the later reign of
         Heraclius, when it was composed, based on an amalgam of biblical, Christian, and secular
@@ -296,9 +304,13 @@
             Νεάπολις, Σεβαστή, Σκυθόπολις, Αἰλία· Ἀραβίας Πετραίας Πέτρα, Μήδαβα, Βόστρα· Βαβυλῶνος
                Τερηδών.
       <ab type="source" source="#bib245-1"/>
+        <note xml:lang="en" type="textual">Ed. Dindorf 1832</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref/>
-        <note xml:lang="en" type="textual">Ed. Dindorf 1832</note>
+        
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote245-2">
         <anchor xml:id="testimonia-245.en.1" corresp="#testimonia-245.grc.1"/>
@@ -310,15 +322,66 @@
             Taucheira, Apollonia, Cyrene; Egypt: Paratoneum, Alexandreia Magna, Pelusium, Memphis,
             Ptolemaïs Hermiou; Syria Judaea: <placeName>Caesarea</placeName>, Ascalon, Tiberias,
             Neapolis, Sebaste, Scythopolis, Aelia; Arabia Petraea: Petra, Medaba, Bostra; Babylon:
-               Teredon.<note xml:lang="en" type="translation">Trans. J. L. Rife</note>
+               Teredon.
         <idno type="CTS-URN"/>
         <ref target=""/>
+      <note xml:lang="en" type="translation">Trans. J. L. Rife</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
       </ab>
       <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib245-1">
           <ptr target="https://caesarea-maritima.org/bibl/4ICC3ERG"/>
           <citedRange unit="p">62.8-19</citedRange>
+        </bibl>
+      <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

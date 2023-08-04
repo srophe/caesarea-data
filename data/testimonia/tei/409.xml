@@ -18,6 +18,10 @@
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
         <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
+        </respStmt>
+        <respStmt>
           <resp>URNs and other metadata added by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
@@ -281,7 +285,11 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/409</idno>
          </ab>
          <desc type="abstract" xml:id="abstract409-1">
-        <quote><placeName>Καισαρείας</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="" role="author">Sarapion</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Letter to Demetrous, P.Lips.</title> <ref n="a" target="#bib409-1">1.110</ref>. This passage was written ca. <origDate notBefore="0200" notAfter="0399" period="#lateRoman #byzantine">ca. 200-399 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</desc>
+        <quote>
+          <placeName>Καισαρείας</placeName>
+        </quote>, and <quote>
+          <placeName>Caesarea</placeName>
+        </quote> are directly attested at <persName ref="" role="author">Sarapion</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Letter to Demetrous, P.Lips.</title> <ref n="a" target="#bib409-1">1.110</ref>. This passage was written ca. <origDate notBefore="0200" notAfter="0399" period="#lateRoman #byzantine">ca. 200-399 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</desc>
          <desc type="context">This papyrus of uncertain provenance in the collection of the
             University of Leipzig was written in a cursive script during the 3rd or 4th century. It
             contains a private letter from one Sarapion to his mother Demetrous, who apparently
@@ -299,10 +307,14 @@
             ἐμοῦ ἀπὸ τῶν ἡμετέρων<lb/>τοῦτʼ ἔστιν Νείλου καὶ ἀπὸ Εὐδαί-<lb/>μονος καὶ ἀπὸ τῶν ἐλθόντων
             πρὸς ὑ̣μᾶς. τὴν κυρίαν μου ἀδελ-<lb/>φὴν πολλὰ προσαγόρευε Ταῆσιν (25)<lb/>καὶ τὸν ἀδελφόν
             μου Ζώιλλο̣ν καὶ<lb/>τοὺς φίλους πάντας μεθʼ ὧν<lb/>ἐρρῶσθαί σε εὔ-<lb/>χομαι πολλοῖς<lb/>χρόνοις. (30)<lb/>Back<lb/>[Σ]αραπίων τῇ μη̣[τρὶ ̣ ̣] ̣ ̣ Δ̣η̣μη̣τροῦδι.<ab type="source" source="#bib409-1"/>
+        <note xml:lang="en" type="textual">Ed. Wilcken and Mitteis 1906</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda">Minor corr. (adopt readings in app. crit.)</note>
         <idno type="CTS-URN"/>
         <ref target=""/>
-        <note xml:lang="en" type="textual">Ed. Wilcken and Mitteis 1906</note>
-        <note xml:lang="en" type="corrigenda">Minor corr. (adopt readings in app. crit.)</note>
+        
+        
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote409-2">
         <anchor xml:id="testimonia-409.en.1" corresp="#testimonia-409.grc.1"/>Front<lb/>(From) Sarapion to my lady and mother [---] Demetrous: many
@@ -318,10 +330,13 @@
             many greetings to my honorable sister Taësis and my brother Zoillos and all our friends,
             and with them I wish you good health for many years to come.<lb/>Back<lb/>(From) Sarapion to
             mother Demetrous.<ab type="source" source="#bib409-2"/>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
         <note xml:lang="en" type="translation">Trans. J. L. Rife with ref. to Wilcken and
                Mitteis 1906 and to Schubart 1923</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        
       </ab>
          <listBibl>
         <head>Works Cited</head>
@@ -334,6 +349,49 @@
           <ptr target="https://caesarea-maritima.org/bibl/E9ASWZVP"/>
           <citedRange unit="p">117-118</citedRange>
           <citedRange unit="entry">87</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

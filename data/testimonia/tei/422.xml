@@ -18,6 +18,10 @@
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
         <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
+        </respStmt>
+        <respStmt>
           <resp>URNs and other metadata added by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
@@ -280,7 +284,9 @@
          <ab type="identifier">
             <idno type="URI">https://caesarea-maritima.org/testimonia/422</idno>
          </ab>
-         <desc type="abstract" xml:id="abstract422-1">and <quote><placeName>First Flavian Colony of Caesarea</placeName></quote> is directly attested at <persName ref="" role="author">Pomponius</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Petition from Veterans, PSI</title> <ref n="b" target="#bib422-1">9.1026B</ref>. This passage was written ca. <origDate when="0150" period="#lateRoman">150 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</desc>
+         <desc type="abstract" xml:id="abstract422-1">and <quote>
+          <placeName>First Flavian Colony of Caesarea</placeName>
+        </quote> is directly attested at <persName ref="" role="author">Pomponius</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Petition from Veterans, PSI</title> <ref n="b" target="#bib422-1">9.1026B</ref>. This passage was written ca. <origDate when="0150" period="#lateRoman">150 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</desc>
          <desc type="context">This long text survives in two copies on papyrus at the Bibliotheca
             Medicea Laurenziana (inv. 14488): A with writing mostly on the front and a single short
             column against the fibers on the back, and B with writing on one side. It contains a
@@ -332,12 +338,16 @@
             me [iussu imper]atoris n(ostri) (15)<lb/>solutos notum<lb/>fieri praefecto Aegyptio
             desideratis. Et instrumentum daḅ[o] pr[ ̣ ̣ ̣] ̣e· Ac[tum in c]ol(onia) [I F]l(avia)<lb/>Caes(area) XI Kal(endas) Febr(uarias), Squilla Gallicano et Carmin{n}io Vetere
                co(n)s(ulibus)<ab type="source" source="#bib422-1"/>
-        <idno type="CTS-URN"/>
-        <ref target="http://papyri.info/ddbdp/psi;9;1026"/>
         <note xml:lang="en" type="textual">Ed. Vitelli 1928 with ref. to Smallwood
                1966</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
         <note xml:lang="en" type="corrigenda">Minor corr. (resolved personal names, clear reconstructions, punctuation,
                capitalization)</note>
+        <idno type="CTS-URN"/>
+        <ref target="http://papyri.info/ddbdp/psi;9;1026"/>
+        
+        
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote422-2">
         <anchor xml:id="testimonia-422.en.1" corresp="#testimonia-422.la.1"/>Recorded and authenticated from the petition published along with
@@ -370,10 +380,13 @@
             emperor. I shall give you your written document. [Publish this?] Executed in the <placeName>First
             Flavian Colony of Caesarea</placeName>, 22 January, in the consulship of Squilla Gallicanus and
             Carminius Vetus.<ab type="source" source="#bib422-2"/>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
         <note xml:lang="en" type="translation">Rev. Campbell 1994 with ref. to Palme
                2006</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        
       </ab>
          <listBibl>
         <head>Works Cited</head>
@@ -398,6 +411,36 @@
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/T3CWCCQ4"/>
           <citedRange unit="p">296-297</citedRange>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

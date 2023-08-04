@@ -27,6 +27,10 @@
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
         <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
+        </respStmt>
+        <respStmt>
         <resp>Electronic text added by</resp>
         <name ref="https://caesarea-maritima.org/documentation/editors.xml#eyonan">Eliana Yonan</name>
       </respStmt>
@@ -286,7 +290,11 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/57</idno>
       </ab>
       <desc type="abstract" xml:id="abstract57-1">
-        <quote><placeName>Caesariensis</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="https://viaf.org/viaf/88881722" role="author">Justinian I</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Digest</title> <ref n="a" target="#bib57-1">50.15.1.6</ref>. This passage was written ca. <origDate notBefore="0530" notAfter="0533" period="#byzantine">530-533 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+        <quote>
+          <placeName>Caesariensis</placeName>
+        </quote>, and <quote>
+          <placeName>Caesarea</placeName>
+        </quote> are directly attested at <persName ref="https://viaf.org/viaf/88881722" role="author">Justinian I</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Digest</title> <ref n="a" target="#bib57-1">50.15.1.6</ref>. This passage was written ca. <origDate notBefore="0530" notAfter="0533" period="#byzantine">530-533 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
       <desc type="context">Early in his reign, the emperor Justinian directed a comprehensive reform
         of Roman Law that compiled and edited earlier jurisprudence. This new sole authority on
         legal matters, the <title>Body of Civil Law</title> (<title>Corpus iuris civilis</title>),
@@ -302,18 +310,25 @@
         fuerunt coloniae, <placeName xml:lang="la">Caesariensis</placeName> et Aelia Capitolina, sed
         neutra ius Italicum habet.
       <ab type="source" source="#bib57-1"/>
+        <note xml:lang="en" type="textual">Ed. Mommsen and Krueger [1886] 2000</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target="https://droitromain.univ-grenoble-alpes.fr/Corpus/d-50.htm"/>
-        <note xml:lang="en" type="textual">Ed. Mommsen and Krueger [1886] 2000</note>
+        
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote57-2">
         <anchor xml:id="testimonia-57.en.1" corresp="#testimonia-57.la.1"/> In Palestine there were two colonies,
           <placeName>Caesarea</placeName> and Aelia Capitolina, but neither has the <foreign>jus
           Italicum</foreign>.
       <ab type="source" source="#bib57-2"/>
+        <note xml:lang="en" type="translation">Trans. Watson 2009</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target="https://droitromain.univ-grenoble-alpes.fr/Anglica/D50_Scott.htm#XV"/>
-        <note xml:lang="en" type="translation">Trans. Watson 2009</note>
+        
       </ab>
       <listBibl>
         <head>Works Cited</head>
@@ -324,6 +339,49 @@
         <bibl xml:id="bib57-2">
           <ptr target="https://caesarea-maritima.org/bibl/T7S5PCNR"/>
           <citedRange unit="p">445</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

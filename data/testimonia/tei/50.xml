@@ -21,6 +21,10 @@
           Potter</name>
       </respStmt>
         <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
+        </respStmt>
+        <respStmt>
         <resp>Electronic text added by</resp>
         <name ref="https://caesarea-maritima.org/documentation/editors.xml#bgardner">Bianca
           Gardner</name>
@@ -282,7 +286,11 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/50</idno>
       </ab>
       <desc type="abstract" xml:id="abstract50-1">
-        <quote><placeName>Caesaream</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/89594750" role="author">Ammianus Marcellinus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">History</title> <ref n="a" target="#bib50-1">14.8.11-14.8.12</ref>. This passage was written ca. <origDate notBefore="0380" notAfter="0390" period="#byzantine">380-390 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+        <quote>
+          <placeName>Caesaream</placeName>
+        </quote>, and <quote>
+          <placeName>Caesarea</placeName>
+        </quote> are directly attested at <persName ref="http://viaf.org/viaf/89594750" role="author">Ammianus Marcellinus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">History</title> <ref n="a" target="#bib50-1">14.8.11-14.8.12</ref>. This passage was written ca. <origDate notBefore="0380" notAfter="0390" period="#byzantine">380-390 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
       <desc type="context">Ammianus Marcellinus grew up in the Greek East, probably Syria or
             Phoenicia, during the second quarter of the 4th century, and as an adult served in the
             military under Constantius II and Julian. He wrote a record of events or “achievements”
@@ -300,10 +308,14 @@
             aquae suapte natura calentes emergunt, ad usus aptae multiplicem medellarum. Verum has
             quoque regiones pari sorte Pompeius Iudeis domitis et Hierosolymis captis, in provinciae
             speciem delata iuris dictione formavit.<ab type="source" source="#bib50-1"/>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
         <note xml:lang="en" type="textual">Ed. Seyfarth
                1978</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote50-2">
         <anchor xml:id="testimonia-50.en.1" corresp="#testimonia-50.la.1"/>(11) The last region of the Syrias is Palestine, extending over a
@@ -316,10 +328,13 @@
             many medicinal uses. But these regions also met with a similar fate, being formed into a
             province by Pompey after he had defeated the Jews and taken Jerusalem [in 63 B.C.E.],
             but left to the jurisdiction of a goverrnor.<ab type="source" source="#bib50-2"/>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
         <note xml:lang="en" type="translation">Trans. Rolfe
                1930</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        
       </ab>
       <listBibl>
         <head>Works Cited</head>
@@ -332,6 +347,49 @@
           <ptr target="https://caesarea-maritima.org/bibl/MRZ98S22"/>
           <citedRange unit="vol">1</citedRange>
           <citedRange unit="p">70-71</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

@@ -42,6 +42,10 @@
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
         <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
+        </respStmt>
+        <respStmt>
           <resp>TEI record created by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
@@ -332,14 +336,18 @@
             Ζεύγματος, Ἀθανάσιος Ἀγκύρων διὰ Ὀρφίτου καὶ Ἀετίου πρεσβυτέρων, Εἰρηνίων Γάζης, Πίσων
             Αὐγούστης, Πατρίκιος Πάλτου διὰ Λαμυρίωνος πρεσβυτέρου, Ἀνατόλιος Βεροίων, Θεότιμος
             Ἀράδου, Λουκιανὸς Ἄρκων.”<ab type="source" source="#bib454-1"/>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
         <note xml:lang="en" type="textual">Ed. Hussey and Bright 1893
                with ref. to Hansen 1995</note>
         <note xml:lang="en" type="textual">Here adopted
                emendations by Valesius (H. de Valois 1668; rev. W. Reading 1720 = PG 67 [1864]) of
                Ἵππων for Σίππων and Ἀδράων for Ἄντρου, or the known sees of Hippos and Adraa for the
                unknown Sippos and Andros.</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        
+        
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote454-2">
         <anchor xml:id="testimonia-454.en.1" corresp="#testimonia-454.grc.1"/>“I, Meletius bishop of Antioch, have produced (this document) in
@@ -352,10 +360,13 @@
             Ancyra through the priests Orphitus and Aëtius, Eirenion of Gaza, Piso of Augusta,
             Patricius of Paltus through the priest Lamyrion, Anatolius of Beroea, Theotimus of
             Arados, and Lucian of Arca.”<ab type="source" source="#bib454-2"/>
-        <idno type="CTS-URN"/>
-        <ref target="https://archive.org/details/in.ernet.dli.2015.98162/page/n119/mode/2up"/>
         <note xml:lang="en" type="translation">Adapted from Zenos
                1890 and Périchon and Maraval 2004-2007</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref target="https://archive.org/details/in.ernet.dli.2015.98162/page/n119/mode/2up"/>
+        
       </ab>
          <listBibl>
         <head>Works Cited</head>
@@ -380,6 +391,36 @@
           <ptr target="https://caesarea-maritima.org/bibl/K6BV8Z5T"/>
           <citedRange unit="vol">2</citedRange>
           <citedRange unit="p">356-357</citedRange>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

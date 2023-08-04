@@ -20,6 +20,10 @@
         <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
       </respStmt>
         <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
+        </respStmt>
+        <respStmt>
         <resp>Electronic text added by</resp>
         <name ref="https://caesarea-maritima.org/documentation/editors.xml#jwoods">Joshua Woods</name>
       </respStmt>
@@ -282,14 +286,26 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/117</idno>
       </ab>
       <desc type="abstract" xml:id="abstract117-1">
-        <quote><placeName>Καισαρείας</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>, <title ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Church History</title> <ref n="f" target="#bib117-1">7.32.21</ref>. This passage was written ca. <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
+        <quote>
+          <placeName>Καισαρείας</placeName>
+        </quote>, and <quote>
+          <placeName>Caesarea</placeName>
+        </quote> are directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>, <title ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Church History</title> <ref n="f" target="#bib117-1">7.32.21</ref>. This passage was written ca. <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
+      <desc type="context"/>
       <ab type="edition" xml:lang="grc" xml:id="quote117-1">
         <anchor xml:id="testimonia-117.grc.1" corresp="#testimonia-117.en.1"/>τούτῳ πρῶτος ὁ τῆς Παλαιστινῶν <placeName xml:lang="grc">Καισαρείας</placeName> ἐπίσκοπος Θεότεκνος χεῖρας εἰς ἐπισκοπὴν ἐπιτέθεικε, διάδοχον ἑαυτοῦ μετὰ τελευτὴν ποριεῖσθαι τῇ ἰδίᾳ παροικίᾳ προμνώμενος. καὶ δὴ ἐπὶ σμικρόν τινα χρόνον ἄμφω τῆς αὐτῆς προύστησαν ἐκκλησίας, ἀλλὰ γὰρ ἐπὶ τὴν Ἀντιόχειαν τῆς κατὰ Παῦλον συνόδου καλούσης, τὴν Λαοδικέων πόλιν παριὼν πρὸς τῶν ἀδελφῶν αὐτόθι κοιμηθέντος Εὐσεβίου κεκράτηται·<ab type="source" source="#bib117-1"/>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg002.1st1K-grc2:7.32.21</idno>
         <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2018.tlg002.1st1K-grc2:7.32.21"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote117-2">
         <anchor xml:id="testimonia-117.en.1" corresp="#testimonia-117.grc.1"/>Theotecnus, bishop of <placeName xml:lang="en">Caesarea</placeName> in Palestine, first had ordained him to the episcopate, seeking to procure him as his successor in his own community after his death, and indeed for some short time both presided over the same church. But, the synod with reference to Paul summoning him to Antioch, as he was passing by the city of the Laodiceans he was retained there by the brethren, Eusebius having fallen asleep.<ab type="source" source="#bib117-2"/>
+        <note xml:lang="en" type="translation">Trans. {Source}</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg002.1st1K-eng1:7.32</idno>
         <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2018.tlg002.1st1K-eng1:7.32"/>
       </ab>
@@ -313,6 +329,36 @@
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/N73TPKH5"/>
           <citedRange unit="section">7.32</citedRange>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

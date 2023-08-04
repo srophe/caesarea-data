@@ -21,6 +21,10 @@
           Potter</name>
         </respStmt>
         <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
+        </respStmt>
+        <respStmt>
           <resp>Electronic text added by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#bgardner">Bianca
           Gardner</name>
@@ -281,16 +285,28 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/23</idno>
       </ab>
       <desc type="abstract" xml:id="abstract23-1">
-        <quote><placeName>Καισάρειαν</placeName></quote>, and <quote><placeName>Cesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/22143666" role="author">Josephus</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg004" type="uniform" level="m">The Jewish War</title> <ref n="i" target="#bib23-1">2.169-2.174</ref>. This passage was written ca. <origDate period="#nabateanKingdom #earlyRoman #herodian" notBefore="0070" notAfter="0090">70 - 90 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+        <quote>
+          <placeName>Καισάρειαν</placeName>
+        </quote>, and <quote>
+          <placeName>Cesarea</placeName>
+        </quote> are directly attested at <persName ref="http://viaf.org/viaf/22143666" role="author">Josephus</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg004" type="uniform" level="m">The Jewish War</title> <ref n="i" target="#bib23-1">2.169-2.174</ref>. This passage was written ca. <origDate period="#nabateanKingdom #earlyRoman #herodian" notBefore="0070" notAfter="0090">70 - 90 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+      <desc type="context"/>
       <ab type="edition" xml:lang="grc" xml:id="quote23-1">
         <anchor xml:id="testimonia-23.grc.1" corresp="#testimonia-23.en.1"/>
         Πεμφθεὶς δὲ εἰς Ἰουδαίαν ἐπίτροπος ὑπὸ Τιβερίου Πιλᾶτος νύκτωρ κεκαλυμμένας εἰς Ἱεροσόλυμα εἰσκομίζει τὰς Καίσαρος εἰκόνας, αἳ σημαῖαι καλοῦνται. τοῦτο μεθ᾽ ἡμέραν μεγίστην ταραχὴν ἤγειρεν Ἰουδαίοις: οἵ τε γὰρ ἐγγὺς πρὸς τὴν ὄψιν ἐξεπλάγησαν ὡς πεπατημένων αὐτοῖς τῶν νόμων, οὐδὲν γὰρ ἀξιοῦσιν ἐν τῇ πόλει δείκηλον τίθεσθαι, καὶ πρὸς τὴν ἀγανάκτησιν τῶν κατὰ τὴν πόλιν ἄθρους ὁ ἐκ τῆς χώρας λαὸς συνέρρευσεν. ὁρμήσαντες δὲ πρὸς Πιλᾶτον εἰς <placeName xml:lang="grc">Καισάρειαν</placeName> ἱκέτευον ἐξενεγκεῖν ἐξ Ἱεροσολύμων τὰς σημαίας καὶ τηρεῖν αὐτοῖς τὰ πάτρια. Πιλάτου δὲ ἀρνουμένου περὶ τὴν οἰκίαν πρηνεῖς καταπεσόντες ἐπὶ πέντε ἡμέρας καὶ νύκτας ἴσας ἀκίνητοι διεκαρτέρουν. Τῇ δ᾽ ἑξῆς ὁ Πιλᾶτος καθίσας ἐπὶ βήματος ἐν τῷ μεγάλῳ σταδίῳ καὶ προσκαλεσάμενος τὸ πλῆθος ὡς ἀποκρίνασθαι δῆθεν αὐτοῖς θέλων, δίδωσιν τοῖς στρατιώταις σημεῖον ἐκ συντάγματος κυκλώσασθαι τοὺς Ἰουδαίους ἐν τοῖς ὅπλοις. περιστάσης δὲ τριστιχεὶ τῆς φάλαγγος Ἰουδαῖοι μὲν ἀχανεῖς ἦσαν πρὸς τὸ ἀδόκητον τῆς ὄψεως, Πιλᾶτος δὲ κατακόψειν εἰπὼν αὐτούς, εἰ μὴ προσδέξαιντο τὰς Καίσαρος εἰκόνας, γυμνοῦν τὰ ξίφη τοῖς στρατιώταις ἔνευσεν. οἱ δὲ Ἰουδαῖοι καθάπερ ἐκ συνθήματος ἀθρόοι καταπεσόντες καὶ τοὺς αὐχένας παρακλίναντες ἑτοίμους ἀναιρεῖν σφᾶς ἐβόων μᾶλλον ἢ τὸν νόμον παραβῆναι. ὑπερθαυμάσας δὲ ὁ Πιλᾶτος τὸ τῆς δεισιδαιμονίας ἄκρατον ἐκκομίσαι μὲν αὐτίκα τὰς σημαίας Ἱεροσολύμων κελεύει.<ab type="source" source="#bib23-1"/>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg0526.tlg004.perseus-grc1:2.169-174</idno>
         <ref target="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-grc1:2.169-174"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote23-2">
         <anchor xml:id="testimonia-23.en.1" corresp="#testimonia-23.grc.1"/>
         Now Pilate, who was sent as procurator into Judea by Tiberius, sent by night those images of Caesar that are called ensigns into Jerusalem. This excited a very among great tumult among the Jews when it was day; for those that were near them were astonished at the sight of them, as indications that their laws were trodden under foot; for those laws do not permit any sort of image to be brought into the city. Nay, besides the indignation which the citizens had themselves at this procedure, a vast number of people came running out of the country. These came zealously to Pilate to <placeName xml:lang="en">Cesarea</placeName>, and besought him to carry those ensigns out of Jerusalem, and to preserve them their ancient laws inviolable; but upon Pilate's denial of their request, they fell down prostrate upon the ground, and continued immovable in that posture for five days and as many nights. On the next day Pilate sat upon his tribunal, in the open market-place, and called to him the multitude, as desirous to give them an answer; and then gave a signal to the soldiers, that they should all by agreement at once encompass the Jews with their weapons; so the band of soldiers stood round about the Jews in three ranks. The Jews were under the utmost consternation at that unexpected sight. Pilate also said to them that they should be cut in pieces, unless they would admit of Caesar's images, and gave intimation to the soldiers to draw their naked swords. Hereupon the Jews, as it were at one signal, fell down in vast numbers together, and exposed their necks bare, and cried out that they were sooner ready to be slain, than that their law should be transgressed. Hereupon Pilate was greatly surprised at their prodigious superstition, and gave order that the ensigns should be presently carried out of Jerusalem.<ab type="source" source="#bib23-2"/>
+        <note xml:lang="en" type="translation">Trans. {Source}</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:2.169-2.172</idno>
         <ref target="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:2.169-2.172"/>
       </ab>
@@ -341,6 +357,36 @@
             <forename>Flavius</forename>
             <surname>Josephus</surname>
           </author>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

@@ -18,6 +18,10 @@
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
         <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
+        </respStmt>
+        <respStmt>
           <resp>URNs and other metadata added by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
@@ -281,7 +285,11 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/49</idno>
          </ab>
          <desc type="abstract" xml:id="abstract49-1">
-        <quote><placeName>c̣[o]l(onia) I Fl(avia) Aug(usta) Caes(area)</placeName></quote>, and <quote><placeName>First Flavian Colony of Caesarea</placeName></quote> are directly attested at <persName ref="" role="author">Pomponius</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Petition from Veterans, PSI</title> <ref n="a" target="#bib49-1">9.1026A</ref>. This passage was written ca. <origDate when="0150" period="#lateRoman">150 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</desc>
+        <quote>
+          <placeName>c̣[o]l(onia) I Fl(avia) Aug(usta) Caes(area)</placeName>
+        </quote>, and <quote>
+          <placeName>First Flavian Colony of Caesarea</placeName>
+        </quote> are directly attested at <persName ref="" role="author">Pomponius</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Petition from Veterans, PSI</title> <ref n="a" target="#bib49-1">9.1026A</ref>. This passage was written ca. <origDate when="0150" period="#lateRoman">150 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</desc>
          <desc type="context">This long text survives in two copies on papyrus at the Bibliotheca
             Medicea Laurenziana (inv. 14488): A with writing mostly on the front and a single short
             column against the fibers on the back, and B with writing on one side. It contains a
@@ -342,12 +350,16 @@
             Ferr(atae) signa[vi]<lb/>(hand 2) ̣ ̣ ̣ ̣us Valeṇṣ<lb/>(hand 3) ̣ ̣ ̣ ̣ius Valeṇṣ<lb/>vẹ[t]eranus leg(ionis) VI Ferr(atae) (30)<lb/>(hand 4) [Ι]υλιυς Ιυλιανυς<lb/>[leg(ionis)] VI
             F̣ẹṛr(atae)<lb/>(hand 5) traces<lb/>(hand 5) traces<lb/>(hand 6) ̣ ̣ ̣ ̣ ka[ ̣] ̣s veteran ̣s
             (35)<lb/>̣ ̣ ̣ ̣<lb/>(hand 7) [ -ca.?- ] ̣ ̣ ̣ ̣[ ̣ ̣ ̣ ̣]l ̣s vẹṭ(eranus) <ab type="source" source="#bib49-1"/>
-        <idno type="CTS-URN"/>
-        <ref target="http://papyri.info/ddbdp/psi;9;1026"/>
         <note xml:lang="en" type="textual">Ed. Vitelli 1928 with ref. to Smallwood 1966</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
         <note xml:lang="en" type="corrigenda">Minor corrections
                (resolved personal names, clear reconstructions, punctuation,
                capitalization)</note>
+        <idno type="CTS-URN"/>
+        <ref target="http://papyri.info/ddbdp/psi;9;1026"/>
+        
+        
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote49-2">
         <anchor xml:id="testimonia-49.en.1" corresp="#testimonia-49.la.1"/>
@@ -389,10 +401,13 @@
             Valens, veteran, Legio VI Ferrata<lb/>(hand 4) Julius Julianus, Legio VI Ferrata<lb/>(hand
             5) [----]<lb/>(hand 5) [----]<lb/>(hand 6) [----], veteran<lb/>[----]<lb/>(hand 7) [----],
                veteran<ab type="source" source="#bib49-2"/>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
         <note xml:lang="en" type="translation">Rev. Campbell 1994 with ref. to Palme
                2006</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        
       </ab>
          <listBibl>
         <head>Works Cited</head>
@@ -417,6 +432,36 @@
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/T3CWCCQ4"/>
           <citedRange unit="p">296-297</citedRange>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

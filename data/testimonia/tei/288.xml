@@ -18,6 +18,10 @@
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
         </respStmt>
         <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
+        </respStmt>
+        <respStmt>
           <resp>Electronic text added by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
@@ -275,7 +279,11 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/288</idno>
       </ab>
       <desc type="abstract" xml:id="abstract288-1">
-        <quote><placeName>Caesareae</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/95147024">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Illustrious Men</title> <ref n="e" target="#bib288-1">54.22-31</ref>. This passage was written ca. <origDate notBefore="0392" notAfter="0393" period="#byzantine">392-393 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</desc>
+        <quote>
+          <placeName>Caesareae</placeName>
+        </quote>, and <quote>
+          <placeName>Caesarea</placeName>
+        </quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/95147024">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Illustrious Men</title> <ref n="e" target="#bib288-1">54.22-31</ref>. This passage was written ca. <origDate notBefore="0392" notAfter="0393" period="#byzantine">392-393 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</desc>
       <desc type="context">Among his many works, St. Jerome wrote a catalog of renowned thinkers
             of the Roman world during the first years after his move from Rome to Bethlehem. In
             mostly brief sketches he describes the intellectual achievements, particularly writings,
@@ -293,9 +301,13 @@
         regibus Romanis Christianus fuit, et ad matrem eius litteras fecit quae usque hodie
           extant.
       <ab type="source" source="#bib288-1"/>
+        <note xml:lang="en" type="textual">Ed. Bernoulli 1895</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target="https://archive.org/details/devirisinlustri00jerogoog/page/n67/mode/2up"/>
-        <note xml:lang="en" type="textual">Ed. Bernoulli 1895</note>
+        
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote288-2">
         <anchor xml:id="testimonia-288.en.1" corresp="#testimonia-288.la.1"/>
@@ -309,9 +321,12 @@
         regard. And he sent letters to the emperor Philip, who was the first Christian among the
         Roman rulers, and to his mother, letters which still exist today.
       <ab type="source" source="#bib288-2"/>
+        <note xml:lang="en" type="translation">Adapted from Schaff 1892 and Halton 1999</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref/>
-        <note xml:lang="en" type="translation">Adapted from Schaff 1892 and Halton 1999</note>
+        
       </ab>
       <listBibl>
         <head>Works Cited</head>
@@ -324,6 +339,49 @@
           <ptr target="https://caesarea-maritima.org/bibl/UFDQ7288"/>
           <citedRange unit="p">78</citedRange>
           <citedRange unit="ch">54.5</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

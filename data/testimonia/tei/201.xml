@@ -19,6 +19,10 @@
         <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
       </respStmt>
         <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
+        </respStmt>
+        <respStmt>
         <resp>Electronic text added by</resp>
         <name ref="https://caesarea-maritima.org/documentation/editors.xml#eyonan">Eliana Yonan</name>
       </respStmt>
@@ -279,7 +283,11 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/201</idno>
       </ab>
       <desc type="abstract" xml:id="abstract201-1">
-        <quote><placeName>Καισαρείᾳ</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/100172302" role="author">Procopius of Caesarea</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Secret History</title> <ref n="d" target="#bib201-1">30.17-30.19</ref>. This passage was written ca. <origDate notBefore="0550" notAfter="0560" period="#byzantine">550-560 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+        <quote>
+          <placeName>Καισαρείᾳ</placeName>
+        </quote>, and <quote>
+          <placeName>Caesarea</placeName>
+        </quote> are directly attested at <persName ref="http://viaf.org/viaf/100172302" role="author">Procopius of Caesarea</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Secret History</title> <ref n="d" target="#bib201-1">30.17-30.19</ref>. This passage was written ca. <origDate notBefore="0550" notAfter="0560" period="#byzantine">550-560 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
       <desc type="context">Procopius, a native of Caesarea Maritima who excelled in his classical
             education and legal training, was the preeminent historian of the reign of Justinian. As
             a field advisor to the general Belisarius and a ranking member of the governing class in
@@ -300,10 +308,14 @@
             ὀλίγην αὐτῷ τινα τοῦ τιμήματος προέμενος μοῖραν, καὶ τοῦτο ἀποφθεγξάμενος, ὡς Εὐαγγέλῳ
             ῥήτορι ὄντι οὐ μήποτε εὐπρεπὲς εἴη κώμης τοιαύτης κυρίῳ εἶναι. (20) ἀλλὰ περὶ μὲν
             τούτων, ἀμηγέπη αὐτῶν ἐπιμνησθέντες, παυσόμεθα λέγειν.<ab type="source" source="#bib201-1"/>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
         <note xml:lang="en" type="textual">Ed. Wirth
                1963 [cited by chapter-section]</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote201-2">
         <anchor xml:id="testimonia-201.en.1" corresp="#testimonia-201.grc.1"/>(17) So this is how the most important affairs of the state were
@@ -316,10 +328,13 @@
             value, and declaring that it would never be appropriate for an orator like Evangelos to
             be the owner of such a town. (20) But now that I have mentioned these matters in a
             summary fashion, I will stop discussing them.<ab type="source" source="#bib201-2"/>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
         <note xml:lang="en" type="translation">Adapted from
                Dewing 1935 and Williamson 1966</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        
       </ab>
       <listBibl>
         <head>Works Cited</head>
@@ -338,6 +353,41 @@
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/M5H2RHII"/>
           <citedRange unit="p">190-191</citedRange>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

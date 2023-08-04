@@ -42,6 +42,10 @@
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
         <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
+        </respStmt>
+        <respStmt>
           <resp>TEI record created by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
@@ -345,10 +349,14 @@
             ἐγένετο’ ἢ ἐξ ἑτέρας ὑποστάσεως ἢ οὐσίας φάσκοντας εἶναι ἢ κτιστὸν ἢ τρεπτὸν ἢ ἀλλοιωτὸν
             τὸν υἱὸν τοῦ θεοῦ, τούτους ἀναθεματίζει ἡ ἁγία τοῦ Θεοῦ καθολικὴ καὶ ἀποστολικὴ
                ἐκκλησία.’<ab type="source" source="#bib474-1"/>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
         <note xml:lang="en" type="textual">Ed. Hussey and Bright 1893 with ref. to
                Hansen 1995</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote474-2">
         <anchor xml:id="testimonia-474.en.1" corresp="#testimonia-474.grc.1"/>(41) “When we had put forth this declaration of faith, no one had
@@ -374,12 +382,15 @@
             was not,’ and ‘He became out of the non-existent,’ or claiming that he was from another
             substance or essence, or that the Son of God is created, changed, and altered, the Holy
             Catholic and Apostolic Church anathematizes them.’ <ab type="source" source="#bib474-2"/>
-        <idno type="CTS-URN"/>
-        <ref target="https://archive.org/details/in.ernet.dli.2015.98162/page/n55/mode/2up"/>
         <note xml:lang="en" type="translation">Adapted from Zenos 1890 and Périchon and Maraval
                2004-2007</note>
         <note xml:lang="en" type="discussion">The quotations in §45 were
                phrases commonly associated with Arianism.</note>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref target="https://archive.org/details/in.ernet.dli.2015.98162/page/n55/mode/2up"/>
+        
+        
       </ab>
          <listBibl>
         <head>Works Cited</head>
@@ -404,6 +415,36 @@
           <ptr target="https://caesarea-maritima.org/bibl/K6BV8Z5T"/>
           <citedRange unit="vol">1</citedRange>
           <citedRange unit="p">106-109</citedRange>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

@@ -21,6 +21,10 @@
           Potter</name>
         </respStmt>
         <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
+        </respStmt>
+        <respStmt>
           <resp>Electronic text added by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#bgardner">Bianca
           Gardner</name>
@@ -283,7 +287,11 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/53</idno>
       </ab>
       <desc type="abstract" xml:id="abstract53-1">
-        <quote><placeName>Καισαρείᾳ</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/100172302" role="author">Procopius of Caesarea</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg4029.tlg002" type="uniform" level="m">Secret History</title> <ref n="a" target="#bib53-1">11.24-11.30</ref>. This passage was written ca. <origDate notBefore="0550" notAfter="0560" period="#byzantine">550-560 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+        <quote>
+          <placeName>Καισαρείᾳ</placeName>
+        </quote>, and <quote>
+          <placeName>Caesarea</placeName>
+        </quote> are directly attested at <persName ref="http://viaf.org/viaf/100172302" role="author">Procopius of Caesarea</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg4029.tlg002" type="uniform" level="m">Secret History</title> <ref n="a" target="#bib53-1">11.24-11.30</ref>. This passage was written ca. <origDate notBefore="0550" notAfter="0560" period="#byzantine">550-560 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
       <desc type="context">Procopius, a native of Caesarea Maritima who excelled in his classical
             education and legal training, was the preeminent historian of the reign of Justinian. As
             a field advisor to the general Belisarius and a ranking member of the governing class in
@@ -313,10 +321,14 @@
             οὖσι τὸ πρᾶγμα τοῦτο ἐς μέγα κακὸν ἐτελεύτησεν, ἀναγκαῖον γὰρ γέγονε σφίσιν οὐδὲν
             ἐνθένδε μετακομιζομένοις φόρον τὸν ἐπέτειον ἁδρόν τινα ὄντα ἐς τὸν ἅπαντα αἰῶνα βασιλεῖ
             φέρειν, ἐπεὶ οὐδεμιᾷ φειδοῖ ἡ τοῦ ἔργου τούτου ἐντροπὴ γέγονεν.<ab type="source" source="#bib53-1"/>
-        <idno type="CTS-URN">urn:cts:greekLit:tlg4029.tlg002.perseus-grc1:11.24-11.30</idno>
-        <ref target="http://data.perseus.org/citations/urn:cts:greekLit:tlg4029.tlg002.perseus-grc1:11.24-11.30"/>
         <note xml:lang="en" type="textual">Ed.
                Wirth 1963 [cited by chapter-section]</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN">urn:cts:greekLit:tlg4029.tlg002.perseus-grc1:11.24-11.30</idno>
+        <ref target="http://data.perseus.org/citations/urn:cts:greekLit:tlg4029.tlg002.perseus-grc1:11.24-11.30"/>
+        
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote53-2">
         <anchor xml:id="testimonia-53.en.1" corresp="#testimonia-53.grc.1"/>(24) And when a similar law was passed suddenly with respect to the
@@ -337,9 +349,12 @@
             for the owners of these farms who were Christians. For, even though the land was
             yielding them no profit at all, they were compelled to pay to the emperor in perpetuity
             annual taxes on a crippling scale, as these demands were pressed relentlessly.<ab type="source" source="#bib53-2"/>
+        <note xml:lang="en" type="translation">Adapted from Dewing 1935 and Williamson 1966</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
-        <note xml:lang="en" type="translation">Adapted from Dewing 1935 and Williamson 1966</note>
+        
       </ab>
       <listBibl>
         <head>Works Cited</head>
@@ -361,6 +376,36 @@
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/M5H2RHII"/>
           <citedRange unit="p">97-98</citedRange>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

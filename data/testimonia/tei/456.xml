@@ -34,6 +34,10 @@
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
         <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
+        </respStmt>
+        <respStmt>
           <resp>Testimonium translated by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
@@ -295,7 +299,11 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/456</idno>
          </ab>
          <desc type="abstract" xml:id="abstract456-1">
-        <quote><placeName>τῆς ἐν Παλαιστίνῃ Καισαρείας</placeName></quote>, and <quote><placeName>Caesarea in Palestine</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/305409681" role="author">Sozomen</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Church History</title> <ref n="a" target="#bib456-1">1.15.10-1.15.12</ref>. This passage was written ca. <origDate notBefore="440" notAfter="450" period="#byzantine">ca. 440-450 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687988">Constantinople</origPlace>.</desc>
+        <quote>
+          <placeName>τῆς ἐν Παλαιστίνῃ Καισαρείας</placeName>
+        </quote>, and <quote>
+          <placeName>Caesarea in Palestine</placeName>
+        </quote> are directly attested at <persName ref="http://viaf.org/viaf/305409681" role="author">Sozomen</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Church History</title> <ref n="a" target="#bib456-1">1.15.10-1.15.12</ref>. This passage was written ca. <origDate notBefore="440" notAfter="450" period="#byzantine">ca. 440-450 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687988">Constantinople</origPlace>.</desc>
          <desc type="context">Salaminius Hermias Sozomenos, or Sozomen, was an ecclesiastical
             historian of the first half of the 5th century. Born to a wealthy Christian family in
             the region of Gaza, he learned classical and sacred literature under the guidance of
@@ -322,9 +330,13 @@
             λαὸν συνάγειν. οἱ δὲ ἅμα καὶ ἄλλοις ἐπισκόποις ἐν Παλαιστίνῃ συνελθόντες ἐπεψηφίσαντο τῇ
             Ἀρείου αἰτήσει, παρακελευσάμενοι συνάγειν μὲν αὐτοὺς ὡς πρότερον, ὑποτετάχθαι δὲ
             Ἀλεξάνδρῳ καὶ ἀντιβολεῖν ἀεὶ τῆς πρὸς αὐτὸν εἰρήνης καὶ κοινωνίας μετέχειν.<ab type="source" source="#bib456-1"/>
+        <note xml:lang="en" type="textual">Ed. Bidez and Hansen 1995</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref/>
-        <note xml:lang="en" type="textual">Ed. Bidez and Hansen 1995</note>
+        
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote456-2">
         <anchor xml:id="testimonia-456.en.1" corresp="#testimonia-456.grc.1"/> (10) … After they had convened a synod in Bithynia, they wrote to
@@ -341,10 +353,13 @@
             in Palestine, voted in favor of the petition of Arius, and permitted him to assemble the
             people as before. But they enjoined submission to Alexander, and commanded Arius always
             to strive for peace and communion with him.<ab type="source" source="#bib456-2"/>
-        <idno type="CTS-URN"/>
-        <ref target="https://archive.org/details/in.ernet.dli.2015.98162/page/n307/mode/2up"/>
         <note xml:lang="en" type="translation">Revised from Hartranft 1890</note>
         <note xml:lang="en" type="discussion"> </note>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref target="https://archive.org/details/in.ernet.dli.2015.98162/page/n307/mode/2up"/>
+        
+        
       </ab>
          <listBibl>
         <head>Works Cited</head>
@@ -356,6 +371,49 @@
         <bibl xml:id="bib456-2">
           <ptr target="https://caesarea-maritima.org/bibl/583DGC2T"/>
           <citedRange unit="p">252</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

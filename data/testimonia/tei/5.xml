@@ -21,6 +21,10 @@
           Potter</name>
         </respStmt>
         <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
+        </respStmt>
+        <respStmt>
           <resp>Electronic text added by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#bgardner">Bianca
           Gardner</name>
@@ -281,16 +285,32 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/5</idno>
       </ab>
       <desc type="abstract" xml:id="abstract5-1">
-        <quote><placeName>τῇ Σεβαστῇ</placeName></quote>, <quote><placeName>Καισαρείᾳ</placeName></quote>, <quote><placeName>Sebaste</placeName></quote>, and <quote><placeName>Cesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/22143666" role="author">Josephus</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg001" type="uniform" level="m">Jewish Antiquities</title> <ref n="g" target="#bib5-1">16.13</ref>. This passage was written ca. <origDate period="#nabateanKingdom #earlyRoman" notBefore="0093" notAfter="0094">93 - 94 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+        <quote>
+          <placeName>τῇ Σεβαστῇ</placeName>
+        </quote>, <quote>
+          <placeName>Καισαρείᾳ</placeName>
+        </quote>, <quote>
+          <placeName>Sebaste</placeName>
+        </quote>, and <quote>
+          <placeName>Cesarea</placeName>
+        </quote> are directly attested at <persName ref="http://viaf.org/viaf/22143666" role="author">Josephus</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg001" type="uniform" level="m">Jewish Antiquities</title> <ref n="g" target="#bib5-1">16.13</ref>. This passage was written ca. <origDate period="#nabateanKingdom #earlyRoman" notBefore="0093" notAfter="0094">93 - 94 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+      <desc type="context"/>
       <ab type="edition" xml:lang="grc" xml:id="quote5-1">
         <anchor xml:id="testimonia-5.grc.1" corresp="#testimonia-5.en.1"/>
         κἀκεῖνος μὲν εἴξας λιπαρῶς ἐγκειμένου ἧκεν εἰς τὴν Ἰουδαίαν, Ἡρώδης δὲ οὐδὲν ἀρεσκείας ἀπέλιπεν ἔν τε ταῖς νεοκτίστοις πόλεσιν ὑποδεχόμενος αὐτὸν καὶ μετὰ τοῦ τὰς κατασκευὰς ἐπιδεικνύναι πᾶσαν ἀπόλαυσιν διαίτης καὶ πολυτελείας ἐξαλλάττων αὐτῷ καὶ τοῖς φίλοις ἔν τε <placeName xml:lang="grc">τῇ Σεβαστῇ</placeName> καὶ <placeName xml:lang="grc">Καισαρείᾳ</placeName> περὶ τὸν λιμένα τὸν ὑπ᾽ αὐτοῦ κατεσκευασμένον κἀν τοῖς ἐρύμασιν, ἃ πολλαῖς δαπάναις ἐξῳκοδόμησεν, τό τε Ἀλεξάνδρειον καὶ Ἡρώδειον καὶ τὴν Ὑρκανίαν.<ab type="source" source="#bib5-1"/>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg0526.tlg001.perseus-grc1:16.13</idno>
         <ref target="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg001.perseus-grc1:16.13"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote5-2">
         <anchor xml:id="testimonia-5.en.1" corresp="#testimonia-5.grc.1"/>
         This request he greatly pressed, and to it Agrippa agreed, and came into Judea; whereupon Herod omitted nothing that might please him. He entertained him in his new-built cities, and showed him the edifices he had built, and provided all sorts of the best and most costly dainties for him and his friends, and that at <placeName xml:lang="en">Sebaste</placeName> and <placeName xml:lang="en">Cesarea</placeName>, about that port that he had built, and at the fortresses which he had erected at great expenses, Alexandrium, and Herodium, and Hyrcania.<ab type="source" source="#bib5-2"/>
+        <note xml:lang="en" type="translation">Trans. {Source}</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg0526.tlg001.perseus-eng1:16.12</idno>
         <ref target="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg001.perseus-eng1:16.12"/>
       </ab>
@@ -341,6 +361,36 @@
             <forename>Flavius</forename>
             <surname>Josephus</surname>
           </author>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

@@ -20,6 +20,10 @@
         <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
       </respStmt>
         <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
+        </respStmt>
+        <respStmt>
         <resp>Electronic text added by</resp>
         <name ref="https://caesarea-maritima.org/documentation/editors.xml#jwoods">Joshua Woods</name>
       </respStmt>
@@ -284,7 +288,11 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/150</idno>
       </ab>
       <desc type="abstract" xml:id="abstract150-1">
-        <quote><placeName>Παλαιστίνῃ Καισαρείας</placeName></quote>, and <quote><placeName>Caesarea in Palestine</placeName></quote> are directly attested at <persName ref="https://viaf.org/viaf/55571017" role="author">Socrates of Constantinople</persName>, <title xml:lang="en" type="uniform" level="m">Church History</title> <ref n="i" target="#bib150-1">2.4</ref>. This passage was written ca. <origDate notBefore="0439" notAfter="0450" period="#byzantine">ca. 439-450 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+        <quote>
+          <placeName>Παλαιστίνῃ Καισαρείας</placeName>
+        </quote>, and <quote>
+          <placeName>Caesarea in Palestine</placeName>
+        </quote> are directly attested at <persName ref="https://viaf.org/viaf/55571017" role="author">Socrates of Constantinople</persName>, <title xml:lang="en" type="uniform" level="m">Church History</title> <ref n="i" target="#bib150-1">2.4</ref>. This passage was written ca. <origDate notBefore="0439" notAfter="0450" period="#byzantine">ca. 439-450 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
       <desc type="context">Socrates of Constantinople, the “Scholastic,” was an otherwise unknown
         historian of the early 5th century. He wrote his account of the Church from 305 to 439 to
         continue Eusebius of Caesarea, adopting a particular perspective on the relationship between
@@ -297,11 +305,15 @@
         καὶ ἄλλα μὲν πολλὰ βιβλία ἐξέθετο καὶ εἰς τὸν βίον δὲ τοῦ διδασκάλου {αὐτοῦ}
           συνέγραψεν.
       <ab type="source" source="#bib150-1"/>
-        <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/"/>
-        <ref/>
         <note xml:lang="en" type="textual">Ed. Hussey and Bright 1893</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
         <note xml:lang="en" type="corrigenda">Minor corr. with ref. to Hansen 1995 [cited by
           book-chapter-section]</note>
+        <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/"/>
+        <ref/>
+        
+        
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote150-2">
         <anchor xml:id="testimonia-150.en.1" corresp="#testimonia-150.grc.1"/>At this time
@@ -309,10 +321,13 @@
         surname Pamphili, died. Acacius his student succeeded him as bishop. He published many
         books, and composed a biography of his teacher.
       <ab type="source" source="#bib150-2"/>
-        <idno type="CTS-URN"/>
-        <ref/>
         <note xml:lang="en" type="translation">Adapted from Zenos
           1890 with ref. to Périchon and Maraval 2005</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref/>
+        
       </ab>
       <listBibl>
         <head>Works Cited</head>
@@ -334,6 +349,36 @@
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/K6BV8Z5T"/>
           <citedRange unit="p">2.28-2.31</citedRange>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

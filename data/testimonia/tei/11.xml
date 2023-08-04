@@ -21,6 +21,10 @@
           Potter</name>
         </respStmt>
         <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
+        </respStmt>
+        <respStmt>
           <resp>Electronic text added by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#bgardner">Bianca
           Gardner</name>
@@ -281,16 +285,28 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/11</idno>
       </ab>
       <desc type="abstract" xml:id="abstract11-1">
-        <quote><placeName>Καισάρειαν</placeName></quote>, and <quote><placeName>Cesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/22143666" role="author">Josephus</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg001" type="uniform" level="m">Jewish Antiquities</title> <ref n="l" target="#bib11-1">19.332-19.334</ref>. This passage was written ca. <origDate period="#nabateanKingdom #earlyRoman" notBefore="0093" notAfter="0094">93 - 94 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+        <quote>
+          <placeName>Καισάρειαν</placeName>
+        </quote>, and <quote>
+          <placeName>Cesarea</placeName>
+        </quote> are directly attested at <persName ref="http://viaf.org/viaf/22143666" role="author">Josephus</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg001" type="uniform" level="m">Jewish Antiquities</title> <ref n="l" target="#bib11-1">19.332-19.334</ref>. This passage was written ca. <origDate period="#nabateanKingdom #earlyRoman" notBefore="0093" notAfter="0094">93 - 94 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+      <desc type="context"/>
       <ab type="edition" xml:lang="grc" xml:id="quote11-1">
         <anchor xml:id="testimonia-11.grc.1" corresp="#testimonia-11.en.1"/>
         Καὶ δή τις ἐν τοῖς Ἱεροσολύμοις ἀνὴρ ἐπιχώριος ἐξακριβάζειν δοκῶν τὰ νόμιμα, Σίμων ἦν ὄνομα τούτῳ, πλῆθος εἰς ἐκκλησίαν ἁλίσας τηνικάδε τοῦ βασιλέως εἰς <placeName xml:lang="grc">Καισάρειαν</placeName> ἐκδεδημηκότος ἐτόλμησεν αὐτοῦ κατειπεῖν, ὡς οὐχ ὅσιος εἴη, δικαίως δ᾽ ἂν εἴργοιτο τοῦ ναοῦ τῆς εἰσόδου προσηκούσης τοῖς ἐγγενέσιν. δηλοῦται μὲν δὴ διὰ γραμμάτων ὑπὸ τοῦ στρατηγοῦ τῆς πόλεως τῷ βασιλεῖ δημηγορήσας Σίμων ταῦτα, μεταπέμπεται δὲ αὐτὸν ὁ βασιλεὺς καί, καθέζετο γὰρ ἐν τῷ θεάτρῳ τότε, καθεσθῆναι παρ᾽ αὐτὸν ἐκέλευσεν. ἠρέμα τε καὶ πρᾴως ‘εἰπέ μοι, φησίν, τί τῶν ἐνθάδε γινομένων ἐστὶ παράνομον;’ ὁ δὲ εἰπεῖν ἔχων οὐδὲν τυχεῖν ἐδεῖτο συγγνώμης. ἀλλὰ ὁ βασιλεὺς αὐτῷ ἢ προσεδόκησέν τις διηλλάττετο τὴν πρᾳότητα κρίνων βασιλικωτέραν ὀργῆς καὶ πρέπειν εἰδὼς τοῖς μεγέθεσι θυμοῦ πλέον ἐπιείκειαν. τὸν Σίμωνα γοῦν καὶ δωρεᾶς τινος ἀξιώσας ἀπεπέμπετο.<ab type="source" source="#bib11-1"/>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg0526.tlg001.perseus-grc1:19.332-19.334</idno>
         <ref target="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg001.perseus-grc1:19.332-19.334"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote11-2">
         <anchor xml:id="testimonia-11.en.1" corresp="#testimonia-11.grc.1"/>
         However, there was a certain mall of the Jewish nation at Jerusalem, who appeared to be very accurate in the knowledge of the law. His name was Simon. This man got together an assembly, while the king was absent at <placeName xml:lang="en">Cesarea</placeName>, and had the insolence to accuse him as not living holily, and that he might justly be excluded out of the temple, since it belonged only to native Jews. But the general of Agrippa's army informed him that Simon had made such a speech to the people. So the king sent for him; and as he was sitting in the theater, he bid him sit down by him, and said to him with a low and gentle voice, "What is there done in this place that is contrary to the law?" But he had nothing to say for himself, but begged his pardon. So the king was more easily reconciled to him than one could have imagined, as esteeming mildness a better quality in a king than anger, and knowing that moderation is more becoming in great men than passion. So he made Simon a small present, and dismissed him.<ab type="source" source="#bib11-2"/>
+        <note xml:lang="en" type="translation">Trans. {Source}</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg0526.tlg001.perseus-eng1:19.332</idno>
         <ref target="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg001.perseus-eng1:19.332"/>
       </ab>
@@ -341,6 +357,36 @@
             <forename>Flavius</forename>
             <surname>Josephus</surname>
           </author>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

@@ -42,6 +42,10 @@
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
         <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
+        </respStmt>
+        <respStmt>
           <resp>TEI record created by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
@@ -312,7 +316,11 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/472</idno>
          </ab>
          <desc type="abstract" xml:id="abstract472-1">
-        <quote><placeName>Caesaream</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Latin Life of Melania the Younger</title> <ref n="a" target="#bib472-1">58-59</ref>. This passage was written ca. <origDate notBefore="0452" notAfter="0470" period="#byzantine">ca. 452-470 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+        <quote>
+          <placeName>Caesaream</placeName>
+        </quote>, and <quote>
+          <placeName>Caesarea</placeName>
+        </quote> are directly attested at <persName role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Latin Life of Melania the Younger</title> <ref n="a" target="#bib472-1">58-59</ref>. This passage was written ca. <origDate notBefore="0452" notAfter="0470" period="#byzantine">ca. 452-470 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
          <desc type="context">The hagiography of Melania the Younger furnishes one of the fullest
             and most colorful accounts of personal religious fervor that survives from the ancient
             world. Melania belonged to a senatorial family of profound wealth and deep ancestry at
@@ -349,10 +357,14 @@
             eius lacrimas fudit. Erat enim ingens et individua eius caritas inserta in pectore eius.
             Et cum post paucos dies audisset eam incolumen pervenisse, gratias agit Domino, quia
             multa per eam Dominus bona opera demonstraverat.<ab type="source" source="#bib472-1"/>
-        <idno type="CTS-URN"/>
-        <ref/>
         <note xml:lang="en" type="textual">Ed.
                Rampolla 1905 and Laurence 2002</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref/>
+        
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote472-2">
         <anchor xml:id="testimonia-472.en.1" corresp="#testimonia-472.la.1"/>(58) … Then (the empress Eudocia) went into the monastery of men,
@@ -382,9 +394,12 @@
             empress) embedded in (Melania’s) heart. And when after a few days (Melania) heard that
             (Eudocia) had arrived safely, she thanked God, because God had displayed many good works
             through her.<ab type="source" source="#bib472-2"/>
+        <note xml:lang="en" type="translation">Trans. J. L. Rife</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
-        <note xml:lang="en" type="translation">Trans. J. L. Rife</note>
+        
       </ab>
          <listBibl>
         <head>Works Cited</head>
@@ -402,6 +417,41 @@
         <head>Additional Bibliography</head>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/9SZV9S2A"/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

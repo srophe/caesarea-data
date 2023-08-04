@@ -18,6 +18,10 @@
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
         <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
+        </respStmt>
+        <respStmt>
           <resp>URNs and other metadata added by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
@@ -281,7 +285,11 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/401</idno>
          </ab>
          <desc type="abstract" xml:id="abstract401-1">
-        <quote><placeName>Καισαρείας τῆς Παλαιστίνης</placeName></quote>, and <quote><placeName>Caesarea Palestinae</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/14775071" role="author">Photius</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Library</title> <ref n="f" target="#bib401-1">102.86a13-28</ref>. This passage was written ca. <origDate notBefore="0845" notAfter="0855" period="#earlyIslamic">845-855 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+        <quote>
+          <placeName>Καισαρείας τῆς Παλαιστίνης</placeName>
+        </quote>, and <quote>
+          <placeName>Caesarea Palestinae</placeName>
+        </quote> are directly attested at <persName ref="http://viaf.org/viaf/14775071" role="author">Photius</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Library</title> <ref n="f" target="#bib401-1">102.86a13-28</ref>. This passage was written ca. <origDate notBefore="0845" notAfter="0855" period="#earlyIslamic">845-855 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
          <desc type="context">Photius I was ecumenical patriarch of Constantinople in 858-867 and
             877-886, as well as an unparalleled intellectual luminary for his age. Apart from his
             distinguished ecclesiastical career, he engaged in polymathic teaching and research,
@@ -305,10 +313,14 @@
             μεταχειρίζεσθαι· καὶ ἡ τάξις δὲ τοῦ λόγου οὐκ ἀνεπίμωμος.<lb/>Ἐμπεριείχετο δὲ τῇ δέλτῳ καὶ
             Διοδώρου Ταρσοῦ περὶ τοῦ ἁγίου πνεύματος διάφορα ἐπιχειρήματα, ἐν οἷς καὶ τὴν Νεστορίου
             νόσον αὐτὸς ἐπιδείκνυται προηρρωστηκώς.<ab type="source" source="#bib401-1"/>
-        <idno type="CTS-URN"/>
-        <ref target="https://babel.hathitrust.org/cgi/pt?id=inu.32000000323156&amp;view=1up&amp;seq=96&amp;skin=2021"/>
         <note xml:lang="en" type="textual">Ed. Bekker 1824-1825 with
                ref. Henry 1959</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref target="https://babel.hathitrust.org/cgi/pt?id=inu.32000000323156&amp;view=1up&amp;seq=96&amp;skin=2021"/>
+        
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote401-2">
         <anchor xml:id="testimonia-401.en.1" corresp="#testimonia-401.grc.1"/>Read the treatise of Gelasius, bishop of <placeName>Caesarea
@@ -322,9 +334,12 @@
             addition, the arrangement of the work is not free from blame.<lb/>The same little volume
             contained the various arguments by Diodorus of Tarsus concerning the Holy Spirit, in
             which he shows that he is already infected by the taint of the Nestorian heresy.<ab type="source" source="#bib401-2"/>
+        <note xml:lang="en" type="translation">Adapted from Freese 1920 with ref. to Henry 1959</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target="https://archive.org/details/libraryofphotius00phot/page/192/mode/2up"/>
-        <note xml:lang="en" type="translation">Adapted from Freese 1920 with ref. to Henry 1959</note>
+        
       </ab>
          <listBibl>
         <head>Works Cited</head>
@@ -344,6 +359,41 @@
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/9UDPPPSU"/>
           <citedRange unit="p">193</citedRange>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

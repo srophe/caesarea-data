@@ -18,6 +18,10 @@
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
         </respStmt>
         <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
+        </respStmt>
+        <respStmt>
           <resp>Electronic text added by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
@@ -275,7 +279,13 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/370</idno>
       </ab>
       <desc type="abstract" xml:id="abstract370-1">
-        <quote><placeName>Caesarea</placeName></quote>, <quote><placeName>Caesariensem</placeName></quote>, and <quote><placeName>Caesaream</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/95147024">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Against John of Jerusalem</title> <ref n="a" target="#bib370-1">37.407a-b</ref>. This passage was written ca. <origDate when="0397" period="#byzantine">397 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</desc>
+        <quote>
+          <placeName>Caesarea</placeName>
+        </quote>, <quote>
+          <placeName>Caesariensem</placeName>
+        </quote>, and <quote>
+          <placeName>Caesaream</placeName>
+        </quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/95147024">Jerome</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Against John of Jerusalem</title> <ref n="a" target="#bib370-1">37.407a-b</ref>. This passage was written ca. <origDate when="0397" period="#byzantine">397 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687856">Bethlehem</origPlace>.</desc>
       <desc type="context">During the mid-390s St. Jerome was embroiled in the Origenist
             controversy with leading figures of the Church in the East. Following the open hostility
             between the bishops Epiphanius of Salamis and John of Jerusalem, Jerome opposed his
@@ -301,10 +311,14 @@
         suspicionem generant, quidquam in legatione reprehendam; sed quia apud interrogantes magis
         et praesentes te purgare debueris.
       <ab type="source" source="#bib370-1"/>
+        <note xml:lang="en" type="textual">Ed. Migne 1883</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda">Minor corr. (punctuation)</note>
         <idno type="CTS-URN"/>
         <ref target="https://archive.org/details/patrologiaecurs01goog/page/n210/mode/2up"/>
-        <note xml:lang="en" type="textual">Ed. Migne 1883</note>
-        <note xml:lang="en" type="corrigenda">Minor corr. (punctuation)</note>
+        
+        
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote370-2">
         <anchor xml:id="testimonia-370.en.1" corresp="#testimonia-370.la.1"/>
@@ -321,9 +335,12 @@
             this because you ought rather to clear yourself in the actual presence of your
                questioners.
       <ab type="source" source="#bib370-2"/>
+        <note xml:lang="en" type="translation">Adapted from Fremantle 1892</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target="https://ccel.org/ccel/schaff/npnf206/npnf206.vi.viii.html"/>
-        <note xml:lang="en" type="translation">Adapted from Fremantle 1892</note>
+        
       </ab>
       <listBibl>
         <head>Works Cited</head>
@@ -340,6 +357,41 @@
         <head>Additional Bibliography</head>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/MUU4ALR4"/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

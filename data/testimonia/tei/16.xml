@@ -21,6 +21,10 @@
           Potter</name>
         </respStmt>
         <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
+        </respStmt>
+        <respStmt>
           <resp>Electronic text added by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#bgardner">Bianca
           Gardner</name>
@@ -282,16 +286,32 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/16</idno>
       </ab>
       <desc type="abstract" xml:id="abstract16-1">
-        <quote><placeName>Καισαρεῖς εἶναι</placeName></quote>, <quote><placeName>Σεβαστηνοὺς</placeName></quote>, <quote><placeName>Cesarea</placeName></quote>, and <quote><placeName>Sebaste</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/22143666" role="author">Josephus</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg001" type="uniform" level="m">Jewish Antiquities</title> <ref n="q" target="#bib16-1">20.176</ref>. This passage was written ca. <origDate period="#nabateanKingdom #earlyRoman" notBefore="0093" notAfter="0094">93 - 94 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+        <quote>
+          <placeName>Καισαρεῖς εἶναι</placeName>
+        </quote>, <quote>
+          <placeName>Σεβαστηνοὺς</placeName>
+        </quote>, <quote>
+          <placeName>Cesarea</placeName>
+        </quote>, and <quote>
+          <placeName>Sebaste</placeName>
+        </quote> are directly attested at <persName ref="http://viaf.org/viaf/22143666" role="author">Josephus</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg001" type="uniform" level="m">Jewish Antiquities</title> <ref n="q" target="#bib16-1">20.176</ref>. This passage was written ca. <origDate period="#nabateanKingdom #earlyRoman" notBefore="0093" notAfter="0094">93 - 94 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+      <desc type="context"/>
       <ab type="edition" xml:lang="grc" xml:id="quote16-1">
         <anchor xml:id="testimonia-16.grc.1" corresp="#testimonia-16.en.1"/>
         οἱ δὲ χρήμασιν μὲν ἡττώμενοι, μέγα δὲφρονοῦντες ἐπὶ τῷ τοὺς πλείστους τῶν ὑπὸῬωμαίοις ἐκεῖ στρατευομένων <placeName xml:lang="grc">Καισαρεῖς εἶναι</placeName> καὶ <placeName xml:lang="grc">Σεβαστηνοὺς</placeName> μέχρι μέν τινος καὶαὐτοὶ τοὺς Ἰουδαίους λόγῳ ὕβριζον, εἶταλίθοις ἀλλήλους ἔβαλλον, ἕως πολλοὺς παρ᾽ἀμφότερα τρωθῆναί τε καὶ πεσεῖν συνέβη: νικῶσί γε μὴν Ἰουδαῖοι.<ab type="source" source="#bib16-1"/>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg0526.tlg001.perseus-grc1:20.176</idno>
         <ref target="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg001.perseus-grc1:20.176"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote16-2">
         <anchor xml:id="testimonia-16.en.1" corresp="#testimonia-16.grc.1"/>
         However, the Syrians, though they were inferior in wealth, yet valuing themselves highly on this account, that the greatest part of the Roman soldiers that were there were either of <placeName xml:lang="en">Cesarea</placeName> or <placeName xml:lang="en">Sebaste</placeName>, they also for some time used reproachful language to the Jews also; and thus it was, till at length they came to throwing stones at one another, and several were wounded, and fell on both sides, though still the Jews were the conquerors.<ab type="source" source="#bib16-2"/>
+        <note xml:lang="en" type="translation">Trans. {Source}</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg0526.tlg001.perseus-eng1:20.173</idno>
         <ref target="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg001.perseus-eng1:20.173"/>
       </ab>
@@ -342,6 +362,36 @@
             <forename>Flavius</forename>
             <surname>Josephus</surname>
           </author>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

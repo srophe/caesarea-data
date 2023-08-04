@@ -42,6 +42,10 @@
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
         <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
+        </respStmt>
+        <respStmt>
           <resp>TEI record created by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
@@ -312,7 +316,11 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/379</idno>
          </ab>
          <desc type="abstract" xml:id="abstract379-1">
-        <quote><placeName>Καισάρειαν</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="" role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">The Teaching of the Recently Baptized Jacob</title> <ref n="a" target="#bib379-1">5.16</ref>. This passage was written ca. <origDate notBefore="634" notAfter="640" period="#byzantine #earlyIslamic">ca. 634-640 C.E</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
+        <quote>
+          <placeName>Καισάρειαν</placeName>
+        </quote>, and <quote>
+          <placeName>Caesarea</placeName>
+        </quote> are directly attested at <persName ref="" role="author">Unknown</persName>, <title xml:lang="en" ref="" type="uniform" level="m">The Teaching of the Recently Baptized Jacob</title> <ref n="a" target="#bib379-1">5.16</ref>. This passage was written ca. <origDate notBefore="634" notAfter="640" period="#byzantine #earlyIslamic">ca. 634-640 C.E</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
          <desc type="context">The unusual prose narrative <title>The Teaching of the Recently
                Baptized Jacob</title> offers valuable insight into Christian, Jewish, and Muslim
             relations during a momentous period of Middle Eastern and Mediterranean history, the
@@ -350,11 +358,15 @@
             εἰδότος τὰ κρυπτὰ τῶν καρδιῶν, ἐξ ὅλης τῆς ψυχῆς μου πιστεύω εἰς τὸν Χριστόν, ὃν
             προσκυνοῦσιν οἱ Χριστιανοί, ἀπὸ σήμερον, τὸν γεννηθέντα ἐν Βηθλεὲμ ἀπὸ τῆς ἁγίας Μαρίας,
             πληροφορηθεὶς ἀπὸ τῆς διδαχῆς σου καὶ δι’ ἀποκαλύψεως ὁραμάτων φανέντων μοι.<ab type="source" source="#bib379-1"/>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
         <note xml:lang="en" type="textual">Ed. Déroche 1991</note>
         <note xml:lang="en" type="textual">The name Sergius does not appear in the Greek text but it does in the
                Arabic, Ethiopic, and Slavic; see Déroche 1991, pp. 47-60.</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        
+        
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote379-2">
         <anchor xml:id="testimonia-379.en.1" corresp="#testimonia-379.grc.1"/>Justus answers and says, “You are really telling the truth, and thus
@@ -384,13 +396,16 @@
             Christians worship, from today, the one who was born in Bethlehem to the holy Mary; I
             have been assured by your teaching and through the revelation of visions I have
                seen.”<ab type="source" source="#bib379-2"/>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
         <note xml:lang="en" type="translation">Revised from Jacobs n.d. with ref. to
                Déroche 1991 </note>
         <note xml:lang="en" type="discussion">The Late Roman title
                candidatus as here designates a military commander by Imperial appointment. “Isaiah
                said that… ” refers to <title>Isaiah</title> 6:10-11. </note>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        
+        
       </ab>
          <listBibl>
         <head>Works Cited</head>
@@ -403,6 +418,49 @@
           <ptr target="https://caesarea-maritima.org/bibl/X7X64SQW"/>
           <citedRange unit="bk">5</citedRange>
           <citedRange unit="ch">16</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

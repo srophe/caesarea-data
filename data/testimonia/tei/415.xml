@@ -25,6 +25,10 @@
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
         <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
+        </respStmt>
+        <respStmt>
           <resp>URNs and other metadata added by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#dmichelson">David A. Michelson</name>
         </respStmt>
@@ -337,7 +341,11 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/415</idno>
          </ab>
          <desc type="abstract" xml:id="abstract415-1">
-        <quote><placeName>ܩܣܪܝܐ ܡܕܝܢܬܐ</placeName></quote>, and <quote><placeName>the city of Caesarea</placeName></quote> are directly attested at <persName ref="" role="author">Gregorius bar Hebraeus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Candelabrum of the Sanctuary</title> <ref n="a" target="#bib415-1">IV.III.1.2.1.3.xii</ref>. This passage was written ca. <origDate notBefore="1266" notAfter="" period="#crusader">1266 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/874621">Mosul</origPlace>.</desc>
+        <quote>
+          <placeName>ܩܣܪܝܐ ܡܕܝܢܬܐ</placeName>
+        </quote>, and <quote>
+          <placeName>the city of Caesarea</placeName>
+        </quote> are directly attested at <persName ref="" role="author">Gregorius bar Hebraeus</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Candelabrum of the Sanctuary</title> <ref n="a" target="#bib415-1">IV.III.1.2.1.3.xii</ref>. This passage was written ca. <origDate notBefore="1266" notAfter="" period="#crusader">1266 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/874621">Mosul</origPlace>.</desc>
          <desc type="context">Gregorius bar Hebraus was a polymath of the thirteenth century C.E.
             who wrote over fourty different works in genres ranging from Christian theology to
             historical chronicles and works of science and medicine. His writings are often viewed
@@ -354,6 +362,10 @@
         <anchor xml:id="testimonia-415.syr.1" corresp="#testimonia-415.en.1"/>ܬܕܡܘܪܬܐ ܕ܏ܝܒ . ܚܙܘܐ ܕܚ̣ܙܐ ܩܘܪܢܝܠܝܘܣ ܩܢܛܪܘܢܐ ܕܡܢ ܐܝܛܐܠܝܩܝ ܣܦܝܪܐ
                ܒ<placeName>ܩܣܪܝܐ ܡܕܝܢܬܐ</placeName> . ܠܡܠܐܟܐ ܕܐܠܗܐ ܓܠܝܐܝܬ ܒܬܫܥ̈ ܫܥܝܢ̈ ܒܐܝܡܡܐ ܘܐܡ̣ܪ
             ܫܕܪ ܠܝܘܦܝ ܘܐܝܬܐ ܠܫܡܥܘܢ ܟܐܦܐ . ܕܫܪܐ ܒܒܝܬܗ ܕܫܡܥܘܢ ܒܘܪܣܝܐ ܥܠ ܝܕ ܝܡܐ.<ab type="source" source="#bib415-1"/>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
       </ab>
@@ -361,10 +373,13 @@
         <anchor xml:id="testimonia-415.en.1" corresp="#testimonia-415.syr.1"/>Miracle 12: The vision in which Cornelius the Centurion of the
             Italian cohort in <placeName>the city of Caesarea</placeName> clearly saw an angel of
             God at the ninth hour in the daytime. And the Angel said "Send to Joppa and summon Simon
-            Cephas who is staying in the house of Simon the Tanner on the edge of the sea." <note xml:lang="en" type="translation">trans. D. Michelson with reference to Joseph Khoury
-               </note>
+            Cephas who is staying in the house of Simon the Tanner on the edge of the sea." 
         <idno type="CTS-URN"/>
         <ref target=""/>
+      <note xml:lang="en" type="translation">trans. D. Michelson with reference to Joseph Khoury
+               </note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
       </ab>
          <listBibl>
         <head>Works Cited</head>
@@ -373,11 +388,51 @@
           <citedRange unit="p">52</citedRange>
           <citedRange unit="line">10</citedRange>
         </bibl>
+      <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
       </listBibl>
          <listBibl>
         <head>Additional Bibliography</head>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/SQAIRCNX"/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
       <note type="related-texts">

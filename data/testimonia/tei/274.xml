@@ -18,6 +18,10 @@
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
         </respStmt>
         <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
+        </respStmt>
+        <respStmt>
           <resp>URNs and other metadata added by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
@@ -296,11 +300,15 @@
         Aegyptus, qui ante hos dies concitasti et eduxisti in desertum IIII milia virorum ĪĪLXX XIV
         (e) Claudius moritur in Palatio anno aetatis LXIIII X
       <ab type="source" source="#bib274-1"/>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
         <note xml:lang="en" type="textual">Ed. Helm
           1956</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
         <note xml:lang="en" type="corrigenda">Minor corr.</note>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        
+        
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote274-2">
         <anchor xml:id="testimonia-274.en.1" corresp="#testimonia-274.la.1"/>
@@ -313,10 +321,13 @@
             men out into the desert?” [54 C.E.] 2070 14 (e) Claudius dies in the Palace at the age
             of 64. 10
       <ab type="source" source="#bib274-2"/>
-        <idno type="CTS-URN"/>
-        <ref target="http://www.tertullian.org/fathers/jerome_chronicle_03_part2.htm"/>
         <note xml:lang="en" type="translation">Trans. J. L. Rife with ref. to Pearse
                2005</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref target="http://www.tertullian.org/fathers/jerome_chronicle_03_part2.htm"/>
+        
       </ab>
       <listBibl>
         <head>Works Cited</head>
@@ -326,6 +337,49 @@
         </bibl>
         <bibl xml:id="bib274-2">
           <ptr target="https://caesarea-maritima.org/bibl/7JSD2DS2"/>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

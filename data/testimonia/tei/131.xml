@@ -19,6 +19,10 @@
         <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
       </respStmt>
         <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
+        </respStmt>
+        <respStmt>
         <resp>Electronic text added by</resp>
         <name ref="https://caesarea-maritima.org/documentation/editors.xml#eyonan">Eliana Yonan</name>
       </respStmt>
@@ -310,9 +314,13 @@
         θεός σε διαφυλάξοι, ἀδελφὲ ἀγαπητέ.” Ταῦτα μὲν οὖν βασιλεὺς διεκελεύετο. αὐτίκα δ’ ἔργον
         ἐπηκολούθει τῷ λόγῳ, ἐν πολυτελῶς ἠσκημένοις τεύχεσιν τρισσὰ καὶ τετρασσὰ διαπεμψάντων ἡμῶν
         …<ab type="source" source="#bib131-1"/>
+        <note xml:lang="en" type="textual">Ed. Winkelmann 1991</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref/>
-        <note xml:lang="en" type="textual">Ed. Winkelmann 1991</note>
+        
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote131-2">
         <anchor xml:id="testimonia-131.en.1" corresp="#testimonia-131.grc.1"/>… (A)nd the
@@ -335,8 +343,6 @@
         on his arrival here, will enjoy my generosity. God protect you, dear brother!” So the
         emperor ordered these things, and work immediately followed his instruction, as we [sent]
         threes and fours in lavishly prepared volumes …<ab type="source" source="#bib131-2"/>
-        <idno type="CTS-URN"/>
-        <ref/>
         <note xml:lang="en" type="translation">Adapted from Cameron
           and Hill 1999</note>
         <note type="discussion">The interpolation of “carriages” (ὀχημάτων) from Socrates of
@@ -344,6 +350,11 @@
           wheeled vehicles were to be used for the deacon’s delivery to Constantine. An overland
           journey up the Syrian coast and across Anatolia would have been long and arduous; perhaps
           a trip partly on roads and partly on sealanes was envisioned.</note>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref/>
+        
+        
       </ab>
       <listBibl>
         <head>Works Cited</head>
@@ -354,6 +365,49 @@
         <bibl xml:id="bib131-2">
           <ptr target="https://caesarea-maritima.org/bibl/SWZIE2ME"/>
           <citedRange unit="p">166-167, 326-327</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

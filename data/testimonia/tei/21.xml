@@ -21,6 +21,10 @@
           Potter</name>
         </respStmt>
         <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
+        </respStmt>
+        <respStmt>
           <resp>Electronic text added by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#bgardner">Bianca
           Gardner</name>
@@ -281,16 +285,32 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/21</idno>
       </ab>
       <desc type="abstract" xml:id="abstract21-1">
-        <quote><placeName>τὸν Σεβαστὸν</placeName></quote>, <quote><placeName>τῆς Καισαρείας</placeName></quote>, <quote><placeName>Sebastus</placeName></quote>, and <quote><placeName>Cesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/22143666" role="author">Josephus</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg004" type="uniform" level="m">The Jewish War</title> <ref n="g" target="#bib21-1">1.613-1.616</ref>. This passage was written ca. <origDate period="#nabateanKingdom #earlyRoman #herodian" notBefore="0070" notAfter="0090">70 - 90 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+        <quote>
+          <placeName>τὸν Σεβαστὸν</placeName>
+        </quote>, <quote>
+          <placeName>τῆς Καισαρείας</placeName>
+        </quote>, <quote>
+          <placeName>Sebastus</placeName>
+        </quote>, and <quote>
+          <placeName>Cesarea</placeName>
+        </quote> are directly attested at <persName ref="http://viaf.org/viaf/22143666" role="author">Josephus</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg0526.tlg004" type="uniform" level="m">The Jewish War</title> <ref n="g" target="#bib21-1">1.613-1.616</ref>. This passage was written ca. <origDate period="#nabateanKingdom #earlyRoman #herodian" notBefore="0070" notAfter="0090">70 - 90 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/423025">Rome</origPlace>.</desc>
+      <desc type="context"/>
       <ab type="edition" xml:lang="grc" xml:id="quote21-1">
         <anchor xml:id="testimonia-21.grc.1" corresp="#testimonia-21.en.1"/>
         πείθεται τούτοις, ἐνῆγεν γὰρ τὸ δαιμόνιον, καὶ διαπεράσας εἰς <placeName xml:lang="grc">τὸν Σεβαστὸν</placeName> λιμένα <placeName xml:lang="grc">τῆς Καισαρείας</placeName> κατάγεται. Παρυπήντησεν δ᾽ αὐτῷ παρὰ δόξαν ἐρημία πολλὴ πάντων ἐκτρεπομένων καὶ μηδενὸς προσιέναι τολμῶντος: ἐμισεῖτο μὲν γὰρ ἐπίσης, καὶ τότε φανῆναι τὸ μῖσος ἔσχεν παρρησίαν, πολλοὺς δὲ ὁ ἐκ τοῦ βασιλέως φόβος ἀπέστρεψεν, ἐπειδὴ πᾶσα πόλις ἤδη τῆς κατ᾽ Ἀντιπάτρου φήμης πεπλήρωτο καὶ μόνος ἠγνόει τὰ κατ᾽ αὐτὸν Ἀντίπατρος: οὔτε δὲ προεπέμφθη λαμπρότερόν τις ἐκείνου πλέοντος ἐπὶ Ῥώμης οὔτε ἀτιμότερον ὑπεδέχθη. ὁ δὲ ἤδη μὲν ἐνενόει τὰς οἴκοι συμφοράς, ἔτι δὲ ἐκ πανουργίας ὑπεκρύπτετο καὶ τῷ δέει τεθνηκὼς ἔνδοθεν σοβαρὸς εἶναι τὸ πρόσωπον ἐβιάζετο. φυγὴ δ᾽ οὐκέτι ἦν οὐδ᾽ ἐκ τῶν περιεχόντων ἀνάδυσις, καὶ σαφὲς μὲν οὐδὲ ἐκεῖ τι τῶν οἴκοθεν ἀπηγγέλλετο διὰ τὴν ἐκ τοῦ βασιλέως ἀπειλήν, ὑπελείπετο δὲ ἐλπὶς ἱλαρωτέρα, τάχα μὲν μηδὲν πεφωρᾶσθαι, τάχα δ᾽, εἴ τι καὶ πεφώραται, διασκευάσειν ἀναιδείᾳ καὶ δόλοις, ἅπερ ἦν αὐτῷ μόνα τὰ τῆς σωτηρίας ἐφόδια.<ab type="source" source="#bib21-1"/>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg0526.tlg004.perseus-grc1:1.613-1.616</idno>
         <ref target="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-grc1:1.613-1.616"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote21-2">
         <anchor xml:id="testimonia-21.en.1" corresp="#testimonia-21.grc.1"/>
         Antipater complied with this last advice, for Providence hurried him on [to his destruction]. So he passed over the sea, and landed at <placeName xml:lang="en">Sebastus</placeName>, the haven of <placeName xml:lang="en">Cesarea</placeName>. And here he found a perfect and unexpected solitude, while ever body avoided him, and nobody durst come at him; for he was equally hated by all men; and now that hatred had liberty to show itself, and the dread men were in at the king's anger made men keep from him; for the whole city [of Jerusalem] was filled with the rumors about Antipater, and Antipater himself was the only person who was ignorant of them; for as no man was dismissed more magnificently when he began his voyage to Rome so was no man now received back with greater ignominy. And indeed he began already to suspect what misfortunes there were in Herod's family; yet did he cunningly conceal his suspicion; and while he was inwardly ready to die for fear, he put on a forced boldness of countenance. Nor could he now fly any whither, nor had he any way of emerging out of the difficulties which encompassed him; nor indeed had he even there any certain intelligence of the affairs of the royal family, by reason of the threats the king had given out: yet had he some small hopes of better tidings; for perhaps nothing had been discovered; or if any discovery had been made, perhaps he should be able to clear himself by impudence and artful tricks, which were the only things he relied upon for his deliverance.<ab type="source" source="#bib21-2"/>
+        <note xml:lang="en" type="translation">Trans. {Source}</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN" xml:base="http://data.perseus.org/citations/">urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.608-1.614</idno>
         <ref target="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.608-1.614"/>
       </ab>
@@ -341,6 +361,36 @@
             <forename>Flavius</forename>
             <surname>Josephus</surname>
           </author>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

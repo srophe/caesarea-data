@@ -18,6 +18,10 @@
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
         </respStmt>
         <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
+        </respStmt>
+        <respStmt>
           <resp>Electronic text added by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
@@ -275,7 +279,11 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/202</idno>
          </ab>
          <desc type="abstract" xml:id="abstract202-1">
-        <quote><placeName>Cesarea Palestine</placeName></quote>, and <quote><placeName>Cesarea maritima</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/100899506" role="author">Burchard of Mt. Sion</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Description of the Holy Land</title> <ref n="a" target="#bib202-1">1.3</ref>. This passage was written ca. <origDate notBefore="1274" notAfter="1285" period="#crusader">1274-1285 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
+        <quote>
+          <placeName>Cesarea Palestine</placeName>
+        </quote>, and <quote>
+          <placeName>Cesarea maritima</placeName>
+        </quote> are directly attested at <persName ref="http://viaf.org/viaf/100899506" role="author">Burchard of Mt. Sion</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Description of the Holy Land</title> <ref n="a" target="#bib202-1">1.3</ref>. This passage was written ca. <origDate notBefore="1274" notAfter="1285" period="#crusader">1274-1285 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
          <desc type="context">Burchard of Mt. Sion was a Dominican friar from Magdeburg in Lower
             Saxony who wrote the the most important description of the Holy Land from the 13th
             century. The earliest and longest account of his pilgrimage, which grew particularly
@@ -298,9 +306,13 @@
             Castro Peregrinorum, et se extendens usque Basan contra austrum. Tercia est, cuius
             metropolis est Bethsan, sita sub monte Gelboe iuxta Iordanem. Hec quondam Scythopolis
             dicebatur. Ista Palestina dicitur proprie Galilea sive campus magnus Esdraelon.<ab type="source" source="#bib202-1"/>
+        <note xml:lang="en" type="textual">Laurent 1873</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
-        <note xml:lang="en" type="textual">Laurent 1873</note>
+        
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote202-2">
         <anchor xml:id="testimonia-202.en.1" corresp="#testimonia-202.la.1"/>
@@ -314,10 +326,13 @@
             to Bashan. Palestine III is the one whose capital is Beth Shan, located below Mount
             Gilboa next to the Jordan. This city was formerly called Scythopolis. This Palestine is
             properly called Galilee, or the great Plain of Esdraelon.<ab type="source" source="#bib202-2"/>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
         <note xml:lang="en" type="translation">Trans.
                J. L. Rife with ref. to Pringle 2018</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        
       </ab>
          <listBibl>
         <head>Works Cited</head>
@@ -330,6 +345,49 @@
           <ptr target="https://caesarea-maritima.org/bibl/JPPNQCCZ"/>
           <citedRange unit="ch">1.3</citedRange>
           <citedRange unit="p">244</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

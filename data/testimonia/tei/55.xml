@@ -21,6 +21,10 @@
           Potter</name>
         </respStmt>
         <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
+        </respStmt>
+        <respStmt>
           <resp>Electronic text added by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#bgardner">Bianca
           Gardner</name>
@@ -306,9 +310,13 @@
             κεκομισμένος ἀνάδικα εὐθὺς τὰ δεδικασμένα ἐποίησε. (31) Φαυστῖνος δὲ αὖθις τὸ πρότερον
             ἀξίωμα ἔχων, βασιλεῖ τε ὡμίλει ἐπίτροπός τε καταστὰς τῶν ἐν Παλαιστίνῃ τε καὶ Φοινίκῃ
             βασιλικῶν χωρίων ἀδεέστερον ἅπαντα κατειργάζετο ὅσα οἱ αὐτῷ βουλομένῳ εἴη.<ab type="source" source="#bib55-1"/>
+        <note xml:lang="en" type="textual">Ed. Wirth 1963</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target="http://data.perseus.org/citations/urn:cts:greekLit:tlg4029.tlg002.perseus-grc1:27.26-27.31"/>
-        <note xml:lang="en" type="textual">Ed. Wirth 1963</note>
+        
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote55-2">
         <anchor xml:id="testimonia-55.en.1" corresp="#testimonia-55.grc.1"/>(27) There was a certain Faustinus, born a Palestinian. His ancestry
@@ -325,10 +333,13 @@
             former rank, consorted with the emperor and, when he was appointed overseer of the
             Imperial domains in Palestine and Phoenicia, he could enact all the measures he liked
             without fear of consequences.<ab type="source" source="#bib55-2"/>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
         <note xml:lang="en" type="translation">Adapted from Dewing 1935 and
                Williamson 1966</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        
       </ab>
       <listBibl>
         <head>Works Cited</head>
@@ -346,6 +357,41 @@
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/M5H2RHII"/>
           <citedRange unit="p">97-98</citedRange>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

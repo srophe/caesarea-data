@@ -42,6 +42,10 @@
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
         <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
+        </respStmt>
+        <respStmt>
           <resp>TEI record created by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
@@ -340,10 +344,14 @@
             ἀπὸ χαρίσματος πνεύματος ἁγίου. Καὶ πιστεύσας τοῖς γράμμασι τοῦ μακαρίου Ἰωάννου ὁ
             θεοφιλὴς Πραΰλιος τοῦτον ἀπέλυσεν, παραγγείλας αὐτῷ περαιτέρω ἑπτὰ ἡμερῶν μὴ
                χρονίσαι.<ab type="source" source="#bib480-1"/>
-        <idno type="CTS-URN"/>
-        <ref/>
         <note xml:lang="en" type="textual">Ed. Haupt 1895 and Grégoire and Kugener
                1930</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref/>
+        
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote480-2">
         <anchor xml:id="testimonia-480.en.1" corresp="#testimonia-480.grc.1"/>(11) … And so there was a great confusion (at Gaza over who would
@@ -362,13 +370,16 @@
             power by the grace of the Holy Spirit. The loved-by-God Praÿlius, having put his faith
             in the letter of the blessed John, released (Porphyry), instructing him not to spend
             more than seven days (on the trip to Caesarea).<ab type="source" source="#bib480-2"/>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
         <note xml:lang="en" type="translation">Trans. J. L. Rife with ref. to Hill 1913, Grégoire and Kugener 1930, and Hübner
                2013</note>
         <note xml:lang="en" type="discussion">This passage contains an historical
                error: the events described here occurred when John II was bishop of Jerusalem
                (386-417 C.E.), not Praÿlius (417-422 C.E.). </note>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        
+        
       </ab>
          <listBibl>
         <head>Works Cited</head>
@@ -392,6 +403,36 @@
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/3TJ6P6AJ"/>
           <citedRange unit="p">112-115</citedRange>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

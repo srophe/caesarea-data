@@ -19,6 +19,10 @@
         <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
       </respStmt>
         <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
+        </respStmt>
+        <respStmt>
         <resp>Electronic text added by</resp>
         <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
       </respStmt>
@@ -277,18 +281,34 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/94</idno>
       </ab>
       <desc type="abstract" xml:id="abstract94-1">
-        <quote><placeName>πόλιν Καισάρειαν</placeName></quote>, <quote><placeName>Στράτωνος πύργος</placeName></quote>, <quote><placeName>the city of Caesarea</placeName></quote>, and <quote><placeName>the Tower of Strato</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Church History</title> <ref n="c" target="#bib94-1">2.10.3</ref>. This passage was written ca. <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
+        <quote>
+          <placeName>πόλιν Καισάρειαν</placeName>
+        </quote>, <quote>
+          <placeName>Στράτωνος πύργος</placeName>
+        </quote>, <quote>
+          <placeName>the city of Caesarea</placeName>
+        </quote>, and <quote>
+          <placeName>the Tower of Strato</placeName>
+        </quote> are directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg002" type="uniform" level="m">Church History</title> <ref n="c" target="#bib94-1">2.10.3</ref>. This passage was written ca. <origDate period="#lateRoman #byzantine" notBefore="0312" notAfter="0324">312 - 324 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
+      <desc type="context"/>
       <ab type="edition" xml:lang="grc" xml:id="quote94-1">
         <anchor xml:id="testimonia-94.grc.1" corresp="#testimonia-94.en.1"/>“τρίτον ἔτος αὐτῷ βασιλεύοντι τῆς ὅλης Ἰουδαίας πεπλήρωτο, καὶ παρῆν εἰς <placeName xml:lang="grc">πόλιν Καισάρειαν</placeName>, ἣ τὸ πρότρερον <placeName xml:lang="grc">Στράτωνος πύργος</placeName> ἐκαλεῖτο. συνετέλει δ’ ἐνταυθα θεωρίας εἰς τὴν Καίσαρος τιμὴν, ὑπὲρ τῆς ἐκείνου σωτηρίας ἑορτήν τινα ταύτην ἐπιστάμενος. καὶ παρ’ αὐτὴν ἤθροιστο τῶν κατὰ τὴν ἐπάρχιον ἐν ‘ καὶ προβεβηκότων εἰς ἀξίαν πλῆθος.<ab type="source" source="#bib94-1"/>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg002.1st1K-grc2:2.10.3</idno>
         <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2018.tlg002.1st1K-grc2:2.10.3"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote94-2">
         <anchor xml:id="testimonia-94.en.1" corresp="#testimonia-94.grc.1"/>Now the third year of his reign over all Judaea had been finished when he came to <placeName xml:lang="en">the city of Caesarea</placeName>, which was formerly called <placeName xml:lang="en">the Tower of Strato</placeName>. There he was celebrating games in honor of Caesar, because he knew that this was a kind of feast for his safety, and at it was assembled a multitude of those in office and of high rank in the province.<ab type="source" source="#bib94-2"/>
+        <note xml:lang="en" type="translation">Translation corrected and adapted from its source.</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda">Inaccuracies found in the transcription of the electronic text compared to its printed source have been corrected.</note>
         <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg002.1st1K-eng1:2.10</idno>
         <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2018.tlg002.1st1K-eng1:2.10"/>
-        <note xml:lang="en" type="translation">Translation corrected and adapted from its source.</note>
-        <note xml:lang="en" type="corrigenda">Inaccuracies found in the transcription of the electronic text compared to its printed source have been corrected.</note>
+        
+        
       </ab>
       <listBibl>
         <head>Works Cited</head>
@@ -310,6 +330,36 @@
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/N73TPKH5"/>
           <citedRange unit="section">2.10</citedRange>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

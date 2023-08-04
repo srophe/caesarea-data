@@ -23,6 +23,10 @@
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#dmichelson">David A. Michelson</name>
         </respStmt>
         <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
+        </respStmt>
+        <respStmt>
           <resp>Testimonium translated by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#dmichelson">David A. Michelson</name>
         </respStmt>
@@ -329,7 +333,11 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/513</idno>
          </ab>
          <desc type="abstract" xml:id="abstract513-1">
-        <quote><placeName>ܠܩܣܪܝܐ ܕܦܠܣܛܝܢܐ</placeName></quote>, and <quote><placeName>Caesarea in Palestine</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/13590360" role="author">Zachariah of Mytilene</persName>, <title xml:lang="en" ref="" type="uniform" level="m">The Life of Severus</title> <ref n="a" target="#bib513-1">83-86</ref>. This passage was written ca. <origDate notBefore="0510" notAfter="0530" period="#byzantine">510s-520s</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+        <quote>
+          <placeName>ܠܩܣܪܝܐ ܕܦܠܣܛܝܢܐ</placeName>
+        </quote>, and <quote>
+          <placeName>Caesarea in Palestine</placeName>
+        </quote> are directly attested at <persName ref="http://viaf.org/viaf/13590360" role="author">Zachariah of Mytilene</persName>, <title xml:lang="en" ref="" type="uniform" level="m">The Life of Severus</title> <ref n="a" target="#bib513-1">83-86</ref>. This passage was written ca. <origDate notBefore="0510" notAfter="0530" period="#byzantine">510s-520s</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
          <desc type="context">Zachariah of Mytilene's hagiographic account of the life of the early
             sixth-century anti-Chalcedonian bishop, Severus, patriarch of Antioch, includes brief
             accounts of several other saints. In this testimonium, Zachariah describes a religious
@@ -372,10 +380,14 @@
             ܐܚܪܝܐܝܬ ܕܝܢ ܡܢ ܚܘܒܐ ܣܓܝܐܐ܆ ܐܦ ܢܘܪܐ ܕܦܝܠܣܦܘܬܐ ܐܠܗܝܬܐ ܕܠܩܐ ܗܘܬ ܒܗ܇ ܐܝܟܢܐ ܕܗܘ ܓܠܐ ܠܝ ܟܕ ܥܡܪ
             ܐܢܐ ܥܡܗ ܗܝܕܝܢ. ܐܝܟܢܐ ܕܟܕ ܠܐ ܣܝܒܪ ܗܢܐ ܠܫܠܗܒܝܬܐ ܕܩܪܝܬܐ ܐܠܗܝܬܐ܆ ܠܘܬ [86]ܦܠܣܛܝܢܐ ܪܗܛ ܠܘܬܗ
             ܕܓܒܪܐ ܚܣܝܐ. ܘܬܚܝܬ ܫܘܥܒܕܗ ܗܘܐ܆ ܟܕ ܢܝܪܐ ܕܦܝܠܣܦܘܬܐ ܫܩܠ.<ab type="source" source="#bib513-1"/>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
         <note xml:lang="en" type="textual">Testimonium prepared with reference to Simtho: The Syriac Corpus (version
                0.2).</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote513-2">
         <anchor xml:id="testimonia-513.en.1" corresp="#testimonia-513.syr.1"/>When writing the virtues of God-clad men, of Peter from Iberia, and
@@ -415,9 +427,12 @@
             staying with him at the time—so that he, unable to endure the flame of the divine call,
             hurried to [86] Palestine, to the holy man, and became his subordinate, having accepted
             the yoke of philosophy.<ab type="source" source="#bib513-2"/>
+        <note xml:lang="en" type="translation">Revised from Ambjörn 2008</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
-           <note xml:lang="en" type="translation">Revised from Ambjörn 2008</note>
+           
       </ab>
          <listBibl>
         <head>Works Cited</head>
@@ -434,6 +449,41 @@
         <head>Additional Bibliography</head>
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/4JRMVRF7"/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
       <note type="related-texts"/>

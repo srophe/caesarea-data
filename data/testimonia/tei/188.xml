@@ -19,6 +19,10 @@
         <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
       </respStmt>
         <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
+        </respStmt>
+        <respStmt>
         <resp>Electronic text added by</resp>
         <name ref="https://caesarea-maritima.org/documentation/editors.xml#eyonan">Eliana Yonan</name>
       </respStmt>
@@ -277,17 +281,29 @@
         <idno type="URI">https://caesarea-maritima.org/testimonia/188</idno>
       </ab>
       <desc type="abstract" xml:id="abstract188-1">
-        <quote><placeName>Καισάρειαν θαυμαστὸν</placeName></quote>, and <quote><placeName>gates of Cæsarea,</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg003" type="uniform" level="m">Martyrs of Palestine</title> <ref n="f" target="#bib188-1">4.2</ref>. This passage was written ca. <origDate period="#lateRoman" notBefore="0315" notAfter="0316">315 – 316 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
+        <quote>
+          <placeName>Καισάρειαν θαυμαστὸν</placeName>
+        </quote>, and <quote>
+          <placeName>gates of Cæsarea,</placeName>
+        </quote> are directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>, <title xml:lang="en" ref="urn:cts:greekLit:tlg2018.tlg003" type="uniform" level="m">Martyrs of Palestine</title> <ref n="f" target="#bib188-1">4.2</ref>. This passage was written ca. <origDate period="#lateRoman" notBefore="0315" notAfter="0316">315 – 316 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea</origPlace>.</desc>
+      <desc type="context"/>
       <ab type="edition" xml:lang="grc" xml:id="quote188-1">
         <anchor xml:id="testimonia-188.grc.1" corresp="#testimonia-188.en.1"/>πᾶσι δῆτα συγχύσεως οὐ μικράς ἐπῃωρημένης, καὶ ἄλλων ἄλλοσε διασπειρομένων, διαδρᾶναί τε τὸ δεινὸν ἐπιμελὲς ποιουμένων, χαλεπῆς τε τὸ πᾶν ἐπεχούσης κινήσεως, τίς ἂν ἐξαρκέσειεν ἡμίν λόγος εἰς τὴν ἐπαξίαν διήγησιν τοῦ θείου ἔρωτος καὶ παρρησίας τῆς εἰς θεὸν ὁμολογίας τοῦ μακαρίου καὶ ὡς ἀληθῶς ἀμνοῦ ἀκάκου, μάρτυρος Ἀπφιανοῦ φημὶ, τοῦ πρὸ πυλῶν ἐπὶ θεωρίαν ἅπασι τοῖς κατὰ <placeName xml:lang="grc">Καισάρειαν θαυμαστὸν</placeName> παράδειγμα τῆς εἰς τὸν μόνον θεὸν εὐσεβείας προβεβλημένοu;<ab type="source" source="#bib188-1"/>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/">urn:cts:greekLit:tlg2018.tlg003.1st1K-grc1:4.2</idno>
         <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg2018.tlg003.1st1K-grc1:4.2"/>
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote188-2">
         <anchor xml:id="testimonia-188.en.1" corresp="#testimonia-188.grc.1"/>In consequence, no little confusion arose among all, and they scattered here and there, endeavoring in some way to escape the danger; and there was great commotion everywhere. But what words would suffice for a suitable description of the Divine love and boldness, in confessing God, of the blessed and truly innocent lamb—I refer to the martyr Apphianus—who presented in the sight of all, before the <placeName xml:lang="en">gates of Cæsarea,</placeName> a wonderful example of piety toward the only God?<ab type="source" source="#bib188-2"/>
+        <note xml:lang="en" type="translation">Translation corrected and adapted from its source.</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target="https://ccel.org/ccel/schaff/npnf201/npnf201.iii.xiv.v.html"/>
-        <note xml:lang="en" type="translation">Translation corrected and adapted from its source.</note>
+        
       </ab>
       <listBibl>
         <head>Works Cited</head>
@@ -309,6 +325,36 @@
         <bibl>
           <ptr target="https://caesarea-maritima.org/bibl/BTVVYMAC"/>
           <citedRange unit="section">4.2</citedRange>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

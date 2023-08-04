@@ -42,6 +42,10 @@
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
         <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
+        </respStmt>
+        <respStmt>
           <resp>TEI record created by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
@@ -312,7 +316,11 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/464</idno>
          </ab>
          <desc type="abstract" xml:id="abstract464-1">
-        <quote><placeName>Caesaream Palestinae</placeName></quote>, and <quote><placeName>Caesarea Palestinae</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/166804066">Landolph the Sage</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Miscellaneous History</title> <ref n="b" target="#bib464-1">20.71</ref>. This passage was written ca. <origDate notBefore="0975" notAfter="1010" period="#earlyIslamic">ca. 975-1010 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/432721">Benevento</origPlace>.</desc>
+        <quote>
+          <placeName>Caesaream Palestinae</placeName>
+        </quote>, and <quote>
+          <placeName>Caesarea Palestinae</placeName>
+        </quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/166804066">Landolph the Sage</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Miscellaneous History</title> <ref n="b" target="#bib464-1">20.71</ref>. This passage was written ca. <origDate notBefore="0975" notAfter="1010" period="#earlyIslamic">ca. 975-1010 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/432721">Benevento</origPlace>.</desc>
          <desc type="context">Landolph the Sage (Landolphus Sagax) was a learned historian who lived
             and worked in the Lombard Duchy (Principality) of Benevento during the late 10th to
             early 11th centuries. His detailed history, which continued the narrative of Paul the
@@ -328,12 +336,16 @@
             Valentino lingua Martinae et naso Heraclonae abscisso eisque in exilium destinatis ad
             principatum Constantem filium Constantini, nepotem Heraclii provehunt qui imperavit
             annis viginti et septem.<ab type="source" source="#bib464-1"/>
-        <idno type="CTS-URN"/>
-        <ref/>
         <note xml:lang="en" type="textual">Ed. Crivellucci 1912-1913
                with ref. to Eyssenhardt 1869</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
         <note xml:lang="en" type="corrigenda">Minor corr.
                (spelling)</note>
+        <idno type="CTS-URN"/>
+        <ref/>
+        
+        
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote464-2">
         <anchor xml:id="testimonia-464.en.1" corresp="#testimonia-464.la.1"/>In the first year of the rule of Heraclonas, Mauhias [i.e. Muawiya
@@ -342,10 +354,13 @@
             Heraclonas along with his mother Martina and Valentinus, and Martina’s tongue and
             Heraclonas’ nose were cut off, and they were sentenced to exile. (The Senate) advanced
             to the principate Constans (II), son of Constantine (III) and grandson of Heraclius, and
-            he ruled for 27 years.<note xml:lang="en" type="translation">Trans. J. L.
-               Rife</note>
+            he ruled for 27 years.
         <idno type="CTS-URN"/>
         <ref/>
+      <note xml:lang="en" type="translation">Trans. J. L.
+               Rife</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
       </ab>
          <listBibl>
         <head>Works Cited</head>
@@ -354,6 +369,11 @@
           <citedRange unit="bk">20</citedRange>
           <citedRange unit="ch">71</citedRange>
         </bibl>
+      <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
       </listBibl>
          <listBibl>
         <head>Additional Bibliography</head>
@@ -361,6 +381,41 @@
           <ptr target="https://caesarea-maritima.org/bibl/8N8T2C93"/>
           <citedRange unit="bk">20</citedRange>
           <citedRange unit="ch">71</citedRange>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

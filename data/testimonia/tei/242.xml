@@ -18,6 +18,10 @@
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
         </respStmt>
         <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
+        </respStmt>
+        <respStmt>
           <resp>Electronic text added by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
@@ -287,9 +291,13 @@
         Ἔκτισε δὲ καὶ ἐν <placeName>Καισαρείᾳ τῆς Παλαιστίνης</placeName> λουτρόν, καὶ ἐν Νικομηδείᾳ τῆς Βιθυνίας καὶ ἐν Ἐφέσῳ τῆς Ἀσίας· ἅπερ δημόσια λουτρὰ εἰς
             τὸ ἴδιον ἐπεκάλεσεν ὄνομα.
       <ab type="source" source="#bib242-1"/>
+        <note xml:lang="en" type="textual">Ed. Thurn 2000</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
-        <note xml:lang="en" type="textual">Ed. Thurn 2000</note>
+        
       </ab>
       <ab type="translation" xml:lang="en" xml:id="quote242-2">
         <anchor xml:id="testimonia-242.en.1" corresp="#testimonia-242.grc.1"/>
@@ -297,9 +305,12 @@
         built baths at <placeName>Caesarea Palestinae</placeName> and at Nicomedia of Bithynia and
         at Ephesus in Asia. These public baths he named after himself.
       <ab type="source" source="#bib242-2"/>
+        <note xml:lang="en" type="translation">Adapted from Jeffreys et al. 2017</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
-        <note xml:lang="en" type="translation">Adapted from Jeffreys et al. 2017</note>
+        
       </ab>
       <listBibl>
         <head>Works Cited</head>
@@ -312,6 +323,49 @@
           <ptr target="https://caesarea-maritima.org/bibl/YYEJCD9W"/>
           <citedRange unit="bk">11.25</citedRange>
           <citedRange unit="p">149</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

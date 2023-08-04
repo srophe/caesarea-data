@@ -17,6 +17,10 @@
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
         <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
+        </respStmt>
+        <respStmt>
           <resp>URNs and other metadata added by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
@@ -280,7 +284,13 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/395</idno>
          </ab>
          <desc type="abstract" xml:id="abstract395-1">
-        <quote><placeName>قَيسارية</placeName></quote>, <quote><placeName>قيسارية</placeName></quote>, and <quote><placeName>Qaysāriyya</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/39629789">Al-Yaʿqūbī</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Book of Lands</title> <ref n="a" target="#bib395-1">115-116</ref>. This passage was written ca. <origDate notBefore="0889" notAfter="0890" period="#earlyIslamic">889-890 C.E.</origDate> possibly in <origPlace/>.</desc>
+        <quote>
+          <placeName>قَيسارية</placeName>
+        </quote>, <quote>
+          <placeName>قيسارية</placeName>
+        </quote>, and <quote>
+          <placeName>Qaysāriyya</placeName>
+        </quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/39629789">Al-Yaʿqūbī</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Book of Lands</title> <ref n="a" target="#bib395-1">115-116</ref>. This passage was written ca. <origDate notBefore="0889" notAfter="0890" period="#earlyIslamic">889-890 C.E.</origDate> possibly in <origPlace/>.</desc>
          <desc type="context">Aḥmad b. Isḥāq (Abī Yaʿqūb) bin Jaʿfar bin Wahb bin Wāḍiḥ al-Yaʿqūbī
             (died Egypt, ca. 284 A.H./897 C.E.), or al-Yaʿqūbī, was a Arab historian and geographer
             of the 9th century who wrote <title>Tāʾrīkh Ibn Wāḍiḥ</title> (<title>History of Ibn
@@ -314,10 +324,14 @@
             فلسطين مع ما صار في الضياع يبلغ ثلثمائة الف دينار. ومَنْ اراد ان يسلك من الشام على
             فلسطين الى مكة سلك جبالا خَشِنَة حزنةً حتّى يصير الى أيْلَة ثم ال مَدْيَن ثم يستمّر به
             الطريق مع اهل مصر والمغرب.<ab type="source" source="#bib395-1"/>
-        <idno type="CTS-URN"/>
-        <ref target="https://archive.org/details/kitabalbuldan00yaquuoft/page/37/mode/2up"/>
         <note xml:lang="en" type="textual">ed. Juynboll and de Goeje
                1892</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref target="https://archive.org/details/kitabalbuldan00yaquuoft/page/37/mode/2up"/>
+        
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote395-2">
         <anchor xml:id="testimonia-395.en.1" corresp="#testimonia-395.la.1"/>Section on the military district of Palestine: From the military
@@ -357,9 +371,12 @@
             amounts to 300,000 dinars. Whoever wants to travel from al-Shām by way of Palestine to
             Mecca travels along a rugged, crude mountain area until he reaches Ayla and then Maydan.
             He then continues on the road to the inhabitants of Egypt and North Africa. <ab type="source" source="#bib395-2"/>
+        <note xml:lang="en" type="translation">Trans. T. Marashi with ref. to Gordon et al. 2018</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref/>
-        <note xml:lang="en" type="translation">Trans. T. Marashi with ref. to Gordon et al. 2018</note>
+        
       </ab>
          <listBibl>
         <head>Works Cited</head>
@@ -371,6 +388,49 @@
         <bibl xml:id="bib395-2">
           <ptr target="https://caesarea-maritima.org/bibl/GFRTQ3FQ"/>
           <citedRange unit="section">117-118</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

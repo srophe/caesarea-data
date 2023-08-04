@@ -18,6 +18,10 @@
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
         </respStmt>
         <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
+        </respStmt>
+        <respStmt>
           <resp>Electronic text added by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
@@ -276,7 +280,17 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/51</idno>
          </ab>
          <desc type="abstract" xml:id="abstract51-1">
-        <quote><placeName>Cesaream</placeName></quote>, <quote><placeName>Stratonis</placeName></quote>, <quote><placeName>Cesarea</placeName></quote>, <quote><placeName>Caesarea</placeName></quote>, and <quote><placeName>Strato</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/398143">Wilbrand of Oldenburg</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Journey in the Holy Land</title> <ref n="a" target="#bib51-1">2.2-2.3</ref>. This passage was written ca. <origDate notBefore="1211" notAfter="1212" period="#crusader">1211-1212 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
+        <quote>
+          <placeName>Cesaream</placeName>
+        </quote>, <quote>
+          <placeName>Stratonis</placeName>
+        </quote>, <quote>
+          <placeName>Cesarea</placeName>
+        </quote>, <quote>
+          <placeName>Caesarea</placeName>
+        </quote>, and <quote>
+          <placeName>Strato</placeName>
+        </quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/398143">Wilbrand of Oldenburg</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Journey in the Holy Land</title> <ref n="a" target="#bib51-1">2.2-2.3</ref>. This passage was written ca. <origDate notBefore="1211" notAfter="1212" period="#crusader">1211-1212 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
          <desc type="context">Wilbrand, born to a noble family of Oldenburg in northwestern Germany,
             had a distinguished ecclesiastical career as a prelate in the sees of Paderborn,
             Münster, Osnabrück, and Utrecht up to his death in 1233. He wrote an account of his
@@ -314,10 +328,14 @@
             relinquentes maritimam et incedentes versus meridiem transivimus terram verissime lacte
             et melle fluentem, et peragravimus Rammam.
       <ab type="source" source="#bib51-1"/>
-        <idno type="CTS-URN"/>
-        <ref/>
         <note xml:lang="en" type="textual">Ed. Pringle
                2012</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref/>
+        
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote51-2">
         <anchor xml:id="testimonia-51.en.1" corresp="#testimonia-51.la.1"/>
@@ -349,10 +367,13 @@
             leaving the coast and advancing southwards, we passed over a land truly flowing with
             milk and honey, and we wandered through Ramma.
       <ab type="source" source="#bib51-2"/>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
         <note xml:lang="en" type="translation">Rev. Pringle
                2018</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        
       </ab>
          <listBibl>
         <head>Works Cited</head>
@@ -365,6 +386,49 @@
           <ptr target="https://caesarea-maritima.org/bibl/URWA5GU9"/>
           <citedRange unit="bk">2.2-3</citedRange>
           <citedRange unit="p">85-86</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

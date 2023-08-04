@@ -19,6 +19,10 @@
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
         </respStmt>
         <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
+        </respStmt>
+        <respStmt>
           <resp>URNs and other metadata added by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
         </respStmt>
@@ -283,7 +287,11 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/46</idno>
          </ab>
          <desc type="abstract" xml:id="abstract46-1">
-        <quote><placeName>Καισάρεια</placeName></quote>, and <quote><placeName>Kaisareia</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/88626271">Aelius Herodian</persName>, <title xml:lang="en" type="uniform" level="m">Declension of Nouns</title> <ref n="a" target="#bib46-1">751.25-37</ref>. This passage was written ca. <origDate notBefore="0150" notAfter="0200" period="#lateRoman">150-200 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/727070">Alexandria</origPlace>.</desc>
+        <quote>
+          <placeName>Καισάρεια</placeName>
+        </quote>, and <quote>
+          <placeName>Kaisareia</placeName>
+        </quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/88626271">Aelius Herodian</persName>, <title xml:lang="en" type="uniform" level="m">Declension of Nouns</title> <ref n="a" target="#bib46-1">751.25-37</ref>. This passage was written ca. <origDate notBefore="0150" notAfter="0200" period="#lateRoman">150-200 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/727070">Alexandria</origPlace>.</desc>
         <desc type="context">Aelius Herodian studied and taught language and literature (“grammar”)
             in Alexandria in Egypt, the intellectual and cultural center of the Roman East, before
             moving to Rome as a celebrated scholar later in his career. In his grammatical treatise
@@ -301,9 +309,13 @@
             Κρατείας, Ἀλεξάνδρεια Ἀλεξανδρείας, <placeName>Καισάρεια</placeName> Καισαρείας,
             Ἀντιόχεια Ἀντιοχείας.
          <ab type="source" source="#bib46-1"/>
+        <note xml:lang="en" type="textual">Ed. Lentz 1868</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN" xml:base="https://scaife.perseus.org/reader/"/>
         <ref target="https://scaife-cts.perseus.org/api/cts?request=GetPassage&amp;urn=urn:cts:greekLit:tlg0087.tlg011.1st1K-grc1:2.2.4.127"/>
-        <note xml:lang="en" type="textual">Ed. Lentz 1868</note>
+        
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote46-2">
         <anchor xml:id="testimonia-46.en.1" corresp="#testimonia-46.grc.1"/>
@@ -317,18 +329,69 @@
                <foreign>Krateia-Krateias</foreign>, <foreign>Alexandreia-Alexandreias,</foreign>
         <foreign>
                <placeName>Kaisareia</placeName> -Kaisareias</foreign>,
-               <foreign>Antiocheia-Antiocheias</foreign>.<note xml:lang="en" type="translation">Trans. J. L.
-               Rife</note>
-            <note xml:lang="en" type="discussion">Aelius Herodian quotes “Medeies hyp’ eroti” from Apollonius of
-               Rhodes, <title>Voyage of the Argo</title> 3.31.</note>
+               <foreign>Antiocheia-Antiocheias</foreign>.
+            
             <idno type="CTS-URN"/>
             <ref target=""/>
-         </ab>
+         <note xml:lang="en" type="translation">Trans. J. L.
+               Rife</note>
+        <note xml:lang="en" type="discussion">Aelius Herodian quotes “Medeies hyp’ eroti” from Apollonius of
+               Rhodes, <title>Voyage of the Argo</title> 3.31.</note>
+        <note xml:lang="en" type="corrigenda"/>
+      </ab>
          <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib46-1">
           <ptr target="https://caesarea-maritima.org/bibl/CFHZ6J2I"/>
           <citedRange unit="p">751.25-33</citedRange>
+        </bibl>
+      <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

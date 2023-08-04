@@ -18,6 +18,10 @@
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#wpotter">William L. Potter</name>
         </respStmt>
         <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
+        </respStmt>
+        <respStmt>
           <resp>Electronic text added by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
@@ -275,7 +279,11 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/129</idno>
          </ab>
          <desc type="abstract" xml:id="abstract129-1">
-        <quote><placeName>Καισάρειαν τῆς Παλαιστίνης</placeName></quote>, and <quote><placeName>Caesarea Palestinae</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Dictionary of Place Names</title> <ref n="a" target="#bib129-1">78</ref>. This passage was written ca. <origDate notBefore="0290" notAfter="0325" period="#lateRoman #byzantine">290-325 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</desc>
+        <quote>
+          <placeName>Καισάρειαν τῆς Παλαιστίνης</placeName>
+        </quote>, and <quote>
+          <placeName>Caesarea Palestinae</placeName>
+        </quote> are directly attested at <persName ref="http://viaf.org/viaf/4929593" role="author">Eusebius of Caesarea</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Dictionary of Place Names</title> <ref n="a" target="#bib129-1">78</ref>. This passage was written ca. <origDate notBefore="0290" notAfter="0325" period="#lateRoman #byzantine">290-325 CE</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/678401">Caesarea Maritima</origPlace>.</desc>
          <desc type="context">In his lexicon of place names in Hebrew Scripture, Eusebius wrote that
             Dor of Nafath named at <title>Joshua</title> 11:12 is located near Caesarea Maritima. He
             also cited the Greek translation of by Symmachus in the late 2nd century C.E. The same
@@ -286,24 +294,79 @@
         Δῶρ τοῦ Ναφάθ. Σʹ Δὼρ “τῆς παραλίας”, αὕτη ἐστὶ Δῶρα ἡ πρὸς
                <placeName>Καισάρειαν τῆς Παλαιστίνης</placeName> ἀπὸ σημείων θʹ ἀπιόντων Τυρὸν, νῦν
             ἔρημος, ἣν οὐκ ἔλαβεν ἡ φυλὴ Μανασσῆ, ὅτι μὴ ἀνεῖλεν τοὺς ἐν αὐτῇ ἀλλοφύλους.<ab type="source" source="#bib129-1"/>
+        <note type="textual" xml:lang="en">Ed. Klosterman 1904</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target=""/>
-        <note type="textual" xml:lang="en">Ed. Klosterman 1904</note>
+        
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote129-2">
         <anchor xml:id="testimonia-129.en.1" corresp="#testimonia-129.grc.1"/>
         Dor of Nafath. Symmachus: Dor “by the Sea”. This is the Dor near
                <placeName>Caesarea Palestinae</placeName>, nine milestones away for those travelling
             to Tyre, now deserted, which the tribe of Manasseh did not take because they could not
-            expel the foreign tribes there.<note xml:lang="en" type="translation">Trans. J. L. Rife</note>
+            expel the foreign tribes there.
         <idno type="CTS-URN"/>
         <ref target=""/>
+      <note xml:lang="en" type="translation">Trans. J. L. Rife</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
       </ab>
          <listBibl>
         <head>Works Cited</head>
         <bibl xml:id="bib129-1">
           <ptr target="https://caesarea-maritima.org/bibl/ARSF2XBM"/>
           <citedRange unit="p">78</citedRange>
+        </bibl>
+      <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">

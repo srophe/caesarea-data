@@ -42,6 +42,10 @@
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
         <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
+        </respStmt>
+        <respStmt>
           <resp>TEI record created by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
@@ -312,7 +316,11 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/494</idno>
          </ab>
          <desc type="abstract" xml:id="abstract494-1">
-        <quote><placeName>Καισάρειαν</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/8181483">Cyril of Scythopolis</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Life of Sabas</title> <ref n="e" target="#bib494-1">75.179.26-75.180.2</ref>. This passage was written ca. <origDate notBefore="0544" notAfter="0558" period="#byzantine">ca. 544-558 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
+        <quote>
+          <placeName>Καισάρειαν</placeName>
+        </quote>, and <quote>
+          <placeName>Caesarea</placeName>
+        </quote> are directly attested at <persName role="author" ref="http://viaf.org/viaf/8181483">Cyril of Scythopolis</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Life of Sabas</title> <ref n="e" target="#bib494-1">75.179.26-75.180.2</ref>. This passage was written ca. <origDate notBefore="0544" notAfter="0558" period="#byzantine">ca. 544-558 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/687995">Palestine</origPlace>.</desc>
          <desc type="context">Cyril from Scythopolis (ca. 525-559 C.E.) was a monk who wrote
             detailed hagiographies of seven roughly contemporary monks. His works are essential
             historical sources for Palestinian monasticism, theology, and political relationships
@@ -327,19 +335,26 @@
             παρακληθεὶς ὁ πατὴρ ἡμῶν Σάβας ὑπό τε τοῦ ἀρχιεπισκόπου ἡμῶν καὶ τῶν λοιπῶν ἐπισκόπων
             ἀπέρχεται ἐπὶ <placeName>Καισάρειαν</placeName> καὶ Σκυθόπολιν τὰς αὐτὰς κἀκεῖσε
             ἐμφανίσαι κελεύσεις.<ab type="source" source="#bib494-1"/>
+        <note xml:lang="en" type="textual">Ed. Schwatrz 1939</note>
+        <note xml:lang="en" type="textual"/>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
         <idno type="CTS-URN"/>
         <ref target="https://archive.org/details/EduardSchwartzKyrillosVonSkythopolis/page/179/mode/2up?view=theater"/>
-        <note xml:lang="en" type="textual">Ed. Schwatrz 1939</note>
+        
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote494-2">
         <anchor xml:id="testimonia-494.en.1" corresp="#testimonia-494.grc.1"/>And so when the Imperial rescripts had been published at Jerusalem,
             as has been said, our father Sabas, at the request of our archbishop and the other
             bishops, departed for <placeName>Caesarea</placeName> and Scythopolis to publish the
             same rescripts there.<ab type="source" source="#bib494-2"/>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
         <note xml:lang="en" type="translation">Revised from Price and Binns
                1990</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        
       </ab>
          <listBibl>
         <head>Works Cited</head>
@@ -351,6 +366,49 @@
         <bibl xml:id="bib494-2">
           <ptr target="https://caesarea-maritima.org/bibl/9J45G6HK"/>
           <citedRange unit="p">188-189</citedRange>
+        </bibl>
+      </listBibl>
+      <listBibl>
+        <head>Additional Bibliography</head>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts"/>

@@ -42,6 +42,10 @@
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
         <respStmt>
+          <resp>Testimonium edited by</resp>
+          <name ref=""/>
+        </respStmt>
+        <respStmt>
           <resp>TEI record created by</resp>
           <name ref="https://caesarea-maritima.org/documentation/editors.xml#jrife">Joseph L. Rife</name>
         </respStmt>
@@ -312,7 +316,11 @@
             <idno type="URI">https://caesarea-maritima.org/testimonia/455</idno>
          </ab>
          <desc type="abstract" xml:id="abstract455-1">
-        <quote><placeName>τῇ Καισαρείᾳ</placeName></quote>, and <quote><placeName>Caesarea</placeName></quote> are directly attested at <persName ref="http://viaf.org/viaf/55571017" role="author">Socrates of Constantinople</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Church History</title> <ref n="o" target="#bib455-1">4.27.1-4.27.8</ref>. This passage was written ca. <origDate notBefore="0439" notAfter="0450" period="#byzantine">ca. 439-450 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
+        <quote>
+          <placeName>τῇ Καισαρείᾳ</placeName>
+        </quote>, and <quote>
+          <placeName>Caesarea</placeName>
+        </quote> are directly attested at <persName ref="http://viaf.org/viaf/55571017" role="author">Socrates of Constantinople</persName>, <title xml:lang="en" ref="" type="uniform" level="m">Church History</title> <ref n="o" target="#bib455-1">4.27.1-4.27.8</ref>. This passage was written ca. <origDate notBefore="0439" notAfter="0450" period="#byzantine">ca. 439-450 C.E.</origDate> possibly in <origPlace ref="https://pleiades.stoa.org/places/520998">Constantinople</origPlace>.</desc>
          <desc type="context">Socrates of Constantinople, the “Scholastic,” was an otherwise unknown
             historian of the early 5th century. He wrote his account of the Church from 305 to 439
             to continue Eusebius of Caesarea, adopting a particular perspective on the relationship
@@ -338,12 +346,16 @@
             κεφαλαίῳ εἰπεῖν, &lt;τρεῖς&gt; Γρηγόριοι, ὅ τε ἀρχαῖος οὗτος καὶ μαθητὴς Ὠριγένους, καὶ ὁ
             Ναζιανζηνὸς καὶ ὁ ἀδελφὸς Βασιλείου. (8) Ἐγένετο δὲ καὶ ἄλλος Γρηγόριος ἐν Ἀλεξανδρείᾳ,
             ὃν οἱ Ἀρειανοὶ κατὰ τὸν καιρὸν τῆς φυγῆς Ἀθανασίου κατέστησαν.<ab type="source" source="#bib455-1"/>
-        <idno type="CTS-URN"/>
-        <ref target=""/>
         <note xml:lang="en" type="textual">Ed. Hussey and Bright 1893 with ref. to Hansen 1995</note>
         <note xml:lang="en" type="textual">Hansen inserted the reference to Eusebius (&lt;καὶ
                Εὐσέβιος ὁ τούτου ἐπώνυμος&gt;, §6) from the Armenian and Syriac texts; Perichon and
                Maraval 2004-2007, vol. 3, p. 116 n. 1.</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref target=""/>
+        
+        
       </ab>
          <ab type="translation" xml:lang="en" xml:id="quote455-2">
         <anchor xml:id="testimonia-455.en.1" corresp="#testimonia-455.grc.1"/>(1) But since some people are confused by the similarity of the name
@@ -367,10 +379,13 @@
             second was the bishop of Nazianzus; the third was Basil’s brother. There was another
             Gregory in Alexandria, whom the Arians installed as bishop during the exile of
                Athanasius.<ab type="source" source="#bib455-2"/>
-        <idno type="CTS-URN"/>
-        <ref target="https://archive.org/details/in.ernet.dli.2015.98162/page/n137/mode/2up"/>
         <note xml:lang="en" type="translation">Adapted from Zenos 1890 and
                Périchon and Maraval 2004-2007</note>
+        <note xml:lang="en" type="discussion"/>
+        <note xml:lang="en" type="corrigenda"/>
+        <idno type="CTS-URN"/>
+        <ref target="https://archive.org/details/in.ernet.dli.2015.98162/page/n137/mode/2up"/>
+        
       </ab>
          <listBibl>
         <head>Works Cited</head>
@@ -395,6 +410,36 @@
           <ptr target="https://caesarea-maritima.org/bibl/K6BV8Z5T"/>
           <citedRange unit="vol">3</citedRange>
           <citedRange unit="p">116-119</citedRange>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
+        </bibl>
+        <bibl>
+          <ptr target=""/>
+          <citedRange unit=""/>
+          <citedRange unit=""/>
         </bibl>
       </listBibl>
     <note type="related-texts">
