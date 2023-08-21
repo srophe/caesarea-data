@@ -1,37 +1,23 @@
 <collection xmlns="http://exist-db.org/collection-config/1.0">
     <index xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:srophe="https://srophe.app">
         <lucene diacritics="no">
-            <module uri="http://srophe.org/srophe/facets" prefix="sf"
-                at="xmldb:exist:////db/apps/caesarea/modules/lib/facets.xql"/>
+            <module uri="http://srophe.org/srophe/facets" prefix="sf" at="xmldb:exist:////db/apps/caesarea/modules/lib/facets.xql"/>
             <text qname="tei:body">
-                <facet dimension="subjects"
-                    expression="descendant::tei:relation[@ref='dc:subject' and @type='subject']/tei:desc"/>
-                <facet dimension="work"
-                    expression="sf:facet(descendant-or-self::tei:body, '/db/apps/caesarea/facet-def.xml', 'work')"/>
-                <facet dimension="author"
-                    expression="sf:facet(descendant-or-self::tei:body, '/db/apps/caesarea/facet-def.xml', 'author')"/>
-                <facet dimension="biblAuthors"
-                    expression="descendant::tei:biblStruct/descendant::tei:surname"/>
-                <facet dimension="eraComposed"
-                    expression="sf:facet(descendant-or-self::tei:body, '/db/apps/caesarea/facet-def.xml', 'eraComposed')"/>
-                <facet dimension="placeComposed"
-                    expression="sf:facet(descendant-or-self::tei:body, '/db/apps/caesarea/facet-def.xml', 'placeComposed')"/>
-                <facet dimension="eraMentioned"
-                    expression="sf:facet(descendant-or-self::tei:body, '/db/apps/caesarea/testimonia/facet-def.xml', 'eraMentioned')"/>
-                <facet dimension="originalLanguage"
-                    expression="sf:facet(descendant-or-self::tei:body, '/db/apps/caesarea/facet-def.xml', 'originalLanguage')"/>
-                <facet dimension="languageTestimonium"
-                    expression="sf:facet(descendant-or-self::tei:body, '/db/apps/caesarea/testimonia/facet-def.xml', 'languageTestimonium')"/>
-                <facet dimension="publicationDate"
-                    expression="descendant::tei:biblStruct/descendant::tei:imprint/tei:date"/>
-                <!-- Predetermined sort fields -->
+                <facet dimension="subjects" expression="descendant::tei:relation[@ref='dc:subject' and @type='subject']/tei:desc"/>
+                <facet dimension="work" expression="ancestor::tei:TEI/descendant::tei:profileDesc/tei:creation/tei:title[@type='uniform']"/>
+                <facet dimension="author" expression="ancestor::tei:TEI/descendant::tei:profileDesc/tei:creation/tei:persName[@role='author']"/>
+                <facet dimension="biblAuthors" expression="descendant::tei:biblStruct/descendant::tei:surname"/>
+                <facet dimension="eraComposed" expression="sf:facet(descendant-or-self::tei:body, '/db/apps/caesarea/testimonia/facet-def.xml', 'eraComposed')"/>
+                <facet dimension="placeComposed" expression="ancestor::tei:TEI/descendant::tei:profileDesc/tei:creation/tei:origPlace"/>
+                <facet dimension="eraMentioned" expression="sf:facet(descendant-or-self::tei:body, '/db/apps/caesarea/testimonia/facet-def.xml', 'eraMentioned')"/>
+                <facet dimension="originalLanguage" expression="sf:facet(descendant-or-self::tei:body, '/db/apps/caesarea/testimonia/facet-def.xml', 'originalLanguage')"/>
+                <facet dimension="languageTestimonium" expression="sf:facet(descendant-or-self::tei:body, '/db/apps/caesarea/testimonia/facet-def.xml', 'languageTestimonium')"/>
+                <facet dimension="publicationDate" expression="descendant::tei:biblStruct/descendant::tei:imprint/tei:date"/><!-- Predetermined sort fields -->
                 <field name="title" expression="sf:field(descendant-or-self::tei:body,'title')"/>
                 <field name="author" expression="sf:field(descendant-or-self::tei:body, 'author')"/>
                 <field name="pubDate" expression="sf:field(descendant-or-self::tei:body, 'pubDate')"/>
-                <field name="citationNo"
-                    expression="sf:field(descendant-or-self::tei:body, 'citationNo')"/>
-                <field name="sortField"
-                    expression="sf:field(descendant-or-self::tei:body, 'sortField')"/>
+                <field name="citationNo" expression="sf:field(descendant-or-self::tei:body, 'citationNo')"/>
+                <field name="sortField" expression="sf:field(descendant-or-self::tei:body, 'sortField')"/>
             </text>
             <text qname="tei:fileDesc"/>
             <text qname="tei:biblStruct"/>
@@ -39,6 +25,7 @@
             <text qname="tei:author" boost="5.0"/>
             <text qname="tei:persName" boost="5.0"/>
             <text qname="tei:placeName" boost="5.0"/>
+            <text qname="tei:origPlace" boost="5.0"/>
             <text qname="tei:title" boost="10.5"/>
             <text qname="tei:desc" boost="2.0"/>
         </lucene>
