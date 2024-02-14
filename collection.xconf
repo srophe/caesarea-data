@@ -1,62 +1,9 @@
-<collection xmlns="http://exist-db.org/collection-config/1.0">
-    <index xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:srophe="https://srophe.app">
-        <lucene diacritics="no">
-            <module uri="http://srophe.org/srophe/facets" prefix="sf" at="xmldb:exist:////db/apps/caesarea/modules/lib/facets.xql"/>
-            <text qname="tei:body">
-                <facet dimension="subjects" expression="descendant::tei:relation[@ref='dc:subject' and @type='subject']/tei:desc"/>
-                <facet dimension="work" expression="ancestor::tei:TEI/descendant::tei:profileDesc/tei:creation/tei:title[@type='uniform']"/>
-                <facet dimension="author" expression="ancestor::tei:TEI/descendant::tei:profileDesc/tei:creation/tei:persName[@role='author']"/>
-                <facet dimension="biblAuthors" expression="descendant::tei:biblStruct/descendant::tei:surname"/>
-                <facet dimension="eraComposed" expression="sf:facet(descendant-or-self::tei:body, '/db/apps/caesarea/testimonia/facet-def.xml', 'eraComposed')"/>
-                <facet dimension="placeComposed" expression="ancestor::tei:TEI/descendant::tei:profileDesc/tei:creation/tei:origPlace"/>
-                <facet dimension="eraMentioned" expression="sf:facet(descendant-or-self::tei:body, '/db/apps/caesarea/testimonia/facet-def.xml', 'eraMentioned')"/>
-                <facet dimension="originalLanguage" expression="sf:facet(descendant-or-self::tei:body, '/db/apps/caesarea/testimonia/facet-def.xml', 'originalLanguage')"/>
-                <facet dimension="languageTestimonium" expression="sf:facet(descendant-or-self::tei:body, '/db/apps/caesarea/testimonia/facet-def.xml', 'languageTestimonium')"/>
-                <facet dimension="publicationDate" expression="descendant::tei:biblStruct/descendant::tei:imprint/tei:date"/><!-- Predetermined sort fields -->
-                <field name="title" expression="sf:field(descendant-or-self::tei:body,'title')"/>
-                <field name="author" expression="sf:field(descendant-or-self::tei:body, 'author')"/>
-                <field name="pubDate" expression="sf:field(descendant-or-self::tei:body, 'pubDate')"/>
-                <field name="citationNo" expression="sf:field(descendant-or-self::tei:body, 'citationNo')"/>
-                <field name="sortField" expression="sf:field(descendant-or-self::tei:body, 'sortField')"/>
-            </text>
+<collection xmlns="http://exist-db.org/collection-config/1.0"><index xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:srophe="https://srophe.app"><lucene diacritics="no"><module uri="http://srophe.org/srophe/facets" prefix="sf" at="xmldb:exist:////db/apps/caesarea/modules/lib/facets.xql"/><text qname="tei:TEI"><facet dimension="subjects" expression="descendant::tei:relation[@ref='dc:subject' and @type='subject']/tei:desc"/><facet dimension="work" expression="descendant::tei:profileDesc/tei:creation/tei:title[@type='uniform']"/><facet dimension="author" expression="descendant::tei:profileDesc/tei:creation/tei:persName[@role='author']"/><facet dimension="biblAuthors" expression="descendant::tei:biblStruct/descendant::tei:surname"/><facet dimension="eraComposed" expression="sf:facet(., '/db/apps/caesarea/testimonia/facet-def.xml', 'eraComposed')"/><facet dimension="placeComposed" expression="descendant::tei:profileDesc/tei:creation/tei:origPlace"/><facet dimension="eraMentioned" expression="sf:facet(., '/db/apps/caesarea/testimonia/facet-def.xml', 'eraMentioned')"/><facet dimension="originalLanguage" expression="sf:facet(., '/db/apps/caesarea/testimonia/facet-def.xml', 'originalLanguage')"/><facet dimension="publicationDate" expression="descendant::tei:biblStruct/descendant::tei:imprint/tei:date"/><facet dimension="languageTestimonium" expression="sf:facet(., '/db/apps/caesarea/testimonia/facet-def.xml', 'languageTestimonium')"/><!-- Predetermined sort fields --><field name="title" expression="sf:field(.,'title')"/><field name="author" expression="sf:field(., 'author')"/><field name="pubDate" expression="sf:field(., 'pubDate')"/><field name="pubPlace" expression="sf:field(., 'pubPlace')"/><field name="publisher" expression="sf:field(., 'publisher')"/><field name="citationNo" expression="sf:field(., 'citationNo')"/><field name="sortField" expression="sf:field(., 'sortField')"/><field name="online" expression="sf:field(., 'online')"/><field name="placeName" expression="sf:field(., 'placeName')"/></text><!--
             <text qname="tei:fileDesc"/>
             <text qname="tei:biblStruct"/>
             <text qname="tei:div"/>
             <text qname="tei:author" boost="5.0"/>
-            <text qname="tei:persName" boost="5.0"/>
-            <text qname="tei:placeName" boost="5.0"/>
             <text qname="tei:origPlace" boost="5.0"/>
             <text qname="tei:title" boost="10.5"/>
             <text qname="tei:desc" boost="2.0"/>
-        </lucene>
-        <range>
-            <create qname="@syriaca-computed-start" type="xs:date"/>
-            <create qname="@syriaca-computed-end" type="xs:date"/>
-            <create qname="@type" type="xs:string"/>
-            <create qname="@ana" type="xs:string"/>
-            <create qname="@syriaca-tags" type="xs:string"/>
-            <create qname="@srophe:tags" type="xs:string"/>
-            <create qname="@when" type="xs:string"/>
-            <create qname="@target" type="xs:string"/>
-            <create qname="@who" type="xs:string"/>
-            <create qname="@ref" type="xs:string"/>
-            <create qname="@uri" type="xs:string"/>
-            <create qname="@where" type="xs:string"/>
-            <create qname="@active" type="xs:string"/>
-            <create qname="@passive" type="xs:string"/>
-            <create qname="@mutual" type="xs:string"/>
-            <create qname="@name" type="xs:string"/>
-            <create qname="@xml:lang" type="xs:string"/>
-            <create qname="@level" type="xs:string"/>
-            <create qname="@status" type="xs:string"/>
-            <create qname="@role" type="xs:string"/>
-            <create qname="tei:idno" type="xs:string"/>
-            <create qname="tei:title" type="xs:string"/>
-            <create qname="tei:geo" type="xs:string"/>
-            <create qname="tei:relation" type="xs:string"/>
-            <create qname="tei:persName" type="xs:string"/>
-            <create qname="tei:placeName" type="xs:string"/>
-            <create qname="tei:author" type="xs:string"/>
-        </range>
-    </index>
-</collection>
+            --></lucene><range><create qname="@syriaca-computed-start" type="xs:date"/><create qname="@syriaca-computed-end" type="xs:date"/><create qname="@type" type="xs:string"/><create qname="@ana" type="xs:string"/><create qname="@syriaca-tags" type="xs:string"/><create qname="@srophe:tags" type="xs:string"/><create qname="@when" type="xs:string"/><create qname="@target" type="xs:string"/><create qname="@who" type="xs:string"/><create qname="@ref" type="xs:string"/><create qname="@uri" type="xs:string"/><create qname="@where" type="xs:string"/><create qname="@active" type="xs:string"/><create qname="@passive" type="xs:string"/><create qname="@mutual" type="xs:string"/><create qname="@name" type="xs:string"/><create qname="@xml:lang" type="xs:string"/><create qname="@level" type="xs:string"/><create qname="@status" type="xs:string"/><create qname="@role" type="xs:string"/><create qname="tei:idno" type="xs:string"/><create qname="tei:title" type="xs:string"/><create qname="tei:geo" type="xs:string"/><create qname="tei:relation" type="xs:string"/><create qname="tei:persName" type="xs:string"/><create qname="tei:placeName" type="xs:string"/><create qname="tei:author" type="xs:string"/></range></index></collection>
